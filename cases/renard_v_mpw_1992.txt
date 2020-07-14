@@ -1,0 +1,74 @@
+
+
+======Renard Constructions (ME) Pty Ltd v Minister for Public Works (1992) 26 NSWLR 234======
+
+
+**Court**: [[NSW Court of Appeal]]
+
+**Judges**: Priestley JA, Meagher JA and Handley JA
+
+**Date decided**: 12 March 1992
+
+This case is considered to have started the development of good faith in Australian contract law. The implication of good faith is a controversial topic, and is far from settled.
+
+A building contract contained a clause which provided that upon default, the contractor could be required to show cause as to why the contract should not be terminated. After the deadline for completion had been extended several times, at least in part because of the principal's failure to deliver required supplies, the principal issued a letter to show cause, and the contract responded that it was willing and able to complete the contract within a reasonable time. 
+
+The principal's agent who was authorised to make a decision to terminate was not made aware of the effect of the principal's non-supply of essential parts, nor that the contractor had “increased the work force, was working longer hours and had brought in a new, highly
+experienced foreman.”(((1992) 26 NSWLR 234, 240.)) The principal's agent purported to terminate the contract and take over construction.
+
+The contractor treated the conduct as a wrongful repudiation, asserted that it rescinded the contract, and began arbitration proceedings under the contract. The contractor argued that there was an implied duty of good faith, and that it was
+
+> "... unreasonable for The Respondent [the Principal] to allow The Claimant [the Contractor] to carry out the works of The Contract for months during which the most difficult, unprofitable and tedious part of the works were constructed and then allege an unsatisfactory rate of progress and exclude him from the site during the final weeks of the works, when it was quite evident to a reasonable person that The Claimant was willing and able to complete the works, and would do so within four to six weeks. This exclusion, which prevented him from completing that which he had bargained for, was unreasonable and lacking in 'good faith'."((242.))
+
+The arbitrator concluded that it was unreasonable for the principal to take over the work, and the principal's actions amounted to a repudiation of the contract.((247.)) The principal successfully appealed on the basis that there was no requirement in the contract that the principal act reasonably. Cole J held that there was a requirement that the principal give the response from the contractor a “bona fide, proper and due consideration”((Minister for Public Works v Renard Constructions (ME) Pty Ltd (Cole J, 26 October 1989, unreported), 18, extracted at 248)), but no more.
+
+=====Reasons: Priestley JA=====
+
+Upon appeal to the Court of Appeal, Priestley JA would have held that the appeal from the arbitrator's decision should be set aside, on the basis that the arbitration had been conducted on the basis that there was a reasonableness requirement, and there was no suggestion at the time that it should be conducted on any other basis.((254.)) However, His Honour did not follow this course, as it would prejudice the potential cost awards, and continued to consider the appeal as pleaded.
+
+Considering whether a term of reasonableness was implied, Priestley JA proceeded to examine implication by fact and implication by law. In the first case, on the objective construction of the contract, His Honour concluded that:
+>it seems to me relatively obvious that an objective and reasonable outsider to this contract upon reading subcl 44.1 would assume without serious question that the principal would have to give reasonable consideration to the question whether the contractor had failed to show cause and then, if the principal had reasonably concluded that the contractor had failed, that reasonable consideration must be given to whether any power and if any which power should be exercised.((257.))
+
+Priestley JA held that the requirement of reasonableness satisifed the tests for implication ad hoc((257, citing United States Surgical Corporation v Hospital Products International Pty Ltd [1983] 2 NSWLR 157 at 196; Hospital Products Ltd v United States Surgical Corporation (1984) 156 CLR 41 at 66 per Gibbs CJ; Professor Lucke "Ad Hoc Implications in Written Contracts" (1973-1976) 5 Adelaide Law Review 32.)). Priestley JA gave extended consideration to whether the term was required for business efficacy. His Honour concluded that a contract which allowed termination upon any default would “make the contract as a matter of business quite unworkable.”((258.)) His Honour continued:
+> One way of explaining this view is to say that no contractor in his senses would enter into a contract under which such a thing could happen. The reasonable contractor, the reasonable principal and the reasonable looker-on would all assume that such a result could not come about except with good reason.((258.))
+
+Priestley JA considered that a requirement of reasonableness was implied in fact in the present contract, but considered that such a requirement would also be implied in other contracts of the same type, drawing a considerable overlap between implication by fact and implication at law.((260-1.)) As to whether such a term satisfied the requirements of necessity, His Honour considered that necessity should not be used in the absolute sense:
+>In regard to classes of contract to which particular implications have been recognised as attaching, it is not possible to say that the implication was always necessary, in the sense that the contracts could not have worked without the implied term. Contracts of sale, contracts of employment, and leases are three classes of contract to which such terms have been attached. In all cases it would have been possible for the main purposes of the contracts to have been attained without the implications the judges have held they include. The rules in regard to each of them have come into existence not because in the particular cases giving rise to recognition of the implication it has been thought that it would be impossible for such contracts to be made and carried out without the implications, but because the Court decided it would be better or more appropriate or more reasonable in accordance with the contemporary thinking of the judges and parties concerned with such contracts that the term should be implied than that it should not. The idea is conveyed I think by Holmes's phrase "The felt necessities of the time" where necessity has the sense of something required in accordance with current standards of what ought to be the case, rather than anything more absolute.
+>This seems to me to be the approach that should be adopted when considering implication by law, and, applying it to contracts of the class now being considered, requirements of reasonableness on the part of the principal should in my opinion be implied in subcl 44.1 both at the stage when the principal is considering whether the contractor has failed to show
+cause within the period specified to the satisfaction of the principal and also at the stage when the principal, the contractor having failed to show cause etc, is considering whether to exercise one or more of the powers.((261-2.))
+====Good faith====
+While he did not make a finding on the matter, Priestley JA went into great depth on the development of an implied duty of good faith in performance of contracts under Australian law. His Honour considered that 
+>Although this implication has not yet been accepted to the same extent in Australia as part of judge-made Australian contract law, there are many indications that the time may be fast approaching when the idea, long recognised as implicit in many of the orthodox techniques of solving contractual disputes, will gain explicit recognition in the same way as it has in Europe and in the United States.((263-4.))
+
+His Honour noted the development of the US common law to include a general duty of good faith,((265.)) concluding:
+
+>The importance of these developments in the United States for Australian purposes is the cumulative effect of the following: (i) they grew out of the same common law background as that of Australian law; (ii) under the stimulus first of academic systematisation of the accumulation of good faith cases and second the interaction of that with the Uniform Commercial Code, general contract law came quickly to recognise (or reinstate) the pervasive principle of the good faith obligation; (iii) despite the difficulties in precise statement of the obligation its use seems to have been generally accepted in a highly commercial country -- throughout the period of the modern revival of the obligation the business of America has largely been business – and (iv) there has been little if anything to indicate that recognition of the obligation has caused any significant difficulty in the operation of contract law in the United States. When the broad similarity of economic and social conditions in Australia and the United States is taken into account the foregoing matters all seem to me to argue strongly for recognition in Australia of the obligation similar to that in the United States.((267-8.))
+
+Priestley JA also considered that the increased legislative interference with freedom to contract  had the result
+
+>that people generally, including judges and other lawyers, from all strands of the community, have grown used to the courts applying standards of fairness to contract which are wholly consistent with the existence in all contracts of a duty upon the parties of good faith and fair dealing in its performance. In my view this is in these days the expected standard, and anything less is contrary to prevailing community expectations.((268.))
+
+=====Reasons: Meagher JA=====
+Meagher JA decided on the basis of interpretation of the words of the contract, holding that it was impossible for the principal to be 'satisfied' where his mind “was so distorted by prejudice and misinformation that he was unable to comprehend the facts in respect to which he had to pass judgment.”((276.))
+
+=====Reasons: Handley JA=====
+
+Handley JA held that there was a requirement of reasonableness implied in the power to terminate, and concluded that “that the principal's decision, however honest,
+was objectively unreasonable and therefore an invalid exercise of the power.”((279, relying on Amann Aviation Pty Ltd v Commonwealth of Australia (1990) 22 FCR 527 at 532, 542-544; 92 ALR 601 at 607; 616-618 and The Commonwealth v Amann Aviation Pty Ltd (1991) 66
+ALJR 123; 104 ALR 1.))
+
+Handley JA considered that the power was very broad:
+>The power conferred on the principal by cl 44.1 is to vary ("take over the whole or any part of the work") or cancel the contract. The power arises on the happening of any breach, however minor, and whenever the breach occurs. It also arises upon the contractor neglecting to comply with any direction given by the principal, however minor, accidental or temporary that neglect might be, and regardless of the importance or otherwise of the subject matter. This express power therefore covers many cases where the principal would have no power to rescind the contract for breach under the general law.((279.))
+
+Handley JA considered, however, that there were “three other matters which support the existence of some restraint on their exercise apart from the normal requirement of honesty.”((280.))
+
+1. The existence of a show cause clause made it 
+>“clear that the power is only exercisable for "cause" and after the contractor has been given an opportunity to be heard. This is some indication that the contractor is entitled to appeal to objective considerations including questions of reasonableness in showing cause against the exercise of the powers. The very notion of showing cause seems inconsistent with the view that the principal will be entitled to act, within the limits of honesty, on his own idiosyncratic opinion.”((280.))
+
+2. The power is worded to require “the satisfaction of the principal”, and the implication of reasonableness into that clause is “readily made”:
+>It seems to me that cl 44.1 should be construed as requiring the principal to act reasonably as well as honestly in forming the opinion that the contractor had failed to show cause to his satisfaction and thereafter in deciding whether or not to take over the whole or any part of the remaining work or to cancel the contract: see generally Amann Aviation Pty Ltd v Commonwealth of Australia (1990) 22 FCR 527 at 532, 542-544; 92 ALR 601 at 607; 616-618 and The Commonwealth v Amann Aviation Pty Ltd (1991) 66 ALJR 123; 104 ALR 1.((280.))
+
+3. The fact that the decision was subject to arbitration inferred that there must be something for the arbitrator to review, and this tended to prove that the arbitrator ought to look at the reasonableness of the decision, not just whether it had been made honestly.((281-3.))
+
+
+{{tag>"case law" contract construction implied term duty "good faith"}}

@@ -1,0 +1,162 @@
+======Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24======
+
+{{tag>"case law" copyright authorisation intermediary-liability}}
+
+**Court**: Federal Court of Australia
+
+**Judges**: Cowdroy J
+
+**Date decided**: 4 February 2010
+
+
+----
+
+===== The Summary =====
+
+
+
+In delivering this case, and cognisant of the length of the entire judgment (at 636 paragraph and over 200 pages), Cowdroy J provided a clear, informative and useful summary of his decision.  The summary is available [[http://www.austlii.edu.au/au/cases/cth/FCA/2010/24.html | here]].  This may be sufficient for your needs; however, for those who are interested, a more detailed discussion of the full judgment follows.
+
+===== The Facts =====
+
+
+
+34 major film studios and their licensees in Australia ('the applicants') (by and with support from The Australian Federation Against Copyright Theft (AFACT)((It is interesting to note that Cowdroy J was critical of AFACT's name, stating at [171]: “As an aside, the Court notes that AFACT, the organisation which the applicants use to aid in enforcement of their copyright, itself blurs the distinction between tortuous copyright infringement and criminal acts involving copyright, as seen in its name: Australian Federation Against Copyright Theft.”))) brought action against iiNet ('the respondent'), the third largest internet service provider (ISP) in Australia, for authorising copyright infringement.  
+
+The applicants are the copyright owners of a number of cinematograph films.  The applicants alleged that the copyright in their films had been infringed by illegal downloading and sharing of the films via a BitTorrent (or peer-to-peer (P2P)) network by subscribers of iiNet.  The applicants notified the respondent of this alleged infringing behaviour by a series of notices identifying the conduct and the IP address from which it originated.  The applicants asked the respondent to take action against the relevant subscribers, by issuing warnings and terminating accounts.  The respondent took no such action, and as a result, the applicants alleged that the respondent was authorising the copyright infringements.  
+
+In particular, the applicants “alleged that the respondent knew or had reason to suspect that the iiNet users were engaged in, and were likely to continue to engage in, such conduct; took no action in response to notifications sent on behalf of the applicants which claimed that iiNet users were engaging in the conduct referred to above; offered encouragement to iiNet users to engage in or to continue to engage in the conduct; failed to enforce the terms and conditions of its Customer Relationship Agreement (‘CRA’) by which its internet services were provided; continued to provide services to those subscribers who were engaging in the conduct complained of; and through the respondent’s inactivity and indifference, permitted a situation to develop and continue whereby iiNet users engaged in such conduct.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [12].))
+
+===== The Technology =====
+
+
+Cowdroy J provides a technical background to the case (detailing how IP addresses and the BitTorrent Protocol operate) at paragraphs [43]-[78].  He gives an interesting summary of his findings at paragraph [70]: “To use the rather colourful imagery that internet piracy conjures up in a highly imperfect analogy, the file being shared in the swarm is the treasure, the BitTorrent client is the ship, the .torrent file is the treasure map, The Pirate Bay provides treasure maps free of charge and the tracker is the wise old man that needs to be consulted to understand the treasure map.”
+
+===== The Evidence =====
+
+**Credibility of Mr Malone (CEO of iiNet)**
+
+Justice Cowdroy goes through the evidence in this case in a great deal of detail.  In doing so, he rejected the applicants' attacks on the credibility of Mr. Malone, CEO of iiNet.  He says at [135]: “The Court rejects the submission that Mr Malone '//like iiNet itself, has been compromised by his extreme views on the role and responsibilities of an ISP.//'  Merely because the views expressed by Mr Malone did not accord with the interests of the applicants does not render those views '//extreme//'.”  He further states: 
+
+>“Mr Malone’s evidence acknowledged that was there was no written policy (as distinct from written material which evidenced the policy). However, he and Mr Dalby (the Chief Regulatory Officer of the respondent: see [193]) were aware of the outline of a procedure or policy, which the respondent had formulated, namely that if a Court ordered a subscriber account be terminated or if a Court found that a subscriber of the respondent infringed copyright or a subscriber admitted infringement, the respondent would terminate that subscriber’s account. When Mr Malone explained that no one had been terminated because no one had been found to infringe copyright he was asked whether this was some kind of ‘//joke//’. 
+
+>It is the Court’s prerogative to decide whether the respondent had a repeat infringer policy of the kind referred to in the Copyright Act. It should not be assumed that the respondent did not have a policy and that consequently Mr Malone was untruthful. The Court observes that this subject matter was a prime example of the intemperate cross-examination of Mr Malone. The respondent’s policy was not a joke, and its conduct was entirely consistent with the policy as outlined even though it may not have been the kind of policy that the applicants anticipated. As will be explained in more detail in Part F, since there are no statutory requirements for a ‘repeat infringer policy’, the Court concludes that the respondent’s policy as described by Mr Malone was sufficient to constitute a policy for the purposes of the Copyright Act. It is no less so merely because the respondent’s policy was one which was not envisaged by the applicants. The Court rejects the applicants’ suggestion that Mr Malone’s testimony on this issue bears upon his credit.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [157]-[158].))
+
+**BitTorrent usage**
+
+Cowdroy J noted that one of “the more adventurous submissions” of the applicants was that bandwidth, downloading or quota usage by iiNet users was somehow synonymous with copyright infringing conduct (at [239]).  Cowdroy J observed that this was based on two propositions (both of which would need to be accepted by the Court if the applicants' submission was to hold up): (1) that the vast majority of BitTorrent usage infringes the applicants' copyright and (2) that the vast majority of bandwidth used by the respondent's subscribers was related to BitTorrent usage.((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [240].))
+  
+
+The Court rejected this submission.  Cowdroy J found:
+
+
+>“There is evidence before the Court of examples of the use of BitTorrent that is legitimate, that is, use that does not infringe anyone’s copyright. One example is the distribution of media, for example games such as World of Warcraft (a highly popular game with many millions of players) and television programs, such as Joost. The operating system Linux (an open-source competitor to Microsoft Windows) is also distributed by means of BitTorrent. While these examples are unlikely to account for a large proportion of BitTorrent traffic, they will constitute some proportion of that traffic...
+
+>...While there can be no doubt that infringements of the applicants’ copyright are occurring by means of the BitTorrent system, there is insufficient evidence before the Court to determine whether infringement of the applicants’ copyright is the major, or even a substantial, part of the total BitTorrent traffic. This should be contrasted with Kazaa and Cooper [2005] FCA 972; 150 FCR 1 when the applicants in those proceedings were music companies and, as a matter of fact, it was known that Mr Cooper’s website was being used almost exclusively for infringing music files...and the Kazaa system appeared to be used for, or was considered by its users to be, ‘a free music downloading search engine’: see Kazaa at [151]. That is, the means by which the infringements occurred in those proceedings were clearly being predominantly used to infringe the applicants’ copyright in those proceedings. The evidence is not the same in these proceedings...
+
+>...The above analysis is not intended to be dismissive of the infringer’s conduct. However, it demonstrates that the claim made throughout these proceedings that bandwidth usage or downloading is somehow necessarily, predominantly or even significantly copyright infringing, is simply not established on the evidence. The Court finds the applicants’ attempt to cast a pall over internet usage, such that it is assumed to be infringing, unless otherwise shown, is unjustified. The Court does not find that there is any evidence that the majority or even a substantial usage of the bandwidth allocated by the respondent to its subscribers relates to the infringement of the applicants’ copyright.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [242]-[250].))
+
+===== Primary Infringement =====
+
+
+The Court found that primary infringement of the applicants copyright material (the cinematograph films) had occurred by iiNet's subscribers.  In particular, that iiNet users had 'made available online', 'electronically transmitted' and made copies of the applicants' films with licence of the applicants.
+
+However, the Court held that the making available online infringement does not occur each time a user is disconnected and reconnected to the internet (as alleged by the applicants), but rather that a person makes each film available once through the BitTorrent system.((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [285]-[288].))
+
+===== Authorisation =====
+
+
+**Common law**
+
+The primary issue in this case was whether the respondent authorised the copyright infringement of its users.  In reaching his decision on authorisation, Cowdroy J considered the cases of [[http://www.austlii.edu.au/au/cases/cth/HCA/1975/26.html | Moorhouse]], [[http://www.austlii.edu.au/au/cases/cth/FCA/2005/1242.html | Kazaa]], [[http://www.austlii.edu.au/au/cases/cth/federal_ct/2005/972.html | Cooper [2005] FCA 972; 150 FCR 14]] and [[http://www.austlii.edu.au/au/cases/cth/FCAFC/2006/187.html | Cooper [2006] FCAFC 187; 156 FCR 380]].  He considered the judgments of Gibbs J and Jacobs J in Moorhouse, concluding that, “whatever reasoning one chooses to consider, both judgments are based upon a fundamental assumption that the alleged authoriser is the one who provided the true 'means' of infringement.  The mere provision of facilities by which an infringement can occur will not necessarily constitute infringement.” ((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [381].))
+
+The Court found that while the respondent's provision of the internet was a necessary precondition for the infringements that occurred, it was not the means of infringement.7  Rather, it was the use of the BitTorrent system as a whole that was the means of infringement.((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [401].  The Court noted, at [410], that the internet can be used to virtually any end, such as email, social networking and VOIP, online banking, and entertainment through online media and games.  The Court also took judicial notice that the internet is increasingly the means by which news is disseminated.  Cowdroy J stated, at [411]: “While the Court expressly does not characterise access to the internet as akin to a ‘human right’ as the Constitutional Council of France has recently, one does not need to consider access to the internet to be a ‘human right’ to appreciate its central role in almost all aspects of modern life, and, consequently, to appreciate that its mere provision could not possibly justify a finding that it was the ‘means’ of copyright infringement.”))  Cowdroy J said: 
+
+
+>“This is the inevitable conclusion one must reach when there is not a scintilla of evidence of infringement occurring other than by the use of the BitTorrent system. Such conclusion is reinforced by the critical fact that there does not appear to be any way to infringe the applicants’ copyright from mere use of the internet. There will always have to be an additional tool employed, whether that be a website linking to copyright infringing content like Mr Cooper’s website in Cooper, or a p2p system like the Kazaa system in Kazaa and the BitTorrent system in the current proceedings. Absent the BitTorrent system, the infringements could not have occurred.  The infringing iiNet users must seek out a BitTorrent client and must seek out .torrent files related to infringing material themselves. In doing so, they are provided with no assistance from the respondent. The respondent cannot monitor them doing so or prevent them from doing so. For the abovementioned reasons, the Court finds that it is not the respondent, but rather it is the use of the BitTorrent system as a whole which is the ‘means’ by which the applicants’ copyright has been infringed. The respondent’s internet service, by itself, did not result in copyright infringement. It is correct that, absent such service, the infringements could not have taken place. But it is equally true that more was required to effect the infringements, being the BitTorrent system over which the respondent had no control.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [402]-[404].))
+
+The Court therefore concluded that the respondent did not authorise the infringement of copyright carried out by the iiNet users.((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [414].))
+
+**Section 101(1A) Copyright Act 1968**
+
+Despite finding that iiNet had not authorised copyright infringement, the Court was also required to consider the issue of authorisation pursuant to s101(1A)(a)-(c) of the Copyright Act.  
+
+
+Of particular relevance is section 101(1A)(a), which requires the court to consider the person's power to prevent the infringing act.  The applicants had alleged that iiNet had the power to prevent infringements by warning, suspending and/or terminating the accounts of infringing iiNet users.  The Court considered the case of [[http://www.austlii.edu.au/au/cases/cth/HCA/1928/10.html | Adelaide Corporation]], where Higgins J at 498-9 found that while it was possible to prevent copyright infringement by means of cancelling a lease with persons using a hall who were performing copyright works within licence, cancelling the lease “was not a step which would in itself prevent the infringement of copyright, but a step which would do much more: it would put an end to the lease”.  Cowdroy J considered this reasoning to be indicia that a power to prevent is not to be interpreted as an absolute power to prevent. ((See Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [420].)) Consequently, Cowdroy J determined that the warning and termination of subscriber accounts on the basis of AFACT notices was not a reasonable step for the respondent to take and would not constitute a power to prevent the infringements occurring.((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [436]; [458].))
+ 
+
+The applicants submitted that the respondents did have power to prevent by warning, suspending or terminating accounts, because they had this ability under their Customer Relationship Agreement (CRA) and also because they had this ability under the safe harbour provision.  In relation to the CRA, the Court said:
+
+
+>“There can be no doubt that the respondent has the contractual right to warn and terminate its subscribers pursuant to its CRA if a breach of its terms occurs. However, that does not, of itself, make termination a reasonable step or a relevant power to prevent infringement in all circumstances. It must be remembered that absent those contractual provisions, the respondent would have had no power to terminate subscribers even if they were found by a Court to have infringed copyright. The CRA constitutes the respondent’s standard contractual terms used by a wide variety of subscribers. Consequently, and unsurprisingly, the CRA seeks to provide sufficient contractual terms to cover all eventualities, both existing at the time of the writing of the CRA and into the future. That does not mean that such terms should or would always be exercised even if a contractual right to exercise them arises. 
+>Further, the right to do something does not create an obligation to do something. The doctrine of privity of contract provides that the only two parties relevant to the enforcement of the CRA are the respondent and the subscriber. Should the contract be breached by the subscriber, it is entirely a matter for the respondent to decide whether to act on the contract. Had the respondent taken action against its subscribers based on an AFACT Notice and it was subsequently found that the allegation was unfounded, the respondent would have committed a breach of its contract with the subscriber and been made potentially liable for damages without any indemnity from the applicants or AFACT. In such circumstance it was not unreasonable that the respondent should have sought to be cautious before acting on information provided by a party unrelated to the CRA.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [426]-[427].))
+
+In relation to the safe harbour provisions argument, the Court stated, “As to the applicants’ third submission, the applicants submit that as condition 1 of item 1 of s 116AH(1) of the Copyright Act expressly envisages termination of subscriber accounts, such step is, by force of statute, necessarily a reasonable step and is therefore a relevant power to prevent infringement. Such submission is not only circular; it is misconceived in its understanding of the safe harbour provisions found in Division 2AA of Part V of the Copyright Act.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [431].))   The Court noted that s116AH(1) is stated to apply in appropriate circumstances, but that not guidance is given by the legislature as to what 'appropriate circumstances' might be.((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [431].))  In the present situation, there was uncertainty as to how many infringements ought to lead to termination, whether time should be given for behaviour to be rectified, how to deal with subscribers disputing the accuracy of notifications of infringement, how long periods of suspension should be imposed for, whether these measures should apply to iiNet users whose infringements were on a small scale, and a number of other factors.  Additionally, the respondent had no certainty, even if it took some steps, whether it might still be taken to have authorised infringement.((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [434].))  The Court concluded that it was “highly problematic” to conclude that such issues be decided by a party such as the respondent rather than a court, and that “the expense and complexity of the imposition of responsibility for a notice and termination scheme on [the respondent] manifestly militates against the conclusion that such a scheme is a relevant power to prevent.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [435].))
+
+The Court also took account of a range of other considerations, including knowledge of infringements, failure to act, inactivity or indifference, statements made by the respondent, and whether the respondent sanctioned, approved or countenanced the infringement of iiNet users.  The Court held:
+
+  * Regarding failure to act: “failure to discourage copyright infringement is not encouragement of copyright infringement. There is a middle ground, namely remaining neutral as the respondent did.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [475].))
+  * Regarding statements made by the respondent: “Further, even if that were not the case, the press release related to the respondent choosing to defend itself against the allegation that it had authorised the infringement of copyright. To suggest that defending oneself against such allegation, and explaining its position to the public, could itself constitute an encouragement to the iiNet users to infringe which would support a finding of authorisation, is absurd.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [478].))
+  * Regarding inactivity or indifference: “There is no legal obligation or duty on any person to protect the copyright of a third party. There is only a legal prohibition on doing an act composed in the copyright without the licence of the owner or exclusive licensee of that copyright or authorising another to do that copyright infringing act. Consequently, merely being indifferent or inactive in the knowledge that copyright infringement is occurring cannot possibly constitute authorisation. A key factor which must be present is control, or the power to prevent. “((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [492].))
+  * Regarding approval: “It cannot be doubted that the respondent did not do what was demanded of it by AFACT. However, this approach is not the same as approving of infringements. The applicants appear to premise their submissions on a somewhat binary view of the world whereby failure to do all that is requested and possible to co-operate with copyright owners to stop infringement occurring, constitutes approval of copyright infringement. Such view is not the law. It is possible to be neutral. It is possible to prefer one’s own interests to those of the copyright owners.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [504].))
+
+**The Telco Act defence**
+
+
+The respondent argued that the s270 of the Telco Act prohibited them from using personal information about their subscribers for the purpose of identifying them, warning them about allegations of copyright infringement and termination subscriber accounts.  The Court found that disclosure of such information would be authorised by s279 of the Telco Act, which allows for disclosure or use of information by an employee of the carriage service provider in the performance of the person's duties as an employee.((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [532].))  The Court also found that disclosure and use was authorised by s289 of the Telco Act, which operates where a person consents to disclosure or is reasonably likely to be aware that the information would be disclosed in the relevant circumstances.  Read together with clause 12.3 of the respondent's CRA, which allows for use and disclosure of personal information for providing, administering and managing services required from iiNet, the Court found that iiNet had the right by subscriber's consent to use the information in relation to determining and preventing copyright infringement. ((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [554].))
+
+
+**Section 112E of the Copyright Act 1968**
+
+
+Section 112E provides: “A person (including a carrier or carriage service provider) who provides facilities for making, or facilitating the making of, a communication is not taken to have authorised any infringement of copyright in an audio-visual item merely because another person uses the facilities so provided to do something the right to do which is included in the copyright.”
+
+
+Justice Cowdroy considered the treatment of s112E in the Cooper and Kazaa cases, and the parties' submissions in relation to its relevance in the current proceedings.((See Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [556]-[575].))  He determined (seemingly with regret):
+
+>“In summary, the authorities appear to leave little room for s112E to have meaningful operation. It will not protect a person from authorisation when there is a factor found to exist which entitles a finding of authorisation. Therefore, such finding renders s112E inapplicable when authorisation is found, or, as the applicants submitted, ‘//[i]nevitably, when a finding of authorisation is made against a provider of facilities, s112E will not assist, as in all of the circumstances that person is doing more than (or in addition to) providing services//’. Therefore, the only circumstance when s112E could have an effect is when the person merely provides the facilities for the making of the infringement //and does nothing more// [e.g. Telstra providing physical facilities such as copper phone lines]. However, as stated, it is highly unlikely that there will be any circumstance where the mere provision of the facilities would constitute authorisation, especially given that ‘//the word “authorize” connotes a mental element [such that] it could not be inferred that a person had, by mere inactivity, authorized something to be done if he neither knew, nor had reason to suspect that the act might be done//’: per Gibbs J in //Moorhouse// at 12. Consequently, it appears that s112E purports to provide protection when no occasion could arise to require that protection. These issues were canvassed before the High Court in the special leave application in //E-Talk// but the High Court saw fit not to grant special leave. 
+>The Court, while sympathetic to the problems highlighted by the respondent in regard to the judicial interpretation of s112E, is prevented from interpreting s112E differently. It is bound to follow the Full Court’s interpretation.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [574]-[575].))
+
+
+**Safe Harbour provisions**
+
+In this case, the Court primarily focused on s116AC of the Copyright Act, which provides a limited safe harbour for carriage service providers (CSP) (such as the respondent) providing facilities or services for transmitting, routing or providing connections for copyright material ('transmission activities').  The safe harbour provisions operate to limit the remedies available to a copyright owner for copyright infringement against the CSP – in the case of transmission activities, remedies are limited to an order requiring the CSP to take reasonable steps to disable access to an online location outside Australia and/or to terminate a specified account.
+
+
+For a CSP to take advantage of the safe harbour provision, it must comply with the following two conditions in s116H(1):
+
+  - The CSP must adopt and reasonably implement a policy that provides for the termination, in appropriate circumstances, of the accounts of repeat infringers (“repeat infringer policy”)
+  - If there is a relevant industry code in force, the CSP must comply with the relevant provisions of the code relating to accommodating and not interfering with standard technical measures used to protect and identify copyright material.
+
+
+Compliance with the requirements under the safe harbour provisions is voluntary.  Cowdroy J held, therefore, that compliance with safe harbour requirements may be evidence that can be relevant to show that a CSP ought not to be rendered liable for copyright infringement, but that the reverse is not true.((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [589].))
+
+
+The Court then considered whether iiNet had an appropriate repeat infringer policy.  In undertaking this consideration, Cowdroy J noted, “It is impossible to fail to notice the complete vacuum of legislative guidance in relation to any category A requirements when compared to the highly prescriptive requirements in relation to categories B-D found in s 116AH(1) and the Regulations. Neither the legislation, the Regulations nor extrinsic materials provide any guidance to the Court as to what the ‘appropriate circumstances’ for termination are, what ‘repeat infringement’ means or what the ‘accounts of repeat infringers’ means. The assumption must be that Parliament left latitude with the CSP to determine the policy, and left the meaning of those words to be determined by the courts.”((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [593].))
+
+
+The Court found that the respondent had a repeat infringer policy.((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [611].))  In reaching this finding, Cowdroy J adopted the US authorities as to what constitutes a repeat infringer policy, though he rejected Posner J's determination in [[http://www.worldlii.org/us/cases/federal/USCA7/2003/320.html | Re Aimster]] that a service provider “must do what it can reasonably be asked to do to prevent the use of its service by “repeat infringers””.  Cowdroy J stated, “With respect to his Honour, his reasoning appears to convert a provision designed to limit remedies where liability for copyright infringement is already established into a positive duty to prevent copyright infringement.“((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [600].))
+
+
+The Court also found that iiNet had reasonably implemented the repeat infringer policy, holding:
+
+>“The Court finds that the respondent has reasonably implemented a repeat infringer policy. Mr Malone’s statement that he has not encountered a circumstance where he has been required to implement the repeat infringer policy was not a ‘joke’ (as it was put to him) but is entirely consistent with the policy, given that, as far as the Court is aware, no specific iiNet user has yet been found to have infringed copyright by a Court (before this judgment), and the respondent has not been ordered to terminate a subscriber account by a Court. 
+>While the respondent’s requirement that an iiNet user be found to have repeatedly infringed copyright by a court sets a high bar before the respondent will effect an iiNet user’s termination, the Court believes that, in the circumstances of category A, this is an appropriate policy. “((Roadshow Films Pty Ltd v iiNet Limited (No. 3) [2010] FCA 24 per Cowdroy J at [621]-[622].))
+
+===== Conclusion =====
+
+
+The Court's conclusion, as set out in paragraphs [635]-[636] is:
+
+>The Court makes the following findings: 
+>(1) The Court finds that primary infringement has been made out. The applicants have proven that the iiNet users ‘made available online’, ‘electronically transmitted’ and made copies of the identified films.
+>(2) The Court finds that the applicants have not proven that the respondent authorised the infringement of the iiNet users. In making such finding the Court finds that Telco Act defence does not arise, and the Court finds that s 112E is not applicable in the present circumstances. Consequently, the Amended Application fails.
+>(3) The Court finds that the respondent satisfied the requirements of the safe harbour provisions, though, because of the finding in (2), it does not need their protection.
+>Therefore the Amended Application of the applicants fails. The Court will make an order that the applicants pay the respondent’s costs in the matter, as well as the costs thrown away by the respondent due to the applicants abandoning of the primary infringement claim against the respondent. Should any party wish to make further submissions on the issue of costs they have leave to notify the Court within 14 days. 
+
+
+
+
+
+
+

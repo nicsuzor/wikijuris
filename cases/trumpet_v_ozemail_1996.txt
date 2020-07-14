@@ -1,0 +1,37 @@
+**Case name**: Trumpet Software v OzEmail [1996] 560  [[Federal Court of Australia|FCA]]
+
+**Court**: Federal Court of Australia
+
+**Judges**: Heerey J
+
+**Date decided**: 10 July 1996 
+
+{{tag>Copyright "Shareware Licence" "revocation of licence" "implied terms" "Trade Practices Act" "TPA s 52" "TPA s 53"}}
+
+====Facts====
+
+Trumpet develops and distributes a program known as [[wp>Trumpet Winsock]], which is used to connect to an ISP over a modem and provides the TCP/IP layer over PPP. Trumpet Winsock is generally distributed as [[shareware]], which means that users are able to evaluate the software free of charge, but must pay a registration fee if they wish to continue using it.
+
+OzEmail proposed to distribute Trumpet Winsock on an [[wp>Australian Personal Computer]] CD-ROM. OzEmail contacted Trumpet for permission, but did not follow up with promised detailed proposals. Shortly before the deadline for APC submission, OzEmail again contacted Trumpet, requesting 'confirmation' of permission to distribute. Later, Trumpet gave permission to distribute a newer version of Trumpet Winsock, which was at that time in development, that would include a [[timelock]], in order to prevent unauthorised use after the evaluation period. OzEmail requested confirmation of permission to distribute the timelocked version, and assured that Trumpet Winsock would be distributed in its entirety.
+
+When a timelocked version of Trumpet Winsock was not sent in time for the APC deadline, OzEmail distributed a modified version of the previous, non-locked, Trumpet Winsock software.
+
+====Infringement of Copyright====
+
+It was accepted that OzEmail [[reproduced]] the Trumpet Winsock software, and unless it could make out a [[defence]] of [[licence]], infringed Trumpet’s [[copyright]], under s 36(1) [[Copyright Act 1968 (Cth)]].
+
+====Revocation of licence====
+
+OzEmail argued that correspondence from Trumpet did not [[revoke]] any licence to distribute the earlier version of Winsock, but merely agreed to the distribution of the new timelocked version; hence distribution was allowed under the shareware licensing of the previous version regardless. On the evidence, [[Peter Cadden Heerey|Heerey J]] held that Trumpet had expressly revoked any licence OzEmail may have had. His Honour did not accept that because the earlier version of Trumpet Winsock was distributed as shareware, "there came into effect a licence which could not be revoked at all – and presumably even if notice, however reasonable, were given". His Honour found that this would be a "surprising consequence for a licence not supported by [[consideration]]" and considered it to be without foundation.
+
+====Terms of the Licence (if not revoked)====
+
+If, on the other hand, the licence had not been revoked, Heerey J found, on the evidence of experienced industry witnesses, that industry custom of dealing with shareware licences required the software to be distributed in its entirety, without modification, but did not find any restrictions against charge or [[commercial gain]], or against distributing with other software. OzEmail had made changes to the Winsock package, including re-badging and pre-configuring for the OzEmail network. These changes had the likely effect of connecting the user to OzEmail to the exclusion of any other ISP, and hiding from the user the [[shareware messages]] from Trumpet, resulting in a probable [[loss of revenue]].
+
+
+Justice Heerey found that even if the shareware licence in favour of OzEmail had not been revoked, OzEmail had in fact breached the implied conditions of that licence by the changes it had made to the Winsock package.
+
+====The Trade Practices Act 1974 (Cth)====
+
+Justice Heerey found that OzEmail’s conduct would mislead or deceive readers of APC into believing that OzEmail had the permission, licence or authority of Trumpet to publish the software. Further, OzEmail’s conduct would also be likely to mislead users into thinking that they did not need to register the software from Trumpet in order to use it. Both of these findings have the effect that OzEmail breached ss 52(1) and 53 of the [[Trade Practices Act 1974 (Cth)|TPA]].
+

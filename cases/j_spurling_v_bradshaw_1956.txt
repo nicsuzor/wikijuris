@@ -1,0 +1,25 @@
+====== J Spurling Ltd v Bradshaw [1956] 1 WLR 461======
+
+{{tag>"case law"}}
+
+**Court**: Court of Appeal
+
+**Judges**: Denning, Morris and Parker LJJ
+
+**Date decided**: 20,23,26 March 1956
+
+===== Background, from the headnotes =====
+> The defendant, a wholesale factor, who had had previous business dealings with the plaintiff warehousemen, delivered to them eight barrels of orange juice for storage, and a few days later received a "landing account" which on its face referred to conditions printed in small type on the back. These included the London lighterage clause, which exempted the plaintiffs, inter alia, from liability for any loss, damage or detention, in respect of goods entrusted to them in the course of their business, occasioned by the negligence, wrongful act or default of themselves, their servants, or agents. The barrels, when collected, were found to be either empty or in such damaged condition as to be useless. In an action by the warehousemen to recover charges due for storage, the defendant counterclaimed for damages for alleged breach of an implied term of the contract of bailment to take reasonable care of the barrels. The plaintiffs denied negligence and relied on the exemption clause. The county court judge, after hearing evidence for the defendant only, found that the plaintiffs had been negligent; he dismissed the counterclaim, holding that the exemption clause applied.
+
+The exemption clause was worded:
+>"We will not in any circumstances when acting either as warehousemen, wharfingers, contractors, stevedores, carriers by land, or agents, or in any other capacity, be liable for any loss, damage or detention, howsoever, whensoever, or wheresoever occasioned in respect of any goods entrusted to or carried or handled by us in the course of our business, even when such loss, damage or detention may have been occasioned by the negligence, wrongful act or default of ourselves or our servants or agents or others for whose acts we would otherwise be responsible."
+
+The primary judge had found that:
+>"Although my eyesight is not as good as it used to be, I find no difficulty in reading the words put on the back; [...] and there is the clearest possible exemption from all liability for negligence on the part of the plaintiffs, and the defendant therefore fails to make out his counterclaim."
+
+=====Lord Justice Denning=====
+
+>This brings me to the question whether this clause was part of the contract. Mr. Sofer urged us to hold that the warehousemen did not do what was reasonably sufficient to give not ce of the conditions within  [[Parker v South Eastern Railway Co (1877) 2 CPD 416|Parker v. South Eastern Railway Co]]. I quite agree that the more unreasonable a clause is, the greater the notice which must be given of it. Some clauses which I have seen would need to be printed in red ink on the face of the document with a red hand pointing to it before the notice could be held to be sufficient. The clause in this case, however, in my judgment, does not call for such exceptional treatment, epecially(sic) when it is construed, as it should be, subject to the proviso that it only applies when the warehouseman is carrying out his contract, and not when he is deviating from it or breaking it in a [p467] radical respect. So construed, the judge was, I think, entitled to find that sufficient notice was given. It is to be noticed that the landing account on its face told Mr. Bradshaw that the goods would be insured if he gave instructions; otherwise they were not insured. The invoice, on its face, told him they were warehoused "at owner's risk." The printed conditions, when read subject to the proviso which I have mentioned, added little or nothing to those explicit statements taken together.((466-7))
+
+=====Morris and Parker L.JJ=====
+Morris and Parker LJJ, in separate judgments, agreed that there was sufficient notice of the exclusion clause, the clause was legible, and it was incorporated into the contract.

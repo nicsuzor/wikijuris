@@ -1,0 +1,50 @@
+======L'Estrange v F Graucob Ltd [1934] 2 KB 394======
+
+{{tag>"case law" contract incorporation terms signature}}
+
+**Court**: King's Bench
+
+**Judges**: Scrutton and Maugham LJJ
+
+**Date decided**: 16, 19, 20 February 1934
+
+=====Background=====
+L'Estrange purchased a slot machine from Graucob which did not work correctly. She claimed for the return of her deposit, alleging total failure of consideration, breach of implied conditions, and breach of an implied warranty of fitness for purpose. Graucob counterclaimed for the balance of the purchase price, and sought to rely on an express term which read:
+
+>This agreement contains all the terms and conditions under which I agree to purchase the machine specified above and any express or implied condition, statement, or warranty, statutory or otherwise not stated herein is hereby excluded.((401-2.))
+
+=====Reasons: Lord Scrutton=====
+
+Lord Scrutton quoted Mellish LJ in [[Parker v South Eastern Railway Co (1877) 2 CPD 416]] as authority for the principle that “[i]n cases in which the contract is contained in a railway ticket or other unsigned document, it is necessary to prove that an alleged party was aware, or ought to have been aware, of its terms and conditions.”((403.)) However, his Lordship then continued, holding that:
+
+>These cases have no application when the document has been signed. When a document containing contractual terms is signed, then, in the absence of fraud, or, I will add, misrepresentation, the party signing it is bound, and it is wholly immaterial whether he has read the document or not.((403.))
+
+The plaintiff in this case did not plead fraud, and misrepresentation was not made out.((403-4)) L'Estrange argued that she did not know and was not told that the document was contractual, thinking that it was a mere order form. Lord Scrutton rejected that claim, holding that
+
+>The plaintiff no doubt alleged that the defendants' agent represented to her that the document which was given her to be signed was an order form, but according to the defendants' evidence no such statement was made to her by the agent. Moreover, whether the plaintiff was or was not told that the document was an order form, it was in fact an order form, and an order form is a contractual document. It may be either an acceptance or a proposal which may be accepted, but it always contains some contractual terms. There is no evidence that the plaintiff was induced to sign the contract by misrepresentation.
+>
+>In this case the plaintiff has signed a document headed "Sales Agreement," which she admits had to do with an intended purchase, and which contained a clause excluding all conditions and warranties. That being so, the plaintiff, having put her signature to the document and not having been induced to do so by any fraud or misrepresentation, cannot be heard to say that she is not bound by the terms of the document because she has not read them.((404.))
+
+Lord Scrutton accordingly found that the express terms excluded any implied conditions or warranties, and found for Graucob.
+
+=====Reasons: Maugham LJ=====
+Lord Maugham began by stating his regret:
+
+>I regret the decision to which I have come, but I am bound by legal rules and cannot decide the case on other considerations.((405.))
+
+Lord Maugham described the contract:
+
+>It was an elaborate form containing a number of clauses, and among them certain terms and conditions in regrettably small print but quite legible. The plaintiff having signed that document gave it to a canvasser of the defendants, who took it away. It had been filled up in ink by the canvasser before she signed it. Another document called an order confirmation dated February 9, 1933, was sent to her by the defendants. In my opinion the contract was concluded not when the brown order form was signed by the plaintiff but when the order confirmation was signed by the defendants. If the document signed by the plaintiff was a part of a contract in writing, it is impossible to pick out certain clauses from it and ignore them as not binding on the plaintiff.((405-6.))
+
+Lord Maugham also held that there was no evidence of misrepresentation, and held that L'Estrange could not argue that she was unaware of the contractual terms because she had signed the document.((407.))
+
+His Lordship then concluded that
+
+>In this case it is, in my view, an irrelevant circumstance that the plaintiff did not read, or hear of, the parts of the sales document which are in small print, and that document should have effect according to its terms.((407.))
+
+Maugham LJ was clearly uneasy with this conclusion, noting that:
+
+>I may add, however, that I could wish that the contract had been in a simpler and more usual form. It is unfortunate that the important clause excluding conditions and warranties is in such small print. I also think that the order confirmation form should have contained an express statement to the effect that it was exclusive of all conditions and warranties.((407.))
+
+
+

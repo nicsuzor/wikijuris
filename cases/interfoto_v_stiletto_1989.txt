@@ -1,0 +1,56 @@
+======Interfoto Picture Library Ltd v Stiletto Visual Programmes Ltd [1989] QB 433======
+
+{{tag>"case law"}}
+
+**Court**: Queen's Bench
+
+**Judges**: Dillon and Bingham LJJ
+
+**Date decided**: 30 October 1987
+
+=====Quick notes=====
+This case is an example of a situation in which the Court had no trouble rewriting the price of a contract, by holding that the price clause did not form part of the contract and assessing the price on a [[:quantum meruit]].
+
+It is important to note that both judges in this case apparently would have held that the offending clause was void as a penalty clause, but the argument was not raised at first instance or upon appeal.((436 (Dillon LJ), 446 (Bingham LJ).))
+
+
+=====Background=====
+Stiletto, an advertising company, hired transparencies from Interfoto, with whom they had not dealt before, over the phone. Forty-seven transparencies were delivered with a delivery note, which stipulated a holding fee of £5 per transparency per day after 14 days. The transparencies were kept by Stiletto for nearly a month; Interfoto then issued an invoice for £3,783.50. 
+
+The delivery note also stipulated that
+>"When sent by post/delivered/collected the above conditions are understood to have been accepted unless the package is returned to us immediately by registered mail or by hand containing all the transparencies whole and undefaced and these conditions shall apply to all transparencies submitted to you whether or not you have completed a request form."((435))
+
+=====Reasons: Dillon LJ=====
+Lord Dillon noted at the outset that the fee charged by the plaintiff was exorbitantly high, and that the primary judge had found 
+>that on a quantum meruit a reasonable charge would have been £3.50 per transparency per week, and not £5 per day, and he had evidence before him of the terms charged by some ten other photographic libraries, most of which charged less than £3.50 per week and only one of which charged more (£4 per transparency per week).((436))
+
+Lord Dillon held that the contract was formed after Stiletto received the bag of transparencies, opened it, and telephoned Interfoto to say that some of the transparencies may be useful.((436)) His Lordship rejected the suggestion that the contract could be concluded either at the time of the initial phone call, or at the time the bag was received but not opened (and before the delivery note would have been found or examined).((436))
+
+Lord Dillon referred to the statement of Denning MR in [[J Spurling Ltd v Bradshaw  [1956] 1 WLR 461]], where his Lordship said that "[s]ome clauses which I have seen would need to be printed in red ink on the face of the document with a red hand pointing to it before the notice could be held to be sufficient."(([[J Spurling Ltd v Bradshaw [1956] 1 WLR 461]], 466 (Denning MR).)) Lord Dillon also referred to [[Thornton v Shoe Lane Parking Ltd [1971] 2 QB 163]], interpreting the principle from Lord Denning MR and Megaw LJ that
+
+> where a condition is particularly onerous or unusual the party seeking to enforce it must show that that condition, or an unusual condition of that particular nature, was fairly brought to the notice of the other party.((437))
+
+Lord Dillon did not accept that the reasoning of //Thornton// was limited to exemption clauses, holding that "what their Lordships said was said by way of interpretation and application of the general statement of the law by Mellish L.J. in  [[Parker v South Eastern Railway Co (1877) 2 CPD 416]], 423-424 and the logic of it is applicable to any particularly onerous clause in a printed set of conditions of the one contracting party which would not be generally known to the other party."((438))
+
+Lord Dillon concluded that it was a 'logical development of the common law' to require that 'particularly onerous or unusual' conditions are 'fairly brought to the attention of the other party':
+>At the time of the ticket cases in the last century it was notorious that people hardly ever troubled to read printed conditions on a ticket or delivery note or similar document. That remains the case now. In the intervening years the printed conditions have tended to become more and more complicated and more and more one-sided in favour of the party who is imposing them, but the other parties, if they notice that there are printed conditions at all, generally still tend to assume that such conditions are only concerned with ancillary matters of form and are not of importance. In the ticket cases the courts held that the common law required that reasonable steps be taken to draw the other parties' attention to the printed conditions or they would not be part of the contract. It is, in my judgment, a logical development of the common law into modern conditions that it should be held, as it was in [[Thornton v Shoe Lane Parking Ltd [1971] 2 QB 163]], that, if one condition in a set of printed conditions is particularly onerous or unusual, the party seeking to enforce it must show that that particular condition was fairly brought to the attention of the other party.((438-9))
+
+Hid Lordship held that the fee clause was a "very onerous clause"((438)), such that the "defendants could not conceivably have known, if their attention was not drawn to the clause, that the plaintiffs were proposing to charge a "holding fee" for the retention of the transparencies at such a very high and exorbitant rate."((438)) Nothing was done in the present case draw attention to the onerous clause, and it  could therefore did not form part of the contract.((439)) His Lordship reduced the damages to the amount found (in the alternative) by the primary judge on a quantum meruit (£3.50 per transparency per week).
+
+=====Reasons: Bingham LJ=====
+Lord Bingham characterised the duty to disclose the high prices as one of good faith in contracting:
+>In many civil law systems, and perhaps in most legal systems outside the common law world, the law of obligations recognises and enforces an overriding principle that in making and carrying out contracts parties should act in good faith. This does not simply mean that they should not deceive each other, a principle which any legal system must recognise; its effect is perhaps most aptly conveyed by such metaphorical colloquialisms as "playing fair," "coming clean" or "putting one's cards face upwards on the table." It is in essence a principle of fair and open dealing. In such a forum it might, I think, be held on the facts of this case that the plaintiffs were under a duty in all fairness to draw the defendants' attention specifically to the high price payable if the transparencies were not returned in time and, when the 14 days had expired, to point out to the defendants the high cost of continued failure to return them.((440)
+
+His Lordship used a notion of fairness and reasonableness, noting that the cases on sufficiency of notice were concerned not only with pure contractual analysis, but with "whether it would in all the circumstances be fair (or reasonable) to hold a party bound by any conditions or by a particular condition of an unusual and stringent nature."((440)) Accordingly, his Lordship held, after quoting at length from [[Parker v South Eastern Railway Co (1877) 2 CPD 416]], that this "was not a simple contractual analysis whether an offer has been made and accepted."((442)) His Lordship then quoted [[Hood v Anchor Line (Henderson Brothers) Ltd [1918] AC 837]] as authority which "[appears] to base the law very firmly on consideration of what is fair in all the circumstances."((442))
+
+Lord Bingham accepted Lord Denning's observation in //J Spurling v Bradshaw//, and held that
+>what would be good notice of one condition would not be notice of another. The reason is that the more outlandish the clause the greater the notice which the other party, if he is to be bound must in all fairness be given.((443)) 
+
+His Lordship concluded, after reviewing the authorities, that:
+>The tendency of the English authorities has, I think, been to look at the nature of the transaction in question and the character of the parties to it; to consider what notice the party alleged to be bound was given of the particular condition said to bind him; and to resolve whether in all the circumstances it is fair to hold him bound by the condition in question. This may yield a result not very different from the civil law principle of good faith, at any rate so far as the formation of the contract is concerned.((445))
+
+Lord Bingham held, agreeing with the reasons of Dillon LJ, that there was no contract made at the time of the initial telephone request, and no contract made at the time the bag was delivered but as yet unopened. 
+>Once the jiffy bag was opened and the transparencies taken out with the delivery note, it is in my judgment an inescapable inference that the defendants would have recognised the delivery note as a document of a kind likely to contain contractual terms and would have seen that there were conditions printed in small but visible lettering on the face of the document. To the extent that the conditions so displayed were common form or usual terms regularly encountered in this business, I do not think the defendants could successfully contend that they were not incorporated into the contract.((445))
+
+The price clause, however, did not form part of the contract, because Interfoto did not 'fairly and reasonably' brought it to the notice of Stiletto:
+>[Interfoto] delivered 47 transparencies, which was a number the defendants had not specifically asked for. Condition 2 contained a daily rate per transparency after the initial period of 14 days many times greater than was usual or (so far as the evidence shows) heard of. For these 47 transparencies there was to be a charge for each day of delay of £235 plus value added tax. The result would be that a venial period of delay, as here, would lead to an inordinate liability. The defendants are not to be relieved of that liability because they did not read the condition, although doubtless they did not; but in my judgment they are to be relieved because the plaintiffs did not do what was necessary to draw this unreasonable and extortionate clause fairly to their attention. I would accordingly allow the defendants' appeal and substitute for the judge's award the sum which he assessed upon the alternative basis of quantum meruit.((445))

@@ -1,0 +1,255 @@
+---
+layout: default
+title: Registered Designs
+nav_order: 40
+parent: ausip
+---
+
+# Registered Designs
+
+## Designs in brief
+
+A design right aims to protect the outward appearance or aesthetic appeal of a product. It covers shapes, ornamentation, configuration and pattern. Designs differ from patents in that they cover how a product looks, rather than how it works.
+
+To qualify for registration, a design must have a commercial application or use, and must be new and distinctive compared to what has gone before. Once registered, the law gives the owner the sole right to commercially use, license or sell the design. Design registration lasts for 5 years, with the opportunity to renew registration up to 10 years.
+
+<WRAP center round info 60%>
+For designers to get protection, a design must be registered before any manufacturing starts. One-off artistic designs for things like fashion, art, and furniture will often be automatically covered by copyright law and do not require design registration unless they are mass produced (50 or more items). Once a design is mass-produced or once the owner registers for design protection, copyright in the artist design is lost.
+</WRAP>
+
+
+**Video overview by Nicolas Suzor on [Registered Designs](https://www.youtube.com/watch?v=AcbQ6B8I00g&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve&index=1).**
+
+
+## Design Definition
+
+Designs are protected under the *Designs Act 2003* (Cth) (//DA//). A design protects the visual appearance of mass produced goods. To gain protection of a design, it must be registered.
+
+A design is “the overall appearance of the product resulting from one or more visual features of the product”. [^REPLACEMEDAs5ENDREPLACE]
+[^REPLACEMEDAs5ENDREPLACE]: //DA// s 5
+
+
+A visual feature “includes the shape, configuration, pattern and ornamentation of the product”. [^REPLACEMEDAs7ENDREPLACE]
+[^REPLACEMEDAs7ENDREPLACE]: //DA// s 7
+ A visual feature is not the feel of the product or the materials used.
+
+
+**Video overview by Amara Boustead on [What a 'Product' is in Design Law](https://www.youtube.com/watch?v=kT-0YI5sBYQ)**
+
+**Video overview by Sophia Shen on [What a 'Product' is in Design Law](https://www.youtube.com/watch?v=aBpcUmKsW2A)**
+
+
+## Registration of Designs
+
+In order to obtain registration, a design must be “new and distinctive when compared with the prior art base for the design as it existed before the priority date of the design”.[^REPLACEMEDAs15ENDREPLACE]
+[^REPLACEMEDAs15ENDREPLACE]: //DA// s 15
+ Pursuant to s 16(1) of the //Act//, a design is new unless it is identical to a design that forms part of the prior art base for the design. Under //DA// s 16(2), a design is distinctive unless it is substantially similar in overall impression to a design that forms part of the prior art base for the design.
+
+### Substantial Similarity
+
+In determining substantial similarity [^REPLACEMEDAs19ENDREPLACE]
+[^REPLACEMEDAs19ENDREPLACE]: //DA// s 19
+ more weight must be given to the similarities than differences.  
+
+There must be regard to:
+
+* the state of development of the prior art base;
+* the features described in the application;
+* the importance of a similar component in the context of the whole; and
+* the freedom of the creator of the design to innovate.
+
+## Registration Process
+
+The owner of a design is entitled to apply for its registration. [^REPLACEMEDAs13ENDREPLACE]
+[^REPLACEMEDAs13ENDREPLACE]: //DA// s 13
+ A design application may be in respect of more than one design. [^REPLACEMEDAs21ENDREPLACE]
+[^REPLACEMEDAs21ENDREPLACE]: //DA// s 21
+ Registration occurs without substantive examination - only the formal requirements are checked. [^REPLACEMEDAss2439and40ENDREPLACE]
+[^REPLACEMEDAss2439and40ENDREPLACE]: //DA// ss 24, 39 and 40
+
+
+### Request for Registration or Publication
+
+Applicants must request either registration or publication. [^REPLACEMEDAs35ENDREPLACE]
+[^REPLACEMEDAs35ENDREPLACE]: //DA// s 35
+
+
+Publication is an alternative to registration. It does not give the design protection, but prevents subsequent registration of the same design by a third party. It may entitle the applicant to rely on copyright protection. The application will be checked to see if it satisfies the minimum requirements. [^REPLACEMEDAss3940ENDREPLACE]
+[^REPLACEMEDAss3940ENDREPLACE]: //DA// ss 39 - 40
+
+
+Registration of an application will occur after an initial formalities check. [^REPLACEMEDAss3940ENDREPLACE]
+[^REPLACEMEDAss3940ENDREPLACE]: //DA// ss 39 - 40
+ Once registered, the details of the design will be published and the Registrar will issue a certificate of registration. [^REPLACEMEDAs45ENDREPLACE]
+[^REPLACEMEDAs45ENDREPLACE]: //DA// s 45
+ If the Registrar is not satisfied with the application, the applicant will be given the opportunity to amend it. [^REPLACEMEDAs41ENDREPLACE]
+[^REPLACEMEDAs41ENDREPLACE]: //DA// s 41
+
+
+### Post-Registration Examination
+
+Examination now occurs post-grant, if a person requests or the court orders examination. [^REPLACEMEDAs63ENDREPLACE]
+[^REPLACEMEDAs63ENDREPLACE]: //DA// s 63
+ Infringement proceedings cannot be launched until examination has occurred. [^REPLACEMEDAs733ENDREPLACE]
+[^REPLACEMEDAs733ENDREPLACE]: //DA// s 73(3) 
+ If there is no ground for revocation, a certificate of examination is issued. [^REPLACEMEDAs67ENDREPLACE]
+[^REPLACEMEDAs67ENDREPLACE]: //DA// s 67
+ However, if grounds of revocation are found, either the owner must be allowed to amend it if possible, [^REPLACEMEDAs663ENDREPLACE]
+[^REPLACEMEDAs663ENDREPLACE]: //DA// s 66(3) 
+ or the registration will be revoked. [^REPLACEMEDAs68ENDREPLACE]
+[^REPLACEMEDAs68ENDREPLACE]: //DA// s 68
+
+
+### Duration
+
+A design is initially valid for 5 years, but can be renewed for a total of ten years if the renewal fee is paid. [^REPLACEMEDAss46and47ENDREPLACE]
+[^REPLACEMEDAss46and47ENDREPLACE]: //DA// ss 46 and 47
+
+
+## Exclusive Rights
+
+A design gives the owner exclusive rights to control the way that products embodying the design are used. [^REPLACEMEDAs10ENDREPLACE]
+[^REPLACEMEDAs10ENDREPLACE]: //DA// s 10
+
+
+These rights include:
+
+* Make or offer a product which embodies the design;
+
+* Import for sale or for trade or business;
+
+* Sell, hire, or otherwise dispose of;
+
+* Use in any way for trade or business;
+
+* To keep to sell, hire, or use; and
+
+* To authorise others to do any of the above.
+
+
+### Embodies the design
+
+A design will not be registrable or may be infringing if it is considered to “embod[y] a design that is identical to, or substantially similar in overall impression to, the registered design”.  Same factors as for registrability. [^REPLACEMEDAs713ENDREPLACE]
+[^REPLACEMEDAs713ENDREPLACE]: //DA// s 71(3) 
+
+
+In *Review Australia Pty Ltd v Innovative Lifestyle Investments Pty Ltd* (2008) 246 ALR 119,  the court decided that the Lili dress was substantially similar to a Review dress.
+
+## Infringement
+
+Infringement proceedings can be brought once the design is examined and a certificate of examination is issued. [^REPLACEMEDAs733ENDREPLACE]
+[^REPLACEMEDAs733ENDREPLACE]: //DA// s 73(3) 
+ The onus is on the registered owner to show infringement. [^REPLACEMEDAs722ENDREPLACE]
+[^REPLACEMEDAs722ENDREPLACE]: //DA// s 72(2) 
+ Infringement occurs when, without licence or authority: [^REPLACEMEDAs71ENDREPLACE]
+[^REPLACEMEDAs71ENDREPLACE]: //DA// s 71
+
+
+* A person makes or offers to make a product, in relation to which the design is registered, which embodies a design that is identical to, or substantially similar in overall impression to, the registered design;
+* Imports such a product;
+* Sells, hires or otherwise disposes of such a product;
+* Uses such a product in any way for the purpose of any trade or business; or
+* Keeps such a product for the purpose of doing any of these things.
+
+## Spare Parts Defence
+
+The spare parts defence allows use of a product to repair a complex product.  Does not cover use of the component part as original equipment or non-repair uses. [^REPLACEMEDAs72ENDREPLACE]
+[^REPLACEMEDAs72ENDREPLACE]: //DA// s 72
+
+
+## Remedies
+
+In the case of infringement of a registered design, a court may award an injunction subject to such terms as the court thinks fit; or they may award damages or an account of profits.
+
+A court may refuse to award damages, if at the time of the infringement, the defendant was not aware that the design was registered and had taken all reasonable steps to ascertain whether the design was registered. [^REPLACEMEDAs752ENDREPLACE]
+[^REPLACEMEDAs752ENDREPLACE]: //DA// s 75(2) 
+
+
+## The Design/Copyright Overlap
+
+An important principle of design protection is that the courts and legislature attempt to prevent people from being simultaneously protected by both the design and copyright systems. Industrial applications of visual features are best suited to be protected by designs (as opposed to copyright).
+
+Particular designs that might be protected by copyright may lose its copyright protection if the design has been applied industrially to mass produced products. This will be discussed in more detail below.
+
+Not all copyright protections are lost in the copyright design overlap. The copyright design overlap does not apply to flat designs such as printing on T-shirts. It only applies in visual features of the 3D product.
+
+Importantly, the copyright design overlap doesn’t apply to industrial works of artistic craftsmanship.
+
+**Video overview by Nicolas Suzor on [The Overlap Between Copyright and Design](https://www.youtube.com/watch?v=5q14JMh4eX4&index=2&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve).**
+
+### Recap: Copyright Infringement
+
+Reproduction of an artistic work is an infringement. [^REPLACEMECAs31ENDREPLACE]
+[^REPLACEMECAs31ENDREPLACE]: //CA// s 31
+  
+
+2D <-> 3D reproduction of an artistic work is an infringement. [^REPLACEMECAs21ENDREPLACE]
+[^REPLACEMECAs21ENDREPLACE]: //CA// s 21
+  Artistic work includes paintings etc; buildings and models; and works of artistic craftsmanship.  Reproduction of works of artistic craftsmanship is also an infringement (3D to 3D).
+
+**Application on a 3D object**
+
+Reproduction of an artistic work. If design is registered, also embodied on a product.
+
+**Plans**
+
+Reproduction of an artistic work to copy the plans. Reproduction of an artistic work to make the dress.
+
+**Models, mock-ups**
+
+If the model is a work of artistic craftsmanship, the reproduction will be an infringement (covers 3D to 3D). Sometimes applies to the first production item of some garments.
+
+### Design/Copyright Overlap
+
+Articles that can be registered as designs are not eligible for copyright protection. Shorter term of design protection is more appropriate for industrial designs.
+
+### Copyright Lost Where There is a Corresponding Registered Design
+
+Pursuant to the //Copyright Act 1968// (Cth), where a design is or has been registered, it is not an infringement of an artistic work to reproduce the work by embodying that, or any other, corresponding design in a product.[^REPLACEMECAs75ENDREPLACE]
+[^REPLACEMECAs75ENDREPLACE]: //CA// s 75
+
+
+### Copyright Lost Where There is an Unregistered Corresponding Design
+
+Pursuant to the //Copyright Act 1968// (Cth) where a design has been applied industrially, it is not an infringement of an artistic work to reproduce the work by embodying that, or any other corresponding design in a product. [^REPLACEMECAs77ENDREPLACE]
+[^REPLACEMECAs77ENDREPLACE]: //CA// s 77
+ 'Applied industrially' is a question of fact, although a design will definitely be industrially applied if there is more than 50 articles (*Copyright Regulations 1969* (Cth) r 17). This is the presumption set out in the *Copyright Regulations 1969* (Cth). Once this has occurred, the design is considered to be a mass produced industrial application and the right holder looses their ability to be protected by copyright protection. Creators who intend to mass-produce their designs should apply for design protection.
+
+Note this does not apply to works of artistic craftsmanship, buildings or models of buildings.
+
+### Corresponding Design
+
+Corresponding design “means visual features of shape or configuration which, when embodied in a product, result in a reproduction of that work, whether or not the visual features constitute a design that is capable of being registered under the Designs Act 2003”. [^REPLACEMECopyrightAct1968Cths74ENDREPLACE]
+[^REPLACEMECopyrightAct1968Cths74ENDREPLACE]: //Copyright Act 1968// (Cth) s 74
+ Does not cover flat designs (artistic works printed on a product are still protected under copyright).
+
+__*Coogi v Hysport* (1998) 157 ALR 247__
+
+The first production run of a knitted fabric was a work of artistic craftsmanship.  Produced by refining a mechanical process in line with aesthetic decisions. Could show reproduction of a substantial part of the fabric by showing that another fabric had “the essential 'look'” of the original. Objective similarity not made out on the facts.
+
+__*Muscat v Le* [2003] FCA 1540__
+
+Sample pants were not works of artistic craftsmanship:
+
+>“The sample garments were not created as works of art. They came into existence for the purpose of determining how the design would look and to enable Ms Muscat to decide whether any changes should be made before production commenced. In any event, the sample garments are not works of craftsmanship and Ms Muscat never intended them to be”. (Finkelstein J, [49])
+
+Copyright did subsist in the patterns. Right to prohibit manufacture lost under 1996 Act (and 2003). Pattern was indirectly copied when the defendant created their own patterns from the pants. Copyright infringement under 1996 Act. 'Plan to plan' copyright protection is now also lost under the 2003 Act.
+
+### Plan-to-Plan and Advertising Exception
+
+It is not an infringement of copyright in an artistic work to reproduce if reproduction is derived from a 3D product that embodies a corresponding design; and reproduction is in the course of making, selling, or advertising a non-infringing product.[^REPLACEMECAs77AENDREPLACE]
+[^REPLACEMECAs77AENDREPLACE]: //CA// s 77A
+
+
+__Burge v Swarbrick (2007) HCA 17__
+
+Naval architect hand-built life size prototype ('plug') for fibreglass moulds. Held - not a work of artistic craftsmanship. Matters of visual and aesthetic appeal were secondary to function. Therefore s 77 removed copyright protection.
+
+## IP in the Fashion Industry
+
+Intellectual property is a valuable tool used protect works in the fashion industry. Many aspects of intellectual property are involved in protecting fashion such as copyright, trade marks, patents and designs.
+
+The following video discusses the way intellectual property operates in the fashion industry and outlines the copyright design overlap and how it effects fashion works.
+
+
+**Video overview by Emily Burns on [IP in the Fashion Industry](https://www.youtube.com/watch?v=bLHIgfWk9e8)**

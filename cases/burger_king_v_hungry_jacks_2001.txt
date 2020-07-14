@@ -1,0 +1,41 @@
+======Burger King Corporation v Hungry Jack's Pty Limited [2001] NSWCA 187 (21 June 2001)======
+
+{{tag>"case law" contract "good faith" NSWCA}}
+
+**Court**: [[New South Wales Court of Appeal]]
+
+**Judges**: Sheller, Beazley, Stein JA
+
+**Date decided**: 21 June 2001
+
+Hungry Jack's Pty Ltd (HJPL) was the non-exclusive franchisee of US giant Burger King Corporation (BKC), trading under its own mark. The development agreement between HJPL and BKC provided for HJPL to develop four new restaurants per year in Western Australia, South Australia, and Queensland. HJPL was required to obtain a separate franchise agreement for each new restaurant.
+
+BKC wanted to reduce HJPL's role in the Australian market and increase its own direct participation. In 1995, BKC implemented a freeze on HJPL recruiting third party franchisees, imposed a $10,000 'non-refundable deposit' on each new restaurant, and withdrew financial and operational approval. BKC later purported to terminate the development agreement for breach, as HJPL had not been able to open then required number of new restaurants. HJPL challenged the validity of the termination, and succeeded before Rolfe J in the NSW Supreme Court. BKC appealed.
+
+One of the questions on appeal was whether the termination clause allowed BKC to terminate based upon HJPL's failure to open the required number of restaurants. The termination clause itself was widely worded such that any breach “shall constitute good cause for BKC, at its option and without prejudice to any other rights or remedies provided hereunder ... to terminate this agreement”.(([102].)) Other clauses in the contract, however, conflicted with this interpretation, notably that HJPL had a right to renew if it opened at least two restaurants but short of four per year.(([106].)) The court was also concerned that such a broad interpretation of the termination clause would allow BKC to terminate in circumstances where HJPL had expended a significant amount of money and largely completed a fourth franchise in any year, and the right would subsist even after the franchise was open.(([107].)) As a matter of construction, the Court of Appeal upheld Rolfe J's finding that breach of the development clause did not provide a strict right to terminate until after a period of twelve months as provided by another clause which allowed HJPL to rectify the default.
+
+=====Reasons: implied terms=====
+HJPL claimed that there were implied terms in the agreements:
+
+>that BKC would do all that was reasonably necessary to enable HJPL to enjoy the benefits of, inter alia, the Development Agreement (the implied term of co-operation); that BKC must act reasonably in exercising its powers under the Development Agreement; and that there was an implied obligation on BKC to act in good faith in the exercise of its contractual powers.(([141].))
+
+The Court of Appeal relied heavily on Priestley JA's obiter discussion of the obligation of good faith in [[Renard Constructions (ME) Pty Limited v Minister for Public Works (1992) 26 NSWLR 234]]. Noting the adoption of Priestley JA's construction in [[Alcatel Australia Limited v Scarcella & Ors (1998) 44 NSWLR 349]], [[Hughes Bros Pty Limited v The Trustees of the Roman Catholic Church for the Archdiocese of Sydney & Anor (1993) 31 NSWLR 91]], [[Garry Rogers Motors Aust Pty Limited v Subaru (Aust) Pty Ltd (1999) ATPR 41-703]], the Court of Appeal noted that
+>This necessarily brief survey of the case law post Alcatel indicates that obligations of good faith and reasonableness will be more readily implied in standard form contracts, particularly if such contracts contain a general power of termination. Clearly, however, the cases where these terms are to be implied are not limited to standard form agreements. Alcatel itself, which involved a 50 year lease agreement of commercial premises, provides an example of a one off contract where such terms were implied. 
+
+The Court continued:
+
+>There also appears to be increasing acceptance (Saxby Bridge aside) that if terms of good faith and reasonableness are to be implied, they are to be implied as a matter of law. We consider that to be correct. The argument by Mr Archibald, senior counsel for BKC, proceeded on that basis. He submitted, however, that the pre-conditions for the implication of a term at law had not been satisfied in this case, and that the implication was unnecessary as the contract comprehensively dealt with the rights of the parties. This raises the question of when a term will be implied at law. 
+
+Because the contract did “not fall into any of the traditional class of cases where terms have been implied as an incident of the contract”(([166].)), the Court considered whether the test for implication at law under [[Castlemaine Toohey]] and [[Byrne]] was satisfied – that is, whether the term is both reasonable and necessary.(([167].)) In determining necessity, the Court relied upon the construction of McHugh and Gummow JJ in Byrne that a term would be necessary if, without it, “the enjoyment of the rights conferred by the contract would or could be rendered nugatory, worthless, or, perhaps, be seriously undermined.”(([167], quoting Byrne, 450.))
+
+BKC contended that there was no room for an implied term at law, as the agreement covered the grounds upon which it was entitled to act. The Court of Appeal, however, was concerned by the broad wording of the discretion on this construction:
+>the granting of operational, financial and legal approval is within “the sole discretion” of BKC. If full force is given to that concept, it would allow BKC to give or to withhold relevant approval “at its whim” including capriciously, or with the sole intent of engineering a default of the Development Agreement, giving rise to a right to terminate. That is hardly the language of objectivity.(([176].))
+>...
+>on BKC’s submission, an exercise of discretion on wrong facts fell within the ambit of cl 4.1 provided that the wrong facts were not fraudulently determined. That too would permit BKC to effectively put an end to HJPL’s valuable development rights under the Development Agreement for reasons which could not be justified on the facts if they were accurately ascertained. In our opinion, applying the words used by McHugh and Gummow JJ in Byrne, the //“enjoyment of the rights conferred by the contract would or could be rendered nugatory, worthless or perhaps seriously undermined”// if the clause was able to operate in the manner for which BKC contended.(([177].))
+
+The Court of Appeal agreed with Rolfe J that the development agreement was subject to implied terms of reasonableness and good faith.(([186].)) The court noted that:
+>There is such an extraordinary range of detailed considerations, particularly in relation to whether operational requirements have been satisfied, contained within cl 4.1(a), that unless there was an implied requirement of reasonableness and good faith, BKC could, for the slightest of breaches, bring to an end the very valuable rights which HJPL had under the Development Agreement. Further, contrary to BKC’s submissions, cl 4 does not contain only objective criteria against which the discretion is to be exercised. There are many subjective, evaluative notions involved. The reflection of //“an acceptable Burger King image”// is one example. (([183].))
+
+The Court of appeal held that the freeze imposed on third-party franchisees and the withdrawal of financial and operational disapproval were in breach of BKC's implied obligations of reasonableness and good faith.(([224], [316], [368].)) The Court also found that BKC's use of a HJPL employee's advice to undermine HJPL's position was in breach of its obligations of good faith and reasonableness.(([425].)) 
+
+ 
