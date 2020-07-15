@@ -63,11 +63,11 @@ Generally, for a court to have personal jurisdiction over a defendant, the court
 
 **Overview by [Rita Matulionyte](https://www.youtube.com/watch?v=nw-SgiIaLmc)**
 
-Subject matter jurisdiction refers to the subject matter or types of actions that a court may hear and decide on. Courts are often limited with respect to the type of matter that they can hear as well as the amount in dispute. In Queensland, for instance, a money dispute of a value up to $150,000 can be resolved in the Magistrates Court,[^AUTOREPLACEDQueenslandCourtsMoneyDisputesunder150000httpswwwcourtsqldgovaugoingtocourtmoneydisputesmoneydisputesupto150000AUTOREPLACED]
+Subject matter jurisdiction refers to the subject matter or types of actions that a court may hear and decide on. Courts are often limited with respect to the type of matter that they can hear as well as the amount in dispute. In Queensland, for instance, a money dispute of a value up to $150,000 can be resolved in the Magistrates Court,[^AUTOREPLACEDQueenslandCourtsMoneyDisputesunder150000httpswwwcourtsqldgovaugoingtocourtmoneydisputesmoneydisputesupto150000AUTOREPLACED]. At the national level, the Federal Circuit Court of Australia has exclusive jurisdiction to hear and determine civil disputes concerning copyright, designs, trade marks and plant breeder's rights, among other subject matter.[^AUTOREPLACEDFederalCircuitCourtofAustraliaIntellectualPropertyhttpwwwfederalcircuitcourtgovauwpswcmconnectfccwebgflintellectualpropertyAUTOREPLACED]
 
 [^AUTOREPLACEDQueenslandCourtsMoneyDisputesunder150000httpswwwcourtsqldgovaugoingtocourtmoneydisputesmoneydisputesupto150000AUTOREPLACED]: Queensland Courts, 'Money Disputes under $150,000' https://www.courts.qld.gov.au/going-to-court/money-disputes/money-disputes-up-to-150000
 
-. At the national level, the Federal Circuit Court of Australia has exclusive jurisdiction to hear and determine civil disputes concerning copyright, designs, trade marks and plant breeder's rights, among other subject matter.[^AUTOREPLACEDFederalCircuitCourtofAustraliaIntellectualPropertyhttpwwwfederalcircuitcourtgovauwpswcmconnectfccwebgflintellectualpropertyAUTOREPLACED]
+
 
 [^AUTOREPLACEDFederalCircuitCourtofAustraliaIntellectualPropertyhttpwwwfederalcircuitcourtgovauwpswcmconnectfccwebgflintellectualpropertyAUTOREPLACED]: Federal Circuit Court of Australia, 'Intellectual Property' http://www.federalcircuitcourt.gov.au/wps/wcm/connect/fccweb/gfl/intellectual-property
 

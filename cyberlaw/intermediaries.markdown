@@ -39,7 +39,7 @@ At the same time, however, the disintermediation of speech makes legitimate, dem
 
 When we consider the regulation of online intermediaries, it is important that we do not focus solely on the technological and financial impacts of regulation on the intermediaries themselves. These are important considerations, but they are not the whole story. It is also critical to ask: whom are these laws really targeting?
 
-#### Often, the Law’s Target Is Not the Intermediary Itself
+Often, the Law’s Target Is Not the Intermediary Itself
 
 Online copyright infringement provides a useful example of how lawmakers often use intermediary liability to attempt to regulate other societal actors. When the content industry and lawmakers attempt to make ISPs responsible for copyright infringement that occurs over their networks, what they really care about is the flow on effect on users. The content industry wants ISPs to take certain actions against their users, such as sending warning notices or suspending accounts. The industry hopes that ISPs will be compelled to do this if they face legal liability for not impeding infringement. The real targets of this regulation, then, are end users.
 
