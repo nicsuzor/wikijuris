@@ -2,7 +2,7 @@
 layout: default
 title: About this textbook
 nav_order: 1
-grand_parent: Governing the Internet
+parent: Governing the Internet
 has_children: true
 ---
 
