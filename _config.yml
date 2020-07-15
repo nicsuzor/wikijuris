@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-07-15T13:45:52+10:00
+# @Last modified time: 2020-07-15T13:48:58+10:00
 
 
 
@@ -28,7 +28,7 @@ email: n.suzor@suzor.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are creating collaborative, free, open textbooks.
 baseurl: "/wikijuris" # the subpath of your site, e.g. /blog
-url: "https://nicsuzor.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nicsuzor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nicsuzor
 github_username:  nicsuzor
 
