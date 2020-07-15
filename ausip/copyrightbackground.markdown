@@ -98,7 +98,7 @@ Copyright law also protects:
 
 * sound recordings recorded in a studio or otherwise.
 
-<div markdown="block" class="box tip">
+<div markdown="block" class="box warning">
 It's important to remember that ‘ideas’ are not protected by copyright. Unless an idea is given some form of literary, dramatic, artistic or musical expression, it cannot be protected under the copyright law.
 
 There is no system to register copyright in Australia. Copyrightable work does not require registration for protection under the law. Copyright protection is free and automatic.
