@@ -2,7 +2,7 @@
 layout: default
 title: Intermediary Liability for Copyright
 nav_order: 50
-grant_parent: Governing the Internet
+parent: Governing the Internet
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_copyright.markdown){: .btn .btn-outline }
 # Intermediary Liability for Copyright

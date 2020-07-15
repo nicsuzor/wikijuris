@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Copyright Safe Harbours
-grant_parent: Governing the Internet
+parent: Governing the Internet
 nav_order: 70
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_safe_harbours.markdown){: .btn .btn-outline }
