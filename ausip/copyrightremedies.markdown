@@ -53,7 +53,7 @@ Damages cannot be obtained from an innocent infringer – that is, damages are n
 [^AUTOREPLACEDCAs1153ENDREPLACE]: //CA// s 115(3) 
 
 
-__//Kiama Constructions v MC Casella Building Co Pty Ltd//__[^AUTOREPLACED198010IPR345ENDREPLACE]
+##### Kiama Constructions v MC Casella Building Co Pty Ltd//__[^AUTOREPLACED198010IPR345ENDREPLACE]
 [^AUTOREPLACED198010IPR345ENDREPLACE]: (1980) 10 IPR 345
 
 

@@ -46,9 +46,9 @@ A license is a permission to use copyright material in ways that would otherwise
 **Video overview by Kylie Pappalardo on[Copyright Licences](https://www.youtube.com/watch?v=nJ7mRfcNZQI).**
 
 
-An exclusive license is "a licence in writing, signed by or on behalf of the owner or prospective owner of copyright, authorising the licensee, to the exclusion of all other persons, to do an act that … the owner of the copyright would, but for the licence, have the exclusive right to do". [^AUTOREPLACED //CA// s 10(1) ENDREPLACE]
-[^AUTOREPLACED //CA// s 10(1) ENDREPLACE]:  //CA// s 10(1)
- Exclusive licences give the licensee the power to sublicense and the title to sue for infringement. [^AUTOREPLACED//CA// s 119ENDREPLACE]
+An exclusive license is "a licence in writing, signed by or on behalf of the owner or prospective owner of copyright, authorising the licensee, to the exclusion of all other persons, to do an act that … the owner of the copyright would, but for the licence, have the exclusive right to do". [^AUTOREPLACED //CA// s 10(1) ENDREPLACE] s 10(1) Exclusive licences give the licensee the power to sublicense and the title to sue for infringement. [^AUTOREPLACED//CA// s 119ENDREPLACE]
+[^AUTOREPLACED //CA// s 10(1) ENDREPLACE]:  //CA//
+
 [^AUTOREPLACED//CA// s 119ENDREPLACE]: //CA// s 119
 
 
@@ -68,13 +68,11 @@ Licenses can be implied from the circumstances. A newspaper editor has an implie
 [^AUTOREPLACED//Beck v Montana Constructions Pty Ltd// (1963) WN (NSW) 1578ENDREPLACE]: //Beck v Montana Constructions Pty Ltd// (1963) WN (NSW) 1578
 
 
-__//Beck v Montana Constructions Pty Ltd// [^AUTOREPLACED[1964-5] NSWR 229; (1963) WN (NSW) 1578ENDREPLACE]
-[^AUTOREPLACED[1964-5] NSWR 229; (1963) WN (NSW) 1578ENDREPLACE]: [1964-5] NSWR 229; (1963) WN (NSW) 1578
-__
+##### Beck v Montana Constructions Pty Ltd// [1964-5] NSWR 229; (1963) WN (NSW) 1578__
 
-In the case of //Beck v Montana Constructions Pty Ltd// [^AUTOREPLACED(1963) WN (NSW) 1578ENDREPLACE]
+In the case of //Beck v Montana Constructions Pty Ltd// [^AUTOREPLACED(1963) WN (NSW) 1578ENDREPLACE] a firm of architects was commissioned to draw plans for a block of units. When the owners sold the land they gave the purchaser the plans. The purchaser decided to build in accordance with the plans but not to retain the architect. The other architect who was retained produced plans which were a substantial reproduction of the first architect’s plans. The original architects sued the purchaser and its architect for infringement of the copyright in the sketch plans.
 [^AUTOREPLACED(1963) WN (NSW) 1578ENDREPLACE]: (1963) WN (NSW) 1578
- a firm of architects was commissioned to draw plans for a block of units. When the owners sold the land they gave the purchaser the plans. The purchaser decided to build in accordance with the plans but not to retain the architect. The other architect who was retained produced plans which were a substantial reproduction of the first architect’s plans. The original architects sued the purchaser and its architect for infringement of the copyright in the sketch plans.
+
 
 It was held that there was an implied licence in favour of the purchaser to use the plans in respect of the same land.
 
@@ -99,6 +97,5 @@ There are four conditions that can be applied to a Creative Commons license.
 
 A statutory licence involves the copyright owner making the copyright work available for use (to a specific audience) without requiring permission. The copyright owner is then entitled to be compensated for the use of their work.
 
-In December 2017 the statutory licensing scheme in Australia was simplified. The previous educational statutory licences in Parts VA and VB of the //Copyright Act 1968// (Cth) was replaced by one simplified statutory licence. [^AUTOREPLACED//CA// ss 113N - 113UENDREPLACE]
+In December 2017 the statutory licensing scheme in Australia was simplified. The previous educational statutory licences in Parts VA and VB of the //Copyright Act 1968// (Cth) was replaced by one simplified statutory licence. [^AUTOREPLACED//CA// ss 113N - 113UENDREPLACE] The statutory licence will be discussed in more detail in the Chapter on Copyright Limitations and Exceptions.
 [^AUTOREPLACED//CA// ss 113N - 113UENDREPLACE]: //CA// ss 113N - 113U
- The statutory licence will be discussed in more detail in Chapter 9 - Copyright Limitations and Exceptions.

@@ -149,15 +149,15 @@ Below is a brief timeline of the developments of copyright law in Australia from
 | 1709 | The //Statute of Anne// | The //Statute of Anne// was the first statute to regulate copyright (by the government and courts), as opposed to private parties. |
 | 1828 | //Australian Court Act 1828// (UK) | The UK statues were received into Australian colonies.|  
 | 1883 | Ownership in copyright | As a result of changes to copyright law to include photographs the question of who was the owner of the copyright in the photograph and under what circumstances became an issue for the court to decide. [^AUTOREPLACEDNottagevJackson188311QBD627ENDREPLACE]
-[^AUTOREPLACEDNottagevJackson188311QBD627ENDREPLACE]: //Nottage v Jackson// (1883) 11 QBD 627 
+[^AUTOREPLACEDNottagevJackson188311QBD627ENDREPLACE]: //Nottage v Jackson// (1883) 11 QBD 627
 |
 | 1886 | The //Berne Convention// | //The Berne Convention for the Protection of Literary and Artistic Works// is agreed, following a campaign by French writer Victor Hugo. The aim is to give creators the right to control and receive payment for their creative works on an international level.|
 | 1901 | The //Australian Constitution// | Australia became a nation. |
 | 1905 | //Copyright Act 1905// (Cth) | The first Commonwealth copyright statute. |
 | 1912 | //Copyright Act 1912// (Cth) | The second Commonwealth copyright statute which adopted the //Copyright Act 1911// (UK). |
-| 1937 | Limitations to rights over intangible property | The High Court of Australia considered the case of //[Victoria Park Racing & Recreation Grounds Co Ltd v Taylor](http://classic.austlii.edu.au/au/cases/cth/HCA/1937/45.html)// [^AUTOREPLACED193758CLR479ENDREPLACE]
+| 1937 | Limitations to rights over intangible property | The High Court of Australia considered the case of //[Victoria Park Racing & Recreation Grounds Co Ltd v Taylor](http://classic.austlii.edu.au/au/cases/cth/HCA/1937/45.html)// [^AUTOREPLACED193758CLR479ENDREPLACE] The case considered property rights. One aspect of the case considered whether copyright law had been breached with respect to facts. It was held that, "[t]he law of copyright does not operate to give any person an exclusive right to state or to describe particular facts. A person cannot by first announcing that a man fell off a bus or that a particular horse won a race prevent other people from stating those facts".[^AUTOREPLACEDVictoriaParkRacingRecreationGroundsCoLtdvTaylor193758CLR479479ENDREPLACE]
 [^AUTOREPLACED193758CLR479ENDREPLACE]:  (1937) 58 CLR 479
- The case considered property rights. One aspect of the case considered whether copyright law had been breached with respect to facts. It was held that, "[t]he law of copyright does not operate to give any person an exclusive right to state or to describe particular facts. A person cannot by first announcing that a man fell off a bus or that a particular horse won a race prevent other people from stating those facts".[^AUTOREPLACEDVictoriaParkRacingRecreationGroundsCoLtdvTaylor193758CLR479479ENDREPLACE]
+
 [^AUTOREPLACEDVictoriaParkRacingRecreationGroundsCoLtdvTaylor193758CLR479479ENDREPLACE]: //Victoria Park Racing & Recreation Grounds Co Ltd v Taylor// (1937) 58 CLR 479, [479]
 |
 | 1956| //Copyright Act 1956// (UK) | This //Act// did not apply to Australia. |

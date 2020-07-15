@@ -33,13 +33,13 @@ The following video provides a brief overview of the copyright duration, also kn
 
 **Video overview by Kylie Pappalardo on [Copyright Duration](https://www.youtube.com/watch?v=cCA_Ab0kZa4).** **Note this video does not include the updated provisions as of 2019**
 
-Since the requirements of the //AUSFTA// were introduced, the duration of copyright for published literary, dramatic, musical, and artistic works is 70 years after the death of the author. [^AUTOREPLACEDCAs33ENDREPLACE]
+Since the requirements of the //AUSFTA// were introduced, the duration of copyright for published literary, dramatic, musical, and artistic works is 70 years after the death of the author. [^AUTOREPLACEDCAs33ENDREPLACE] Works that are classified as sound recordings and cinematograph films are protected by copyright for 70 years from the year of publication. [^AUTOREPLACEDCAs93ENDREPLACE] The remainder of the copyright duration provisions are for terms less than 70 years. For Crown copyright works, the duration is 50 years from the date of creation. Similarly, copyright protection in broadcasts lasts for 50 years from the year the broadcast was first made. [^AUTOREPLACEDCAs95ENDREPLACE] Lastly, the duration of copyright protection in published editions is 25 years from year of first publication. [^AUTOREPLACEDCAs96CthENDREPLACE]
 [^AUTOREPLACEDCAs33ENDREPLACE]: //CA// s 33
- Works that are classified as sound recordings and cinematograph films are protected by copyright for 70 years from the year of publication. [^AUTOREPLACEDCAs93ENDREPLACE]
+
 [^AUTOREPLACEDCAs93ENDREPLACE]: //CA// s 93
- The remainder of the copyright duration provisions are for terms less than 70 years. For Crown copyright works, the duration is 50 years from the date of creation. Similarly, copyright protection in broadcasts lasts for 50 years from the year the broadcast was first made. [^AUTOREPLACEDCAs95ENDREPLACE]
-[^AUTOREPLACEDCAs95ENDREPLACE]: //CA// s 95 
- Lastly, the duration of copyright protection in published editions is 25 years from year of first publication. [^AUTOREPLACEDCAs96CthENDREPLACE]
+
+[^AUTOREPLACEDCAs95ENDREPLACE]: //CA// s 95
+
 [^AUTOREPLACEDCAs96CthENDREPLACE]:  //CA// s 96 Cth
 
 
@@ -63,11 +63,11 @@ For copyright material first made public before 1 January 2019 the copyright con
 For copyright material never made public, and material first made public on or after 1 January 2019 the new duration provisions are:
 
   * If the subject matter other than works is first made public before the end of 50 years after the calendar year in which the material was made, the copyright continues to subsist until 70 years after the calendar year in which the material was first made public. [^AUTOREPLACEDCAs933ENDREPLACE]
-[^AUTOREPLACEDCAs933ENDREPLACE]: //CA// s 93(3) 
+[^AUTOREPLACEDCAs933ENDREPLACE]: //CA// s 93(3)
 
 
   * If the subject matter other than works is not made public before the end of 50 years after the calendar year in which the material was made, copyright subsists for 70 years after the calendar year in which the copyright material was made.[^AUTOREPLACEDCAs933ENDREPLACE]
-[^AUTOREPLACEDCAs933ENDREPLACE]: //CA// s 93(3) 
+[^AUTOREPLACEDCAs933ENDREPLACE]: //CA// s 93(3)
 
 
 #### Orphan Works
@@ -86,15 +86,15 @@ Content adapted from the information sheet created by staff of the University of
 
 Governments, academics and advocacy groups both domestically and internationally have explored what the most appropriate balance may be with respect to the duration of copyright.
 
-An economic study of copyright found that a term of approximately 25 years was appropriate to provide rights holders the opportunity to "generate revenue comparable to what they would receive in perpetuity…without imposing onerous costs on consumers". [^AUTOREPLACEDLandesWandPosnerR2002IndefinitelyRenewableCopyrightJohnMOlinLawEconomicsWorkingPaperNo154UniversityofChicagoChicagoENDREPLACE]
+An economic study of copyright found that a term of approximately 25 years was appropriate to provide rights holders the opportunity to "generate revenue comparable to what they would receive in perpetuity…without imposing onerous costs on consumers". The suggested term of 25 years was considered to be "sufficient to incentivise creative effort". [^AUTOREPLACEDLandesWandPosnerR2002IndefinitelyRenewableCopyrightJohnMOlinLawEconomicsWorkingPaperNo154UniversityofChicagoChicagoENDREPLACE] Another study was undertaken into copyright protection using data from the US copyright register to measured the costs that is paid by the public when copyright protection is increased. [^AUTOREPLACEDPollockR2007ForeverMinusaDaySomeTheoryandEmpiricsofOptimalCopyright24SeptemberMPRAPaperNo5024MunichPersonalResearchPapersinEconomicsArchiveMunichENDREPLACE] [^AUTOREPLACEDLandesWandPosnerR2002IndefinitelyRenewableCopyrightJohnMOlinLawEconomicsWorkingPaperNo154UniversityofChicagoChicagoENDREPLACE] This study suggested a copyright term of approximately 15 years after the creation of the work was sufficient and factored in the benefits of copyright for rights holders and costs of the system on the public.
 [^AUTOREPLACEDLandesWandPosnerR2002IndefinitelyRenewableCopyrightJohnMOlinLawEconomicsWorkingPaperNo154UniversityofChicagoChicagoENDREPLACE]: Landes, W. and Posner, R. 2002, Indefinitely Renewable Copyright, John M Olin Law & Economics Working Paper No 154, University of Chicago, Chicago
- The suggested term of 25 years was considered to be "sufficient to incentivise creative effort". [^AUTOREPLACEDLandesWandPosnerR2002IndefinitelyRenewableCopyrightJohnMOlinLawEconomicsWorkingPaperNo154UniversityofChicagoChicagoENDREPLACE]
+
 [^AUTOREPLACEDLandesWandPosnerR2002IndefinitelyRenewableCopyrightJohnMOlinLawEconomicsWorkingPaperNo154UniversityofChicagoChicagoENDREPLACE]: Landes, W. and Posner, R. 2002, Indefinitely Renewable Copyright, John M Olin Law & Economics Working Paper No 154, University of Chicago, Chicago
 
 
-Another study was undertaken into copyright protection using data from the US copyright register to measured the costs that is paid by the public when copyright protection is increased. [^AUTOREPLACEDPollockR2007ForeverMinusaDaySomeTheoryandEmpiricsofOptimalCopyright24SeptemberMPRAPaperNo5024MunichPersonalResearchPapersinEconomicsArchiveMunichENDREPLACE]
+
 [^AUTOREPLACEDPollockR2007ForeverMinusaDaySomeTheoryandEmpiricsofOptimalCopyright24SeptemberMPRAPaperNo5024MunichPersonalResearchPapersinEconomicsArchiveMunichENDREPLACE]: Pollock, R. 2007, Forever Minus a Day? Some Theory and Empirics of Optimal Copyright, 24 September, MPRA Paper No. 5024, Munich Personal Research Papers in Economics Archive, Munich
- This study suggested a copyright term of approximately 15 years after the creation of the work was sufficient and factored in the benefits of copyright for rights holders and costs of the system on the public.
+
 
 Most recently, the Australian Productivity Commission undertook an inquiry into Australia’s Intellectual Property Arrangements. This inquiry provided an overview of the current copyright protection provisions and noted that, "[w]hile a single optimal copyright term is arguably elusive, it is likely to be considerably less than 70 years after death". [^AUTOREPLACEDAustralianProductivityCommissionInquiryReportIntellectualPropertyArrangementsNo7823September2016ENDREPLACE]
 [^AUTOREPLACEDAustralianProductivityCommissionInquiryReportIntellectualPropertyArrangementsNo7823September2016ENDREPLACE]: Australian Productivity Commission, Inquiry Report, Intellectual Property Arrangements No. 78, 23 September 2016

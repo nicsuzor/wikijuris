@@ -66,9 +66,9 @@ It is becoming increasingly difficult to determine situations where human author
 
 ## The Internet of Things  
 
-The [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) is digitised inter - connectivity of products and programs, people and places. It is essentially, the concept of connecting devices "with an on and off switch to the Internet". [^AUTOREPLACEDJaconMorganASimpleExplanationOfTheInternetOfThings2014ForbesENDREPLACE]
+The [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) is digitised inter - connectivity of products and programs, people and places. It is essentially, the concept of connecting devices "with an on and off switch to the Internet". [^AUTOREPLACEDJaconMorganASimpleExplanationOfTheInternetOfThings2014ForbesENDREPLACE] The idea underling the IoT is that this network of physical devices, coupled with embedded  electronics, software, etc will enable a higher level of efficiency, increased economic benefits, and reduced human exertions.
 [^AUTOREPLACEDJaconMorganASimpleExplanationOfTheInternetOfThings2014ForbesENDREPLACE]: Jacon Morgan, 'A Simple Explanation Of 'The Internet Of Things' (2014), Forbes
- The idea underling the IoT is that this network of physical devices, coupled with embedded  electronics, software, etc will enable a higher level of efficiency, increased economic benefits, and reduced human exertions.
+
 
 **Video overview by Charmaine Cowan on [The Internet of Things](https://www.youtube.com/watch?v=vSPox5mJU0k).**
 

@@ -100,7 +100,7 @@ The meaning of manner of manufacture has been debated by the Australian High Cou
 
 The //Patents Act 1990// (Cth) incorporates the guidelines for manner of manufacture within s 18. Pursuant to s18 of the //Act// an invention is to be a manner of manufacture within the meaning of s 6 of the //Statute of Monopolies//.
 
-__//National Research Development Corporation v Commissioner of Patents (1959) 102 CLR 252//__
+##### National Research Development Corporation v Commissioner of Patents (1959) 102 CLR 252//__
 
 Facts: Appeal to High Court from a rejection by the Deputy Commissioner.  The patent in question was a process involving a method of mixing known chemicals together and applying the mix to crops (alfalfa) in specific quantities to eliminate weeds, but not the crops. The method of producing a weedicide is not a patent for a product, it is a patent for the process of creating that product.  The application had been rejected because the the method was considered to be merely a new use of a known substance and did not result in the creation of a physical or tangible ‘vendible product’.  Vendible product concept comes from cases before *NRDC*.
 
@@ -332,7 +332,7 @@ Sections 18(1A)(b)(ii), 7(4): An invention is taken to involve an innovative ste
 [^AUTOREPLACEDPAs74ENDREPLACE]: //PA// s 7(4) 
 
 
-__//Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd (2009) 177 FCR 239//; [2009] FCAFC 81__
+##### Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd (2009) 177 FCR 239//; [2009] FCAFC 81__
 
 Facts: Concerned improved flexible roadside posts. Utilised sheet spring steel to overcome the problems of resilience and durability in existing flexible roadside posts. Stopped them from just cracking and breaking when hit. * Held: Innovation patents were designed for patenting improvements. The poles were patentable. The court held that the process to identify inventive step is to:
 

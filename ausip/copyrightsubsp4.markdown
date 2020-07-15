@@ -70,7 +70,7 @@ The means by which a "moving picture" is produced is not relevant in determining
 
 
 
-__//Sega Enterprises Ltd v Galaxy Electronics Pty Ltd//;__ [^AUTOREPLACED1996FCA761ENDREPLACE]
+##### Sega Enterprises Ltd v Galaxy Electronics Pty Ltd//;__ [^AUTOREPLACED1996FCA761ENDREPLACE]
 [^AUTOREPLACED1996FCA761ENDREPLACE]: [1996] FCA 761
  __//Galaxy Electronics Pty Ltd v Sega Enterprises Ltd//__ [^AUTOREPLACED1997FCA403ENDREPLACE]
 [^AUTOREPLACED1997FCA403ENDREPLACE]: [1997] FCA 403
@@ -113,7 +113,7 @@ A key aspect of the concept of broadcasting, which is apparent in the definition
 
 
 
-__//Telstra Corp Ltd v Australasian Performing Right Association Ltd//__ [^AUTOREPLACED1997191CLR140ENDREPLACE]
+##### Telstra Corp Ltd v Australasian Performing Right Association Ltd//__ [^AUTOREPLACED1997191CLR140ENDREPLACE]
 [^AUTOREPLACED1997191CLR140ENDREPLACE]:  (1997) 191 CLR 140
 
 
@@ -127,7 +127,7 @@ It was held that music on hold played to individual callers was considered to be
 **Video overview by Thomas Gardner on [Telstra Corp Ltd v Australasian Performing Right Association Ltd](https://www.youtube.com/watch?v=WRUtG398Ygw).**
 
 
-__//Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")//__ [^AUTOREPLACED2004218CLR273ENDREPLACE]
+##### Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")//__ [^AUTOREPLACED2004218CLR273ENDREPLACE]
 [^AUTOREPLACED2004218CLR273ENDREPLACE]:  (2004) 218 CLR 273
 
 

@@ -113,7 +113,7 @@ With respect to the taking of photographs, "private or domestic purpose" is defi
 Under s 35(5), if the person who commissions the relevant artistic works makes known to the author, either expressly or impliedly at the time of making the agreement commissioning the work, the purpose for which the work is required, then the author can restrain the person from using the work for other purposes.  
 
 <WRAP case>
-__//Blackwell v Wadsworth//__ [^AUTOREPLACED198264FLR145ENDREPLACE]
+##### Blackwell v Wadsworth//__ [^AUTOREPLACED198264FLR145ENDREPLACE]
 [^AUTOREPLACED198264FLR145ENDREPLACE]: (1982) 64 FLR 145 
 
 
@@ -132,7 +132,7 @@ This definition does not mean that all jointly produced works result in joint au
 
 
 <WRAP case>
-__//Donoghue v Allied Newspapers Ltd//__ [^AUTOREPLACED1938Ch106ENDREPLACE]
+##### Donoghue v Allied Newspapers Ltd//__ [^AUTOREPLACED1938Ch106ENDREPLACE]
 [^AUTOREPLACED1938Ch106ENDREPLACE]: [1938] Ch 106
 
 
@@ -233,7 +233,7 @@ The duration of Crown copyright is 50 years.
 
 The Copyright Law Review Committee (CLRC) recommended the abolition of special privileges for the Crown in their report, Crown Copyright (2005), but the Australian Government did not implement these recommendations.
 
-__//Copyright Agency Limited v State of NSW//__ [^AUTOREPLACED2007FCAC80ENDREPLACE]
+##### Copyright Agency Limited v State of NSW//__ [^AUTOREPLACED2007FCAC80ENDREPLACE]
 [^AUTOREPLACED2007FCAC80ENDREPLACE]: [2007] FCAC 80
 
 

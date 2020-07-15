@@ -205,9 +205,9 @@ In *Ocean Spray Cranberries v Registrar of Trade Marks*, [^AUTOREPLACED2000FCA17
 
 * (iii) Any other circumstances.
 
-__//Gazal Apparel Pty Ltd v Fine Lines Extraordinary Apparel Pty Ltd//[^AUTOREPLACED1999ATMO90ENDREPLACE]
+##### Gazal Apparel Pty Ltd v Fine Lines Extraordinary Apparel Pty Ltd//[^AUTOREPLACED1999ATMO90ENDREPLACE]
 [^AUTOREPLACED1999ATMO90ENDREPLACE]: [1999] ATMO 90
-__
+
 
 In *Gazal Apparel Pty Ltd v Fine Lines Extraordinary Apparel Pty Ltd*, [^AUTOREPLACED1999ATMO90ENDREPLACE]
 [^AUTOREPLACED1999ATMO90ENDREPLACE]: [1999] ATMO 90
@@ -230,9 +230,9 @@ Each of these will be discussed below.
 Whether a shape trade mark is distinctive often involves determining whether the shape has any functional significance.
 
 
-__//Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd//[^AUTOREPLACED1999FCA816ENDREPLACE]
+##### Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd//[^AUTOREPLACED1999FCA816ENDREPLACE]
 [^AUTOREPLACED1999FCA816ENDREPLACE]: [1999] FCA 816
-__
+
 
 In *Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd*, [^AUTOREPLACED1999FCA816ENDREPLACE]
 [^AUTOREPLACED1999FCA816ENDREPLACE]: [1999] FCA 816
@@ -244,9 +244,9 @@ In *[Chocolaterie Guylian N.V. v Registrar of Trade Marks](http://www.austlii.ed
 [^AUTOREPLACED2009FCA891ENDREPLACE]: [2009] FCA 891
  the seahorse shape of Guylian chocolates could not be registered as a trade mark as Guylian did not use the shape as its trade mark. Despite evidence that consumers associated the shape with Guylian chocolates, Guylian solely used its name as a badge of origin for goods. The seahorse shape was thus not distinctive.
 
-__//Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks//[^AUTOREPLACED2002FCAFC273ENDREPLACE]
+##### Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks//[^AUTOREPLACED2002FCAFC273ENDREPLACE]
 [^AUTOREPLACED2002FCAFC273ENDREPLACE]: [2002] FCAFC 273
-__
+
 
 In *[Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2002/273.html)*, [^AUTOREPLACED2002FCAFC273ENDREPLACE]
 [^AUTOREPLACED2002FCAFC273ENDREPLACE]: [2002] FCAFC 273
@@ -255,9 +255,9 @@ In *[Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks](http://www.austl
 
 **Colour Trade Marks**
 
-__//Philmac Pty Limited v The Registrar of Trade Marks//[^AUTOREPLACED2002FCA1551ENDREPLACE]
+##### Philmac Pty Limited v The Registrar of Trade Marks//[^AUTOREPLACED2002FCA1551ENDREPLACE]
 [^AUTOREPLACED2002FCA1551ENDREPLACE]: [2002] FCA 1551
-__
+
 
 In *Philmac Pty Limited v The Registrar of Trade Marks*, [^AUTOREPLACED2002FCA1551ENDREPLACE]
 [^AUTOREPLACED2002FCA1551ENDREPLACE]: [2002] FCA 1551
@@ -265,9 +265,9 @@ In *Philmac Pty Limited v The Registrar of Trade Marks*, [^AUTOREPLACED2002FCA15
 [^AUTOREPLACED1967HCA42ENDREPLACE]: [1967] HCA 42
  the colour scheme of a pharmaceutical capsule which was half transparent and revealed multi-coloured pellets of medicine was refused registration as the trade mark could not be described apart from the capsule.
 
-__//Woolworths Limited v BP p.l.c.// [^AUTOREPLACED2013ATMO61ENDREPLACE]
+##### Woolworths Limited v BP p.l.c.// [^AUTOREPLACED2013ATMO61ENDREPLACE]
 [^AUTOREPLACED2013ATMO61ENDREPLACE]: [2013] ATMO 61
-__
+
 
 In *Woolworths Limited v BP p.l.c.*, [^AUTOREPLACED2013ATMO61ENDREPLACE]
 [^AUTOREPLACED2013ATMO61ENDREPLACE]: [2013] ATMO 61
@@ -295,9 +295,9 @@ An application for registration must be rejected if, because of some *connotatio
 [^AUTOREPLACEDTMAs43ENDREPLACE]: //TMA// s 43
  The connotation may exist because the mark falsely suggests some quality or connection to the goods or services that it does not have.
 
-__//Scotch Whisky Association v De Witt// [^AUTOREPLACED2007FCA1649ENDREPLACE]
+##### Scotch Whisky Association v De Witt// [^AUTOREPLACED2007FCA1649ENDREPLACE]
 [^AUTOREPLACED2007FCA1649ENDREPLACE]: [2007] FCA 1649
-__
+
 
 In *[Scotch Whisky Association v De Witt](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2007/1649.html)*, [^AUTOREPLACED2007FCA1649ENDREPLACE]
 [^AUTOREPLACED2007FCA1649ENDREPLACE]: [2007] FCA 1649
@@ -337,9 +337,9 @@ If the public would not expect the same business to supply both the goods/servic
 #### Substantially Identical
 
 
-__//Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd//[^AUTOREPLACED1963HCA66ENDREPLACE]
+##### Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd//[^AUTOREPLACED1963HCA66ENDREPLACE]
 [^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66]
-__
+
 
 Windeyer J in *[Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1963/66.html)*, [^AUTOREPLACED1963HCA66ENDREPLACE]
 [^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66]
@@ -353,9 +353,9 @@ Substantial identity cannot be established simply on the basis that one trade ma
 [^AUTOREPLACEDAngovesPtyLtdvJohnson198243ALR349ENDREPLACE]: *Angoves Pty Ltd v Johnson* (1982) 43 ALR 349
 
 
-__//Coca Cola Co v All-Fect Distributors Ltd//[^AUTOREPLACED199996FCR107ENDREPLACE]
+##### Coca Cola Co v All-Fect Distributors Ltd//[^AUTOREPLACED199996FCR107ENDREPLACE]
 [^AUTOREPLACED199996FCR107ENDREPLACE]:  (1999) 96 FCR 107
-__
+
 
 In *Coca Cola Co v All-Fect Distributors Ltd*, [^AUTOREPLACED199996FCR107ENDREPLACE]
 [^AUTOREPLACED199996FCR107ENDREPLACE]:  (1999) 96 FCR 107
@@ -372,17 +372,17 @@ The case concerned coke bottle lollies, which used a similar shape that Coca-Col
 
 **Video overview by Laura O'Brien on the [Test of Substantial Identity](https://www.youtube.com/watch?v=KTluc6T23oY)**
 
-__//Woolworths v Register of Trade Marks//[^AUTOREPLACED1999FCAFC1020ENDREPLACE]
+##### Woolworths v Register of Trade Marks//[^AUTOREPLACED1999FCAFC1020ENDREPLACE]
 [^AUTOREPLACED1999FCAFC1020ENDREPLACE]: [1999] FCAFC 1020
-__
+
 
 In *Woolworths v Register of Trade Marks*, [^AUTOREPLACED1999FCAFC1020ENDREPLACE]
 [^AUTOREPLACED1999FCAFC1020ENDREPLACE]: [1999] FCAFC 1020
  the 'Woolworths Metro' logo was held to be registrable, despite the fact that the word 'metro' was already registered. This is because when the logo, which included wavy lines, was compared to the word, they could not be said to be similar.
 
-__//Torpedoes Sportswear Pty Limited v Thorpedo Enterprises Pty Limited//[^AUTOREPLACED2003FCA901ENDREPLACE]
+##### Torpedoes Sportswear Pty Limited v Thorpedo Enterprises Pty Limited//[^AUTOREPLACED2003FCA901ENDREPLACE]
 [^AUTOREPLACED2003FCA901ENDREPLACE]: [2003] FCA 901
-__
+
 
 In *[Torpedoes Sportswear Pty Limited v Thorpedo Enterprises Pty Limited](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2003/901.html)*, [^AUTOREPLACED2003FCA901ENDREPLACE]
 [^AUTOREPLACED2003FCA901ENDREPLACE]: [2003] FCA 901
@@ -402,41 +402,41 @@ A trade mark is taken to be deceptively similar to another trade  mark if it so 
 
 The marks need not be compared side by side. Instead, the residual impression on consumers that the trade mark leaves in considered - both aural and visual. respective meaning of the marks (visual and aural). To some extent, common prefixes and suffixes are discounted to make this comparison. It is the net impression of the mark that must be considered – how the mark is perceived as a whole – are consumer likely to be ‘caused to wonder' if the goods or services are connected.
 
-__//Southern Cross Refrigeration Co v Toowoomba Foundry Pty Ltd//[^AUTOREPLACED1954HCA82ENDREPLACE]
+##### Southern Cross Refrigeration Co v Toowoomba Foundry Pty Ltd//[^AUTOREPLACED1954HCA82ENDREPLACE]
 [^AUTOREPLACED1954HCA82ENDREPLACE]: [1954] HCA 82
-__
+
 
 In *[Southern Cross Refrigeration Co v Toowoomba Foundry Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1954/82.html)*, [^AUTOREPLACED1954HCA82ENDREPLACE]
 [^AUTOREPLACED1954HCA82ENDREPLACE]: [1954] HCA 82
  the High Court approved the wonderment test - the trade mark will be deceptively similar if it causes a reasonable person to wonder whether it might not be the case that the two products come from the same source. In that case, the words 'Southern Cross' were applied for in respect of refrigerators. This was successfully opposed by Toowoomba Foundry, which owned the mark 'Southern Cross' in respect of well drilling machinery, milking machines, engines and windmills. There was evidence of actual confusion between the marks. Particularly relevant was that the 'Southern Cross' mark was used for many years over a large range of goods, sold at country stores that sold a wide range of products. Therefore, the marks were deceptively similar.
 
-__//Berlei Hestia Industries v the Bali Co, Inc//[^AUTOREPLACED1973HCA43ENDREPLACE]
+##### Berlei Hestia Industries v the Bali Co, Inc//[^AUTOREPLACED1973HCA43ENDREPLACE]
 [^AUTOREPLACED1973HCA43ENDREPLACE]: [1973] HCA 43
-__
+
 
 In *[Berlei Hestia Industries v the Bali Co, Inc](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1973/43.html)*, [^AUTOREPLACED1973HCA43ENDREPLACE]
 [^AUTOREPLACED1973HCA43ENDREPLACE]: [1973] HCA 43
  the aural similarities between 'Berlei' and 'Bali' made the mark deceptively similar by reason of phonetic confusion. A consumer would be caused to wonder if there was a relationship between the two brands.
 
-__//Campomar Sociedad Limited v Nike International Limited//[^AUTOREPLACED2000HCA12ENDREPLACE]
+##### Campomar Sociedad Limited v Nike International Limited//[^AUTOREPLACED2000HCA12ENDREPLACE]
 [^AUTOREPLACED2000HCA12ENDREPLACE]: [2000] HCA 12
-__
+
 
 In *[Campomar Sociedad Limited v Nike International Limited](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/2000/12.html)*, [^AUTOREPLACED2000HCA12ENDREPLACE]
 [^AUTOREPLACED2000HCA12ENDREPLACE]: [2000] HCA 12
  Campomar marketed a 'Nike Sports Fragrance' and applied for a trade mark in class 3. Nike had no registration in this class. The court held there was no likelihood of confusion in 1986 when the first mark was applied for, but some likelihood of confusion from 1992 when the second mark was applied for, once Nike engaged in a worldwide advertising campaign.
 
-__//Crazy Ron's v Mobileworld//[^AUTOREPLACED2004FCAFC196ENDREPLACE]
+##### Crazy Ron's v Mobileworld//[^AUTOREPLACED2004FCAFC196ENDREPLACE]
 [^AUTOREPLACED2004FCAFC196ENDREPLACE]: [2004] FCAFC 196
-__
+
 
 *[Crazy Ron's v Mobileworld](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2004/196.html)*, [^AUTOREPLACED2004FCAFC196ENDREPLACE]
 [^AUTOREPLACED2004FCAFC196ENDREPLACE]: [2004] FCAFC 196
  concerned Crazy Johns, which operated since 1993 and Crazy Ron's, which operated since 1996. It was held the words CRAZY RON'S did not infringe the Crazy Johns globe device mark, as the words 'Crazy John's' was not an essential feature of the logo. However, a different conclusion might have been reached if the reputation of Crazy John's was greater.
 
-__//Wingate Marketing v Levi Strauss//[^AUTOREPLACED1994FCA1001ENDREPLACE]
+##### Wingate Marketing v Levi Strauss//[^AUTOREPLACED1994FCA1001ENDREPLACE]
 [^AUTOREPLACED1994FCA1001ENDREPLACE]: [1994] FCA 1001
-__
+
 
 In *[Wingate Marketing v Levi Strauss](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1994/1001.html)*, [^AUTOREPLACED1994FCA1001ENDREPLACE]
 [^AUTOREPLACED1994FCA1001ENDREPLACE]: [1994] FCA 1001
@@ -451,9 +451,9 @@ In *[Wingate Marketing v Levi Strauss](http://www.austlii.edu.au/cgi-bin/viewdoc
 **Video overview by Yanery Ventura-Rodriguez on [Wingate Marketing v Levi Strauss](https://www.youtube.com/watch?v=oWB_AErfJnc)**
 
 
-__//CA Henschke & Co v Rosemount Estates Pty Ltd//[^AUTOREPLACED2000FCA1539ENDREPLACE]
+##### CA Henschke & Co v Rosemount Estates Pty Ltd//[^AUTOREPLACED2000FCA1539ENDREPLACE]
 [^AUTOREPLACED2000FCA1539ENDREPLACE]: [2000] FCA 1539
-__
+
 
 In *[CA Henschke & Co v Rosemount Estates Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1539.html)*, [^AUTOREPLACED2000FCA1539ENDREPLACE]
 [^AUTOREPLACED2000FCA1539ENDREPLACE]: [2000] FCA 1539

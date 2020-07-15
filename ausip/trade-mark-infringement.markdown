@@ -88,25 +88,25 @@ This subsection protects traders and the public from unscrupulous dealers who wa
 
 The principles of goods and services being of the same description or closely related are largely the same as those that apply in the context of //TMA// s 44. Goods will not be of the ‘same description’ if their sale under the same mark by different companies would not be likely to lead to confusion or deception. If the public would not expect the same business to supply both of the goods and/or services, then the two are unlikely to be considered closely related.
 
-__//E & J Gallo Winery v Lion Nathan Australia Pty Limited//[^AUTOREPLACED2009FCAFC27ENDREPLACE]
+##### E & J Gallo Winery v Lion Nathan Australia Pty Limited//[^AUTOREPLACED2009FCAFC27ENDREPLACE]
 [^AUTOREPLACED2009FCAFC27ENDREPLACE]: [2009] FCAFC 27
-__
+
 
 In *[E & J Gallo Winery v Lion Nathan Australia Pty Limited](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2009/27.html)* [^AUTOREPLACED2009FCAFC27ENDREPLACE]
 [^AUTOREPLACED2009FCAFC27ENDREPLACE]: [2009] FCAFC 27
   Gallo Winery was the registered owner of the trade mark 'Barefoot' in relation to wines in Australia.  Lion Nathan (Australia) started selling a specialty beer under the trade mark 'Barefoot Radler' from January 2008. Infringement was established as beer and wine were held to be goods of the same description.
 
-__//Musidor BV v Tansing (t/as Apple Music House//[^AUTOREPLACED1993FCA645ENDREPLACE]
+##### Musidor BV v Tansing (t/as Apple Music House//[^AUTOREPLACED1993FCA645ENDREPLACE]
 [^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645
-__
+
 
 In *[Musidor BV v Tansing (t/as Apple Music House)](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1993/645.html), [^AUTOREPLACED1993FCA645ENDREPLACE]
 [^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645
 * concerned Musidor selling Rolling Stones bootlegs. Musidor made it plain in its advertising and get-up that the source of the origin of the goods was not authorised. Held, the disclaimer was effective to show that the goods were not related. It was held that no infringement occurred.
 
-__//Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd//[^AUTOREPLACED1996FCA1484ENDREPLACE]
+##### Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd//[^AUTOREPLACED1996FCA1484ENDREPLACE]
 [^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
-__
+
 
 In *[Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1996/1484.html)*, [^AUTOREPLACED1996FCA1484ENDREPLACE]
 [^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
@@ -124,25 +124,25 @@ To determine if a trade mark is well-known in Australia, must take account of th
 
 Examples of well-known trade marks:
 
-__//Nintendo Co Ltd v Care//[^AUTOREPLACED2000FCA1538ENDREPLACE]
+##### Nintendo Co Ltd v Care//[^AUTOREPLACED2000FCA1538ENDREPLACE]
 [^AUTOREPLACED2000FCA1538ENDREPLACE]: [2000] FCA 1538
-__
+
 
 In *[Nintendo Co Ltd v Care](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1538.html)* – the Nintendo trademark in 'Super Mario' allowed the company to prevent a person from dressing up as Mario when wrestling. [^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]
 [^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]: *Nintendo Co Ltd v Care* [2000] FCA 1538
 
 
-__//Virgin Enterprises Limited v Klapsas//[^AUTOREPLACED2001FCA1502ENDREPLACE]
+##### Virgin Enterprises Limited v Klapsas//[^AUTOREPLACED2001FCA1502ENDREPLACE]
 [^AUTOREPLACED2001FCA1502ENDREPLACE]: [2001] FCA 1502
-__
+
 
 In *[Virgin Enterprises Limited v Klapsas](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2001/1502.html)* – Virgin obtained judgement against people trying to sell Virgin limousines or Virgin rentals. The court stressed the large investments made by Virgin in marketing and promoting the brand globally was such that if the defendant ran a Virgin ad, it was likely customers would be confused. [^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]
 [^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]: *Virgin Enterprises Limited v Klapsas* [2001] FCA 1502
 
 
-__//San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd//[^AUTOREPLACED2000FCA1842ENDREPLACE]
+##### San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd//[^AUTOREPLACED2000FCA1842ENDREPLACE]
 [^AUTOREPLACED2000FCA1842ENDREPLACE]: [2000] FCA 1842
-__
+
 
 In *[San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1842.html)* - there was a serious question to be tried as to whether the use of SAN REMO on coffee machines infringed the (potentially) well-known trade mark for 'San Remo' pasta. Note this decision was made with some reluctance. [^AUTOREPLACEDSanRemoMacaroniCompanyPtyLtdvSanRemoGourmetCoffeePtyLtd2000FCA1842ENDREPLACE]
 [^AUTOREPLACEDSanRemoMacaroniCompanyPtyLtdvSanRemoGourmetCoffeePtyLtd2000FCA1842ENDREPLACE]: *San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd* [2000] FCA 1842
@@ -151,9 +151,9 @@ In *[San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd](http:/
 
 Whether goods are unrelated or not closely related is a question of degree. The less ‘unrelated’ the goods or services are, the more likely that trade mark infringement will be made out.  For example, PUMA for use on beer or CADBURY for use with respect to motorcycles. The use must indicate a connection with the owner.
 
-__//Coca-Cola Co v All-Fect Distributors Ltd//[^AUTOREPLACED1999FCA1721ENDREPLACE]
+##### Coca-Cola Co v All-Fect Distributors Ltd//[^AUTOREPLACED1999FCA1721ENDREPLACE]
 [^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
-__
+
 
 In *[Coca-Cola Co v All-Fect Distributors Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/1721.html)*, [^AUTOREPLACED1999FCA1721ENDREPLACE]
 [^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
@@ -188,9 +188,9 @@ Not all use constitutes trade mark infringement. A person will only infringe a t
 
 A registered trade mark is likely to amount to use as a mark if the manner in which it has been employed does not serve some other purpose – it is a descriptive term, it serves some functional requirement or to communicate some other message. Ordinarily, the use of an invented word or words will amount to use as a trade mark but not always – even an invented word or words used out of context can be taken by consumers as suggestive of some quality other than commercial origin or descriptive to some degree.
 
-__//Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd//[^AUTOREPLACED1963HCA66ENDREPLACE]
+##### Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd//[^AUTOREPLACED1963HCA66ENDREPLACE]
 [^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66
-__
+
 
 Kitto J in *Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd* held:[^AUTOREPLACED1963HCA66ENDREPLACE]
 [^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66
@@ -198,9 +198,9 @@ Kitto J in *Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd* held:[^AUTOREPLA
 
 >[T]he purpose and the only purpose that can be seen in the appearance of the little man on the screen is that which unites the quickly moving series of pictures as a whole, namely the purpose of conveying by a combination of pictures and words a particular message about the qualities of Shell petrol.  This fact makes it … quite certain that no viewer would ever pick out any of the individual scenes … and say to himself: “There I see something that the Shell people are showing me as being a mark by which I may know that any petrol in relation to which I see it used is theirs.  And one may fairly affirm with even greater confidence that the viewer would never infer from the films that every one of the forms which the oil drop figure takes appears there as being a mark which has been chosen to serve the specific purpose of branding petrol in reference to its origin.
 
-__//Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd//[^AUTOREPLACED1991FCA310ENDREPLACE]
+##### Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd//[^AUTOREPLACED1991FCA310ENDREPLACE]
 [^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
-__
+
 
 In *[Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1991/310.html)*, [^AUTOREPLACED1991FCA310ENDREPLACE]
 [^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
@@ -209,17 +209,17 @@ In *[Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd](htt
 
 **Video overview by Annabel Burton on [Use as a Trade Mark and Johnson & Johnson](https://www.youtube.com/watch?v=fO5T1o9Yl9E)**
 
-__//Top Heavy v Killin//[^AUTOREPLACED199634IPR282ENDREPLACE]
+##### Top Heavy v Killin//[^AUTOREPLACED199634IPR282ENDREPLACE]
 [^AUTOREPLACED199634IPR282ENDREPLACE]:  (1996) 34 IPR 282
-__
+
 
 In *Top Heavy v Killin*, [^AUTOREPLACED199634IPR282ENDREPLACE]
 [^AUTOREPLACED199634IPR282ENDREPLACE]:  (1996) 34 IPR 282
  the words 'Chill out' were not indications of the provenance of the T-shirts. The message which the mark conveyed in general terms is an exhortation to the reader to relax. Coca-Cola could thus not assert trade mark infringement.
 
-__//Mark Foy’s Ltd v Davies Co-op Co Ltd//[^AUTOREPLACED1956HCA41ENDREPLACE]
+##### Mark Foy’s Ltd v Davies Co-op Co Ltd//[^AUTOREPLACED1956HCA41ENDREPLACE]
 [^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
-__
+
 
 In *[Mark Foy’s Ltd v Davies Co-op Co Ltd](http://www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1956/41.html)*, [^AUTOREPLACED1956HCA41ENDREPLACE]
 [^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
@@ -239,9 +239,9 @@ Substantially identical requires a side by side comparison, having regard to the
 [^AUTOREPLACEDTMAs10ENDREPLACE]: //TMA// s 10
 
 
-__//Mars Australia Pty Ltd v Sweet Rewards Pty Ltd//[^AUTOREPLACED2009FCA606ENDREPLACE]
+##### Mars Australia Pty Ltd v Sweet Rewards Pty Ltd//[^AUTOREPLACED2009FCA606ENDREPLACE]
 [^AUTOREPLACED2009FCA606ENDREPLACE]: [2009] FCA 606
-__
+
 
 In *[Mars Australia Pty Ltd v Sweet Rewards Pty Ltd](http://www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2009/606.html)*, [^AUTOREPLACED2009FCA606ENDREPLACE]
 [^AUTOREPLACED2009FCA606ENDREPLACE]: [2009] FCA 606
