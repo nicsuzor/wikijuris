@@ -2,6 +2,9 @@
 layout: default
 title: The Liability of Intermediaries
 parent: Governing the Internet
+redirect_from:
+  - /cyberlaw/intermediaries_general
+  - intermediaries_general
 nav_order: 30
 ---
 
