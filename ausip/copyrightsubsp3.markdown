@@ -68,7 +68,7 @@ Copyright protects **expression** fixed in material form. It does not protect id
 
 
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 
 [^AUTOREPLACED199636IPR529at531ENDREPLACE]
 [^AUTOREPLACED199636IPR529at531ENDREPLACE]:  (1996) 36 IPR 529 at 531
@@ -97,7 +97,7 @@ A literary work includes tables, compilations, expressed in words, figures or sy
 
 A literary work is a work which is expressed in print or writing, irrespective of whether the quality or style is high.
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
  [^AUTOREPLACED19162Ch601ENDREPLACE]
 [^AUTOREPLACED19162Ch601ENDREPLACE]: [1916] 2 Ch 601
 
@@ -141,7 +141,7 @@ Copyright does not normally subsist in titles and names. Generally, titles and s
 
 The cases of //WH Allen & Co. v Brown Watson Ltd// and //McWilliam’s Wines Pty Ltd v McDonald’s System of Australia Pty Ltd// considered passing off and copyright law.
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 [^AUTOREPLACED1965RPC191ENDREPLACE]
 [^AUTOREPLACED1965RPC191ENDREPLACE]: [1965] RPC 191
 
@@ -151,7 +151,7 @@ Held, there was passing off where the defendant's published a book entitled, “
 There was already a reputation in the book written by Frank Harris entitled, "My Life and Loves".
 </WRAP>
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 [^AUTOREPLACED1980FCA159ENDREPLACE]
 [^AUTOREPLACED1980FCA159ENDREPLACE]: [1980] FCA 159
 
@@ -161,7 +161,7 @@ In the case of [McWilliam’s Wines Pty Ltd v McDonald’s System of Australia P
 
 </WRAP>
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
  [^AUTOREPLACED1982Ch119ENDREPLACE]
 [^AUTOREPLACED1982Ch119ENDREPLACE]: [1982] Ch. 119
 
@@ -171,7 +171,7 @@ The oil company adopted the name "Exxon" after considerable research and expense
 Held, although the name was original, it was not sufficiently substantial for copyright to subsist in the name.
 </WRAP>
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
  [^AUTOREPLACEDUKPC68ENDREPLACE]
 [^AUTOREPLACEDUKPC68ENDREPLACE]: UKPC 68
 
@@ -181,7 +181,7 @@ Francis, Day and Hunter had released a song titled "The Man Who Broke the Bank a
 Held, a name alone cannot possess copyright unless it is sufficiently original and distinctive. "To break the bank" is a hackneyed expression, and Monte Carlo is or was the most obvious place at which that achievement or accident might take place.
 </WRAP>
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
  [^AUTOREPLACED2010FCA984ENDREPLACE]
 [^AUTOREPLACED2010FCA984ENDREPLACE]: [2010] FCA 984
 
@@ -235,7 +235,7 @@ In the case of [Autodesk Inc v Dyason](http://classic.austlii.edu.au/au/cases/ct
 It was held that the defendant had infringed copyright in the "Autocad" by reproducing a substantial part of the program in the device.
 </WRAP>
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
  [^AUTOREPLACED1999HCA49ENDREPLACE]
 [^AUTOREPLACED1999HCA49ENDREPLACE]: [1999] HCA 49
 
@@ -257,7 +257,7 @@ The essential character of a dramatic work is that it is intended to be represen
 
 **Video overview by Brandon Hoffler on [Dramatic Works](https://www.youtube.com/watch?v=D9OxidyITdw)**
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED1989RPC469ENDREPLACE]
 [^AUTOREPLACED1989RPC469ENDREPLACE]: [1989] RPC 469
 
@@ -270,7 +270,7 @@ It was held that the repetitive elements alone did not constitute a dramatic wor
 
 </WRAP>
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
  [^AUTOREPLACED199948IPR333ENDREPLACE]
 [^AUTOREPLACED199948IPR333ENDREPLACE]: [1999]48 IPR 333
 
@@ -324,7 +324,7 @@ Drawing is defined as including "a diagram, map, chart or plan". [^AUTOREPLACEDC
 [^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
 
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __[^AUTOREPLACED1997FSR718ENDREPLACE]
 [^AUTOREPLACED1997FSR718ENDREPLACE]: [1997] FSR 718
 
@@ -343,7 +343,7 @@ Building includes a structure of any kind. [^AUTOREPLACEDCAs101ENDREPLACE]
 [^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
 
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED1980FLR240ENDREPLACE]
 [^AUTOREPLACED1980FLR240ENDREPLACE]:  (1980) FLR 240
 
@@ -351,7 +351,7 @@ __ [^AUTOREPLACED1980FLR240ENDREPLACE]
 Held, a half-tennis court was a building.
 </WRAP>
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED199841IPR649ENDREPLACE]
 [^AUTOREPLACED199841IPR649ENDREPLACE]:  (1998) 41 IPR 649
 
@@ -372,7 +372,7 @@ The two elements (artistic and craftsmanship) must be united in the same person.
 
 
 **Video overview by Joseph Auclair on[artistic craftsmanship and design protection](https://www.youtube.com/watch?v=rwYoDjYoFE4)**
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED1963VR719ENDREPLACE]
 [^AUTOREPLACED1963VR719ENDREPLACE]: [1963] VR 719
 
@@ -381,7 +381,7 @@ The issue was whether copyright subsisted in the Cuisenaire set of variously col
 
 Held, no copyright subsisted as a work of artistic craftsmanship as cutting up pieces did not constitute craftsmanship and it wasn’t a work of artistry.
 </WRAP>
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED1976AC64ENDREPLACE]
 [^AUTOREPLACED1976AC64ENDREPLACE]: [1976] AC 64
 
@@ -400,7 +400,7 @@ Lord Reid: "An item will have aesthetic appeal if a substantial section of the p
 A work of artistic craftsmanship may be mass produced. Factory based products can be works of artistic craftsmanship – they need not be handmade, although the author must use a highly sophisticated machine with creative skill, knowledge, and pride in workmanship. A work of artistic craftsmanship need not be the product of a single person. This was considered in the case of //Coogi Australia Pty Ltd v Hysport International Pty Ltd//. [^AUTOREPLACED199886FCR154ENDREPLACE]
 [^AUTOREPLACED199886FCR154ENDREPLACE]:  (1998) 86 FCR 154
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED199886FCR154ENDREPLACE]
 [^AUTOREPLACED199886FCR154ENDREPLACE]:  (1998) 86 FCR 154
 
@@ -420,7 +420,7 @@ But: "The level of aesthetic appeal required for a work of artistic craftsmanshi
 >"The statute by its definition of "artistic work" requires that a work of artistic craftsmanship be "of artistic quality"; in this context, that seems clearly to require that it have some aesthetic value. That a segment of the public can be found which may have been persuaded by advertising or by a transient fad to want to own the work because of its visual appeal does not necessarily mean that it must have the requisite minimum level of aesthetic value. I do not think the Court can, in determining whether a work is one of artistic craftsmanship, avoid the task of making a judgment, on the evidence before it, whether the work has a sufficient level of aesthetic appeal to be "of artistic quality". "Before a work will qualify as a work of craftsmanship, it must be a manifestation of pride in sound workmanship and the result of the exercise of skill on the part of its creator in using the materials of which the article is made and the devices by which those materials are turned into the article".
 
 </WRAP>
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED2007HCA17ENDREPLACE]
 [^AUTOREPLACED2007HCA17ENDREPLACE]: [2007] HCA 17
 
@@ -449,7 +449,7 @@ In copyright, the term "originality" does not mean "novel" or new. Instead, "ori
 
 **Video overview by Kylie Pappalardo on [Originality](https://www.youtube.com/watch?v=52-IJvRzNq8&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=3).**
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED19162Ch601ENDREPLACE]
 [^AUTOREPLACED19162Ch601ENDREPLACE]: [1916] 2 Ch 601
 
@@ -466,7 +466,7 @@ Held: copyright subsisted in the papers as original literary works – originali
 </WRAP>
 
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED2010FCA507ENDREPLACE]
 [^AUTOREPLACED2010FCA507ENDREPLACE]: [2010] FCA 507
 
@@ -497,7 +497,7 @@ In Australia, a compilation will be protected by copyright as an original litera
 
 
 **Major Cases**
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ (US)
 
 US position: original works must possess "some minimal degree of creativity"

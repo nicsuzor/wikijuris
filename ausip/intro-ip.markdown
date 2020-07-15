@@ -28,7 +28,7 @@ It is important to note that intellectual property does not protect an idea or a
 
 It is only when an idea is developed into a form of expression or into an invention that it becomes intellectual property. The law protects the way in which the idea is expressed, or a tangible invention that embodies the idea, rather than the idea itself.
 
-<WRAP center round box 90%>
+<div markdown="block" class="wrap  center round box 90%">
 **For example:** Copyright law will protect the way that a book, such as a Harry Potter novel, is written, but will not protect the idea behind the story, such as the idea of a school for teenage wizards and witches.
 
 Songs, logos, theatrical plays and scientific inventions are all examples of things intellectual property can protect.
@@ -81,7 +81,7 @@ Once registered, a trademark gives the owner a legal right to:
 * use the trademark in relation to its goods or services, permit others to use the mark, or sell the mark
 * stop competitors from using a same or confusingly similar trademark.
 
-<WRAP center round info 90%>
+<div markdown="block" class="wrap  center round info 90%">
 The meaning and function of a ‘trademark’ is different from that of a ‘company name’, ‘business name’ and a ‘domain name’ or URL. A business may choose to adopt the same trademark as its company name, however, registering a business name or a domain name would not give the owner the right to stop others from adopting a same or similar company or business name.
 </WRAP>
 
@@ -91,7 +91,7 @@ A design right aims to protect the outward appearance or aesthetic appeal of a p
 
 To qualify for registration, a design must have a commercial application or use, and must be new and distinctive compared to what has gone before. Once registered, the law gives the owner the sole right to commercially use, license or sell the design. Design registration lasts for 5 years, with the opportunity to renew registration up to 10 years.
 
-<WRAP center round info 90%>
+<div markdown="block" class="wrap  center round info 90%">
 For designers to get protection, a design must be registered before any manufacturing starts. One-off artistic designs for things like fashion, art, and furniture will often be automatically covered by copyright law and do not require design registration unless they are mass produced (50 or more items). Once a design is mass-produced or once the owner registers for design protection, copyright in the artist design is lost.
 </WRAP>
 

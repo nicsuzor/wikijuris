@@ -87,7 +87,7 @@ There is no hard and fast rule for how much copying or use is too much under the
 
 How much of the original work you use may be relevant to fairness, but this depends of the context and the type of work you are using. It is far more reasonable to use the whole of an artistic work, like a picture, for example, than it is to use the whole of a literary work, like a book.
 
-<WRAP center round info 90%>
+<div class="wrap  center round info 90%">
 
 **Have you heard of the 10% rule? This ‘rule’ is mostly incorrect.**
 
@@ -115,7 +115,7 @@ The difference is this: in the US, the courts only need to consider whether the 
 **Video overview by Nicolas Suzor on [Research or Study](https://www.youtube.com/watch?v=R5hyBW1zchY&index=1&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
 
 The leading case of //De Garis v Neville Jeffress Pidler Pty Ltd// considered the meaning of the terms "research or study".
-<WRAP case>
+<div class="wrap  case">
 __[^AUTOREPLACED18IPR292ENDREPLACE]
 [^AUTOREPLACED18IPR292ENDREPLACE]: 18 IPR 292
 
@@ -194,7 +194,7 @@ In the case of //De Garis v Neville Jeffress Pidler Pty Ltd// at 299-300, Beaumo
 
 * "criticism" includes all kinds of criticism – it is not restricted to literary criticism - “review” is cognate with the word “criticism”; one is the process, the other is the result of the critical application of the mental faculties.
 
-<WRAP case>
+<div class="wrap  case">
  [^AUTOREPLACED2001FCA108ENDREPLACE]
 [^AUTOREPLACED2001FCA108ENDREPLACE]: [2001] FCA 108__
 
@@ -203,7 +203,7 @@ In the case of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http://classic.austl
 "Criticism" and “review” are words of “wide and indefinite scope which should be interpreted liberally” and extend to “the thoughts underlying the expression of copyright works or subject matter”.
 They involve the passing of judgment and may be strongly expressed but, provided they are genuine and not a pretence for some other purpose, need not be balanced. [66]
 </WRAP>
-<WRAP case>
+<div class="wrap  case">
 
 //TCN Channel Nine Pty Ltd v Network Ten Ltd// [^AUTOREPLACED200255IPR112ENDREPLACE]
 [^AUTOREPLACED200255IPR112ENDREPLACE]:  (2002) 55 IPR 112
@@ -329,7 +329,7 @@ Under the fair use doctrine, the courts have regard to four factors:
 
 * the effect of the use upon the potential market for or value of the copyrighted work.
 
-<WRAP case>
+<div class="wrap  case">
 //Campbell v Acuff-Rose// [^AUTOREPLACED510US5691994ENDREPLACE]
 [^AUTOREPLACED510US5691994ENDREPLACE]: 510 US 569 (1994)
 
@@ -339,7 +339,7 @@ The Supreme Court held that 2 Live Crew’s Parody of Roy Orbison’s ‘Pretty 
 The new version was a transformative use – markedly different from the original and not substitutable in the market.
 </WRAP>
 
-<WRAP case>
+<div class="wrap  case">
 //Dr Seuss Enterprises v Penguin Books USA, Inc// [^AUTOREPLACED109F3d13949thCir1997ENDREPLACE]
 [^AUTOREPLACED109F3d13949thCir1997ENDREPLACE]: 109 F.3d 1394 (9th Cir. 1997)
 
@@ -351,7 +351,7 @@ The new version was a transformative use – markedly different from the origina
 
 </WRAP>
 
-<WRAP case>
+<div class="wrap  case">
 __ [^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]
 [^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]: 137 F.3d 109 (2d Cir. N.Y. 1998)
 
@@ -362,7 +362,7 @@ __ [^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]
 
 </WRAP>
 
-<WRAP case>
+<div class="wrap  case">
 __ [^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]
 [^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]: 268 F.3d 1257 (11th Cir. 2001)
 
@@ -373,7 +373,7 @@ __ [^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]
 
 </WRAP>
 
-<WRAP case>
+<div class="wrap  case">
 __ [^AUTOREPLACED641FSupp2d250SDNY2009ENDREPLACE]
 [^AUTOREPLACED641FSupp2d250SDNY2009ENDREPLACE]: 641 F. Supp. 2d 250 (S.D. N.Y. 2009)
 
@@ -409,7 +409,7 @@ This exception will not apply if an article or thing embodying the film or recor
 * used for broadcasting the film or recording.
 
 **Video overview by Jennifer Singleton on[Time Shifting](https://www.youtube.com/watch?v=PwzsIb9SF68).**
-<WRAP case>
+<div class="wrap  case">
 __ [^AUTOREPLACED2012FCAFC59ENDREPLACE]
 [^AUTOREPLACED2012FCAFC59ENDREPLACE]: [2012] FCAFC 59
 

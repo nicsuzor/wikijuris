@@ -98,20 +98,20 @@ Copyright law also protects:
 
 * sound recordings recorded in a studio or otherwise.
 
-<WRAP round info 60%>
+<div class="wrap  round info 60%">
 It's important to remember that ‘ideas’ are not protected by copyright. Unless an idea is given some form of literary, dramatic, artistic or musical expression, it cannot be protected under the copyright law.
 
 There is no system to register copyright in Australia. Copyrightable work does not require registration for protection under the law. Copyright protection is free and automatic.
 
 </WRAP>
 
-<WRAP group>
-<WRAP left round tip 40%>
+<div class="wrap  group">
+<div class="wrap  left round tip 40%">
 **Example: a website**
 
 Dasha, Sui-Ching and Peter are working together on a website for their employer. They contribute text, photographs and videos to the website. In this example, the text will be protected as a literary work, the photographs will be protected as artistic works, and the videos will be protected as cinematograph films.
 </WRAP>
-<WRAP left round tip 40%>
+<div class="wrap  left round tip 40%">
 **Example: video production**
 
 Kirra and Stephanie make a video to upload to YouTube. They write out a scene for the video and act in it themselves. As part of the scene, they perform an original song. Kirra writes and plays the song on her guitar, while Stephanie sings.

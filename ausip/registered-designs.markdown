@@ -19,7 +19,7 @@ A design right aims to protect the outward appearance or aesthetic appeal of a p
 
 To qualify for registration, a design must have a commercial application or use, and must be new and distinctive compared to what has gone before. Once registered, the law gives the owner the sole right to commercially use, license or sell the design. Design registration lasts for 5 years, with the opportunity to renew registration up to 10 years.
 
-<WRAP center round info 60%>
+<div class="wrap  center round info 60%">
 For designers to get protection, a design must be registered before any manufacturing starts. One-off artistic designs for things like fashion, art, and furniture will often be automatically covered by copyright law and do not require design registration unless they are mass produced (50 or more items). Once a design is mass-produced or once the owner registers for design protection, copyright in the artist design is lost.
 </WRAP>
 

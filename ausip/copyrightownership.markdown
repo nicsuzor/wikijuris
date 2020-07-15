@@ -23,7 +23,7 @@ A copyright creator is a person who uses their intellectual abilities, to create
 
 A copyright owner is a person who owns the copyright either through creation or by assignment (legal transfer of ownership). Generally, a person who creates the work also automatically owns the copyright. However, there are certain exceptions to this rule. The creator of a work and its copyright owner will not always be the same person.
 
-<WRAP round info 60%>
+<div markdown="block" class="wrap  round info ">
 It’s interesting to note that under the law, only a human being can be the *creator* of a copyrightable work. However, the right to own copyright extends to artificial entities such as a company.
 </WRAP>
 
@@ -67,7 +67,8 @@ In determining whether the work is created in the course of employment, it can b
 [^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]: //Mr Diljeet Titus v Mr. Alfred A Adebare// 130 (2006) DLT 130 (Delhi High Court)
 
 
-<WRAP case>__//Beloff v Pressdram Ltd//__ [^AUTOREPLACED1973FSR33ENDREPLACE]
+<div markdown="block" class="wrap  case">
+##### Beloff v Pressdram Ltd [^AUTOREPLACED1973FSR33ENDREPLACE]
 [^AUTOREPLACED1973FSR33ENDREPLACE]: [1973] FSR 33
 
 
@@ -114,7 +115,7 @@ With respect to the taking of photographs, "private or domestic purpose" is defi
 
 Under s 35(5), if the person who commissions the relevant artistic works makes known to the author, either expressly or impliedly at the time of making the agreement commissioning the work, the purpose for which the work is required, then the author can restrain the person from using the work for other purposes.  
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED198264FLR145ENDREPLACE]
 [^AUTOREPLACED198264FLR145ENDREPLACE]: (1982) 64 FLR 145
 
@@ -133,7 +134,7 @@ Section 10 of the //Act// defines a "work of joint authorship" as “a work that
 This definition does not mean that all jointly produced works result in joint authorship. This will only be the case where each author's contribution cannot be separated from the other. Where each person supplies a distinct part of the work, then they will not own copyright in the work as a whole jointly. Instead, they will own copyright separately in their respective parts. Supplying ideas for a work does not give rise to a claim of joint authorship over the expression.
 
 
-<WRAP case>
+<div markdown="block" class="wrap  case">
 __ [^AUTOREPLACED1938Ch106ENDREPLACE]
 [^AUTOREPLACED1938Ch106ENDREPLACE]: [1938] Ch 106
 
