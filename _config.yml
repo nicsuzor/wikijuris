@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-07-15T15:01:56+10:00
+# @Last modified time: 2020-07-15T15:48:06+10:00
 
 
 
@@ -35,6 +35,7 @@ github_username:  nicsuzor
 # Build settings
 
 remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
