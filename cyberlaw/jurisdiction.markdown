@@ -23,7 +23,7 @@ This Chapter introduces you to the concept of jurisdiction in the internet conte
 
 ## What Is Jurisdiction?
 
-**Overview Videos by [Rita Matulionyte](https://www.youtube.com/watch?v=AExlbXWFfBU)** and **[Megan Patten](https://www.youtube.com/watch?v=yegdr8Q5MdY)**
+**An introduction from [Megan Patten](https://www.youtube.com/watch?v=yegdr8Q5MdY)**
 
 The application of rules of jurisdiction to the internet is a challenging issue for courts around the globe. Western democratic understandings of jurisdiction have evolved in relation to the geographical boundaries of countries.[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201157ffAUTOREPLACED] Western democracies assert **[sovereign](https://www.youtube.com/watch?v=VMC9u7PZZCo)** power, which is based on the will of their people, to govern persons and things within their territory free from external interference. A nation state's jurisdiction does not usually extend beyond its geographical boundaries.[^AUTOREPLACEDCyberLawCentreInternetJurisdictionWhatIsJurisdictionwwwcyberlawcentreorggenl203212Jurisdictionv1pptxAUTOREPLACED] However, now that people routinely use the internet and other emerging technologies to interact across jurisdictional boundaries, courts have been grappling with complex legal questions of which state may and should properly exercise jurisdiction over parties to online activities.
 
@@ -63,8 +63,6 @@ Generally, for a court to have personal jurisdiction over a defendant, the court
 
 ## Subject Matter Jurisdiction
 
-**Overview by [Rita Matulionyte](https://www.youtube.com/watch?v=nw-SgiIaLmc)**
-
 Subject matter jurisdiction refers to the subject matter or types of actions that a court may hear and decide on. Courts are often limited with respect to the type of matter that they can hear as well as the amount in dispute. In Queensland, for instance, a money dispute of a value up to $150,000 can be resolved in the Magistrates Court,[^AUTOREPLACEDQueenslandCourtsMoneyDisputesunder150000httpswwwcourtsqldgovaugoingtocourtmoneydisputesmoneydisputesupto150000AUTOREPLACED]. At the national level, the Federal Circuit Court of Australia has exclusive jurisdiction to hear and determine civil disputes concerning copyright, designs, trade marks and plant breeder's rights, among other subject matter.[^AUTOREPLACEDFederalCircuitCourtofAustraliaIntellectualPropertyhttpwwwfederalcircuitcourtgovauwpswcmconnectfccwebgflintellectualpropertyAUTOREPLACED]
 
 [^AUTOREPLACEDQueenslandCourtsMoneyDisputesunder150000httpswwwcourtsqldgovaugoingtocourtmoneydisputesmoneydisputesupto150000AUTOREPLACED]: Queensland Courts, 'Money Disputes under $150,000' https://www.courts.qld.gov.au/going-to-court/money-disputes/money-disputes-up-to-150000
@@ -76,8 +74,6 @@ Subject matter jurisdiction refers to the subject matter or types of actions tha
 
 
 ### Contract Law
-
-**Video Overview by [Rita Matulionyte](https://www.youtube.com/watch?v=_TId_bCu2Bo)**
 
 Parties to a contract may select the legal system that will govern their rights, obligations and other matters under a contract (known as choice of law provision/s or jurisdiction clauses). If an international contract does not specify the jurisdiction where potential disputes between parties will be resolved, Australian courts may have jurisdiction over that contract where the contract is: (1) made within the jurisdiction, (2) governed by the law of the forum or (3) broken/repudiated within the jurisdiction.
 
@@ -93,7 +89,7 @@ What if an e-contract is broken by repudiation?
 
 ### Torts Law
 
-**Video Overview  by [Rita Matulionyte](https://www.youtube.com/watch?v=JtxJ6G-n3ss)** and **[Jennifer Davy on the Lex Loci Delicti Rule](https://www.youtube.com/watch?v=QbyFsmI8oAc)**
+**Video overview by [Jennifer Davy on the Lex Loci Delicti Rule](https://www.youtube.com/watch?v=QbyFsmI8oAc)**
 
 The general _lex loci delicti_ rule is that courts have jurisdiction over the dispute if the tort occurred inside the territory of the court. See the Choice of Law section below.
 
@@ -194,15 +190,15 @@ Even if a court has personal and subject matter jurisdiction in proceedings, and
 
 ### Declining Jurisdiction - 'Forum Non Conveniens'
 
-**Video Overview by [Rita Matulionyte](https://www.youtube.com/watch?v=7CGvluwxsKY)** and **[Cameron Martin](https://www.youtube.com/watch?v=8KrtqFaQbn4)**
+**Video Overview [Cameron Martin](https://www.youtube.com/watch?v=8KrtqFaQbn4)**
 
-Courts can deny jurisdiction based on the “clearly inappropriate forum” or "Voth"[^AUTOREPLACEDVothvManildraFlourMillsPtyLtd1990171CLR538AUTOREPLACED] test. The High Court in Voth rejected the "more appropriate forum" in favour of the "clearly inappropriate forum" primarily to minimise the extent that courts have to make value judgments about courts and conceptions of justice in foreign jurisdictions.[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited2011127ffAUTOREPLACED]
+Courts can deny jurisdiction based on the “clearly inappropriate forum” or "Voth"[^voth] test. The High Court in Voth rejected the "more appropriate forum" in favour of the "clearly inappropriate forum" primarily to minimise the extent that courts have to make value judgments about courts and conceptions of justice in foreign jurisdictions.[^bf127]
 
-[^AUTOREPLACEDVothvManildraFlourMillsPtyLtd1990171CLR538AUTOREPLACED]: Voth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538
+[^voth]: Voth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538
 
 
 
-[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited2011127ffAUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 127 ff
+[^bf127]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 127 ff
 
 
 

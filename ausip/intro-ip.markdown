@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iptheory
+title: Introduction to Intellectual Property
 nav_order: 5
 parent: Australian IP Law
 ---
