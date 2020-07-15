@@ -54,9 +54,9 @@ Some networks are easier to regulate than others. More decentralised networks, s
 
 One way of avoiding regulation online is through the use of a Virtual Private Network **[('VPN')](https://www.youtube.com/watch?v=prhQKAJG8nA)**. A VPN creates an encrypted 'tunnel' from an entry point in one jurisdiction to an exit point in another. By using a VPN, a user can appear to be located in another jurisdiction. This means a user can potentially avoid jurisdiction-based filtering or blocking, such as geo-blocking of online content, and attempt to better conceal their real location and other personal information.
 
-<WRAP center round tip 60%>
+
 Watch: **[Mitch Huges](https://www.youtube.com/watch?v=rk0aeKMCRFs)** explains how, before Netflix was available in Australia, many Australians used VPNs to access overseas Netflix content and ultimately bypass industry agreements that require geographic market segmentation of content.
-</WRAP>
+
 
 
 

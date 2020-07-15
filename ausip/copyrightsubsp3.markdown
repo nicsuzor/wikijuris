@@ -68,7 +68,7 @@ Copyright protects **expression** fixed in material form. It does not protect id
 
 
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 
 [^AUTOREPLACED199636IPR529at531ENDREPLACE]
 [^AUTOREPLACED199636IPR529at531ENDREPLACE]:  (1996) 36 IPR 529 at 531
@@ -77,7 +77,7 @@ Copyright protects **expression** fixed in material form. It does not protect id
 
 >"There is a tension in policy between the monopoly rights which are conferred upon the owner of copyright in a literary, dramatic, musical or artistic work on the one hand, and the freedom to express ideas or discuss facts on the other. While there will be an infringement of the copyright of an owner in a literary, dramatic, musical or artistic work where there is a reproduction of that work or a substantial part of it, the fact that another work deals with the same ideas or discusses matters of fact also raised in the work in respect of which copyright is said to subsist will not, of itself, constitute an infringement. Were it otherwise the copyright laws would be an impediment to free speech, rather than an encouragement of original expression". (Hill J)
 
-</WRAP>
+</div>
 
 ## Literary, Dramatic, Musical, or Artistic Work
 
@@ -97,7 +97,7 @@ A literary work includes tables, compilations, expressed in words, figures or sy
 
 A literary work is a work which is expressed in print or writing, irrespective of whether the quality or style is high.
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
  [^AUTOREPLACED19162Ch601ENDREPLACE]
 [^AUTOREPLACED19162Ch601ENDREPLACE]: [1916] 2 Ch 601
 
@@ -109,7 +109,7 @@ Peterson J said at 608:
 >"In my view the words ‘literary work’ cover work which is expressed in print or writing, irrespective of the question whether the quality or style is high.  The word ‘literary’ seems to be used in a sense somewhat similar to the use of the word ‘literature’ in political or electioneering literature and refers to written or printed material".
 
 This case is discussed further under 'Originality' (below).
-</WRAP>
+</div>
 
 Examples of literary works include:
 
@@ -141,7 +141,7 @@ Copyright does not normally subsist in titles and names. Generally, titles and s
 
 The cases of //WH Allen & Co. v Brown Watson Ltd// and //McWilliam’s Wines Pty Ltd v McDonald’s System of Australia Pty Ltd// considered passing off and copyright law.
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 [^AUTOREPLACED1965RPC191ENDREPLACE]
 [^AUTOREPLACED1965RPC191ENDREPLACE]: [1965] RPC 191
 
@@ -149,9 +149,9 @@ The cases of //WH Allen & Co. v Brown Watson Ltd// and //McWilliam’s Wines Pty
 Held, there was passing off where the defendant's published a book entitled, “Frank Harris: My Life and Adventures”.
 
 There was already a reputation in the book written by Frank Harris entitled, "My Life and Loves".
-</WRAP>
+</div>
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 [^AUTOREPLACED1980FCA159ENDREPLACE]
 [^AUTOREPLACED1980FCA159ENDREPLACE]: [1980] FCA 159
 
@@ -159,9 +159,9 @@ There was already a reputation in the book written by Frank Harris entitled, "My
 In the case of [McWilliam’s Wines Pty Ltd v McDonald’s System of Australia Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1980/159.html) a wine company brought out a wine called "Big Mac". McDonalds claimed that this was a breach of s 52 of the //Trade Practices Act// (the law preceding the Australian Consumer Law). McDonald's argued that people would be misled into thinking that the wine had some connection with McDonalds. The court held that there was no breach. McWilliam’s conduct might confuse people but this was not the same as being misled under the //Trade Practices Act//.[^AUTOREPLACEDAccordingtoAustralianConsumerLawss1819ENDREPLACE]
 [^AUTOREPLACEDAccordingtoAustralianConsumerLawss1819ENDREPLACE]: According to Australian Consumer Law ss 18, 19
 
-</WRAP>
+</div>
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
  [^AUTOREPLACED1982Ch119ENDREPLACE]
 [^AUTOREPLACED1982Ch119ENDREPLACE]: [1982] Ch. 119
 
@@ -169,9 +169,9 @@ In the case of [McWilliam’s Wines Pty Ltd v McDonald’s System of Australia P
 The oil company adopted the name "Exxon" after considerable research and expense.  The defendant company, with no connection, adopted the name.  Exxon sought an injunction.
 
 Held, although the name was original, it was not sufficiently substantial for copyright to subsist in the name.
-</WRAP>
+</div>
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
  [^AUTOREPLACEDUKPC68ENDREPLACE]
 [^AUTOREPLACEDUKPC68ENDREPLACE]: UKPC 68
 
@@ -179,9 +179,9 @@ Held, although the name was original, it was not sufficiently substantial for co
 Francis, Day and Hunter had released a song titled "The Man Who Broke the Bank at Monte Carlo". Years later, 20th Century Fox put out a movie by the same title, but had no other connections to the song. Francis sued for copyright infringement.
 
 Held, a name alone cannot possess copyright unless it is sufficiently original and distinctive. "To break the bank" is a hackneyed expression, and Monte Carlo is or was the most obvious place at which that achievement or accident might take place.
-</WRAP>
+</div>
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
  [^AUTOREPLACED2010FCA984ENDREPLACE]
 [^AUTOREPLACED2010FCA984ENDREPLACE]: [2010] FCA 984
 
@@ -204,7 +204,7 @@ However, "[i]t may be that evidence directed to a particular headline, or a titl
 The decision was upheld on appeal. [^AUTOREPLACEDTheNewspaperLicensingAgencyLtdOrsvMeltwaterHoldingBVOrs2011EWCACiv890ENDREPLACE]
 [^AUTOREPLACEDTheNewspaperLicensingAgencyLtdOrsvMeltwaterHoldingBVOrs2011EWCACiv890ENDREPLACE]: //The Newspaper Licensing Agency Ltd & Ors v Meltwater Holding BV & Ors// [2011] EWCA Civ 890
 
-</WRAP>
+</div>
 
 #### Copyright protection for software and databases
 
@@ -233,9 +233,9 @@ This case was pre the 1984 amendments to the //Act//. These amendments provided 
 In the case of [Autodesk Inc v Dyason](http://classic.austlii.edu.au/au/cases/cth/HCA/1993/6.html), the plaintiff owned copyright in a drafting program used by architects and engineers called "Autocad".  It was sold with an electronic device, the “Autolock”, to attach to the computer. The program would not run without the “Autolock”, preventing its use on more than one computer at any one time.  The defendant cracked the code and produced a device called “Autokey”, which performed the same function as the “Autolock”.
 
 It was held that the defendant had infringed copyright in the "Autocad" by reproducing a substantial part of the program in the device.
-</WRAP>
+</div>
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
  [^AUTOREPLACED1999HCA49ENDREPLACE]
 [^AUTOREPLACED1999HCA49ENDREPLACE]: [1999] HCA 49
 
@@ -243,7 +243,7 @@ It was held that the defendant had infringed copyright in the "Autocad" by repro
 In the Hight Court case of [Data Access Corp v Powerflex Services Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/1999/49.html) Data Access had copyright in a computer program "Dataflex", used by programmers to develop databases. Dr Bennett created a program compatible with “Dataflex”, which was sold by Powerflex Services in competition with “Dataflex”. He did not have access to the “Dataflex” source code, nor did he seek to decompile their program.
 
 It was held that there was no infringement of copyright except for the use of a compression table which merely reduced computer storage space. Observing a program and developing a similar program without copying the source code or decompiling the program will not infringe copyright.
-</WRAP>
+</div>
 
 ### Dramatic Work
 
@@ -257,7 +257,7 @@ The essential character of a dramatic work is that it is intended to be represen
 
 **Video overview by Brandon Hoffler on [Dramatic Works](https://www.youtube.com/watch?v=D9OxidyITdw)**
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED1989RPC469ENDREPLACE]
 [^AUTOREPLACED1989RPC469ENDREPLACE]: [1989] RPC 469
 
@@ -268,9 +268,9 @@ Hughey Green was the longstanding host of the British television talent quest "O
 
 It was held that the repetitive elements alone did not constitute a dramatic work: by themselves, their performance was meaningless since the greater part of the show, which gave meaning to the different stock elements, consisted of audience participation, varying from program to program.
 
-</WRAP>
+</div>
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
  [^AUTOREPLACED199948IPR333ENDREPLACE]
 [^AUTOREPLACED199948IPR333ENDREPLACE]: [1999]48 IPR 333
 
@@ -284,7 +284,7 @@ The schedule of the fireworks display would not be such a work, since the reduct
 >"It is, one would think, common place in at least a half of the present decade that firework shows with music are planned. It has never been suggested to my knowledge, and there is no reported case in which the matter has been subjected to legal analysis which has suggested that copyright subsists in a fireworks show set to music just because the sequence of events is scripted. That does not mean that copyright might not exist. It may merely be the result either of difficulties of enforcing the non filming of such events or it may be that no one has thought deeply about the issue. At the heart of the problem may well be that copyright is a monopolistic right existing not to protect ideas as such but the physical manifestation of some original literary, artistic or dramatic work".
 
 The ABC could have potentially used the fair dealing exception of reporting the news in this instance.
-</WRAP>
+</div>
 
 ### Musical Work
 
@@ -324,7 +324,7 @@ Drawing is defined as including "a diagram, map, chart or plan". [^AUTOREPLACEDC
 [^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
 
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __[^AUTOREPLACED1997FSR718ENDREPLACE]
 [^AUTOREPLACED1997FSR718ENDREPLACE]: [1997] FSR 718
 
@@ -335,7 +335,7 @@ Held: Industrial moulds to make twin cartridges like double-barrelled syringes w
 
 >"It appears to me that there is no reason why the word “sculpture" in the 1988 Act, should be extended far beyond the meaning which that word has to ordinary members of the public. There is nothing in the particulars in this case which suggests that the manufacturers of these moulds considered themselves, or were considered by anybody else, to be artists when they designed the moulds or that they were concerned in any way with the shape or appearance of what they were making, save for the purpose of achieving a precise functional effect. Nothing in the particulars given here suggests that any consideration of appeal to anything other than functional criteria was in mind or achieved”. (Laddie J, 722)
 
-</WRAP>
+</div>
 
 #### Copyright in Buildings
 
@@ -343,15 +343,15 @@ Building includes a structure of any kind. [^AUTOREPLACEDCAs101ENDREPLACE]
 [^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
 
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED1980FLR240ENDREPLACE]
 [^AUTOREPLACED1980FLR240ENDREPLACE]:  (1980) FLR 240
 
 
 Held, a half-tennis court was a building.
-</WRAP>
+</div>
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED199841IPR649ENDREPLACE]
 [^AUTOREPLACED199841IPR649ENDREPLACE]:  (1998) 41 IPR 649
 
@@ -359,7 +359,7 @@ __ [^AUTOREPLACED199841IPR649ENDREPLACE]
 Held, a fibreglass swimming pool was held to be a structure – particularly as the pools are as large as some small buildings and have a relatively long life.
 
 The plug and mould used for the manufacture of precast fibreglass swimming pool was not a structure, but was a model of a building.
-</WRAP>
+</div>
 
 #### Copyright in Works of Artistic Craftsmanship
 
@@ -372,7 +372,7 @@ The two elements (artistic and craftsmanship) must be united in the same person.
 
 
 **Video overview by Joseph Auclair on[artistic craftsmanship and design protection](https://www.youtube.com/watch?v=rwYoDjYoFE4)**
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED1963VR719ENDREPLACE]
 [^AUTOREPLACED1963VR719ENDREPLACE]: [1963] VR 719
 
@@ -380,8 +380,8 @@ __ [^AUTOREPLACED1963VR719ENDREPLACE]
 The issue was whether copyright subsisted in the Cuisenaire set of variously coloured tubes used for the purpose of teaching primary school children arithmetic as a work of artistic craftsmanship.
 
 Held, no copyright subsisted as a work of artistic craftsmanship as cutting up pieces did not constitute craftsmanship and it wasn’t a work of artistry.
-</WRAP>
-<div markdown="block" class="wrap  case">
+</div>
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED1976AC64ENDREPLACE]
 [^AUTOREPLACED1976AC64ENDREPLACE]: [1976] AC 64
 
@@ -395,12 +395,12 @@ Whether there is sufficient aesthetic appeal is determined objectively – it sh
 Lord Morris: "although the intention of the author may provide an indication as to whether the object is "artistic", this quality should be assessed in a "detached and objective way".
 
 Lord Reid: "An item will have aesthetic appeal if a substantial section of the public genuinely admires and values it for its appearance and gets pleasure or satisfaction, whether emotional or intellectual from looking at it, even though others may think it meaningless or vulgar".
-</WRAP>
+</div>
 
 A work of artistic craftsmanship may be mass produced. Factory based products can be works of artistic craftsmanship – they need not be handmade, although the author must use a highly sophisticated machine with creative skill, knowledge, and pride in workmanship. A work of artistic craftsmanship need not be the product of a single person. This was considered in the case of //Coogi Australia Pty Ltd v Hysport International Pty Ltd//. [^AUTOREPLACED199886FCR154ENDREPLACE]
 [^AUTOREPLACED199886FCR154ENDREPLACE]:  (1998) 86 FCR 154
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED199886FCR154ENDREPLACE]
 [^AUTOREPLACED199886FCR154ENDREPLACE]:  (1998) 86 FCR 154
 
@@ -419,8 +419,8 @@ But: "The level of aesthetic appeal required for a work of artistic craftsmanshi
 
 >"The statute by its definition of "artistic work" requires that a work of artistic craftsmanship be "of artistic quality"; in this context, that seems clearly to require that it have some aesthetic value. That a segment of the public can be found which may have been persuaded by advertising or by a transient fad to want to own the work because of its visual appeal does not necessarily mean that it must have the requisite minimum level of aesthetic value. I do not think the Court can, in determining whether a work is one of artistic craftsmanship, avoid the task of making a judgment, on the evidence before it, whether the work has a sufficient level of aesthetic appeal to be "of artistic quality". "Before a work will qualify as a work of craftsmanship, it must be a manifestation of pride in sound workmanship and the result of the exercise of skill on the part of its creator in using the materials of which the article is made and the devices by which those materials are turned into the article".
 
-</WRAP>
-<div markdown="block" class="wrap  case">
+</div>
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED2007HCA17ENDREPLACE]
 [^AUTOREPLACED2007HCA17ENDREPLACE]: [2007] HCA 17
 
@@ -438,7 +438,7 @@ The High Court overturned the ruling, holding that the plug was not a work of ar
 
 
 The designer in this case was motivated by engineering imperatives, and was not acting as an artist-craftsperson when he created the plug. The utilitarian requirements of aerodynamics and speed influenced and, at times, dictated the design choices.
-</WRAP>
+</div>
 
 **Video overview by Shonagh Hunter on [Burge v Swarbrick](https://www.youtube.com/watch?v=Pj0oHFWNJKU).**
 
@@ -449,7 +449,7 @@ In copyright, the term "originality" does not mean "novel" or new. Instead, "ori
 
 **Video overview by Kylie Pappalardo on [Originality](https://www.youtube.com/watch?v=52-IJvRzNq8&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=3).**
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED19162Ch601ENDREPLACE]
 [^AUTOREPLACED19162Ch601ENDREPLACE]: [1916] 2 Ch 601
 
@@ -463,10 +463,10 @@ Held: copyright subsisted in the papers as original literary works – originali
 
 >"The word 'original' does not in this connection mean that the work must be the expression of original or inventive thought. Copyright Acts are not concerned with the originality of ideas, but with the expression of thought, and, in the case of 'literary work', with the expression of thought in print or writing. The originality which is required relates to the expression of the thought. But the Act does not require that the expression must be in an original or novel form, but that the work must not be copied from another work — that it should originate from the author". (Peterson J, 609-10)
 
-</WRAP>
+</div>
 
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED2010FCA507ENDREPLACE]
 [^AUTOREPLACED2010FCA507ENDREPLACE]: [2010] FCA 507
 
@@ -477,7 +477,7 @@ In the case of [Budget Eyewear Australia v Specsavers](http://classic.austlii.ed
 
 Legal terms and conditions are less likely to be original.
 
-</WRAP>
+</div>
 
 ### Compilations and Databases
 
@@ -497,7 +497,7 @@ In Australia, a compilation will be protected by copyright as an original litera
 
 
 **Major Cases**
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __ (US)
 
 US position: original works must possess "some minimal degree of creativity"
@@ -507,7 +507,7 @@ The Supreme Court found that a compilation, even one composed purely of non-copy
 Held, a "white pages" telephone book, an alphabetical listing of all telephone subscribers in a certain area, did not reach the required threshold of originality in order to qualify for copyright protection.
 
 Feist was not followed in Australia.
-</WRAP>
+</div>
 
  [^AUTOREPLACED2002FCAFC112ENDREPLACE]
 [^AUTOREPLACED2002FCAFC112ENDREPLACE]: [2002] FCAFC 112

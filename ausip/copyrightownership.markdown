@@ -23,9 +23,9 @@ A copyright creator is a person who uses their intellectual abilities, to create
 
 A copyright owner is a person who owns the copyright either through creation or by assignment (legal transfer of ownership). Generally, a person who creates the work also automatically owns the copyright. However, there are certain exceptions to this rule. The creator of a work and its copyright owner will not always be the same person.
 
-<div markdown="block" class="wrap  round info ">
+<div markdown="block" class="box tip">
 It’s interesting to note that under the law, only a human being can be the *creator* of a copyrightable work. However, the right to own copyright extends to artificial entities such as a company.
-</WRAP>
+</div>
 
 A copyright owner has exclusive rights in their work. This means that if anybody else wants to use a copyright protected work, they must obtain the copyright owner’s permission or they must operate under a legal exception.
 
@@ -67,7 +67,7 @@ In determining whether the work is created in the course of employment, it can b
 [^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]: //Mr Diljeet Titus v Mr. Alfred A Adebare// 130 (2006) DLT 130 (Delhi High Court)
 
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 ##### Beloff v Pressdram Ltd [^AUTOREPLACED1973FSR33ENDREPLACE]
 [^AUTOREPLACED1973FSR33ENDREPLACE]: [1973] FSR 33
 
@@ -75,7 +75,7 @@ In determining whether the work is created in the course of employment, it can b
 The plaintiff, a political correspondent of the "London Observer", issued a politically sensitive internal memo to the editor and senior staff about the Prime Minister.  It was published in full by the “Private Eye”.  The plaintiff sued for infringement of copyright.
 
 Held, as the plaintiff was employed under a contract of service, the copyright in the memo was vested in the owners of the "London Observer" and not in the plaintiff.
-</WRAP>
+</div>
 
 The issue of ownership also arises when dealing with student produced work. Unless specifically employed to produce work in the course of employment (as outlined above), any work produced by a student will be owned by the student.
 
@@ -115,7 +115,7 @@ With respect to the taking of photographs, "private or domestic purpose" is defi
 
 Under s 35(5), if the person who commissions the relevant artistic works makes known to the author, either expressly or impliedly at the time of making the agreement commissioning the work, the purpose for which the work is required, then the author can restrain the person from using the work for other purposes.  
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED198264FLR145ENDREPLACE]
 [^AUTOREPLACED198264FLR145ENDREPLACE]: (1982) 64 FLR 145
 
@@ -123,7 +123,7 @@ __ [^AUTOREPLACED198264FLR145ENDREPLACE]
 The plaintiff artist was commissioned to make a drawing of a hotel.  Two years later, ads in the paper for the sale of the hotel included a reproduction of the drawing.  The plaintiff sued for infringement of copyright.
 
 Held, the defendants had infringed copyright – there was no implied license for the defendants to reproduce the work.
-</WRAP>
+</div>
 
 ### Joint Ownership
 
@@ -134,13 +134,13 @@ Section 10 of the //Act// defines a "work of joint authorship" as “a work that
 This definition does not mean that all jointly produced works result in joint authorship. This will only be the case where each author's contribution cannot be separated from the other. Where each person supplies a distinct part of the work, then they will not own copyright in the work as a whole jointly. Instead, they will own copyright separately in their respective parts. Supplying ideas for a work does not give rise to a claim of joint authorship over the expression.
 
 
-<div markdown="block" class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED1938Ch106ENDREPLACE]
 [^AUTOREPLACED1938Ch106ENDREPLACE]: [1938] Ch 106
 
 
 Held, where a person communicates an idea to an author and the author clothes the idea in the form of an article or articles, the copyright is owned by the author.
-</WRAP>
+</div>
 
 
 Joint authors take ownership as tenants in common – each has title to sue and can sue each other.[^AUTOREPLACEDPriorvSheldonENDREPLACE]

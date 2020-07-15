@@ -50,11 +50,11 @@ Allows the work to be translated or adapted into a different form. For example, 
 
 Allows the owner to either transfer (commonly known as “assign”) or license (give permission for) all or any one of their rights. Assignments and licences are often granted for monetary payment. In the case of an assignment, the rights transfer to the purchaser/new owner, and the creator is not left with any residual rights. In the case of a licence, the copyrighted material can be used for the purpose for which the licence is granted, while ownership continues to remain with the creator/owner.
 
-<div class="wrap  center round info 90%">
+<div markdown="block" class="box tip">
 The purpose of copyright is to protect and promote creativity. The law does not permit the copying of a copyrighted work without the permission of its owner or without a legal exception. Copying (or publishing, performing, or communicating) without permission or excuse is known as “infringement” of copyright. If a copyright is infringed either knowingly or unknowingly, the owner has a right to stop further use and/or claim compensation under the law.
 
 Intent is not an element of copyright infringement, so it is possible to infringe copyright without intending to.
-</WRAP>
+</div>
 
 
 ## The Exclusive Rights
