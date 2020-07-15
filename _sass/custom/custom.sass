@@ -1,59 +1,59 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap')
 
-$default:#9E9E9E;
-$error:#D50000;
-$warning:#FF6F00;
-$tip:#448AFF;
-$case:#388E3C;
-
-$light:#eee;
-$dark:#222;
+$default:#9E9E9E
+$error:#D50000
+$warning:#FF6F00
+$tip:#448AFF
+$case:#388E3C
+$light:#eee
+$dark:#222
 
 .box{
- font-family: 'Roboto';
- background:$light;
- border-left: solid 4px $default;
- overflow:hidden;
- font-size: 90%;
- line-height: 18px;
- max-width:40em;
- margin:2em auto;
- padding-left: 6px;
+font-family: 'Roboto Slab', serif
+ background: $light
+ border-left: solid 4px $default
+ overflow: hidden
+ font-size: 90%
+ line-height: 18px
+ max-width: 40em
+ margin: 2em auto
+ padding-left: 6px
 
  h5{
-   font-size:1.5em;
+   font-size:1.5em
  }
 }
 
 .box.error {
- border-left: solid 4px $error;
+ border-left: solid 4px $error
 
  h1, h2, h3, h4, h5 {
-   color:$error;
+   color: $error
  }
 }
 
 .box.case {
- border-left: solid 4px $case;
+ border-left: solid 4px $case
 
  h1, h2, h3, h4, h5 {
-   color:$error;
+   color: $error
  }
 }
 
 .box.tip {
- border-left: solid 4px $case;
+ border-left: solid 4px $tip
 
  h1, h2, h3, h4, h5 {
-   color:$error;
+   color: $tip
  }
 }
 
 .box.warning {
- border-left: solid 4px $case;
+ border-left: solid 4px $warning
 
  h1, h2, h3, h4, h5 {
-   color:$error;
+   color:$warning
  }
 }
