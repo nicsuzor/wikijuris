@@ -1,10 +1,11 @@
 ---
 layout: default
-title: ausip
+title: Australian IP Law
 nav_order: 0
 has_children: true
 has_toc: true
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/home.markdown){: .btn .btn-outline }
 
 # Australian IP Law open textbook
 {: .no_toc }

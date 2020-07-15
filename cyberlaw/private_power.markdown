@@ -4,6 +4,7 @@ title: Regulating Private Intermediaries
 nav_order: 120
 parent: Governing the Internet
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/private_power.markdown){: .btn .btn-outline }
 # Regulating Private Intermediaries
 {: .no_toc }
 

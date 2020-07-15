@@ -2,9 +2,10 @@
 layout: default
 title: Trade Mark
 nav_order: 50
-parent: ausip
+parent: Australian IP Law
 has_children: true
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-overview.markdown){: .btn .btn-outline }
 
 # Trade Mark Overview
 {: .no_toc }

@@ -2,8 +2,9 @@
 layout: default
 title: Passing Off
 nav_order: 30
-parent: ausip
+parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/passing-off.markdown){: .btn .btn-outline }
 
 # Passing Off
 {: .no_toc }

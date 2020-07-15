@@ -3,8 +3,9 @@ layout: default
 title: Copyright Limitations and Exceptions
 nav_order: 26
 parent: Copyright
-grand_parent: ausip
+grand_parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightdefences.markdown){: .btn .btn-outline }
 
 
 

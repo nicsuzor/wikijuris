@@ -2,8 +2,9 @@
 layout: default
 title: Plant Breeders' Rights
 nav_order: 71
-parent: ausip
+parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/plant_breeders_rights.markdown){: .btn .btn-outline }
 
 # Plant Breeders Rights
 {: .no_toc }
@@ -20,7 +21,7 @@ Plant breeder’s rights (PBR), sometimes known as plant variety rights (PVR), a
 , based on the //International Convention for the Protection of New Varieties of Plants// (//UPOV Convention//).
 
 Adopted in 1961, the UPOV Convention has been revised three times: in 1972, 1978 and 1991 [^AUTOREPLACEDhttpswwwupovintupovlexenupov_conventionhtmlENDREPLACE]
-[^AUTOREPLACEDhttpswwwupovintupovlexenupov_conventionhtmlENDREPLACE]: https://www.upov.int/upovlex/en/upov_convention.html 
+[^AUTOREPLACEDhttpswwwupovintupovlexenupov_conventionhtmlENDREPLACE]: https://www.upov.int/upovlex/en/upov_convention.html
 . As of January 2019, there are 75 UPOV Members.For details on UPOV members see the [[UPOV Website]](https://www.upov.int/members/en/).
 
 As the only international treaty concerned with intellectual property protection of new plant varieties, the UPOV Convention plays a key social, political and economic role in the development of new plant varieties. New plant varieties are important to overcome a raft of issues including food security, climate change and environmental degradation.
@@ -32,7 +33,7 @@ The purpose of UPOV is ‘to provide and promote an effective system of plant va
 Article 27(3)(b) of the TRIPs Agreement
 
 The TRIPs Agreement requires members of the World Trade Organization (WTO) to have some form of protection for plant varieties. While this is often in the form of PBR and/or patents this is not always the case. Specifically, Art. 27(3)(b) of TRIPs sets out an obligation for WTO Members to provide some form of protection for plant varieties, specially '…[m]embers shall provide for the protection of plant varieties either by patents or by an effective sui generis system or by any combination thereof [^AUTOREPLACEDTRIPsArt273bENDREPLACE]
-[^AUTOREPLACEDTRIPsArt273bENDREPLACE]: TRIPs, Art. 27(3)(b) 
+[^AUTOREPLACEDTRIPsArt273bENDREPLACE]: TRIPs, Art. 27(3)(b)
 .
 
 
@@ -125,7 +126,7 @@ The claim that PBR is obsolete and outmoded tends to be expressed either explici
 .
 
 In contrast, others have argued that to take PBR seriously we need to take the time to identify and analyse the various heterogenous elements and actors that have established and maintained PBR [^AUTOREPLACEDSeeforexampleJaySandersonPlantsPeopleandPracticesTheNatureandHistoryoftheUPOVConvention2017CambridgeUniversityPressENDREPLACE]
-[^AUTOREPLACEDSeeforexampleJaySandersonPlantsPeopleandPracticesTheNatureandHistoryoftheUPOVConvention2017CambridgeUniversityPressENDREPLACE]: See, for example, Jay Sanderson, Plants, People and Practices: The Nature and History of the UPOV Convention (2017, Cambridge University Press) 
+[^AUTOREPLACEDSeeforexampleJaySandersonPlantsPeopleandPracticesTheNatureandHistoryoftheUPOVConvention2017CambridgeUniversityPressENDREPLACE]: See, for example, Jay Sanderson, Plants, People and Practices: The Nature and History of the UPOV Convention (2017, Cambridge University Press)
 . In so doing, it becomes apparent that PBR serves an important function and embodies a level of richness, context and complexity that technological determinism (e.g. phenotype versus genotype) ignores: for instance, end-users of plant varieties are not particularly interested in the DNA sequence of their new wheat, rose or lettuce variety. Furthermore, PBR has achieved a great deal, and the PBR scheme informs and underpins the work of many actors including plant breeders, taxonomists, researchers, lawyers and advocates.
 
 ### Proof
@@ -134,7 +135,7 @@ PBR, like other forms of intellectual property, suffers from the problem of proo
 [^AUTOREPLACEDSince2000UPOVhastakensomeinitiativestoshowthebenefitsoftheUPOVConventionandtheconvenienceofadoptingareadymadesystemofplantvarietyprotectionSeeegJaySandersonWhyUPOVisrelevanttransparentandlookingtothefutureaconversationwithPeterButton201388JournalofIntellectualPropertyLawPractice615622UPOVCouncilFortySeventhOrdinarySessionC47412August2013ENDREPLACE]: Since 2000, UPOV has taken some initiatives to show the benefits of the UPOV Convention and the convenience of adopting a ready-made system of plant variety protection. See, e.g., Jay Sanderson, ‘Why UPOV is relevant, transparent and looking to the future: a conversation with Peter Button’ (2013) 8(8) Journal of Intellectual Property Law & Practice 615, 622; UPOV, Council: Forty-Seventh Ordinary Session, C/47/4 (12 August 2013
 ).
 However, not everyone believes that it does this [^AUTOREPLACEDNielsLouwaarsetalImpactsofStrengthenedIntellectualPropertyRightsRegimesonthePlantBreedingIndustryinDevelopingCountriesASynthesisofFiveCaseStudiesWorldBank2005SeealsoRobertTrippNielsLouwaarsandDerekEatonPlantvarietyprotectionindevelopingcountriesareportfromthefield200732FoodPolicy354ENDREPLACE]
-[^AUTOREPLACEDNielsLouwaarsetalImpactsofStrengthenedIntellectualPropertyRightsRegimesonthePlantBreedingIndustryinDevelopingCountriesASynthesisofFiveCaseStudiesWorldBank2005SeealsoRobertTrippNielsLouwaarsandDerekEatonPlantvarietyprotectionindevelopingcountriesareportfromthefield200732FoodPolicy354ENDREPLACE]: Niels Louwaars et al., Impacts of Strengthened Intellectual Property Rights Regimes on the Plant Breeding Industry in Developing Countries: A Synthesis of Five Case Studies (World Bank, 2005). See also Robert Tripp, Niels Louwaars and Derek Eaton, ‘Plant variety protection in developing countries: a report from the field’ (2007) 32 Food Policy 354) 
+[^AUTOREPLACEDNielsLouwaarsetalImpactsofStrengthenedIntellectualPropertyRightsRegimesonthePlantBreedingIndustryinDevelopingCountriesASynthesisofFiveCaseStudiesWorldBank2005SeealsoRobertTrippNielsLouwaarsandDerekEatonPlantvarietyprotectionindevelopingcountriesareportfromthefield200732FoodPolicy354ENDREPLACE]: Niels Louwaars et al., Impacts of Strengthened Intellectual Property Rights Regimes on the Plant Breeding Industry in Developing Countries: A Synthesis of Five Case Studies (World Bank, 2005). See also Robert Tripp, Niels Louwaars and Derek Eaton, ‘Plant variety protection in developing countries: a report from the field’ (2007) 32 Food Policy 354)
 . And over the years, a number of countries – including India and Nepal – have not joined UPOV or implemented UPOV-compliant national, plant variety protection.
 
 It must be pointed out, however, that the problem of proof is not unique to PBR. Evidence in support of intellectual property is notoriously difficult to measure, distil and substantiate.
@@ -162,7 +163,7 @@ Several countries (e.g. India and Brazil) have opposed PBR because it restricts 
 Australia is a Member of UPOV 1991, and this is the basis of Australia’s //Plant Breeder’s Rights Act 1994// (Cth) [^AUTOREPLACEDPBRActENDREPLACE]
 [^AUTOREPLACEDPBRActENDREPLACE]: //PBR Act//
  [^AUTOREPLACEDInitiallytheAustralianGovernmentintroducedthePlantVarietyRightsAct1987CththiswasrepealedandreplacedbythePBRActENDREPLACE]
-[^AUTOREPLACEDInitiallytheAustralianGovernmentintroducedthePlantVarietyRightsAct1987CththiswasrepealedandreplacedbythePBRActENDREPLACE]: Initially the Australian Government introduced the //Plant Variety Rights Act 1987// (Cth): this was repealed and replaced by the //PBR Act//. 
+[^AUTOREPLACEDInitiallytheAustralianGovernmentintroducedthePlantVarietyRightsAct1987CththiswasrepealedandreplacedbythePBRActENDREPLACE]: Initially the Australian Government introduced the //Plant Variety Rights Act 1987// (Cth): this was repealed and replaced by the //PBR Act//.
 . The constitutional validity of plant variety protection was challenged in Grain Pool of Western Australia v Commonwealth [^AUTOREPLACEDGrainPoolofWAvTheCommonwealth2000HCA14ENDREPLACE]
 [^AUTOREPLACEDGrainPoolofWAvTheCommonwealth2000HCA14ENDREPLACE]: Grain Pool of WA v The Commonwealth [2000] HCA 14
 , with the majority of the High Court concluding that the //PBR Act// (and earlier PVR Act 1987 (Cth)) were valid under the intellectual property power of the Constitution [^AUTOREPLACEDs51xviiiENDREPLACE]

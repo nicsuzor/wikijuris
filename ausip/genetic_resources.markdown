@@ -2,8 +2,9 @@
 layout: default
 title: Genetic Resources
 nav_order: 81
-parent: ausip
+parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/genetic_resources.markdown){: .btn .btn-outline }
 
 
 
@@ -121,7 +122,7 @@ An //SMTA// places obligations on the both plant material provider and recipient
 ### Intellectual property protection and the ITPGR
 
 The //ITPGR// (and //SMTA//) restrict recipients from claiming intellectual property where the claim would restrict access to the plant materials (and their genetic parts or components) ‘in the form received for use or conservation for research, breeding and training for food and agriculture’ [^AUTOREPLACEDArt123dENDREPLACE]
-[^AUTOREPLACEDArt123dENDREPLACE]: Art. 12.3(d) 
+[^AUTOREPLACEDArt123dENDREPLACE]: Art. 12.3(d)
 .
 
 So, intellectual property may be claimed over plant material subject to the ITPGR in limited circumstances including:
@@ -129,7 +130,7 @@ So, intellectual property may be claimed over plant material subject to the ITPG
   * Any developments over genetic parts or components of the plant materials received.
 
 Importantly, recipients of any plant materials that are already protected by intellectual property must continue to respect those rights [^AUTOREPLACEDArt132bENDREPLACE]
-[^AUTOREPLACEDArt132bENDREPLACE]: Art. 13.2(b) 
+[^AUTOREPLACEDArt132bENDREPLACE]: Art. 13.2(b)
 .
 
 ## Key Issues Around Genetic Resources and Intellectual Property
@@ -153,9 +154,9 @@ In terms of the conventions and treaties discussed above, there are some explici
 
 |CBD| Most notably Art. 8(j) of the //CBD// requires that: Subject to its national legislation, respect, preserve and maintain knowledge, innovations and practices of indigenous and local communities embodying traditional lifestyles relevant for the conservation and sustainable use of biological diversity and promote their wider application with the approval and involvement of the holders of such knowledge, innovations and practices and encourage the equitable sharing of the benefits arising from the utilization of such knowledge, innovations and practices. The //CBD// contains other provisions that deal with the interests of indigenous and local communities including Arts. 10 (c), 15.5, 17.2, and 18.4.|
 |Nagoya Protocol|The preamble to the Nagoya Protocol contains numerous paragraphs relevant to TK. These paragraphs include references to Article 8(j) of the //CBD//, the interrelationship between genetic resources and TK, the diversity of circumstances in which TK is owned, and the Declaration on the rights of Indigenous Peoples. The Protocol also contains significant provisions relating to TK associated with genetic resources held by indigenous and local communities. For example, the Protocol sets out obligations to seek the prior informed consent of indigenous and local communities in these situations [^AUTOREPLACEDArt155ENDREPLACE]
-[^AUTOREPLACEDArt155ENDREPLACE]: Art. 15(5) 
+[^AUTOREPLACEDArt155ENDREPLACE]: Art. 15(5)
 . It also provides for the sharing of benefits arising from the use of TK associated with genetic resources [^AUTOREPLACEDPreambleArts18j157ENDREPLACE]
-[^AUTOREPLACEDPreambleArts18j157ENDREPLACE]: Preamble, Arts 1, 8(j),15(7) 
+[^AUTOREPLACEDPreambleArts18j157ENDREPLACE]: Preamble, Arts 1, 8(j),15(7)
 .|
 |ITPGR|The //ITPGR// calls for the protection of TK of farmers, as well as increasing farmers participation in national decision-making processes and ensuring that the benefits from the use of genetic resources be shared with farmers [^AUTOREPLACEDPreambleArts5691213ENDREPLACE]
 [^AUTOREPLACEDPreambleArts5691213ENDREPLACE]: Preamble, Arts. 5, 6, 9, 12, 13

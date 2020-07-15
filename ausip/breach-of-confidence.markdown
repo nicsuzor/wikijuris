@@ -2,8 +2,9 @@
 layout: default
 title: Breach of Confidence
 nav_order: 30
-parent: ausip
+parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/breach-of-confidence.markdown){: .btn .btn-outline }
 
 
 # Breach of Confidence
@@ -176,4 +177,3 @@ These include:
 
 Beware of the Streisand effect. The Streisand effect is a phenomenon whereby an attempt to hide, remove, or censor a piece of information has the unintended consequence of publicising the information more widely, usually facilitated by the Internet. [^AUTOREPLACEDhttpsenwikipediaorgwikiStreisand_effectENDREPLACE]
 [^AUTOREPLACEDhttpsenwikipediaorgwikiStreisand_effectENDREPLACE]: https://en.wikipedia.org/wiki/Streisand_effect
-

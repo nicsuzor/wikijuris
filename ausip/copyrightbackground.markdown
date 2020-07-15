@@ -2,9 +2,10 @@
 layout: default
 title: Copyright
 nav_order: 20
-parent: ausip
+parent: Australian IP Law
 has_children: true
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightbackground.markdown){: .btn .btn-outline }
 
 
 

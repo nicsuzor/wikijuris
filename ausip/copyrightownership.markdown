@@ -3,8 +3,9 @@ layout: default
 title: Copyright Ownership
 nav_order: 24
 parent: Copyright
-grand_parent: ausip
+grand_parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightownership.markdown){: .btn .btn-outline }
 
 
 

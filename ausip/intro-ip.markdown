@@ -2,8 +2,9 @@
 layout: default
 title: iptheory
 nav_order: 5
-parent: ausip
+parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/intro-ip.markdown){: .btn .btn-outline }
 
 # Introduction to Intellectual Property
 {: .no_toc }

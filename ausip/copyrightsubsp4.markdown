@@ -3,8 +3,9 @@ layout: default
 title: Copyright Subsistence for Subject Matter Other than Works (Part IV)
 nav_order: 22
 parent: Copyright
-grand_parent: ausip
+grand_parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightsubsp4.markdown){: .btn .btn-outline }
 
 
 # Copyright Subsistence: Subject Matter Other than Works (Part IV)

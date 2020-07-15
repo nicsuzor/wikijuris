@@ -5,7 +5,7 @@ parent: Content Regulation
 grand_parent: Governing the Internet
 nav_order: 91
 ---
-
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/esafety_commission.markdown){: .btn .btn-outline }
 # Office of the eSafety Commissioner
 {: .no_toc }
 

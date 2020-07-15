@@ -3,8 +3,9 @@ layout: default
 title: Copyright Subsistence for Part III Works
 nav_order: 21
 parent: Copyright
-grand_parent: ausip
+grand_parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightsubsp3.markdown){: .btn .btn-outline }
 
 
 

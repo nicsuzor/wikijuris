@@ -3,8 +3,10 @@ layout: default
 title: Copyright Assignments and Licences
 nav_order: 25
 parent: Copyright
-grand_parent: ausip
+grand_parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/assignlicence.markdown){: .btn .btn-outline }
+
 
 
 

@@ -3,8 +3,9 @@ layout: default
 title: Moral Rights and Performers Rights
 nav_order: 28
 parent: Copyright
-grand_parent: ausip
+grand_parent: Australian IP Law
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/moralrights.markdown){: .btn .btn-outline }
 
 # Moral Rights and Performers Rights
 {: .no_toc }
@@ -29,7 +30,7 @@ The philosophy underpinning moral rights is that creators deserve respect integr
 **Video overview by Nicolas Suzor on [Moral Rights](https://www.youtube.com/watch?v=Zg_pPoz2BXY&index=6&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
 
 Moral rights were introduced by the Copyright Amendment (Moral Rights) Act 2000 (Cth) which provides that creators are protected from three sources of harm:[^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]
-[^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]: Part IX of the //Copyright Act 1968// (Cth) 
+[^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]: Part IX of the //Copyright Act 1968// (Cth)
 
 
   * a right of attribution of authorship;

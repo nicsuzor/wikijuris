@@ -5,6 +5,7 @@ nav_order: 20
 parent: Governing the Internet
 ---
 
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/jurisdiction.markdown){: .btn .btn-outline }
 # Jurisdiction
 {: .no_toc }
 
