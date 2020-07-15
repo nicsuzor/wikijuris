@@ -7,6 +7,7 @@ grand_parent: Governing the Internet
 ---
 
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/networks.markdown){: .btn .btn-outline }
+
 # The Dawn of the Internet: A Declaration of the Independence of Cyberspace
 {: .no_toc }
 

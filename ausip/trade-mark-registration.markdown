@@ -7,6 +7,7 @@ grand_parent: Australian IP Law
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-registration.markdown){: .btn .btn-outline }
 
+
 # Trade Mark Registration
 {: .no_toc }
 

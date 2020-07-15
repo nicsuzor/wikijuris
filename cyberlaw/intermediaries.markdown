@@ -6,6 +6,7 @@ nav_order: 30
 ---
 
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries.markdown){: .btn .btn-outline }
+
 # The Liability of Intermediaries
 {: .no_toc }
 

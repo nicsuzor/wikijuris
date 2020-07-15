@@ -5,6 +5,7 @@ nav_order: 50
 parent: Governing the Internet
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_copyright.markdown){: .btn .btn-outline }
+
 # Intermediary Liability for Copyright
 {: .no_toc }
 

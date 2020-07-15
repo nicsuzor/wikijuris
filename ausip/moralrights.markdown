@@ -7,6 +7,7 @@ grand_parent: Australian IP Law
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/moralrights.markdown){: .btn .btn-outline }
 
+
 # Moral Rights and Performers Rights
 {: .no_toc }
 

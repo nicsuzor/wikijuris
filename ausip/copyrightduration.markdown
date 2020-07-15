@@ -8,6 +8,7 @@ grand_parent: Australian IP Law
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightduration.markdown){: .btn .btn-outline }
 
 
+
 # Duration of Copyright
 {: .no_toc }
 

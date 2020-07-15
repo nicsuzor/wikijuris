@@ -6,6 +6,7 @@ grand_parent: Governing the Internet
 nav_order: 94
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/graduated_response.markdown){: .btn .btn-outline }
+
 # Graduated Response
 {: .no_toc }
 

@@ -7,6 +7,7 @@ parent: Australian IP Law
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/breach-of-confidence.markdown){: .btn .btn-outline }
 
 
+
 # Breach of Confidence
 {: .no_toc }
 

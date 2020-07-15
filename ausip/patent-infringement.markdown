@@ -7,6 +7,7 @@ grand_parent: Australian IP Law
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/patent-infringement.markdown){: .btn .btn-outline }
 
+
 # Patent Infringement
 {: .no_toc }
 

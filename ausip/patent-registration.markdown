@@ -8,6 +8,7 @@ grand_parent: Australian IP Law
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/patent-registration.markdown){: .btn .btn-outline }
 
 
+
 # Patent Registration
 {: .no_toc }
 

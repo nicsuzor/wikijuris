@@ -7,6 +7,7 @@ grand_parent: Australian IP Law
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-infringement.markdown){: .btn .btn-outline }
 
+
 # Trade Mark Infringement & Defences
 {: .no_toc }
 

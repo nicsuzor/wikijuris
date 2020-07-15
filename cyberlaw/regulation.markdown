@@ -7,6 +7,7 @@ parent: Governing the Internet
 ---
 
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/regulation.markdown){: .btn .btn-outline }
+
 This Chapter provides an overview of how the internet and its users are regulable. It starts by explaining how the internet technically operates, including the different layers of the internet, and how the internet is a decentralised network of networks. The Chapter then explains how early internet enthusiasts, like John Perry Barlow, heralded the internet as a new frontier free from regulation. However, Lawrence Lessig challenged this idealised conception of the internet by pointing out that "code is law "[^AUTOREPLACEDLawrenceLessigCode202006pp12126httpcodev2ccdownloadremixLessigCodev2pdfAUTOREPLACED], or that the rules of software can be as powerful as the laws of nation states that regulate the behaviour of citizens. This Chapter concludes by outlining some the challenges of enforcing law in the decentralised online environment, some of which we will explore in later Chapters.
 
 [^AUTOREPLACEDLawrenceLessigCode202006pp12126httpcodev2ccdownloadremixLessigCodev2pdfAUTOREPLACED]: Lawrence Lessig, Code 2.0 (2006), pp 121–26 http://codev2.cc/download+remix/Lessig-Codev2.pdf

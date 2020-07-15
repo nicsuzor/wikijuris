@@ -6,6 +6,7 @@ grand_parent: Governing the Internet
 nav_order: 95
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/follow_the_money.markdown){: .btn .btn-outline }
+
 ## 'Follow the Money'
 
 Public and private actors are increasingly seeking to regulate user behaviour by asking payment intermediaries -- like Mastercard, Visa, and Paypal -- to exercise control over the flow of money.[^AUTOREPLACEDSeeforexampleMarkMacCarthyWhatPaymentIntermediariesareDoingAboutOnlineLiabilityandWhyitMatters2010252BerkeleyTechnologyLawJournal1139AUTOREPLACED]

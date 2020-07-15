@@ -6,6 +6,7 @@ grand_parent: Governing the Internet
 nav_order: 93
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/filtering.markdown){: .btn .btn-outline }
+
 # ISP Filtering
 {: .no_toc }
 

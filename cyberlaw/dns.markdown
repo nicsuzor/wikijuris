@@ -5,6 +5,7 @@ parent: Governing the Internet
 nav_order: 80
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/dns.markdown){: .btn .btn-outline }
+
 # Regulating the Domain Name System
 {: .no_toc }
 

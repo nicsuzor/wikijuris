@@ -6,6 +6,7 @@ nav_order: 60
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_tm.markdown){: .btn .btn-outline }
 
+
 # Intermediary Liability for Trade Mark Infringement, passing off, and misleading and deceptive conduct
 {: .no_toc }
 
