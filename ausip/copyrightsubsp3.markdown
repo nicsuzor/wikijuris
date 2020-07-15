@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copyright Subsistence: Part III Works
+title: Copyright Subsistence for Part III Works
 nav_order: 21
 parent: Copyright
 grand_parent: ausip
@@ -32,11 +32,11 @@ Each of these conditions will be discussed in this chapter.
 ## Material Form
 
 An idea becomes a work when it is "first reduced to writing or to some other material form". [^AUTOREPLACEDCAs221ENDREPLACE]
-[^AUTOREPLACEDCAs221ENDREPLACE]: //CA// s 22(1) 
+[^AUTOREPLACEDCAs221ENDREPLACE]: //CA// s 22(1)
  The term "writing" means a mode of representing or reproducing words, figures or symbols in a visible form, and “written" has a corresponding meaning. [^AUTOREPLACEDCAs101ENDREPLACE]
-[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1) 
+[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
  The term "material form", in relation to a work or an adaptation of a work, includes any form (whether visible or not), of storage of the work or adaptation, or a substantial part of the work or adaptation, (whether or not the work or adaptation, or a substantial part of the work or adaptation, can be reproduced). [^AUTOREPLACEDCAs101ENDREPLACE]
-[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1) 
+[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
  Material form includes writing in any tangible medium, analogue or digital storage on any electronic or other medium. [^AUTOREPLACEDSeeStarMicronicsPtyLtdvFiveStarComputersPtyLtdhttpclassicaustliieduauaucasescthFCA1990387html199018IPR225ENDREPLACE]
 [^AUTOREPLACEDSeeStarMicronicsPtyLtdvFiveStarComputersPtyLtdhttpclassicaustliieduauaucasescthFCA1990387html199018IPR225ENDREPLACE]: See //[Star Micronics Pty Ltd v Five Star Computers Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1990/387.html)// (1990) 18 IPR 225
  Material form does not include ephemeral manifestations, projections, speech or live music.
@@ -177,7 +177,7 @@ Held, a name alone cannot possess copyright unless it is sufficiently original a
 
 <WRAP case>
 __//Fairfax Media Publications v Reed International Books// [^AUTOREPLACED2010FCA984ENDREPLACE]
-[^AUTOREPLACED2010FCA984ENDREPLACE]: [2010] FCA 984 
+[^AUTOREPLACED2010FCA984ENDREPLACE]: [2010] FCA 984
 __
 
 In the case of [Fairfax Media v Reed International Books](http://classic.austlii.edu.au/au/cases/cth/FCA/2010/984.html), Fairfax, (the publisher of the Australian Financial Review) alleged that Reed had infringed copyright by copying AFR headlines as part of its media monitoring service. The question was whether headlines were "original literary works".[^AUTOREPLACED2010189FCR109ENDREPLACE]
@@ -192,7 +192,7 @@ However, "[i]t may be that evidence directed to a particular headline, or a titl
 </WRAP>
 <WRAP case>
 __//The Newspaper Licensing Agency Ltd & Ors v Meltwater Holding BV & Ors//__[^AUTOREPLACED2010EWHC3099ChENDREPLACE]
-[^AUTOREPLACED2010EWHC3099ChENDREPLACE]: [2010] EWHC 3099 (Ch) 
+[^AUTOREPLACED2010EWHC3099ChENDREPLACE]: [2010] EWHC 3099 (Ch)
 
 
 >"The evidence in the present case (incidentally much fuller than that before Bennett J in Fairfax…) is that headlines involve considerable skill in devising and they are specifically designed to entice by informing the reader of the content of the article in an entertaining manner" (Proudman J, [70])
@@ -208,7 +208,7 @@ The decision was upheld on appeal. [^AUTOREPLACEDTheNewspaperLicensingAgencyLtdO
 
 Computer programs (software) and databases are classified and protected as “literary works”. To understand why, it's necessary to briefly look at the definition of “literary works” under the Australian copyright law.[^AUTOREPLACEDSeethedefinitionsofliteraryworkandcomputerprogramins10oftheCopyrightAct1968ENDREPLACE]
 [^AUTOREPLACEDSeethedefinitionsofliteraryworkandcomputerprogramins10oftheCopyrightAct1968ENDREPLACE]: See the definitions of "literary work" and "computer program" in s 10 of the //Copyright Act 1968//
-  
+
 
 The definition of “literary works” includes “a table, or compilation, expressed in words, figures or symbols (whether or not in visible form) and a computer program or compilation of computer programs.” The law further defines a “computer program” as a set of instructions expressed in any language or code that causes “a device having digital information capabilities to perform a particular function.” Thus, the source code and object code of a computer program will be protected under copyright as a literary work. This gives a software developer the same rights as a creator of any other creative work.
 
@@ -254,7 +254,7 @@ It was held that there was no infringement of copyright except for the use of a 
 ### Dramatic Work
 
 Dramatic work includes choreographic shows, scenarios or scripts for a cinematograph films. [^AUTOREPLACEDCAs101ENDREPLACE]
-[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1) 
+[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
  Dramatic work does not include a cinematograph film this form of expression is distinct from the scenario or script for a cinematograph film.
 
 Copyright in a film is the subject of a separate copyright in Part IV.
@@ -303,7 +303,7 @@ Lyrics to musical works are also covered under "literary works".
 ### Artistic Work
 
 Artistic work includes paintings, sculptures, drawings, engravings or photographs, buildings or a models of a buildings [^AUTOREPLACEDCAs101ENDREPLACE]
-[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1) 
+[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
  The artistic quality of the work is not a consideration, copyright will subsist in these creations regardless of quality. Artistic work also includes artistic craftsmanship. The definition of artistic works does not apply to a circuit layout within the meaning of the *Circuit Layouts Act 1989* (Cth).
 
 **Copyright in Paintings**
@@ -319,7 +319,7 @@ Held, although there was no statutory definition of "painting", it is a word in 
 #### Copyright in Drawings
 
 Drawing is defined as including "a diagram, map, chart or plan". [^AUTOREPLACEDCAs101ENDREPLACE]
-[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1) 
+[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
  Architects' plans are considered artistic works. [^AUTOREPLACEDAncherMortlockMurraryWoolleyPtyLtdvHookerHomesPtyLtdENDREPLACE]
 [^AUTOREPLACEDAncherMortlockMurraryWoolleyPtyLtdvHookerHomesPtyLtdENDREPLACE]: //Ancher, Mortlock, Murrary & Woolley Pty Ltd v Hooker Homes Pty Ltd//
 
@@ -327,7 +327,7 @@ Drawing is defined as including "a diagram, map, chart or plan". [^AUTOREPLACEDC
 #### Copyright in Sculptures
 
 'Sculpture' includes a cast or model made for purposes of sculpture. [^AUTOREPLACEDCAs101ENDREPLACE]
-[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1) 
+[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
 
 
 <WRAP case>
@@ -346,7 +346,7 @@ Held: Industrial moulds to make twin cartridges like double-barrelled syringes w
 #### Copyright in Buildings
 
 Building includes a structure of any kind. [^AUTOREPLACEDCAs101ENDREPLACE]
-[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1) 
+[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
 
 
 <WRAP case>
@@ -658,28 +658,28 @@ Following IceTV, it is important to identify an author and the independent intel
 ### Unpublished Works
 
 For unpublished works, the author must be a qualified person at the time it was made. [^AUTOREPLACEDCAs321ENDREPLACE]
-[^AUTOREPLACEDCAs321ENDREPLACE]: //CA// s 32(1) 
+[^AUTOREPLACEDCAs321ENDREPLACE]: //CA// s 32(1)
 
 
 * If the making of the work extends over a period, the author must be a qualified person for a substantial part of that period [^AUTOREPLACEDCAs321ENDREPLACE]
-[^AUTOREPLACEDCAs321ENDREPLACE]: //CA// s 32(1) 
+[^AUTOREPLACEDCAs321ENDREPLACE]: //CA// s 32(1)
 
 
 * A qualified person is an Australian citizen, an Australian protected person, or a person resident in Australia. [^AUTOREPLACEDCAs324ENDREPLACE]
-[^AUTOREPLACEDCAs324ENDREPLACE]: //CA// s 32(4) 
+[^AUTOREPLACEDCAs324ENDREPLACE]: //CA// s 32(4)
 
 
 ### Published Works
 
 In terms of published works, the work must meet a specific criteria. [^AUTOREPLACEDCAs322ENDREPLACE]
-[^AUTOREPLACEDCAs322ENDREPLACE]: //CA// s 32(2) 
+[^AUTOREPLACEDCAs322ENDREPLACE]: //CA// s 32(2)
 
 
 The work must be first published in Australia or the author must be a qualified person when the work was first published. A qualified person is an Australian citizen, an Australian protected person, or a person resident in Australia, [^AUTOREPLACEDCAs324ENDREPLACE]
-[^AUTOREPLACEDCAs324ENDREPLACE]: //CA// s 32(4) 
+[^AUTOREPLACEDCAs324ENDREPLACE]: //CA// s 32(4)
 
 A work is deemed to have been published if reproductions have been supplied to the public. [^AUTOREPLACEDCAs291aENDREPLACE]
-[^AUTOREPLACEDCAs291aENDREPLACE]: //CA// s 29(1)(a) 
+[^AUTOREPLACEDCAs291aENDREPLACE]: //CA// s 29(1)(a)
 
 
 

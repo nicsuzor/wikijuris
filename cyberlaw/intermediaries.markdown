@@ -97,7 +97,7 @@ To put this into context, think again of the example of online copyright infring
 
 ## The Trade-Offs Between Efficiency, Liberty, Innovation, and User Rights
 
-**Video Overview by Nic Suzor:[Intermediary Responsibility](https://www.youtube.com/watch?v=Sd0d-titw24)**
+**Video Overview by Nic Suzor: [Intermediary Responsibility](https://www.youtube.com/watch?v=Sd0d-titw24)**
 
 The story of copyright is a neat illustration of a messy problem common to all attempts to impose restrictions on the flow of information over a decentralised, transnational network of 3+ billion people. Across the breadth of regulatory debates, there is a common set of difficult regulatory trade-offs. There are fundamental conflicts between the efficiency of enforcement mechanisms, the liberty of private actors, the need for certainty in order to encourage investment and innovation, and the rights of individuals.
 
@@ -110,8 +110,3 @@ On the efficiency side, intermediaries are the 'cheapest cost avoiders'.[^AUTORE
 For the telecommunications industry, intermediary liability is about certainty. Online intermediaries are hesitant to take on the responsibility to police the behaviour of users, and reluctant to bear the cost of doing so. Their arguments rest heavily on the need to encourage investment in innovative new technologies, technologies that disrupt or at least unsettle the continued operation of other industries.
 
 As for the 'public interest', the issues are extremely complex. The basic principles of the rule of law require that our laws are enforced in a manner that is regular, transparent, equally and proportionately applied, and fair. In order to ensure that justice is carried out with due process, our constitutional system requires that the law is enforced by an independent judiciary. But delegating some responsibility for upholding the law and social standards to online intermediaries seems to be the only reasonable prospect we have for enforcing them. This can be problematic, since intermediaries may well be unable to effectively make complex judgment calls about the lawfulness of their users' conduct. For citizens, there is a difficult procedural trade-off between the efficacy of the legal system and the safeguards it provides. These tensions are currently playing out across a range of different legal issues that we will consider below.
-
-{{page>filtering&nofooter}}
-{{page>graduated_response&nofooter}}
-{{page>esafety_commission&nofooter}}
-{{page>follow_the_money&nofooter}}

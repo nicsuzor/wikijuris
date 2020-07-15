@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copyright Subsistence: Subject Matter Other than Works (Part IV)
+title: Copyright Subsistence for Subject Matter Other than Works (Part IV)
 nav_order: 22
 parent: Copyright
 grand_parent: ausip
@@ -29,7 +29,7 @@ The content protected by Part IV is known as "subject matter other than works" o
 For these subject matter, there is no requirement of originality. Rights are granted to the "makers" of these subject matter. The terminology for the creator is different in Part III and IV - the creators of Part III works are called "authors" and the creators of Part IV subject matter are called "makers".
 
 Copyright in Part IV subject matter is "in addition to, and independent of" any copyright subsisting in the work under Part III. [^AUTOREPLACEDCAs1131ENDREPLACE]
-[^AUTOREPLACEDCAs1131ENDREPLACE]: //CA// s 113(1) 
+[^AUTOREPLACEDCAs1131ENDREPLACE]: //CA// s 113(1)
  Thus, a single item may have many layers of copyright. For example, a recording of a song will have copyright protection in the underlying musical work (the musical notation), literary work (the lyrics), as well as copyright in the actual sound recording.
 
 
@@ -59,7 +59,7 @@ Section 90 of the //Act// provides for the subsistence of copyright in cinematog
 (b) of being embodied in another article or thing by the use of which it can be so shown;
 
 This includes the aggregate of the sounds embodied in a sound track associated with such visual images". [^AUTOREPLACEDs101ENDREPLACE]
-[^AUTOREPLACEDs101ENDREPLACE]: s 10(1) 
+[^AUTOREPLACEDs101ENDREPLACE]: s 10(1)
 
 
 The means by which a "moving picture" is produced is not relevant in determining whether the end result is a “film”.
