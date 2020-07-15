@@ -87,7 +87,7 @@ There is no hard and fast rule for how much copying or use is too much under the
 
 How much of the original work you use may be relevant to fairness, but this depends of the context and the type of work you are using. It is far more reasonable to use the whole of an artistic work, like a picture, for example, than it is to use the whole of a literary work, like a book.
 
-<div class="wrap  center round info 90%">
+<div markdown="block" class="box tip">
 
 **Have you heard of the 10% rule? This ‘rule’ is mostly incorrect.**
 
@@ -95,7 +95,7 @@ The only fair dealing exception with clear guidelines is the fair dealing for re
 
 It is also important to know that the fair dealing for research or study operates for students, but not teachers. You can copy work for your own study, but not for someone else’s. You generally cannot copy works for the purpose of distributing to other people in order to teach them or for their research and study.
 
-</WRAP>
+</div>
 
 ### Does “fair use” and “fair dealing” mean the same thing?
 
@@ -115,17 +115,17 @@ The difference is this: in the US, the courts only need to consider whether the 
 **Video overview by Nicolas Suzor on [Research or Study](https://www.youtube.com/watch?v=R5hyBW1zchY&index=1&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
 
 The leading case of //De Garis v Neville Jeffress Pidler Pty Ltd// considered the meaning of the terms "research or study".
-<div class="wrap  case">
-__[^AUTOREPLACED18IPR292ENDREPLACE]
-[^AUTOREPLACED18IPR292ENDREPLACE]: 18 IPR 292
 
+<div markdown="block" class="box  case">
+De Garis v Neville Jeffress Pidler Pty Ltd[^AUTOREPLACED18IPR292ENDREPLACE]
+[^AUTOREPLACED18IPR292ENDREPLACE]: 18 IPR 292
 
 In the case of [De Garis v Neville Jeffress Pidler Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1990/218.html) the court found that the respondent, a press clipping and media research bureau, who supplied photocopies of published material in return for a fee was not "research" or “study” in the terms of s 40.
 
 In determining whether a dealing is for the purpose of "research or study", the relevant purpose is that of the person making the dealing, not the purpose to which the reproduction or adaptation is ultimately put.
 
 Held, the purpose of the respondent’s press clipping service was not to conduct research, even though research may have been the purpose of its customers.
-</WRAP>
+</div>
 
 Several non-exclusive factors may be taken into account in determining whether a dealing for research or study purposes is fair.  
 
@@ -194,7 +194,7 @@ In the case of //De Garis v Neville Jeffress Pidler Pty Ltd// at 299-300, Beaumo
 
 * "criticism" includes all kinds of criticism – it is not restricted to literary criticism - “review” is cognate with the word “criticism”; one is the process, the other is the result of the critical application of the mental faculties.
 
-<div class="wrap  case">
+<div markdown="block" class="box  case">
  [^AUTOREPLACED2001FCA108ENDREPLACE]
 [^AUTOREPLACED2001FCA108ENDREPLACE]: [2001] FCA 108__
 
@@ -202,8 +202,8 @@ In the case of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http://classic.austl
 
 "Criticism" and “review” are words of “wide and indefinite scope which should be interpreted liberally” and extend to “the thoughts underlying the expression of copyright works or subject matter”.
 They involve the passing of judgment and may be strongly expressed but, provided they are genuine and not a pretence for some other purpose, need not be balanced. [66]
-</WRAP>
-<div class="wrap  case">
+</div>
+<div markdown="block" class="box  case">
 
 //TCN Channel Nine Pty Ltd v Network Ten Ltd// [^AUTOREPLACED200255IPR112ENDREPLACE]
 [^AUTOREPLACED200255IPR112ENDREPLACE]:  (2002) 55 IPR 112
@@ -211,7 +211,7 @@ They involve the passing of judgment and may be strongly expressed but, provided
 In the Full Court's decision of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2002/146.html) Justice Hely (Sundberg and Finkelstein JJ agreeing) at [115] said the test is:
 
 "[I]s the program incorporating the infringing material a genuine piece of criticism or review, or is it something else, such as an attempt to dress up the infringement of another’s copyright in the guise of criticism, and so profit unfairly from another’s work? As Lord Denning said in Hubbard v Vosper [1972] 2 QB 84 at 93, ‘it is not fair dealing for a rival in the trade to take copyright material and use it for its own  benefit’".
-</WRAP>
+</div>
 
 ### Reporting of the News
 
@@ -329,7 +329,7 @@ Under the fair use doctrine, the courts have regard to four factors:
 
 * the effect of the use upon the potential market for or value of the copyrighted work.
 
-<div class="wrap  case">
+<div markdown="block" class="box  case">
 //Campbell v Acuff-Rose// [^AUTOREPLACED510US5691994ENDREPLACE]
 [^AUTOREPLACED510US5691994ENDREPLACE]: 510 US 569 (1994)
 
@@ -337,9 +337,9 @@ The Supreme Court held that 2 Live Crew’s Parody of Roy Orbison’s ‘Pretty 
 2 Live Crew asked for a licence but were refused. They continued with the parody anyway. Even though 2 Live Crew took the ‘heart’ of ‘Pretty Woman’, "that heart is what most readily conjures up the song for parody, and it is the heart at which parody takes aim".
 
 The new version was a transformative use – markedly different from the original and not substitutable in the market.
-</WRAP>
+</div>
 
-<div class="wrap  case">
+<div markdown="block" class="box  case">
 //Dr Seuss Enterprises v Penguin Books USA, Inc// [^AUTOREPLACED109F3d13949thCir1997ENDREPLACE]
 [^AUTOREPLACED109F3d13949thCir1997ENDREPLACE]: 109 F.3d 1394 (9th Cir. 1997)
 
@@ -349,9 +349,9 @@ The new version was a transformative use – markedly different from the origina
 
 * It merely used Dr Seuss characters and style to tell the story of the murder.
 
-</WRAP>
+</div>
 
-<div class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]
 [^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]: 137 F.3d 109 (2d Cir. N.Y. 1998)
 
@@ -360,9 +360,9 @@ __ [^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]
 
 * Second Circuit found fair use: the studio’s use was a transformative parody because it imitated the original for comic effect or ridicule.
 
-</WRAP>
+</div>
 
-<div class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]
 [^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]: 268 F.3d 1257 (11th Cir. 2001)
 
@@ -371,9 +371,9 @@ __ [^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]
 
 * Eleventh Circuit found that the use was probably a fair use. While it was a satire of society, it was also critical of the racist perspectives embedded in the original.
 
-</WRAP>
+</div>
 
-<div class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED641FSupp2d250SDNY2009ENDREPLACE]
 [^AUTOREPLACED641FSupp2d250SDNY2009ENDREPLACE]: 641 F. Supp. 2d 250 (S.D. N.Y. 2009)
 
@@ -382,7 +382,7 @@ __ [^AUTOREPLACED641FSupp2d250SDNY2009ENDREPLACE]
 
 * The Court held that the use was not fair use, as ageing the character and placing him in new settings was not particularly transformative, particularly as the character’s personality was largely unchanged.
 
-</WRAP>
+</div>
 
 ## Specific, Royalty Free Exceptions
 
@@ -409,7 +409,7 @@ This exception will not apply if an article or thing embodying the film or recor
 * used for broadcasting the film or recording.
 
 **Video overview by Jennifer Singleton on[Time Shifting](https://www.youtube.com/watch?v=PwzsIb9SF68).**
-<div class="wrap  case">
+<div markdown="block" class="box  case">
 __ [^AUTOREPLACED2012FCAFC59ENDREPLACE]
 [^AUTOREPLACED2012FCAFC59ENDREPLACE]: [2012] FCAFC 59
 
@@ -431,7 +431,7 @@ The Court said:
 Optus cannot rely on the "private and domestic use" defence of s111: "There is nothing in the language, or the provenance, of s111 to suggest that it was intended to cover commercial copying on behalf of individuals". [89]
 
 
-</WRAP>
+</div>
 
 ### Private Copying: Format Shifting
 
