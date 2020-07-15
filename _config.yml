@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-07-15T15:59:45+10:00
+# @Last modified time: 2020-07-15T17:39:18+10:00
 
 
 
@@ -57,3 +57,26 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "All content is available under a [Creative Commons Attribution Share-Alike (BY-SA) 3.0](https://creativecommons.org/licenses/by-sa/3.0/) or later licence. By submitting changes to this book, you are agreeing to license your edits under this [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) licence or any later version."
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/nicsuzor/wikijuris/" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
