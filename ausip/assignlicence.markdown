@@ -10,6 +10,10 @@ grand_parent: ausip
 
 
 # Copyright Assignments and Licences
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 Copyright is a personal property right. The interest conferred by copyright law is the exclusive rights to do acts comprised in the copyright. These rights can be assigned or licensed. An assignment of copyright is a transfer of ownership and interest in all, or some of the copyright. A license is a permission to do some of the acts comprised in copyright. Each of these will be considered in detail below.
 

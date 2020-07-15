@@ -6,6 +6,10 @@ parent: ausip
 ---
 
 # Introduction to Intellectual Property
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 This chapter will explain what intellectual property law is, the areas of law covered, the rationale for intellectual property law and the international context.
 

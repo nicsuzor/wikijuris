@@ -7,6 +7,10 @@ grand_parent: ausip
 ---
 
 # Moral Rights and Performers Rights
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 Creators of copyright have a special right known as “moral rights”, in addition to the rights covered earlier in this topic. Moral rights ensure that:
 

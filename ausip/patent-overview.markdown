@@ -7,6 +7,10 @@ parent: ausip
 ---
 
 # Patent Overview: an introduction to the patent system
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Patent basics
 

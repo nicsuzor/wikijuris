@@ -2,11 +2,14 @@
 layout: default
 title: Copyright Safe Harbours
 grant_parent: Governing the Internet
-# parent: The Liability of Intermediaries
 nav_order: 70
 ---
 
 # Copyright Safe Harbours
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Chapter Overview
 

@@ -10,6 +10,10 @@ grand_parent: ausip
 
 
 # Remedies for Infringement of Copyright
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 The //Copyright Act// provides that a copyright owner may bring an action for infringement of the copyright. [^AUTOREPLACEDCAs1151ENDREPLACE]
 [^AUTOREPLACEDCAs1151ENDREPLACE]: //CA// s 115)(1) 

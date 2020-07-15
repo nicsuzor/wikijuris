@@ -6,6 +6,10 @@ parent: ausip
 ---
 
 # Passing Off
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 This chapter will explain the law of passing off, the elements required to establish passing of and how it applies in practice.
 

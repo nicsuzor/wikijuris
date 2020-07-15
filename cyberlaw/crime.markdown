@@ -6,6 +6,10 @@ parent: Governing the Internet
 ---
 
 # Computer Access and Computer Crimes
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 **Video Overview of Crimes Against Computer Systems by [Nicolas Suzor](https://www.youtube.com/watch?v=c-HnNDF3lEs)**
 

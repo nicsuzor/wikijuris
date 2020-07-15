@@ -7,6 +7,10 @@ grand_parent: Governing the Internet
 ---
 
 # The Dawn of the Internet: A Declaration of the Independence of Cyberspace
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 In 1996, John Perry Barlow released a famous provocation about the limits of state power in regulating the internet. The Declaration, which we encourage you to **[read](https://projects.eff.org/~barlow/Declaration-Final.html)** or **[watch](https://www.youtube.com/watch?v=3WS9DhSIWR0)** in full, begins:
 

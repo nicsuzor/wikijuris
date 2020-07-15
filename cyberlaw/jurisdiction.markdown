@@ -6,6 +6,10 @@ parent: Governing the Internet
 ---
 
 # Jurisdiction
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Chapter Overview
 

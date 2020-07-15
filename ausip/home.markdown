@@ -7,6 +7,10 @@ has_toc: true
 ---
 
 # Australian IP Law open textbook
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 This is a collaborative, free open textbook about Australian Intellectual Property Law. The underlying concept behind this open textbook is to make Intellectual Property Law more accessible — both physically and conceptually for students. This book aims to be a complete university level textbook.
 

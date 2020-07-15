@@ -8,6 +8,10 @@ grand_parent: ausip
 
 
 # Duration of Copyright
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 Unlike other IP rights, copyright protection lasts for an exceptionally long period. Once a work comes into existence, copyright protection begins automatically. For most types of works, copyright lasts throughout the lifetime of the creator **plus** an additional 70 years.
 

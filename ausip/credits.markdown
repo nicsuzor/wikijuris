@@ -8,6 +8,10 @@ parent: ausip
 
 
 # Credits
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 Please add your details below so that we can properly acknowledge your work.
 

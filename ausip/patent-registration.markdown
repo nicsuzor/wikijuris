@@ -8,6 +8,10 @@ grand_parent: ausip
 
 
 # Patent Registration
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 In order to register a patent the invention must meet a strict criteria. This chapter will discuss the requirements of patentability. All sections within this chapter are referring to the *//Patents Act 1990//* (Cth) unless otherwise noted.
 

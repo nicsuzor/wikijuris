@@ -10,6 +10,10 @@ grand_parent: ausip
 
 
 # Copyright Subsistence: Part III Works
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 In this section, you will learn when copyright subsists in various types of material.
 

@@ -8,6 +8,10 @@ grand_parent: Governing the Internet
 
 
 # Lessig's Modalities of Regulation: Law, Architecture, Norms and the Market
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 **Video Overviews by Nic Suzor[Code is Law](https://www.youtube.com/watch?v=d__FV81ccz0)** and **[Different Types of Regulation](https://www.youtube.com/watch?v=0Bwu5YO_1FI)**
 
@@ -56,7 +60,7 @@ Copyright infringement is another example of the interplay between the different
 
 If you define 'regulation' as a concerted effort to influence or control the way another person behaves, there are many different ways of achieving that goal. **Lessig's point is not that governments and state-based law do not matter in the internet age, rather that law is only one of the ways to regulate.** This means that when we are thinking about internet regulation, we need to be aware of the ways in which behaviour can be altered, and the limits of any given modality.
 
-# Enforcing Law Online
+## Enforcing Law Online
 
 **Overview Videos by Will McLay on [Online Anonymity](https://www.youtube.com/watch?v=CTZYP6jZS_U)** and **Rica Ehlers on [4chan](https://www.youtube.com/watch?v=OgYf932GFQo)**
 

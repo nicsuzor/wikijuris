@@ -8,6 +8,10 @@ grand_parent: ausip
 
 
 # Copyright Subsistence: Subject Matter Other than Works (Part IV)
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 The //Copyright Act 1968// (Cth) (//CA//) introduced new categories of subject matter in order to protect entrepreneurial investment. Part IV aims to protect "new" technologies and the investment of resources in the production of media and content.
 

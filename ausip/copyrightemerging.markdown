@@ -10,6 +10,10 @@ grand_parent: ausip
 
 
 # Emerging Issues in Copyright Law
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 There are many emerging issues in copyright law. The majority of these issues arise due to changes in technology and social norms. This chapter explores some of the prominent issues in copyright law today.
 

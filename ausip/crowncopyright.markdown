@@ -9,6 +9,10 @@ grand_parent: ausip
 
 
 # Crown Copyright
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 Video overview by Kylie Pappalardo on [crown copyright](https://www.youtube.com/watch?v=EqxyEZwLGUI).
 

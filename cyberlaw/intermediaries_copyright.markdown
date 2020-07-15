@@ -1,12 +1,15 @@
 ---
 layout: default
 title: Intermediary Liability for Copyright
-# parent: The Liability of Intermediaries
 nav_order: 50
 grant_parent: Governing the Internet
 ---
 
 # Intermediary Liability for Copyright
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Chapter Overview
 
@@ -333,7 +336,7 @@ The Grokster court expressly stated that evidence of factors (2) or (3), standin
 
 [^AUTOREPLACEDJaneCGinsburgSeparatingtheSonySheepFromtheGroksterGoatsReckoningtheFutureBusinessPlansofCopyrightDependentTechnologyEntrepreneurs200850ArizonaLawReview577AUTOREPLACED]: Jane C. Ginsburg, ‘Separating the Sony Sheep From the Grokster Goats: Reckoning the Future Business Plans of Copyright-Dependent Technology Entrepreneurs’ (2008) 50 Arizona Law Review 577.
 
-  
+
 
 The court set aside the summary judgment and remanded the case to trial. Grokster and Sharman settled after the US Supreme Court decision. StreamCast (Morpheus) went to trial and lost on summary judgment. District Court (CD Cal) found that StreamCast overwhelmingly distributed Morpheus with the intent to induce infringement.
 

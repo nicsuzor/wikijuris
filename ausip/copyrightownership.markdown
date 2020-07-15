@@ -10,6 +10,10 @@ grand_parent: ausip
 
 
 # Copyright Ownership
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 This chapter explores copyright ownership and the different situations which may effect ownership of copyright content.
 

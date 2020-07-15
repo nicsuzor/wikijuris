@@ -5,6 +5,10 @@ nav_order: 120
 parent: Governing the Internet
 ---
 # Regulating Private Intermediaries
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 
 Help needed!

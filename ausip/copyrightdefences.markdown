@@ -10,6 +10,10 @@ grand_parent: ausip
 
 
 # Copyright Limitations and Exceptions
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 Copyright law does not permit unauthorized use of copyrighted works. However, owners of copyright do not get total control over how their works can be reused. There are exceptions to copyright infringment that are designed to promote education, critique, and creativity. Under Australian law, the use of copyrighted works without the permission of the owner is permitted if the use falls under the “fair dealing” exceptions.
 

@@ -10,6 +10,10 @@ grand_parent: ausip
 
 
 # Copyright Infringement
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 Copyright affords the copyright owner exclusive rights over their work. This means that the rights belong exclusively to the copyright owner and they may choose to exclude others from exercising the rights. The only people who can exercise one of the rights are: the right holder; a person who has the permission of the right holder; and anyone acting under a legal exception to copyright infringement.  
 

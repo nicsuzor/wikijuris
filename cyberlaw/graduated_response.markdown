@@ -7,6 +7,10 @@ nav_order: 94
 ---
 
 # Graduated Response
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 **Video Overviews by [Carlie McCulloch](https://www.youtube.com/watch?v=PlbQltsX194) and [Jonathan Chabowski](https://www.youtube.com/watch?v=PdUCMuUyp3Q)**
 

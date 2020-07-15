@@ -7,6 +7,10 @@ nav_order: 91
 ---
 
 # Office of the eSafety Commissioner
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 **Video Overview by [Philippa Dryden](https://www.youtube.com/watch?v=K2036tTwIkA)**
 

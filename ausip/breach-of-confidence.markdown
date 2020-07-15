@@ -7,6 +7,10 @@ parent: ausip
 
 
 # Breach of Confidence
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 The equitable doctrine of breach of confidence is a remedy that protects confidential information -- including private and personal information as well as trade secrets.  It sometimes operates as a quasi-privacy right. Whilst it is not as straight forward as enforcing a contractual non disclosure agreement for example, in some instances the breach of confidence doctrine can be used to prevent the disclosure of private or secret information.
 

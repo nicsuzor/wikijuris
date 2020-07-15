@@ -10,6 +10,10 @@ has_children: true
 
 
 # Copyright Introduction
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Copyright basics
 

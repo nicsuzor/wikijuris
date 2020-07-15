@@ -9,6 +9,10 @@ parent: Governing the Internet
 Help needed! Please contribute your notes to help us finish this page.
 
 # Privacy and Surveillance
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 **Rita Matulionyte [Explains How Online Technologies Affect Our Privacy](https://www.youtube.com/watch?v=67BPeCTpu10)**
 

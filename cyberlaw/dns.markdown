@@ -6,6 +6,10 @@ nav_order: 80
 ---
 
 # Regulating the Domain Name System
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Domain Names
 

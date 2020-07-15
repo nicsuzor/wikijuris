@@ -7,6 +7,10 @@ grand_parent: ausip
 ---
 
 # Patent Infringement
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Ownership and Exploitation
 

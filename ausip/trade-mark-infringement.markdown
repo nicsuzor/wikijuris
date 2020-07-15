@@ -7,6 +7,10 @@ grand_parent: ausip
 ---
 
 # Trade Mark Infringement & Defences
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 Trade mark infringement occurs when a defendant uses a registered sign as a mark within the course of trade in a way that attempts to distinguish their goods or services.
 

@@ -6,6 +6,10 @@ parent: ausip
 ---
 
 # Registered Designs
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Designs in brief
 

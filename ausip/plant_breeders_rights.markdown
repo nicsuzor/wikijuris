@@ -6,6 +6,10 @@ parent: ausip
 ---
 
 # Plant Breeders Rights
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 This chapter briefly explores plant breeders’ right (PBR) including the origins of PBR, international frameworks, criteria for protection, concerns and controversies over PBR and Australia’s Plant Breeder’s Rights Act 1994 (Cth).
 

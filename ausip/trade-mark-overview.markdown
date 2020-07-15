@@ -7,6 +7,10 @@ has_children: true
 ---
 
 # Trade Mark Overview
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 This chapter explores trade mark law including the origins of trade marks, the law in Australia and international trade mark law.
 

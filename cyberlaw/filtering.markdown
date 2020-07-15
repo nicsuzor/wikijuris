@@ -7,6 +7,10 @@ nav_order: 93
 ---
 
 # ISP Filtering
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 Consumer ISPs are a key target for regulation. When a user accesses an internet resource (like a website), the traffic necessary flows through their ISP. If it is not possible to easily regulate the user, the ISP may be a convenient target.
 

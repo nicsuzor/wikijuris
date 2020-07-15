@@ -6,6 +6,10 @@ nav_order: 90
 ---
 
 # Content Regulation and Online Classification
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 **Video Overview of Online Content Regulation in Australia by [Nicolas Suzor](https://www.youtube.com/watch?v=MXx8E2jnyGg)**
 

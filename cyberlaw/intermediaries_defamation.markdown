@@ -1,13 +1,15 @@
 ---
 layout: default
 title: Intermediary Liability for Defamation
-
-# parent: The Liability of Intermediaries
 nav_order: 40
 parent: Governing the Internet
 ---
 
-# Intermediary Liability for Defamation
+# Copyright Safe Harbours
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Chapter Overview
 

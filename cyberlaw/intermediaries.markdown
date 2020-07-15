@@ -6,6 +6,10 @@ nav_order: 30
 ---
 
 # The Liability of Intermediaries
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Chapter Overview
 

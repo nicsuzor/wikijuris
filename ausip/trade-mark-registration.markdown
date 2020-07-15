@@ -7,6 +7,10 @@ grand_parent: ausip
 ---
 
 # Trade Mark Registration
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Registration Process
 

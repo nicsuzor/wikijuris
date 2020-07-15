@@ -7,6 +7,10 @@ has_children: true
 ---
 
 # Preface: About This Textbook: Four Main Themes and How You Can Help
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
 
 ## Four Key Themes
 
