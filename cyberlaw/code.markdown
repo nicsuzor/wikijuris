@@ -23,7 +23,7 @@ It is useful here to explain Lessig's conception of the other modalities of regu
 
  Speed humps are an everyday example of regulation as physical architecture. Speed humps have speed control elements that, in conjunction with drivers taking note of warning signs, attempt to reduce the speed of a vehicle in line with target speed limits. Architects and town planners, among others, regularly design and deploy a wide variety of physical restraints, like speed humps, in line with regulatory agendas. Second, even in the absence of black letter law, social norms constrain some forms of behaviour. Take, for instance, norms of everyday conduct that many of us are socially conditioned to adhere to: 'Don't talk to strangers', 'follow instructions given by authority figures', 'respect your elders' and so forth. Norms are informal yet pervasive codes of conduct. Finally, the marketplace can regulate behaviour by putting a price tag on certain behaviours. Examples of market-based regulation include raising the price to petrol to combat speeding, pollution permits for certain industries, and accreditation, licensing and membership certifications. The market can efficiently regulate some scare resources and, like architecture and norms, improve regulation carried out my laws.  
 
-##Code is Law
+## Code is Law
 
 Shortly after early cyber-libertarians like Barlow declared the internet to be free from regulation, Lawrence Lessig's famous phrase "code is law" fundamentally changed debates about internet governance and regulation.[^AUTOREPLACEDLawrenceLessigCode202006pp12126httpcodev2ccdownloadremixLessigCodev2pdfAUTOREPLACED]
 
@@ -48,7 +48,7 @@ We can apply these four modalities to different regulatory issues about internet
 
 Importantly, Lessig's modalities are never really independent, as they all interact in interested ways. In the context of offensive online content, social media platforms like Facebook, YouTube, and Twitter are modifying their code to allow people to report or flag offensive content, and the market is starting to **[respond](http://fortune.com/2018/04/07/social-media-content-restrictions/)** to concerns about offensive content. This market-based initiative, noting that platforms, like Facebook, are private corporations, leverages code and social norms to regulate the massive amounts of material that are posted to these networks every day.
 
-##Case Study: YouTube's ContentID System
+## Case Study: YouTube's ContentID System
 
 **[Overview by Alex McKay](https://www.youtube.com/watch?v=0Bwu5YO_1FI)**
 

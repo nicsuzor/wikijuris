@@ -47,7 +47,7 @@ _In the strict sense,_ jurisdiction "refers to the authority of a court to decid
 
  The broad conception of jurisdiction is often referred to as private international law. We will expand on the concept of jurisdiction as well as choice of law, choice of forum and recognition and enforcement below.
 
-##Personal (In Personam) Jurisdiction
+## Personal (In Personam) Jurisdiction
 
 A court will only have personal jurisdiction over a foreign defendant if the defendant: (1) is present in the jurisdiction, (2) has submitted to the jurisdiction or (3) other court rules apply, such as where:  
   * the defendant is domiciled or ordinary resident in the relevant jurisdiction;
@@ -55,7 +55,7 @@ A court will only have personal jurisdiction over a foreign defendant if the def
   * there are special grounds under tort, contract or consumer laws, or a breach of another statute.
 Generally, for a court to have personal jurisdiction over a defendant, the court must serve that  defendant with an originating process issued by the court while the defendant is within the court's geographical boundaries.
 
-##Subject Matter Jurisdiction
+## Subject Matter Jurisdiction
 
 **Overview by [Rita Matulionyte](https://www.youtube.com/watch?v=nw-SgiIaLmc)**
 
@@ -69,7 +69,7 @@ Subject matter jurisdiction refers to the subject matter or types of actions tha
 
   
 
-###Contract Law
+### Contract Law
 
 **Video Overview by [Rita Matulionyte](https://www.youtube.com/watch?v=_TId_bCu2Bo)**
 
@@ -85,7 +85,7 @@ What if an e-contract is broken by repudiation?
 * Place where the message of repudiation originated
 * Presumption: originator’s place of business/ordinary place of residence
 
-###Torts Law
+### Torts Law
 
 **Video Overview  by [Rita Matulionyte](https://www.youtube.com/watch?v=JtxJ6G-n3ss)** and **[Jennifer Davy on the Lex Loci Delicti Rule](https://www.youtube.com/watch?v=QbyFsmI8oAc)**
 
@@ -112,7 +112,7 @@ The general _lex loci delicti_ rule is that courts have jurisdiction over the di
 * Held: As long as publication is 'downloaded' to one resident of an "Australian jurisdictional area" then a Queensland court will have jurisdiction to hear the cause of action.
 * It is statue which determines jurisdiction and not the principle of Dow Jones (although it important to determine where the publication was made).
 
-###Intellectual Property Law
+### Intellectual Property Law
 
 IP rights are territorial. Australian courts have jurisdiction only over IP rights granted in Australia and infringed in Australia.
 
@@ -135,11 +135,11 @@ IP rights are territorial. Australian courts have jurisdiction only over IP righ
 * Issue: the court had to determine whether the misrepresentation occurred in Australia or the United States.
 * Held: If misleading or deceptive conduct on an overseas website can be shown to have caused damage to Australian consumers, personal jurisdiction over a foreign defendant can be established.
 
-##In Rem Jurisdiction
+## In Rem Jurisdiction
 
 In rem jurisdiction, which roughly translates to jurisdiction 'about or over a thing', enables a court to exercise power over property, either real or personal, or a status against a person even when the personal jurisdiction is absent. An action in rem assumes that the property is the primary object of the action rather then personal liabilities not necessarily associated with the property, and is conclusive against the world. Courts often apply in rem jurisdiction in cases, inter alia, concerning real estate, potentially illegal goods on cargo ships and domain names.
 
-###In Rem Jurisdiction and Domain Names
+### In Rem Jurisdiction and Domain Names
 
 The United States (US) _Anti-Cybersquating Protection Act_ establishes that the US has in rem jurisdiction over domain names.[^AUTOREPLACEDCatherineTStruveandRPolkWagnerRealspaceSovereignsinCyberspaceProblemswiththeAnticybersquattingConsumerProtectionActhttpsheinonlineorgHOLPagecollectionjournalshandleheinjournalsberktech17id1019men_tabsrchresultsAUTOREPLACED]
 
@@ -226,7 +226,7 @@ Facts that a court can take into consideration when apply the Voth test follow:[
 
 ## Service
 
-###Substituted Service via Social Media
+### Substituted Service via Social Media
 
 **[Rhiannon Butcher](https://www.youtube.com/watch?v=jWyJWHoiTjM) and [Andrew Avenell](https://www.youtube.com/watch?v=AF5Bc8OQTlU) explain substituted service via social media**
 

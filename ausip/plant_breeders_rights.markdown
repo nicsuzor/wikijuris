@@ -107,7 +107,7 @@ Some key exemptions in PBR include:
 [^AUTOREPLACEDArt152UPOV1991ENDREPLACE]: Art 15(2), //UPOV// 1991
 
 
-##Concerns and Controversies
+## Concerns and Controversies
 
 ### Are PBR needed?
 

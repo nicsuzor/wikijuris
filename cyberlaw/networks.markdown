@@ -15,7 +15,7 @@ In 1996, John Perry Barlow released a famous provocation about the limits of sta
 
 Barlow's Declaration has played an pivotal role in shaping how we think about online regulation. In this extract, he makes two main claims about online regulation, which we will examine in more detail below. The first is that the internet is inherently unregulable by territorial governments. The second is that state regulation of the internet is illegitimate, or governments should defer to the self-rule of cyberspace.
 
-##Barlow's First Claim: The Internet is Unregulable
+## Barlow's First Claim: The Internet is Unregulable
 
 **Overview by Nic Suzor:[Governing the Internet](https://www.youtube.com/watch?v=ybNGDquKVTc)**
 
@@ -32,7 +32,7 @@ The challenge of regulating the internet is finding an effective way to either i
 ![Graph of traffic to and from Egypt on January 27-28 2011, from Arbor Networks - Who Controls the Pipes, Controls the Universe](http://www.wired.com/images_blogs/threatlevel/2011/01/arbor_egypt-660x359.jpg)
 (Image (c) Arbor Networks via [Wired](http://www.wired.com/2011/01/egypt-isp-shutdown/))
 
-###A Case Study: Newzbin
+### A Case Study: Newzbin
 
 **[Overview of Newzbin by Nic Suzor](https://www.youtube.com/watch?v=z8Ph8eO26q4)**
 
@@ -48,7 +48,7 @@ The system for blocking websites is not wholly effective. It turned out to be ea
 
 The Newzbin case study illustrates how regulating online content and behaviour can be an extremely difficult task. By cutting off the flow of money, the rightsholder groups were eventually successful in shutting down Newzbin. However, this took a lot of time and effort, and there is a good chance that many users of the service simply moved to newer, better hidden infringement networks. Overall, the copyright industry has had some succes in tackling large copyright infringers, but this is an ongoing arms race, as infringers continue to find ways around the regulations.
 
-##Barlow's Second Claim: State Regulation of the Internet is Illegitimate
+## Barlow's Second Claim: State Regulation of the Internet is Illegitimate
 
 **Overview by Nic Suzor[The Legitimacy of Online Regulation](https://www.youtube.com/watch?v=A0m_GZC4x2w)**
 

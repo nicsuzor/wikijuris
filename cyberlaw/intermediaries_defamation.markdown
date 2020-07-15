@@ -2,9 +2,9 @@
 layout: default
 title: Intermediary Liability for Defamation
 
-#parent: The Liability of Intermediaries
+# parent: The Liability of Intermediaries
 nav_order: 40
-grant_parent: Governing the Internet
+parent: Governing the Internet
 ---
 
 # Intermediary Liability for Defamation
@@ -70,11 +70,11 @@ There is also a related defence of contextual truth. This defence applies where:
 
 Contextual truth is a statutory defence under s 26 of the //Defamation Act 2005// (Qld). There is a similar defence at common law called the Polly Peck defence. This defence operates where different imputations have a common sting. If some imputations can be proven to establish the truth of the common sting, then it will not matter that the other imputations cannot be proven. For example, if a publication alleges that John stole from Sarah, Ashley and Peter, the common sting is that John is a thief. If the allegations in relation to Sarah and Ashley can be proven, then this will be sufficient to establish the common sting and the imputations in relation to John stealing from Peter will be excused even though they cannot be proven.
 
-###Honest Opinion
+### Honest Opinion
 
 The defence of honest opinion excuses any defamatory statements made that are clearly only the defendant's personal opinion (i.e. not presented as fact) and which relate to something in the public sphere. This defence operates to protect reviews of movies (and actors), music, and restaurants, for example. The opinion must be honestly held, and the defence is defeated if the plaintiff can show that the defendant did not honestly hold the opinion. In Queensland, the defence is available under s 31 of the //Defamation Act 2005// (Qld).
 
-###Innocent Dissemination
+### Innocent Dissemination
 
 The defence of innocent dissemination protects subordinate distributors (such as vendors, postal workers, librarians, or live broadcasters who do not have control over the performers making the defamatory statements) who publish defamatory material when they neither knew nor reasonably could have known that the matter was defamatory. This defence protects those actors that are several steps removed from the making of the defamatory statements. Lack of knowledge is the crux of this defence.
 
@@ -98,23 +98,19 @@ The main limit to intermediary liability in defamation is the innocent dissemina
 
 ### Who is a 'publisher' for the purposes of defamation law?
 
-In defamation, the word 'publish' extends liability to intermediaries who fail to remove defamatory material posted by others when they have some ability to do so.[^AUTOREPLACEDByrnevDeane19371KB818AUTOREPLACED]
+In defamation, the word 'publish' extends liability to intermediaries who fail to remove defamatory material posted by others when they have some ability to do so.[^AUTOREPLACEDByrnevDeane19371KB818AUTOREPLACED] Courts have been able to relatively simply draw an analogy between newspaper publishers[^AUTOREPLACEDseeegWheelervFederalCapitalPressofAustraliaLtd1984AustTortsReports80640AUTOREPLACED] or broadcasters[^AUTOREPLACEDseeegThompsonvAustralianCapitalTelevisionPtyLtd1996186CLR57458990596AUTOREPLACED] who carried content created by others to situations in which the operators of websites and discussion fora provided the facilities for others to post comments.[^AUTOREPLACEDNoAustraliancourtshavespecificallyconsideredthispointbutseeOrientalPressGroupLtdvFevaworksSolutionsLtd2013HKCFA47AUTOREPLACED] While this was an ostensibly technologically neutral shift, the role of publishers in exercising editorial control has changed significantly. The test for liability by omission has evolved so that a secondary actor 'publishes' defamatory material if they have “consented to, or approved of, or adopted, or promoted, or in some way ratified, the continued presence of that statement … in other words … [if there is] an acceptance by the defendant of a responsibility for the continued publication of that statement.”[^AUTOREPLACEDUrbanchichvDrummoyneMunicipalCouncil1988UnreportedJudgmentsNSWHuntJ7AUTOREPLACED]
 
 [^AUTOREPLACEDByrnevDeane19371KB818AUTOREPLACED]: Byrne v Deane [1937] 1 KB 818.
 
- Courts have been able to relatively simply draw an analogy between newspaper publishers[^AUTOREPLACEDseeegWheelervFederalCapitalPressofAustraliaLtd1984AustTortsReports80640AUTOREPLACED]
-
 [^AUTOREPLACEDseeegWheelervFederalCapitalPressofAustraliaLtd1984AustTortsReports80640AUTOREPLACED]: see, e.g. Wheeler v Federal Capital Press of Australia Ltd (1984) Aust Torts Reports ¶80-640
-
- or broadcasters[^AUTOREPLACEDseeegThompsonvAustralianCapitalTelevisionPtyLtd1996186CLR57458990596AUTOREPLACED]
 
 [^AUTOREPLACEDseeegThompsonvAustralianCapitalTelevisionPtyLtd1996186CLR57458990596AUTOREPLACED]: see, e.g. Thompson v Australian Capital Television Pty Ltd (1996) 186 CLR 574, 589–90, 596.
 
- who carried content created by others to situations in which the operators of websites and discussion fora provided the facilities for others to post comments.[^AUTOREPLACEDNoAustraliancourtshavespecificallyconsideredthispointbutseeOrientalPressGroupLtdvFevaworksSolutionsLtd2013HKCFA47AUTOREPLACED]
+
 
 [^AUTOREPLACEDNoAustraliancourtshavespecificallyconsideredthispointbutseeOrientalPressGroupLtdvFevaworksSolutionsLtd2013HKCFA47AUTOREPLACED]: No Australian courts have specifically considered this point, but see Oriental Press Group Ltd v Fevaworks Solutions Ltd [2013] HKCFA 47.
 
- While this was an ostensibly technologically neutral shift, the role of publishers in exercising editorial control has changed significantly. The test for liability by omission has evolved so that a secondary actor 'publishes' defamatory material if they have “consented to, or approved of, or adopted, or promoted, or in some way ratified, the continued presence of that statement … in other words … [if there is] an acceptance by the defendant of a responsibility for the continued publication of that statement.”[^AUTOREPLACEDUrbanchichvDrummoyneMunicipalCouncil1988UnreportedJudgmentsNSWHuntJ7AUTOREPLACED]
+
 
 [^AUTOREPLACEDUrbanchichvDrummoyneMunicipalCouncil1988UnreportedJudgmentsNSWHuntJ7AUTOREPLACED]: Urbanchich v Drummoyne Municipal Council [1988] Unreported Judgments NSW, Hunt J 7.
 

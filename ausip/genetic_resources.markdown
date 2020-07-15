@@ -218,7 +218,7 @@ Collecting and using native biological material from State land or waters for bi
 A Benefit Sharing Agreement must be entered into with the resource access provider. While the benefits often flow to the government, there are provisions within the Acts for the sharing of benefits with local indigenous communities. Benefits may be monetary or non-monetary.
 
 
-##Consumerism, Genetic Resources and BioTrade
+## Consumerism, Genetic Resources and BioTrade
 
 So far, this Chapter has focused on ‘traditional’ legal frameworks. Importantly, though, not all conservation and sustainable efforts are via treaties and legislation. The legal frameworks discussed above (e.g. CBD, Nagoya) seek to promote shared goals and objectives; however, there have been concerns expressed that due to the politicised nature of treaty-making, few, or severely limited, commitments or enforcement mechanisms are provided for either in international or national law.
 

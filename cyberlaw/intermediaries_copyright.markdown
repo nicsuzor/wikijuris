@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Intermediary Liability for Copyright
-#parent: The Liability of Intermediaries
+# parent: The Liability of Intermediaries
 nav_order: 50
 grant_parent: Governing the Internet
 ---
 
 # Intermediary Liability for Copyright
 
-##Chapter Overview
+## Chapter Overview
 
 In this Chapter, we will focus on the liability of online intermediaries for the infringing acts of their users, principally intermediaries who provide software or services that facilitate copyright infringement. It explains the Australian position on copyright authorisation followed by the United States (US) position on intermediary liability. We will generally assume that there has been primary infringement by the users. You are not expected to know the general principles of copyright in detail, and you do not need to know the rules for establishing primary infringement. The Chapter also outlines intermediary liability for direct infringement.
 
@@ -41,7 +41,7 @@ In the ensuing years, the most influential judgment proved to be that of Justice
 > It seems to me… that a person who has under his control the means by which an infringement of copyright may be committed – such as a photocopying machine – and who makes it available to other persons, knowing, or having reason to suspect, that it is likely to be used for the purpose of committing an infringement, and omitting to take reasonable steps to limit its use to legitimate purposes, would authorize any infringement that resulted from its use.
 
 
-###Legislative Amendments: Codification of the Moorhouse Test
+### Legislative Amendments: Codification of the Moorhouse Test
 
 **Madeline Urmoneit [explains what 'authorise' means in Australian copyright law](https://www.youtube.com/watch?v=u5fvVruam_4)**
 
@@ -238,11 +238,11 @@ The Court would have allowed recovery of damages under (a) and (d). The Court re
 
 DBC failed to provide a letter limited to the heads of damage under (a) and (d) by the date set by the court, and consequently this action was terminated. The result was that DBC was not provided access to account holder details in this case.
 
-##Intermediary Copyright Liability – The US Position
+## Intermediary Copyright Liability – The US Position
 
 **Video Overview of the US Position by [Kylie Pappalardo](https://www.youtube.com/watch?v=G-jD1WDw_34)**
 
-###US Doctrine
+### US Doctrine
 
 The United States does not have a concept of “authorisation” for intermediary copyright liability, like we do in Australia. Instead, the US uses several tests developed from tort law. There are three heads of intermediary liability in US copyright law:
 

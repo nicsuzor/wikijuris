@@ -1,12 +1,19 @@
 ---
 layout: default
 title:  Intermediary Liability for Trade Mark Infringement, passing off, and misleading and deceptive conduct
-grand_parent: Governing the Internet
-#parent: The Liability of Intermediaries
+parent: Governing the Internet
+# parent: The Liability of Intermediaries
 nav_order: 60
 ---
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_tm.markdown){: .btn .btn-outline }
+
 
 # Intermediary Liability for Trade Mark Infringement, passing off, and misleading and deceptive conduct
+{: .no_toc }
+
+1. Table of Contents
+{:toc}
+
 
 Unlike the _Copyright Act 1968_ (Cth) and _Patents Acts 1990_ (Cth), the _Trade Marks Act_ 1995 (Cth) does not contain a provision which makes liable those who authorise others to infringe a trade mark. Should the _Trade Marks Act 1995_ (Cth) be amended to include an express statutory provision extending liability for infringement to those who authorise infringement of registered trade marks? Some agitation of the issues has been seen in UK and US courts.
 

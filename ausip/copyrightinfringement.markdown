@@ -189,7 +189,7 @@ The test for reproduction requires both a causal connection and objective simila
 
 **Video overview by Greg Travers on[Objective Similarity](https://www.youtube.com/watch?v=r3gosX2iBOE).**
 
-**Video overview by Jack Howe on[Originality](https://www.wevideo.com/hub#media/ci/343207597?timelineId=335936108).**
+**Video overview by Jack Howe on[Originality](https://www.wevideo.com/hub# media/ci/343207597?timelineId=335936108).**
 
 
 

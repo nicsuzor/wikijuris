@@ -7,7 +7,7 @@ nav_order: 30
 
 # The Liability of Intermediaries
 
-##Chapter Overview
+## Chapter Overview
 
 This Chapter introduces you to the concept of intermediary liability before explaining the responsibility of intermediaries and the trade-offs between efficiency, liberty, innovation and user rights around internet governance and regulation more broadly. The fundamental and overarching question of this Chapter is _what behaviour does (and should) make an intermediary liable?_
 

@@ -2,7 +2,7 @@
 layout: default
 title: Copyright Safe Harbours
 grant_parent: Governing the Internet
-#parent: The Liability of Intermediaries
+# parent: The Liability of Intermediaries
 nav_order: 70
 ---
 

@@ -194,7 +194,7 @@ There must be a continuous use of the invention. This defence can apply where a 
 
 The examination process is susceptible to error, this is why the //Act// makes it clear that a grant of a patent is no guarantee of validity. This defence is largely relevant where the prior user does not wish to challenge the validity of the patent.
 
-###Exemptions for Obtaining Regulatory Approvals
+### Exemptions for Obtaining Regulatory Approvals
 
 Pursuant to s 119A of the //Act//, a pharmaceutical patent is not infringed if a person exploits an invention solely for the purpose of obtaining TGA approval of goods intended for therapeutic use; or obtaining similar regulatory approval in a foreign country.
 
@@ -277,7 +277,7 @@ To avoid being named as a respondent to an unjustified threats proceedings:
 * Only threaten proceedings if the rights holder is ready and willing to institute proceedings promptly.
 * Commence infringement proceedings promptly if the infringing conduct does not cease.
 
-##International agreements on patent law
+## International agreements on patent law
 
 
 In 1970 the //Patent Co-operation Treaty// (//PCT//) was drafted. The //PCT// was drafted within the existing framework of the Paris Convention. There are over 147 countries who are members of the Paris Convention. The //PCT// is a comprehensive guide to patent law standards. The PCT not only makes it easier for patentees to file applications in multiple countries, it also seeks to harmonise the national patent laws of the countries. The //PCT// has been considered successful is assisting in the development of patent law globally.  
