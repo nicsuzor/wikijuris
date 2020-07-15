@@ -109,10 +109,10 @@ In addition to the four main categories of IP discussed above, there are also a 
 
 Intellectual property law, and especially copyright and patent law, is thought to have a predominantly instrumental function. It provides creators of new work (whether it is inventors of patents or authors and publishers alike), with certain incentives in order to encourage the creation of new expression. It does this by granting creators control over certain uses of their creations for specified periods of time, limiting who may exploit, or make use of the creations. Each specific area of intellectual property law confers exclusive rights to the creator or owner. The exclusive rights vary between the types of intellectual property law, however, the concept of exclusive use of the creations remains the same.
 
-There are several views concerning the purpose of intellectual property law. One view is that intellectual property encourages creativity and innovation by allowing creators to profit from their work. This view is most notable in the area of copyright and is reflected in the wording of many copyright laws. For example, the "Copyright Clause" of the //United States Constitution// states that Congress may grant authors copyright protection for their works for a limited time in order to "promote the progress of science and useful arts". [^REPLACEMEUSConstitutionArticle1Section8Clause8ENDREPLACE]
-[^REPLACEMEUSConstitutionArticle1Section8Clause8ENDREPLACE]: //US Constitution, Article 1, Section 8, Clause 8//
- Similarly, the stated purpose of the //Statute of Anne//, the first copyright statute in England, was to "encourage learning". [^REPLACEME8AnneChapter191710ENDREPLACE]
-[^REPLACEME8AnneChapter191710ENDREPLACE]: //8 Anne Chapter 19// (1710) 
+There are several views concerning the purpose of intellectual property law. One view is that intellectual property encourages creativity and innovation by allowing creators to profit from their work. This view is most notable in the area of copyright and is reflected in the wording of many copyright laws. For example, the "Copyright Clause" of the //United States Constitution// states that Congress may grant authors copyright protection for their works for a limited time in order to "promote the progress of science and useful arts". [^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]
+[^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]: //US Constitution, Article 1, Section 8, Clause 8//
+ Similarly, the stated purpose of the //Statute of Anne//, the first copyright statute in England, was to "encourage learning". [^AUTOREPLACED8AnneChapter191710ENDREPLACE]
+[^AUTOREPLACED8AnneChapter191710ENDREPLACE]: //8 Anne Chapter 19// (1710) 
  Another view is that intellectual property law ensures that creators are paid fairly for their effort. A third view suggests that a creative work is an expression of the personality of its creator and should be protected from being used without the creator's permission.
 
 Although intellectual property law grants creators many exclusive rights, it also limits these rights in many important ways. Most of these limitations are quite specific, but a few are broad. These limits are important in order to ensure that law is balanced - that the monopoly granted by intellectual property's exclusive rights does not place excessive limitations on the public's freedom to learn, express themselves and build upon existing cultural works.
@@ -120,8 +120,8 @@ Although intellectual property law grants creators many exclusive rights, it als
 
 ### The Economic (Utilitarian) Justification
 
-The most common justifications for intellectual property is the utilitarian justification. According to the US Constitution, intellectual property law exists, “[t]o promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries". [^REPLACEMEUSConstitutionArticle1Section8Clause8ENDREPLACE]
-[^REPLACEMEUSConstitutionArticle1Section8Clause8ENDREPLACE]: //US Constitution, Article 1, Section 8, Clause 8//
+The most common justifications for intellectual property is the utilitarian justification. According to the US Constitution, intellectual property law exists, “[t]o promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries". [^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]
+[^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]: //US Constitution, Article 1, Section 8, Clause 8//
 
 
 **Video overview of [The Utilitarian Justification for Intellectual Property](https://www.youtube.com/watch?v=KVpYFZ-FBdk).**

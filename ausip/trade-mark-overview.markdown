@@ -23,8 +23,8 @@ In Australia, there are a number sources of trade mark law including:
 
 ## Introduction to Trade Marks
 
-As noted above, trade mark law is governed by the //Trade Marks Act 1995// (Cth) (//TMA//). Trade mark protection gives the registered owner the exclusive right to use the trade mark or authorise another person to use the trade mark in relation to the goods or services in which it is registered. These exclusive rights include the right to obtain relief if the trade mark has been infringed. [^REPLACEMETMAs20ENDREPLACE]
-[^REPLACEMETMAs20ENDREPLACE]: //TMA// s 20
+As noted above, trade mark law is governed by the //Trade Marks Act 1995// (Cth) (//TMA//). Trade mark protection gives the registered owner the exclusive right to use the trade mark or authorise another person to use the trade mark in relation to the goods or services in which it is registered. These exclusive rights include the right to obtain relief if the trade mark has been infringed. [^AUTOREPLACEDTMAs20ENDREPLACE]
+[^AUTOREPLACEDTMAs20ENDREPLACE]: //TMA// s 20
  Trade mark law overcomes some of the limitations of passing off.
 
 
@@ -61,8 +61,8 @@ The //TMA// made significant changes to the law relating to trade marks and, as 
 
 The //TMA// also offers extended protection to well-known marks, by granting protection where the trade mark is used on unrelated goods or services.
 
-The //TMA// further permits the registration of trade marks that are not inherently distinctive but become distinctive through use. [^REPLACEMETMAs41ENDREPLACE]
-[^REPLACEMETMAs41ENDREPLACE]: //TMA// s 41
+The //TMA// further permits the registration of trade marks that are not inherently distinctive but become distinctive through use. [^AUTOREPLACEDTMAs41ENDREPLACE]
+[^AUTOREPLACEDTMAs41ENDREPLACE]: //TMA// s 41
 
 
 While there are significant differences between the 1955 Act and the //TMA//, many existing concepts were left in place in the current //Act//, and so cases decided under the 1955 Act are still relevant.
@@ -75,10 +75,10 @@ The //TMA// provides certainty, by clearly defining the boundaries of a trade ma
 
 ## What Does Trade Mark Registration Give You?
 
-Registration gives the registered owner the exclusive right to use the trade mark or authorise another person to use the trade mark in relation to the goods and services in which it is registered. [^REPLACEMETMAs201ENDREPLACE]
-[^REPLACEMETMAs201ENDREPLACE]: //TMA// s 20(1) 
- The trade mark owner also has the right to obtain relief if the trade mark is infringed. [^REPLACEMETMAs202ENDREPLACE]
-[^REPLACEMETMAs202ENDREPLACE]: //TMA// s 20(2) 
+Registration gives the registered owner the exclusive right to use the trade mark or authorise another person to use the trade mark in relation to the goods and services in which it is registered. [^AUTOREPLACEDTMAs201ENDREPLACE]
+[^AUTOREPLACEDTMAs201ENDREPLACE]: //TMA// s 20(1) 
+ The trade mark owner also has the right to obtain relief if the trade mark is infringed. [^AUTOREPLACEDTMAs202ENDREPLACE]
+[^AUTOREPLACEDTMAs202ENDREPLACE]: //TMA// s 20(2) 
  A trade mark is infringed if it is used in a manner specified in //TMA// s 120.
 
 ## Definition of a Trade Mark
@@ -100,8 +100,8 @@ These elements will be outlined in more detail below.
 
 ### A Sign
 
-A sign includes the following or any combination of the following, namely: letter, word, name, signature, numeral, device, brand, heading, label, ticket, aspect of packaging, shape, colour, sound or scent. [^REPLACEMETMAs6ENDREPLACE]
-[^REPLACEMETMAs6ENDREPLACE]: //TMA// s 6
+A sign includes the following or any combination of the following, namely: letter, word, name, signature, numeral, device, brand, heading, label, ticket, aspect of packaging, shape, colour, sound or scent. [^AUTOREPLACEDTMAs6ENDREPLACE]
+[^AUTOREPLACEDTMAs6ENDREPLACE]: //TMA// s 6
 
 
 
@@ -110,15 +110,15 @@ A sign includes the following or any combination of the following, namely: lette
 
 Use ‘as a trade mark’ is use of the mark as a *badge of origin* whether the trade mark would have been understood by consumers as being used to *indicate a connection* in the course of trade between the goods or services and the person using it.
 
-Use of a trade mark in relation to goods/services also means use of the trade mark upon, or in physical or other relation to,  the goods (including secondhand goods) or services. [^REPLACEMETMAs74and5ENDREPLACE]
-[^REPLACEMETMAs74and5ENDREPLACE]: //TMA// s 7(4) and (5) 
+Use of a trade mark in relation to goods/services also means use of the trade mark upon, or in physical or other relation to,  the goods (including secondhand goods) or services. [^AUTOREPLACEDTMAs74and5ENDREPLACE]
+[^AUTOREPLACEDTMAs74and5ENDREPLACE]: //TMA// s 7(4) and (5) 
 
 
 
 ### Distinguishing Goods or Services in the Course of Trade
 
-There is no requirement that trade result in actual sales or dealing in the goods – it is enough if the goods or services have been offered or advertised for sale or hire. However, a trade mark must be registered with respect to one or more classes of goods and/or services. [^REPLACEMETMAs19ENDREPLACE]
-[^REPLACEMETMAs19ENDREPLACE]: //TMA// s 19
+There is no requirement that trade result in actual sales or dealing in the goods – it is enough if the goods or services have been offered or advertised for sale or hire. However, a trade mark must be registered with respect to one or more classes of goods and/or services. [^AUTOREPLACEDTMAs19ENDREPLACE]
+[^AUTOREPLACEDTMAs19ENDREPLACE]: //TMA// s 19
  There are 34 classes of goods and 11 classes of services. See IP Australia, Trade Marks Classification Search, [Classes of Goods](http://xeno.ipaustralia.gov.au/tmgns/facelets/tmgoods.xhtml)
 
 
@@ -132,8 +132,8 @@ There is no requirement that trade result in actual sales or dealing in the good
 There are four types of trade marks which can be registered:
 
 
-1.  **Standard trade mark**: A sign used, or intended to be used, to distinguish goods or services dealt with or provided in the course of trade, from goods or services dealt with or provided by any other person. [^REPLACEMETMAs17ENDREPLACE]
-[^REPLACEMETMAs17ENDREPLACE]: //TMA// s 17
+1.  **Standard trade mark**: A sign used, or intended to be used, to distinguish goods or services dealt with or provided in the course of trade, from goods or services dealt with or provided by any other person. [^AUTOREPLACEDTMAs17ENDREPLACE]
+[^AUTOREPLACEDTMAs17ENDREPLACE]: //TMA// s 17
 
 
 2.  **Collective trade mark**: A sign used by members of an association to distinguish goods or services provided by persons who are not members of that association. For example, *Industry Super Funds*
@@ -151,26 +151,26 @@ There are four types of trade marks which can be registered:
 
 ### Aspect of Packaging, Shape
 
-An aspect of packaging or part of a product may constitute a trade mark. For example, in *Re Application by Hamish Robertson*, [^REPLACEME199813IPR69ENDREPLACE]
-[^REPLACEME199813IPR69ENDREPLACE]:  (1998) 13 IPR 69
+An aspect of packaging or part of a product may constitute a trade mark. For example, in *Re Application by Hamish Robertson*, [^AUTOREPLACED199813IPR69ENDREPLACE]
+[^AUTOREPLACED199813IPR69ENDREPLACE]:  (1998) 13 IPR 69
  the crest on the neck of a bottle of alcohol was capable of being registered as a trade mark, as it was very unusual and quite distinctive.
 
-A shape may include the entirety of the goods. If the shape of the goods is not essential and is separate from the function of the goods, the shape can be registered as a trade mark. However, a shape cannot be registered if it is entirely functional. [^REPLACEMEKoninklijkePhilipsElectronicsNVvRemingtonProductsAustraliaPtyLtd1999FCA816ENDREPLACE]
-[^REPLACEMEKoninklijkePhilipsElectronicsNVvRemingtonProductsAustraliaPtyLtd1999FCA816ENDREPLACE]: *Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd* [1999] FCA 816
+A shape may include the entirety of the goods. If the shape of the goods is not essential and is separate from the function of the goods, the shape can be registered as a trade mark. However, a shape cannot be registered if it is entirely functional. [^AUTOREPLACEDKoninklijkePhilipsElectronicsNVvRemingtonProductsAustraliaPtyLtd1999FCA816ENDREPLACE]
+[^AUTOREPLACEDKoninklijkePhilipsElectronicsNVvRemingtonProductsAustraliaPtyLtd1999FCA816ENDREPLACE]: *Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd* [1999] FCA 816
 
 
-In *Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks*, [^REPLACEME2002FCAFC273ENDREPLACE]
-[^REPLACEME2002FCAFC273ENDREPLACE]: [2002] FCAFC 273
+In *Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks*, [^AUTOREPLACED2002FCAFC273ENDREPLACE]
+[^AUTOREPLACED2002FCAFC273ENDREPLACE]: [2002] FCAFC 273
  the 3D shape of an imaginary six-legged spider-like creature (the millennium bug), was capable of registration as a trade mark as it had no functional significance, was distinctive of the applicant's product and was not based on an actual bug that existed in nature.
 
-However, in *[Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/816.html)*, [^REPLACEME1999FCA816ENDREPLACE]
-[^REPLACEME1999FCA816ENDREPLACE]: [1999] FCA 816
+However, in *[Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/816.html)*, [^AUTOREPLACED1999FCA816ENDREPLACE]
+[^AUTOREPLACED1999FCA816ENDREPLACE]: [1999] FCA 816
  the design of a triple-headed rotary shaver could not be registered as a trade mark since the configuration of the three heads was the best design and did not add anything extra to distinguish the product.
 
 ### Colour
 
-Colour is an important element to brands. The colour often acts as a visual symbol provoking memories and attachment. Colour is expressly listed as able to constitute a sign. [^REPLACEMETMAs6ENDREPLACE]
-[^REPLACEMETMAs6ENDREPLACE]: //TMA// s 6
+Colour is an important element to brands. The colour often acts as a visual symbol provoking memories and attachment. Colour is expressly listed as able to constitute a sign. [^AUTOREPLACEDTMAs6ENDREPLACE]
+[^AUTOREPLACEDTMAs6ENDREPLACE]: //TMA// s 6
 
 
 The legal requirements for colours to be trade marks are
@@ -190,10 +190,10 @@ In order for a colour to be distinctive it needs to be capable to distinguish go
 
 Colour can be registered as a trade mark if the colour is distinct and has no functional purpose.
 
-In *[Philmac Pty Limited v The Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2002/1551.html)*, [^REPLACEME2002FCA1551ENDREPLACE]
-[^REPLACEME2002FCA1551ENDREPLACE]: [2002] FCA 1551
- a terracotta shade on plastic pipes and pipe fittings could be registered as a trade mark as the colour had no functional purpose. In contrast, in *[Smith Kline and French Laboratories (Australia) Ltd v Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1967/42.html)*,[^REPLACEME1967HCA42ENDREPLACE]
-[^REPLACEME1967HCA42ENDREPLACE]: [1967] HCA 42
+In *[Philmac Pty Limited v The Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2002/1551.html)*, [^AUTOREPLACED2002FCA1551ENDREPLACE]
+[^AUTOREPLACED2002FCA1551ENDREPLACE]: [2002] FCA 1551
+ a terracotta shade on plastic pipes and pipe fittings could be registered as a trade mark as the colour had no functional purpose. In contrast, in *[Smith Kline and French Laboratories (Australia) Ltd v Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1967/42.html)*,[^AUTOREPLACED1967HCA42ENDREPLACE]
+[^AUTOREPLACED1967HCA42ENDREPLACE]: [1967] HCA 42
  the colour scheme of a pharmaceutical capsule which was half transparent and revealed multi-coloured pellets of medicine was refused registration as the trade mark could not be described apart from the capsule.
 
 

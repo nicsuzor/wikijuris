@@ -42,26 +42,26 @@ Standard Patents:
 A standard patent requires an inventive step.
 An inventive step means that the invention is not an obvious thing to do for someone with knowledge and experience in the technological field of the invention. The invention must differ from existing technology.
 A standard patent will only be granted after a period of examination to ensure the patent meets the legislative requirements. This process can take from six months – several years depending on the type of protection and circumstances.
-The period of protection afforded by a standard patent is up to twenty years from the date of the patent (or up to 25 years for pharmaceuticals). [^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
-[^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+The period of protection afforded by a standard patent is up to twenty years from the date of the patent (or up to 25 years for pharmaceuticals). [^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
+[^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 
 
-An extension of up to five years can be sought for pharmaceuticals. [^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+An extension of up to five years can be sought for pharmaceuticals. [^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
  Pharmaceuticals require regulatory approval before they are sold to the public and approvals can only be sought during the patent term, so patentees are compensated for the time taken to obtain regulatory approval.
 
-Not all pharmaceutical patent applications are automatically given the extension of five years. Three requirements must be met to obtain an extension for a pharmaceutical patent:[^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+Not all pharmaceutical patent applications are automatically given the extension of five years. Three requirements must be met to obtain an extension for a pharmaceutical patent:[^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 
 
-**First requirement:**[^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+**First requirement:**[^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 
 
-a) The first part of this requirement is that a pharmaceutical substance per se must be disclosed and claimed, including compounds, active metabolites, a composition or a mixture of substances. [^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+a) The first part of this requirement is that a pharmaceutical substance per se must be disclosed and claimed, including compounds, active metabolites, a composition or a mixture of substances. [^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 
 
 For a claim to related to a pharmaceutical substance per se, it must be unqualified by process, temporal or environmental components.
@@ -82,20 +82,20 @@ The extended period of protection only protects the pharmaceutical substance its
 
 **Video overview by Fern Doyle on [Requirements For Extension of Time for Pharmaceutical Patents](https://www.youtube.com/watch?v=XA_QFCUoIJA).**
 
-[^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+[^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 
 
-**Innovative Patents:**[^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+**Innovative Patents:**[^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 
 
-An innovative patent is suitable for inventions with short market life. An innovative patent requir[^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+An innovative patent is suitable for inventions with short market life. An innovative patent requir[^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 e step, which involved a lesser degree of inventiveness compared to the standard patent. An innovative step is one where the invention is different from existing technology and provides a substantial contribution to the working of the invention. The innovation patent seeks to protect incremental advances in technology as opposed to ground-breaking technology (which would be covered under a standard patent).  
 
-The duration of an innovative patent is for the period of eight years from the date of the patent. [^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+The duration of an innovative patent is for the period of eight years from the date of the patent. [^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
  Innovative patents can be granted within one month of filing, as there is no requirement for examination.
 
 **Video overview by Maddison D on [The Difference Between a Standard Patent and an Innovation Patent](https://www.youtube.com/watch?v=G77xPOYJZng?small).**
@@ -105,24 +105,24 @@ IP Australia [Quick guide to innovation versus standard patents](https://www.ipa
 ^             ^ Innovation Patent ^ Standard Patent |
 | Your invention must: | Be new, useful and involve an innovative step. | Be new, useful and involve an inventive step.|
 | The application should include: | A title, description, up to five claims, drawings (if applicable), an abstract and forms. | A title, description, any number of claims, drawings (if applicable), an abstract and forms.|
-| A patent is granted if: | The application satisfies formality requirements (note: a 'granted' innovation patent[^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+| A patent is granted if: | The application satisfies formality requirements (note: a 'granted' innovation patent[^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 rced unless examined). | The application is examined and found to satisfy the relevant requirements of the Patents Act 1990.|
 | Examination: | Optional. Examination can be requested by you or anyone else. | Mandatory. The relevant requirements of the Patents Act 1990 must be met before a patent is granted. Can only be requested by the applicant.|
-| Certification: | Is given if the innovation patent complies with the relevant requirements of the Patents Act 1[^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+| Certification: | Is given if the innovation patent complies with the relevant requirements of the Patents Act 1[^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 ion. Only after certification can the patent be enforced. | N/A|
 | Publication in the Australian Official Journal of Patents: | At grant and again at certification. | 18 months from earliest priority date and again at acceptance.|
-|Protection period: | Up to eight years if annual fees are paid. | Up to 20 years if annual fees are paid (or up [^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+|Protection period: | Up to eight years if annual fees are paid. | Up to 20 years if annual fees are paid (or up [^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
  pharmaceuticals).|
 |How long does the process take?| Approximately one month for grant. Six months for examination if you make a request. | Six months to several years depending on circumstances.|
-[^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+[^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 
 
-*Duration of protection for both types of patents is measured from the date the complete specification is filed. [^REPLACEME$1ENDREPLACE]
-[^REPLACEME$1ENDREPLACE]: $1
+*Duration of protection for both types of patents is measured from the date the complete specification is filed. [^AUTOREPLACED$1ENDREPLACE]
+[^AUTOREPLACED$1ENDREPLACE]: $1
 
 
 ===== Rationale of the Patent System =====

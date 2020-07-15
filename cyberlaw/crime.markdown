@@ -166,7 +166,15 @@ The link between access control systems and private law is typically made throug
 
 A 'click-wrap' agreement is an online agreement where the user actively gives consent to the terms and conditions. The user will do this by either clicking on a button or checking a box next to a statement saying “I agree to the terms and conditions”. A browse-wrap agreement is an online agreement where the user is assumed to have given passive consent by merely being on the website because being on the website is stated to amount to entering into an agreement with the provider.
 
-Click-wrap and browse-wrap agreements differ from how the terms are incorporated to the agreement by reference. To be enforceable, it must be done by signature or reasonable notice.((Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd (2004) 219 CLR 165 approving L’Estrange v F Graucob Ltd [1934] 2 KB 394.)) Click-wrap agreements do this by signature. Browse-wrap agreements attempt this through reasonable notice, but this is sometimes harder to enforce.((Hotmail Corporation v Van Money Pie Inc (1998) 47 USPQ 102.))
+Click-wrap and browse-wrap agreements differ from how the terms are incorporated to the agreement by reference. To be enforceable, it must be done by signature or reasonable notice.[^AUTOREPLACEDTollFGCTPtyLtdvAlphapharmPtyLtd2004219CLR165approvingLEstrangevFGraucobLtd19342KB394AUTOREPLACED]
+
+[^AUTOREPLACEDTollFGCTPtyLtdvAlphapharmPtyLtd2004219CLR165approvingLEstrangevFGraucobLtd19342KB394AUTOREPLACED]: Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd (2004) 219 CLR 165 approving L’Estrange v F Graucob Ltd [1934] 2 KB 394.
+
+ Click-wrap agreements do this by signature. Browse-wrap agreements attempt this through reasonable notice, but this is sometimes harder to enforce.[^AUTOREPLACEDHotmailCorporationvVanMoneyPieInc199847USPQ102AUTOREPLACED]
+
+[^AUTOREPLACEDHotmailCorporationvVanMoneyPieInc199847USPQ102AUTOREPLACED]: Hotmail Corporation v Van Money Pie Inc (1998) 47 USPQ 102.
+
+
 
 Terms of Use documents are either click-wrap or browse-wrap agreements that typically deal with a series of different legal issues. They might include limitations of liability clauses, standards of acceptable conduct, copyright and other intellectual property policies, dispute resolution mechanisms, and many other terms. These can be very useful for online service providers. Because users must agree to the terms to use the website, these terms become enforceable through contract law and, in some cases, also through the criminal prohibitions on unauthorised access. In practice, the contractual component is the most important: through electronic contracts, online service providers are able to structure their rights and exposure to potential liability in a standardised, low cost manner.
 

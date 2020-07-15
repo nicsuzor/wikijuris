@@ -32,7 +32,11 @@ Two separate bases for finding authorisation were advanced:
   * Gibbs J found UNSW liable predominantly because they should have known that copyright infringement was likely and had the power to prevent or discourage it but declined to do so.
   * Jacobs and McTeirnan JJ found UNSW liable predominantly because UNSW had, by locating photocopiers within the library, effectively extended an invitation to library patrons to infringe copyright. This invitation was unqualified as UNSW had not done anything to indicate to users what was allowed under copyright law.
 
-In the ensuing years, the most influential judgment proved to be that of Justice Gibbs. In particular, His Honour’s statement: ((University of New South Wales v Moorhouse [http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse]((1975) 6 ALR 193), 200 (Gibbs J).))
+In the ensuing years, the most influential judgment proved to be that of Justice Gibbs. In particular, His Honour’s statement: [^AUTOREPLACEDUniversityofNewSouthWalesvMoorhousehttpwwwaustliieduaucgibinsinodispaucasescthHCA197526htmlstem0synonyms0queryUniversity20Moorhouse19756ALR193200GibbsJAUTOREPLACED]
+
+[^AUTOREPLACEDUniversityofNewSouthWalesvMoorhousehttpwwwaustliieduaucgibinsinodispaucasescthHCA197526htmlstem0synonyms0queryUniversity20Moorhouse19756ALR193200GibbsJAUTOREPLACED]: University of New South Wales v Moorhouse [http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse]((1975) 6 ALR 193), 200 (Gibbs J).
+
+
 
 > It seems to me… that a person who has under his control the means by which an infringement of copyright may be committed – such as a photocopying machine – and who makes it available to other persons, knowing, or having reason to suspect, that it is likely to be used for the purpose of committing an infringement, and omitting to take reasonable steps to limit its use to legitimate purposes, would authorize any infringement that resulted from its use.
 
@@ -53,7 +57,11 @@ In the year 2000, the Copyright Amendment (Digital Agenda) Act inserted the foll
 
 * (c) whether the person took any reasonable steps to prevent or avoid the doing of the act, including whether the person complied with any relevant industry codes of practice.
 
-This subsection was designed to codify the principles set out in Justice Gibb’s statement in Moorhouse, extracted above. The legislative amendments were intended to promote certainty within the law for the communication and IT industries that provided online access to copyright material.((Copyright Amendment (Digital Agenda) Act 2000 (Cth), s. 3; The Parliament of the Commonwealth of Australia, House of Representatives, Copyright Amendment (Digital Agenda) Bill 1999, Explanatory Memorandum, Outline, http://www.comlaw.gov.au/Details/C2004B00540/Explanatory%20Memorandum/Text.))
+This subsection was designed to codify the principles set out in Justice Gibb’s statement in Moorhouse, extracted above. The legislative amendments were intended to promote certainty within the law for the communication and IT industries that provided online access to copyright material.[^AUTOREPLACEDCopyrightAmendmentDigitalAgendaAct2000Cths3TheParliamentoftheCommonwealthofAustraliaHouseofRepresentativesCopyrightAmendmentDigitalAgendaBill1999ExplanatoryMemorandumOutlinehttpwwwcomlawgovauDetailsC2004B00540Explanatory20MemorandumTextAUTOREPLACED]
+
+[^AUTOREPLACEDCopyrightAmendmentDigitalAgendaAct2000Cths3TheParliamentoftheCommonwealthofAustraliaHouseofRepresentativesCopyrightAmendmentDigitalAgendaBill1999ExplanatoryMemorandumOutlinehttpwwwcomlawgovauDetailsC2004B00540Explanatory20MemorandumTextAUTOREPLACED]: Copyright Amendment (Digital Agenda) Act 2000 (Cth), s. 3; The Parliament of the Commonwealth of Australia, House of Representatives, Copyright Amendment (Digital Agenda) Bill 1999, Explanatory Memorandum, Outline, http://www.comlaw.gov.au/Details/C2004B00540/Explanatory%20Memorandum/Text.
+
+
 
 ### Section 115A
 
@@ -81,7 +89,11 @@ The court found for the applicants. Justice Wilcox held that at all material tim
 
 A key factor in finding liability was Sharman’s perceived power to control or prevent infringement via filtering and other technological controls. This was a contentious factual issue in the case, because the respondents presented evidence – cautiously accepted by the court – that there was no Kazaa ‘central server’ through which Sharman could exercise substantial control over users’ activities to prevent the sharing of copyright files. Consequently, much of the judgment focused on expert testimony as to whether Sharman could effectively implement a filter, in the absence of a central server, to prevent the display files with metadata that matched the particulars of sound recordings listed in the applicants’ catalogues.
 
-The court determined that a filter could be implemented by an upgrade in the Kazaa software, but acknowledged that users were unlikely to upgrade if the new software imposed a keyword filter on users’ searching and sharing of files. However, the court accepted evidence that users could be “persuaded” to upgrade by “driving them mad” with pop-up dialogue boxes for the upgrade, essentially “rendering the existing version impracticable to use”.((Universal Music Australia Pty Ltd v Sharman License Holdings Ltd [2005] FCA 1242 [304]-[309] (Wilcox J).))
+The court determined that a filter could be implemented by an upgrade in the Kazaa software, but acknowledged that users were unlikely to upgrade if the new software imposed a keyword filter on users’ searching and sharing of files. However, the court accepted evidence that users could be “persuaded” to upgrade by “driving them mad” with pop-up dialogue boxes for the upgrade, essentially “rendering the existing version impracticable to use”.[^AUTOREPLACEDUniversalMusicAustraliaPtyLtdvSharmanLicenseHoldingsLtd2005FCA1242304309WilcoxJAUTOREPLACED]
+
+[^AUTOREPLACEDUniversalMusicAustraliaPtyLtdvSharmanLicenseHoldingsLtd2005FCA1242304309WilcoxJAUTOREPLACED]: Universal Music Australia Pty Ltd v Sharman License Holdings Ltd [2005] FCA 1242 [304]-[309] (Wilcox J).
+
+
 
 Evidence was also accepted by the court of another technological method of impeding the filesharing of copyright works. This method, labelled the ‘gold file flood filter’, involved “flooding” a user’s search query results with files containing only copyright infringement warnings, in response to searches for copyrighted works. This would essentially crowd out any unlicensed files from the search results.
 
@@ -206,7 +218,11 @@ Speculative invoicing is the practice of copyright owners sending grossly inflat
 
 In the Dallas Buyers Club judgment, Justice Perram followed the approach taken by the English High Court of Justice in //Golden Eye (International) Ltd v Telefonica UK Ltd// [2012] EWHC 723 (Ch) and the Federal Court of Canada in //Voltage Pictures LLC v John Doe// [2014] FC 161. This approach was to impose conditions on the applicants to prevent speculative invoicing. Before preliminary disclosure would be allowed, the applicants were required to submit to the Court a draft of the proposed correspondence to be sent to the account holders once identified.
 
-Later in the series of Dallas Buyers Club decisions,((Dallas Buyers Club v iiNet (No 4) [2015] FCA 838 http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FCA/2015/838.html?stem=0&synonyms=0&query=dallas%20buyers%20club&nocontext=1)) Dallas Buyers Club LLC submitted to the court a number of draft correspondence to be sent to relevant account holders.
+Later in the series of Dallas Buyers Club decisions,[^AUTOREPLACEDDallasBuyersClubviiNetNo42015FCA838httpwwwaustliieduaucgibinsinodispaucasescthFCA2015838htmlstem0synonyms0querydallas20buyers20clubnocontext1AUTOREPLACED]
+
+[^AUTOREPLACEDDallasBuyersClubviiNetNo42015FCA838httpwwwaustliieduaucgibinsinodispaucasescthFCA2015838htmlstem0synonyms0querydallas20buyers20clubnocontext1AUTOREPLACED]: Dallas Buyers Club v iiNet (No 4) [2015] FCA 838 http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FCA/2015/838.html?stem=0&synonyms=0&query=dallas%20buyers%20club&nocontext=1
+
+ Dallas Buyers Club LLC submitted to the court a number of draft correspondence to be sent to relevant account holders.
 
 Justice Perram identified some differences in the legal context of the English and Canadian decisions he had referred to earlier in proceedings. He pointed out that Australian law obliged him to try to accommodate the competing rights of account holders to privacy and the copyright owners right to sue for infringement to the best of his ability, rather than to apply a proportionality approach taken in the overseas jurisdictions. To do this, it was necessary to consider whether the proposed use of the information accords with the purpose of FCR r 7.22. Of particular focus was subrule (1)(a), which is the requirement that the prospective applicant has a right to obtain relief against a prospective respondent. To determine whether this right existed, an inquiry into whether the monetary demands contained in DBC’s proposed correspondence could plausibly be sued for was undertaken by the Court.
 
@@ -313,7 +329,11 @@ On this inducement theory, the court found Grokster to be secondarily liable for
 
 Evidence was that Grokster had intentionally marketed itself to appeal to Napster users once Napster was shut down. It had also distributed information about how to access popular music and had responded to user requests to help find copyrighted materials.
 
-The Grokster court expressly stated that evidence of factors (2) or (3), standing alone, would not be enough to show inducement. However, commentators have queried whether these two factors (i.e. a failure to filter plus a business plan that benefits from but is not entirely dependent on infringement), taken together, would suffice to establish inducement. Professor Jane Ginsburg observed that the district court on remand in Grokster “easily equated defendant Streamcast’s refusal to filter with its economic self-interest, and thus with an intent to induce infringement”. ((Jane C. Ginsburg, ‘Separating the Sony Sheep From the Grokster Goats: Reckoning the Future Business Plans of Copyright-Dependent Technology Entrepreneurs’ (2008) 50 Arizona Law Review 577.))  
+The Grokster court expressly stated that evidence of factors (2) or (3), standing alone, would not be enough to show inducement. However, commentators have queried whether these two factors (i.e. a failure to filter plus a business plan that benefits from but is not entirely dependent on infringement), taken together, would suffice to establish inducement. Professor Jane Ginsburg observed that the district court on remand in Grokster “easily equated defendant Streamcast’s refusal to filter with its economic self-interest, and thus with an intent to induce infringement”. [^AUTOREPLACEDJaneCGinsburgSeparatingtheSonySheepFromtheGroksterGoatsReckoningtheFutureBusinessPlansofCopyrightDependentTechnologyEntrepreneurs200850ArizonaLawReview577AUTOREPLACED]
+
+[^AUTOREPLACEDJaneCGinsburgSeparatingtheSonySheepFromtheGroksterGoatsReckoningtheFutureBusinessPlansofCopyrightDependentTechnologyEntrepreneurs200850ArizonaLawReview577AUTOREPLACED]: Jane C. Ginsburg, ‘Separating the Sony Sheep From the Grokster Goats: Reckoning the Future Business Plans of Copyright-Dependent Technology Entrepreneurs’ (2008) 50 Arizona Law Review 577.
+
+  
 
 The court set aside the summary judgment and remanded the case to trial. Grokster and Sharman settled after the US Supreme Court decision. StreamCast (Morpheus) went to trial and lost on summary judgment. District Court (CD Cal) found that StreamCast overwhelmingly distributed Morpheus with the intent to induce infringement.
 
@@ -335,7 +355,15 @@ In De Garis v Neville Jeffress Pidler Pty Ltd (1990) 18 IPR 292, the respondent,
 
 **Video Overview on NRL v Optus by [Andrew Dawson](https://www.youtube.com/watch?v=p37z_7di9Nc)**
 
-In NRL v Singtel Optus, NRL owned copyright in broadcasts of sporting fixtures displayed by Optus’ “TV Now” subscription service. The TV Now service copied and stored a television broadcast selected by a subscriber, after the subscriber clicked the “record” button on the subscriber’s Optus compatible device, to be played back at other times (“time-shifting” – minimum delay of 2 minutes). NRL alleged copyright infringement as their television broadcast copied included film and sound recording. The issue to be decided was who the maker of the recording was. HELD, Optus’s role in capturing the broadcast and then in embodying its images and sounds in the hard disk is so pervasive that, even though entirely automated, it cannot be disregarded when the “person” who does the act of copying is to be identified. Without the effort of both parties, the recording could not be made and thus both parties are liable. Optus cannot rely on the “private and domestic use” defence of s 111 as “there is nothing in the language, or the provenance, of s 111 to suggest that it was intended to cover commercial copying on behalf of individuals.”See Federal Court summary,((http://www.afr.com/rw/2009-2014/AFR/2012/02/01/Photos/25b9aa84-4c90-11e1-86ca-960b8e9ad70e_optus.pdf)) and appeal.((Full Federal Court judgement, http://www.afr.com/rw/2009-2014/AFR/2012/04/27/Photos/861c3906-9000-11e1-89e3-02af79055de5_NRL%20and%20AFL%20v%20SingTel%20Optus%20FINAL.pdf))
+In NRL v Singtel Optus, NRL owned copyright in broadcasts of sporting fixtures displayed by Optus’ “TV Now” subscription service. The TV Now service copied and stored a television broadcast selected by a subscriber, after the subscriber clicked the “record” button on the subscriber’s Optus compatible device, to be played back at other times (“time-shifting” – minimum delay of 2 minutes). NRL alleged copyright infringement as their television broadcast copied included film and sound recording. The issue to be decided was who the maker of the recording was. HELD, Optus’s role in capturing the broadcast and then in embodying its images and sounds in the hard disk is so pervasive that, even though entirely automated, it cannot be disregarded when the “person” who does the act of copying is to be identified. Without the effort of both parties, the recording could not be made and thus both parties are liable. Optus cannot rely on the “private and domestic use” defence of s 111 as “there is nothing in the language, or the provenance, of s 111 to suggest that it was intended to cover commercial copying on behalf of individuals.”See Federal Court summary,[^AUTOREPLACEDhttpwwwafrcomrw20092014AFR20120201Photos25b9aa844c9011e186ca960b8e9ad70e_optuspdfAUTOREPLACED]
+
+[^AUTOREPLACEDhttpwwwafrcomrw20092014AFR20120201Photos25b9aa844c9011e186ca960b8e9ad70e_optuspdfAUTOREPLACED]: http://www.afr.com/rw/2009-2014/AFR/2012/02/01/Photos/25b9aa84-4c90-11e1-86ca-960b8e9ad70e_optus.pdf
+
+ and appeal.[^AUTOREPLACEDFullFederalCourtjudgementhttpwwwafrcomrw20092014AFR20120427Photos861c3906900011e189e302af79055de5_NRL20and20AFL20v20SingTel20Optus20FINALpdfAUTOREPLACED]
+
+[^AUTOREPLACEDFullFederalCourtjudgementhttpwwwafrcomrw20092014AFR20120427Photos861c3906900011e189e302af79055de5_NRL20and20AFL20v20SingTel20Optus20FINALpdfAUTOREPLACED]: Full Federal Court judgement, http://www.afr.com/rw/2009-2014/AFR/2012/04/27/Photos/861c3906-9000-11e1-89e3-02af79055de5_NRL%20and%20AFL%20v%20SingTel%20Optus%20FINAL.pdf
+
+
 
 ### CCH Canadian Ltd v Law Society of Upper Canada [2004] 1 S.C.R. 339
 
@@ -343,7 +371,11 @@ In NRL v Singtel Optus, NRL owned copyright in broadcasts of sporting fixtures d
 
 In this case, the Supreme Court of Canada had to decide whether the Law Society of Upper Canada, which maintained the Great Library at Osgoode Hall in Toronto, had infringed copyright because it provided a request-based photocopy service for Law Society members, members of the judiciary and other authorised researchers. Under this ‘custom photocopy service’, legal materials were reproduced by library staff and delivered in person, by mail or by facsimile transmission to requesters. Publishers sued the Law Society, alleging copyright infringement.  The Law Society denied liability on the basis that the copies were made for the purpose of research and were therefore covered by the fair dealing defence.
 
-In finding for the Law Society, the Chief Justice McLachlin stated: ((CCH Canadian Ltd v Law Society of Upper Canada [2004] 1 S.C.R. 339 at [48], [51], [64].))
+In finding for the Law Society, the Chief Justice McLachlin stated: [^AUTOREPLACEDCCHCanadianLtdvLawSocietyofUpperCanada20041SCR339at485164AUTOREPLACED]
+
+[^AUTOREPLACEDCCHCanadianLtdvLawSocietyofUpperCanada20041SCR339at485164AUTOREPLACED]: CCH Canadian Ltd v Law Society of Upper Canada [2004] 1 S.C.R. 339 at [48], [51], [64].
+
+
 
 > The fair dealing exception, like other exceptions in the Copyright Act, is a user’s right.  In order to maintain the proper balance between the rights of a copyright owner and users’ interests, it must not be interpreted restrictively… The fair dealing exception under s.29 is open to those who can show that their dealings with a copyrighted work were for the purpose of research or private study.  “Research” must be given a large and liberal interpretation in order to ensure that users’ rights are not unduly constrained.  I agree with the Court of Appeal that research is not limited to non-commercial or private contexts… Although the retrieval and photocopying of legal works are not research in and of themselves, they are necessary conditions of research and thus part of the research process.
 

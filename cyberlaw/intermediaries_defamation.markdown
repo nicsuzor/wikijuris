@@ -30,7 +30,11 @@ Defamatory matter will usually consist of a newspaper article, a letter, a blog 
 
 Imputations may take several forms. They may arise from the natural and ordinary meaning of what is said (e.g. "Susan is a thief"), or they may be implied. Implied imputations are called "innuendo". False innuendo are those imputations that arise from the subtext of what is said. True innuendo arises where there is a secondary meaning to what is said that is apparent when the matter is combined with the recipient's prior knowledge or with other external information.
 
-Once the imputations are identified, it is necessary to decide whether they are defamatory. **The test for defamation is that the imputation is likely to lower the plaintiff’s standing or estimation in the community or lead an ordinary reasonable person to think less of the plaintiff.**((Radio 2UE Sydney v Chesteron [2009] HCA 16))
+Once the imputations are identified, it is necessary to decide whether they are defamatory. **The test for defamation is that the imputation is likely to lower the plaintiff’s standing or estimation in the community or lead an ordinary reasonable person to think less of the plaintiff.**[^AUTOREPLACEDRadio2UESydneyvChesteron2009HCA16AUTOREPLACED]
+
+[^AUTOREPLACEDRadio2UESydneyvChesteron2009HCA16AUTOREPLACED]: Radio 2UE Sydney v Chesteron [2009] HCA 16
+
+
 
 Courts will apply the test with reference to the "hypothetical referee" - an ordinary, reasonable member of the community. The hypothetical referee is someone of reasonable intelligence who will take into account the context of the defamatory statement. Courts will apply the community standards that currently prevail, with the understanding that community standards change over time. Courts will also consider the ordinary attention span of the public in reference to the form in which the defamatory imputations appeared. This means that for content that the public will normally view or hear quickly (such as scanning newspaper headlines), it is more likely that any imputations will be defamatory.
 
@@ -46,7 +50,11 @@ There are limits to who can sue in defamation. Persons can be defamed, but dead 
 
 Defamatory matter must be published. "Published" here means "made public" or communicated to another person. The matter need only be communicated to one other person to be actionable, but the more people the matter is published to the greater likely impact there will be on the plaintiff's reputation.
 
-In defamation law, every republication or repetition is treated as a fresh publication. It may also be a publication to omit to remove or amend defamatory matter that is under the plaintiff's control. ((Byrne v Deane [1937] 1 KB 818.))
+In defamation law, every republication or repetition is treated as a fresh publication. It may also be a publication to omit to remove or amend defamatory matter that is under the plaintiff's control. [^AUTOREPLACEDByrnevDeane19371KB818AUTOREPLACED]
+
+[^AUTOREPLACEDByrnevDeane19371KB818AUTOREPLACED]: Byrne v Deane [1937] 1 KB 818.
+
+
 
 For publication on the internet, uniform defamation legislation now provides that the applicable law is that from the jurisdiction in which the harm occasioned by the publication as a whole has the closest connection. Usually, the jurisdiction with the closest connection to the harm will be that in which the plaintiff lives or runs their business, because that will be the jurisdiction in which their reputation is the strongest and therefore most severely damaged by the defamatory imputations. See further, [cyberlaw:jurisdiction](jurisdiction).
 
@@ -70,7 +78,11 @@ The defence of honest opinion excuses any defamatory statements made that are cl
 
 The defence of innocent dissemination protects subordinate distributors (such as vendors, postal workers, librarians, or live broadcasters who do not have control over the performers making the defamatory statements) who publish defamatory material when they neither knew nor reasonably could have known that the matter was defamatory. This defence protects those actors that are several steps removed from the making of the defamatory statements. Lack of knowledge is the crux of this defence.
 
-Under the defence of innocent dissemination (provided in Qld by s 32 of the //Defamation Act 2005// (Qld)), liability accrues from the point at which the intermediary acquires knowledge of defamatory material.((see David Rolph, ‘Publication, Innocent Dissemination and the Internet after Dow Jones & Co Inc v Gutnick’ (2010) 33 University of New South Wales Law Journal 562, 573–75.))
+Under the defence of innocent dissemination (provided in Qld by s 32 of the //Defamation Act 2005// (Qld)), liability accrues from the point at which the intermediary acquires knowledge of defamatory material.[^AUTOREPLACEDseeDavidRolphPublicationInnocentDisseminationandtheInternetafterDowJonesCoIncvGutnick201033UniversityofNewSouthWalesLawJournal56257375AUTOREPLACED]
+
+[^AUTOREPLACEDseeDavidRolphPublicationInnocentDisseminationandtheInternetafterDowJonesCoIncvGutnick201033UniversityofNewSouthWalesLawJournal56257375AUTOREPLACED]: see David Rolph, ‘Publication, Innocent Dissemination and the Internet after Dow Jones & Co Inc v Gutnick’ (2010) 33 University of New South Wales Law Journal 562, 573–75.
+
+
 
 ## Intermediary Liability for 'Publishing' Defamatory Imputations
 
@@ -78,18 +90,86 @@ Under the defence of innocent dissemination (provided in Qld by s 32 of the //De
 
 The general rule for defamation is that anyone in the chain of publication can be liable and held responsible for defamatory imputations that are published. This is very broad - it means, for example, that the operators of websites and discussion forums are potentially liable when unrelated third-parties post comments that are defamatory. In some circumstances, it may also extend to intermediaries who only have a tangential role in making the content available - including, for example, search engines who make the content discoverable or, through technical processes, reproduce third-party content on their own services in a way that is defamatory.
 
-The main limit to intermediary liability in defamation is the innocent dissemination defence, which applies when an intermediary does not and should not reasonably have known that the material published was defamatory. This means that intermediaries will be liable under Australian law either when they have some role in selecting or editing the content to be published, or where they do not take an active role but are put on notice that content accessible through their systems is likely to be defamatory. In practice, this means that Australian intermediaries have a strong obligation to remove content that is potentially defamatory once they are made aware of it. This is substantially different to the position in other jurisdictions - for example, in the United States, an intermediary is generally not taken to be a publisher of material posted by a third-person.((See Section 230 Communications Decency Act.))
+The main limit to intermediary liability in defamation is the innocent dissemination defence, which applies when an intermediary does not and should not reasonably have known that the material published was defamatory. This means that intermediaries will be liable under Australian law either when they have some role in selecting or editing the content to be published, or where they do not take an active role but are put on notice that content accessible through their systems is likely to be defamatory. In practice, this means that Australian intermediaries have a strong obligation to remove content that is potentially defamatory once they are made aware of it. This is substantially different to the position in other jurisdictions - for example, in the United States, an intermediary is generally not taken to be a publisher of material posted by a third-person.[^AUTOREPLACEDSeeSection230CommunicationsDecencyActAUTOREPLACED]
+
+[^AUTOREPLACEDSeeSection230CommunicationsDecencyActAUTOREPLACED]: See Section 230 Communications Decency Act.
+
+
 
 ### Who is a 'publisher' for the purposes of defamation law?
 
-In defamation, the word 'publish' extends liability to intermediaries who fail to remove defamatory material posted by others when they have some ability to do so.((Byrne v Deane [1937] 1 KB 818.)) Courts have been able to relatively simply draw an analogy between newspaper publishers((see, e.g. Wheeler v Federal Capital Press of Australia Ltd (1984) Aust Torts Reports ¶80-640)) or broadcasters((see, e.g. Thompson v Australian Capital Television Pty Ltd (1996) 186 CLR 574, 589–90, 596.)) who carried content created by others to situations in which the operators of websites and discussion fora provided the facilities for others to post comments.((No Australian courts have specifically considered this point, but see Oriental Press Group Ltd v Fevaworks Solutions Ltd [2013] HKCFA 47.)) While this was an ostensibly technologically neutral shift, the role of publishers in exercising editorial control has changed significantly. The test for liability by omission has evolved so that a secondary actor 'publishes' defamatory material if they have “consented to, or approved of, or adopted, or promoted, or in some way ratified, the continued presence of that statement … in other words … [if there is] an acceptance by the defendant of a responsibility for the continued publication of that statement.”((Urbanchich v Drummoyne Municipal Council [1988] Unreported Judgments NSW, Hunt J 7.))
+In defamation, the word 'publish' extends liability to intermediaries who fail to remove defamatory material posted by others when they have some ability to do so.[^AUTOREPLACEDByrnevDeane19371KB818AUTOREPLACED]
 
-In Trkulja, Google was found liable for defamatory imputations carried as a result of the automated organisation and display of search results.((Trkulja v Google Inc, Google Australia Pty Ltd VSC 533; Trkulja v Yahoo! Inc LLC [2012] VSC 88)) In at least two instances, people have been found liable for publishing links to defamatory content posted by third parties. In one instance, the defamatory imputation was found to have been endorsed by the defendant when it used the words “read more” to imply that the linked content was a true account.((Visscher v Maritime Union of Australia (No 6) NSWSC 350, [30] (Beech-Jones J found that the defendant’s description of the link ‘amounted to, at the very least, an adoption or promotion of the content’ of the linked article.").)) In the other, Yahoo!7 conceded that because at least one person had read an article, hosted on a third party website, by following a link presented through the Yahoo!7 search engine, Yahoo had 'published' that article.((Trkulja v Yahoo! Inc LLC [2012] VSC 88, [6]–[7] (Kaye J).)) These decisions stand out in contrast to emerging authority in the UK((In the UK, Justice Eady of the High Court of England and Wales found that Google was not liable for information contained in search engine results (//Metropolitan Schools Ltd v Designtechnica Corpn// [2011] 1 WLR 1743) or the content of blogs it hosts on Blogger.com (//Tamiz v Google Inc// [2012] EWHC 449).)) and Canada((Crookes v Newton [2011] 3 SCR 269, [42] (A majority of the Canadian Supreme Court found that ‘[m]aking reference to the existence and/or location of content by hyperlink or otherwise, without more, is not publication of that content.’).)), which increasingly suggests that more needs to be done to 'publish' a defamatory imputation. In the spate of recent interlocutory decisions regarding search engines that followed Trkulja, some Australian courts have doubted whether search engines can be liable merely for linking to defamatory material on third party sites, but the law is not yet settled.((Duffy v Google Inc [2011] SADC 178; Rana v Google Australia Pty Ltd [2013] FCA 60; Bleyer v Google Inc LLC (2014) 311 ALR 529.))
+[^AUTOREPLACEDByrnevDeane19371KB818AUTOREPLACED]: Byrne v Deane [1937] 1 KB 818.
+
+ Courts have been able to relatively simply draw an analogy between newspaper publishers[^AUTOREPLACEDseeegWheelervFederalCapitalPressofAustraliaLtd1984AustTortsReports80640AUTOREPLACED]
+
+[^AUTOREPLACEDseeegWheelervFederalCapitalPressofAustraliaLtd1984AustTortsReports80640AUTOREPLACED]: see, e.g. Wheeler v Federal Capital Press of Australia Ltd (1984) Aust Torts Reports ¶80-640
+
+ or broadcasters[^AUTOREPLACEDseeegThompsonvAustralianCapitalTelevisionPtyLtd1996186CLR57458990596AUTOREPLACED]
+
+[^AUTOREPLACEDseeegThompsonvAustralianCapitalTelevisionPtyLtd1996186CLR57458990596AUTOREPLACED]: see, e.g. Thompson v Australian Capital Television Pty Ltd (1996) 186 CLR 574, 589–90, 596.
+
+ who carried content created by others to situations in which the operators of websites and discussion fora provided the facilities for others to post comments.[^AUTOREPLACEDNoAustraliancourtshavespecificallyconsideredthispointbutseeOrientalPressGroupLtdvFevaworksSolutionsLtd2013HKCFA47AUTOREPLACED]
+
+[^AUTOREPLACEDNoAustraliancourtshavespecificallyconsideredthispointbutseeOrientalPressGroupLtdvFevaworksSolutionsLtd2013HKCFA47AUTOREPLACED]: No Australian courts have specifically considered this point, but see Oriental Press Group Ltd v Fevaworks Solutions Ltd [2013] HKCFA 47.
+
+ While this was an ostensibly technologically neutral shift, the role of publishers in exercising editorial control has changed significantly. The test for liability by omission has evolved so that a secondary actor 'publishes' defamatory material if they have “consented to, or approved of, or adopted, or promoted, or in some way ratified, the continued presence of that statement … in other words … [if there is] an acceptance by the defendant of a responsibility for the continued publication of that statement.”[^AUTOREPLACEDUrbanchichvDrummoyneMunicipalCouncil1988UnreportedJudgmentsNSWHuntJ7AUTOREPLACED]
+
+[^AUTOREPLACEDUrbanchichvDrummoyneMunicipalCouncil1988UnreportedJudgmentsNSWHuntJ7AUTOREPLACED]: Urbanchich v Drummoyne Municipal Council [1988] Unreported Judgments NSW, Hunt J 7.
+
+
+
+In Trkulja, Google was found liable for defamatory imputations carried as a result of the automated organisation and display of search results.[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdVSC533TrkuljavYahooIncLLC2012VSC88AUTOREPLACED]
+
+[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdVSC533TrkuljavYahooIncLLC2012VSC88AUTOREPLACED]: Trkulja v Google Inc, Google Australia Pty Ltd VSC 533; Trkulja v Yahoo! Inc LLC [2012] VSC 88
+
+ In at least two instances, people have been found liable for publishing links to defamatory content posted by third parties. In one instance, the defamatory imputation was found to have been endorsed by the defendant when it used the words “read more” to imply that the linked content was a true account.[^AUTOREPLACEDVisschervMaritimeUnionofAustraliaNo6NSWSC35030BeechJonesJfoundthatthedefendantsdescriptionofthelinkamountedtoattheveryleastanadoptionorpromotionofthecontentofthelinkedarticleAUTOREPLACED]
+
+[^AUTOREPLACEDVisschervMaritimeUnionofAustraliaNo6NSWSC35030BeechJonesJfoundthatthedefendantsdescriptionofthelinkamountedtoattheveryleastanadoptionorpromotionofthecontentofthelinkedarticleAUTOREPLACED]: Visscher v Maritime Union of Australia (No 6) NSWSC 350, [30] (Beech-Jones J found that the defendant’s description of the link ‘amounted to, at the very least, an adoption or promotion of the content’ of the linked article.").
+
+ In the other, Yahoo!7 conceded that because at least one person had read an article, hosted on a third party website, by following a link presented through the Yahoo!7 search engine, Yahoo had 'published' that article.[^AUTOREPLACEDTrkuljavYahooIncLLC2012VSC8867KayeJAUTOREPLACED]
+
+[^AUTOREPLACEDTrkuljavYahooIncLLC2012VSC8867KayeJAUTOREPLACED]: Trkulja v Yahoo! Inc LLC [2012] VSC 88, [6]–[7] (Kaye J).
+
+ These decisions stand out in contrast to emerging authority in the UK[^AUTOREPLACEDIntheUKJusticeEadyoftheHighCourtofEnglandandWalesfoundthatGooglewasnotliableforinformationcontainedinsearchengineresultsMetropolitanSchoolsLtdvDesigntechnicaCorpn20111WLR1743orthecontentofblogsithostsonBloggercomTamizvGoogleInc2012EWHC449AUTOREPLACED]
+
+[^AUTOREPLACEDIntheUKJusticeEadyoftheHighCourtofEnglandandWalesfoundthatGooglewasnotliableforinformationcontainedinsearchengineresultsMetropolitanSchoolsLtdvDesigntechnicaCorpn20111WLR1743orthecontentofblogsithostsonBloggercomTamizvGoogleInc2012EWHC449AUTOREPLACED]: In the UK, Justice Eady of the High Court of England and Wales found that Google was not liable for information contained in search engine results (//Metropolitan Schools Ltd v Designtechnica Corpn// [2011] 1 WLR 1743) or the content of blogs it hosts on Blogger.com (//Tamiz v Google Inc// [2012] EWHC 449).
+
+ and Canada[^AUTOREPLACEDCrookesvNewton20113SCR26942AmajorityoftheCanadianSupremeCourtfoundthatmakingreferencetotheexistenceandorlocationofcontentbyhyperlinkorotherwisewithoutmoreisnotpublicationofthatcontentAUTOREPLACED]
+
+[^AUTOREPLACEDCrookesvNewton20113SCR26942AmajorityoftheCanadianSupremeCourtfoundthatmakingreferencetotheexistenceandorlocationofcontentbyhyperlinkorotherwisewithoutmoreisnotpublicationofthatcontentAUTOREPLACED]: Crookes v Newton [2011] 3 SCR 269, [42] (A majority of the Canadian Supreme Court found that ‘[m]aking reference to the existence and/or location of content by hyperlink or otherwise, without more, is not publication of that content.’).
+
+, which increasingly suggests that more needs to be done to 'publish' a defamatory imputation. In the spate of recent interlocutory decisions regarding search engines that followed Trkulja, some Australian courts have doubted whether search engines can be liable merely for linking to defamatory material on third party sites, but the law is not yet settled.[^AUTOREPLACEDDuffyvGoogleInc2011SADC178RanavGoogleAustraliaPtyLtd2013FCA60BleyervGoogleIncLLC2014311ALR529AUTOREPLACED]
+
+[^AUTOREPLACEDDuffyvGoogleInc2011SADC178RanavGoogleAustraliaPtyLtd2013FCA60BleyervGoogleIncLLC2014311ALR529AUTOREPLACED]: Duffy v Google Inc [2011] SADC 178; Rana v Google Australia Pty Ltd [2013] FCA 60; Bleyer v Google Inc LLC (2014) 311 ALR 529.
+
+
 
 ## Vilification
 
-Like defamation, intermediaries who provides a forum for third-party content can be liable under the *Racial Discrimination Act 1975* (Cth) ('RDA') when those comments amount to vilification. Section 18C makes it unlawful to “do an act”((The reference to “an act”, in this case, specifically includes an omission: see RDA s 3(3): “refusing or failing to do an act shall be deemed to be the doing of an act and a reference to an act includes a reference to such a refusal or failure.”)) that is reasonably likely to “offend, insult, humiliate or intimidate” a person or group where that act is done motivated by “race, colour or national or ethnic origin”. In the two decisions that have considered the provision in the context of an online forum, courts have come to somewhat conflicting conclusions as to when a secondary actor will be liable for providing the facilities for another to make vilifying comments. The uncertainty lies primarily in the intentional element of the provision. As in defamation, courts agree that providing the facilities to enable others to post comments and failing to remove them is sufficient to constitute an “act” of publication of the substance of those comments, at least once the operator has knowledge of the comments.((*Silberberg v Builders Collective of Australia Inc* 164 FCR 475, 485; *Clarke v Nationwide News Pty Ltd* (2012) 289 ALR 345, 367, \[110\].)) The conflict is whether failure to remove comments is done “because of the race, colour or national or ethnic origin” of the person or group. In *Silberberg*, Gyles J found that there was insufficient evidence to draw that conclusion; the respondent's failure to remove the offensive comments was “just as easily explained by inattention or lack of diligence.”((Silberberg v Builders Collective of Australia Inc* 164 FCR 475, 486.)) In *Clarke v Nationwide News*, by
-contrast, Barker J held that where the respondent “actively solicits and moderates contributions from readers”, the “offence will be given as much by the respondent in publishing the offensive comment as by the original author in writing it.”((Clarke v Nationwide News Pty Ltd* (2012) 289 ALR 345, 367, \[110\].)) The Court was able to infer that one of the reasons for publishing comments that were objectively offensive because of race was also because of race.((Ibid 377, \[199\] (‘The act of publishing a comment which is objectively offensive because of race in such circumstances will give offence because of race as much as hte public circulation of such a comment by the original author might have done.’).)) Apart from emphasis placed on the act of moderation in *Clarke*, there is no easy way to reconcile these two authorities.
+Like defamation, intermediaries who provides a forum for third-party content can be liable under the *Racial Discrimination Act 1975* (Cth) ('RDA') when those comments amount to vilification. Section 18C makes it unlawful to “do an act”[^AUTOREPLACEDThereferencetoanactinthiscasespecificallyincludesanomissionseeRDAs33refusingorfailingtodoanactshallbedeemedtobethedoingofanactandareferencetoanactincludesareferencetosucharefusalorfailureAUTOREPLACED]
+
+[^AUTOREPLACEDThereferencetoanactinthiscasespecificallyincludesanomissionseeRDAs33refusingorfailingtodoanactshallbedeemedtobethedoingofanactandareferencetoanactincludesareferencetosucharefusalorfailureAUTOREPLACED]: The reference to “an act”, in this case, specifically includes an omission: see RDA s 3(3): “refusing or failing to do an act shall be deemed to be the doing of an act and a reference to an act includes a reference to such a refusal or failure.”
+
+ that is reasonably likely to “offend, insult, humiliate or intimidate” a person or group where that act is done motivated by “race, colour or national or ethnic origin”. In the two decisions that have considered the provision in the context of an online forum, courts have come to somewhat conflicting conclusions as to when a secondary actor will be liable for providing the facilities for another to make vilifying comments. The uncertainty lies primarily in the intentional element of the provision. As in defamation, courts agree that providing the facilities to enable others to post comments and failing to remove them is sufficient to constitute an “act” of publication of the substance of those comments, at least once the operator has knowledge of the comments.[^AUTOREPLACEDSilberbergvBuildersCollectiveofAustraliaInc164FCR475485ClarkevNationwideNewsPtyLtd2012289ALR345367110AUTOREPLACED]
+
+[^AUTOREPLACEDSilberbergvBuildersCollectiveofAustraliaInc164FCR475485ClarkevNationwideNewsPtyLtd2012289ALR345367110AUTOREPLACED]: *Silberberg v Builders Collective of Australia Inc* 164 FCR 475, 485; *Clarke v Nationwide News Pty Ltd* (2012) 289 ALR 345, 367, \[110\].
+
+ The conflict is whether failure to remove comments is done “because of the race, colour or national or ethnic origin” of the person or group. In *Silberberg*, Gyles J found that there was insufficient evidence to draw that conclusion; the respondent's failure to remove the offensive comments was “just as easily explained by inattention or lack of diligence.”[^AUTOREPLACEDSilberbergvBuildersCollectiveofAustraliaInc164FCR475486AUTOREPLACED]
+
+[^AUTOREPLACEDSilberbergvBuildersCollectiveofAustraliaInc164FCR475486AUTOREPLACED]: Silberberg v Builders Collective of Australia Inc* 164 FCR 475, 486.
+
+ In *Clarke v Nationwide News*, by
+contrast, Barker J held that where the respondent “actively solicits and moderates contributions from readers”, the “offence will be given as much by the respondent in publishing the offensive comment as by the original author in writing it.”[^AUTOREPLACEDClarkevNationwideNewsPtyLtd2012289ALR345367110AUTOREPLACED]
+
+[^AUTOREPLACEDClarkevNationwideNewsPtyLtd2012289ALR345367110AUTOREPLACED]: Clarke v Nationwide News Pty Ltd* (2012) 289 ALR 345, 367, \[110\].
+
+ The Court was able to infer that one of the reasons for publishing comments that were objectively offensive because of race was also because of race.[^AUTOREPLACEDIbid377199TheactofpublishingacommentwhichisobjectivelyoffensivebecauseofraceinsuchcircumstanceswillgiveoffencebecauseofraceasmuchashtepubliccirculationofsuchacommentbytheoriginalauthormighthavedoneAUTOREPLACED]
+
+[^AUTOREPLACEDIbid377199TheactofpublishingacommentwhichisobjectivelyoffensivebecauseofraceinsuchcircumstanceswillgiveoffencebecauseofraceasmuchashtepubliccirculationofsuchacommentbytheoriginalauthormighthavedoneAUTOREPLACED]: Ibid 377, \[199\] (‘The act of publishing a comment which is objectively offensive because of race in such circumstances will give offence because of race as much as hte public circulation of such a comment by the original author might have done.’).
+
+ Apart from emphasis placed on the act of moderation in *Clarke*, there is no easy way to reconcile these two authorities.
 
 ## Case Notes
 
@@ -140,7 +220,11 @@ Google Inc. then applied to have the verdict set aside on the basis that there w
 
 The plaintiff argued that Google Inc. was a “publisher” of the images, on two bases: first, Google's automated systems were programmed by humans to do exactly as intended and publish the material; and second, Google's failure to take steps to remove the relevant URL for the page on which the defamatory material appeared after the plaintiff's several requests it do so.
 
-The court declined to overturn the jury's verdict, accepting the arguments put forth by Trkulja.((//Trkulja v Google Inc. & Google Australia Pty Ltd// (No 5) [http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/vic/VSC/2012/533.html?stem=0&synonyms=0&query=title(Trkulja%20and%20Google%20Inc.%20)&nocontext=1]([2012] VSC 533)))
+The court declined to overturn the jury's verdict, accepting the arguments put forth by Trkulja.[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdNo5httpwwwaustliieduaucgibinsinodispaucasesvicVSC2012533htmlstem0synonyms0querytitleTrkulja20and20Google20Inc20nocontext12012VSC533AUTOREPLACED]
+
+[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdNo5httpwwwaustliieduaucgibinsinodispaucasesvicVSC2012533htmlstem0synonyms0querytitleTrkulja20and20Google20Inc20nocontext12012VSC533AUTOREPLACED]: //Trkulja v Google Inc. & Google Australia Pty Ltd// (No 5) [http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/vic/VSC/2012/533.html?stem=0&synonyms=0&query=title(Trkulja%20and%20Google%20Inc.%20)&nocontext=1]([2012] VSC 533
+
+)
 
 In respect of Trkulja's first argument, the Court focused its reasoning heavily on Google's intention as manifested in the operation of its automated system, comparing Google to a newsagent selling a newspaper containing a defamatory article. While not specifically intending to publish defamatory material, it intended, the Court held, to publish the material it produced (see [18]). Google Inc. could not here say that its conduct was merely passive. Beach J distinguished Tamiz v Google Inc [2012] EWHC 449 and even doubted whether Google could be described as an “internet intermediary” in this context since the material was produced as a result of the operation of its search engine (see [29]). Interestingly, Tamiz was the case which was held to be persuasive by the court in Duffy, so there is an inconsistency of judicial opinions here.
 

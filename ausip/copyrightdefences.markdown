@@ -110,8 +110,8 @@ The difference is this: in the US, the courts only need to consider whether the 
 
 The leading case of //De Garis v Neville Jeffress Pidler Pty Ltd// considered the meaning of the terms "research or study".
 <WRAP case>
-__//De Garis v Neville Jeffress Pidler Pty Ltd//__[^REPLACEME18IPR292ENDREPLACE]
-[^REPLACEME18IPR292ENDREPLACE]: 18 IPR 292
+__//De Garis v Neville Jeffress Pidler Pty Ltd//__[^AUTOREPLACED18IPR292ENDREPLACE]
+[^AUTOREPLACED18IPR292ENDREPLACE]: 18 IPR 292
 
 
 In the case of [De Garis v Neville Jeffress Pidler Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1990/218.html) the court found that the respondent, a press clipping and media research bureau, who supplied photocopies of published material in return for a fee was not "research" or “study” in the terms of s 40.
@@ -125,8 +125,8 @@ Several non-exclusive factors may be taken into account in determining whether a
 
 In the case of Part III works and adaptations, these factors apply only where the dealing is a reproduction of the whole or part of the work or adaptation, whereas for Part IV audio-visual items, the factors are relevant to the exercise of any of the exclusive rights.
 
-The factors are: [^REPLACEMECAss402and103C2ENDREPLACE]
-[^REPLACEMECAss402and103C2ENDREPLACE]: //CA// ss 40(2) and 103C(2) 
+The factors are: [^AUTOREPLACEDCAss402and103C2ENDREPLACE]
+[^AUTOREPLACEDCAss402and103C2ENDREPLACE]: //CA// ss 40(2) and 103C(2) 
 
 
 * the purpose and character of the dealing;
@@ -141,38 +141,38 @@ The factors are: [^REPLACEMECAss402and103C2ENDREPLACE]
 
 The //Act// provides more specific guidelines on the reproduction of literary, dramatic and musical works and adaptations (but these do not apply to audio-visual items):
 
-* If the work or adaptation is an article in a periodical, it is a fair dealing for research or study to copy the whole of the article. [^REPLACEMECAs403ENDREPLACE]
-[^REPLACEMECAs403ENDREPLACE]: //CA// s 40(3) 
+* If the work or adaptation is an article in a periodical, it is a fair dealing for research or study to copy the whole of the article. [^AUTOREPLACEDCAs403ENDREPLACE]
+[^AUTOREPLACEDCAs403ENDREPLACE]: //CA// s 40(3) 
 
 
-* It is not a fair dealing to reproduce the whole or part of an article in a periodical if another article in the publication, dealing with a different subject matter is also reproduced. [^REPLACEMECAs404ENDREPLACE]
-[^REPLACEMECAs404ENDREPLACE]: //CA// s 40(4) 
+* It is not a fair dealing to reproduce the whole or part of an article in a periodical if another article in the publication, dealing with a different subject matter is also reproduced. [^AUTOREPLACEDCAs404ENDREPLACE]
+[^AUTOREPLACEDCAs404ENDREPLACE]: //CA// s 40(4) 
 
 
-In other cases, it is deemed to be a fair dealing to reproduce only a "reasonable portion" of the work. [^REPLACEMECAs405ENDREPLACE]
-[^REPLACEMECAs405ENDREPLACE]: //CA// s 40(5) 
- Where a literary, dramatic or musical work (other than a computer program) is contained in a published edition of 10 pages or more, a reasonable portion is up to 10% in the aggregate of the number of pages in the edition. [^REPLACEMECAs102ENDREPLACE]
-[^REPLACEMECAs102ENDREPLACE]: //CA// s 10(2) 
- In instances where the work is divided into chapters, a reasonable portion is the whole or part of a single chapter even though it may exceed 10% of the number of pages in the edition. [^REPLACEMECAs102ENDREPLACE]
-[^REPLACEMECAs102ENDREPLACE]: //CA// s 10(2) 
+In other cases, it is deemed to be a fair dealing to reproduce only a "reasonable portion" of the work. [^AUTOREPLACEDCAs405ENDREPLACE]
+[^AUTOREPLACEDCAs405ENDREPLACE]: //CA// s 40(5) 
+ Where a literary, dramatic or musical work (other than a computer program) is contained in a published edition of 10 pages or more, a reasonable portion is up to 10% in the aggregate of the number of pages in the edition. [^AUTOREPLACEDCAs102ENDREPLACE]
+[^AUTOREPLACEDCAs102ENDREPLACE]: //CA// s 10(2) 
+ In instances where the work is divided into chapters, a reasonable portion is the whole or part of a single chapter even though it may exceed 10% of the number of pages in the edition. [^AUTOREPLACEDCAs102ENDREPLACE]
+[^AUTOREPLACEDCAs102ENDREPLACE]: //CA// s 10(2) 
 
 
-Where the reproduction is of part of a published literary work (other than a computer program or an electronic compilation such as a database) or a published dramatic work in electronic form, the reproduction contains a reasonable portion of the work if the number of words copied does not exceed, in total, 10% of the number of words in the work or, if the work is divided into chapters, the reproduction contains only the whole or part of a single chapter of the work, even though the number of words copied exceeds, in total, 10% of the number of words in the work [^REPLACEMECAs102AENDREPLACE]
-[^REPLACEMECAs102AENDREPLACE]: //CA// s 10(2A) 
+Where the reproduction is of part of a published literary work (other than a computer program or an electronic compilation such as a database) or a published dramatic work in electronic form, the reproduction contains a reasonable portion of the work if the number of words copied does not exceed, in total, 10% of the number of words in the work or, if the work is divided into chapters, the reproduction contains only the whole or part of a single chapter of the work, even though the number of words copied exceeds, in total, 10% of the number of words in the work [^AUTOREPLACEDCAs102AENDREPLACE]
+[^AUTOREPLACEDCAs102AENDREPLACE]: //CA// s 10(2A) 
 
 
 **Note**: These are deemed to be fair dealings, but are not exhaustive. It might be fair to reproduce quantitatively more in all the circumstances.
 
 ### Criticism or Review
 
-The fair dealing provision for criticism or review applies only if sufficient acknowledgment is made. [^REPLACEMECAss41and103AENDREPLACE]
-[^REPLACEMECAss41and103AENDREPLACE]: //CA// ss 41 and 103A
- For an acknowledgment to be sufficient, it must identify the work or audio-visual item by its title or other description, as well as the author. [^REPLACEMECAs101ENDREPLACE]
-[^REPLACEMECAs101ENDREPLACE]: //CA// s 10(1) 
+The fair dealing provision for criticism or review applies only if sufficient acknowledgment is made. [^AUTOREPLACEDCAss41and103AENDREPLACE]
+[^AUTOREPLACEDCAss41and103AENDREPLACE]: //CA// ss 41 and 103A
+ For an acknowledgment to be sufficient, it must identify the work or audio-visual item by its title or other description, as well as the author. [^AUTOREPLACEDCAs101ENDREPLACE]
+[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1) 
 
 
-The term "sufficient acknowledgement" is defined as: [^REPLACEMECAs10ENDREPLACE]
-[^REPLACEMECAs10ENDREPLACE]: //CA// s 10
+The term "sufficient acknowledgement" is defined as: [^AUTOREPLACEDCAs10ENDREPLACE]
+[^AUTOREPLACEDCAs10ENDREPLACE]: //CA// s 10
 
 
 >" an acknowledgement identifying the work by its title or other description and, unless the work is anonymous or pseudonymous or the author has previously agreed or directed that an acknowledgement of his her her name is not to be made, also identifying the authors".  
@@ -189,8 +189,8 @@ In the case of //De Garis v Neville Jeffress Pidler Pty Ltd// at 299-300, Beaumo
 * "criticism" includes all kinds of criticism – it is not restricted to literary criticism - “review” is cognate with the word “criticism”; one is the process, the other is the result of the critical application of the mental faculties.
 
 <WRAP case>
-__//TCN Channel Nine Pty Ltd v Network Ten Ltd// [^REPLACEME2001FCA108ENDREPLACE]
-[^REPLACEME2001FCA108ENDREPLACE]: [2001] FCA 108
+__//TCN Channel Nine Pty Ltd v Network Ten Ltd// [^AUTOREPLACED2001FCA108ENDREPLACE]
+[^AUTOREPLACED2001FCA108ENDREPLACE]: [2001] FCA 108
 __
 
 In the case of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/2001/108.html) Justice Conti noted that:
@@ -199,8 +199,8 @@ In the case of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http://classic.austl
 They involve the passing of judgment and may be strongly expressed but, provided they are genuine and not a pretence for some other purpose, need not be balanced. [66]
 </WRAP>
 <WRAP case>
-__//TCN Channel Nine Pty Ltd v Network Ten Ltd// [^REPLACEME200255IPR112ENDREPLACE]
-[^REPLACEME200255IPR112ENDREPLACE]:  (2002) 55 IPR 112
+__//TCN Channel Nine Pty Ltd v Network Ten Ltd// [^AUTOREPLACED200255IPR112ENDREPLACE]
+[^AUTOREPLACED200255IPR112ENDREPLACE]:  (2002) 55 IPR 112
 __
 
 In the Full Court's decision of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2002/146.html) Justice Hely (Sundberg and Finkelstein JJ agreeing) at [115] said the test is:
@@ -210,8 +210,8 @@ In the Full Court's decision of [TCN Channel Nine Pty Ltd v Network Ten Ltd](htt
 
 ### Reporting of the News
 
-Copyright in a Pt III work or adaptation or a Pt IV audio-visual item is not infringed if it is dealt with for the purpose of, or associated with, the reporting of news in the following:[^REPLACEMECAss42and103BENDREPLACE]
-[^REPLACEMECAss42and103BENDREPLACE]: //CA// ss 42 and 103B
+Copyright in a Pt III work or adaptation or a Pt IV audio-visual item is not infringed if it is dealt with for the purpose of, or associated with, the reporting of news in the following:[^AUTOREPLACEDCAss42and103BENDREPLACE]
+[^AUTOREPLACEDCAss42and103BENDREPLACE]: //CA// ss 42 and 103B
 
 
 * in a newspaper, magazine or periodical, provided sufficient  acknowledgement is made of the work or audio-visual item;
@@ -220,22 +220,22 @@ Copyright in a Pt III work or adaptation or a Pt IV audio-visual item is not inf
 
 * in a cinematograph film.
 
-This section pertains to music incidentally recorded in the course of reporting news by means of broadcast or film, but does not extend to music added to the soundtrack which does not form part of the news being reported [^REPLACEMECAs422ENDREPLACE]
-[^REPLACEMECAs422ENDREPLACE]: //CA// s 42(2) 
+This section pertains to music incidentally recorded in the course of reporting news by means of broadcast or film, but does not extend to music added to the soundtrack which does not form part of the news being reported [^AUTOREPLACEDCAs422ENDREPLACE]
+[^AUTOREPLACEDCAs422ENDREPLACE]: //CA// s 42(2) 
 
 
 The fact that news coverage is interesting or may even be entertaining does not negate the fact that it is news, even though it may sometimes be difficult to draw a distinction between news and entertainment.
 
-News reported with humour may still fall within the ambit of the fair dealing provisions. [^REPLACEMETCNChannelNinePtyLtdvNetworkTenLtd200255IPR112at66perContiJandat98perHelyJENDREPLACE]
-[^REPLACEMETCNChannelNinePtyLtdvNetworkTenLtd200255IPR112at66perContiJandat98perHelyJENDREPLACE]: //TCN Channel Nine Pty Ltd v Network Ten Ltd// (2002) 55 IPR 112 at [66] per Conti J and at [98] per Hely J
+News reported with humour may still fall within the ambit of the fair dealing provisions. [^AUTOREPLACEDTCNChannelNinePtyLtdvNetworkTenLtd200255IPR112at66perContiJandat98perHelyJENDREPLACE]
+[^AUTOREPLACEDTCNChannelNinePtyLtdvNetworkTenLtd200255IPR112at66perContiJandat98perHelyJENDREPLACE]: //TCN Channel Nine Pty Ltd v Network Ten Ltd// (2002) 55 IPR 112 at [66] per Conti J and at [98] per Hely J
 
 
 ### Disability Access
 
 In December 2017 Australia's copyright laws were amended to reflect our international obligations under the [Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled](https://www.wipo.int/publications/en/details.jsp?id=382&plang=EN).
 
-The new disability access provisions ensure more equitable access to copyright material. The new provisions consist of two free exceptions: fair dealing for access by persons with a disability, and use of copyright material by organisations assisting persons with a disability. [^REPLACEMECAss113Eand113FENDREPLACE]
-[^REPLACEMECAss113Eand113FENDREPLACE]: //CA// ss 113E and 113F
+The new disability access provisions ensure more equitable access to copyright material. The new provisions consist of two free exceptions: fair dealing for access by persons with a disability, and use of copyright material by organisations assisting persons with a disability. [^AUTOREPLACEDCAss113Eand113FENDREPLACE]
+[^AUTOREPLACEDCAss113Eand113FENDREPLACE]: //CA// ss 113E and 113F
 
 
 For more information on the changes to Australia's Disability Access see[QUT's Copyright Guide](https://www.library.qut.edu.au/copyrightguide/documents/2017Amendments_Disability_provisions_20171206.pdf).
@@ -244,70 +244,70 @@ For more information on the changes to Australia's Disability Access see[QUT's C
 
 ### Professional Legal Advice
 
-The //Act// provides that it is not an infringement to make a fair dealing with a Part III work for the purposes of giving of professional advice by a legal practitioner, a registered patent attorney or a registered trade mark attorney. [^REPLACEMECAs432ENDREPLACE]
-[^REPLACEMECAs432ENDREPLACE]: //CA// s 43(2) 
+The //Act// provides that it is not an infringement to make a fair dealing with a Part III work for the purposes of giving of professional advice by a legal practitioner, a registered patent attorney or a registered trade mark attorney. [^AUTOREPLACEDCAs432ENDREPLACE]
+[^AUTOREPLACEDCAs432ENDREPLACE]: //CA// s 43(2) 
 
 
 There is no fair dealing counterpart in relation to the use of audio-visual items for these purposes.
 
 ### Judicial Proceedings
 
-The //Act// provides that any act done in relation to a literary, dramatic, musical or artistic work for the purpose of a judicial proceeding or the report of a judicial proceeding is exempted from copyright infringement. [^REPLACEMECAs431ENDREPLACE]
-[^REPLACEMECAs431ENDREPLACE]: //CA// s 43(1) 
- A general exception from infringement of copyright in sound recordings, films, broadcasts and published editions applies for acts done in the course of judicial proceedings or the reporting of such proceedings [^REPLACEMECAs104aENDREPLACE]
-[^REPLACEMECAs104aENDREPLACE]: //CA// s 104(a) 
- or in the course of obtaining professional advice from a lawyer, patent attorney or trade marks attorney. [^REPLACEMECAs104bandcENDREPLACE]
-[^REPLACEMECAs104bandcENDREPLACE]: //CA// s 104(b) and (c) 
+The //Act// provides that any act done in relation to a literary, dramatic, musical or artistic work for the purpose of a judicial proceeding or the report of a judicial proceeding is exempted from copyright infringement. [^AUTOREPLACEDCAs431ENDREPLACE]
+[^AUTOREPLACEDCAs431ENDREPLACE]: //CA// s 43(1) 
+ A general exception from infringement of copyright in sound recordings, films, broadcasts and published editions applies for acts done in the course of judicial proceedings or the reporting of such proceedings [^AUTOREPLACEDCAs104aENDREPLACE]
+[^AUTOREPLACEDCAs104aENDREPLACE]: //CA// s 104(a) 
+ or in the course of obtaining professional advice from a lawyer, patent attorney or trade marks attorney. [^AUTOREPLACEDCAs104bandcENDREPLACE]
+[^AUTOREPLACEDCAs104bandcENDREPLACE]: //CA// s 104(b) and (c) 
 
 
 ### Parody or Satire
 
-The provisions of the //Act// apply where a person or organisation can demonstrate that their use of copyright material (both works and audio-visual subject matter) is a fair dealing for parody or satire. [^REPLACEMECAss41Aand103AAENDREPLACE]
-[^REPLACEMECAss41Aand103AAENDREPLACE]: //CA// ss 41A and 103AA
+The provisions of the //Act// apply where a person or organisation can demonstrate that their use of copyright material (both works and audio-visual subject matter) is a fair dealing for parody or satire. [^AUTOREPLACEDCAss41Aand103AAENDREPLACE]
+[^AUTOREPLACEDCAss41Aand103AAENDREPLACE]: //CA// ss 41A and 103AA
  The //Act// does not include a definition of ‘parody’ or ‘satire’ or require sufficient acknowledgment of the work to be made.
 
 Defences relating to parody can be found in other jurisdictions, including the US and member countries of the European Union. The defence for satire may be unprecedented.
 
-The case of //TCN Channel Nine Pty Ltd v Network Ten Ltd// (//Panel case//)[^REPLACEMETCNChannelNinePtyLtdvNetworkTenLtd2001FCA108NetworkTenPtyLtdvTCNChannelNinePtyLtd2004218CLR273ENDREPLACE]
-[^REPLACEMETCNChannelNinePtyLtdvNetworkTenLtd2001FCA108NetworkTenPtyLtdvTCNChannelNinePtyLtd2004218CLR273ENDREPLACE]: TCN Channel Nine Pty Ltd v Network Ten Ltd [2001] FCA 108; Network Ten Pty Ltd v TCN Channel Nine Pty Ltd (2004) 218 CLR 273
+The case of //TCN Channel Nine Pty Ltd v Network Ten Ltd// (//Panel case//)[^AUTOREPLACEDTCNChannelNinePtyLtdvNetworkTenLtd2001FCA108NetworkTenPtyLtdvTCNChannelNinePtyLtd2004218CLR273ENDREPLACE]
+[^AUTOREPLACEDTCNChannelNinePtyLtdvNetworkTenLtd2001FCA108NetworkTenPtyLtdvTCNChannelNinePtyLtd2004218CLR273ENDREPLACE]: TCN Channel Nine Pty Ltd v Network Ten Ltd [2001] FCA 108; Network Ten Pty Ltd v TCN Channel Nine Pty Ltd (2004) 218 CLR 273
  involved parody and satire, however, the case was finalised before defence was introduced in Australian law. Whether this defence would have made a different is a point of debate.
 
 Historically parody and satire has been accommodated within copyright law to some degree by:
 
-"substantial part": *Joy Music v Sunday Pictorial Newspapers*; [^REPLACEME19601AllER703ENDREPLACE]
-[^REPLACEME19601AllER703ENDREPLACE]: [1960] 1 All ER 703
- *AGL Sydney v Shortland County Council*; [^REPLACEME198917IPR99ENDREPLACE]
-[^REPLACEME198917IPR99ENDREPLACE]:  (1989) 17 IPR 99
- *TCN Channel Nine Pty Ltd v Network Ten*. [^REPLACEME2001108FCR235ENDREPLACE]
-[^REPLACEME2001108FCR235ENDREPLACE]:  (2001) 108 FCR 235
+"substantial part": *Joy Music v Sunday Pictorial Newspapers*; [^AUTOREPLACED19601AllER703ENDREPLACE]
+[^AUTOREPLACED19601AllER703ENDREPLACE]: [1960] 1 All ER 703
+ *AGL Sydney v Shortland County Council*; [^AUTOREPLACED198917IPR99ENDREPLACE]
+[^AUTOREPLACED198917IPR99ENDREPLACE]:  (1989) 17 IPR 99
+ *TCN Channel Nine Pty Ltd v Network Ten*. [^AUTOREPLACED2001108FCR235ENDREPLACE]
+[^AUTOREPLACED2001108FCR235ENDREPLACE]:  (2001) 108 FCR 235
 
 
   * fair dealing for the purposes of criticism or review:
 
-        * *TCN Channel Nine Pty Ltd v Network Ten Ltd* [^REPLACEME2001108FCR235at66perContiJENDREPLACE]
-[^REPLACEME2001108FCR235at66perContiJENDREPLACE]:  (2001) 108 FCR 235 at [66] per Conti J
+        * *TCN Channel Nine Pty Ltd v Network Ten Ltd* [^AUTOREPLACED2001108FCR235at66perContiJENDREPLACE]
+[^AUTOREPLACED2001108FCR235at66perContiJENDREPLACE]:  (2001) 108 FCR 235 at [66] per Conti J
 
 
-        * *TCN Channel Nine Pty Ltd v Network Ten Ltd* [^REPLACEME2002118FCR417HelyJSundbergandFinkelsteinJJagreeingat115ENDREPLACE]
-[^REPLACEME2002118FCR417HelyJSundbergandFinkelsteinJJagreeingat115ENDREPLACE]:  (2002) 118 FCR 417 Hely J (Sundberg and Finkelstein JJ agreeing) at [115] 
+        * *TCN Channel Nine Pty Ltd v Network Ten Ltd* [^AUTOREPLACED2002118FCR417HelyJSundbergandFinkelsteinJJagreeingat115ENDREPLACE]
+[^AUTOREPLACED2002118FCR417HelyJSundbergandFinkelsteinJJagreeingat115ENDREPLACE]:  (2002) 118 FCR 417 Hely J (Sundberg and Finkelstein JJ agreeing) at [115] 
 
 
   * fair dealing for the purposes of reporting the news:
 
-        * *Beloff v Pressdram* [^REPLACEME19731AllER241ENDREPLACE]
-[^REPLACEME19731AllER241ENDREPLACE]: [1973] 1 All ER 241
+        * *Beloff v Pressdram* [^AUTOREPLACED19731AllER241ENDREPLACE]
+[^AUTOREPLACED19731AllER241ENDREPLACE]: [1973] 1 All ER 241
 
 
-        * *BBC v BSB* [^REPLACEME1992Ch141ENDREPLACE]
-[^REPLACEME1992Ch141ENDREPLACE]: [1992] Ch 141
+        * *BBC v BSB* [^AUTOREPLACED1992Ch141ENDREPLACE]
+[^AUTOREPLACED1992Ch141ENDREPLACE]: [1992] Ch 141
 
 
-        * *Nine Network Australia v ABC* [^REPLACEME199948IPR333ENDREPLACE]
-[^REPLACEME199948IPR333ENDREPLACE]:  (1999) 48 IPR 333
+        * *Nine Network Australia v ABC* [^AUTOREPLACED199948IPR333ENDREPLACE]
+[^AUTOREPLACED199948IPR333ENDREPLACE]:  (1999) 48 IPR 333
 
 
-        * *TCN Channel Nine Pty Ltd v Network Ten Ltd* [^REPLACEME2001108FCR235at66perContiJENDREPLACE]
-[^REPLACEME2001108FCR235at66perContiJENDREPLACE]:  (2001) 108 FCR 235 at [66] per Conti J
+        * *TCN Channel Nine Pty Ltd v Network Ten Ltd* [^AUTOREPLACED2001108FCR235at66perContiJENDREPLACE]
+[^AUTOREPLACED2001108FCR235at66perContiJENDREPLACE]:  (2001) 108 FCR 235 at [66] per Conti J
 
 
 
@@ -328,8 +328,8 @@ Under the fair use doctrine, the courts have regard to four factors:
 * the effect of the use upon the potential market for or value of the copyrighted work.
 
 <WRAP case>
-__//Campbell v Acuff-Rose// [^REPLACEME510US5691994ENDREPLACE]
-[^REPLACEME510US5691994ENDREPLACE]: 510 US 569 (1994) 
+__//Campbell v Acuff-Rose// [^AUTOREPLACED510US5691994ENDREPLACE]
+[^AUTOREPLACED510US5691994ENDREPLACE]: 510 US 569 (1994) 
 __
 
 The Supreme Court held that 2 Live Crew’s Parody of Roy Orbison’s ‘Pretty Woman’ was a fair use. They used the familiar first line and opening melody, but changed all the rest of the lyrics (referring variously to ‘pretty woman’, ‘big hairy woman’, ‘bald headed woman’, ‘two-timing woman’)
@@ -339,8 +339,8 @@ The new version was a transformative use – markedly different from the origina
 </WRAP>
 
 <WRAP case>
-__//Dr Seuss Enterprises v Penguin Books USA, Inc// [^REPLACEME109F3d13949thCir1997ENDREPLACE]
-[^REPLACEME109F3d13949thCir1997ENDREPLACE]: 109 F.3d 1394 (9th Cir. 1997) 
+__//Dr Seuss Enterprises v Penguin Books USA, Inc// [^AUTOREPLACED109F3d13949thCir1997ENDREPLACE]
+[^AUTOREPLACED109F3d13949thCir1997ENDREPLACE]: 109 F.3d 1394 (9th Cir. 1997) 
 __
 
 * Used the style of a Dr Seuss book while retelling the facts of the OJ Simpson murder trial.
@@ -352,8 +352,8 @@ __
 </WRAP>
 
 <WRAP case>
-__//Leibovitz v. Paramount Pictures Corp.//__ [^REPLACEME137F3d1092dCirNY1998ENDREPLACE]
-[^REPLACEME137F3d1092dCirNY1998ENDREPLACE]: 137 F.3d 109 (2d Cir. N.Y. 1998) 
+__//Leibovitz v. Paramount Pictures Corp.//__ [^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]
+[^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]: 137 F.3d 109 (2d Cir. N.Y. 1998) 
 
 
 * Paramount photoshopped Leslie Nielsen’s head onto a photo of a naked pregnant woman, mimicking the famous portrait of Demi Moore by Annie Leibovitz for Vanity Fair.
@@ -363,8 +363,8 @@ __//Leibovitz v. Paramount Pictures Corp.//__ [^REPLACEME137F3d1092dCirNY1998END
 </WRAP>
 
 <WRAP case>
-__//Sun Trust v Houghton Mifflin//__ [^REPLACEME268F3d125711thCir2001ENDREPLACE]
-[^REPLACEME268F3d125711thCir2001ENDREPLACE]: 268 F.3d 1257 (11th Cir. 2001) 
+__//Sun Trust v Houghton Mifflin//__ [^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]
+[^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]: 268 F.3d 1257 (11th Cir. 2001) 
 
 
 * Alice Randall wrote ‘The Wind Done Gone’, reinterpreting Margaret Mitchell’s classic Gone with the Wind from the point of view of Cynara, a slave.
@@ -374,8 +374,8 @@ __//Sun Trust v Houghton Mifflin//__ [^REPLACEME268F3d125711thCir2001ENDREPLACE]
 </WRAP>
 
 <WRAP case>
-__//Salinger v. Colting// [^REPLACEME641FSupp2d250SDNY2009ENDREPLACE]
-[^REPLACEME641FSupp2d250SDNY2009ENDREPLACE]: 641 F. Supp. 2d 250 (S.D. N.Y. 2009) 
+__//Salinger v. Colting// [^AUTOREPLACED641FSupp2d250SDNY2009ENDREPLACE]
+[^AUTOREPLACED641FSupp2d250SDNY2009ENDREPLACE]: 641 F. Supp. 2d 250 (S.D. N.Y. 2009) 
 __
 
 * An author created a book with the lead character modelled after Holden Caulfield from J.D. Salinger’s Catcher in the Rye. The new character was aged and placed in modern day New York.
@@ -388,8 +388,8 @@ __
 
 ### Private Copying: Time Shifting
 
-There is an exception for the purpose of time shifting found in the //Act//.[^REPLACEMECAs111ENDREPLACE]
-[^REPLACEMECAs111ENDREPLACE]: //CA// s 111
+There is an exception for the purpose of time shifting found in the //Act//.[^AUTOREPLACEDCAs111ENDREPLACE]
+[^AUTOREPLACEDCAs111ENDREPLACE]: //CA// s 111
 
 
 If a person makes a cinematograph film or sound recording of a broadcast solely for private and domestic use by watching or listening to the material broadcast at a time more convenient than the time when the broadcast is made, then the making of the film or recording does not infringe copyright in the broadcast or in any work or other subject matter included in the broadcast.
@@ -410,8 +410,8 @@ This exception will not apply if an article or thing embodying the film or recor
 
 **Video overview by Jennifer Singleton on[Time Shifting](https://www.youtube.com/watch?v=PwzsIb9SF68).**
 <WRAP case>
-__//National Rugby League Investments Pty Limited v Singtel Optus Pty Ltd// [^REPLACEME2012FCAFC59ENDREPLACE]
-[^REPLACEME2012FCAFC59ENDREPLACE]: [2012] FCAFC 59
+__//National Rugby League Investments Pty Limited v Singtel Optus Pty Ltd// [^AUTOREPLACED2012FCAFC59ENDREPLACE]
+[^AUTOREPLACED2012FCAFC59ENDREPLACE]: [2012] FCAFC 59
 __
 
 **Video overview by Stuart Efstathis on [Optus TV Now](https://www.youtube.com/watch?v=oQS8oKKwimA).**
@@ -446,26 +446,26 @@ In addition to allowing private users of copyright to make recordings (as discus
 
 **Books, Newspapers and Periodicals**
 
-The //Act// also allows for books, newspapers or periodicals that are in a private collections to be reproduced into another format (eg. scanning an article from a magazine onto your personal computer to keep as a reference). [^REPLACEMECAs43CENDREPLACE]
-[^REPLACEMECAs43CENDREPLACE]: //CA// s 43C
+The //Act// also allows for books, newspapers or periodicals that are in a private collections to be reproduced into another format (eg. scanning an article from a magazine onto your personal computer to keep as a reference). [^AUTOREPLACEDCAs43CENDREPLACE]
+[^AUTOREPLACEDCAs43CENDREPLACE]: //CA// s 43C
 
 
 **Photographs**
 
-The //Act// also permits photographs to be reproduced in instances where the copy owed is in hardcopy form and the user is seeking to format shift this into an electronic form (for example by scanning into a computer). This section also applies where the copy owned is in electronic form and the user is seeking to format shift this into a hardcopy form (for example by printing a digital file). [^REPLACEMECAs47JENDREPLACE]
-[^REPLACEMECAs47JENDREPLACE]: //CA// s 47J
+The //Act// also permits photographs to be reproduced in instances where the copy owed is in hardcopy form and the user is seeking to format shift this into an electronic form (for example by scanning into a computer). This section also applies where the copy owned is in electronic form and the user is seeking to format shift this into a hardcopy form (for example by printing a digital file). [^AUTOREPLACEDCAs47JENDREPLACE]
+[^AUTOREPLACEDCAs47JENDREPLACE]: //CA// s 47J
 
 
 **Videotapes**
 
-The //Act// permits the reproduction of video cassettes that are owned, into an electronic form (for example reproducing a video cassette onto a DVD). [^REPLACEMECAs110AAENDREPLACE]
-[^REPLACEMECAs110AAENDREPLACE]: //CA// s 110AA
+The //Act// permits the reproduction of video cassettes that are owned, into an electronic form (for example reproducing a video cassette onto a DVD). [^AUTOREPLACEDCAs110AAENDREPLACE]
+[^AUTOREPLACEDCAs110AAENDREPLACE]: //CA// s 110AA
 
 
 **Backups of Computer Programs**
 
-The //Act// provides limited backup rights for software. The rights only extends to literary works – copying computer games is not allowed. [^REPLACEMECAs47CENDREPLACE]
-[^REPLACEMECAs47CENDREPLACE]: //CA// s 47C
+The //Act// provides limited backup rights for software. The rights only extends to literary works – copying computer games is not allowed. [^AUTOREPLACEDCAs47CENDREPLACE]
+[^AUTOREPLACEDCAs47CENDREPLACE]: //CA// s 47C
 
 
 The limits to the exceptions are:
@@ -482,8 +482,8 @@ The limits to the exceptions are:
 
 ### Private Copying: Music
 
-Private copies of music are permitted to be made only if:[^REPLACEMECAs109ENDREPLACE]
-[^REPLACEMECAs109ENDREPLACE]: //CA// s 109
+Private copies of music are permitted to be made only if:[^AUTOREPLACEDCAs109ENDREPLACE]
+[^AUTOREPLACEDCAs109ENDREPLACE]: //CA// s 109
 
 
 * the owner of a copy (the earlier copy ) of a sound recording makes another copy (the later copy ) of the sound recording using the earlier copy; and
@@ -522,60 +522,60 @@ The //Copyright Amendment (Computer Programs) Act 1999//, introduced a new Divis
 
 The owner or licensee of a computer program does not infringe copyright by making a reproduction of the program:
 
-* in the course of running the program for the purposes for which the program was designed, unless contrary to an express direction or license. [^REPLACEMECAs47B1and2ENDREPLACE]
-[^REPLACEMECAs47B1and2ENDREPLACE]: //CA// s 47B(1) and (2) 
+* in the course of running the program for the purposes for which the program was designed, unless contrary to an express direction or license. [^AUTOREPLACEDCAs47B1and2ENDREPLACE]
+[^AUTOREPLACEDCAs47B1and2ENDREPLACE]: //CA// s 47B(1) and (2) 
 
 
-* in the course of running the program for the purpose of studying the ideas behind the program and the way it functions. [^REPLACEMECAs47B3ENDREPLACE]
-[^REPLACEMECAs47B3ENDREPLACE]: //CA// s 47B(3) 
+* in the course of running the program for the purpose of studying the ideas behind the program and the way it functions. [^AUTOREPLACEDCAs47B3ENDREPLACE]
+[^AUTOREPLACEDCAs47B3ENDREPLACE]: //CA// s 47B(3) 
 
 
-* for use in lieu of the original copy, or if the original copy is lost, destroyed or becomes unusable. [^REPLACEMECAs47CENDREPLACE]
-[^REPLACEMECAs47CENDREPLACE]: //CA// s 47C
+* for use in lieu of the original copy, or if the original copy is lost, destroyed or becomes unusable. [^AUTOREPLACEDCAs47CENDREPLACE]
+[^AUTOREPLACEDCAs47CENDREPLACE]: //CA// s 47C
 
 
-* to obtain information necessary to make independently another program or article to interoperate with the original program any other program, but only to the extent that it is reasonably necessary to obtain such information and to achieve such interoperability; and the information was not readily available to the owner or licensee.[^REPLACEMECAs47DENDREPLACE]
-[^REPLACEMECAs47DENDREPLACE]: //CA// s 47D
+* to obtain information necessary to make independently another program or article to interoperate with the original program any other program, but only to the extent that it is reasonably necessary to obtain such information and to achieve such interoperability; and the information was not readily available to the owner or licensee.[^AUTOREPLACEDCAs47DENDREPLACE]
+[^AUTOREPLACEDCAs47DENDREPLACE]: //CA// s 47D
 
 
-* for the purpose of correcting an error in the original copy which prevents the program from operating as intended by the author. [^REPLACEMECAs47EENDREPLACE]
-[^REPLACEMECAs47EENDREPLACE]: //CA// s 47E
+* for the purpose of correcting an error in the original copy which prevents the program from operating as intended by the author. [^AUTOREPLACEDCAs47EENDREPLACE]
+[^AUTOREPLACEDCAs47EENDREPLACE]: //CA// s 47E
 
 
-* for the purpose of testing the security of the original copy or network or system of which the original copy is part. [^REPLACEMECAs47FENDREPLACE]
-[^REPLACEMECAs47FENDREPLACE]: //CA// s 47F
+* for the purpose of testing the security of the original copy or network or system of which the original copy is part. [^AUTOREPLACEDCAs47FENDREPLACE]
+[^AUTOREPLACEDCAs47FENDREPLACE]: //CA// s 47F
 
 
-* Note that** most** of these exceptions are not excludable by contract. [^REPLACEMECAs47HENDREPLACE]
-[^REPLACEMECAs47HENDREPLACE]: //CA// s 47H
+* Note that** most** of these exceptions are not excludable by contract. [^AUTOREPLACEDCAs47HENDREPLACE]
+[^AUTOREPLACEDCAs47HENDREPLACE]: //CA// s 47H
 
 
 ### Other Specific, Royalty Free Exceptions
 
 Other specific, royalty-free exceptions include:
 
-The performance of a literary, dramatic or musical work or playing a sound recording or film in a school classroom will not infringe copyright. [^REPLACEMECAs28ENDREPLACE]
-[^REPLACEMECAs28ENDREPLACE]: //CA// s 28
- Similarly, the public performance of a literary, dramatic or musical work or an adaptation of such a work, by the use of reception equipment or a record, at a "premises where people reside or sleep, as part of the amenities provided exclusively for residents or inmates of the premises or for those residents or inmates and their guests" will not be infringing. [^REPLACEMECAs46seealsos1061inrespectofsoundrecordingsENDREPLACE]
-[^REPLACEMECAs46seealsos1061inrespectofsoundrecordingsENDREPLACE]: //CA// s 46 – see also s 106(1) in respect of sound recordings) 
+The performance of a literary, dramatic or musical work or playing a sound recording or film in a school classroom will not infringe copyright. [^AUTOREPLACEDCAs28ENDREPLACE]
+[^AUTOREPLACEDCAs28ENDREPLACE]: //CA// s 28
+ Similarly, the public performance of a literary, dramatic or musical work or an adaptation of such a work, by the use of reception equipment or a record, at a "premises where people reside or sleep, as part of the amenities provided exclusively for residents or inmates of the premises or for those residents or inmates and their guests" will not be infringing. [^AUTOREPLACEDCAs46seealsos1061inrespectofsoundrecordingsENDREPLACE]
+[^AUTOREPLACEDCAs46seealsos1061inrespectofsoundrecordingsENDREPLACE]: //CA// s 46 – see also s 106(1) in respect of sound recordings) 
 
 
-It is not an infringement to photograph, paint, draw, film or include in a television broadcast a building, a model of a building, a sculpture or a work of artistic craftsmanship which is permanently displayed in a public place or in premises open to the public. [^REPLACEMECAss65and66ENDREPLACE]
-[^REPLACEMECAss65and66ENDREPLACE]: //CA// ss 65 and 66
+It is not an infringement to photograph, paint, draw, film or include in a television broadcast a building, a model of a building, a sculpture or a work of artistic craftsmanship which is permanently displayed in a public place or in premises open to the public. [^AUTOREPLACEDCAss65and66ENDREPLACE]
+[^AUTOREPLACEDCAss65and66ENDREPLACE]: //CA// ss 65 and 66
 
 
-Copyright in an artistic work is not infringed if the work is included in a film or television broadcast, incidentally to the principal matters represented in the film or broadcast. [^REPLACEMECAs67ENDREPLACE]
-[^REPLACEMECAs67ENDREPLACE]: //CA// s 67
- It is also not an infringement to read or recite in public or to include in a sound or television broadcast of a reading or recitation, a reasonable length extract from a published literary or dramatic work or an adaptation of such a work, as long as the work is given sufficient acknowledgement. [^REPLACEMECAs45ENDREPLACE]
-[^REPLACEMECAs45ENDREPLACE]: //CA// s 45
+Copyright in an artistic work is not infringed if the work is included in a film or television broadcast, incidentally to the principal matters represented in the film or broadcast. [^AUTOREPLACEDCAs67ENDREPLACE]
+[^AUTOREPLACEDCAs67ENDREPLACE]: //CA// s 67
+ It is also not an infringement to read or recite in public or to include in a sound or television broadcast of a reading or recitation, a reasonable length extract from a published literary or dramatic work or an adaptation of such a work, as long as the work is given sufficient acknowledgement. [^AUTOREPLACEDCAs45ENDREPLACE]
+[^AUTOREPLACEDCAs45ENDREPLACE]: //CA// s 45
 
 
-Copyright in an artistic work is not infringed by the creator of that work if he or she makes a later artistic work which does not repeat or imitate the main design of the earlier work. [^REPLACEMECAs72ENDREPLACE]
-[^REPLACEMECAs72ENDREPLACE]: //CA// s 72
+Copyright in an artistic work is not infringed by the creator of that work if he or she makes a later artistic work which does not repeat or imitate the main design of the earlier work. [^AUTOREPLACEDCAs72ENDREPLACE]
+[^AUTOREPLACEDCAs72ENDREPLACE]: //CA// s 72
 
 
-Where there is copyright in a building, copyright is not infringed by reconstructing it. [^REPLACEMECAs73ENDREPLACE]
-[^REPLACEMECAs73ENDREPLACE]: //CA// s 73
+Where there is copyright in a building, copyright is not infringed by reconstructing it. [^AUTOREPLACEDCAs73ENDREPLACE]
+[^AUTOREPLACEDCAs73ENDREPLACE]: //CA// s 73
 
 
 ## Statutory Licenses
@@ -589,20 +589,20 @@ The licenses assist educational institutions and institutions assisting persons 
 
 The license pertains to:
 
- * the re-recording of musical works, as long as the subsequent recording does not debase the work; [^REPLACEMECAs55ENDREPLACE]
-[^REPLACEMECAs55ENDREPLACE]: //CA// s 55
+ * the re-recording of musical works, as long as the subsequent recording does not debase the work; [^AUTOREPLACEDCAs55ENDREPLACE]
+[^AUTOREPLACEDCAs55ENDREPLACE]: //CA// s 55
 
- * the making of sound broadcasts of literary and dramatic works by the holders of a print disability radio licence; [^REPLACEMECAs47AENDREPLACE]
-[^REPLACEMECAs47AENDREPLACE]: //CA// s 47A
+ * the making of sound broadcasts of literary and dramatic works by the holders of a print disability radio licence; [^AUTOREPLACEDCAs47AENDREPLACE]
+[^AUTOREPLACEDCAs47AENDREPLACE]: //CA// s 47A
 
- * recording of musical and literary works; [^REPLACEMEPartIIIDiv6ENDREPLACE]
-[^REPLACEMEPartIIIDiv6ENDREPLACE]: Part III, Div 6
+ * recording of musical and literary works; [^AUTOREPLACEDPartIIIDiv6ENDREPLACE]
+[^AUTOREPLACEDPartIIIDiv6ENDREPLACE]: Part III, Div 6
 
- * retransmissions of free-to-air broadcasts; [^REPLACEMEPartVCENDREPLACE]
-[^REPLACEMEPartVCENDREPLACE]: Part VC
+ * retransmissions of free-to-air broadcasts; [^AUTOREPLACEDPartVCENDREPLACE]
+[^AUTOREPLACEDPartVCENDREPLACE]: Part VC
  and
- * public performance and broadcasting of sound recordings. [^REPLACEMECAss1081and1091ENDREPLACE]
-[^REPLACEMECAss1081and1091ENDREPLACE]: //CA// ss 108(1) and 109(1) 
+ * public performance and broadcasting of sound recordings. [^AUTOREPLACEDCAss1081and1091ENDREPLACE]
+[^AUTOREPLACEDCAss1081and1091ENDREPLACE]: //CA// ss 108(1) and 109(1) 
 
 
 
@@ -614,8 +614,8 @@ The license pertains to:
 
 ## Reform for Australian Copyright Defences and Exceptions
 
-There are ongoing issues within Australia regarding the available defences and exceptions under the //Copyright Act//.  Particularly, a number of review bodies, the Australian Law Reform Commission (ALRC) and the Australian Government Productivity Commission (PC),  have recommended that Australia adopt a fair use provision modelled off the US doctrine of fair use to replace our current fair dealing provisions. [^REPLACEMEAustralianLawReformCommissionCopyrightandtheDigitalEconomyFinalReportMo1222014TheAustralianGovernmentProductivityCommissionIntellectualPropertyArrangementsFinalReport2016ENDREPLACE]
-[^REPLACEMEAustralianLawReformCommissionCopyrightandtheDigitalEconomyFinalReportMo1222014TheAustralianGovernmentProductivityCommissionIntellectualPropertyArrangementsFinalReport2016ENDREPLACE]:  Australian Law Reform Commission, Copyright and the Digital Economy, Final Report Mo. 122 (2014); The Australian Government Productivity Commission, Intellectual Property Arrangements, Final Report (2016) 
+There are ongoing issues within Australia regarding the available defences and exceptions under the //Copyright Act//.  Particularly, a number of review bodies, the Australian Law Reform Commission (ALRC) and the Australian Government Productivity Commission (PC),  have recommended that Australia adopt a fair use provision modelled off the US doctrine of fair use to replace our current fair dealing provisions. [^AUTOREPLACEDAustralianLawReformCommissionCopyrightandtheDigitalEconomyFinalReportMo1222014TheAustralianGovernmentProductivityCommissionIntellectualPropertyArrangementsFinalReport2016ENDREPLACE]
+[^AUTOREPLACEDAustralianLawReformCommissionCopyrightandtheDigitalEconomyFinalReportMo1222014TheAustralianGovernmentProductivityCommissionIntellectualPropertyArrangementsFinalReport2016ENDREPLACE]:  Australian Law Reform Commission, Copyright and the Digital Economy, Final Report Mo. 122 (2014); The Australian Government Productivity Commission, Intellectual Property Arrangements, Final Report (2016) 
 
 
 **Video overview by Nicolas Suzor on [Reform for Australian Copyright Defences and Exceptions](https://www.youtube.com/watch?v=Y7KIgHNkr6w&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u&index=3).**  
@@ -637,12 +637,12 @@ The four fairness factors enables users of copyright to effectively use works (d
 
 The main argument supporting the recommendation to adopt a fair use based exception is the benefits derived from using a tried and tested system such as the doctrine of fair use as opposed to applying the current complex fair dealing exceptions found in Australian law.
 
-Both the ALRC and the PC proposed that the fair use exception was advantageous as it is technologically neutral, promotes the public interest in transformative uses of works and provides breathing room for innovation. It was also proposed that a fair use provision would better align with social norms and consumer expectations. According to recent research into use practices of creatives, "the rules of fair dealing are confusing ... with many creators ... believ[ing] Australia already has fair use". [^REPLACEMEPappalardoKylieAufderheidePatriciaStevensJessicaSuzorNicolas2017ImaginationforegoneAqualitativestudyofthereusepracticesofAustraliancreatorsENDREPLACE]
-[^REPLACEMEPappalardoKylieAufderheidePatriciaStevensJessicaSuzorNicolas2017ImaginationforegoneAqualitativestudyofthereusepracticesofAustraliancreatorsENDREPLACE]: Pappalardo, Kylie, Aufderheide, Patricia, Stevens, Jessica, & Suzor, Nicolas (2017) Imagination foregone: A qualitative study of the reuse practices of Australian creators
+Both the ALRC and the PC proposed that the fair use exception was advantageous as it is technologically neutral, promotes the public interest in transformative uses of works and provides breathing room for innovation. It was also proposed that a fair use provision would better align with social norms and consumer expectations. According to recent research into use practices of creatives, "the rules of fair dealing are confusing ... with many creators ... believ[ing] Australia already has fair use". [^AUTOREPLACEDPappalardoKylieAufderheidePatriciaStevensJessicaSuzorNicolas2017ImaginationforegoneAqualitativestudyofthereusepracticesofAustraliancreatorsENDREPLACE]
+[^AUTOREPLACEDPappalardoKylieAufderheidePatriciaStevensJessicaSuzorNicolas2017ImaginationforegoneAqualitativestudyofthereusepracticesofAustraliancreatorsENDREPLACE]: Pappalardo, Kylie, Aufderheide, Patricia, Stevens, Jessica, & Suzor, Nicolas (2017) Imagination foregone: A qualitative study of the reuse practices of Australian creators
 
 
-The fair dealing exceptions are a complex set of specific, royalty free exceptions for copyright infringement. A lot of these come under exceptions for private copying and format shifting for example. This system creates a complex //Act//. The US approach to fair use simplifies these tests and leaves it open to the courts to come up with jurisprudence for when uses will be considered to be fair. Whilst there are some concerns that a judicial based approach (such as the one in the US) may be more unpredictable, empirical evidence suggests that this claim is unfounded. [^REPLACEMESeePSamuelsonUnbundlingFairUses200977FordhamLawReview2537ENDREPLACE]
-[^REPLACEMESeePSamuelsonUnbundlingFairUses200977FordhamLawReview2537ENDREPLACE]: See P Samuelson, 'Unbundling Fair Uses' 2009 77 Fordham Law Review 2537
+The fair dealing exceptions are a complex set of specific, royalty free exceptions for copyright infringement. A lot of these come under exceptions for private copying and format shifting for example. This system creates a complex //Act//. The US approach to fair use simplifies these tests and leaves it open to the courts to come up with jurisprudence for when uses will be considered to be fair. Whilst there are some concerns that a judicial based approach (such as the one in the US) may be more unpredictable, empirical evidence suggests that this claim is unfounded. [^AUTOREPLACEDSeePSamuelsonUnbundlingFairUses200977FordhamLawReview2537ENDREPLACE]
+[^AUTOREPLACEDSeePSamuelsonUnbundlingFairUses200977FordhamLawReview2537ENDREPLACE]: See P Samuelson, 'Unbundling Fair Uses' 2009 77 Fordham Law Review 2537
 
 
 A key issue with Australia’s current fair dealing exceptions is its inability to recognise and account for transformative uses of copyright law.  A transformative use exception allows for a more technological neutral law. For example, the //Copyright Act// includes provisions that enable time shifting and format shifting of particular works, however the language used in these provisions is specific about the technologies that are used. Because our law is always drafted in retrospect, it can take quite a long time to adapt to new uses.

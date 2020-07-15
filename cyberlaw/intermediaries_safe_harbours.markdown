@@ -18,7 +18,11 @@ This Chapter provides a brief history of the development of safe harbour protect
 
 In the late 1990s, internet service providers and other intermediaries expressed concern about potential secondary liability for copyright infringement. At the same time, copyright owners were lobbying for increased protection in the online context. The result, in 1998, was the compromise position established by the Digital Millenium Copyright Act 1998 (US) (DMCA). The DMCA was widely supported by the copyright industries; it amended some provisions to ensure application in the online environment, strengthened penalties for infringement, and introduced new rights to prevent tampering with technological locks on content. It included some trade-offs: copyright owners received additional rights, but service providers (certain intermediaries) were immunised from liability under the so-called 'safe harbours'.
 
-Essentially, the copyright safe harbours provide that online service providers (Internet Service Providers AND content hosts) are not liable for monetary damages for the infringing acts of their users, as long as they meet certain conditions. The relevant provisions are in 17 USC § 512((http://www.law.cornell.edu/uscode/17/512.html)). Intermediaries might still be liable, but the only remedy available is limited injunctive relief. In exchange, they undertake obligations to respond to notice & takedown requests. It is important to note that these obligations are optional. A service provider only needs to meet the conditions in the safe harbours if it wishes to be able to rely on them.
+Essentially, the copyright safe harbours provide that online service providers (Internet Service Providers AND content hosts) are not liable for monetary damages for the infringing acts of their users, as long as they meet certain conditions. The relevant provisions are in 17 USC § 512[^AUTOREPLACEDhttpwwwlawcornelleduuscode17512htmlAUTOREPLACED]
+
+[^AUTOREPLACEDhttpwwwlawcornelleduuscode17512htmlAUTOREPLACED]: http://www.law.cornell.edu/uscode/17/512.html
+
+. Intermediaries might still be liable, but the only remedy available is limited injunctive relief. In exchange, they undertake obligations to respond to notice & takedown requests. It is important to note that these obligations are optional. A service provider only needs to meet the conditions in the safe harbours if it wishes to be able to rely on them.
 
 ## Australian Safe Harbours
 

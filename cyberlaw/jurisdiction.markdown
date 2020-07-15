@@ -9,15 +9,43 @@ parent: Governing the Internet
 
 ## Chapter Overview
 
-This Chapter introduces you to the concept of jurisdiction in the internet context. It starts by explaining the differences between jurisdiction in the narrow sense, which generally refers to the power and authority of a court to hear and decide on a matter, and in the broad sense, which encompasses the separate yet related issues of choice of law, choice of forum, and recognition and enforcement.((Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 57 ff)) This Chapter explains the different types of jurisdiction, including personal, subject matter and in rem, as well as choice of law, choice of forum, and recognition and enforcement in turn. It concludes with a short case study.
+This Chapter introduces you to the concept of jurisdiction in the internet context. It starts by explaining the differences between jurisdiction in the narrow sense, which generally refers to the power and authority of a court to hear and decide on a matter, and in the broad sense, which encompasses the separate yet related issues of choice of law, choice of forum, and recognition and enforcement.[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201157ffAUTOREPLACED]
+
+[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201157ffAUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 57 ff
+
+ This Chapter explains the different types of jurisdiction, including personal, subject matter and in rem, as well as choice of law, choice of forum, and recognition and enforcement in turn. It concludes with a short case study.
 
 ## What Is Jurisdiction?
 
 **Overview Videos by [Rita Matulionyte](https://www.youtube.com/watch?v=AExlbXWFfBU)** and **[Megan Patten](https://www.youtube.com/watch?v=yegdr8Q5MdY)**
 
-The application of rules of jurisdiction to the internet is a challenging issue for courts around the globe. Western democratic understandings of jurisdiction have evolved in relation to the geographical boundaries of countries.((Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 57 ff)) Western democracies assert **[sovereign](https://www.youtube.com/watch?v=VMC9u7PZZCo)** power, which is based on the will of their people, to govern persons and things within their territory free from external interference. A nation state's jurisdiction does not usually extend beyond its geographical boundaries.((Cyber Law Centre, 'Internet Jurisdiction - What Is Jurisdiction?' www.cyberlawcentre.org/genl2032/12Jurisdiction-v1.pptx)) However, now that people routinely use the internet and other emerging technologies to interact across jurisdictional boundaries, courts have been grappling with complex legal questions of which state may and should properly exercise jurisdiction over parties to online activities.
+The application of rules of jurisdiction to the internet is a challenging issue for courts around the globe. Western democratic understandings of jurisdiction have evolved in relation to the geographical boundaries of countries.[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201157ffAUTOREPLACED]
 
-_In the strict sense,_ jurisdiction "refers to the authority of a court to decide a matter",((Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 58)) which is determined solely by application of the principles of jurisdiction.((_John Pfeiffer Pty Ltd v Rogerson_ [2000] HCA 36 at [25])) A court can competently adjudicate on a matter if it has both subject matter jurisdiction and personal jurisdiction. If a court hears and decides on a matter, without proper jurisdiction, the judgment is generally unenforceable and could be quashed.((Cyber Law Centre, 'Internet Jurisdiction - What Is Jurisdiction?' www.cyberlawcentre.org/genl2032/12Jurisdiction-v1.pptx)) _In the broad sense,_ jurisdiction also encompasses the related, but separate, issues of: (1) choice of law, (2) choice of forum and (3) recognition and enforcement of foreign judgments.((Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 58)) The broad conception of jurisdiction is often referred to as private international law. We will expand on the concept of jurisdiction as well as choice of law, choice of forum and recognition and enforcement below.
+[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201157ffAUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 57 ff
+
+ Western democracies assert **[sovereign](https://www.youtube.com/watch?v=VMC9u7PZZCo)** power, which is based on the will of their people, to govern persons and things within their territory free from external interference. A nation state's jurisdiction does not usually extend beyond its geographical boundaries.[^AUTOREPLACEDCyberLawCentreInternetJurisdictionWhatIsJurisdictionwwwcyberlawcentreorggenl203212Jurisdictionv1pptxAUTOREPLACED]
+
+[^AUTOREPLACEDCyberLawCentreInternetJurisdictionWhatIsJurisdictionwwwcyberlawcentreorggenl203212Jurisdictionv1pptxAUTOREPLACED]: Cyber Law Centre, 'Internet Jurisdiction - What Is Jurisdiction?' www.cyberlawcentre.org/genl2032/12Jurisdiction-v1.pptx
+
+ However, now that people routinely use the internet and other emerging technologies to interact across jurisdictional boundaries, courts have been grappling with complex legal questions of which state may and should properly exercise jurisdiction over parties to online activities.
+
+_In the strict sense,_ jurisdiction "refers to the authority of a court to decide a matter",[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201158AUTOREPLACED]
+
+[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201158AUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 58
+
+ which is determined solely by application of the principles of jurisdiction.[^AUTOREPLACED_JohnPfeifferPtyLtdvRogerson_2000HCA36at25AUTOREPLACED]
+
+[^AUTOREPLACED_JohnPfeifferPtyLtdvRogerson_2000HCA36at25AUTOREPLACED]: _John Pfeiffer Pty Ltd v Rogerson_ [2000] HCA 36 at [25]
+
+ A court can competently adjudicate on a matter if it has both subject matter jurisdiction and personal jurisdiction. If a court hears and decides on a matter, without proper jurisdiction, the judgment is generally unenforceable and could be quashed.[^AUTOREPLACEDCyberLawCentreInternetJurisdictionWhatIsJurisdictionwwwcyberlawcentreorggenl203212Jurisdictionv1pptxAUTOREPLACED]
+
+[^AUTOREPLACEDCyberLawCentreInternetJurisdictionWhatIsJurisdictionwwwcyberlawcentreorggenl203212Jurisdictionv1pptxAUTOREPLACED]: Cyber Law Centre, 'Internet Jurisdiction - What Is Jurisdiction?' www.cyberlawcentre.org/genl2032/12Jurisdiction-v1.pptx
+
+ _In the broad sense,_ jurisdiction also encompasses the related, but separate, issues of: (1) choice of law, (2) choice of forum and (3) recognition and enforcement of foreign judgments.[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201158AUTOREPLACED]
+
+[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201158AUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 58
+
+ The broad conception of jurisdiction is often referred to as private international law. We will expand on the concept of jurisdiction as well as choice of law, choice of forum and recognition and enforcement below.
 
 ##Personal (In Personam) Jurisdiction
 
@@ -31,7 +59,15 @@ Generally, for a court to have personal jurisdiction over a defendant, the court
 
 **Overview by [Rita Matulionyte](https://www.youtube.com/watch?v=nw-SgiIaLmc)**
 
-Subject matter jurisdiction refers to the subject matter or types of actions that a court may hear and decide on. Courts are often limited with respect to the type of matter that they can hear as well as the amount in dispute. In Queensland, for instance, a money dispute of a value up to $150,000 can be resolved in the Magistrates Court,((Queensland Courts, 'Money Disputes under $150,000' https://www.courts.qld.gov.au/going-to-court/money-disputes/money-disputes-up-to-150000)). At the national level, the Federal Circuit Court of Australia has exclusive jurisdiction to hear and determine civil disputes concerning copyright, designs, trade marks and plant breeder's rights, among other subject matter.((Federal Circuit Court of Australia, 'Intellectual Property' http://www.federalcircuitcourt.gov.au/wps/wcm/connect/fccweb/gfl/intellectual-property))  
+Subject matter jurisdiction refers to the subject matter or types of actions that a court may hear and decide on. Courts are often limited with respect to the type of matter that they can hear as well as the amount in dispute. In Queensland, for instance, a money dispute of a value up to $150,000 can be resolved in the Magistrates Court,[^AUTOREPLACEDQueenslandCourtsMoneyDisputesunder150000httpswwwcourtsqldgovaugoingtocourtmoneydisputesmoneydisputesupto150000AUTOREPLACED]
+
+[^AUTOREPLACEDQueenslandCourtsMoneyDisputesunder150000httpswwwcourtsqldgovaugoingtocourtmoneydisputesmoneydisputesupto150000AUTOREPLACED]: Queensland Courts, 'Money Disputes under $150,000' https://www.courts.qld.gov.au/going-to-court/money-disputes/money-disputes-up-to-150000
+
+. At the national level, the Federal Circuit Court of Australia has exclusive jurisdiction to hear and determine civil disputes concerning copyright, designs, trade marks and plant breeder's rights, among other subject matter.[^AUTOREPLACEDFederalCircuitCourtofAustraliaIntellectualPropertyhttpwwwfederalcircuitcourtgovauwpswcmconnectfccwebgflintellectualpropertyAUTOREPLACED]
+
+[^AUTOREPLACEDFederalCircuitCourtofAustraliaIntellectualPropertyhttpwwwfederalcircuitcourtgovauwpswcmconnectfccwebgflintellectualpropertyAUTOREPLACED]: Federal Circuit Court of Australia, 'Intellectual Property' http://www.federalcircuitcourt.gov.au/wps/wcm/connect/fccweb/gfl/intellectual-property
+
+  
 
 ###Contract Law
 
@@ -105,7 +141,11 @@ In rem jurisdiction, which roughly translates to jurisdiction 'about or over a t
 
 ###In Rem Jurisdiction and Domain Names
 
-The United States (US) _Anti-Cybersquating Protection Act_ establishes that the US has in rem jurisdiction over domain names.((Catherine T. Struve and R. Polk Wagner, 'Realspace Sovereigns in Cyberspace: Problems with the Anticybersquatting Consumer Protection Act' https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/berktech17&id=1019&men_tab=srchresults))
+The United States (US) _Anti-Cybersquating Protection Act_ establishes that the US has in rem jurisdiction over domain names.[^AUTOREPLACEDCatherineTStruveandRPolkWagnerRealspaceSovereignsinCyberspaceProblemswiththeAnticybersquattingConsumerProtectionActhttpsheinonlineorgHOLPagecollectionjournalshandleheinjournalsberktech17id1019men_tabsrchresultsAUTOREPLACED]
+
+[^AUTOREPLACEDCatherineTStruveandRPolkWagnerRealspaceSovereignsinCyberspaceProblemswiththeAnticybersquattingConsumerProtectionActhttpsheinonlineorgHOLPagecollectionjournalshandleheinjournalsberktech17id1019men_tabsrchresultsAUTOREPLACED]: Catherine T. Struve and R. Polk Wagner, 'Realspace Sovereigns in Cyberspace: Problems with the Anticybersquatting Consumer Protection Act' https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/berktech17&id=1019&men_tab=srchresults
+
+
 
 **_Cable News network LP v Cnnnews.com 56 Fed. Appx._ 559 (4th Cir 2003)**
 
@@ -114,7 +154,11 @@ The United States (US) _Anti-Cybersquating Protection Act_ establishes that the 
 
 ## Choice of Law
 
-Once a court has determined whether it has personal and subject matter jurisdiction, it must decide whether the laws of that state or another country should be applied to proceedings. The rules that courts use to determine which laws should apply are known as choice of law rules.((Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 90 ff)) The primary legal question for the choice of law issue is: _which law governs the dispute?_ Different choice of law rules apply to different bodies of law.
+Once a court has determined whether it has personal and subject matter jurisdiction, it must decide whether the laws of that state or another country should be applied to proceedings. The rules that courts use to determine which laws should apply are known as choice of law rules.[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201190ffAUTOREPLACED]
+
+[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201190ffAUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 90 ff
+
+ The primary legal question for the choice of law issue is: _which law governs the dispute?_ Different choice of law rules apply to different bodies of law.
 
 ### Contract Law
 
@@ -132,15 +176,35 @@ As explained above, the _lex loci delicti rule_ applies to torts law. Double act
 
 ## Choice of Forum
 
-Even if a court has personal and subject matter jurisdiction in proceedings, and the laws of that forum will apply to proceedings (based on choice of law rules), a court may still decline to exercise jurisdiction on the basis that the court is not the "appropriate forum"((Voth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538)) to exercise jurisdiction.((Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 126 ff)) The principle that a court may decline to exercise jurisdiction is know as 'forum non conveniens'.
+Even if a court has personal and subject matter jurisdiction in proceedings, and the laws of that forum will apply to proceedings (based on choice of law rules), a court may still decline to exercise jurisdiction on the basis that the court is not the "appropriate forum"[^AUTOREPLACEDVothvManildraFlourMillsPtyLtd1990171CLR538AUTOREPLACED]
+
+[^AUTOREPLACEDVothvManildraFlourMillsPtyLtd1990171CLR538AUTOREPLACED]: Voth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538
+
+ to exercise jurisdiction.[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited2011126ffAUTOREPLACED]
+
+[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited2011126ffAUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 126 ff
+
+ The principle that a court may decline to exercise jurisdiction is know as 'forum non conveniens'.
 
 ### Declining Jurisdiction - 'Forum Non Conveniens'
 
 **Video Overview by [Rita Matulionyte](https://www.youtube.com/watch?v=7CGvluwxsKY)** and **[Cameron Martin](https://www.youtube.com/watch?v=8KrtqFaQbn4)**
 
-Courts can deny jurisdiction based on the “clearly inappropriate forum” or "Voth"((Voth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538)) test. The High Court in Voth rejected the "more appropriate forum" in favour of the "clearly inappropriate forum" primarily to minimise the extent that courts have to make value judgments about courts and conceptions of justice in foreign jurisdictions.((Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 127 ff))  
+Courts can deny jurisdiction based on the “clearly inappropriate forum” or "Voth"[^AUTOREPLACEDVothvManildraFlourMillsPtyLtd1990171CLR538AUTOREPLACED]
 
-Facts that a court can take into consideration when apply the Voth test follow:((Spillasa Maritime Corp v Cansulex Ltd))
+[^AUTOREPLACEDVothvManildraFlourMillsPtyLtd1990171CLR538AUTOREPLACED]: Voth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538
+
+ test. The High Court in Voth rejected the "more appropriate forum" in favour of the "clearly inappropriate forum" primarily to minimise the extent that courts have to make value judgments about courts and conceptions of justice in foreign jurisdictions.[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited2011127ffAUTOREPLACED]
+
+[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited2011127ffAUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 127 ff
+
+  
+
+Facts that a court can take into consideration when apply the Voth test follow:[^AUTOREPLACEDSpillasaMaritimeCorpvCansulexLtdAUTOREPLACED]
+
+[^AUTOREPLACEDSpillasaMaritimeCorpvCansulexLtdAUTOREPLACED]: Spillasa Maritime Corp v Cansulex Ltd
+
+
 
 * Connection between the chosen forum and the subject matter or parties;
 * Forum provides a legitimate and substantial juridical advantage to the plaintiff;

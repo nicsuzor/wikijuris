@@ -52,7 +52,11 @@ A Registrant can obtain a domain name in the .com.au, .net.au, .org.au and .asn.
 
 **“Close and Substantial Connection”**
 
-A Registrant may obtain a domain name licence for a name that has a close and substantial connection with the Registrant.((See Clause 10 of Guidelines for Accredited Registrars on the Interpretation of Policy Rules for Open 2LDs (2008-06) at http://www.auda.org.au/policies/auda-2008-06/)) This requirement was introduced in 2002. For .com.au and .net.au domain names, a “close and substantial connection” with the Registrant may be established where the name refers to:
+A Registrant may obtain a domain name licence for a name that has a close and substantial connection with the Registrant.[^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED]
+
+[^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED]: See Clause 10 of Guidelines for Accredited Registrars on the Interpretation of Policy Rules for Open 2LDs (2008-06) at http://www.auda.org.au/policies/auda-2008-06/
+
+ This requirement was introduced in 2002. For .com.au and .net.au domain names, a “close and substantial connection” with the Registrant may be established where the name refers to:
 
 * a product that the Registrant manufactures or sells;
 * a service the Registrant provides;
@@ -126,7 +130,11 @@ Where the second registrant can establish a right and legitimate interest in the
 ### Domain Name Disputes in Australia
 
 Administrative dispute resolution procedures based on the UDRP have been adopted by the administrators of many ccTLDs, including the .au ccTLD. The .au Domain Administration (AuDA) board((Current auDRP proceedings are available at http://www.auda.org.au/audrp/current-proceedings/. Archived proceedings can be accessed at http://www.auda.org.au/audrp/proceedings-archive/.
-)) approved the //Dispute Resolution Working Party Report// (June 2001) recommendations for a dispute resolution policy. It adopted the AuDRP, which is based on the UDRP, and applies to all .au subdomains. The auDRP commenced on 1 August 2002.((http://www.auda.org.au/policy/audrp)) The AuDRP provides for cheaper, faster alternatives to litigation for resolution of disputes between a registrant and another party who claims to have rights to the domain name. Complaints are submitted to any auDA-approved dispute resolution providers and are heard by a panel of either 1 or 3 providers. Providers, each who have their own rules, include:
+)) approved the //Dispute Resolution Working Party Report// (June 2001) recommendations for a dispute resolution policy. It adopted the AuDRP, which is based on the UDRP, and applies to all .au subdomains. The auDRP commenced on 1 August 2002.[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED]
+
+[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED]: http://www.auda.org.au/policy/audrp
+
+ The AuDRP provides for cheaper, faster alternatives to litigation for resolution of disputes between a registrant and another party who claims to have rights to the domain name. Complaints are submitted to any auDA-approved dispute resolution providers and are heard by a panel of either 1 or 3 providers. Providers, each who have their own rules, include:
   * Leading Edge ADR (LEADR)
   * Chartered Institute of Arbitrators (CIArb)
   * Institute of Arbitrators & Mediators Aust (IAMA)
@@ -201,7 +209,11 @@ Issues also arise in online trade mark infringement cases, as some websites may 
 
 **Robert Tranent Explains [Cybersquatting and Applicable Remedies Under the auDRP](https://www.youtube.com/watch?v=YHcpQpF2LVc)**
 
-In Australia the mere registration of a domain name does not constitute use (and therefore infringement) of a trade mark. There are no reported Australian cases in which a domain name has been held to have infringed a registered trade mark under s 120 of the Trade Marks Act 1995. It is at least theoretically possible for a .au domain name to infringe a registered trade mark((see CSR Ltd v Resource Capital Australia Pty Ltd [2003] FCA 279)). The Advisory Council on Intellectual Property (ACIP) commented in its 2004 issues paper, //A review of the relationship between trade marks and business names, company names and domain names //
+In Australia the mere registration of a domain name does not constitute use (and therefore infringement) of a trade mark. There are no reported Australian cases in which a domain name has been held to have infringed a registered trade mark under s 120 of the Trade Marks Act 1995. It is at least theoretically possible for a .au domain name to infringe a registered trade mark[^AUTOREPLACEDseeCSRLtdvResourceCapitalAustraliaPtyLtd2003FCA279AUTOREPLACED]
+
+[^AUTOREPLACEDseeCSRLtdvResourceCapitalAustraliaPtyLtd2003FCA279AUTOREPLACED]: see CSR Ltd v Resource Capital Australia Pty Ltd [2003] FCA 279
+
+. The Advisory Council on Intellectual Property (ACIP) commented in its 2004 issues paper, //A review of the relationship between trade marks and business names, company names and domain names //
 
 >"Registered trade mark infringement may occur where a domain name is registered in good faith, where the words in the domain name are identical with, substantially identical with or deceptively similar to a registered trade mark, and where the domain name is connected with a website concerned with trading in the same goods or services, or goods or services of the same description as those in relation to which the trade mark is registered."
 

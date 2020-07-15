@@ -14,14 +14,14 @@ parent: ausip
 Broadly stated genetic resources contain biological materials such as genes or molecular material. Think plants, animals and microbes.
 The World Intellectual Property Organization (//WIPO//) defines genetic resources as:
 
-… genetic material of actual or potential value. Genetic material is any material of plant, animal, microbial or other origin containing functional units of heredity. Examples include material of plant, animal, or microbial origin, such as medicinal plants, agricultural crops and animal breeds. [^REPLACEMEhttpswwwwipointtkengeneticENDREPLACE]
-[^REPLACEMEhttpswwwwipointtkengeneticENDREPLACE]: https://www.wipo.int/tk/en/genetic/
+… genetic material of actual or potential value. Genetic material is any material of plant, animal, microbial or other origin containing functional units of heredity. Examples include material of plant, animal, or microbial origin, such as medicinal plants, agricultural crops and animal breeds. [^AUTOREPLACEDhttpswwwwipointtkengeneticENDREPLACE]
+[^AUTOREPLACEDhttpswwwwipointtkengeneticENDREPLACE]: https://www.wipo.int/tk/en/genetic/
 
 
-For millennia, genetic resources were the ‘common heritage of mankind’ [^REPLACEMESeeforexampleJamesOdekBiopiracycreatingproprietaryrightsinplantgeneticresourcesJIntellPropL21994141PaulGeptsWhoownsbiodiversityandhowshouldtheownersbecompensatedPlantphysiology1344200412951307ENDREPLACE]
-[^REPLACEMESeeforexampleJamesOdekBiopiracycreatingproprietaryrightsinplantgeneticresourcesJIntellPropL21994141PaulGeptsWhoownsbiodiversityandhowshouldtheownersbecompensatedPlantphysiology1344200412951307ENDREPLACE]: See, for example, James Odek, ‘Bio-piracy: creating proprietary rights in plant genetic resources’ J. Intell. Prop. L. 2 (1994): 141; Paul Gepts, ‘Who owns biodiversity, and how should the owners be compensated?’ Plant physiology 134.4 (2004): 1295-1307
-.  This meant that discoveries and innovations based on genetic resources often did not result in benefits returning to those communities or countries providing the material. Instead, genetic resources have regularly been a source of research and development in pharmaceutical, agricultural, cosmetic and food industries. For example, the wild rosy periwinkle from Madagascar has been used in (patented) cancer treating drugs, and the 1990s are known, in IP circles, for the neem and turmeric patent ‘controversies’ in both Europe and the United States [^REPLACEMEForexampleapatentgrantedfortheuseofturmericforwoundhealingwaswithdrawnbytheUnitedStatesPatentandTrademarkOfficein1997andtheEuropeanPatentOfficewithdrewapatentforanantifungalproductderivedfromneemin2000ENDREPLACE]
-[^REPLACEMEForexampleapatentgrantedfortheuseofturmericforwoundhealingwaswithdrawnbytheUnitedStatesPatentandTrademarkOfficein1997andtheEuropeanPatentOfficewithdrewapatentforanantifungalproductderivedfromneemin2000ENDREPLACE]: For example, a patent granted for the use of turmeric for wound healing was withdrawn by the United States Patent and Trademark Office in 1997, and the European Patent Office withdrew a patent for an anti-fungal product derived from neem in 2000
+For millennia, genetic resources were the ‘common heritage of mankind’ [^AUTOREPLACEDSeeforexampleJamesOdekBiopiracycreatingproprietaryrightsinplantgeneticresourcesJIntellPropL21994141PaulGeptsWhoownsbiodiversityandhowshouldtheownersbecompensatedPlantphysiology1344200412951307ENDREPLACE]
+[^AUTOREPLACEDSeeforexampleJamesOdekBiopiracycreatingproprietaryrightsinplantgeneticresourcesJIntellPropL21994141PaulGeptsWhoownsbiodiversityandhowshouldtheownersbecompensatedPlantphysiology1344200412951307ENDREPLACE]: See, for example, James Odek, ‘Bio-piracy: creating proprietary rights in plant genetic resources’ J. Intell. Prop. L. 2 (1994): 141; Paul Gepts, ‘Who owns biodiversity, and how should the owners be compensated?’ Plant physiology 134.4 (2004): 1295-1307
+.  This meant that discoveries and innovations based on genetic resources often did not result in benefits returning to those communities or countries providing the material. Instead, genetic resources have regularly been a source of research and development in pharmaceutical, agricultural, cosmetic and food industries. For example, the wild rosy periwinkle from Madagascar has been used in (patented) cancer treating drugs, and the 1990s are known, in IP circles, for the neem and turmeric patent ‘controversies’ in both Europe and the United States [^AUTOREPLACEDForexampleapatentgrantedfortheuseofturmericforwoundhealingwaswithdrawnbytheUnitedStatesPatentandTrademarkOfficein1997andtheEuropeanPatentOfficewithdrewapatentforanantifungalproductderivedfromneemin2000ENDREPLACE]
+[^AUTOREPLACEDForexampleapatentgrantedfortheuseofturmericforwoundhealingwaswithdrawnbytheUnitedStatesPatentandTrademarkOfficein1997andtheEuropeanPatentOfficewithdrewapatentforanantifungalproductderivedfromneemin2000ENDREPLACE]: For example, a patent granted for the use of turmeric for wound healing was withdrawn by the United States Patent and Trademark Office in 1997, and the European Patent Office withdrew a patent for an anti-fungal product derived from neem in 2000
 .
 
 Perhaps the best way to illustrate some of the ways in which genetic resources and intellectual property interact is through examples:
@@ -44,8 +44,8 @@ Entering into force in 1993, the CBD (Art. 1) has three objectives:
   - Sustainable use of its components; and
   - Fair and equitable sharing of the benefits arising from the use of genetic resources.
 
-As of 1 February 2019, there were 196 parties to the CBD [^REPLACEMEForaListofPartiesseehttpswwwcbdintinformationpartiesshtmlENDREPLACE]
-[^REPLACEMEForaListofPartiesseehttpswwwcbdintinformationpartiesshtmlENDREPLACE]: For a List of Parties see https://www.cbd.int/information/parties.shtml
+As of 1 February 2019, there were 196 parties to the CBD [^AUTOREPLACEDForaListofPartiesseehttpswwwcbdintinformationpartiesshtmlENDREPLACE]
+[^AUTOREPLACEDForaListofPartiesseehttpswwwcbdintinformationpartiesshtmlENDREPLACE]: For a List of Parties see https://www.cbd.int/information/parties.shtml
 .
 
 In addition to the Convention itself, there are a range of supplementary protocols and guidelines that address issues and help with the implementation of the CBD.
@@ -62,8 +62,8 @@ In accordance with the precautionary approach contained in Principle 15 of the R
 
 In 2002, the voluntary Bonn Guidelines were developed to represent best practices for biodiscovery. The Bonn Guidelines provide the basis for national laws on biodiscovery.
 
-In Australia, for example, a number of states and territories have incorporated these Guidelines in various pieces of legislation and regulation. For information about the raft of approaches to biodiversity in Australia see the Department of Environment and Energy website, //Access to biological resources in States and Territories// [^REPLACEMEhttpwwwenvironmentgovautopicsscienceandresearchaustraliasbiologicalresourcesaccessbiologicalresourcesstatesandENDREPLACE]
-[^REPLACEMEhttpwwwenvironmentgovautopicsscienceandresearchaustraliasbiologicalresourcesaccessbiologicalresourcesstatesandENDREPLACE]: http://www.environment.gov.au/topics/science-and-research/australias-biological-resources/access-biological-resources-states-and
+In Australia, for example, a number of states and territories have incorporated these Guidelines in various pieces of legislation and regulation. For information about the raft of approaches to biodiversity in Australia see the Department of Environment and Energy website, //Access to biological resources in States and Territories// [^AUTOREPLACEDhttpwwwenvironmentgovautopicsscienceandresearchaustraliasbiologicalresourcesaccessbiologicalresourcesstatesandENDREPLACE]
+[^AUTOREPLACEDhttpwwwenvironmentgovautopicsscienceandresearchaustraliasbiologicalresourcesaccessbiologicalresourcesstatesandENDREPLACE]: http://www.environment.gov.au/topics/science-and-research/australias-biological-resources/access-biological-resources-states-and
 
 
 ### The Nagoya Protocol
@@ -92,8 +92,8 @@ The ITPGR’s objectives are:
 
 To achieve its objectives, the ITPGR established a Multilateral System that:
 
-…puts 64 of our most important crops – crops that together account for 80 percent of the food we derive from plants – into an easily accessible global pool of genetic resources that is freely available to potential users in the Treaty’s ratifying nations for some uses.[^REPLACEMEhttpwwwfaoorgplanttreatyareasofworkthemultilateralsystemoverviewenENDREPLACE]
-[^REPLACEMEhttpwwwfaoorgplanttreatyareasofworkthemultilateralsystemoverviewenENDREPLACE]: http://www.fao.org/plant-treaty/areas-of-work/the-multilateral-system/overview/en/
+…puts 64 of our most important crops – crops that together account for 80 percent of the food we derive from plants – into an easily accessible global pool of genetic resources that is freely available to potential users in the Treaty’s ratifying nations for some uses.[^AUTOREPLACEDhttpwwwfaoorgplanttreatyareasofworkthemultilateralsystemoverviewenENDREPLACE]
+[^AUTOREPLACEDhttpwwwfaoorgplanttreatyareasofworkthemultilateralsystemoverviewenENDREPLACE]: http://www.fao.org/plant-treaty/areas-of-work/the-multilateral-system/overview/en/
 
 
 Importantly, the 64 crops in the Multilateral System are shared for research, breeding and training for food and agriculture.
@@ -116,16 +116,16 @@ An //SMTA// places obligations on the both plant material provider and recipient
 
 ### Intellectual property protection and the ITPGR
 
-The //ITPGR// (and //SMTA//) restrict recipients from claiming intellectual property where the claim would restrict access to the plant materials (and their genetic parts or components) ‘in the form received for use or conservation for research, breeding and training for food and agriculture’ [^REPLACEMEArt123dENDREPLACE]
-[^REPLACEMEArt123dENDREPLACE]: Art. 12.3(d) 
+The //ITPGR// (and //SMTA//) restrict recipients from claiming intellectual property where the claim would restrict access to the plant materials (and their genetic parts or components) ‘in the form received for use or conservation for research, breeding and training for food and agriculture’ [^AUTOREPLACEDArt123dENDREPLACE]
+[^AUTOREPLACEDArt123dENDREPLACE]: Art. 12.3(d) 
 .
 
 So, intellectual property may be claimed over plant material subject to the ITPGR in limited circumstances including:
   * Any materials received so long as access to the materials for research, breeding and training for food and agriculture is allowed (possibly through a non-exclusive license);
   * Any developments over genetic parts or components of the plant materials received.
 
-Importantly, recipients of any plant materials that are already protected by intellectual property must continue to respect those rights [^REPLACEMEArt132bENDREPLACE]
-[^REPLACEMEArt132bENDREPLACE]: Art. 13.2(b) 
+Importantly, recipients of any plant materials that are already protected by intellectual property must continue to respect those rights [^AUTOREPLACEDArt132bENDREPLACE]
+[^AUTOREPLACEDArt132bENDREPLACE]: Art. 13.2(b) 
 .
 
 ## Key Issues Around Genetic Resources and Intellectual Property
@@ -141,20 +141,20 @@ In the remainder of this part of the Chapter we briefly consider three recurring
 Traditional knowledge (TK) possessed by indigenous peoples and local communities is not only important socially and culturally but can also provide insights for innovations and inventions. Sometimes TK is related to genetic resources. For example, a plant or its properties may have therapeutic or cosmetic effects.
 
 TK is a contentious issue for many, and over the years it has proven difficult achieving consensus on key issues including the nature and scope of TK and the way in which it should and can be safeguarded.
-One of the key organisation working in this area is the World Intellectual Property Organization. With WIPO’s Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore (IGC), considering three related texts addressing genetic resources (GRs), traditional knowledge (TK) and traditional cultural expressions and expressions of folklore (TCEs). [^REPLACEMESeehttpswwwwipointtkenigcENDREPLACE]
-[^REPLACEMESeehttpswwwwipointtkenigcENDREPLACE]: See https://www.wipo.int/tk/en/igc/
+One of the key organisation working in this area is the World Intellectual Property Organization. With WIPO’s Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore (IGC), considering three related texts addressing genetic resources (GRs), traditional knowledge (TK) and traditional cultural expressions and expressions of folklore (TCEs). [^AUTOREPLACEDSeehttpswwwwipointtkenigcENDREPLACE]
+[^AUTOREPLACEDSeehttpswwwwipointtkenigcENDREPLACE]: See https://www.wipo.int/tk/en/igc/
 
 
 In terms of the conventions and treaties discussed above, there are some explicit and implicit references to TK.
 
 |CBD| Most notably Art. 8(j) of the //CBD// requires that: Subject to its national legislation, respect, preserve and maintain knowledge, innovations and practices of indigenous and local communities embodying traditional lifestyles relevant for the conservation and sustainable use of biological diversity and promote their wider application with the approval and involvement of the holders of such knowledge, innovations and practices and encourage the equitable sharing of the benefits arising from the utilization of such knowledge, innovations and practices. The //CBD// contains other provisions that deal with the interests of indigenous and local communities including Arts. 10 (c), 15.5, 17.2, and 18.4.|
-|Nagoya Protocol|The preamble to the Nagoya Protocol contains numerous paragraphs relevant to TK. These paragraphs include references to Article 8(j) of the //CBD//, the interrelationship between genetic resources and TK, the diversity of circumstances in which TK is owned, and the Declaration on the rights of Indigenous Peoples. The Protocol also contains significant provisions relating to TK associated with genetic resources held by indigenous and local communities. For example, the Protocol sets out obligations to seek the prior informed consent of indigenous and local communities in these situations [^REPLACEMEArt155ENDREPLACE]
-[^REPLACEMEArt155ENDREPLACE]: Art. 15(5) 
-. It also provides for the sharing of benefits arising from the use of TK associated with genetic resources [^REPLACEMEPreambleArts18j157ENDREPLACE]
-[^REPLACEMEPreambleArts18j157ENDREPLACE]: Preamble, Arts 1, 8(j),15(7) 
+|Nagoya Protocol|The preamble to the Nagoya Protocol contains numerous paragraphs relevant to TK. These paragraphs include references to Article 8(j) of the //CBD//, the interrelationship between genetic resources and TK, the diversity of circumstances in which TK is owned, and the Declaration on the rights of Indigenous Peoples. The Protocol also contains significant provisions relating to TK associated with genetic resources held by indigenous and local communities. For example, the Protocol sets out obligations to seek the prior informed consent of indigenous and local communities in these situations [^AUTOREPLACEDArt155ENDREPLACE]
+[^AUTOREPLACEDArt155ENDREPLACE]: Art. 15(5) 
+. It also provides for the sharing of benefits arising from the use of TK associated with genetic resources [^AUTOREPLACEDPreambleArts18j157ENDREPLACE]
+[^AUTOREPLACEDPreambleArts18j157ENDREPLACE]: Preamble, Arts 1, 8(j),15(7) 
 .|
-|ITPGR|The //ITPGR// calls for the protection of TK of farmers, as well as increasing farmers participation in national decision-making processes and ensuring that the benefits from the use of genetic resources be shared with farmers [^REPLACEMEPreambleArts5691213ENDREPLACE]
-[^REPLACEMEPreambleArts5691213ENDREPLACE]: Preamble, Arts. 5, 6, 9, 12, 13
+|ITPGR|The //ITPGR// calls for the protection of TK of farmers, as well as increasing farmers participation in national decision-making processes and ensuring that the benefits from the use of genetic resources be shared with farmers [^AUTOREPLACEDPreambleArts5691213ENDREPLACE]
+[^AUTOREPLACEDPreambleArts5691213ENDREPLACE]: Preamble, Arts. 5, 6, 9, 12, 13
 .|
 
 ### Disclosure Requirements
@@ -226,14 +226,14 @@ Consequently, the perception of added legality and bureaucracy that legal instru
 
 For example, in 1996, the United Nations Conference on Trade and Development (//UNCTAD//) introduced the BioTrade Initiative to support sustainable trade in a way that is consistent with the objectives of the //CBD//. See https://unctad.org/en/pages/ditc/trade-and-environment/biotrade.aspx
 
-BioTrade refers to those activities of collection, production, transformation, and commercialization of goods and services derived from native biodiversity under the criteria of environmental, social and economic sustainability [^REPLACEMEhttpsunctadorgenpagesditctradeandenvironmentbiotradeaspxENDREPLACE]
-[^REPLACEMEhttpsunctadorgenpagesditctradeandenvironmentbiotradeaspxENDREPLACE]: https://unctad.org/en/pages/ditc/trade-and-environment/biotrade.aspx
+BioTrade refers to those activities of collection, production, transformation, and commercialization of goods and services derived from native biodiversity under the criteria of environmental, social and economic sustainability [^AUTOREPLACEDhttpsunctadorgenpagesditctradeandenvironmentbiotradeaspxENDREPLACE]
+[^AUTOREPLACEDhttpsunctadorgenpagesditctradeandenvironmentbiotradeaspxENDREPLACE]: https://unctad.org/en/pages/ditc/trade-and-environment/biotrade.aspx
 .
 
 BioTrade serves an important role in this context. It emphasises balancing and accommodating trade and development with biodiversity and sustainability. In this way, BioTrade can fill a void in public legal frameworks, by attempting to facilitate change not solely via direct regulation or enforcement, but by encouraging complementary private-driven measures to supplement transnational approaches.
 
 In 2017, //UNCTAD// published 20 years of BioTrade which outlines some of the key initiatives of BioTrade. Looking to the future, Executive Secretary of the Convention on Biological Diversity made it clear that:
 
-“taking steps to strengthen markets for BioTrade and putting in place supportive policies would help leverage the contribution that BioTrade can make to meeting the objectives of the [CBD]” [^REPLACEMEhttpsunctadorgenpagesPublicationWebflyeraspxpublicationid1765ENDREPLACE]
-[^REPLACEMEhttpsunctadorgenpagesPublicationWebflyeraspxpublicationid1765ENDREPLACE]: https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1765
+“taking steps to strengthen markets for BioTrade and putting in place supportive policies would help leverage the contribution that BioTrade can make to meeting the objectives of the [CBD]” [^AUTOREPLACEDhttpsunctadorgenpagesPublicationWebflyeraspxpublicationid1765ENDREPLACE]
+[^AUTOREPLACEDhttpsunctadorgenpagesPublicationWebflyeraspxpublicationid1765ENDREPLACE]: https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1765
 .

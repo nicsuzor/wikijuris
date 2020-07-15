@@ -13,23 +13,23 @@ The //Copyright Act 1968// (Cth) (//CA//) introduced new categories of subject m
 
 The content protected by Part IV is known as "subject matter other than works" or, more succinctly, "other subject matter" This subject matter includes:
 
-* Sound recordings; [^REPLACEMECAs89ENDREPLACE]
-[^REPLACEMECAs89ENDREPLACE]: //CA// s 89
+* Sound recordings; [^AUTOREPLACEDCAs89ENDREPLACE]
+[^AUTOREPLACEDCAs89ENDREPLACE]: //CA// s 89
 
-* Cinematograph films; [^REPLACEMECAs90ENDREPLACE]
-[^REPLACEMECAs90ENDREPLACE]: //CA// s 90
+* Cinematograph films; [^AUTOREPLACEDCAs90ENDREPLACE]
+[^AUTOREPLACEDCAs90ENDREPLACE]: //CA// s 90
 
-* Television and sound broadcasts; [^REPLACEMECAs91ENDREPLACE]
-[^REPLACEMECAs91ENDREPLACE]: //CA// s 91
+* Television and sound broadcasts; [^AUTOREPLACEDCAs91ENDREPLACE]
+[^AUTOREPLACEDCAs91ENDREPLACE]: //CA// s 91
  and
-* Published editions of works. [^REPLACEMECAs92ENDREPLACE]
-[^REPLACEMECAs92ENDREPLACE]: //CA// s 92
+* Published editions of works. [^AUTOREPLACEDCAs92ENDREPLACE]
+[^AUTOREPLACEDCAs92ENDREPLACE]: //CA// s 92
 
 
 For these subject matter, there is no requirement of originality. Rights are granted to the "makers" of these subject matter. The terminology for the creator is different in Part III and IV - the creators of Part III works are called "authors" and the creators of Part IV subject matter are called "makers".
 
-Copyright in Part IV subject matter is "in addition to, and independent of" any copyright subsisting in the work under Part III. [^REPLACEMECAs1131ENDREPLACE]
-[^REPLACEMECAs1131ENDREPLACE]: //CA// s 113(1) 
+Copyright in Part IV subject matter is "in addition to, and independent of" any copyright subsisting in the work under Part III. [^AUTOREPLACEDCAs1131ENDREPLACE]
+[^AUTOREPLACEDCAs1131ENDREPLACE]: //CA// s 113(1) 
  Thus, a single item may have many layers of copyright. For example, a recording of a song will have copyright protection in the underlying musical work (the musical notation), literary work (the lyrics), as well as copyright in the actual sound recording.
 
 
@@ -39,10 +39,10 @@ Copyright in Part IV subject matter is "in addition to, and independent of" any 
 
 ## Sound Recordings
 
-Copyright in sound recordings subsists by virtue of s 89 of the //Copyright Act//. "Sound recording" is defined in s 10 as "the aggregate of the sounds embodied in a record". [^REPLACEMECAs10ENDREPLACE]
-[^REPLACEMECAs10ENDREPLACE]: //CA// s 10
- "Record", in turn, is defined to mean "a disc, tape, paper or other device in which sounds are embodied". [^REPLACEMECAs10ENDREPLACE]
-[^REPLACEMECAs10ENDREPLACE]: //CA// s 10
+Copyright in sound recordings subsists by virtue of s 89 of the //Copyright Act//. "Sound recording" is defined in s 10 as "the aggregate of the sounds embodied in a record". [^AUTOREPLACEDCAs10ENDREPLACE]
+[^AUTOREPLACEDCAs10ENDREPLACE]: //CA// s 10
+ "Record", in turn, is defined to mean "a disc, tape, paper or other device in which sounds are embodied". [^AUTOREPLACEDCAs10ENDREPLACE]
+[^AUTOREPLACEDCAs10ENDREPLACE]: //CA// s 10
  This definition is designed to be technology neutral and covers CDs, DVDs, electronic files etc.
 
 
@@ -58,18 +58,18 @@ Section 90 of the //Act// provides for the subsistence of copyright in cinematog
 
 (b) of being embodied in another article or thing by the use of which it can be so shown;
 
-This includes the aggregate of the sounds embodied in a sound track associated with such visual images". [^REPLACEMEs101ENDREPLACE]
-[^REPLACEMEs101ENDREPLACE]: s 10(1) 
+This includes the aggregate of the sounds embodied in a sound track associated with such visual images". [^AUTOREPLACEDs101ENDREPLACE]
+[^AUTOREPLACEDs101ENDREPLACE]: s 10(1) 
 
 
 The means by which a "moving picture" is produced is not relevant in determining whether the end result is a “film”.
 
 
 
-__//Sega Enterprises Ltd v Galaxy Electronics Pty Ltd//;__ [^REPLACEME1996FCA761ENDREPLACE]
-[^REPLACEME1996FCA761ENDREPLACE]: [1996] FCA 761
- __//Galaxy Electronics Pty Ltd v Sega Enterprises Ltd//__ [^REPLACEME1997FCA403ENDREPLACE]
-[^REPLACEME1997FCA403ENDREPLACE]: [1997] FCA 403
+__//Sega Enterprises Ltd v Galaxy Electronics Pty Ltd//;__ [^AUTOREPLACED1996FCA761ENDREPLACE]
+[^AUTOREPLACED1996FCA761ENDREPLACE]: [1996] FCA 761
+ __//Galaxy Electronics Pty Ltd v Sega Enterprises Ltd//__ [^AUTOREPLACED1997FCA403ENDREPLACE]
+[^AUTOREPLACED1997FCA403ENDREPLACE]: [1997] FCA 403
 
 
 In the cases [Sega Enterprises Ltd v Galaxy Electronics Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1996/761.html) and [Galaxy Electronics Pty Ltd v Sega Enterprises Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1997/403.html) Sega wanted to stop parallel imports of its video games.  As there is no restriction on importing non-infringing computer programs, Sega argued that the games were "films".
@@ -109,8 +109,8 @@ A key aspect of the concept of broadcasting, which is apparent in the definition
 
 
 
-__//Telstra Corp Ltd v Australasian Performing Right Association Ltd//__ [^REPLACEME1997191CLR140ENDREPLACE]
-[^REPLACEME1997191CLR140ENDREPLACE]:  (1997) 191 CLR 140
+__//Telstra Corp Ltd v Australasian Performing Right Association Ltd//__ [^AUTOREPLACED1997191CLR140ENDREPLACE]
+[^AUTOREPLACED1997191CLR140ENDREPLACE]:  (1997) 191 CLR 140
 
 
 In the case of[Telstra Corp Ltd v Australasian Performing Right Association Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/1997/41.html) APRA argued that when Telstra played music on hold to subscribers, it was broadcasting that music to the public.
@@ -123,8 +123,8 @@ It was held that music on hold played to individual callers was considered to be
 **Video overview by Thomas Gardner on [Telstra Corp Ltd v Australasian Performing Right Association Ltd](https://www.youtube.com/watch?v=WRUtG398Ygw).**
 
 
-__//Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")//__ [^REPLACEME2004218CLR273ENDREPLACE]
-[^REPLACEME2004218CLR273ENDREPLACE]:  (2004) 218 CLR 273
+__//Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")//__ [^AUTOREPLACED2004218CLR273ENDREPLACE]
+[^AUTOREPLACED2004218CLR273ENDREPLACE]:  (2004) 218 CLR 273
 
 
 In the High Court of Australia case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/2004/14.html) Network Ten had a variety show called The Panel, which broadcast clips taken from other networks. A panel of commentators then provided (often humorous) commentary on the clips. The Panel used several short clips taken from Channel Nine. Nine sued under right to rebroadcast.
@@ -153,8 +153,8 @@ Section 92 of the //Copyright Act// provides that "copyright subsists in a publi
 
 The published edition copyright protects the layout and formatting of printed pages. For example, the precise layout and formatting of newspaper pages will attract separate copyright protection than the underlying literary and artistic works forming the actual newspaper articles.
 
-This type of protection was only introduced with the //Copyright Act 1968//, as such, there is no copyright protection afforded to published editions of books published before 1968. [^REPLACEMECAs224ENDREPLACE]
-[^REPLACEMECAs224ENDREPLACE]: //CA// s 224
+This type of protection was only introduced with the //Copyright Act 1968//, as such, there is no copyright protection afforded to published editions of books published before 1968. [^AUTOREPLACEDCAs224ENDREPLACE]
+[^AUTOREPLACEDCAs224ENDREPLACE]: //CA// s 224
 
 
 

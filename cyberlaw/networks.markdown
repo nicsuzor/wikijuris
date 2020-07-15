@@ -36,7 +36,11 @@ The challenge of regulating the internet is finding an effective way to either i
 
 **[Overview of Newzbin by Nic Suzor](https://www.youtube.com/watch?v=z8Ph8eO26q4)**
 
-While the internet is not unregulable, there are unique challenges facing regulators. The case of Newzbin, which was a popular Usenet indexing site, is one example from the fight against copyright infringement. Dubbed 'the Google of usenet' by the Motion Picture Association of America (MPAA), copyright owner groups sought to shut down the service that allowed others to easily find copyright films and other works. In a 2010 Decision, the High Court in the United Kingdom (UK) found Newzbin liable for copyright infringement, and the company was wound up and their website shut down.(([Twentieth Century Fox Film Corporation v Newzbin Limited [2010] EWHC 608 (Ch)](http://www.bailii.org/ew/cases/EWHC/Ch/2010/608.html)))
+While the internet is not unregulable, there are unique challenges facing regulators. The case of Newzbin, which was a popular Usenet indexing site, is one example from the fight against copyright infringement. Dubbed 'the Google of usenet' by the Motion Picture Association of America (MPAA), copyright owner groups sought to shut down the service that allowed others to easily find copyright films and other works. In a 2010 Decision, the High Court in the United Kingdom (UK) found Newzbin liable for copyright infringement, and the company was wound up and their website shut down.[^AUTOREPLACEDTwentiethCenturyFoxFilmCorporationvNewzbinLimited2010EWHC608ChhttpwwwbailiiorgewcasesEWHCCh2010608htmlAUTOREPLACED]
+
+[^AUTOREPLACEDTwentiethCenturyFoxFilmCorporationvNewzbinLimited2010EWHC608ChhttpwwwbailiiorgewcasesEWHCCh2010608htmlAUTOREPLACED]: [Twentieth Century Fox Film Corporation v Newzbin Limited [2010] EWHC 608 (Ch)](http://www.bailii.org/ew/cases/EWHC/Ch/2010/608.html
+
+)
 
 Two weeks later, Newzbin2 rose from the ashes. Someone had copied the entire codebase of the old site and brought it back online on a server in the Seychelles, an archipelago of islands outside of UK jurisdiction. The MPAA went back to court, this time seeking an injunction that would require UK-based ISPs to block access to the website. The Court granted this order, marking an expansion of laws that were originally designed to block websites that hosted child sexual abuse material: [Twentieth Century Fox Film Corporation v British Telecommunications PLC](http://www.bailii.org/ew/cases/EWHC/Ch/2011/1981.html) [2011] EWHC 1981 (Ch).
 
@@ -52,8 +56,20 @@ The second claim that Barlow makes in his Declaration is that state governments 
 
 >"We believe that from ethics, enlightened self-interest, and the commonweal, our governance will emerge."
 
-Barlow's argument is that the rules and social norms created by online communities to govern themselves will be better than anything imposed by territorial states. This was expressed by Johnson and Post in a famous 1995 article as a general principle that there is “no geographically localized set of constituents with a strong and more legitimate claim to regulate [online activities]” than the members of the communities themselves.((David Johnson and David Post, ‘Law and Borders--The Rise of Law in Cyberspace’ (1995) 48 Stanford Law Review 1367, 1375)) In addition to arguing that online communities should be able to govern for themselves, Barlow and Johnson and Post asserted that if territorial governments try to impose their own laws on a borderless internet, users will never be able to work out what set of rules they are subject to. The consequence of governments attempting to prevent online communities from regulating themselves, according to Post, would be:((Post, 'Governing Cyberspace: Law' (2008) http://www.academia.edu/2720975/Governing_Cyberspace_Law))
+Barlow's argument is that the rules and social norms created by online communities to govern themselves will be better than anything imposed by territorial states. This was expressed by Johnson and Post in a famous 1995 article as a general principle that there is “no geographically localized set of constituents with a strong and more legitimate claim to regulate [online activities]” than the members of the communities themselves.[^AUTOREPLACEDDavidJohnsonandDavidPostLawandBordersTheRiseofLawinCyberspace199548StanfordLawReview13671375AUTOREPLACED]
+
+[^AUTOREPLACEDDavidJohnsonandDavidPostLawandBordersTheRiseofLawinCyberspace199548StanfordLawReview13671375AUTOREPLACED]: David Johnson and David Post, ‘Law and Borders--The Rise of Law in Cyberspace’ (1995) 48 Stanford Law Review 1367, 1375
+
+ In addition to arguing that online communities should be able to govern for themselves, Barlow and Johnson and Post asserted that if territorial governments try to impose their own laws on a borderless internet, users will never be able to work out what set of rules they are subject to. The consequence of governments attempting to prevent online communities from regulating themselves, according to Post, would be:[^AUTOREPLACEDPostGoverningCyberspaceLaw2008httpwwwacademiaedu2720975Governing_Cyberspace_LawAUTOREPLACED]
+
+[^AUTOREPLACEDPostGoverningCyberspaceLaw2008httpwwwacademiaedu2720975Governing_Cyberspace_LawAUTOREPLACED]: Post, 'Governing Cyberspace: Law' (2008) http://www.academia.edu/2720975/Governing_Cyberspace_Law
+
+
 
 > “... the chaotic nonsense of Jurisdictional Whack-a-Mole".
 
-As we will see in the [jurisdiction](Jurisdiction chapter), the legitimacy of any one nation claiming jurisdiction over transnational communications is still a vexed issue. As the Australian High Court noted in the _Dow Jones v Gutnick_((_Dow Jones and Company Inc v Gutnick_ [2002] HCA 56 http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/2002/56.html?stem=0&synonyms=0&query=title(dow%20jones%20and%20gutnick%20)&nocontext=1)) case, nation states purport to have a responsibility to protect their citizens' interests online, and certainly a desire to regulate online content and behaviour.
+As we will see in the [jurisdiction](Jurisdiction chapter), the legitimacy of any one nation claiming jurisdiction over transnational communications is still a vexed issue. As the Australian High Court noted in the _Dow Jones v Gutnick_[^AUTOREPLACED_DowJonesandCompanyIncvGutnick_2002HCA56httpwwwaustliieduaucgibinsinodispaucasescthHCA200256htmlstem0synonyms0querytitledow20jones20and20gutnick20nocontext1AUTOREPLACED]
+
+[^AUTOREPLACED_DowJonesandCompanyIncvGutnick_2002HCA56httpwwwaustliieduaucgibinsinodispaucasescthHCA200256htmlstem0synonyms0querytitledow20jones20and20gutnick20nocontext1AUTOREPLACED]: _Dow Jones and Company Inc v Gutnick_ [2002] HCA 56 http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/2002/56.html?stem=0&synonyms=0&query=title(dow%20jones%20and%20gutnick%20)&nocontext=1
+
+ case, nation states purport to have a responsibility to protect their citizens' interests online, and certainly a desire to regulate online content and behaviour.

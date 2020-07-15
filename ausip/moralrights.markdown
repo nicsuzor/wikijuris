@@ -24,8 +24,8 @@ The philosophy underpinning moral rights is that creators deserve respect integr
 
 **Video overview by Nicolas Suzor on [Moral Rights](https://www.youtube.com/watch?v=Zg_pPoz2BXY&index=6&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
 
-Moral rights were introduced by the Copyright Amendment (Moral Rights) Act 2000 (Cth) which provides that creators are protected from three sources of harm:[^REPLACEMEPartIXoftheCopyrightAct1968CthENDREPLACE]
-[^REPLACEMEPartIXoftheCopyrightAct1968CthENDREPLACE]: Part IX of the //Copyright Act 1968// (Cth) 
+Moral rights were introduced by the Copyright Amendment (Moral Rights) Act 2000 (Cth) which provides that creators are protected from three sources of harm:[^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]
+[^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]: Part IX of the //Copyright Act 1968// (Cth) 
 
 
   * a right of attribution of authorship;
@@ -38,10 +38,10 @@ As noted above, the moral rights were extended in 2004 to include performers.
 
 ### Right of Attribution
 
-The right of attribution requires that an author must be identified where attributable acts are done in respect of the work [^REPLACEMECAs193ENDREPLACE]
-[^REPLACEMECAs193ENDREPLACE]: //CA// s 193
-. The right of attribution is also applied to performers. [^REPLACEMECAs195ABAENDREPLACE]
-[^REPLACEMECAs195ABAENDREPLACE]: //CA// s 195ABA
+The right of attribution requires that an author must be identified where attributable acts are done in respect of the work [^AUTOREPLACEDCAs193ENDREPLACE]
+[^AUTOREPLACEDCAs193ENDREPLACE]: //CA// s 193
+. The right of attribution is also applied to performers. [^AUTOREPLACEDCAs195ABAENDREPLACE]
+[^AUTOREPLACEDCAs195ABAENDREPLACE]: //CA// s 195ABA
 
 
 Creators of copyright material have the right to be attributed when the work is:
@@ -51,25 +51,25 @@ Creators of copyright material have the right to be attributed when the work is:
   * for films: copied, exhibited, communicated.
   * For performances: communicated, staged, or copied.
 
-If a creator has not stated the way in which he or she wishes to be identified, any clear and reasonably prominent form of identification may be used. [^REPLACEMECAss195195ABCENDREPLACE]
-[^REPLACEMECAss195195ABCENDREPLACE]: //CA// ss 195, 195ABC
+If a creator has not stated the way in which he or she wishes to be identified, any clear and reasonably prominent form of identification may be used. [^AUTOREPLACEDCAss195195ABCENDREPLACE]
+[^AUTOREPLACEDCAss195195ABCENDREPLACE]: //CA// ss 195, 195ABC
 
 
-Attribution must be clear and reasonably prominent. [^REPLACEMECAs195AA195ABDENDREPLACE]
-[^REPLACEMECAs195AA195ABDENDREPLACE]: //CA// s 195AA, 195ABD
+Attribution must be clear and reasonably prominent. [^AUTOREPLACEDCAs195AA195ABDENDREPLACE]
+[^AUTOREPLACEDCAs195AA195ABDENDREPLACE]: //CA// s 195AA, 195ABD
 
 
 It is not necessary to attribute the creator if:
 
   * the creator has consented in writing not to be identified; or
-  * it is reasonable in all the circumstances not to identify the author. [^REPLACEMECAss195AR195AXDENDREPLACE]
-[^REPLACEMECAss195AR195AXDENDREPLACE]: //CA// ss 195AR, 195AXD
+  * it is reasonable in all the circumstances not to identify the author. [^AUTOREPLACEDCAss195AR195AXDENDREPLACE]
+[^AUTOREPLACEDCAss195AR195AXDENDREPLACE]: //CA// ss 195AR, 195AXD
 
 
 ### Right against False Attribution
 
-Authors of literary, dramatic, musical and artistic works and films and performers have the right not to have the authorship of their works falsely attributed. [^REPLACEMECAss195AC195AHAENDREPLACE]
-[^REPLACEMECAss195AC195AHAENDREPLACE]: //CA// ss 195AC, 195AHA
+Authors of literary, dramatic, musical and artistic works and films and performers have the right not to have the authorship of their works falsely attributed. [^AUTOREPLACEDCAss195AC195AHAENDREPLACE]
+[^AUTOREPLACEDCAss195AC195AHAENDREPLACE]: //CA// ss 195AC, 195AHA
 
 
 False attribution means:
@@ -83,16 +83,16 @@ It is also an infringement of this right to knowingly deal with or communicate a
 
 ### Right of Integrity
 
-The right of integrity is the right not to have your work subjected to derogatory treatment. [^REPLACEMECAss195AJ195ALBENDREPLACE]
-[^REPLACEMECAss195AJ195ALBENDREPLACE]: //CA// ss 195AJ-195ALB
+The right of integrity is the right not to have your work subjected to derogatory treatment. [^AUTOREPLACEDCAss195AJ195ALBENDREPLACE]
+[^AUTOREPLACEDCAss195AJ195ALBENDREPLACE]: //CA// ss 195AJ-195ALB
 
 
 Derogatory treatment means doing anything that results in a material distortion of, the mutilation of, or a material alteration to, the work that is prejudicial to the author's honour or reputation. It also includes doing anything else in relation to the work that is prejudicial to the author's honour or reputation. In the case of artistic works, exhibiting in a way or place that is prejudicial to the author’s honour or reputation.
 
 It is not clear to what extent the test for whether a derogatory treatment is prejudicial to the author’s honour or reputation takes into account the author’s subjective view, as opposed to an objective test. To date, there have been no cases in Australia to clarify what this might mean.
 
-It is not an infringement if the derogatory treatment or other action was reasonable. [^REPLACEMECAss195ASand195AXEENDREPLACE]
-[^REPLACEMECAss195ASand195AXEENDREPLACE]: //CA// ss 195AS and 195AXE
+It is not an infringement if the derogatory treatment or other action was reasonable. [^AUTOREPLACEDCAss195ASand195AXEENDREPLACE]
+[^AUTOREPLACEDCAss195ASand195AXEENDREPLACE]: //CA// ss 195AS and 195AXE
 
 
 There are special exceptions to infringement of the right of integrity in relation to artistic works (including buildings and architectural drawings).
@@ -140,8 +140,8 @@ As the moral rights are relatively new, no significant body of case law has been
 
 Moral rights are loosely derived from the French system of droit moral. The French authorities are not directly relevant, but may serve as an illustration of the types of treatments which may be found to be derogatory in Australia.
 
-__//Perez & Ors v Fernandez// [^REPLACEME2012FMCA2ENDREPLACE]
-[^REPLACEME2012FMCA2ENDREPLACE]: [2012] FMCA 2
+__//Perez & Ors v Fernandez// [^AUTOREPLACED2012FMCA2ENDREPLACE]
+[^AUTOREPLACED2012FMCA2ENDREPLACE]: [2012] FMCA 2
 __
 
 The case of [Perez & Ors v Fernandez](http://classic.austlii.edu.au/au/cases/cth/FMCA/2012/2.html) involved Perez 'Pitbull', the US-based author of the song “Bon, Bon”. Fernandez, a Perth-based DJ, had planned to host Perez on-tour in Australia, and Perez had recorded a promo referring to and supporting Fernandez 'DJ Suave'.
@@ -156,8 +156,8 @@ The Federal Magistrates Court held that the new recording infringed Perez's righ
     - It was also likely to be prejudicial to an audience who were more familiar with Perez's work, because it mocked Perez and sought to promote Fernandez at Perez's expense.
 Fernandez's use was not reasonable in the circumstances.
 
-__//Schott Musik International GmbH v Colossal Records of Australia// [^REPLACEME199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]
-[^REPLACEME199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]:  (1996) 71 FCR 37 (Carmina Burana case), [1997] FCA 531
+__//Schott Musik International GmbH v Colossal Records of Australia// [^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]
+[^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]:  (1996) 71 FCR 37 (Carmina Burana case), [1997] FCA 531
 __
 
 The case of [Schott Musik International Gmbh v Colossal Records Australia](http://classic.austlii.edu.au/au/cases/cth/FCA/1997/531.html) involved a a techno remix of a classical musical work and questioned whether this remix ‘debased’ the original. Before the introduction of moral rights, Section 55(2) previously prevented a recording artist from obtaining a statutory licence to record a musical work if the adaptation 'debases' the original work.
@@ -183,22 +183,22 @@ The estate of John Huston successfully sought an injunction against a French tel
 - An earlier suit brought in the US failed.
 - Material distortion of his work prejudicial to honour or reputation.
 
-__//Snow v The Eaton Centre Limited// [^REPLACEME198870CPR2d105ENDREPLACE]
-[^REPLACEME198870CPR2d105ENDREPLACE]:  (1988) 70 CPR (2d) 105
+__//Snow v The Eaton Centre Limited// [^AUTOREPLACED198870CPR2d105ENDREPLACE]
+[^AUTOREPLACED198870CPR2d105ENDREPLACE]:  (1988) 70 CPR (2d) 105
 __
 
 A Canadian shopping centre had bought a sculpture of 60 flying geese from the plaintiff. When the shopping centre tied Christmas ribbons around the necks of the geese, Snow applied for an injunction.
 The Ontario High Court ordered that the ribbons be removed, holding that the treatment of the sculpture was prejudicial to Snow's honour or reputation.
 Snow said it was prejudicial to his honour – reducing it to crass advertisement of Christmas.
 
-__//Morrison Leahy Music Limited and another v Lightbond Limited// [^REPLACEME1993EMLR144ENDREPLACE]
-[^REPLACEME1993EMLR144ENDREPLACE]: [1993] E.M.L.R. 144.
+__//Morrison Leahy Music Limited and another v Lightbond Limited// [^AUTOREPLACED1993EMLR144ENDREPLACE]
+[^AUTOREPLACED1993EMLR144ENDREPLACE]: [1993] E.M.L.R. 144.
 __
 
 In 1993, George Michael was granted a preliminary injunction preventing the release of a medley of a number of George Michael's songs. The Court of Appeal in London found that it was arguable that the remix record could constitute derogatory treatment of George Michael's works.
 
-__//Confetti Records v Warner Music// [^REPLACEME2003EWCh1274ch150ENDREPLACE]
-[^REPLACEME2003EWCh1274ch150ENDREPLACE]: [2003] EWCh 1274 (ch) [150]
+__//Confetti Records v Warner Music// [^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]
+[^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]: [2003] EWCh 1274 (ch) [150]
 __
 
 In 2003, the UK High Court found that there was no infringement of moral rights when rap lyrics were recorded over the top of a remix of an original song, at least without any expert evidence as to what the lyrics actually meant.

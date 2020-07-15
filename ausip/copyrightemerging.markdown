@@ -15,8 +15,8 @@ There are many emerging issues in copyright law. The majority of these issues ar
 
 ## Open Access
 
-Open access to information and knowledge is a central issue in the copyright space. According to the Scholarly Publishing and Academic Resources Coalition (SPARC), "[o]pen access is the free, immediate, online availability of research articles combined with the rights to use these articles fully in the digital environment. Open Access is the needed modern update for the communication of research that fully utili[s]es the Internet for what it was originally built to do— accelerate research". [^REPLACEMESPARCOpenAccesshttpssparcopenorgopenaccessENDREPLACE]
-[^REPLACEMESPARCOpenAccesshttpssparcopenorgopenaccessENDREPLACE]: SPARC, Open Access, https://sparcopen.org/open-access/
+Open access to information and knowledge is a central issue in the copyright space. According to the Scholarly Publishing and Academic Resources Coalition (SPARC), "[o]pen access is the free, immediate, online availability of research articles combined with the rights to use these articles fully in the digital environment. Open Access is the needed modern update for the communication of research that fully utili[s]es the Internet for what it was originally built to do— accelerate research". [^AUTOREPLACEDSPARCOpenAccesshttpssparcopenorgopenaccessENDREPLACE]
+[^AUTOREPLACEDSPARCOpenAccesshttpssparcopenorgopenaccessENDREPLACE]: SPARC, Open Access, https://sparcopen.org/open-access/
 
 
 For more information view the SPARC [Open Access Factsheet](https://sparcopen.org/wp-content/uploads/2017/04/Open-Access-Factsheet_SPARC.11.10-3.pdf)
@@ -27,8 +27,8 @@ For more information view the SPARC [Open Access Factsheet](https://sparcopen.or
 
 ### Safe Harbours Scheme
 
-The Safe Harbours scheme was introduced in Australia in 2005 as part of the implementation of the //Australia-US Free Trade Agreement//. The Safe Harbour scheme provides an incentive for service providers to establish efficient mechanisms for the removal from their platforms of material that infringes copyright. In return, service providers are protected from liability relating to any such infringement. See [Electronic Frontiers Australia, 'Safe Harbours' Policy Position 2017](https://www.efa.org.au/our-work/copyright/safe-harbours/) [^REPLACEMEInformationtakenfromtheElectronicFrontiersAustraliaSafeHarboursPolicyPosition2017CCBYENDREPLACE]
-[^REPLACEMEInformationtakenfromtheElectronicFrontiersAustraliaSafeHarboursPolicyPosition2017CCBYENDREPLACE]: Information taken from the Electronic Frontiers Australia, 'Safe Harbours' Policy Position 2017 CC-BY
+The Safe Harbours scheme was introduced in Australia in 2005 as part of the implementation of the //Australia-US Free Trade Agreement//. The Safe Harbour scheme provides an incentive for service providers to establish efficient mechanisms for the removal from their platforms of material that infringes copyright. In return, service providers are protected from liability relating to any such infringement. See [Electronic Frontiers Australia, 'Safe Harbours' Policy Position 2017](https://www.efa.org.au/our-work/copyright/safe-harbours/) [^AUTOREPLACEDInformationtakenfromtheElectronicFrontiersAustraliaSafeHarboursPolicyPosition2017CCBYENDREPLACE]
+[^AUTOREPLACEDInformationtakenfromtheElectronicFrontiersAustraliaSafeHarboursPolicyPosition2017CCBYENDREPLACE]: Information taken from the Electronic Frontiers Australia, 'Safe Harbours' Policy Position 2017 CC-BY
 
 
 Under the //Copyright Amendment (Service Providers) Act 2018// Australian disability organisations, education providers and cultural institutions will now be covered by the copyright safe harbour scheme, which will protect them from being held liable when their online services – from public access computers to digital hubs – are used by others to infringe copyright. According to the Australian Digital Alliance, “[e]xtending the scheme means these organisations now have the same legal protection as commercial ISPs, providing them with a more certain and supportive legal environment and allowing them to confidently provide more innovative services.”
@@ -62,8 +62,8 @@ It is becoming increasingly difficult to determine situations where human author
 
 ## The Internet of Things  
 
-The [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) is digitised inter - connectivity of products and programs, people and places. It is essentially, the concept of connecting devices "with an on and off switch to the Internet". [^REPLACEMEJaconMorganASimpleExplanationOfTheInternetOfThings2014ForbesENDREPLACE]
-[^REPLACEMEJaconMorganASimpleExplanationOfTheInternetOfThings2014ForbesENDREPLACE]: Jacon Morgan, 'A Simple Explanation Of 'The Internet Of Things' (2014), Forbes
+The [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) is digitised inter - connectivity of products and programs, people and places. It is essentially, the concept of connecting devices "with an on and off switch to the Internet". [^AUTOREPLACEDJaconMorganASimpleExplanationOfTheInternetOfThings2014ForbesENDREPLACE]
+[^AUTOREPLACEDJaconMorganASimpleExplanationOfTheInternetOfThings2014ForbesENDREPLACE]: Jacon Morgan, 'A Simple Explanation Of 'The Internet Of Things' (2014), Forbes
  The idea underling the IoT is that this network of physical devices, coupled with embedded  electronics, software, etc will enable a higher level of efficiency, increased economic benefits, and reduced human exertions.
 
 **Video overview by Charmaine Cowan on [The Internet of Things](https://www.youtube.com/watch?v=vSPox5mJU0k).**
@@ -72,8 +72,8 @@ The [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)
 
 Geo-blocking is technology that restricts access to Internet content based upon the user's geographical location. There are circumvention measures such as Virtual Protection Networks (VPN) that can be used to work around geo-blocking to allow access to the geo blocked content.  
 
-This type of activity is becoming more popular when trying to access content that is not currently available in Australia. For instance, when using a streaming service to access films, "Australian consumers can only access one third of the films available to American consumers..." [^REPLACEMESuzorNicolasPVanGeelenTessPappalardoKylieMBurgessJeanWikstromPatrikVenturaRodriguezYanery2017AustralianconsumeraccesstodigitalcontentAustralianCommunicationsConsumerActionNetworkENDREPLACE]
-[^REPLACEMESuzorNicolasPVanGeelenTessPappalardoKylieMBurgessJeanWikstromPatrikVenturaRodriguezYanery2017AustralianconsumeraccesstodigitalcontentAustralianCommunicationsConsumerActionNetworkENDREPLACE]: Suzor, Nicolas P., Van Geelen, Tess, Pappalardo, Kylie M., Burgess, Jean, Wikstrom, Patrik, & Ventura-Rodriguez, Yanery (2017) Australian consumer access to digital content. Australian Communications Consumer Action Network
+This type of activity is becoming more popular when trying to access content that is not currently available in Australia. For instance, when using a streaming service to access films, "Australian consumers can only access one third of the films available to American consumers..." [^AUTOREPLACEDSuzorNicolasPVanGeelenTessPappalardoKylieMBurgessJeanWikstromPatrikVenturaRodriguezYanery2017AustralianconsumeraccesstodigitalcontentAustralianCommunicationsConsumerActionNetworkENDREPLACE]
+[^AUTOREPLACEDSuzorNicolasPVanGeelenTessPappalardoKylieMBurgessJeanWikstromPatrikVenturaRodriguezYanery2017AustralianconsumeraccesstodigitalcontentAustralianCommunicationsConsumerActionNetworkENDREPLACE]: Suzor, Nicolas P., Van Geelen, Tess, Pappalardo, Kylie M., Burgess, Jean, Wikstrom, Patrik, & Ventura-Rodriguez, Yanery (2017) Australian consumer access to digital content. Australian Communications Consumer Action Network
 
 
 A VPN can be used to reroute an IP address to 'trick' servers into thinking the geographic location of the IP address is in the US as opposed to Australia. This allows the person in Australia to access US content via the VPN.
