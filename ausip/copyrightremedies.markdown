@@ -16,12 +16,12 @@ grand_parent: ausip
 {:toc}
 
 The //Copyright Act// provides that a copyright owner may bring an action for infringement of the copyright. [^AUTOREPLACEDCAs1151ENDREPLACE]
-[^AUTOREPLACEDCAs1151ENDREPLACE]: //CA// s 115)(1) 
+[^AUTOREPLACEDCAs1151ENDREPLACE]: //CA// s 115)(1)
 
 
-There are a number of remedies available to copyright owners which include civil remedies such as injunctions and damages [^AUTOREPLACEDCAs1152ENDREPLACE]
-[^AUTOREPLACEDCAs1152ENDREPLACE]: //CA// s 115(2) 
- and remedies available through criminal proceedings. These remedies will be discussed in detail in this chapter.
+There are a number of remedies available to copyright owners which include civil remedies such as injunctions and damages [^AUTOREPLACEDCAs1152ENDREPLACE] and remedies available through criminal proceedings. These remedies will be discussed in detail in this chapter.
+[^AUTOREPLACEDCAs1152ENDREPLACE]: //CA// s 115(2)
+
 
 ## Civil Remedies
 
@@ -46,14 +46,14 @@ A final injunction will be made to ensure a particular course of action is taken
 ### Damages
 
 Pursuant to the// Act//, damages is an available remedy and can be awarded in certain circumstances. [^AUTOREPLACEDCAs1152ENDREPLACE]
-[^AUTOREPLACEDCAs1152ENDREPLACE]: //CA// s 115(2) 
+[^AUTOREPLACEDCAs1152ENDREPLACE]: //CA// s 115(2)
 
 
 Damages cannot be obtained from an innocent infringer – that is, damages are not available if, at the time of the infringement, the defendant was not aware, and had no reasonable grounds for suspecting, that the act constituting the infringement was an infringement of the copyright. [^AUTOREPLACEDCAs1153ENDREPLACE]
-[^AUTOREPLACEDCAs1153ENDREPLACE]: //CA// s 115(3) 
+[^AUTOREPLACEDCAs1153ENDREPLACE]: //CA// s 115(3)
 
 
-##### Kiama Constructions v MC Casella Building Co Pty Ltd//__[^AUTOREPLACED198010IPR345ENDREPLACE]
+__[^AUTOREPLACED198010IPR345ENDREPLACE]
 [^AUTOREPLACED198010IPR345ENDREPLACE]: (1980) 10 IPR 345
 
 
@@ -64,7 +64,7 @@ Damages cannot be obtained from an innocent infringer – that is, damages are n
 ### Additional Damages
 
 Additional damages of a punitive and/or aggravated nature may also be awarded in certain circumstances. [^AUTOREPLACEDCAs1154ENDREPLACE]
-[^AUTOREPLACEDCAs1154ENDREPLACE]: //CA// s 115(4) 
+[^AUTOREPLACEDCAs1154ENDREPLACE]: //CA// s 115(4)
 
 
 In these instances the court has regard to:
@@ -93,7 +93,7 @@ The Court held that copyright had been infringed. Further, the Court assessed ad
 ### Account of Profits
 
 Pursuant to the //Act//, an account of profits is an available remedy. [^AUTOREPLACEDCAs1152ENDREPLACE]
-[^AUTOREPLACEDCAs1152ENDREPLACE]: //CA// s 115(2) 
+[^AUTOREPLACEDCAs1152ENDREPLACE]: //CA// s 115(2)
 
 
 An account of profits is an alternative remedy to damages and the applicant must choose which they will be seeking. An account of profits provides for the applicant to recover a sum which represents that proportion of the respondent’s profits that was fairly attributable to the infringement of the applicant’s copyright. [^AUTOREPLACEDRobertJZupanovichvBNBealeNomineesPty1995FCA1424ENDREPLACE]
@@ -111,20 +111,20 @@ In conversation, the plaintiff takes control of infringing copies or devices use
 These provisions were substantially amended by the //Copyright Amendment Act (No 1) 1998// with the effect of making the remedy a matter of discretion by the court.  These new provisions are intended to avoid the possibility of the award of excessive damages.
 
 An owner of copyright in a work or other subject-matter may bring an action for conversion or detention in relation to: [^AUTOREPLACEDCAs1161ENDREPLACE]
-[^AUTOREPLACEDCAs1161ENDREPLACE]: //CA// s 116(1) 
+[^AUTOREPLACEDCAs1161ENDREPLACE]: //CA// s 116(1)
 
 
 * an infringing copy.
 
 An "infringing copy" is defined as an article, the making of which constituted an infringement of copyright in the work, sound recording, film, broadcast or edition, as the case may be, or in the case of an imported article would have constituted such an infringement if the article had been made in Australia by the importer. [^AUTOREPLACEDCAs101ENDREPLACE]
-[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1) 
+[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
 
 
 * a device used for making infringing copies.
 
 
 A court may grant those remedies that would be available as if: [^AUTOREPLACEDCAs1161AENDREPLACE]
-[^AUTOREPLACEDCAs1161AENDREPLACE]: //CA// s116(1A) 
+[^AUTOREPLACEDCAs1161AENDREPLACE]: //CA// s116(1A)
 
 
 * the copyright owner had been the owner of the infringing copy since the time the copy was made.
@@ -132,18 +132,18 @@ A court may grant those remedies that would be available as if: [^AUTOREPLACEDCA
 * the owner of the device was used or intended for use in making them.
 
 
-Conversion damages is a remedy in addition to, for example, compensatory damages. [^AUTOREPLACEDCAs1161BENDREPLACE]
-[^AUTOREPLACEDCAs1161BENDREPLACE]: //CA// s 116(1B) 
- But, the court is not to make an award for conversion damages where it is satisfied, in essence, that an award of compensatory damages under s 115 is a "sufficient remedy" in the circumstances. [^AUTOREPLACEDCAs1161CENDREPLACE]
-[^AUTOREPLACEDCAs1161CENDREPLACE]: //CA// s 116(1C) 
-  
+Conversion damages is a remedy in addition to, for example, compensatory damages. [^AUTOREPLACEDCAs1161BENDREPLACE] But, the court is not to make an award for conversion damages where it is satisfied, in essence, that an award of compensatory damages under s 115 is a "sufficient remedy" in the circumstances. [^AUTOREPLACEDCAs1161CENDREPLACE]
+[^AUTOREPLACEDCAs1161BENDREPLACE]: //CA// s 116(1B)
+
+[^AUTOREPLACEDCAs1161CENDREPLACE]: //CA// s 116(1C)
+
 
 In deciding whether to grant conversion damages and in assessing the amount of such damages the court is to have regard, for example, to the expenses incurred by the defendant in manufacturing or acquiring the infringing copy and "any other matter that the court considers relevant". [^AUTOREPLACEDCAs1161DENDREPLACE]
-[^AUTOREPLACEDCAs1161DENDREPLACE]: //CA// s 116(1D) 
+[^AUTOREPLACEDCAs1161DENDREPLACE]: //CA// s 116(1D)
 
 
 If only part of the infringing copy consists of material that infringes copyright, the court considers:[^AUTOREPLACEDCAs1161EENDREPLACE]
-[^AUTOREPLACEDCAs1161EENDREPLACE]: //CA// s 116(1E) 
+[^AUTOREPLACEDCAs1161EENDREPLACE]: //CA// s 116(1E)
 
 
 * the importance to the market value of the article of the material that infringes copyright.
@@ -153,7 +153,7 @@ If only part of the infringing copy consists of material that infringes copyrigh
 * the extent to which the material that infringes copyright may be separated from the article.
 
 Conversion damages cannot be obtained from an innocent infringer. A copyright owner is not entitled to conversion damages if it is established that at the time of the conversion that:[^AUTOREPLACEDCAs1162ENDREPLACE]
-[^AUTOREPLACEDCAs1162ENDREPLACE]: //CA// s 116(2) 
+[^AUTOREPLACEDCAs1162ENDREPLACE]: //CA// s 116(2)
 
 
 * the defendant was not aware, and no reasonable grounds for suspecting that copyright subsisted in the work or other subject-matter; or

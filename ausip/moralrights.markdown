@@ -144,7 +144,7 @@ As the moral rights are relatively new, no significant body of case law has been
 
 Moral rights are loosely derived from the French system of droit moral. The French authorities are not directly relevant, but may serve as an illustration of the types of treatments which may be found to be derogatory in Australia.
 
-##### Perez & Ors v Fernandez// [^AUTOREPLACED2012FMCA2ENDREPLACE]
+ [^AUTOREPLACED2012FMCA2ENDREPLACE]
 [^AUTOREPLACED2012FMCA2ENDREPLACE]: [2012] FMCA 2
 
 
@@ -160,7 +160,7 @@ The Federal Magistrates Court held that the new recording infringed Perez's righ
     - It was also likely to be prejudicial to an audience who were more familiar with Perez's work, because it mocked Perez and sought to promote Fernandez at Perez's expense.
 Fernandez's use was not reasonable in the circumstances.
 
-##### Schott Musik International GmbH v Colossal Records of Australia// [^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]
+ [^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]
 [^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]:  (1996) 71 FCR 37 (Carmina Burana case), [1997] FCA 531
 
 
@@ -187,7 +187,7 @@ The estate of John Huston successfully sought an injunction against a French tel
 - An earlier suit brought in the US failed.
 - Material distortion of his work prejudicial to honour or reputation.
 
-##### Snow v The Eaton Centre Limited// [^AUTOREPLACED198870CPR2d105ENDREPLACE]
+ [^AUTOREPLACED198870CPR2d105ENDREPLACE]
 [^AUTOREPLACED198870CPR2d105ENDREPLACE]:  (1988) 70 CPR (2d) 105
 
 
@@ -195,13 +195,13 @@ A Canadian shopping centre had bought a sculpture of 60 flying geese from the pl
 The Ontario High Court ordered that the ribbons be removed, holding that the treatment of the sculpture was prejudicial to Snow's honour or reputation.
 Snow said it was prejudicial to his honour – reducing it to crass advertisement of Christmas.
 
-##### Morrison Leahy Music Limited and another v Lightbond Limited// [^AUTOREPLACED1993EMLR144ENDREPLACE]
+ [^AUTOREPLACED1993EMLR144ENDREPLACE]
 [^AUTOREPLACED1993EMLR144ENDREPLACE]: [1993] E.M.L.R. 144.
 
 
 In 1993, George Michael was granted a preliminary injunction preventing the release of a medley of a number of George Michael's songs. The Court of Appeal in London found that it was arguable that the remix record could constitute derogatory treatment of George Michael's works.
 
-##### Confetti Records v Warner Music// [^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]
+ [^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]
 [^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]: [2003] EWCh 1274 (ch) [150]
 
 

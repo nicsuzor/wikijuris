@@ -118,23 +118,23 @@ In defamation, the word 'publish' extends liability to intermediaries who fail t
 
 
 
-In Trkulja, Google was found liable for defamatory imputations carried as a result of the automated organisation and display of search results.[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdVSC533TrkuljavYahooIncLLC2012VSC88AUTOREPLACED]
+In Trkulja, Google was found liable for defamatory imputations carried as a result of the automated organisation and display of search results.[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdVSC533TrkuljavYahooIncLLC2012VSC88AUTOREPLACED] In at least two instances, people have been found liable for publishing links to defamatory content posted by third parties. In one instance, the defamatory imputation was found to have been endorsed by the defendant when it used the words “read more” to imply that the linked content was a true account.[^AUTOREPLACEDVisschervMaritimeUnionofAustraliaNo6NSWSC35030BeechJonesJfoundthatthedefendantsdescriptionofthelinkamountedtoattheveryleastanadoptionorpromotionofthecontentofthelinkedarticleAUTOREPLACED] In the other, Yahoo!7 conceded that because at least one person had read an article, hosted on a third party website, by following a link presented through the Yahoo!7 search engine, Yahoo had 'published' that article.[^AUTOREPLACEDTrkuljavYahooIncLLC2012VSC8867KayeJAUTOREPLACED] These decisions stand out in contrast to emerging authority in the UK[^AUTOREPLACEDIntheUKJusticeEadyoftheHighCourtofEnglandandWalesfoundthatGooglewasnotliableforinformationcontainedinsearchengineresultsMetropolitanSchoolsLtdvDesigntechnicaCorpn20111WLR1743orthecontentofblogsithostsonBloggercomTamizvGoogleInc2012EWHC449AUTOREPLACED] and Canada[^AUTOREPLACEDCrookesvNewton20113SCR26942AmajorityoftheCanadianSupremeCourtfoundthatmakingreferencetotheexistenceandorlocationofcontentbyhyperlinkorotherwisewithoutmoreisnotpublicationofthatcontentAUTOREPLACED]
 
 [^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdVSC533TrkuljavYahooIncLLC2012VSC88AUTOREPLACED]: Trkulja v Google Inc, Google Australia Pty Ltd VSC 533; Trkulja v Yahoo! Inc LLC [2012] VSC 88
 
- In at least two instances, people have been found liable for publishing links to defamatory content posted by third parties. In one instance, the defamatory imputation was found to have been endorsed by the defendant when it used the words “read more” to imply that the linked content was a true account.[^AUTOREPLACEDVisschervMaritimeUnionofAustraliaNo6NSWSC35030BeechJonesJfoundthatthedefendantsdescriptionofthelinkamountedtoattheveryleastanadoptionorpromotionofthecontentofthelinkedarticleAUTOREPLACED]
+
 
 [^AUTOREPLACEDVisschervMaritimeUnionofAustraliaNo6NSWSC35030BeechJonesJfoundthatthedefendantsdescriptionofthelinkamountedtoattheveryleastanadoptionorpromotionofthecontentofthelinkedarticleAUTOREPLACED]: Visscher v Maritime Union of Australia (No 6) NSWSC 350, [30] (Beech-Jones J found that the defendant’s description of the link ‘amounted to, at the very least, an adoption or promotion of the content’ of the linked article.").
 
- In the other, Yahoo!7 conceded that because at least one person had read an article, hosted on a third party website, by following a link presented through the Yahoo!7 search engine, Yahoo had 'published' that article.[^AUTOREPLACEDTrkuljavYahooIncLLC2012VSC8867KayeJAUTOREPLACED]
+
 
 [^AUTOREPLACEDTrkuljavYahooIncLLC2012VSC8867KayeJAUTOREPLACED]: Trkulja v Yahoo! Inc LLC [2012] VSC 88, [6]–[7] (Kaye J).
 
- These decisions stand out in contrast to emerging authority in the UK[^AUTOREPLACEDIntheUKJusticeEadyoftheHighCourtofEnglandandWalesfoundthatGooglewasnotliableforinformationcontainedinsearchengineresultsMetropolitanSchoolsLtdvDesigntechnicaCorpn20111WLR1743orthecontentofblogsithostsonBloggercomTamizvGoogleInc2012EWHC449AUTOREPLACED]
+
 
 [^AUTOREPLACEDIntheUKJusticeEadyoftheHighCourtofEnglandandWalesfoundthatGooglewasnotliableforinformationcontainedinsearchengineresultsMetropolitanSchoolsLtdvDesigntechnicaCorpn20111WLR1743orthecontentofblogsithostsonBloggercomTamizvGoogleInc2012EWHC449AUTOREPLACED]: In the UK, Justice Eady of the High Court of England and Wales found that Google was not liable for information contained in search engine results (//Metropolitan Schools Ltd v Designtechnica Corpn// [2011] 1 WLR 1743) or the content of blogs it hosts on Blogger.com (//Tamiz v Google Inc// [2012] EWHC 449).
 
- and Canada[^AUTOREPLACEDCrookesvNewton20113SCR26942AmajorityoftheCanadianSupremeCourtfoundthatmakingreferencetotheexistenceandorlocationofcontentbyhyperlinkorotherwisewithoutmoreisnotpublicationofthatcontentAUTOREPLACED]
+
 
 [^AUTOREPLACEDCrookesvNewton20113SCR26942AmajorityoftheCanadianSupremeCourtfoundthatmakingreferencetotheexistenceandorlocationofcontentbyhyperlinkorotherwisewithoutmoreisnotpublicationofthatcontentAUTOREPLACED]: Crookes v Newton [2011] 3 SCR 269, [42] (A majority of the Canadian Supreme Court found that ‘[m]aking reference to the existence and/or location of content by hyperlink or otherwise, without more, is not publication of that content.’).
 
@@ -146,28 +146,28 @@ In Trkulja, Google was found liable for defamatory imputations carried as a resu
 
 ## Vilification
 
-Like defamation, intermediaries who provides a forum for third-party content can be liable under the *Racial Discrimination Act 1975* (Cth) ('RDA') when those comments amount to vilification. Section 18C makes it unlawful to “do an act”[^AUTOREPLACEDThereferencetoanactinthiscasespecificallyincludesanomissionseeRDAs33refusingorfailingtodoanactshallbedeemedtobethedoingofanactandareferencetoanactincludesareferencetosucharefusalorfailureAUTOREPLACED]
+Like defamation, intermediaries who provides a forum for third-party content can be liable under the *Racial Discrimination Act 1975* (Cth) ('RDA') when those comments amount to vilification. Section 18C makes it unlawful to “do an act”[^AUTOREPLACEDThereferencetoanactinthiscasespecificallyincludesanomissionseeRDAs33refusingorfailingtodoanactshallbedeemedtobethedoingofanactandareferencetoanactincludesareferencetosucharefusalorfailureAUTOREPLACED] that is reasonably likely to “offend, insult, humiliate or intimidate” a person or group where that act is done motivated by “race, colour or national or ethnic origin”. In the two decisions that have considered the provision in the context of an online forum, courts have come to somewhat conflicting conclusions as to when a secondary actor will be liable for providing the facilities for another to make vilifying comments. The uncertainty lies primarily in the intentional element of the provision. As in defamation, courts agree that providing the facilities to enable others to post comments and failing to remove them is sufficient to constitute an “act” of publication of the substance of those comments, at least once the operator has knowledge of the comments.[^AUTOREPLACEDSilberbergvBuildersCollectiveofAustraliaInc164FCR475485ClarkevNationwideNewsPtyLtd2012289ALR345367110AUTOREPLACED] The conflict is whether failure to remove comments is done “because of the race, colour or national or ethnic origin” of the person or group. In *Silberberg*, Gyles J found that there was insufficient evidence to draw that conclusion; the respondent's failure to remove the offensive comments was “just as easily explained by inattention or lack of diligence.”[^AUTOREPLACEDSilberbergvBuildersCollectiveofAustraliaInc164FCR475486AUTOREPLACED] In *Clarke v Nationwide News*, by
 
 [^AUTOREPLACEDThereferencetoanactinthiscasespecificallyincludesanomissionseeRDAs33refusingorfailingtodoanactshallbedeemedtobethedoingofanactandareferencetoanactincludesareferencetosucharefusalorfailureAUTOREPLACED]: The reference to “an act”, in this case, specifically includes an omission: see RDA s 3(3): “refusing or failing to do an act shall be deemed to be the doing of an act and a reference to an act includes a reference to such a refusal or failure.”
 
- that is reasonably likely to “offend, insult, humiliate or intimidate” a person or group where that act is done motivated by “race, colour or national or ethnic origin”. In the two decisions that have considered the provision in the context of an online forum, courts have come to somewhat conflicting conclusions as to when a secondary actor will be liable for providing the facilities for another to make vilifying comments. The uncertainty lies primarily in the intentional element of the provision. As in defamation, courts agree that providing the facilities to enable others to post comments and failing to remove them is sufficient to constitute an “act” of publication of the substance of those comments, at least once the operator has knowledge of the comments.[^AUTOREPLACEDSilberbergvBuildersCollectiveofAustraliaInc164FCR475485ClarkevNationwideNewsPtyLtd2012289ALR345367110AUTOREPLACED]
+
 
 [^AUTOREPLACEDSilberbergvBuildersCollectiveofAustraliaInc164FCR475485ClarkevNationwideNewsPtyLtd2012289ALR345367110AUTOREPLACED]: *Silberberg v Builders Collective of Australia Inc* 164 FCR 475, 485; *Clarke v Nationwide News Pty Ltd* (2012) 289 ALR 345, 367, \[110\].
 
- The conflict is whether failure to remove comments is done “because of the race, colour or national or ethnic origin” of the person or group. In *Silberberg*, Gyles J found that there was insufficient evidence to draw that conclusion; the respondent's failure to remove the offensive comments was “just as easily explained by inattention or lack of diligence.”[^AUTOREPLACEDSilberbergvBuildersCollectiveofAustraliaInc164FCR475486AUTOREPLACED]
+
 
 [^AUTOREPLACEDSilberbergvBuildersCollectiveofAustraliaInc164FCR475486AUTOREPLACED]: Silberberg v Builders Collective of Australia Inc* 164 FCR 475, 486.
 
- In *Clarke v Nationwide News*, by
-contrast, Barker J held that where the respondent “actively solicits and moderates contributions from readers”, the “offence will be given as much by the respondent in publishing the offensive comment as by the original author in writing it.”[^AUTOREPLACEDClarkevNationwideNewsPtyLtd2012289ALR345367110AUTOREPLACED]
+
+contrast, Barker J held that where the respondent “actively solicits and moderates contributions from readers”, the “offence will be given as much by the respondent in publishing the offensive comment as by the original author in writing it.”[^AUTOREPLACEDClarkevNationwideNewsPtyLtd2012289ALR345367110AUTOREPLACED] The Court was able to infer that one of the reasons for publishing comments that were objectively offensive because of race was also because of race.[^AUTOREPLACEDIbid377199TheactofpublishingacommentwhichisobjectivelyoffensivebecauseofraceinsuchcircumstanceswillgiveoffencebecauseofraceasmuchashtepubliccirculationofsuchacommentbytheoriginalauthormighthavedoneAUTOREPLACED] Apart from emphasis placed on the act of moderation in *Clarke*, there is no easy way to reconcile these two authorities.
 
 [^AUTOREPLACEDClarkevNationwideNewsPtyLtd2012289ALR345367110AUTOREPLACED]: Clarke v Nationwide News Pty Ltd* (2012) 289 ALR 345, 367, \[110\].
 
- The Court was able to infer that one of the reasons for publishing comments that were objectively offensive because of race was also because of race.[^AUTOREPLACEDIbid377199TheactofpublishingacommentwhichisobjectivelyoffensivebecauseofraceinsuchcircumstanceswillgiveoffencebecauseofraceasmuchashtepubliccirculationofsuchacommentbytheoriginalauthormighthavedoneAUTOREPLACED]
+
 
 [^AUTOREPLACEDIbid377199TheactofpublishingacommentwhichisobjectivelyoffensivebecauseofraceinsuchcircumstanceswillgiveoffencebecauseofraceasmuchashtepubliccirculationofsuchacommentbytheoriginalauthormighthavedoneAUTOREPLACED]: Ibid 377, \[199\] (‘The act of publishing a comment which is objectively offensive because of race in such circumstances will give offence because of race as much as hte public circulation of such a comment by the original author might have done.’).
 
- Apart from emphasis placed on the act of moderation in *Clarke*, there is no easy way to reconcile these two authorities.
+
 
 ## Case Notes
 

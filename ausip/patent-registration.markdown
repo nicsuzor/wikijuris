@@ -35,9 +35,9 @@ In order to register a patent the invention must meet a strict criteria. This ch
 
 ## The Requirements of Patentability
 
-In order to be patentable, an invention is required to meet the specifications found in s 18 of the //Act//. An invention is patentable if it is “manner of manufacture” within the meaning of s 6 of the //Statute of Monopolies// (i.e. is patentable subject matter, being either a product or process). The invention must be novel [^AUTOREPLACEDPAs7ENDREPLACE]
+In order to be patentable, an invention is required to meet the specifications found in s 18 of the //Act//. An invention is patentable if it is “manner of manufacture” within the meaning of s 6 of the //Statute of Monopolies// (i.e. is patentable subject matter, being either a product or process). The invention must be novel [^AUTOREPLACEDPAs7ENDREPLACE] and must involve an inventive step (for standard patents) or an innovative step (for innovation patents). The inventiveness and novelty of the invention are compared against the prior art base as it existed at the priority date. The invention must be useful which means it must work or be possible. The final requirement is that the inventions must not have been secretly used before the priority date.
 [^AUTOREPLACEDPAs7ENDREPLACE]: //PA// s 7
- and must involve an inventive step (for standard patents) or an innovative step (for innovation patents). The inventiveness and novelty of the invention are compared against the prior art base as it existed at the priority date. The invention must be useful which means it must work or be possible. The final requirement is that the inventions must not have been secretly used before the priority date.
+
 
 Patents are examined by IP Australia to decide whether the inventions are worthy of a patent. IP Australia bases their decision on the above specifications. [^AUTOREPLACEDPAs18ENDREPLACE]
 [^AUTOREPLACEDPAs18ENDREPLACE]: //PA// s 18
@@ -48,15 +48,15 @@ Patents are examined by IP Australia to decide whether the inventions are worthy
 There are a few categories of subject matter that are considered not patentable. These categories include:
 
 1. Human beings and biological processes; [^AUTOREPLACEDReLuminisPtyLtdFertilitiescentrumAB200462IPR420ENDREPLACE]
-[^AUTOREPLACEDReLuminisPtyLtdFertilitiescentrumAB200462IPR420ENDREPLACE]: ////Re Luminis Pty Ltd & Fertilitiescentrum AB////(2004) 62 IPR 420 
+[^AUTOREPLACEDReLuminisPtyLtdFertilitiescentrumAB200462IPR420ENDREPLACE]: ////Re Luminis Pty Ltd & Fertilitiescentrum AB////(2004) 62 IPR 420
 
 
 2. Plants and animals;[^AUTOREPLACEDPAs183ENDREPLACE]
-[^AUTOREPLACEDPAs183ENDREPLACE]: //PA// s 18(3) 
+[^AUTOREPLACEDPAs183ENDREPLACE]: //PA// s 18(3)
 
 
 3. Products that would be contrary to law; [^AUTOREPLACEDPAs501aENDREPLACE]
-[^AUTOREPLACEDPAs501aENDREPLACE]: //PA// s 50(1)(a) 
+[^AUTOREPLACEDPAs501aENDREPLACE]: //PA// s 50(1)(a)
  and
 
 3. Mere mixtures. [^AUTOREPLACEDSeeWMWrigleyJrCovCadburySchweppesPtyLtd200566IRP298315ENDREPLACE]
@@ -68,11 +68,11 @@ According to s 18 of the //Act// (2): Human beings, and the biological processes
 According to s 18 of the //Act// (3): For the purposes of an innovation patent, plants and animals, and the biological processes for the generation of plants and animals, are not patentable inventions.
 
 
-There are also twos area where there is scope to exclude inventions from patentability found in the //TRIPS// Agreement. First //TRIPS// excludes inventions to "...protect human, animal or plant life, or health, or to avoid serious prejudice to the environment".[^AUTOREPLACEDTRIPSart272ENDREPLACE]
-[^AUTOREPLACEDTRIPSart272ENDREPLACE]: //TRIPS// art 27(2) 
- The second area allows for exclusions with respect to medical treatments, plants and animals.[^AUTOREPLACEDTRIPSart273ENDREPLACE]
-[^AUTOREPLACEDTRIPSart273ENDREPLACE]: //TRIPS// art 27(3) 
-     
+There are also twos area where there is scope to exclude inventions from patentability found in the //TRIPS// Agreement. First //TRIPS// excludes inventions to "...protect human, animal or plant life, or health, or to avoid serious prejudice to the environment".[^AUTOREPLACEDTRIPSart272ENDREPLACE] The second area allows for exclusions with respect to medical treatments, plants and animals.[^AUTOREPLACEDTRIPSart273ENDREPLACE]
+[^AUTOREPLACEDTRIPSart272ENDREPLACE]: //TRIPS// art 27(2)
+
+[^AUTOREPLACEDTRIPSart273ENDREPLACE]: //TRIPS// art 27(3)
+
 
 
 ### "Invention"
@@ -86,13 +86,13 @@ The word 'new' does not appear in s 18, only in the definition of invention. In 
 
 ## Requirement 1: Manner of Manufacture (Patentable Subject Matter)
 
-In order to be a patentable invention, the invention must be a manner of manufacture. [^AUTOREPLACEDs6StatuteofMonopoliesENDREPLACE]
+In order to be a patentable invention, the invention must be a manner of manufacture. [^AUTOREPLACEDs6StatuteofMonopoliesENDREPLACE] Whilst the statute does not expressly outline what a manner of manufacture is, there are express provisions which state what the invention must not be, including contrary to law, harmful to trade or generally inconvenient.
 [^AUTOREPLACEDs6StatuteofMonopoliesENDREPLACE]: s 6 //Statute of Monopolies//
- Whilst the statute does not expressly outline what a manner of manufacture is, there are express provisions which state what the invention must not be, including contrary to law, harmful to trade or generally inconvenient.
 
-The meaning of manner of manufacture has been debated by the Australian High Court. In the case of //National Research Development Corporation v Commissioner of Patents// [^AUTOREPLACED1959102CLR252269ENDREPLACE]
+
+The meaning of manner of manufacture has been debated by the Australian High Court. In the case of //National Research Development Corporation v Commissioner of Patents// [^AUTOREPLACED1959102CLR252269ENDREPLACE] it was concluded that:
 [^AUTOREPLACED1959102CLR252269ENDREPLACE]:  (1959) 102 CLR 252, [269]
- it was concluded that:
+
 >the correct inquiry to determine manner of manufacture is 'not into the meaning of a word so much as the breadth of the concept which the law has developed by its consideration of the text and purpose of the //Statute of Monopolies//.
 
 
@@ -100,7 +100,7 @@ The meaning of manner of manufacture has been debated by the Australian High Cou
 
 The //Patents Act 1990// (Cth) incorporates the guidelines for manner of manufacture within s 18. Pursuant to s18 of the //Act// an invention is to be a manner of manufacture within the meaning of s 6 of the //Statute of Monopolies//.
 
-##### National Research Development Corporation v Commissioner of Patents (1959) 102 CLR 252//__
+__
 
 Facts: Appeal to High Court from a rejection by the Deputy Commissioner.  The patent in question was a process involving a method of mixing known chemicals together and applying the mix to crops (alfalfa) in specific quantities to eliminate weeds, but not the crops. The method of producing a weedicide is not a patent for a product, it is a patent for the process of creating that product.  The application had been rejected because the the method was considered to be merely a new use of a known substance and did not result in the creation of a physical or tangible ‘vendible product’.  Vendible product concept comes from cases before *NRDC*.
 
@@ -167,7 +167,7 @@ The court observed that a method merely because a method is a business method do
 ### Patentable Subject Matter: Biotechnology
 
 Biotechnology is another area which is controversial within the patent landscape. Biotechnology was considered to be patentable subject matter on the basis that the product subject to patentability is an invention derived from human ingenuity and is a non-naturally occurring manufacture. This issue of patentability was considered in the US case of //Diamond v Chakrabarty//. [^AUTOREPLACED447US3031980ENDREPLACE]
-[^AUTOREPLACED447US3031980ENDREPLACE]: 447 US 303 (1980) 
+[^AUTOREPLACED447US3031980ENDREPLACE]: 447 US 303 (1980)
 
 
 
@@ -186,12 +186,12 @@ Burger CJ:
 
 ### Patentable Subject Matter: Treating the Human Body
 
-The way in which medical technology can be used to treat humans has long been a contentious issue. The treatment of the human body has been considered to be patentable subject matter. This issue was considered in the case of //Apotex Pty Ltd v Sanofi-Aventis// [^AUTOREPLACED2013HCA50ENDREPLACE]
+The way in which medical technology can be used to treat humans has long been a contentious issue. The treatment of the human body has been considered to be patentable subject matter. This issue was considered in the case of //Apotex Pty Ltd v Sanofi-Aventis// [^AUTOREPLACED2013HCA50ENDREPLACE] where the court was asked to considered whether methods of medical treatment were excluded from scope of patentable subject matter. The court held that they were not excluded.
 [^AUTOREPLACED2013HCA50ENDREPLACE]: [2013] HCA 50
- where the court was asked to considered whether methods of medical treatment were excluded from scope of patentable subject matter. The court held that they were not excluded.
 
 
-__*Apotex Pty Ltd v Sanofi-Aventis* [2013] HCA 50  __
+
+*Apotex Pty Ltd v Sanofi-Aventis* [2013] HCA 50  
 
 The 4:1 majority of this case confirms that methods of medical treatment are patentable.
 
@@ -206,9 +206,9 @@ Held: Patent at issue is valid – no exception for methods of medical treatment
 
 ### Patentable Subject Matter: Genes
 
-One of the most contentious areas within patent law is the patentability of genes or the process of isolating genes. In the seminal case of //D’Arcy v Myriad Genetics Inc// [^AUTOREPLACED2015HCA35ENDREPLACE]
+One of the most contentious areas within patent law is the patentability of genes or the process of isolating genes. In the seminal case of //D’Arcy v Myriad Genetics Inc// [^AUTOREPLACED2015HCA35ENDREPLACE] the court was asked to consider whether the process of chemically isolating genes amounted to patentable subject matter. The court held that this process was not patentable subject matter.
 [^AUTOREPLACED2015HCA35ENDREPLACE]: [2015] HCA 35
- the court was asked to consider whether the process of chemically isolating genes amounted to patentable subject matter. The court held that this process was not patentable subject matter.
+
 
 __*D’Arcy v Myriad Genetics Inc*__
 
@@ -223,7 +223,7 @@ Held: isolation of genes not patentable
 ## Requirement 2: Novelty
 
 In order to be patentable the invention must be new. This requires the invention to have not been disclosed to the public before the priority date. The invention is compared to the prior art base, which consists of prior art information that is publicly available in a document or through doing an act, or in two or more related documents or acts anywhere in the world. [^AUTOREPLACEDPAs71ENDREPLACE]
-[^AUTOREPLACEDPAs71ENDREPLACE]: //PA// s 7(1) 
+[^AUTOREPLACEDPAs71ENDREPLACE]: //PA// s 7(1)
 
 
 Novelty is required by ss 18(1)(b)(i), 18(1A)(b)(i) and 7(1) of the //Act//.
@@ -245,9 +245,9 @@ A foreign application's an be made wither provisional or complete via The Paris 
 
 ### Prior Art Base
 
-Historically, the prior art base was confined to documents and acts that were made available within Australia. [^AUTOREPLACEDPatentsAct1952CthENDREPLACE]
+Historically, the prior art base was confined to documents and acts that were made available within Australia. [^AUTOREPLACEDPatentsAct1952CthENDREPLACE] The Patents Amendment Act 2001 (Cth) extended the breadth of the prior art base to include a worldwide comparison of all documents and acts available.
 [^AUTOREPLACEDPatentsAct1952CthENDREPLACE]:  //Patents Act 1952// Cth
- The Patents Amendment Act 2001 (Cth) extended the breadth of the prior art base to include a worldwide comparison of all documents and acts available.
+
 
 **Video overview by Tracey Bryan on [Prior Art Base](https://www.youtube.com/watch?v=QaJdiagcO_o).**
 
@@ -257,12 +257,12 @@ His Honour Aickin J stated at 235:
 
  > “The basic test for anticipation… is the same as that for infringement… whether the alleged anticipation would, if the patent were valid, constitute an infringement.”
 
-The prior art must disclose all the essential features of the invention as claimed. [^AUTOREPLACEDNicaroHoldingsPtyLtdvMartinEngineeringCo199091ALR513at517ENDREPLACE]
+The prior art must disclose all the essential features of the invention as claimed. [^AUTOREPLACEDNicaroHoldingsPtyLtdvMartinEngineeringCo199091ALR513at517ENDREPLACE] It is not permissible to “mosaic” the prior art information to invalidate a patent. [^AUTOREPLACEDMinnesotaMiningManufacturingCovBeiersdorf1980144CLR253ENDREPLACE] However, reading together different publications is permissible where it is plain there is incorporation by reference, for example because an invention may involve putting things that exist together in a new way that hasn’t been done before. [^AUTOREPLACEDNicaroHoldingsPtyLtdvMartinEngineering199091ALR513ENDREPLACE]
 [^AUTOREPLACEDNicaroHoldingsPtyLtdvMartinEngineeringCo199091ALR513at517ENDREPLACE]: //Nicaro Holdings Pty Ltd v Martin Engineering Co* (1990)// 91 ALR 513 at 517
- It is not permissible to “mosaic” the prior art information to invalidate a patent. [^AUTOREPLACEDMinnesotaMiningManufacturingCovBeiersdorf1980144CLR253ENDREPLACE]
+
 [^AUTOREPLACEDMinnesotaMiningManufacturingCovBeiersdorf1980144CLR253ENDREPLACE]: //Minnesota Mining & Manufacturing Co v Beiersdorf (1980)// 144 CLR 253
- However, reading together different publications is permissible where it is plain there is incorporation by reference, for example because an invention may involve putting things that exist together in a new way that hasn’t been done before. [^AUTOREPLACEDNicaroHoldingsPtyLtdvMartinEngineering199091ALR513ENDREPLACE]
 [^AUTOREPLACEDNicaroHoldingsPtyLtdvMartinEngineering199091ALR513ENDREPLACE]: //Nicaro Holdings Pty Ltd v Martin Engineering (1990)// 91 ALR 513
+
 
 
 An inventor who discloses his/her invention to the public before the priority date will anticipate his or her own invention. This may result in the invention lacking novelty. However, disclosure of an invention to a person who is subject to an obligation of confidence will not destroy novelty.  There is also a grace period where an applicant can file a complete patent application within 12 months of the disclosure and still be granted a patent. [^AUTOREPLACEDPAs24ENDREPLACE]
@@ -303,19 +303,19 @@ An applicant can choose to apply for either a Standard Patent or an Innovation P
 
 According to ss 18(1)(b)(ii) and 7(2) of the //Act//, there will be an inventive step unless the invention would have been obvious to a person skilled in the relevant art in the light of the common general knowledge as it existed before the priority date. The threshold for this test is relatively low - ‘if it would not have been obvious’.
 
-“Obvious” has the ordinary English meaning of “very plain”. [^AUTOREPLACEDAktiebolagetHsslevAlphapharmPtyLtd2002212CLR41142630ENDREPLACE]
+“Obvious” has the ordinary English meaning of “very plain”. [^AUTOREPLACEDAktiebolagetHsslevAlphapharmPtyLtd2002212CLR41142630ENDREPLACE] A “scintilla of inventiveness” (very small amount) is sufficient to support an inventive step. [^AUTOREPLACEDMeyersTaylorPtyLtdvVicarrIndustriesLtd1977137CLR28249AickenJENDREPLACE] It is necessary to guard against the use of hindsight - an invention always seems more obvious when you know about it.
 [^AUTOREPLACEDAktiebolagetHsslevAlphapharmPtyLtd2002212CLR41142630ENDREPLACE]: Aktiebolaget Hässle v Alphapharm Pty Ltd (2002) 212 CLR 411, 426 [30]
- A “scintilla of inventiveness” (very small amount) is sufficient to support an inventive step. [^AUTOREPLACEDMeyersTaylorPtyLtdvVicarrIndustriesLtd1977137CLR28249AickenJENDREPLACE]
+
 [^AUTOREPLACEDMeyersTaylorPtyLtdvVicarrIndustriesLtd1977137CLR28249AickenJENDREPLACE]: Meyers Taylor Pty Ltd v Vicarr Industries Ltd (1977) 137 CLR 28, 249 (Aicken J
- It is necessary to guard against the use of hindsight - an invention always seems more obvious when you know about it.
+
 
 **Video overview by Shiva Abassi  on[Inventive Step](https://www.youtube.com/watch?v=Pvi38hb98hY).**
 
 **Video overview by Emily Sakzewski on[Inventive Step](https://www.youtube.com/watch?v=3fdADIrxx6Q).**
 
-A 'person skilled in the relevant art' is a hypothetical “non-inventive” person who possesses “ordinary skill” who works in the art or science of the invention. [^AUTOREPLACEDHLundbeckASvAlphapharmPtyLtd2009177FCR151190173perBennettJENDREPLACE]
+A 'person skilled in the relevant art' is a hypothetical “non-inventive” person who possesses “ordinary skill” who works in the art or science of the invention. [^AUTOREPLACEDHLundbeckASvAlphapharmPtyLtd2009177FCR151190173perBennettJENDREPLACE] This can be a team of researchers. [^AUTOREPLACEDAktiebolagetHsslevAlphapharmPty2002212CLR41142630ENDREPLACE]
 [^AUTOREPLACEDHLundbeckASvAlphapharmPtyLtd2009177FCR151190173perBennettJENDREPLACE]: H Lundbeck A/S v Alphapharm Pty Ltd (2009) 177 FCR 151, 190, [173] per Bennett J
- This can be a team of researchers. [^AUTOREPLACEDAktiebolagetHsslevAlphapharmPty2002212CLR41142630ENDREPLACE]
+
 [^AUTOREPLACEDAktiebolagetHsslevAlphapharmPty2002212CLR41142630ENDREPLACE]: Aktiebolaget Hässle v Alphapharm Pty (2002) 212 CLR 411, 426 [30]
 
 
@@ -329,10 +329,10 @@ Common general knowledge is the body of knowledge known or used by all those in 
 ### Innovative Step
 
 Sections 18(1A)(b)(ii), 7(4): An invention is taken to involve an innovative step when compared to prior art base unless a person skilled in the relevant art in the light of the common general knowledge before the priority date of the claim would consider the invention only varied from the prior art information in ways that make no substantial contribution to the working of the invention. [^AUTOREPLACEDPAs74ENDREPLACE]
-[^AUTOREPLACEDPAs74ENDREPLACE]: //PA// s 7(4) 
+[^AUTOREPLACEDPAs74ENDREPLACE]: //PA// s 7(4)
 
 
-##### Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd (2009) 177 FCR 239//; [2009] FCAFC 81__
+; [2009] FCAFC 81__
 
 Facts: Concerned improved flexible roadside posts. Utilised sheet spring steel to overcome the problems of resilience and durability in existing flexible roadside posts. Stopped them from just cracking and breaking when hit. * Held: Innovation patents were designed for patenting improvements. The poles were patentable. The court held that the process to identify inventive step is to:
 
@@ -382,9 +382,9 @@ Pursuant to s 9 of the //Act// the following acts are not considered to be secre
 •	Any other use for any purpose other than the purpose of trade or commerce; and
 •	Any use of the invention by or on behalf of the Commonwealth, a State, or a Territory.
 
-There is a new 12 months grace period in respect of secret use. [^AUTOREPLACEDPAs9ENDREPLACE]
+There is a new 12 months grace period in respect of secret use. [^AUTOREPLACEDPAs9ENDREPLACE] The grace period provisions in s 24 apply to any secret use of the invention made within 12 months of filing a complete application (as opposed to a provisional application). In other words, secret use will be treated in the same way as public use as far as the grace period is concerned.
 [^AUTOREPLACEDPAs9ENDREPLACE]: //PA// s 9
- The grace period provisions in s 24 apply to any secret use of the invention made within 12 months of filing a complete application (as opposed to a provisional application). In other words, secret use will be treated in the same way as public use as far as the grace period is concerned.
+
 
 
 __*Azuko Pty Ltd v Old Digger Pty Ltd* (2001) 52 IPR 75__
@@ -416,11 +416,11 @@ Patent attorneys in Australia have exclusive monopoly on the right to draft a pa
 The specification in s 40 of the //Patents Act 1990// (Cth) provides that:
 
 A provisional specification must disclose the invention in a manner which is clear enough and complete enough for the invention to be performed by a person skilled in the relevant art. [^AUTOREPLACEDPAs401ENDREPLACE]
-[^AUTOREPLACEDPAs401ENDREPLACE]: //PA// s 40(1) 
+[^AUTOREPLACEDPAs401ENDREPLACE]: //PA// s 40(1)
 
 
 It also must be a complete specification which includes: [^AUTOREPLACEDPAs402ENDREPLACE]
-[^AUTOREPLACEDPAs402ENDREPLACE]: //PA// s 40(2) 
+[^AUTOREPLACEDPAs402ENDREPLACE]: //PA// s 40(2)
 
 
   * Disclosure of the  invention in a manner which is clear enough and complete enough for the invention to be performed by a person skilled in the relevant art (note pre-Raising the Bar, a specification had to 'describe the invention fully'); and
@@ -527,11 +527,11 @@ For more information see[IP Australia’s Patent Application Guide](https://www.
 **Video by Kimberley Dorrian on [How to Obtain a Standard Patent](https://goanimate.com/videos/0f_ER1g2iPds?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent).**
 
 ### Innovation Patent
-Only a formalities check is conducted prior to grant of the patent. [^AUTOREPLACEDPAs52ENDREPLACE]
+Only a formalities check is conducted prior to grant of the patent. [^AUTOREPLACEDPAs52ENDREPLACE] The patentee must comply with the specification disclosure requirements in s 40. The patent can only be enforced once it is certified, which requires a substantive examination. [^AUTOREPLACEDPAs101EENDREPLACE] If an innovation patent is examined and found to be invalid, it is revoked. [^AUTOREPLACEDPAs138ENDREPLACE]
 [^AUTOREPLACEDPAs52ENDREPLACE]: //PA// s 52
- The patentee must comply with the specification disclosure requirements in s 40. The patent can only be enforced once it is certified, which requires a substantive examination. [^AUTOREPLACEDPAs101EENDREPLACE]
+
 [^AUTOREPLACEDPAs101EENDREPLACE]: //PA// s 101E
- If an innovation patent is examined and found to be invalid, it is revoked. [^AUTOREPLACEDPAs138ENDREPLACE]
+
 [^AUTOREPLACEDPAs138ENDREPLACE]: //PA// s 138
 
 

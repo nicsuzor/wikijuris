@@ -33,9 +33,9 @@ A design is “the overall appearance of the product resulting from one or more 
 [^AUTOREPLACEDDAs5ENDREPLACE]: //DA// s 5
 
 
-A visual feature “includes the shape, configuration, pattern and ornamentation of the product”. [^AUTOREPLACEDDAs7ENDREPLACE]
+A visual feature “includes the shape, configuration, pattern and ornamentation of the product”. [^AUTOREPLACEDDAs7ENDREPLACE] A visual feature is not the feel of the product or the materials used.
 [^AUTOREPLACEDDAs7ENDREPLACE]: //DA// s 7
- A visual feature is not the feel of the product or the materials used.
+
 
 
 **Video overview by Amara Boustead on [What a 'Product' is in Design Law](https://www.youtube.com/watch?v=kT-0YI5sBYQ)**
@@ -45,15 +45,15 @@ A visual feature “includes the shape, configuration, pattern and ornamentation
 
 ## Registration of Designs
 
-In order to obtain registration, a design must be “new and distinctive when compared with the prior art base for the design as it existed before the priority date of the design”.[^AUTOREPLACEDDAs15ENDREPLACE]
+In order to obtain registration, a design must be “new and distinctive when compared with the prior art base for the design as it existed before the priority date of the design”.[^AUTOREPLACEDDAs15ENDREPLACE] Pursuant to s 16(1) of the //Act//, a design is new unless it is identical to a design that forms part of the prior art base for the design. Under //DA// s 16(2), a design is distinctive unless it is substantially similar in overall impression to a design that forms part of the prior art base for the design.
 [^AUTOREPLACEDDAs15ENDREPLACE]: //DA// s 15
- Pursuant to s 16(1) of the //Act//, a design is new unless it is identical to a design that forms part of the prior art base for the design. Under //DA// s 16(2), a design is distinctive unless it is substantially similar in overall impression to a design that forms part of the prior art base for the design.
+
 
 ### Substantial Similarity
 
-In determining substantial similarity [^AUTOREPLACEDDAs19ENDREPLACE]
+In determining substantial similarity [^AUTOREPLACEDDAs19ENDREPLACE] more weight must be given to the similarities than differences.  
 [^AUTOREPLACEDDAs19ENDREPLACE]: //DA// s 19
- more weight must be given to the similarities than differences.  
+
 
 There must be regard to:
 
@@ -64,11 +64,11 @@ There must be regard to:
 
 ## Registration Process
 
-The owner of a design is entitled to apply for its registration. [^AUTOREPLACEDDAs13ENDREPLACE]
+The owner of a design is entitled to apply for its registration. [^AUTOREPLACEDDAs13ENDREPLACE] A design application may be in respect of more than one design. [^AUTOREPLACEDDAs21ENDREPLACE] Registration occurs without substantive examination - only the formal requirements are checked. [^AUTOREPLACEDDAss2439and40ENDREPLACE]
 [^AUTOREPLACEDDAs13ENDREPLACE]: //DA// s 13
- A design application may be in respect of more than one design. [^AUTOREPLACEDDAs21ENDREPLACE]
+
 [^AUTOREPLACEDDAs21ENDREPLACE]: //DA// s 21
- Registration occurs without substantive examination - only the formal requirements are checked. [^AUTOREPLACEDDAss2439and40ENDREPLACE]
+
 [^AUTOREPLACEDDAss2439and40ENDREPLACE]: //DA// ss 24, 39 and 40
 
 
@@ -82,25 +82,25 @@ Publication is an alternative to registration. It does not give the design prote
 [^AUTOREPLACEDDAss3940ENDREPLACE]: //DA// ss 39 - 40
 
 
-Registration of an application will occur after an initial formalities check. [^AUTOREPLACEDDAss3940ENDREPLACE]
+Registration of an application will occur after an initial formalities check. [^AUTOREPLACEDDAss3940ENDREPLACE] Once registered, the details of the design will be published and the Registrar will issue a certificate of registration. [^AUTOREPLACEDDAs45ENDREPLACE] If the Registrar is not satisfied with the application, the applicant will be given the opportunity to amend it. [^AUTOREPLACEDDAs41ENDREPLACE]
 [^AUTOREPLACEDDAss3940ENDREPLACE]: //DA// ss 39 - 40
- Once registered, the details of the design will be published and the Registrar will issue a certificate of registration. [^AUTOREPLACEDDAs45ENDREPLACE]
+
 [^AUTOREPLACEDDAs45ENDREPLACE]: //DA// s 45
- If the Registrar is not satisfied with the application, the applicant will be given the opportunity to amend it. [^AUTOREPLACEDDAs41ENDREPLACE]
+
 [^AUTOREPLACEDDAs41ENDREPLACE]: //DA// s 41
 
 
 ### Post-Registration Examination
 
-Examination now occurs post-grant, if a person requests or the court orders examination. [^AUTOREPLACEDDAs63ENDREPLACE]
+Examination now occurs post-grant, if a person requests or the court orders examination. [^AUTOREPLACEDDAs63ENDREPLACE] Infringement proceedings cannot be launched until examination has occurred. [^AUTOREPLACEDDAs733ENDREPLACE] If there is no ground for revocation, a certificate of examination is issued. [^AUTOREPLACEDDAs67ENDREPLACE] However, if grounds of revocation are found, either the owner must be allowed to amend it if possible, [^AUTOREPLACEDDAs663ENDREPLACE] or the registration will be revoked. [^AUTOREPLACEDDAs68ENDREPLACE]
 [^AUTOREPLACEDDAs63ENDREPLACE]: //DA// s 63
- Infringement proceedings cannot be launched until examination has occurred. [^AUTOREPLACEDDAs733ENDREPLACE]
-[^AUTOREPLACEDDAs733ENDREPLACE]: //DA// s 73(3) 
- If there is no ground for revocation, a certificate of examination is issued. [^AUTOREPLACEDDAs67ENDREPLACE]
+
+[^AUTOREPLACEDDAs733ENDREPLACE]: //DA// s 73(3)
+
 [^AUTOREPLACEDDAs67ENDREPLACE]: //DA// s 67
- However, if grounds of revocation are found, either the owner must be allowed to amend it if possible, [^AUTOREPLACEDDAs663ENDREPLACE]
-[^AUTOREPLACEDDAs663ENDREPLACE]: //DA// s 66(3) 
- or the registration will be revoked. [^AUTOREPLACEDDAs68ENDREPLACE]
+
+[^AUTOREPLACEDDAs663ENDREPLACE]: //DA// s 66(3)
+
 [^AUTOREPLACEDDAs68ENDREPLACE]: //DA// s 68
 
 
@@ -134,18 +134,18 @@ These rights include:
 ### Embodies the design
 
 A design will not be registrable or may be infringing if it is considered to “embod[y] a design that is identical to, or substantially similar in overall impression to, the registered design”.  Same factors as for registrability. [^AUTOREPLACEDDAs713ENDREPLACE]
-[^AUTOREPLACEDDAs713ENDREPLACE]: //DA// s 71(3) 
+[^AUTOREPLACEDDAs713ENDREPLACE]: //DA// s 71(3)
 
 
 In *Review Australia Pty Ltd v Innovative Lifestyle Investments Pty Ltd* (2008) 246 ALR 119,  the court decided that the Lili dress was substantially similar to a Review dress.
 
 ## Infringement
 
-Infringement proceedings can be brought once the design is examined and a certificate of examination is issued. [^AUTOREPLACEDDAs733ENDREPLACE]
-[^AUTOREPLACEDDAs733ENDREPLACE]: //DA// s 73(3) 
- The onus is on the registered owner to show infringement. [^AUTOREPLACEDDAs722ENDREPLACE]
-[^AUTOREPLACEDDAs722ENDREPLACE]: //DA// s 72(2) 
- Infringement occurs when, without licence or authority: [^AUTOREPLACEDDAs71ENDREPLACE]
+Infringement proceedings can be brought once the design is examined and a certificate of examination is issued. [^AUTOREPLACEDDAs733ENDREPLACE] The onus is on the registered owner to show infringement. [^AUTOREPLACEDDAs722ENDREPLACE] Infringement occurs when, without licence or authority: [^AUTOREPLACEDDAs71ENDREPLACE]
+[^AUTOREPLACEDDAs733ENDREPLACE]: //DA// s 73(3)
+
+[^AUTOREPLACEDDAs722ENDREPLACE]: //DA// s 72(2)
+
 [^AUTOREPLACEDDAs71ENDREPLACE]: //DA// s 71
 
 
@@ -166,7 +166,7 @@ The spare parts defence allows use of a product to repair a complex product.  Do
 In the case of infringement of a registered design, a court may award an injunction subject to such terms as the court thinks fit; or they may award damages or an account of profits.
 
 A court may refuse to award damages, if at the time of the infringement, the defendant was not aware that the design was registered and had taken all reasonable steps to ascertain whether the design was registered. [^AUTOREPLACEDDAs752ENDREPLACE]
-[^AUTOREPLACEDDAs752ENDREPLACE]: //DA// s 75(2) 
+[^AUTOREPLACEDDAs752ENDREPLACE]: //DA// s 75(2)
 
 
 ## The Design/Copyright Overlap
@@ -185,7 +185,7 @@ Importantly, the copyright design overlap doesn’t apply to industrial works of
 
 Reproduction of an artistic work is an infringement. [^AUTOREPLACEDCAs31ENDREPLACE]
 [^AUTOREPLACEDCAs31ENDREPLACE]: //CA// s 31
-  
+
 
 2D <-> 3D reproduction of an artistic work is an infringement. [^AUTOREPLACEDCAs21ENDREPLACE]
 [^AUTOREPLACEDCAs21ENDREPLACE]: //CA// s 21
@@ -223,9 +223,9 @@ Note this does not apply to works of artistic craftsmanship, buildings or models
 
 ### Corresponding Design
 
-Corresponding design “means visual features of shape or configuration which, when embodied in a product, result in a reproduction of that work, whether or not the visual features constitute a design that is capable of being registered under the Designs Act 2003”. [^AUTOREPLACEDCopyrightAct1968Cths74ENDREPLACE]
+Corresponding design “means visual features of shape or configuration which, when embodied in a product, result in a reproduction of that work, whether or not the visual features constitute a design that is capable of being registered under the Designs Act 2003”. [^AUTOREPLACEDCopyrightAct1968Cths74ENDREPLACE] Does not cover flat designs (artistic works printed on a product are still protected under copyright).
 [^AUTOREPLACEDCopyrightAct1968Cths74ENDREPLACE]: //Copyright Act 1968// (Cth) s 74
- Does not cover flat designs (artistic works printed on a product are still protected under copyright).
+
 
 __*Coogi v Hysport* (1998) 157 ALR 247__
 

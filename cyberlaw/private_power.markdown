@@ -50,11 +50,11 @@ There are ongoing battles to try to get more transparency about how private enti
 
 This becomes even more important when we look at the conflict between freedom of speech and other legitimate legal rights. For example, there are many who complain that private companies do not do enough to limit the spread of hate speech. In recent years, there has been a lot of publicity about gender-based hate speech in particular, but there are serious questions about how well the social networks that control speech encourage and protect minority viewpoints in general.
 
-If we think of freedom of speech not just as a negative right to be free from overt state interference, but as a thicker substantive right to maintain and express one's opinions, there is a real conflict here. Minority voices are being drowned out by abuse[^AUTOREPLACEDForaninterestingoverviewofhatespeechinonlinegamingplatformsseethisvideobyGAMBIThttpvideomiteduwatchgambithatespeechvideo7031AUTOREPLACED]
+If we think of freedom of speech not just as a negative right to be free from overt state interference, but as a thicker substantive right to maintain and express one's opinions, there is a real conflict here. Minority voices are being drowned out by abuse[^AUTOREPLACEDForaninterestingoverviewofhatespeechinonlinegamingplatformsseethisvideobyGAMBIThttpvideomiteduwatchgambithatespeechvideo7031AUTOREPLACED] or silenced by algorithms, filters, and moderators with inbuilt majoritarian biases.
 
 [^AUTOREPLACEDForaninterestingoverviewofhatespeechinonlinegamingplatformsseethisvideobyGAMBIThttpvideomiteduwatchgambithatespeechvideo7031AUTOREPLACED]: For an interesting overview of hate speech in online gaming platforms, see this video by GAMBIT: http://video.mit.edu/watch/gambit-hate-speech-video-7031/
 
- or silenced by algorithms, filters, and moderators with inbuilt majoritarian biases.
+
 
 This represents a key tension between the right of freedom of expression, and the ability to actually enforce legal rules and social norms. Private intermediaries are increasingly being asked to do more, but they don’t have the legitimate authority of courts. If they don’t do more, though, people get hurt. Finding a way to balance these tensions is one of the key challenges for regulating the internet.
 

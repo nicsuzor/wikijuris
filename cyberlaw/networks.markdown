@@ -60,11 +60,11 @@ The second claim that Barlow makes in his Declaration is that state governments 
 
 >"We believe that from ethics, enlightened self-interest, and the commonweal, our governance will emerge."
 
-Barlow's argument is that the rules and social norms created by online communities to govern themselves will be better than anything imposed by territorial states. This was expressed by Johnson and Post in a famous 1995 article as a general principle that there is “no geographically localized set of constituents with a strong and more legitimate claim to regulate [online activities]” than the members of the communities themselves.[^AUTOREPLACEDDavidJohnsonandDavidPostLawandBordersTheRiseofLawinCyberspace199548StanfordLawReview13671375AUTOREPLACED]
+Barlow's argument is that the rules and social norms created by online communities to govern themselves will be better than anything imposed by territorial states. This was expressed by Johnson and Post in a famous 1995 article as a general principle that there is “no geographically localized set of constituents with a strong and more legitimate claim to regulate [online activities]” than the members of the communities themselves.[^AUTOREPLACEDDavidJohnsonandDavidPostLawandBordersTheRiseofLawinCyberspace199548StanfordLawReview13671375AUTOREPLACED] In addition to arguing that online communities should be able to govern for themselves, Barlow and Johnson and Post asserted that if territorial governments try to impose their own laws on a borderless internet, users will never be able to work out what set of rules they are subject to. The consequence of governments attempting to prevent online communities from regulating themselves, according to Post, would be:[^AUTOREPLACEDPostGoverningCyberspaceLaw2008httpwwwacademiaedu2720975Governing_Cyberspace_LawAUTOREPLACED]
 
 [^AUTOREPLACEDDavidJohnsonandDavidPostLawandBordersTheRiseofLawinCyberspace199548StanfordLawReview13671375AUTOREPLACED]: David Johnson and David Post, ‘Law and Borders--The Rise of Law in Cyberspace’ (1995) 48 Stanford Law Review 1367, 1375
 
- In addition to arguing that online communities should be able to govern for themselves, Barlow and Johnson and Post asserted that if territorial governments try to impose their own laws on a borderless internet, users will never be able to work out what set of rules they are subject to. The consequence of governments attempting to prevent online communities from regulating themselves, according to Post, would be:[^AUTOREPLACEDPostGoverningCyberspaceLaw2008httpwwwacademiaedu2720975Governing_Cyberspace_LawAUTOREPLACED]
+
 
 [^AUTOREPLACEDPostGoverningCyberspaceLaw2008httpwwwacademiaedu2720975Governing_Cyberspace_LawAUTOREPLACED]: Post, 'Governing Cyberspace: Law' (2008) http://www.academia.edu/2720975/Governing_Cyberspace_Law
 
@@ -72,8 +72,6 @@ Barlow's argument is that the rules and social norms created by online communiti
 
 > “... the chaotic nonsense of Jurisdictional Whack-a-Mole".
 
-As we will see in the [jurisdiction](Jurisdiction chapter), the legitimacy of any one nation claiming jurisdiction over transnational communications is still a vexed issue. As the Australian High Court noted in the _Dow Jones v Gutnick_[^AUTOREPLACED_DowJonesandCompanyIncvGutnick_2002HCA56httpwwwaustliieduaucgibinsinodispaucasescthHCA200256htmlstem0synonyms0querytitledow20jones20and20gutnick20nocontext1AUTOREPLACED]
+As we will see in the [jurisdiction](Jurisdiction chapter), the legitimacy of any one nation claiming jurisdiction over transnational communications is still a vexed issue. As the Australian High Court noted in the _Dow Jones v Gutnick_[^AUTOREPLACED_DowJonesandCompanyIncvGutnick_2002HCA56httpwwwaustliieduaucgibinsinodispaucasescthHCA200256htmlstem0synonyms0querytitledow20jones20and20gutnick20nocontext1AUTOREPLACED] case, nation states purport to have a responsibility to protect their citizens' interests online, and certainly a desire to regulate online content and behaviour.
 
 [^AUTOREPLACED_DowJonesandCompanyIncvGutnick_2002HCA56httpwwwaustliieduaucgibinsinodispaucasescthHCA200256htmlstem0synonyms0querytitledow20jones20and20gutnick20nocontext1AUTOREPLACED]: _Dow Jones and Company Inc v Gutnick_ [2002] HCA 56 http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/2002/56.html?stem=0&synonyms=0&query=title(dow%20jones%20and%20gutnick%20)&nocontext=1
-
- case, nation states purport to have a responsibility to protect their citizens' interests online, and certainly a desire to regulate online content and behaviour.

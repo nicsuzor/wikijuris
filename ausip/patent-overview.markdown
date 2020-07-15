@@ -52,9 +52,9 @@ The period of protection afforded by a standard patent is up to twenty years fro
 [^AUTOREPLACED$1ENDREPLACE]: $1
 
 
-An extension of up to five years can be sought for pharmaceuticals. [^AUTOREPLACED$1ENDREPLACE]
+An extension of up to five years can be sought for pharmaceuticals. [^AUTOREPLACED$1ENDREPLACE] Pharmaceuticals require regulatory approval before they are sold to the public and approvals can only be sought during the patent term, so patentees are compensated for the time taken to obtain regulatory approval.
 [^AUTOREPLACED$1ENDREPLACE]: $1
- Pharmaceuticals require regulatory approval before they are sold to the public and approvals can only be sought during the patent term, so patentees are compensated for the time taken to obtain regulatory approval.
+
 
 Not all pharmaceutical patent applications are automatically given the extension of five years. Three requirements must be met to obtain an extension for a pharmaceutical patent:[^AUTOREPLACED$1ENDREPLACE]
 [^AUTOREPLACED$1ENDREPLACE]: $1
@@ -98,9 +98,9 @@ An innovative patent is suitable for inventions with short market life. An innov
 [^AUTOREPLACED$1ENDREPLACE]: $1
 e step, which involved a lesser degree of inventiveness compared to the standard patent. An innovative step is one where the invention is different from existing technology and provides a substantial contribution to the working of the invention. The innovation patent seeks to protect incremental advances in technology as opposed to ground-breaking technology (which would be covered under a standard patent).  
 
-The duration of an innovative patent is for the period of eight years from the date of the patent. [^AUTOREPLACED$1ENDREPLACE]
+The duration of an innovative patent is for the period of eight years from the date of the patent. [^AUTOREPLACED$1ENDREPLACE] Innovative patents can be granted within one month of filing, as there is no requirement for examination.
 [^AUTOREPLACED$1ENDREPLACE]: $1
- Innovative patents can be granted within one month of filing, as there is no requirement for examination.
+
 
 **Video overview by Maddison D on [The Difference Between a Standard Patent and an Innovation Patent](https://www.youtube.com/watch?v=G77xPOYJZng?small).**
 
@@ -117,9 +117,9 @@ rced unless examined). | The application is examined and found to satisfy the re
 [^AUTOREPLACED$1ENDREPLACE]: $1
 ion. Only after certification can the patent be enforced. | N/A|
 | Publication in the Australian Official Journal of Patents: | At grant and again at certification. | 18 months from earliest priority date and again at acceptance.|
-|Protection period: | Up to eight years if annual fees are paid. | Up to 20 years if annual fees are paid (or up [^AUTOREPLACED$1ENDREPLACE]
+|Protection period: | Up to eight years if annual fees are paid. | Up to 20 years if annual fees are paid (or up [^AUTOREPLACED$1ENDREPLACE] pharmaceuticals).|
 [^AUTOREPLACED$1ENDREPLACE]: $1
- pharmaceuticals).|
+
 |How long does the process take?| Approximately one month for grant. Six months for examination if you make a request. | Six months to several years depending on circumstances.|
 [^AUTOREPLACED$1ENDREPLACE]
 [^AUTOREPLACED$1ENDREPLACE]: $1

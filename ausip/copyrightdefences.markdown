@@ -114,7 +114,7 @@ The difference is this: in the US, the courts only need to consider whether the 
 
 The leading case of //De Garis v Neville Jeffress Pidler Pty Ltd// considered the meaning of the terms "research or study".
 <WRAP case>
-##### De Garis v Neville Jeffress Pidler Pty Ltd//__[^AUTOREPLACED18IPR292ENDREPLACE]
+__[^AUTOREPLACED18IPR292ENDREPLACE]
 [^AUTOREPLACED18IPR292ENDREPLACE]: 18 IPR 292
 
 
@@ -193,7 +193,7 @@ In the case of //De Garis v Neville Jeffress Pidler Pty Ltd// at 299-300, Beaumo
 * "criticism" includes all kinds of criticism – it is not restricted to literary criticism - “review” is cognate with the word “criticism”; one is the process, the other is the result of the critical application of the mental faculties.
 
 <WRAP case>
-##### TCN Channel Nine Pty Ltd v Network Ten Ltd// [^AUTOREPLACED2001FCA108ENDREPLACE]
+ [^AUTOREPLACED2001FCA108ENDREPLACE]
 [^AUTOREPLACED2001FCA108ENDREPLACE]: [2001] FCA 108__
 
 In the case of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/2001/108.html) Justice Conti noted that:
@@ -350,7 +350,7 @@ The new version was a transformative use – markedly different from the origina
 </WRAP>
 
 <WRAP case>
-##### Leibovitz v. Paramount Pictures Corp.//__ [^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]
+__ [^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]
 [^AUTOREPLACED137F3d1092dCirNY1998ENDREPLACE]: 137 F.3d 109 (2d Cir. N.Y. 1998)
 
 
@@ -361,7 +361,7 @@ The new version was a transformative use – markedly different from the origina
 </WRAP>
 
 <WRAP case>
-##### Sun Trust v Houghton Mifflin//__ [^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]
+__ [^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]
 [^AUTOREPLACED268F3d125711thCir2001ENDREPLACE]: 268 F.3d 1257 (11th Cir. 2001)
 
 
@@ -372,7 +372,7 @@ The new version was a transformative use – markedly different from the origina
 </WRAP>
 
 <WRAP case>
-##### Salinger v. Colting//__ [^AUTOREPLACED641FSupp2d250SDNY2009ENDREPLACE]
+__ [^AUTOREPLACED641FSupp2d250SDNY2009ENDREPLACE]
 [^AUTOREPLACED641FSupp2d250SDNY2009ENDREPLACE]: 641 F. Supp. 2d 250 (S.D. N.Y. 2009)
 
 
@@ -408,7 +408,7 @@ This exception will not apply if an article or thing embodying the film or recor
 
 **Video overview by Jennifer Singleton on[Time Shifting](https://www.youtube.com/watch?v=PwzsIb9SF68).**
 <WRAP case>
-##### National Rugby League Investments Pty Limited v Singtel Optus Pty Ltd//__ [^AUTOREPLACED2012FCAFC59ENDREPLACE]
+__ [^AUTOREPLACED2012FCAFC59ENDREPLACE]
 [^AUTOREPLACED2012FCAFC59ENDREPLACE]: [2012] FCAFC 59
 
 

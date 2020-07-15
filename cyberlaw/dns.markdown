@@ -56,11 +56,11 @@ A Registrant can obtain a domain name in the .com.au, .net.au, .org.au and .asn.
 
 **“Close and Substantial Connection”**
 
-A Registrant may obtain a domain name licence for a name that has a close and substantial connection with the Registrant.[^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED]
+A Registrant may obtain a domain name licence for a name that has a close and substantial connection with the Registrant.[^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED] This requirement was introduced in 2002. For .com.au and .net.au domain names, a “close and substantial connection” with the Registrant may be established where the name refers to:
 
 [^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED]: See Clause 10 of Guidelines for Accredited Registrars on the Interpretation of Policy Rules for Open 2LDs (2008-06) at http://www.auda.org.au/policies/auda-2008-06/
 
- This requirement was introduced in 2002. For .com.au and .net.au domain names, a “close and substantial connection” with the Registrant may be established where the name refers to:
+
 
 * a product that the Registrant manufactures or sells;
 * a service the Registrant provides;
@@ -134,11 +134,11 @@ Where the second registrant can establish a right and legitimate interest in the
 ### Domain Name Disputes in Australia
 
 Administrative dispute resolution procedures based on the UDRP have been adopted by the administrators of many ccTLDs, including the .au ccTLD. The .au Domain Administration (AuDA) board((Current auDRP proceedings are available at http://www.auda.org.au/audrp/current-proceedings/. Archived proceedings can be accessed at http://www.auda.org.au/audrp/proceedings-archive/.
-)) approved the //Dispute Resolution Working Party Report// (June 2001) recommendations for a dispute resolution policy. It adopted the AuDRP, which is based on the UDRP, and applies to all .au subdomains. The auDRP commenced on 1 August 2002.[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED]
+)) approved the //Dispute Resolution Working Party Report// (June 2001) recommendations for a dispute resolution policy. It adopted the AuDRP, which is based on the UDRP, and applies to all .au subdomains. The auDRP commenced on 1 August 2002.[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED] The AuDRP provides for cheaper, faster alternatives to litigation for resolution of disputes between a registrant and another party who claims to have rights to the domain name. Complaints are submitted to any auDA-approved dispute resolution providers and are heard by a panel of either 1 or 3 providers. Providers, each who have their own rules, include:
 
 [^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED]: http://www.auda.org.au/policy/audrp
 
- The AuDRP provides for cheaper, faster alternatives to litigation for resolution of disputes between a registrant and another party who claims to have rights to the domain name. Complaints are submitted to any auDA-approved dispute resolution providers and are heard by a panel of either 1 or 3 providers. Providers, each who have their own rules, include:
+
   * Leading Edge ADR (LEADR)
   * Chartered Institute of Arbitrators (CIArb)
   * Institute of Arbitrators & Mediators Aust (IAMA)

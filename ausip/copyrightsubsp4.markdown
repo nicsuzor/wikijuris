@@ -32,9 +32,9 @@ The content protected by Part IV is known as "subject matter other than works" o
 
 For these subject matter, there is no requirement of originality. Rights are granted to the "makers" of these subject matter. The terminology for the creator is different in Part III and IV - the creators of Part III works are called "authors" and the creators of Part IV subject matter are called "makers".
 
-Copyright in Part IV subject matter is "in addition to, and independent of" any copyright subsisting in the work under Part III. [^AUTOREPLACEDCAs1131ENDREPLACE]
+Copyright in Part IV subject matter is "in addition to, and independent of" any copyright subsisting in the work under Part III. [^AUTOREPLACEDCAs1131ENDREPLACE] Thus, a single item may have many layers of copyright. For example, a recording of a song will have copyright protection in the underlying musical work (the musical notation), literary work (the lyrics), as well as copyright in the actual sound recording.
 [^AUTOREPLACEDCAs1131ENDREPLACE]: //CA// s 113(1)
- Thus, a single item may have many layers of copyright. For example, a recording of a song will have copyright protection in the underlying musical work (the musical notation), literary work (the lyrics), as well as copyright in the actual sound recording.
+
 
 
 **Video overview by Kylie Pappalardo on [Part IV Subject Matter Other Than Works](https://www.youtube.com/watch?v=PFSfIzyyLDU).**
@@ -45,9 +45,9 @@ Copyright in Part IV subject matter is "in addition to, and independent of" any 
 
 Copyright in sound recordings subsists by virtue of s 89 of the //Copyright Act//. "Sound recording" is defined in s 10 as "the aggregate of the sounds embodied in a record". [^AUTOREPLACEDCAs10ENDREPLACE]
 [^AUTOREPLACEDCAs10ENDREPLACE]: //CA// s 10
- "Record", in turn, is defined to mean "a disc, tape, paper or other device in which sounds are embodied". [^AUTOREPLACEDCAs10ENDREPLACE]
+ "Record", in turn, is defined to mean "a disc, tape, paper or other device in which sounds are embodied". [^AUTOREPLACEDCAs10ENDREPLACE] This definition is designed to be technology neutral and covers CDs, DVDs, electronic files etc.
 [^AUTOREPLACEDCAs10ENDREPLACE]: //CA// s 10
- This definition is designed to be technology neutral and covers CDs, DVDs, electronic files etc.
+
 
 
 ## Cinematograph Films
@@ -70,13 +70,11 @@ The means by which a "moving picture" is produced is not relevant in determining
 
 
 
-##### Sega Enterprises Ltd v Galaxy Electronics Pty Ltd//;__ [^AUTOREPLACED1996FCA761ENDREPLACE]
+In the cases [Sega Enterprises Ltd v Galaxy Electronics Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1996/761.html)[^AUTOREPLACED1996FCA761ENDREPLACE] and [Galaxy Electronics Pty Ltd v Sega Enterprises Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1997/403.html)[^AUTOREPLACED1997FCA403ENDREPLACE] Sega wanted to stop parallel imports of its video games.  As there is no restriction on importing non-infringing computer programs, Sega argued that the games were "films".
+
 [^AUTOREPLACED1996FCA761ENDREPLACE]: [1996] FCA 761
- __//Galaxy Electronics Pty Ltd v Sega Enterprises Ltd//__ [^AUTOREPLACED1997FCA403ENDREPLACE]
+
 [^AUTOREPLACED1997FCA403ENDREPLACE]: [1997] FCA 403
-
-
-In the cases [Sega Enterprises Ltd v Galaxy Electronics Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1996/761.html) and [Galaxy Electronics Pty Ltd v Sega Enterprises Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1997/403.html) Sega wanted to stop parallel imports of its video games.  As there is no restriction on importing non-infringing computer programs, Sega argued that the games were "films".
 
 
 It was held that the moving images in a computer-generated video game was a film. The definition should not be interpreted narrowly, but is intended to cover new technologies, the emphasis being on the end product rather than the means adopted to create those pictures.
@@ -112,12 +110,8 @@ There are three relevant definitions in s 10 of the //Act//:
 A key aspect of the concept of broadcasting, which is apparent in the definition of "broadcast", is that it is "to the public".
 
 
-
-##### Telstra Corp Ltd v Australasian Performing Right Association Ltd//__ [^AUTOREPLACED1997191CLR140ENDREPLACE]
+In the case of[Telstra Corp Ltd v Australasian Performing Right Association Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/1997/41.html)[^AUTOREPLACED1997191CLR140ENDREPLACE] APRA argued that when Telstra played music on hold to subscribers, it was broadcasting that music to the public.
 [^AUTOREPLACED1997191CLR140ENDREPLACE]:  (1997) 191 CLR 140
-
-
-In the case of[Telstra Corp Ltd v Australasian Performing Right Association Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/1997/41.html) APRA argued that when Telstra played music on hold to subscribers, it was broadcasting that music to the public.
 
 It was held that music on hold played to individual callers was considered to be played "to the public".
 
@@ -127,13 +121,12 @@ It was held that music on hold played to individual callers was considered to be
 **Video overview by Thomas Gardner on [Telstra Corp Ltd v Australasian Performing Right Association Ltd](https://www.youtube.com/watch?v=WRUtG398Ygw).**
 
 
-##### Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")//__ [^AUTOREPLACED2004218CLR273ENDREPLACE]
-[^AUTOREPLACED2004218CLR273ENDREPLACE]:  (2004) 218 CLR 273
 
-
-In the High Court of Australia case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/2004/14.html) Network Ten had a variety show called The Panel, which broadcast clips taken from other networks. A panel of commentators then provided (often humorous) commentary on the clips. The Panel used several short clips taken from Channel Nine. Nine sued under right to rebroadcast.
+In the High Court of Australia case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/2004/14.html)[^AUTOREPLACED2004218CLR273ENDREPLACE] Network Ten had a variety show called The Panel, which broadcast clips taken from other networks. A panel of commentators then provided (often humorous) commentary on the clips. The Panel used several short clips taken from Channel Nine. Nine sued under right to rebroadcast.
 
 The Full Federal Court held that any unauthorised rebroadcasting of a broadcast would be an infringement of copyright (subject to any defence of fair dealing that Ten might have had).
+
+[^AUTOREPLACED2004218CLR273ENDREPLACE]:  (2004) 218 CLR 273
 
 Broadcast "means visual images broadcast", not the "aggregate of visual images" like films. Therefore, the rebroadcast of very short clips from a program could still constitute an infringement.
 

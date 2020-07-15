@@ -132,9 +132,9 @@ The notion of reproduction involves **two elements** [^AUTOREPLACEDSWHartCovEdwa
 
 **Deemed Reproductions**
 
-A literary, dramatic or musical work is deemed to have been reproduced in a material form if a sound recording or film is made of the work [^AUTOREPLACEDCAs211ENDREPLACE]
+A literary, dramatic or musical work is deemed to have been reproduced in a material form if a sound recording or film is made of the work [^AUTOREPLACEDCAs211ENDREPLACE] Copyright in an artistic work in two-dimensional form will be infringed by its reproduction in a three dimensional form and vice versa. [^AUTOREPLACEDCAs213ENDREPLACE]
 [^AUTOREPLACEDCAs211ENDREPLACE]: //CA// s 21(1)
- Copyright in an artistic work in two-dimensional form will be infringed by its reproduction in a three dimensional form and vice versa. [^AUTOREPLACEDCAs213ENDREPLACE]
+
 [^AUTOREPLACEDCAs213ENDREPLACE]: //CA// s 21(3)
 
 
@@ -157,9 +157,9 @@ The copyright in a building or a model of a building is not infringed by the mak
 
 #### Element 1 - Causal Connection
 
-An infringement may be indirect. [^AUTOREPLACEDLEDBuildersPtyLtdvEagleHomes1999FCA584ENDREPLACE]
+An infringement may be indirect. [^AUTOREPLACEDLEDBuildersPtyLtdvEagleHomes1999FCA584ENDREPLACE] In order to prove a causal link it will generally be a requirement that the plaintiff show the defendant had access to the plaintiff's work. [^AUTOREPLACEDBarretPropertyGroupPtyLtdvDennisFamilyHomesPtyLtd201191IPR1ENDREPLACE]
 [^AUTOREPLACEDLEDBuildersPtyLtdvEagleHomes1999FCA584ENDREPLACE]: //LED Builders Pty Ltd v Eagle Homes// [1999] FCA 584
- In order to prove a causal link it will generally be a requirement that the plaintiff show the defendant had access to the plaintiff's work. [^AUTOREPLACEDBarretPropertyGroupPtyLtdvDennisFamilyHomesPtyLtd201191IPR1ENDREPLACE]
+
 [^AUTOREPLACEDBarretPropertyGroupPtyLtdvDennisFamilyHomesPtyLtd201191IPR1ENDREPLACE]: //Barret Property Group Pty Ltd v Dennis Family Homes Pty Ltd// (2011) 91 IPR 1
 
 
@@ -171,7 +171,7 @@ Subconscious copying is sufficient provided there is evidence of copying. [^AUTO
 [^AUTOREPLACEDFrancisDayHuntervBron1963Ch587perWillmerJENDREPLACE]: //Francis Day & Hunter v. Bron// [1963] Ch 587 per Willmer J
 
 
-##### Francis Day & Hunter v. Bron//__[^AUTOREPLACED1963Ch587ENDREPLACE]
+##### Francis Day & Hunter v. Bron [^AUTOREPLACED1963Ch587ENDREPLACE]
 [^AUTOREPLACED1963Ch587ENDREPLACE]: [1963] Ch 587
 
 
@@ -197,7 +197,7 @@ The test for reproduction requires both a causal connection and objective simila
 
 
 
-##### Zeccola v Universal City Studios Inc//__ [^AUTOREPLACED198246ALR189ENDREPLACE]
+##### Zeccola v Universal City Studios Inc [^AUTOREPLACED198246ALR189ENDREPLACE]
 [^AUTOREPLACED198246ALR189ENDREPLACE]:  (1982) 46 ALR 189
 
 
@@ -209,7 +209,7 @@ As to whether Zeccola had infringed copyright in the novel and screenplay, the p
 
 There is no copyright in the central idea: the idea of a shark terrorising a community cannot be protected. However, in this case, there was significant overlap in situations, characters, and location (even though the dialogue was different). The Full Federal Court wasn’t as certain, but did not find fault with the primary judge’s opinion.
 
-##### Telstra Corp Ltd v Royal & Sun Alliance Insurance Ltd//__ [^AUTOREPLACED200357IPR453ENDREPLACE]
+##### Telstra Corp Ltd v Royal & Sun Alliance Insurance Ltd [^AUTOREPLACED200357IPR453ENDREPLACE]
 [^AUTOREPLACED200357IPR453ENDREPLACE]:  (2003) 57 IPR 453
 
 
@@ -225,7 +225,7 @@ The court found that:
 
 
 
-##### Baigent v Random House Group Ltd//__ [^AUTOREPLACED2007AllERD456MarENDREPLACE]
+##### Baigent v Random House Group Ltd [^AUTOREPLACED2007AllERD456MarENDREPLACE]
 [^AUTOREPLACED2007AllERD456MarENDREPLACE]: [2007] All ER (D) 456 (Mar
 )
 
@@ -233,7 +233,7 @@ Authors and publishers of "The Holy Blood and the Holy Grail" alleged that Dan B
 
 It was held that Brown had taken ideas, but not expression from HBHG. Therefore, there could be no copyright infringement.
 
-##### EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd//__ [^AUTOREPLACED2011FCAFC47ENDREPLACE]
+##### EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd [^AUTOREPLACED2011FCAFC47ENDREPLACE]
 [^AUTOREPLACED2011FCAFC47ENDREPLACE]: [2011] FCAFC 47
 
 
@@ -248,9 +248,9 @@ In the case of [EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd]
 
 There is an exclusive right to publish the work [^AUTOREPLACEDCAss311aiiand311biiENDREPLACE]
 [^AUTOREPLACEDCAss311aiiand311biiENDREPLACE]: //CA// ss 31(1)(a)(ii) and 31(1)(b)(ii)
-. Publish means to make available to the public in Australia something which has not previously been made available. [^AUTOREPLACEDAvelPtyLtdvMulticoinAmusementPtyLtd1990HCA58ENDREPLACE]
+. Publish means to make available to the public in Australia something which has not previously been made available. [^AUTOREPLACEDAvelPtyLtdvMulticoinAmusementPtyLtd1990HCA58ENDREPLACE] The definitions of published in s 29(1)(a) do not control the meaning of the words 'to publish' in s 31(1)(a)(ii) for the purposes of infringement. This is the right of first publication.
 [^AUTOREPLACEDAvelPtyLtdvMulticoinAmusementPtyLtd1990HCA58ENDREPLACE]: //Avel Pty Ltd v Multicoin Amusement Pty Ltd// [1990] HCA 58
- The definitions of published in s 29(1)(a) do not control the meaning of the words 'to publish' in s 31(1)(a)(ii) for the purposes of infringement. This is the right of first publication.
+
 
 It is not an infringement of the right to republish something that has already been made public. It may however, be an infringement of the reproduction right. It is also an infringement to communicate the work without permission or legal excuse. This will be discussed below in the 'Infringement - Communicate to the Public' section of this chapter.
 
@@ -382,7 +382,7 @@ Pursuant to s 87 of the //Act// television and sound broadcasts are protected. T
 
 * re-broadcast or communicate to the public.
 
-##### Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")// [^AUTOREPLACED2002FCAFC146ENDREPLACE]
+##### Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel") [^AUTOREPLACED2002FCAFC146ENDREPLACE]
 [^AUTOREPLACED2002FCAFC146ENDREPLACE]: [2002] FCAFC 146
 
 
@@ -398,7 +398,7 @@ Section 88 of the //Act// protects published editions of works by providing the 
 [^AUTOREPLACEDCAs88ENDREPLACE]: //CA// s 88
 
 
-##### Nationwide News Pty Ltd v Copyright Agency Limited// [^AUTOREPLACED1996FCA257ENDREPLACE]
+##### Nationwide News Pty Ltd v Copyright Agency Limited [^AUTOREPLACED1996FCA257ENDREPLACE]
 [^AUTOREPLACED1996FCA257ENDREPLACE]: 1996] FCA 257
 
 
@@ -423,16 +423,16 @@ Quality is the most important factor, not quantity:
 [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]: //Ladbroke (Football) Ltd v William Hill (Football) Ltd// [1964] 1 WLR 273
 
 
-##### Folsom v Marsh// [^AUTOREPLACED9FedCas342348Mass1841USENDREPLACE]
+##### Folsom v Marsh [^AUTOREPLACED9FedCas342348Mass1841USENDREPLACE]
 [^AUTOREPLACED9FedCas342348Mass1841USENDREPLACE]: 9 Fed Cas 342, 348 (Mass 1841) (US)
 
 
 >"It is certainly not necessary, to constitute an invasion of copyright, that the whole of the work should be copied, or even a large portion of it, in form or in substance. If so much is taken, that the value of the original is sensibly diminished, or the labors of the original author are substantially to an injurious extent appropriated by another, that is sufficient, in point of law, to constitute a piracy pro tanto … Neither does it necessarily depend upon the quantity taken … [i]t is often affected by other considerations, the value of the materials taken, and the importance of it to the sale of the original work … In short, we must often, in deciding questions of this sort, look to the nature and objects of the selections made, the quantity and value of the materials used, and the degree in which the use may prejudice the sale, or diminish the profits, or supersede the objects, of the original work."
 
 
-Substantial part is assessed in respect to the work as a whole [^AUTOREPLACEDLadbrokevWilliamHill19641WLR273ENDREPLACE]
+Substantial part is assessed in respect to the work as a whole [^AUTOREPLACEDLadbrokevWilliamHill19641WLR273ENDREPLACE] and by reference to originality of the part taken.[^AUTOREPLACEDIceTVPtyLimitedvNineNetworkAustraliaPtyLimited2009HCA14ENDREPLACE]
 [^AUTOREPLACEDLadbrokevWilliamHill19641WLR273ENDREPLACE]: //Ladbroke v William Hill// [1964] 1 WLR 273
- and by reference to originality of the part taken.[^AUTOREPLACEDIceTVPtyLimitedvNineNetworkAustraliaPtyLimited2009HCA14ENDREPLACE]
+
 [^AUTOREPLACEDIceTVPtyLimitedvNineNetworkAustraliaPtyLimited2009HCA14ENDREPLACE]: // IceTV Pty Limited v Nine Network Australia Pty Limited// [2009] HCA 14
 
 
@@ -440,7 +440,7 @@ Substantial part is assessed in respect to the work as a whole [^AUTOREPLACEDLad
 
 
 
-##### IceTV Pty Limited v Nine Network Australia Pty Limited//__ [^AUTOREPLACED2009HCA1422April2009ENDREPLACE]
+##### IceTV Pty Limited v Nine Network Australia Pty Limited__ [^AUTOREPLACED2009HCA1422April2009ENDREPLACE]
 [^AUTOREPLACED2009HCA1422April2009ENDREPLACE]: [2009] HCA 14 (22 April 2009)
 
 
@@ -454,7 +454,7 @@ Time and title information lacked the requisite originality: "… the expression
 
 >"in assessing the quality of the time and title information, as components of the Weekly Schedule, baldly stated matters of fact or intention are inseparable from and co-extensive with their expression. It is difficult to discern the expression of thought in statements of which programmes will be broadcast and when this will occur. If the facts be divorced from the other elements constituting the compilation in suit, as is the case with the use by IceTV of the time and title information, then it is difficult to treat the IceGuide as the reproduction of a substantial part of the Weekly Schedule in the qualitative sense required by the case law". ( Gummow, Hayne, Heydon JJ)
 
-##### Network Ten Pty Ltd v TCN Channel Nine Pty Ltd// ("The Panel")__
+##### Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")__
 
 Substantiality is a question of fact and degree.
 
@@ -493,7 +493,7 @@ Not a substantial part:
 
 Ten appealed to the High Court, but special leave was denied. Justices Kirby and McHugh reiterated that the identification of whether a substantial part has been taken is a question of "fact and degree".
 
-##### EMI Songs Australia Pty Limited v Larrikin Music Publishing Pty Limited// [^AUTOREPLACED2011FCAFC47ENDREPLACE]
+##### EMI Songs Australia Pty Limited v Larrikin Music Publishing Pty Limited [^AUTOREPLACED2011FCAFC47ENDREPLACE]
 [^AUTOREPLACED2011FCAFC47ENDREPLACE]: [2011] FCAFC 47
 
 
@@ -508,11 +508,11 @@ The piece taken was qualitatively important to the original – it could be desc
 
 ## Indirect Infringement
 
-The main forms of indirect infringement involve infringing copies. These include importing for the purposes of trade without the license of the copyright owner; [^AUTOREPLACEDCAss37and102ENDREPLACE]
+The main forms of indirect infringement involve infringing copies. These include importing for the purposes of trade without the license of the copyright owner; [^AUTOREPLACEDCAss37and102ENDREPLACE] selling or hiring out or otherwise made the subject of trade;[^AUTOREPLACEDCAss38and103ENDREPLACE] and renting.
 [^AUTOREPLACEDCAss37and102ENDREPLACE]: //CA// ss 37 and 102
- selling or hiring out or otherwise made the subject of trade;[^AUTOREPLACEDCAss38and103ENDREPLACE]
+
 [^AUTOREPLACEDCAss38and103ENDREPLACE]: //CA// ss 38 and 103
- and renting.
+
 
 **Video overview by Kylie Pappalardo on [Indirect Infringement of Copyright](https://www.youtube.com/watch?v=7NJZYUKQ4MI&index=7&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
@@ -544,7 +544,7 @@ It is an infringement of copyright in any work in which copyright subsists to im
 [^AUTOREPLACEDCAss37and102ENDREPLACE]: //CA// ss 37 and 102
 
 
-##### Milpurrurru v Indofurn Pty Ltd// [^AUTOREPLACED1994FCA975ENDREPLACE]
+##### Milpurrurru v Indofurn Pty Ltd [^AUTOREPLACED1994FCA975ENDREPLACE]
 [^AUTOREPLACED1994FCA975ENDREPLACE]: [1994] FCA 975
 
 
@@ -558,9 +558,9 @@ Parallel importation is where an overseas supplier who has legally acquired copi
 
 **Video overview by Jordan Gregory on[Section 44C and Parallel Importation](https://www.youtube.com/watch?v=5NtqSfnjTxc).**
 
-However, parallel importation of books is now allowed in certain circumstances.[^AUTOREPLACEDCAss44Aand112AENDREPLACE]
+However, parallel importation of books is now allowed in certain circumstances.[^AUTOREPLACEDCAss44Aand112AENDREPLACE] These circumstances include:
 [^AUTOREPLACEDCAss44Aand112AENDREPLACE]: //CA// ss 44A and 112A
- These circumstances include:
+
 
 * When book is first published outside Australia and not published in Australia within 30 days;
 
@@ -600,7 +600,7 @@ Copyright in a work is infringed by a person who sells or hires an article if th
 [^AUTOREPLACEDCAss38and103ENDREPLACE]: //CA// ss 38 and 103
 
 
-##### Raben Footwear Pty Ltd v Polygram Records Inc//__ [^AUTOREPLACED1997FCA370ENDREPLACE]
+##### Raben Footwear Pty Ltd v Polygram Records Inc__ [^AUTOREPLACED1997FCA370ENDREPLACE]
 [^AUTOREPLACED1997FCA370ENDREPLACE]: [1997] FCA 370
 
 

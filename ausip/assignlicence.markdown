@@ -68,7 +68,7 @@ Licenses can be implied from the circumstances. A newspaper editor has an implie
 [^AUTOREPLACED//Beck v Montana Constructions Pty Ltd// (1963) WN (NSW) 1578ENDREPLACE]: //Beck v Montana Constructions Pty Ltd// (1963) WN (NSW) 1578
 
 
-##### Beck v Montana Constructions Pty Ltd// [1964-5] NSWR 229; (1963) WN (NSW) 1578__
+ [1964-5] NSWR 229; (1963) WN (NSW) 1578__
 
 In the case of //Beck v Montana Constructions Pty Ltd// [^AUTOREPLACED(1963) WN (NSW) 1578ENDREPLACE] a firm of architects was commissioned to draw plans for a block of units. When the owners sold the land they gave the purchaser the plans. The purchaser decided to build in accordance with the plans but not to retain the architect. The other architect who was retained produced plans which were a substantial reproduction of the first architect’s plans. The original architects sued the purchaser and its architect for infringement of the copyright in the sketch plans.
 [^AUTOREPLACED(1963) WN (NSW) 1578ENDREPLACE]: (1963) WN (NSW) 1578

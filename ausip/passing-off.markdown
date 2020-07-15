@@ -28,9 +28,9 @@ Business reputation can be protected in a number of ways:
 * Tort of injurious falsehood
 * Misrepresentation (misleading & deceptive conduct)
 
-The core of passing off is trying to stop another trader from linking their product to that of another trader if it causes or is likely to cause the other trader's business some damage. [^AUTOREPLACEDConAgraIncvMcCainFoodsAustPtyLtd199223IPR193at233ENDREPLACE]
+The core of passing off is trying to stop another trader from linking their product to that of another trader if it causes or is likely to cause the other trader's business some damage. [^AUTOREPLACEDConAgraIncvMcCainFoodsAustPtyLtd199223IPR193at233ENDREPLACE] Passing off seeks to stop a person from associating themselves with the trader and taking some of their goodwill for themselves, either overtly or covertly, by implication or directly.
 [^AUTOREPLACEDConAgraIncvMcCainFoodsAustPtyLtd199223IPR193at233ENDREPLACE]: *ConAgra Inc v McCain Foods (Aust) Pty Ltd* (1992) 23 IPR 193 at 233
- Passing off seeks to stop a person from associating themselves with the trader and taking some of their goodwill for themselves, either overtly or covertly, by implication or directly.
+
 
 **Video overview by Nicolas Suzor on [Passing Off](https://www.youtube.com/watch?v=igYsVEUE7wY&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve&index=4)**
 
@@ -100,9 +100,9 @@ There is no need for plaintiff to be the only source of the goodwill attached to
 
 #### When must Reputation be Established?
 
-The plaintiff’s reputation must be assessed at the date of the commencement of the conduct complained of. [^AUTOREPLACEDCadburyvSquashENDREPLACE]
+The plaintiff’s reputation must be assessed at the date of the commencement of the conduct complained of. [^AUTOREPLACEDCadburyvSquashENDREPLACE] This means that a plaintiff who would not have succeeded at that date will not do so by the acquisition of a greater reputation. Note, however, that a right of action may be sustained even where the plaintiff no longer trades – provided there is residual goodwill. However, it is vital that the necessary reputation remain. It can be assumed that, over time, reputation will fade, and hence, any rights under passing off will also fade.
 [^AUTOREPLACEDCadburyvSquashENDREPLACE]: *Cadbury v Squash*
- This means that a plaintiff who would not have succeeded at that date will not do so by the acquisition of a greater reputation. Note, however, that a right of action may be sustained even where the plaintiff no longer trades – provided there is residual goodwill. However, it is vital that the necessary reputation remain. It can be assumed that, over time, reputation will fade, and hence, any rights under passing off will also fade.
+
 
 ### Types of Trade Indicia
 
@@ -168,11 +168,11 @@ Held: Trader must have a reputation in the jurisdiction. No need to show actual 
 
 ### Proving Reputation
 
-May be proved by expert evidence, witness evidence or survey evidence.  Expert evidence will be admissible if the expertise of the witness arises from specialised knowledge for example marketing experts or experts in a certain type of marketing (such as wine marketing). [^AUTOREPLACEDHenschkevRosemountENDREPLACE]
+May be proved by expert evidence, witness evidence or survey evidence.  Expert evidence will be admissible if the expertise of the witness arises from specialised knowledge for example marketing experts or experts in a certain type of marketing (such as wine marketing). [^AUTOREPLACEDHenschkevRosemountENDREPLACE] Consumers may be brought into court to testify where they have actually been deceived but this type of evidence is not very probative. [^AUTOREPLACEDParkdalevPuxuENDREPLACE] While the court may accept expert and witness evidence, the probity of this evidence will vary greatly.
 [^AUTOREPLACEDHenschkevRosemountENDREPLACE]: *Henschke v Rosemount*
- Consumers may be brought into court to testify where they have actually been deceived but this type of evidence is not very probative. [^AUTOREPLACEDParkdalevPuxuENDREPLACE]
+
 [^AUTOREPLACEDParkdalevPuxuENDREPLACE]: (*Parkdale v Puxu*
- While the court may accept expert and witness evidence, the probity of this evidence will vary greatly.
+
 
 Survey evidence was not accepted until 1990s, before this it was rejected as hearsay. Survey evidence will only be admissible if testimonial evidence from the persons responsible for the survey evidence would also be admissible and subject to cross-examination. Factors that go towards whether survey evidence would be accepted by the court include whether:
 
@@ -204,9 +204,9 @@ Held:  On appeal from the Federal Court to the Full Federal Court  it was held t
 
 A misrepresentation in passing off refers to conduct on the part of the trader which relies on the reputation or goodwill of the plaintiff usually by misrepresenting some sort of connection with the plaintiff’s business, goods or services and results in consumers coming to an erroneous conclusion about or being confused about a connection between the goods/services of that traders and those of another trader.
 
-It is necessary to show that the defendant's conduct caused customers to be deceived. The misrepresentation must be capable of causing deception or foreseeable cause deception. [^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE]
+It is necessary to show that the defendant's conduct caused customers to be deceived. The misrepresentation must be capable of causing deception or foreseeable cause deception. [^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE] The misrepresentation may be express or implied, but it will usually be implied. Whether or not there has been a misrepresentation is ultimately question of fact for the court to determine. It is a matter of impression and there is no determinative factor that the court will necessarily turn to answer the question. [^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE]
 [^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE]: *AG Spalding v Gamage* (1915) 32 RPC 273
- The misrepresentation may be express or implied, but it will usually be implied. Whether or not there has been a misrepresentation is ultimately question of fact for the court to determine. It is a matter of impression and there is no determinative factor that the court will necessarily turn to answer the question. [^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE]
+
 [^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE]: *Interlego Ag v Croner Trading Pty Ltd* (1992) 39 FCR 348
 . The existence of a misrepresentation is gauged by the court’s objective assessment of its impact on consumers.
 
@@ -287,13 +287,13 @@ The Full Federal Court in *Sydneywide Distributors Pty Ltd v Red Bull Australia 
 
 >"… where a trader, having knowledge of a particular market, borrows aspects of a competitor’s get-up, it is a reasonable inference that he or she believes that there will be a market benefit in so doing. Often, the obvious benefit will be the attraction of custom which would otherwise have gone to the competitor. It is an available inference that such borrowing was “fitted for the purpose and therefore likely to deceive or confuse… Of course, the trader may explain his or her conduct in such a way as to undermine the availability of that inference. Obviously, this reasoning will only apply where there are similarities in get-up which suggest borrowing …"
 
-In determining intent to defraud the conduct of the defendant must be viewed as a whole - consideration cannot be given to words or acts which in isolation would be likely to mislead if those words or acts, when put into context, were not capable of misleading. [^AUTOREPLACEDParkdaleCustomBuiltFurniturePtyLtdvPuxoPtyLtd1982149CLR19ENDREPLACE]
+In determining intent to defraud the conduct of the defendant must be viewed as a whole - consideration cannot be given to words or acts which in isolation would be likely to mislead if those words or acts, when put into context, were not capable of misleading. [^AUTOREPLACEDParkdaleCustomBuiltFurniturePtyLtdvPuxoPtyLtd1982149CLR19ENDREPLACE] In *Parkdale* the defendant's furniture closely resembled that of the plaintiff in a way that suggested deliberate copying. However, because the defendant adequately labelled their furniture so as to show the true origin of the goods, there was no passing off.
 [^AUTOREPLACEDParkdaleCustomBuiltFurniturePtyLtdvPuxoPtyLtd1982149CLR19ENDREPLACE]: *Parkdale Custom Built Furniture Pty Ltd v Puxo Pty Ltd* (1982) 149 CLR 19
- In *Parkdale* the defendant's furniture closely resembled that of the plaintiff in a way that suggested deliberate copying. However, because the defendant adequately labelled their furniture so as to show the true origin of the goods, there was no passing off.
 
-Whether or not there has been deception or likely deception is tested against a group of relevant persons, which is generally the class of potential customers likely to be affected by or exposed to the conduct. [^AUTOREPLACEDParkdaleENDREPLACE]
+
+Whether or not there has been deception or likely deception is tested against a group of relevant persons, which is generally the class of potential customers likely to be affected by or exposed to the conduct. It is necessary that a significant segment of the relevant class would be deceived. [^AUTOREPLACEDParkdaleENDREPLACE] [^AUTOREPLACEDParkdaleENDREPLACE]
 [^AUTOREPLACEDParkdaleENDREPLACE]: *Parkdale*
- It is necessary that a significant segment of the relevant class would be deceived. [^AUTOREPLACEDParkdaleENDREPLACE]
+
 [^AUTOREPLACEDParkdaleENDREPLACE]: *Parkdale*
 
 
@@ -312,9 +312,9 @@ When considering whether conduct is likely to deceive the courts consider:
 
 ### Other Requirements for Misrepresentation
 
-Authority suggests misrepresentation must continue up until the point of sale and if cleared up before the point of purchase this will be insufficient for misrepresentation. [^AUTOREPLACEDCadburySchweppesENDREPLACE]
+Authority suggests misrepresentation must continue up until the point of sale and if cleared up before the point of purchase this will be insufficient for There must be likelihood of actual deception, mere confusion or a cause to wonder whether there is an association is not sufficient (*Parkdale*). However, if there is a deliberate attempt to create uncertainty, then this would amount to deception. [^AUTOREPLACEDLockhartJinBridgeStockbrokersvBridges19845IPR81ENDREPLACE] misrepresentation. [^AUTOREPLACEDCadburySchweppesENDREPLACE]
 [^AUTOREPLACEDCadburySchweppesENDREPLACE]: *Cadbury Schweppes*
- There must be likelihood of actual deception, mere confusion or a cause to wonder whether there is an association is not sufficient (*Parkdale*). However, if there is a deliberate attempt to create uncertainty, then this would amount to deception. [^AUTOREPLACEDLockhartJinBridgeStockbrokersvBridges19845IPR81ENDREPLACE]
+
 [^AUTOREPLACEDLockhartJinBridgeStockbrokersvBridges19845IPR81ENDREPLACE]: Lockhart J in *Bridge Stockbrokers v Bridges* (1984) 5 IPR 81
 
 
@@ -328,9 +328,9 @@ Survey evidence will not be admissible to establish whether potential consumers 
 
 ## Element 3: Damage
 
-There is no requirement that actual damage be shown, only a *likelihood of damage* - a real and tangible risk of damage. [^AUTOREPLACEDHendersonvRadioCorporationENDREPLACE]
+There is no requirement that actual damage be shown, only a *likelihood of damage* - a real and tangible risk of damage. [^AUTOREPLACEDHendersonvRadioCorporationENDREPLACE] Moreover, damage must only really be established if the plaintiff wants more than nominal damages or an injunction – ie where the plaintiff is seeking damages or an account of profits.  Where the first two elements have been established in an action for passing off, damage will often be presumed. Damage must be by reason of an erroneous belief engendered by the defendant’s misrepresentation that the source of the defendant’s goods or services is the same as the source of those offered by the plaintiff.
 [^AUTOREPLACEDHendersonvRadioCorporationENDREPLACE]: *Henderson v Radio Corporation*
- Moreover, damage must only really be established if the plaintiff wants more than nominal damages or an injunction – ie where the plaintiff is seeking damages or an account of profits.  Where the first two elements have been established in an action for passing off, damage will often be presumed. Damage must be by reason of an erroneous belief engendered by the defendant’s misrepresentation that the source of the defendant’s goods or services is the same as the source of those offered by the plaintiff.
+
 
 ### Types of Damage
 
@@ -352,13 +352,13 @@ It may be possible to avoid passing off by disclaiming any association with the 
 [^AUTOREPLACEDNormanvBennettENDREPLACE]: *Norman v Bennett*
 
 
-It is far less likely that a disclaimer will neutralise the effect of a particularly distinctive trade mark. More often than not, courts will take the view that a disclaimer will not be noticed or understood or that it might be too easily removed. [^AUTOREPLACEDHutchencevSouthSeaBubbleCoENDREPLACE]
+It is far less likely that a disclaimer will neutralise the effect of a particularly distinctive trade mark. More often than not, courts will take the view that a disclaimer will not be noticed or understood or that it might be too easily removed. [^AUTOREPLACEDHutchencevSouthSeaBubbleCoENDREPLACE] A disclaimer will be less likely to be effective where goods are ‘low involvement goods’ – goods where purchasing decisions are made quickly and without much thought or examination - generally cheap goods.
 [^AUTOREPLACEDHutchencevSouthSeaBubbleCoENDREPLACE]: *Hutchence v South Sea Bubble Co*
- A disclaimer will be less likely to be effective where goods are ‘low involvement goods’ – goods where purchasing decisions are made quickly and without much thought or examination - generally cheap goods.
 
-On the other hand, where goods are expensive, disclaimers are likely to be more effective because the goods will be subject to closer inspection prior to purchase. Courts will also consider whether normal labelling of product and if the product is labelled in the normal and reasonable way to indicate its correct origin, this will go against a finding of passing off. [^AUTOREPLACEDParkdalevPuxuENDREPLACE]
+
+On the other hand, where goods are expensive, disclaimers are likely to be more effective because the goods will be subject to closer inspection prior to purchase. Courts will also consider whether normal labelling of product and if the product is labelled in the normal and reasonable way to indicate its correct origin, this will go against a finding of passing off. [^AUTOREPLACEDParkdalevPuxuENDREPLACE] There are no blanket rules when it comes to disclaimers.
 [^AUTOREPLACEDParkdalevPuxuENDREPLACE]: *Parkdale v Puxu*
- There are no blanket rules when it comes to disclaimers.
+
 
 Tamberlin J in *Twentieth Century Fox v South Australian Brewing*:
 
@@ -368,7 +368,7 @@ Tamberlin J in *Twentieth Century Fox v South Australian Brewing*:
 ## Remedies
 
 There are two main remedies available for an action in passing off. These are injunctions and damages. In instances involving fraud, an account of profits may be sought. Further, where there is evidence of fraud exemplary damages may be sought. [^AUTOREPLACEDHoganvKoalaDundeePtyLtd1988FCA333PacificDunlopLtdvHogan1989FCA185andIrvinevTalksportLtd2002EWHC367CthENDREPLACE]
-[^AUTOREPLACEDHoganvKoalaDundeePtyLtd1988FCA333PacificDunlopLtdvHogan1989FCA185andIrvinevTalksportLtd2002EWHC367CthENDREPLACE]: Hogan v Koala Dundee Pty Ltd* [1988] FCA 333, *Pacific Dunlop Ltd v Hogan* [1989] FCA 185 and *Irvine v Talksport* Ltd [2002] EWHC 367 (Cth) 
+[^AUTOREPLACEDHoganvKoalaDundeePtyLtd1988FCA333PacificDunlopLtdvHogan1989FCA185andIrvinevTalksportLtd2002EWHC367CthENDREPLACE]: Hogan v Koala Dundee Pty Ltd* [1988] FCA 333, *Pacific Dunlop Ltd v Hogan* [1989] FCA 185 and *Irvine v Talksport* Ltd [2002] EWHC 367 (Cth)
 
 
 ## Defences
@@ -470,7 +470,7 @@ The defendants had no reasonable prospect of defending claims of copyright infri
 
 ## Passing Off and Misleading and Deceptive Conduct
 
- Passing off protects reputation and the legitimate rights and business interests of traders.  Consumer protection (misleading/deceptive conduct) legislation protects consumers from being misled or deceived.
+Passing off protects reputation and the legitimate rights and business interests of traders.  Consumer protection (misleading/deceptive conduct) legislation protects consumers from being misled or deceived.
 
 
 __*Campomar Sociedad Limitada v Nike International Ltd* (2000) 202 CLR 45 at 88__
