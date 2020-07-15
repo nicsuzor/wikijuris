@@ -2,12 +2,14 @@
 layout: default
 title: How is the Internet Regulated?
 nav_order: 10
-has_children: true
+has_children: false
 parent: Governing the Internet
 ---
 
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/regulation.markdown){: .btn .btn-outline }
 
+# How is the Internet Regulated?
+{: .no_toc }
 
 1. Table of Contents
 {:toc}
