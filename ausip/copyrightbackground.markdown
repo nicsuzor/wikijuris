@@ -156,23 +156,24 @@ Below is a brief timeline of the developments of copyright law in Australia from
 | 1643 | The Licensing Order | The Ordinance for the Regulating of Printing also known as the Licensing Order of 1643 instituted pre-publication censorship upon Parliamentary England. |
 | 1709 | The _Statute of Anne_ | The _Statute of Anne_ was the first statute to regulate copyright (by the government and courts), as opposed to private parties. |
 | 1828 | _Australian Court Act 1828_ (UK) | The UK statues were received into Australian colonies.|  
-| 1883 | Ownership in copyright | As a result of changes to copyright law to include photographs the question of who was the owner of the copyright in the photograph and under what circumstances became an issue for the court to decide. [^AUTOREPLACEDNottagevJackson188311QBD627ENDREPLACE]|
+| 1883 | Ownership in copyright | As a result of changes to copyright law to include photographs the question of who was the owner of the copyright in the photograph and under what circumstances became an issue for the court to decide. [^NOTTAGE]|
 | 1886 | The _Berne Convention_ | _The Berne Convention for the Protection of Literary and Artistic Works_ is agreed, following a campaign by French writer Victor Hugo. The aim is to give creators the right to control and receive payment for their creative works on an international level.|
 | 1901 | The _Australian Constitution_ | Australia became a nation. |
 | 1905 | _Copyright Act 1905_ (Cth) | The first Commonwealth copyright statute. |
 | 1912 | _Copyright Act 1912_ (Cth) | The second Commonwealth copyright statute which adopted the _Copyright Act 1911_ (UK). |
-| 1937 | Limitations to rights over intangible property | The High Court of Australia considered the case of _[Victoria Park Racing & Recreation Grounds Co Ltd v Taylor](http://classic.austlii.edu.au/au/cases/cth/HCA/1937/45.html)_ [^AUTOREPLACED193758CLR479ENDREPLACE] The case considered property rights. One aspect of the case considered whether copyright law had been breached with respect to facts. It was held that, "[t]he law of copyright does not operate to give any person an exclusive right to state or to describe particular facts. A person cannot by first announcing that a man fell off a bus or that a particular horse won a race prevent other people from stating those facts".[^AUTOREPLACEDVictoriaParkRacingRecreationGroundsCoLtdvTaylor193758CLR479479ENDREPLACE]| 1956| _Copyright Act 1956_ (UK) | This Act did not apply to Australia. |
+| 1937 | Limitations to rights over intangible property | The High Court of Australia considered the case of _[Victoria Park Racing & Recreation Grounds Co Ltd v Taylor](http://classic.austlii.edu.au/au/cases/cth/HCA/1937/45.html)_ [^VP479] The case considered property rights. One aspect of the case considered whether copyright law had been breached with respect to facts. It was held that, "[t]he law of copyright does not operate to give any person an exclusive right to state or to describe particular facts. A person cannot by first announcing that a man fell off a bus or that a particular horse won a race prevent other people from stating those facts".[^VP]|
+| 1956| _Copyright Act 1956_ (UK) | This Act did not apply to Australia. |
 | 1968 | _Copyright Act 1968_ (Cth) | The _British Copyright Act 1911_ continued to apply in Australia until the _Copyright Act 1968_ (Cth) came into force on 1 May 1969.|
 | 1994 | _Trade Related Aspects of Intellectual Property Rights_ (_TRIPS_) | The _TRIPS_ agreement entered into force which prescribed minimum standards for intellectual property, including copyright law. |  
 | 2004 | _United States Free Trade Agreement_ (_AUSFTA_)| Under the IP terms of this Agreement, Australia agreed to extend its copyright term from the life of the author plus 50 years to the life of the author plus 70 years.|  
 | 2017 | The _Copyright (Disabilities and Other Measures) Act_ 2017 | This _Act_ was passed on 15 June 2017. One of the primary aims of the _Act_ was to align Australia'a copyright law with the Marrakech Treaty.|  
 
 
-[^AUTOREPLACEDNottagevJackson188311QBD627ENDREPLACE]: _Nottage v Jackson_ (1883) 11 QBD 627
+[^NOTTAGE]: _Nottage v Jackson_ (1883) 11 QBD 627
 
-[^AUTOREPLACEDVictoriaParkRacingRecreationGroundsCoLtdvTaylor193758CLR479479ENDREPLACE]: _Victoria Park Racing & Recreation Grounds Co Ltd v Taylor_ (1937) 58 CLR 479, [479]
+[^VP479]: _Victoria Park Racing & Recreation Grounds Co Ltd v Taylor_ (1937) 58 CLR 479, [479]
 
-[^AUTOREPLACED193758CLR479ENDREPLACE]:  (1937) 58 CLR 479 |
+[^VP]:  (1937) 58 CLR 479 |
 
 ## A Practical Structure for Approaching Copyright Questions
 
