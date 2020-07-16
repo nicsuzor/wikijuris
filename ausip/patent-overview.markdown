@@ -14,7 +14,7 @@ parent: Australian IP Law
 1. Table of Contents
 {:toc}
 
-## Patent basics
+# Patent basics
 
 A patent is a legally enforceable right in a new and useful invention, product or process. It is granted by a government office, in a form of a document, upon application by an inventor or inventors. The document describes the invention and recognises its inventors. In Australia, patents are governed by the Patents Act 1990 and are granted by the Intellectual Property Office of Australia located in Canberra.
 
@@ -25,7 +25,7 @@ A patent is a legally enforceable right in a new and useful invention, product o
 Patents are governed by _Patents Act 1990_ (Cth) (_PA_). A patent is a grant by the Crown (the Commonwealth government), which gives the owner of the patent the exclusive right to exploit an invention ('exploit' means a right to prevent others using the invention). This exclusive right applies throughout the patent territory (territorially limited – Australia), for the duration of the patent. The period of protection provided by the patent depends on the type of patent.
 
 
-### Examples of Granted Patents
+## Examples of Granted Patents
 
 There are many famous and notable products which were granted patents. These products include:
 
@@ -39,12 +39,11 @@ There are many famous and notable products which were granted patents. These pro
 
 Annotated drawings often from part of patents.
 
-### Kinds of Patents & Duration ====
-
+# Kinds of Patents & Duration
 
 There are two types of patents: a standard patent and an innovative patent. Each of these will be explained in turn.
 
-#### Standard Patents:
+## Standard Patents
 A standard patent requires an inventive step.
 An inventive step means that the invention is not an obvious thing to do for someone with knowledge and experience in the technological field of the invention. The invention must differ from existing technology.
 A standard patent will only be granted after a period of examination to ensure the patent meets the legislative requirements. This process can take from six months – several years depending on the type of protection and circumstances.
@@ -60,7 +59,7 @@ An extension of up to five years can be sought for pharmaceuticals. [^pa7079] Ph
 Not all pharmaceutical patent applications are automatically given the extension of five years. Three requirements must be met to obtain an extension for a pharmaceutical patent:
 
 
-**First requirement:**
+### First requirement
 
 
 a) The first part of this requirement is that a pharmaceutical substance per se must be disclosed and claimed, including compounds, active metabolites, a composition or a mixture of substances. [^LTS]
@@ -72,11 +71,11 @@ For a claim to related to a pharmaceutical substance per se, it must be unqualif
 
 b) A Pharmaceutical substance produced by a process that involves the use of recombinant DNA technology.
 
-**Second requirement:**
+### Second requirement
 
 Must be included in the Australian Register for Therapeutic Goods (ARTG). A substance can be included in the ARTG if it is included in some way. The substance does not have to be explicitly named as an active ingredient to be considered ‘included’ and can be an impurity, which has been noted.
 
-**Final requirement:**
+### Final requirement
 
 The final requirement for a pharmaceutical patent is that regulatory approval for the pharmaceutical substance must have occurred more than five years after the date of the patent.
 
@@ -86,7 +85,7 @@ The extended period of protection only protects the pharmaceutical substance its
 
 **Video overview by Fern Doyle on [Requirements For Extension of Time for Pharmaceutical Patents](https://www.youtube.com/watch?v=XA_QFCUoIJA).**
 
-#### Innovation Patents
+## Innovation Patents
 
 Innovation patents are currently being phased out, and should generally no longer be filed.
 
@@ -98,9 +97,12 @@ The duration of an innovative patent is for the period of eight years from the d
 
 **Video overview by Maddison D on [The Difference Between a Standard Patent and an Innovation Patent](https://www.youtube.com/watch?v=G77xPOYJZng?small).**
 
-IP Australia [Quick guide to innovation versus standard patents](https://www.ipaustralia.gov.au/patents/understanding-patents/types-patents) CC-BY 4.0.
+## IP Australia's [Quick guide to innovation versus standard patents](https://www.ipaustralia.gov.au/patents/understanding-patents/types-patents) (CC-BY 4.0)
 
-^             ^ Innovation Patent ^ Standard Patent |
+
+|---
+|  | Innovation Patent | Standard Patent |
+|:-|:-|:-
 | Your invention must: | Be new, useful and involve an innovative step. | Be new, useful and involve an inventive step.|
 | The application should include: | A title, description, up to five claims, drawings (if applicable), an abstract and forms. | A title, description, any number of claims, drawings (if applicable), an abstract and forms.|
 | A patent is granted if: | The application satisfies formality requirements (note: a 'granted' innovation patent cannot be enforced unless examined). | The application is examined and found to satisfy the relevant requirements of the Patents Act 1990.|
@@ -160,7 +162,7 @@ The Statute of Monopolies voided monopolies on the principle that monopolies are
 
 The Statute of Monopolies became the foundation for later developments in patent law in England and elsewhere. The English patent system evolved from its early medieval origins into the first modern patent system that recognised intellectual property in order to stimulate invention; this was one of the crucial legal foundations upon which the Industrial Revolution could emerge and flourish.
 
-==== Development of Patent Law in Australia ====
+### Development of Patent Law in Australia
 
 The notion of patent law, like many Australian laws comes from the Anglo-Saxton heritage of the UK. The letters patent was the first type of patent which was issued by the Crown. These letters patent provided the recipient with their rights to practice their trade or craft.
 

@@ -150,7 +150,9 @@ There have been continuous changes in the legislation as a result of changes to 
 
 Below is a brief timeline of the developments of copyright law in Australia from the first types of copyright in the UK through to the nuanced aspects of copyright in today's society.
 
-^ Year ^ Development in the Law ^ Outcome |
+|---
+| Year | Development in the Law | Outcome |
+|:-:|:-|:-
 | 1476 | Caxton Press | The printing press was established in England. |
 | 1557 | Stationers Company | A guild was given a monopoly over printing and distributing books. This was a royal decree.|
 | 1643 | The Licensing Order | The Ordinance for the Regulating of Printing also known as the Licensing Order of 1643 instituted pre-publication censorship upon Parliamentary England. |
