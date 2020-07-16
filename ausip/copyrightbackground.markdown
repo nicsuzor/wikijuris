@@ -175,7 +175,7 @@ Below is a brief timeline of the developments of copyright law in Australia from
 
 [^VP479]: _Victoria Park Racing & Recreation Grounds Co Ltd v Taylor_ (1937) 58 CLR 479, [479]
 
-[^VP]:  (1937) 58 CLR 479 |
+[^VP]:  (1937) 58 CLR 479
 
 ## A Practical Structure for Approaching Copyright Questions
 
