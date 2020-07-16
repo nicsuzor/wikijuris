@@ -39,35 +39,33 @@ There are many famous and notable products which were granted patents. These pro
 
 Annotated drawings often from part of patents.
 
-==== Kinds of Patents & Duration ====
+### Kinds of Patents & Duration ====
 
 
 There are two types of patents: a standard patent and an innovative patent. Each of these will be explained in turn.
 
-Standard Patents:
+#### Standard Patents:
 A standard patent requires an inventive step.
 An inventive step means that the invention is not an obvious thing to do for someone with knowledge and experience in the technological field of the invention. The invention must differ from existing technology.
 A standard patent will only be granted after a period of examination to ensure the patent meets the legislative requirements. This process can take from six months – several years depending on the type of protection and circumstances.
-The period of protection afforded by a standard patent is up to twenty years from the date of the patent (or up to 25 years for pharmaceuticals). [^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
-[^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
+The period of protection afforded by a standard patent is up to twenty years from the date of the patent (or up to 25 years for pharmaceuticals). [^pa67]
+
+[^pa67]: _Patents Act 1990_ (Cth) s 67
 
 
-An extension of up to five years can be sought for pharmaceuticals. [^AUTOREPLACED$1ENDREPLACE] Pharmaceuticals require regulatory approval before they are sold to the public and approvals can only be sought during the patent term, so patentees are compensated for the time taken to obtain regulatory approval.
-[^AUTOREPLACED$1ENDREPLACE]: $1
+An extension of up to five years can be sought for pharmaceuticals. [^pa7079] Pharmaceuticals require regulatory approval before they are sold to the public and approvals can only be sought during the patent term, so patentees are compensated for the time taken to obtain regulatory approval.
+
+[^pa7079]: _Patents Act 1990_ (Cth) ss 70 - 79A
+
+Not all pharmaceutical patent applications are automatically given the extension of five years. Three requirements must be met to obtain an extension for a pharmaceutical patent:
 
 
-Not all pharmaceutical patent applications are automatically given the extension of five years. Three requirements must be met to obtain an extension for a pharmaceutical patent:[^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
+**First requirement:**
 
 
-**First requirement:**[^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
+a) The first part of this requirement is that a pharmaceutical substance per se must be disclosed and claimed, including compounds, active metabolites, a composition or a mixture of substances. [^LTS]
 
-
-a) The first part of this requirement is that a pharmaceutical substance per se must be disclosed and claimed, including compounds, active metabolites, a composition or a mixture of substances. [^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
+[^LTS]: //LTS Lohmann Therapie-Systeme Gmbh & Co KH// [2002]
 
 
 For a claim to related to a pharmaceutical substance per se, it must be unqualified by process, temporal or environmental components.
@@ -88,21 +86,15 @@ The extended period of protection only protects the pharmaceutical substance its
 
 **Video overview by Fern Doyle on [Requirements For Extension of Time for Pharmaceutical Patents](https://www.youtube.com/watch?v=XA_QFCUoIJA).**
 
-[^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
+#### Innovation Patents
 
+Innovation patents are currently being phased out, and should generally no longer be filed.
 
-**Innovative Patents:**[^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
+An innovation patent is suitable for inventions with short market life. An innovative patent requires an innovative step, which involved a lesser degree of inventiveness compared to the standard patent. An innovative step is one where the invention is different from existing technology and provides a substantial contribution to the working of the invention. The innovation patent seeks to protect incremental advances in technology as opposed to ground-breaking technology (which would be covered under a standard patent).  
 
+The duration of an innovative patent is for the period of eight years from the date of the patent.[^PA68] Innovative patents can be granted within one month of filing, as there is no requirement for examination.
 
-An innovative patent is suitable for inventions with short market life. An innovative patent requir[^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
-e step, which involved a lesser degree of inventiveness compared to the standard patent. An innovative step is one where the invention is different from existing technology and provides a substantial contribution to the working of the invention. The innovation patent seeks to protect incremental advances in technology as opposed to ground-breaking technology (which would be covered under a standard patent).  
-
-The duration of an innovative patent is for the period of eight years from the date of the patent. [^AUTOREPLACED$1ENDREPLACE] Innovative patents can be granted within one month of filing, as there is no requirement for examination.
-[^AUTOREPLACED$1ENDREPLACE]: $1
-
+[^PA68]: _Patents Act 1990_ (Cth) s 68
 
 **Video overview by Maddison D on [The Difference Between a Standard Patent and an Innovation Patent](https://www.youtube.com/watch?v=G77xPOYJZng?small).**
 
@@ -111,24 +103,16 @@ IP Australia [Quick guide to innovation versus standard patents](https://www.ipa
 ^             ^ Innovation Patent ^ Standard Patent |
 | Your invention must: | Be new, useful and involve an innovative step. | Be new, useful and involve an inventive step.|
 | The application should include: | A title, description, up to five claims, drawings (if applicable), an abstract and forms. | A title, description, any number of claims, drawings (if applicable), an abstract and forms.|
-| A patent is granted if: | The application satisfies formality requirements (note: a 'granted' innovation patent[^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
-rced unless examined). | The application is examined and found to satisfy the relevant requirements of the Patents Act 1990.|
+| A patent is granted if: | The application satisfies formality requirements (note: a 'granted' innovation patent cannot be enforced unless examined). | The application is examined and found to satisfy the relevant requirements of the Patents Act 1990.|
 | Examination: | Optional. Examination can be requested by you or anyone else. | Mandatory. The relevant requirements of the Patents Act 1990 must be met before a patent is granted. Can only be requested by the applicant.|
-| Certification: | Is given if the innovation patent complies with the relevant requirements of the Patents Act 1[^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
-ion. Only after certification can the patent be enforced. | N/A|
+| Certification: | Is given if the innovation patent complies with the relevant requirements of the Patents Act 1990 in examination. Only after certification can the patent be enforced. | N/A|
 | Publication in the Australian Official Journal of Patents: | At grant and again at certification. | 18 months from earliest priority date and again at acceptance.|
-|Protection period: | Up to eight years if annual fees are paid. | Up to 20 years if annual fees are paid (or up [^AUTOREPLACED$1ENDREPLACE] pharmaceuticals).|
-[^AUTOREPLACED$1ENDREPLACE]: $1
-
+|Protection period: | Up to eight years if annual fees are paid. | Up to 20 years if annual fees are paid (or up to 25 years for pharmaceuticals).|
 |How long does the process take?| Approximately one month for grant. Six months for examination if you make a request. | Six months to several years depending on circumstances.|
-[^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
 
+Duration of protection for both types of patents is measured from the date the complete specification is filed. [^pa65]
 
-*Duration of protection for both types of patents is measured from the date the complete specification is filed. [^AUTOREPLACED$1ENDREPLACE]
-[^AUTOREPLACED$1ENDREPLACE]: $1
+[^pa65]: _Patents Act 1990_ (Cth) s 65
 
 
 ===== Rationale of the Patent System =====
@@ -169,6 +153,7 @@ By the 16th century, the English Crown would habitually grant letters patent for
 
 
 After public outcry, James I of England was forced to revoke all existing monopolies and declare that they were only to be used for "projects of new invention".  This was incorporated into the Statute of Monopolies in which Parliament restricted the Crown's power explicitly so that the King could only issue letters patent to the inventors or introducers of original inventions for a fixed number of years. According to  s6 of the _Statute of Monopolies_,  all existing monopolies and dispensations were voided with the exception of:
+
 > ...the sole working or making of any manner of new manufactures within this realm to the true and first inventor and inventors of such manufactures which others at the time of making such letters patent and grants shall not use...
 
 The Statute of Monopolies voided monopolies on the principle that monopolies are generally anti-competitive. The main exception to this principle is that sometimes monopolies are required in order to encourage new inventions or products. So while the Statute of Monopolies declared that all monopolies were void, it specifically excluded any patent or grant of privilege that was limited in duration (14 yrs here, the duration of two period of apprenticeship) that covered any new manner of manufacture (new product/process), was territorially limited, and granted directly to inventor (not importers). The Statute imposed further restrictions that the patent granted could not be contrary to law (particularly competition law), raise existing price of commodities, harm trade in general products, or be 'generally inconvenient'.
@@ -179,4 +164,4 @@ The Statute of Monopolies became the foundation for later developments in patent
 
 The notion of patent law, like many Australian laws comes from the Anglo-Saxton heritage of the UK. The letters patent was the first type of patent which was issued by the Crown. These letters patent provided the recipient with their rights to practice their trade or craft.
 
-The States and Territories enacted the first patent laws in Australia independently. It wasn’t until 1903 that a Commonwealth Act was enacted, _Patents Act 1903_ (Cth.) This was enacted pursuant to the Constitution under s 51 (xviii). Since this time there have been a number of changes to the _Patents Act_. The current _Act_, which is in force, is a result of changing times in technology and innovation. Alongside the legislation is the _Patents Regulation 1991_ (Cth), which is positioned to compliment the _Act_.
+The States and Territories enacted the first patent laws in Australia independently. It wasn’t until 1903 that a Commonwealth Act was enacted, _Patents Act 1903_ (Cth) This was enacted pursuant to the Constitution under s 51 (xviii). Since this time there have been a number of changes to the _Patents Act_. The current _Act_, which is in force, is a result of changing times in technology and innovation. Alongside the legislation is the _Patents Regulation 1991_ (Cth), which is positioned to compliment the _Act_.
