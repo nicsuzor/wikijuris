@@ -5,7 +5,7 @@ nav_order: 28
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/moralrights.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/moralrights.markdown){: .btn .btn-outline }
 
 
 # Moral Rights and Performers Rights
@@ -28,7 +28,7 @@ The concepts of moral rights and performers rights are still relatively new in A
 
 The philosophy underpinning moral rights is that creators deserve respect integral to the act of creativity which remains even after copyrights has been assigned.
 
-**Video overview by Nicolas Suzor on [Moral Rights](https:_www.youtube.com/watch?v=Zg_pPoz2BXY&index=6&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
+**Video overview by Nicolas Suzor on [Moral Rights](https://www.youtube.com/watch?v=Zg_pPoz2BXY&index=6&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
 
 Moral rights were introduced by the Copyright Amendment (Moral Rights) Act 2000 (Cth) which provides that creators are protected from three sources of harm:[^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]
 [^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]: Part IX of the _Copyright Act 1968_ (Cth)
@@ -122,14 +122,14 @@ The _Act_ sets out a number of factors to be taken into account in working out w
   * if there are two or more authors, their views about the failure to attribute or derogatory treatment.
 
 
-**Video overview by Madeline Menzies-Miha on[Moral Rights and Reasonableness](https:_www.youtube.com/watch?v=gycmrJ_AOhk)**
+**Video overview by Madeline Menzies-Miha on[Moral Rights and Reasonableness](https://www.youtube.com/watch?v=gycmrJ_AOhk)**
 
 
 
 
 
 
-**Video overview by Courtney Steffens on[Moral Rights and Reasonableness](https:_www.youtube.com/watch?v=mlfjVQYif3s)**  
+**Video overview by Courtney Steffens on[Moral Rights and Reasonableness](https://www.youtube.com/watch?v=mlfjVQYif3s)**  
 
 
 
@@ -150,7 +150,7 @@ Moral rights are loosely derived from the French system of droit moral. The Fren
 [^AUTOREPLACED2012FMCA2ENDREPLACE]: [2012] FMCA 2
 
 
-The case of [Perez & Ors v Fernandez](http:_classic.austlii.edu.au/au/cases/cth/FMCA/2012/2.html) involved Perez 'Pitbull', the US-based author of the song “Bon, Bon”. Fernandez, a Perth-based DJ, had planned to host Perez on-tour in Australia, and Perez had recorded a promo referring to and supporting Fernandez 'DJ Suave'.
+The case of [Perez & Ors v Fernandez](http://classic.austlii.edu.au/au/cases/cth/FMCA/2012/2.html) involved Perez 'Pitbull', the US-based author of the song “Bon, Bon”. Fernandez, a Perth-based DJ, had planned to host Perez on-tour in Australia, and Perez had recorded a promo referring to and supporting Fernandez 'DJ Suave'.
 After the tour was cancelled, Fernandez deleted a 'prominent part' of the recording, and substituted the previously made recording in a way that “made it appear that Mr Fernandez was a subject of the song”.
 
 The Federal Magistrates Court held that the new recording infringed Perez's right of integrity on the basis that:
@@ -166,7 +166,7 @@ Fernandez's use was not reasonable in the circumstances.
 [^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]:  (1996) 71 FCR 37 (Carmina Burana case), [1997] FCA 531
 
 
-The case of [Schott Musik International Gmbh v Colossal Records Australia](http:_classic.austlii.edu.au/au/cases/cth/FCA/1997/531.html) involved a a techno remix of a classical musical work and questioned whether this remix ‘debased’ the original. Before the introduction of moral rights, Section 55(2) previously prevented a recording artist from obtaining a statutory licence to record a musical work if the adaptation 'debases' the original work.
+The case of [Schott Musik International Gmbh v Colossal Records Australia](http://classic.austlii.edu.au/au/cases/cth/FCA/1997/531.html) involved a a techno remix of a classical musical work and questioned whether this remix ‘debased’ the original. Before the introduction of moral rights, Section 55(2) previously prevented a recording artist from obtaining a statutory licence to record a musical work if the adaptation 'debases' the original work.
 
 The Federal Court held that a wide approach should be taken, taking into account the broad spectrum of community tastes and values.
 At first instance, Tamberlin J considered that “[t]he term 'debase' calls for a value judgment based on a significant lowering in integrity, value, esteem or quality of the work.”

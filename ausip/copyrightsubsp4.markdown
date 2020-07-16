@@ -5,7 +5,7 @@ nav_order: 22
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightsubsp4.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightsubsp4.markdown){: .btn .btn-outline }
 
 
 
@@ -39,7 +39,7 @@ Copyright in Part IV subject matter is "in addition to, and independent of" any 
 
 
 
-**Video overview by Kylie Pappalardo on [Part IV Subject Matter Other Than Works](https:_www.youtube.com/watch?v=PFSfIzyyLDU).**
+**Video overview by Kylie Pappalardo on [Part IV Subject Matter Other Than Works](https://www.youtube.com/watch?v=PFSfIzyyLDU).**
 
 
 
@@ -72,7 +72,7 @@ The means by which a "moving picture" is produced is not relevant in determining
 
 
 
-In the cases [Sega Enterprises Ltd v Galaxy Electronics Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/1996/761.html)[^AUTOREPLACED1996FCA761ENDREPLACE] and [Galaxy Electronics Pty Ltd v Sega Enterprises Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/1997/403.html)[^AUTOREPLACED1997FCA403ENDREPLACE] Sega wanted to stop parallel imports of its video games.  As there is no restriction on importing non-infringing computer programs, Sega argued that the games were "films".
+In the cases [Sega Enterprises Ltd v Galaxy Electronics Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1996/761.html)[^AUTOREPLACED1996FCA761ENDREPLACE] and [Galaxy Electronics Pty Ltd v Sega Enterprises Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1997/403.html)[^AUTOREPLACED1997FCA403ENDREPLACE] Sega wanted to stop parallel imports of its video games.  As there is no restriction on importing non-infringing computer programs, Sega argued that the games were "films".
 
 [^AUTOREPLACED1996FCA761ENDREPLACE]: [1996] FCA 761
 
@@ -87,7 +87,7 @@ Virtual Cop was in reality very similar to a traditional movie; two protagonist 
   * The important distinction is that the video game is capable of producing the video imagery and the soundtrack, and hence that video and soundtrack was 'embodied' in the game.
 
 
-**Video overview by Caitlin Low on [Cinematography films](https:_www.youtube.com/watch?v=C_8Wl-pdDJY).**
+**Video overview by Caitlin Low on [Cinematography films](https://www.youtube.com/watch?v=C_8Wl-pdDJY).**
 
 
 
@@ -112,7 +112,7 @@ There are three relevant definitions in s 10 of the _Act_:
 A key aspect of the concept of broadcasting, which is apparent in the definition of "broadcast", is that it is "to the public".
 
 
-In the case of[Telstra Corp Ltd v Australasian Performing Right Association Ltd](http:_classic.austlii.edu.au/au/cases/cth/HCA/1997/41.html)[^AUTOREPLACED1997191CLR140ENDREPLACE] APRA argued that when Telstra played music on hold to subscribers, it was broadcasting that music to the public.
+In the case of[Telstra Corp Ltd v Australasian Performing Right Association Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/1997/41.html)[^AUTOREPLACED1997191CLR140ENDREPLACE] APRA argued that when Telstra played music on hold to subscribers, it was broadcasting that music to the public.
 [^AUTOREPLACED1997191CLR140ENDREPLACE]:  (1997) 191 CLR 140
 
 It was held that music on hold played to individual callers was considered to be played "to the public".
@@ -120,11 +120,11 @@ It was held that music on hold played to individual callers was considered to be
 "The use of the words "to the public" conveys a broader concept than the use of the words "in public" since it makes clear that the place where the relevant communication occurs is irrelevant. That is to say, there can be a communication to individual members of the public in a private or domestic setting which is nevertheless a communication to the public."
 
 
-**Video overview by Thomas Gardner on [Telstra Corp Ltd v Australasian Performing Right Association Ltd](https:_www.youtube.com/watch?v=WRUtG398Ygw).**
+**Video overview by Thomas Gardner on [Telstra Corp Ltd v Australasian Performing Right Association Ltd](https://www.youtube.com/watch?v=WRUtG398Ygw).**
 
 
 
-In the High Court of Australia case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/HCA/2004/14.html)[^AUTOREPLACED2004218CLR273ENDREPLACE] Network Ten had a variety show called The Panel, which broadcast clips taken from other networks. A panel of commentators then provided (often humorous) commentary on the clips. The Panel used several short clips taken from Channel Nine. Nine sued under right to rebroadcast.
+In the High Court of Australia case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/2004/14.html)[^AUTOREPLACED2004218CLR273ENDREPLACE] Network Ten had a variety show called The Panel, which broadcast clips taken from other networks. A panel of commentators then provided (often humorous) commentary on the clips. The Panel used several short clips taken from Channel Nine. Nine sued under right to rebroadcast.
 
 The Full Federal Court held that any unauthorised rebroadcasting of a broadcast would be an infringement of copyright (subject to any defence of fair dealing that Ten might have had).
 
@@ -157,4 +157,4 @@ This type of protection was only introduced with the _Copyright Act 1968_, as su
 
 
 
-**Video overview by Elizabeth Morrell on [Published Editions](https:_www.youtube.com/watch?v=HPX8ojJ-R6A).**
+**Video overview by Elizabeth Morrell on [Published Editions](https://www.youtube.com/watch?v=HPX8ojJ-R6A).**

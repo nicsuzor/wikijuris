@@ -5,7 +5,7 @@ parent: Content Regulation
 grand_parent: Governing the Internet
 nav_order: 94
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/graduated_response.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/graduated_response.markdown){: .btn .btn-outline }
 
 # Graduated Response
 {: .no_toc }
@@ -13,7 +13,7 @@ nav_order: 94
 1. Table of Contents
 {:toc}
 
-**Video Overviews by [Carlie McCulloch](https:_www.youtube.com/watch?v=PlbQltsX194) and [Jonathan Chabowski](https:_www.youtube.com/watch?v=PdUCMuUyp3Q)**
+**Video Overviews by [Carlie McCulloch](https://www.youtube.com/watch?v=PlbQltsX194) and [Jonathan Chabowski](https://www.youtube.com/watch?v=PdUCMuUyp3Q)**
 
 Several jurisdictions around the world have introduced 'graduated response' or 'three-strikes' regimes. These are designed to require ISPs to pass on notices of alleged infringement to their users. Rightsholders employ private investigation or monitoring firms to detect the IP address of computers that appear to be filesharing their content, predominantly over the BitTorrent protocol. Rightsholders are able to trace this IP address as far as an ISP. They then send notices to the ISP, and ask ISPs to match the IP address and time details against a particular user account.
 

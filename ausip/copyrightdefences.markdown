@@ -5,7 +5,7 @@ nav_order: 26
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightdefences.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightdefences.markdown){: .btn .btn-outline }
 
 
 
@@ -66,7 +66,7 @@ The fair dealing provisions intend to mark out areas of free use of copyright ma
 
 
 
-**Video overview of Dan Winters on[The Difference Between Fair Use and Fair Dealing](https:_www.youtube.com/watch?v=Ea2AGBjf_98).**
+**Video overview of Dan Winters on[The Difference Between Fair Use and Fair Dealing](https://www.youtube.com/watch?v=Ea2AGBjf_98).**
 
 
 ## What is 'Fair'?
@@ -112,7 +112,7 @@ The difference is this: in the US, the courts only need to consider whether the 
 
 "Research" and “study” are not defined by the _Act_ but are given their dictionary meaning. "Research" means “a diligent and systematic enquiry or investigation into a subject in order to discover facts or principles”.
 
-**Video overview by Nicolas Suzor on [Research or Study](https:_www.youtube.com/watch?v=R5hyBW1zchY&index=1&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
+**Video overview by Nicolas Suzor on [Research or Study](https://www.youtube.com/watch?v=R5hyBW1zchY&index=1&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
 
 The leading case of _De Garis v Neville Jeffress Pidler Pty Ltd_ considered the meaning of the terms "research or study".
 
@@ -120,7 +120,7 @@ The leading case of _De Garis v Neville Jeffress Pidler Pty Ltd_ considered the 
 De Garis v Neville Jeffress Pidler Pty Ltd[^AUTOREPLACED18IPR292ENDREPLACE]
 [^AUTOREPLACED18IPR292ENDREPLACE]: 18 IPR 292
 
-In the case of [De Garis v Neville Jeffress Pidler Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/1990/218.html) the court found that the respondent, a press clipping and media research bureau, who supplied photocopies of published material in return for a fee was not "research" or “study” in the terms of s 40.
+In the case of [De Garis v Neville Jeffress Pidler Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1990/218.html) the court found that the respondent, a press clipping and media research bureau, who supplied photocopies of published material in return for a fee was not "research" or “study” in the terms of s 40.
 
 In determining whether a dealing is for the purpose of "research or study", the relevant purpose is that of the person making the dealing, not the purpose to which the reproduction or adaptation is ultimately put.
 
@@ -183,7 +183,7 @@ The term "sufficient acknowledgement" is defined as: [^AUTOREPLACEDCAs10ENDREPLA
 
 >" an acknowledgement identifying the work by its title or other description and, unless the work is anonymous or pseudonymous or the author has previously agreed or directed that an acknowledgement of his her her name is not to be made, also identifying the authors".  
 
-**Video overview by Nicolas Suzor on[Criticism or Review](https:_www.youtube.com/watch?v=9xuTjdvkuug&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u&index=2).**
+**Video overview by Nicolas Suzor on[Criticism or Review](https://www.youtube.com/watch?v=9xuTjdvkuug&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u&index=2).**
 
 
 "Criticism" and “review” are not defined but are given their dictionary meaning.
@@ -198,7 +198,7 @@ In the case of _De Garis v Neville Jeffress Pidler Pty Ltd_ at 299-300, Beaumont
  [^AUTOREPLACED2001FCA108ENDREPLACE]
 [^AUTOREPLACED2001FCA108ENDREPLACE]: [2001] FCA 108__
 
-In the case of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/2001/108.html) Justice Conti noted that:
+In the case of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/2001/108.html) Justice Conti noted that:
 
 "Criticism" and “review” are words of “wide and indefinite scope which should be interpreted liberally” and extend to “the thoughts underlying the expression of copyright works or subject matter”.
 They involve the passing of judgment and may be strongly expressed but, provided they are genuine and not a pretence for some other purpose, need not be balanced. [66]
@@ -208,7 +208,7 @@ They involve the passing of judgment and may be strongly expressed but, provided
 _TCN Channel Nine Pty Ltd v Network Ten Ltd_ [^AUTOREPLACED200255IPR112ENDREPLACE]
 [^AUTOREPLACED200255IPR112ENDREPLACE]:  (2002) 55 IPR 112
 
-In the Full Court's decision of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCAFC/2002/146.html) Justice Hely (Sundberg and Finkelstein JJ agreeing) at [115] said the test is:
+In the Full Court's decision of [TCN Channel Nine Pty Ltd v Network Ten Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2002/146.html) Justice Hely (Sundberg and Finkelstein JJ agreeing) at [115] said the test is:
 
 "[I]s the program incorporating the infringing material a genuine piece of criticism or review, or is it something else, such as an attempt to dress up the infringement of another’s copyright in the guise of criticism, and so profit unfairly from another’s work? As Lord Denning said in Hubbard v Vosper [1972] 2 QB 84 at 93, ‘it is not fair dealing for a rival in the trade to take copyright material and use it for its own  benefit’".
 </div>
@@ -237,13 +237,13 @@ News reported with humour may still fall within the ambit of the fair dealing pr
 
 ### Disability Access
 
-In December 2017 Australia's copyright laws were amended to reflect our international obligations under the [Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled](https:_www.wipo.int/publications/en/details.jsp?id=382&plang=EN).
+In December 2017 Australia's copyright laws were amended to reflect our international obligations under the [Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled](https://www.wipo.int/publications/en/details.jsp?id=382&plang=EN).
 
 The new disability access provisions ensure more equitable access to copyright material. The new provisions consist of two free exceptions: fair dealing for access by persons with a disability, and use of copyright material by organisations assisting persons with a disability. [^AUTOREPLACEDCAss113Eand113FENDREPLACE]
 [^AUTOREPLACEDCAss113Eand113FENDREPLACE]: _CA_ ss 113E and 113F
 
 
-For more information on the changes to Australia's Disability Access see[QUT's Copyright Guide](https:_www.library.qut.edu.au/copyrightguide/documents/2017Amendments_Disability_provisions_20171206.pdf).
+For more information on the changes to Australia's Disability Access see[QUT's Copyright Guide](https://www.library.qut.edu.au/copyrightguide/documents/2017Amendments_Disability_provisions_20171206.pdf).
 
 
 
@@ -408,15 +408,15 @@ This exception will not apply if an article or thing embodying the film or recor
 
 * used for broadcasting the film or recording.
 
-**Video overview by Jennifer Singleton on[Time Shifting](https:_www.youtube.com/watch?v=PwzsIb9SF68).**
+**Video overview by Jennifer Singleton on[Time Shifting](https://www.youtube.com/watch?v=PwzsIb9SF68).**
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED2012FCAFC59ENDREPLACE]
 [^AUTOREPLACED2012FCAFC59ENDREPLACE]: [2012] FCAFC 59
 
 
-**Video overview by Stuart Efstathis on [Optus TV Now](https:_www.youtube.com/watch?v=oQS8oKKwimA).**
+**Video overview by Stuart Efstathis on [Optus TV Now](https://www.youtube.com/watch?v=oQS8oKKwimA).**
 
-In the case of [National Rugby League Investments Pty Limited v Singtel Optus Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCAFC/2012/59.html) Optus provided a "TV Now" subscription service whereby it copied and stored a television broadcast selected by a subscriber after subscriber clicked the “record” button on the subscriber’s Optus compatible device, to be played back at other times (“time-shifting”) with minimum delay of 2 minutes.
+In the case of [National Rugby League Investments Pty Limited v Singtel Optus Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2012/59.html) Optus provided a "TV Now" subscription service whereby it copied and stored a television broadcast selected by a subscriber after subscriber clicked the “record” button on the subscriber’s Optus compatible device, to be played back at other times (“time-shifting”) with minimum delay of 2 minutes.
 
 Issue: Television broadcast copied = film + sound recording made: then who is the maker of the recording?
 
@@ -438,9 +438,9 @@ Optus cannot rely on the "private and domestic use" defence of s111: "There is n
 In addition to allowing private users of copyright to make recordings (as discussed above in time shifting), there is also a provision which allows private users to format shift. Format shifting involves reproducing copyright content in a different format without attracting copyright infringement. An example of this would be reproducing a copy of a CD onto an iPod or other listening device.   
 
 
-**Video overview by Lindsay Mengel on[Format Shifting](https:_www.youtube.com/watch?v=6HUG9PIokvY).**
+**Video overview by Lindsay Mengel on[Format Shifting](https://www.youtube.com/watch?v=6HUG9PIokvY).**
 
-**Video overview by Lachlan McCormick on[Format Shifting](https:_www.youtube.com/watch?v=VTpMtSzNjC8).**
+**Video overview by Lachlan McCormick on[Format Shifting](https://www.youtube.com/watch?v=VTpMtSzNjC8).**
 
 
 
@@ -606,7 +606,7 @@ The license pertains to:
 
 
 
-**Video overview by Kate van der Heyden on[Statutory Licences in Copyright](https:_www.youtube.com/watch?v=FWifaH4iPvU?small)**
+**Video overview by Kate van der Heyden on[Statutory Licences in Copyright](https://www.youtube.com/watch?v=FWifaH4iPvU?small)**
 
 **Note this video does not include the updated new statutory licence.**
 
@@ -618,7 +618,7 @@ There are ongoing issues within Australia regarding the available defences and e
 [^AUTOREPLACEDAustralianLawReformCommissionCopyrightandtheDigitalEconomyFinalReportMo1222014TheAustralianGovernmentProductivityCommissionIntellectualPropertyArrangementsFinalReport2016ENDREPLACE]:  Australian Law Reform Commission, Copyright and the Digital Economy, Final Report Mo. 122 (2014); The Australian Government Productivity Commission, Intellectual Property Arrangements, Final Report (2016)
 
 
-**Video overview by Nicolas Suzor on [Reform for Australian Copyright Defences and Exceptions](https:_www.youtube.com/watch?v=Y7KIgHNkr6w&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u&index=3).**  
+**Video overview by Nicolas Suzor on [Reform for Australian Copyright Defences and Exceptions](https://www.youtube.com/watch?v=Y7KIgHNkr6w&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u&index=3).**  
 
 The central feature of the recommendations made by the ALRC and the PC was to replace the purpose specific copyright infringement exceptions (the fair dealing provisions) with a general open ended fair use test.
 

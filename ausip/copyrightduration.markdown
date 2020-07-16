@@ -5,7 +5,7 @@ nav_order: 23
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightduration.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightduration.markdown){: .btn .btn-outline }
 
 
 
@@ -33,7 +33,7 @@ The topic of duration of copyright is contentious in Australia. Prior to 2005 th
 
 The following video provides a brief overview of the copyright duration, also know as the copyright term, in Australia for works and subjects matter other than works.
 
-**Video overview by Kylie Pappalardo on [Copyright Duration](https:_www.youtube.com/watch?v=cCA_Ab0kZa4).** **Note this video does not include the updated provisions as of 2019**
+**Video overview by Kylie Pappalardo on [Copyright Duration](https://www.youtube.com/watch?v=cCA_Ab0kZa4).** **Note this video does not include the updated provisions as of 2019**
 
 Since the requirements of the _AUSFTA_ were introduced, the duration of copyright for published literary, dramatic, musical, and artistic works is 70 years after the death of the author. [^AUTOREPLACEDCAs33ENDREPLACE] Works that are classified as sound recordings and cinematograph films are protected by copyright for 70 years from the year of publication. [^AUTOREPLACEDCAs93ENDREPLACE] The remainder of the copyright duration provisions are for terms less than 70 years. For Crown copyright works, the duration is 50 years from the date of creation. Similarly, copyright protection in broadcasts lasts for 50 years from the year the broadcast was first made. [^AUTOREPLACEDCAs95ENDREPLACE] Lastly, the duration of copyright protection in published editions is 25 years from year of first publication. [^AUTOREPLACEDCAs96CthENDREPLACE]
 [^AUTOREPLACEDCAs33ENDREPLACE]: _CA_ s 33
@@ -82,7 +82,7 @@ work is first made public before the end of 50 years after the year in which the
 
 However, if the work is first made public before 1 January 2019 and the identity of the author is not generally known before the end of 70 years after the year in which the work was first made public, the copyright will expire at the end of that 70 year period. If the work is never made public, the work will be protected by copyright for 70 years after the year in which the work is made.
 
-Content adapted from the information sheet created by staff of the University of Sydney available for use under a CC0 Creative Commons waiver and fallback licence (CC0 1.0). No attribution is required. For more information on the new duration provisions see [QUT's Copyright Guide Duration](https:_www.library.qut.edu.au/copyrightguide/generalinfor/howlongdoesc.jsp).  
+Content adapted from the information sheet created by staff of the University of Sydney available for use under a CC0 Creative Commons waiver and fallback licence (CC0 1.0). No attribution is required. For more information on the new duration provisions see [QUT's Copyright Guide Duration](https://www.library.qut.edu.au/copyrightguide/generalinfor/howlongdoesc.jsp).  
 
 ## Finding the Balance
 

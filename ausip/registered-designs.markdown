@@ -4,7 +4,7 @@ title: Registered Designs
 nav_order: 40
 parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/registered_designs.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/registered_designs.markdown){: .btn .btn-outline }
 
 
 # Registered Designs
@@ -24,7 +24,7 @@ For designers to get protection, a design must be registered before any manufact
 </div>
 
 
-**Video overview by Nicolas Suzor on [Registered Designs](https:_www.youtube.com/watch?v=AcbQ6B8I00g&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve&index=1).**
+**Video overview by Nicolas Suzor on [Registered Designs](https://www.youtube.com/watch?v=AcbQ6B8I00g&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve&index=1).**
 
 
 ## Design Definition
@@ -40,9 +40,9 @@ A visual feature “includes the shape, configuration, pattern and ornamentation
 
 
 
-**Video overview by Amara Boustead on [What a 'Product' is in Design Law](https:_www.youtube.com/watch?v=kT-0YI5sBYQ)**
+**Video overview by Amara Boustead on [What a 'Product' is in Design Law](https://www.youtube.com/watch?v=kT-0YI5sBYQ)**
 
-**Video overview by Sophia Shen on [What a 'Product' is in Design Law](https:_www.youtube.com/watch?v=aBpcUmKsW2A)**
+**Video overview by Sophia Shen on [What a 'Product' is in Design Law](https://www.youtube.com/watch?v=aBpcUmKsW2A)**
 
 
 ## Registration of Designs
@@ -181,7 +181,7 @@ Not all copyright protections are lost in the copyright design overlap. The copy
 
 Importantly, the copyright design overlap doesn’t apply to industrial works of artistic craftsmanship.
 
-**Video overview by Nicolas Suzor on [The Overlap Between Copyright and Design](https:_www.youtube.com/watch?v=5q14JMh4eX4&index=2&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve).**
+**Video overview by Nicolas Suzor on [The Overlap Between Copyright and Design](https://www.youtube.com/watch?v=5q14JMh4eX4&index=2&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve).**
 
 ### Recap: Copyright Infringement
 
@@ -258,4 +258,4 @@ Intellectual property is a valuable tool used protect works in the fashion indus
 The following video discusses the way intellectual property operates in the fashion industry and outlines the copyright design overlap and how it effects fashion works.
 
 
-**Video overview by Emily Burns on [IP in the Fashion Industry](https:_www.youtube.com/watch?v=bLHIgfWk9e8)**
+**Video overview by Emily Burns on [IP in the Fashion Industry](https://www.youtube.com/watch?v=bLHIgfWk9e8)**

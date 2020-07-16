@@ -5,7 +5,7 @@ nav_order: 60
 has_children: true
 parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/patent-overview.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/patent-overview.markdown){: .btn .btn-outline }
 
 
 # Patent Overview: an introduction to the patent system
@@ -18,7 +18,7 @@ parent: Australian IP Law
 
 A patent is a legally enforceable right in a new and useful invention, product or process. It is granted by a government office, in a form of a document, upon application by an inventor or inventors. The document describes the invention and recognises its inventors. In Australia, patents are governed by the Patents Act 1990 and are granted by the Intellectual Property Office of Australia located in Canberra.
 
-**Video: [Protecting your product](https:_www.youtube.com/watch?v=l9eRdOP_Fhg)**
+**Video: [Protecting your product](https://www.youtube.com/watch?v=l9eRdOP_Fhg)**
 
 ## What is a Patent?
 
@@ -86,7 +86,7 @@ There are specific rights that are valid during the extended term of the patent.
 
 The extended period of protection only protects the pharmaceutical substance itself.
 
-**Video overview by Fern Doyle on [Requirements For Extension of Time for Pharmaceutical Patents](https:_www.youtube.com/watch?v=XA_QFCUoIJA).**
+**Video overview by Fern Doyle on [Requirements For Extension of Time for Pharmaceutical Patents](https://www.youtube.com/watch?v=XA_QFCUoIJA).**
 
 [^AUTOREPLACED$1ENDREPLACE]
 [^AUTOREPLACED$1ENDREPLACE]: $1
@@ -104,9 +104,9 @@ The duration of an innovative patent is for the period of eight years from the d
 [^AUTOREPLACED$1ENDREPLACE]: $1
 
 
-**Video overview by Maddison D on [The Difference Between a Standard Patent and an Innovation Patent](https:_www.youtube.com/watch?v=G77xPOYJZng?small).**
+**Video overview by Maddison D on [The Difference Between a Standard Patent and an Innovation Patent](https://www.youtube.com/watch?v=G77xPOYJZng?small).**
 
-IP Australia [Quick guide to innovation versus standard patents](https:_www.ipaustralia.gov.au/patents/understanding-patents/types-patents) CC-BY 4.0.
+IP Australia [Quick guide to innovation versus standard patents](https://www.ipaustralia.gov.au/patents/understanding-patents/types-patents) CC-BY 4.0.
 
 ^             ^ Innovation Patent ^ Standard Patent |
 | Your invention must: | Be new, useful and involve an innovative step. | Be new, useful and involve an inventive step.|
@@ -137,7 +137,7 @@ It is usually accepted that there are two main goals of the patent system. First
 
 The second goal of the patent system is to disseminate new knowledge. Inventors are encouraged, through a statutory monopoly, to publish a full description of their new inventions and explain, in the patent specification, exactly how it works. The patent system is designed so that the incentive to publish (and gain protection) is greater than the inventor's incentive to keep new inventions secret.
 
-**Video overview by Brandon Vagnini on [The Goals of The Patent System](https:_www.youtube.com/watch?v=G2qWEp0hsyc).**
+**Video overview by Brandon Vagnini on [The Goals of The Patent System](https://www.youtube.com/watch?v=G2qWEp0hsyc).**
 
 
 

@@ -4,7 +4,7 @@ title: Computer Access and Computer Crimes
 nav_order: 100
 parent: Governing the Internet
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/crime.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/crime.markdown){: .btn .btn-outline }
 
 
 # Computer Access and Computer Crimes
@@ -13,13 +13,13 @@ parent: Governing the Internet
 1. Table of Contents
 {:toc}
 
-**Video Overview of Crimes Against Computer Systems by [Nicolas Suzor](https:_www.youtube.com/watch?v=c-HnNDF3lEs)**
+**Video Overview of Crimes Against Computer Systems by [Nicolas Suzor](https://www.youtube.com/watch?v=c-HnNDF3lEs)**
 
 The _Cybercrime Act 2001_ introduced a series of computer-related offences into the Commonwealth Criminal Code. These were later expanded after Australia joined the Cybercrime Convention. There are also numerous provisions in State law that prohibit unauthorised access and misuse of computers.
 
 ## The Cybercrime Convention
 
-**Video Overview of the Convention on Cybercrime by [Lucy Jorgensen](https:_www.youtube.com/watch?v=M_23yYrzM9o)**
+**Video Overview of the Convention on Cybercrime by [Lucy Jorgensen](https://www.youtube.com/watch?v=M_23yYrzM9o)**
 
 **__The Key Components of the Convention on Cybercrime and How It Helps Australia__**
 
@@ -84,7 +84,7 @@ There is some overlap with State laws. In many cases, conduct will be prohibited
 
 ### Unauthorised Access
 
-**Friedrich Kuepper [Explains the Unauthorised Access Offences](https:_vimeo.com/141874460)**
+**Friedrich Kuepper [Explains the Unauthorised Access Offences](https://vimeo.com/141874460)**
 
 Section 477.1 creates the offence of "Unauthorised access, modification or impairment with intent to commit a serious offence"
 
@@ -149,7 +149,7 @@ a communication passing over a telecommunications system.
 
 ## Queensland Legislation
 
-**Video: Sarah Lawrence explains [how Section 359B of Queensland's Criminal Code regulates cyberstalking](https:_www.youtube.com/watch?v=SeEPjsLyGso)**
+**Video: Sarah Lawrence explains [how Section 359B of Queensland's Criminal Code regulates cyberstalking](https://www.youtube.com/watch?v=SeEPjsLyGso)**
 
 Incidents of cyberstalking are recognised under the definition of unlawful stalking in Section 359b of Queensland’s Criminal Code. Through the inclusion of subsection (c)(ii) unlawful stalking extends to contact through the use of telephone, mail, fax, email or through any technology.
 
@@ -164,7 +164,7 @@ Access to computer systems is typically constrained by both code and contract la
 
 ### Shrink-wrap, click-wrap, and browse-wrap agreements
 
-**Video: [What's the difference between a click-wrap and a browse-wrap agreement?](https:_www.youtube.com/watch?v=pdk3e5Fnp2I&feature=youtu.be) by Erin Laird**
+**Video: [What's the difference between a click-wrap and a browse-wrap agreement?](https://www.youtube.com/watch?v=pdk3e5Fnp2I&feature=youtu.be) by Erin Laird**
 
 The link between access control systems and private law is typically made through a contract. Many websites now have contractual terms of use that purport to limit access to the website upon acceptance of those terms. When this is done in the registration process, where a user must affirmatively agree to contractual terms (typically by checking a box or clicking a button), this is called a 'clickwrap' contract. When contractual terms are instead incorporated by reference (for example, a link at the bottom of the page entitled 'terms of use'), this is called a 'browsewrap' contract.
 
@@ -184,8 +184,8 @@ Click-wrap and browse-wrap agreements differ from how the terms are incorporated
 
 Terms of Use documents are either click-wrap or browse-wrap agreements that typically deal with a series of different legal issues. They might include limitations of liability clauses, standards of acceptable conduct, copyright and other intellectual property policies, dispute resolution mechanisms, and many other terms. These can be very useful for online service providers. Because users must agree to the terms to use the website, these terms become enforceable through contract law and, in some cases, also through the criminal prohibitions on unauthorised access. In practice, the contractual component is the most important: through electronic contracts, online service providers are able to structure their rights and exposure to potential liability in a standardised, low cost manner.
 
-**Matthias Klepper [Explains the Authority In US v Drew that Breach of Terms of Service Does Not Constitute 'Unauthorised' Access](https:_www.youtube.com/watch?v=negamd8UFq8)**
+**Matthias Klepper [Explains the Authority In US v Drew that Breach of Terms of Service Does Not Constitute 'Unauthorised' Access](https://www.youtube.com/watch?v=negamd8UFq8)**
 
 Terms of Use documents are often criticised for the problems they pose for consumers. Click-wrap contracts are generally enforceable, regardless of whether the consumer has actually read the terms or not. Many firms abuse this system by including quite harsh terms in the fine print of the contract in order to minimise their potential risk. In response to this general concern, Australia has recently introduced unfair terms legislation that will limit the enforceability of standard form contracts that are deemed to be unfair.
 
-**Video Overview of the [Contract Dispute in eBay v Creative Festival Entertainment](https:_www.youtube.com/watch?v=hT4bMCR-a10)**
+**Video Overview of the [Contract Dispute in eBay v Creative Festival Entertainment](https://www.youtube.com/watch?v=hT4bMCR-a10)**

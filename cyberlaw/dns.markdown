@@ -4,7 +4,7 @@ title: Regulating the Domain Name System
 parent: Governing the Internet
 nav_order: 80
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/dns.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/dns.markdown){: .btn .btn-outline }
 
 # Regulating the Domain Name System
 {: .no_toc }
@@ -35,7 +35,7 @@ TLDs can be open, restricted or sponsored. Open TLDS (e.g. '.com' and '.net') ca
 
 ### Registering A Domain Name In The .au ccTLDs
 
-**Darren Brown Explains [Domain Name Registration in Australia](https:_www.youtube.com/watch?time_continue=1&v=w5LSJMFaSsM)**
+**Darren Brown Explains [Domain Name Registration in Australia](https://www.youtube.com/watch?time_continue=1&v=w5LSJMFaSsM)**
 
 There are general rules that apply to all open 2LD domain names within the  .au namespace. A .au domain name licence may only be allocated to a Registrant who is an “Australian”. Each domain name is required to: consist of from 2 to 63 characters; contain only letters (a – z), numbers (0 – 9), hyphens ( - ) or a combination of these; start and end with a letter or number, not a hypen; not contain a hyphen in the third or fourth positions, eg ab-cd.com.au. Eligibility criteria differ among the .au 2LDs. For example, eligibility for .com.au and .net.au domain names is now based on the following indicators:
 
@@ -59,7 +59,7 @@ A Registrant can obtain a domain name in the .com.au, .net.au, .org.au and .asn.
 
 A Registrant may obtain a domain name licence for a name that has a close and substantial connection with the Registrant.[^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED] This requirement was introduced in 2002. For .com.au and .net.au domain names, a “close and substantial connection” with the Registrant may be established where the name refers to:
 
-[^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED]: See Clause 10 of Guidelines for Accredited Registrars on the Interpretation of Policy Rules for Open 2LDs (2008-06) at http:_www.auda.org.au/policies/auda-2008-06/
+[^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED]: See Clause 10 of Guidelines for Accredited Registrars on the Interpretation of Policy Rules for Open 2LDs (2008-06) at http://www.auda.org.au/policies/auda-2008-06/
 
 
 
@@ -72,7 +72,7 @@ A Registrant may obtain a domain name licence for a name that has a close and su
 
 ### Care and Control
 
-The Domain Name System comes under the exclusive control of the Internet Corporation for Assigned Names and Numbers, [https:_en.wikipedia.org/wiki/ICANN](ICANN), which is  an American company registered and based in California.  ICANN determines whether or not a domain can be registered, or if the translation to your IP address will be performed, and is a '[http:_techland.time.com/2010/12/03/wikileaks-domain-name-killed-and-why-it-wont-kill-wikileaks/](choke point)' for regulation. The Australian Domain Administration (AuDA) is authorised by ICANN to administer the '.au' TLD. AuDA has licenced AusRegistry Pty Ltd to operate the '.au' domain name register. There are 34 registrars of open 2LDs in this domain space, with over 3000 resellers of Australian domain names.
+The Domain Name System comes under the exclusive control of the Internet Corporation for Assigned Names and Numbers, [https://en.wikipedia.org/wiki/ICANN](ICANN), which is  an American company registered and based in California.  ICANN determines whether or not a domain can be registered, or if the translation to your IP address will be performed, and is a '[http://techland.time.com/2010/12/03/wikileaks-domain-name-killed-and-why-it-wont-kill-wikileaks/](choke point)' for regulation. The Australian Domain Administration (AuDA) is authorised by ICANN to administer the '.au' TLD. AuDA has licenced AusRegistry Pty Ltd to operate the '.au' domain name register. There are 34 registrars of open 2LDs in this domain space, with over 3000 resellers of Australian domain names.
 
 ### Registering and Transferring Domain Names
 
@@ -122,7 +122,7 @@ Clause 4(c) provides the definition of a legitimate interest:
 
 #### Bad Faith
 
-**Watch an [overview of the UDRP and the meaning of 'bad faith'](https:_youtu.be/WFdUt9urNhs) by Josephine Hungerford**
+**Watch an [overview of the UDRP and the meaning of 'bad faith'](https://youtu.be/WFdUt9urNhs) by Josephine Hungerford**
 
 The UDRP does not provide an explicit definition of ‘bad faith’, but both the UDRP and AuDRP enumerate circumstances amounting to bad faith in clause 4(b):
   * Domain name registered primarily for the purpose of selling, renting or otherwise transferring the domain name registration to the owner of the trade mark or service mark or their competitor;
@@ -134,10 +134,10 @@ Where the second registrant can establish a right and legitimate interest in the
 
 ### Domain Name Disputes in Australia
 
-Administrative dispute resolution procedures based on the UDRP have been adopted by the administrators of many ccTLDs, including the .au ccTLD. The .au Domain Administration (AuDA) board((Current auDRP proceedings are available at http:_www.auda.org.au/audrp/current-proceedings/. Archived proceedings can be accessed at http:_www.auda.org.au/audrp/proceedings-archive/.
+Administrative dispute resolution procedures based on the UDRP have been adopted by the administrators of many ccTLDs, including the .au ccTLD. The .au Domain Administration (AuDA) board((Current auDRP proceedings are available at http://www.auda.org.au/audrp/current-proceedings/. Archived proceedings can be accessed at http://www.auda.org.au/audrp/proceedings-archive/.
 )) approved the _Dispute Resolution Working Party Report_ (June 2001) recommendations for a dispute resolution policy. It adopted the AuDRP, which is based on the UDRP, and applies to all .au subdomains. The auDRP commenced on 1 August 2002.[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED] The AuDRP provides for cheaper, faster alternatives to litigation for resolution of disputes between a registrant and another party who claims to have rights to the domain name. Complaints are submitted to any auDA-approved dispute resolution providers and are heard by a panel of either 1 or 3 providers. Providers, each who have their own rules, include:
 
-[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED]: http:_www.auda.org.au/policy/audrp
+[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED]: http://www.auda.org.au/policy/audrp
 
 
   * Leading Edge ADR (LEADR)
@@ -212,7 +212,7 @@ Issues also arise in online trade mark infringement cases, as some websites may 
 
 ## Domain Names and Trade Marks in Australia
 
-**Robert Tranent Explains [Cybersquatting and Applicable Remedies Under the auDRP](https:_www.youtube.com/watch?v=YHcpQpF2LVc)**
+**Robert Tranent Explains [Cybersquatting and Applicable Remedies Under the auDRP](https://www.youtube.com/watch?v=YHcpQpF2LVc)**
 
 In Australia the mere registration of a domain name does not constitute use (and therefore infringement) of a trade mark. There are no reported Australian cases in which a domain name has been held to have infringed a registered trade mark under s 120 of the Trade Marks Act 1995. It is at least theoretically possible for a .au domain name to infringe a registered trade mark[^AUTOREPLACEDseeCSRLtdvResourceCapitalAustraliaPtyLtd2003FCA279AUTOREPLACED]
 

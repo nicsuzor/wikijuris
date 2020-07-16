@@ -5,7 +5,7 @@ nav_order: 24
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightownership.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightownership.markdown){: .btn .btn-outline }
 
 
 
@@ -38,7 +38,7 @@ For Part III works, the general rule is that the author of the work is the first
 Section 10 of the _Act_ provides that the author of a photograph is the person who took the photograph. Subjects of photographs (i.e the people in the photograph) have no copyright interest in the photograph.
 
 
-**Video overview by Kylie Pappalardo on [Copyright Ownership](https:_www.youtube.com/watch?v=uvGg9CM19wo&list=PLL6gyWv948RU928wTpzqyDBwmIcfy2-Zz&index=9).**
+**Video overview by Kylie Pappalardo on [Copyright Ownership](https://www.youtube.com/watch?v=uvGg9CM19wo&list=PLL6gyWv948RU928wTpzqyDBwmIcfy2-Zz&index=9).**
 
 There are three exceptions to the general rule that the author is the first owner of copyright. These arise in relation to:
 
@@ -60,7 +60,7 @@ Where a creator is working under a contract of employment, the rule is that the 
 
 
 
-**Video overview by Rachel Choi on[Distinguishing Employees and Independent Contractors](https:_vimeo.com/122047180).**
+**Video overview by Rachel Choi on[Distinguishing Employees and Independent Contractors](https://vimeo.com/122047180).**
 
 
 In determining whether the work is created in the course of employment, it can be helpful to ask: "Whether on the one hand the employee is employed as part of the business and his work is an integral part of the business, or whether his work is not integrated into the business but is only accessory to it, or, […] the work is done by him in business on his own account." [^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]
@@ -148,7 +148,7 @@ Joint authors take ownership as tenants in common – each has title to sue and 
 
 
 
-**Video overview by Olivia Wright on [Tenants in Common and Copyright](https:_www.youtube.com/watch?v=SuR0HoFVO2Y).**
+**Video overview by Olivia Wright on [Tenants in Common and Copyright](https://www.youtube.com/watch?v=SuR0HoFVO2Y).**
 
 
 ## Ownership of Copyright in Part IV "Subject Matter Other than Works"
@@ -240,7 +240,7 @@ __ [^AUTOREPLACED2007FCAC80ENDREPLACE]
 [^AUTOREPLACED2007FCAC80ENDREPLACE]: [2007] FCAC 80
 
 
-In the case of [Copyright Agency Limited v State of NSW](http:_classic.austlii.edu.au/au/cases/cth/FCAFC/2007/80.html) the Copyright Tribunal heard a claim by the Copyright Agency Limited (CAL), whose members include surveyors, for orders under ss 183(5) and 183(A) of the _Copyright Act 1968_ (Cth) in respect of a number of surveyors' plans and the State of New South Wales' 'dealings' in respect of them. Following the determination of the Tribunal, questions of law were referred to the Full Federal Court.
+In the case of [Copyright Agency Limited v State of NSW](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2007/80.html) the Copyright Tribunal heard a claim by the Copyright Agency Limited (CAL), whose members include surveyors, for orders under ss 183(5) and 183(A) of the _Copyright Act 1968_ (Cth) in respect of a number of surveyors' plans and the State of New South Wales' 'dealings' in respect of them. Following the determination of the Tribunal, questions of law were referred to the Full Federal Court.
 
 Held, that the New South Wales Government did not own copyright in the surveyors' plans. The court stressed that, when considering the issue of Crown copyright, it is important to understand the relevant legislation under which the works are created and its history.
 
@@ -249,4 +249,4 @@ Finkelstein J on Crown copyright:
 >“As regards to work made by the Crown, we are necessarily dealing with a fiction. Generally for copyright purposes a work is made by its author. What s 176 contemplates is that, in certain circumstances, the act of the author in making a work is to be attributed to the Crown. An attribution of this kind is a concept well known in the law”.
 
 
-**Video overview by Kylie Pappalardo on [Crown Copyright](https:_www.youtube.com/watch?v=EqxyEZwLGUI).**
+**Video overview by Kylie Pappalardo on [Crown Copyright](https://www.youtube.com/watch?v=EqxyEZwLGUI).**

@@ -4,7 +4,7 @@ title: Passing Off
 nav_order: 30
 parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/passing-off.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/passing-off.markdown){: .btn .btn-outline }
 
 
 # Passing Off
@@ -34,7 +34,7 @@ The core of passing off is trying to stop another trader from linking their prod
 [^AUTOREPLACEDConAgraIncvMcCainFoodsAustPtyLtd199223IPR193at233ENDREPLACE]: *ConAgra Inc v McCain Foods (Aust) Pty Ltd* (1992) 23 IPR 193 at 233
 
 
-**Video overview by Nicolas Suzor on [Passing Off](https:_www.youtube.com/watch?v=igYsVEUE7wY&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve&index=4)**
+**Video overview by Nicolas Suzor on [Passing Off](https://www.youtube.com/watch?v=igYsVEUE7wY&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve&index=4)**
 
 ## No Established Definition of Passing Off
 
@@ -122,7 +122,7 @@ of Lords, with Reckitt & Colman cross appealing (although the cross appeal was n
 The appeal was dismissed by the House of Lords, which agreed with the decision of the Court of Appeal affirming the permanent injunction against the Defendant preventing him from selling its lemon juice in the proposed packaging (Lord Bridge of Harwich; Lord Brandon of Oakbrook; Lord Oliver of Aylmerton; Lord Goff of Chieveley; Lord Jauncey of Tullichettle).
 
 
-**Video overview by Jess Walker on [Reckitt & Colman Products Ltd v Borden Inc](https:_www.youtube.com/watch?v=7GheuARYYEU)**
+**Video overview by Jess Walker on [Reckitt & Colman Products Ltd v Borden Inc](https://www.youtube.com/watch?v=7GheuARYYEU)**
 
 
 
@@ -270,7 +270,7 @@ Perram J at 362 [32]:
 > "Because the principal component in the Maltesers get-up is the word “Maltesers”, it is highly unlikely that any ordinary consumer of chocolate confectionary could mistake something which is not called a Malteser for a Malteser. In that sense, Mars is a victim of its own success. The fact that the Delfi jars carry the name “Malt Balls” and use slightly different visual features is sufficiently clear to distinguish them from the Maltesers products".
 
 
-**Video overview by Caroline Burrows on [Mars Australia Pty Ltd v Sweet Rewards Pty Ltd](https:_www.youtube.com/watch?v=1A4IGR7x0EU)**
+**Video overview by Caroline Burrows on [Mars Australia Pty Ltd v Sweet Rewards Pty Ltd](https://www.youtube.com/watch?v=1A4IGR7x0EU)**
 
 
 
@@ -404,7 +404,7 @@ Character merchandising = using the reputation of a well-known fictitious charac
 Celebrity endorsements = Using a celebrity to endorse and contribute to the popularity of a particular product (that may or may not be connected to the particular celebrity).
 
 
-**Video overview by Billy Young on [Character Merchandising](https:_www.youtube.com/watch?v=y4pT18IEf2s)**
+**Video overview by Billy Young on [Character Merchandising](https://www.youtube.com/watch?v=y4pT18IEf2s)**
 
 
 

@@ -8,7 +8,7 @@ redirect_from:
 nav_order: 30
 ---
 
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries.markdown){: .btn .btn-outline }
 
 # The Liability of Intermediaries
 {: .no_toc }
@@ -22,13 +22,13 @@ This Chapter introduces you to the concept of intermediary liability before expl
 
 ## Background and Context
 
-**Video Overview by Nic Suzor:[Intermediary Liability](https:_www.youtube.com/watch?v=e36BUvX5wzU)**
+**Video Overview by Nic Suzor:[Intermediary Liability](https://www.youtube.com/watch?v=e36BUvX5wzU)**
 
 The internet has radically changed the way people communicate. Technological developments  have drastically reduced the costs of creating content and publishing it to a large audience. The rise of blogs, discussion fora, and social media has enabled and empowered individuals to communicate directly with others all around the world. Through effective search engines and social sharing, the content that individuals post also becomes visible and discoverable to a potentially massive audience, sometimes far beyond the intended reach of the primary poster.
 
 This democratisation of speech is something to celebrate. User-generated content and user innovation signal a massive potential step forward in free speech and in economic productivity. When Time Magazine named 'You', the user, as its Person of the Year in 2006, it celebrated a revolution signified by an “explosion of productivity and innovation” that brought “millions of minds that would otherwise have drowned in obscurity […] into the global intellectual economy”.[^AUTOREPLACEDLevGrossmanYouYesYouAreTIMEsPersonoftheYear2006Timehttpcontenttimecomtimemagazinearticle09171157081000htmlAUTOREPLACED] Clay Shirky's book 'Here comes everybody'[^AUTOREPLACEDClayShirkyHereComesEverybodyThePowerofOrganizingwithoutOrganizationsPenguinPress2008AUTOREPLACED] captures the sense of optimism that this revolution may liberate and empower amateurs everywhere to participate in the creation and distribution of media. This phenomenon is often seen as a revolution in democracy itself, removing the power to control discourse and influence thought, culture and politics from the hands of a small number of global corporations and redistributing it to ordinary internet users the world over.
 
-[^AUTOREPLACEDLevGrossmanYouYesYouAreTIMEsPersonoftheYear2006Timehttpcontenttimecomtimemagazinearticle09171157081000htmlAUTOREPLACED]: Lev Grossman, ‘You — Yes, You — Are TIME’s Person of the Year’ [2006] Time <http:_content.time.com/time/magazine/article/0,9171,1570810,00.html>
+[^AUTOREPLACEDLevGrossmanYouYesYouAreTIMEsPersonoftheYear2006Timehttpcontenttimecomtimemagazinearticle09171157081000htmlAUTOREPLACED]: Lev Grossman, ‘You — Yes, You — Are TIME’s Person of the Year’ [2006] Time <http://content.time.com/time/magazine/article/0,9171,1570810,00.html>
 
 
 
@@ -40,7 +40,7 @@ At the same time, however, the disintermediation of speech makes legitimate, dem
 
 ### Users’ Interests
 
-**Video Overview by Kylie Pappalardo:[The Interests of Users](https:_www.youtube.com/watch?v=UAKuZgHmyq4)**
+**Video Overview by Kylie Pappalardo:[The Interests of Users](https://www.youtube.com/watch?v=UAKuZgHmyq4)**
 
 When we consider the regulation of online intermediaries, it is important that we do not focus solely on the technological and financial impacts of regulation on the intermediaries themselves. These are important considerations, but they are not the whole story. It is also critical to ask: whom are these laws really targeting?
 
@@ -68,7 +68,7 @@ In other words, cases against intermediaries are ill-suited to properly consider
 
 ### A Divergence From Established Principles
 
-**Video Overview by Kylie Pappalardo:[Duty to Rescue](https:_www.youtube.com/watch?v=tCm6a2y-xro)**
+**Video Overview by Kylie Pappalardo:[Duty to Rescue](https://www.youtube.com/watch?v=tCm6a2y-xro)**
 
 Much of online regulation focuses on regulation of or through intermediaries. It is important to be aware, however, that this is not the norm in the offline world.
 
@@ -106,7 +106,7 @@ To put this into context, think again of the example of online copyright infring
 
 ## The Trade-Offs Between Efficiency, Liberty, Innovation, and User Rights
 
-**Video Overview by Nic Suzor: [Intermediary Responsibility](https:_www.youtube.com/watch?v=Sd0d-titw24)**
+**Video Overview by Nic Suzor: [Intermediary Responsibility](https://www.youtube.com/watch?v=Sd0d-titw24)**
 
 The story of copyright is a neat illustration of a messy problem common to all attempts to impose restrictions on the flow of information over a decentralised, transnational network of 3+ billion people. Across the breadth of regulatory debates, there is a common set of difficult regulatory trade-offs. There are fundamental conflicts between the efficiency of enforcement mechanisms, the liberty of private actors, the need for certainty in order to encourage investment and innovation, and the rights of individuals.
 

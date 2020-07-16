@@ -5,7 +5,7 @@ nav_order: 0
 has_children: true
 has_toc: true
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/home.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/home.markdown){: .btn .btn-outline }
 
 
 # Australian IP Law open textbook
@@ -16,14 +16,14 @@ has_toc: true
 
 This is a collaborative, free open textbook about Australian Intellectual Property Law. The underlying concept behind this open textbook is to make Intellectual Property Law more accessible — both physically and conceptually for students. This book aims to be a complete university level textbook.
 
-You can find our complete course of accompanying IP videos on YouTube: [Australian IP law](https:_www.youtube.com/playlist?list=PLL6gyWv948RU928wTpzqyDBwmIcfy2-Zz).
+You can find our complete course of accompanying IP videos on YouTube: [Australian IP law](https://www.youtube.com/playlist?list=PLL6gyWv948RU928wTpzqyDBwmIcfy2-Zz).
 
 We also have an open textbook about internet law and regulation: [[:cyberlaw:home]].
 
 ## Why Open Textbooks?
 The textbook market is flawed - students are paying too much, and do not have choice in the books they buy. We are creating a set of open educational resources that are free for the world to use.
 
-**Watch the [introductory video](https:_www.youtube.com/watch?v=hpDMNZ6DyVQ) to learn more about what we're doing.**
+**Watch the [introductory video](https://www.youtube.com/watch?v=hpDMNZ6DyVQ) to learn more about what we're doing.**
 
 ## How Do We Achieve This?
 
@@ -56,10 +56,10 @@ What can I do? We have provided an outline structure. Here’s a few ways you ca
 Some places you might like to start are:
 
 * Wikipedia (CC BY-SA)
-* http:_cyber.law.harvard.edu/copyrightforlibrarians/Main_Page  (CC BY)
-* http:_itlaw.wikia.com/wiki/The_IT_Law_Wiki  (CC BY SA)
-* http:_www.teachingcopyright.org/curriculum/hs  (CC BY)
-* http:_pad.p2pu.org/p/school-of-open-resources
+* http://cyber.law.harvard.edu/copyrightforlibrarians/Main_Page  (CC BY)
+* http://itlaw.wikia.com/wiki/The_IT_Law_Wiki  (CC BY SA)
+* http://www.teachingcopyright.org/curriculum/hs  (CC BY)
+* http://pad.p2pu.org/p/school-of-open-resources
 
 
 **Formatting**: Make sure that formatting is correct and the appropriate styles are used.

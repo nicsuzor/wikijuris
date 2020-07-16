@@ -4,7 +4,7 @@ title: Genetic Resources
 nav_order: 81
 parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/genetic_resources.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/genetic_resources.markdown){: .btn .btn-outline }
 
 
 
@@ -21,7 +21,7 @@ Broadly stated genetic resources contain biological materials such as genes or m
 The World Intellectual Property Organization (_WIPO_) defines genetic resources as:
 
 … genetic material of actual or potential value. Genetic material is any material of plant, animal, microbial or other origin containing functional units of heredity. Examples include material of plant, animal, or microbial origin, such as medicinal plants, agricultural crops and animal breeds. [^AUTOREPLACEDhttpswwwwipointtkengeneticENDREPLACE]
-[^AUTOREPLACEDhttpswwwwipointtkengeneticENDREPLACE]: https:_www.wipo.int/tk/en/genetic/
+[^AUTOREPLACEDhttpswwwwipointtkengeneticENDREPLACE]: https://www.wipo.int/tk/en/genetic/
 
 
 For millennia, genetic resources were the ‘common heritage of mankind’ [^AUTOREPLACEDSeeforexampleJamesOdekBiopiracycreatingproprietaryrightsinplantgeneticresourcesJIntellPropL21994141PaulGeptsWhoownsbiodiversityandhowshouldtheownersbecompensatedPlantphysiology1344200412951307ENDREPLACE]
@@ -51,7 +51,7 @@ Entering into force in 1993, the CBD (Art. 1) has three objectives:
   - Fair and equitable sharing of the benefits arising from the use of genetic resources.
 
 As of 1 February 2019, there were 196 parties to the CBD [^AUTOREPLACEDForaListofPartiesseehttpswwwcbdintinformationpartiesshtmlENDREPLACE]
-[^AUTOREPLACEDForaListofPartiesseehttpswwwcbdintinformationpartiesshtmlENDREPLACE]: For a List of Parties see https:_www.cbd.int/information/parties.shtml
+[^AUTOREPLACEDForaListofPartiesseehttpswwwcbdintinformationpartiesshtmlENDREPLACE]: For a List of Parties see https://www.cbd.int/information/parties.shtml
 .
 
 In addition to the Convention itself, there are a range of supplementary protocols and guidelines that address issues and help with the implementation of the CBD.
@@ -69,7 +69,7 @@ In accordance with the precautionary approach contained in Principle 15 of the R
 In 2002, the voluntary Bonn Guidelines were developed to represent best practices for biodiscovery. The Bonn Guidelines provide the basis for national laws on biodiscovery.
 
 In Australia, for example, a number of states and territories have incorporated these Guidelines in various pieces of legislation and regulation. For information about the raft of approaches to biodiversity in Australia see the Department of Environment and Energy website, _Access to biological resources in States and Territories_ [^AUTOREPLACEDhttpwwwenvironmentgovautopicsscienceandresearchaustraliasbiologicalresourcesaccessbiologicalresourcesstatesandENDREPLACE]
-[^AUTOREPLACEDhttpwwwenvironmentgovautopicsscienceandresearchaustraliasbiologicalresourcesaccessbiologicalresourcesstatesandENDREPLACE]: http:_www.environment.gov.au/topics/science-and-research/australias-biological-resources/access-biological-resources-states-and
+[^AUTOREPLACEDhttpwwwenvironmentgovautopicsscienceandresearchaustraliasbiologicalresourcesaccessbiologicalresourcesstatesandENDREPLACE]: http://www.environment.gov.au/topics/science-and-research/australias-biological-resources/access-biological-resources-states-and
 
 
 ### The Nagoya Protocol
@@ -88,7 +88,7 @@ In addressing the issue of implementation of the CBD, the Nagoya Protocol provid
 
 ## The International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGR) of the United Nations Food and Agriculture Organization (FAO)
 
-The International Treaty on Plant Genetic Resources for Food and Agriculture (_ITPGR_) was adopted on 3 November 2001 and came into force on 29 June 2004. For details of the Contracting Parties to the ITPGR see http:_www.fao.org/plant-treaty/countries/membership/en/
+The International Treaty on Plant Genetic Resources for Food and Agriculture (_ITPGR_) was adopted on 3 November 2001 and came into force on 29 June 2004. For details of the Contracting Parties to the ITPGR see http://www.fao.org/plant-treaty/countries/membership/en/
 
 The ITPGR’s objectives are:
 
@@ -99,7 +99,7 @@ The ITPGR’s objectives are:
 To achieve its objectives, the ITPGR established a Multilateral System that:
 
 …puts 64 of our most important crops – crops that together account for 80 percent of the food we derive from plants – into an easily accessible global pool of genetic resources that is freely available to potential users in the Treaty’s ratifying nations for some uses.[^AUTOREPLACEDhttpwwwfaoorgplanttreatyareasofworkthemultilateralsystemoverviewenENDREPLACE]
-[^AUTOREPLACEDhttpwwwfaoorgplanttreatyareasofworkthemultilateralsystemoverviewenENDREPLACE]: http:_www.fao.org/plant-treaty/areas-of-work/the-multilateral-system/overview/en/
+[^AUTOREPLACEDhttpwwwfaoorgplanttreatyareasofworkthemultilateralsystemoverviewenENDREPLACE]: http://www.fao.org/plant-treaty/areas-of-work/the-multilateral-system/overview/en/
 
 
 Importantly, the 64 crops in the Multilateral System are shared for research, breeding and training for food and agriculture.
@@ -148,7 +148,7 @@ Traditional knowledge (TK) possessed by indigenous peoples and local communities
 
 TK is a contentious issue for many, and over the years it has proven difficult achieving consensus on key issues including the nature and scope of TK and the way in which it should and can be safeguarded.
 One of the key organisation working in this area is the World Intellectual Property Organization. With WIPO’s Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore (IGC), considering three related texts addressing genetic resources (GRs), traditional knowledge (TK) and traditional cultural expressions and expressions of folklore (TCEs). [^AUTOREPLACEDSeehttpswwwwipointtkenigcENDREPLACE]
-[^AUTOREPLACEDSeehttpswwwwipointtkenigcENDREPLACE]: See https:_www.wipo.int/tk/en/igc/
+[^AUTOREPLACEDSeehttpswwwwipointtkenigcENDREPLACE]: See https://www.wipo.int/tk/en/igc/
 
 
 In terms of the conventions and treaties discussed above, there are some explicit and implicit references to TK.
@@ -203,7 +203,7 @@ For instance:
 
 While the _CBD_ (and the Bonn guidelines and Nagoya Protocol) provide a framework for the conservation of biological diversity, the sustainable use of its components, and the fair and equitable sharing of benefits arising from the use of genetic resources, they need to be implemented by national governments.
 
-While Australia signed the _CBD_ in 1992, Australian governments (federal, state and territory) have taken different approaches to its implementation. In 2002, all governments endorsed a nationally consistent approach for access to, and the utilisation of, Australia's native genetic resources. Information about relevant laws can be found http:_www.environment.gov.au/topics/science-and-research/australias-biological-resources
+While Australia signed the _CBD_ in 1992, Australian governments (federal, state and territory) have taken different approaches to its implementation. In 2002, all governments endorsed a nationally consistent approach for access to, and the utilisation of, Australia's native genetic resources. Information about relevant laws can be found http://www.environment.gov.au/topics/science-and-research/australias-biological-resources
 
 In Queensland, for example, the _Biodiscovery Act 2004_ (Qld) was introduced to:
 
@@ -230,10 +230,10 @@ So far, this Chapter has focused on ‘traditional’ legal frameworks. Importan
 
 Consequently, the perception of added legality and bureaucracy that legal instruments may provide, has been criticised on the basis will fail to affect the _CBD_’s goals in a meaningful way. Increasingly, with genetic resources, broader regulatory frameworks need to be contemplated.
 
-For example, in 1996, the United Nations Conference on Trade and Development (_UNCTAD_) introduced the BioTrade Initiative to support sustainable trade in a way that is consistent with the objectives of the _CBD_. See https:_unctad.org/en/pages/ditc/trade-and-environment/biotrade.aspx
+For example, in 1996, the United Nations Conference on Trade and Development (_UNCTAD_) introduced the BioTrade Initiative to support sustainable trade in a way that is consistent with the objectives of the _CBD_. See https://unctad.org/en/pages/ditc/trade-and-environment/biotrade.aspx
 
 BioTrade refers to those activities of collection, production, transformation, and commercialization of goods and services derived from native biodiversity under the criteria of environmental, social and economic sustainability [^AUTOREPLACEDhttpsunctadorgenpagesditctradeandenvironmentbiotradeaspxENDREPLACE]
-[^AUTOREPLACEDhttpsunctadorgenpagesditctradeandenvironmentbiotradeaspxENDREPLACE]: https:_unctad.org/en/pages/ditc/trade-and-environment/biotrade.aspx
+[^AUTOREPLACEDhttpsunctadorgenpagesditctradeandenvironmentbiotradeaspxENDREPLACE]: https://unctad.org/en/pages/ditc/trade-and-environment/biotrade.aspx
 .
 
 BioTrade serves an important role in this context. It emphasises balancing and accommodating trade and development with biodiversity and sustainability. In this way, BioTrade can fill a void in public legal frameworks, by attempting to facilitate change not solely via direct regulation or enforcement, but by encouraging complementary private-driven measures to supplement transnational approaches.
@@ -241,5 +241,5 @@ BioTrade serves an important role in this context. It emphasises balancing and a
 In 2017, _UNCTAD_ published 20 years of BioTrade which outlines some of the key initiatives of BioTrade. Looking to the future, Executive Secretary of the Convention on Biological Diversity made it clear that:
 
 “taking steps to strengthen markets for BioTrade and putting in place supportive policies would help leverage the contribution that BioTrade can make to meeting the objectives of the [CBD]” [^AUTOREPLACEDhttpsunctadorgenpagesPublicationWebflyeraspxpublicationid1765ENDREPLACE]
-[^AUTOREPLACEDhttpsunctadorgenpagesPublicationWebflyeraspxpublicationid1765ENDREPLACE]: https:_unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1765
+[^AUTOREPLACEDhttpsunctadorgenpagesPublicationWebflyeraspxpublicationid1765ENDREPLACE]: https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1765
 .

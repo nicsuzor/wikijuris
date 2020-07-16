@@ -16,11 +16,11 @@ Please add your details below so that we can properly acknowledge your work.
 
 This work includes material by:
 
-* [Nicolas Suzor](https:_nic.suzor.net) (QUT)
-* [Kylie Pappalardo](https:_staff.qut.edu.au/staff/k.pappalardo/) (QUT)
-* [Vicki Huang](https:_www.deakin.edu.au/about-deakin/people/vicki-huang) (Deakin)
+* [Nicolas Suzor](https://nic.suzor.net) (QUT)
+* [Kylie Pappalardo](https://staff.qut.edu.au/staff/k.pappalardo/) (QUT)
+* [Vicki Huang](https://www.deakin.edu.au/about-deakin/people/vicki-huang) (Deakin)
 * Rita Matulionyte (Newcastle)
-* [Angela Daly](https:_angeladaly.com/) (Strathclyde)
+* [Angela Daly](https://angeladaly.com/) (Strathclyde)
 * Alice Witt (QUT)
 * Wikipedia (CC BY-SA)
 
@@ -42,4 +42,4 @@ We are very grateful for contributions from students, including:
 
 ### Image credits
 
-* [Datacenter Work](https:_www.flickr.com/photos/stars6/4381851322) by Leonardo Rizzi (CC BY-SA)
+* [Datacenter Work](https://www.flickr.com/photos/stars6/4381851322) by Leonardo Rizzi (CC BY-SA)

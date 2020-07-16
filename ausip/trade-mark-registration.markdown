@@ -5,7 +5,7 @@ nav_order: 51
 parent: Trade Mark
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-registration.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-registration.markdown){: .btn .btn-outline }
 
 
 # Trade Mark Registration
@@ -18,7 +18,7 @@ grand_parent: Australian IP Law
 
 Trade mark applications is a relatively simply process. Applications can be made online and do not always require legal assistance. The below video provides an overview of the registration process.
 
-**Video overview by Dan Hunter on [Registration of Trade Marks](https:_www.youtube.com/watch?v=NGTemMKgHaI&index=3&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
+**Video overview by Dan Hunter on [Registration of Trade Marks](https://www.youtube.com/watch?v=NGTemMKgHaI&index=3&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
 
 There are five stages in the application process.
 
@@ -42,7 +42,7 @@ The below video is a detailed overview of the mechanics of the trade mark regist
 
 
 
-**Video overview by Dan Hunter on [The Trade Mark Registration Process](https:_www.youtube.com/watch?v=RW0NjheL7bU)**
+**Video overview by Dan Hunter on [The Trade Mark Registration Process](https://www.youtube.com/watch?v=RW0NjheL7bU)**
 
 ## Benefits of Registration
 
@@ -58,7 +58,7 @@ Trade marks are geographic. Australian trade marks only apply in Australia and U
 
 Trade marks are also considered a form of personal property. This allows the owner to license the mark to other people and companies. This can be very effective when using one brand on another product such as using the superman logos on bed sheets.
 
-**Video overview by Dan Hunter on[The Benefits and Requirements of Registration](https:_www.youtube.com/watch?v=HHX3ul97eXU&index=4&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty)**
+**Video overview by Dan Hunter on[The Benefits and Requirements of Registration](https://www.youtube.com/watch?v=HHX3ul97eXU&index=4&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty)**
 
 
 ## Entitlement to Apply for Registration
@@ -72,7 +72,7 @@ Pursuant to s 17 of the _TMA_, trade marks must be used in order to be registere
 The key question to be considered is whether the mark, in the eyes of the consumer, denotes the source. The following video discusses this complexity of use in trade mark law.
 
 
-**Video overview by Dan Hunter on [The Use Requirements of Trade Mark Registration](https:_www.youtube.com/watch?v=lXleqV_8ikM&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty&index=5%7Cthe+use+requirements+of+trade+mark+registration)**
+**Video overview by Dan Hunter on [The Use Requirements of Trade Mark Registration](https://www.youtube.com/watch?v=lXleqV_8ikM&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty&index=5%7Cthe+use+requirements+of+trade+mark+registration)**
 
 
 ## Registrability: Grounds for Refusal
@@ -116,21 +116,21 @@ The application for registration may be refused on the basis that the applicant 
 
 ### Contains a Prescribed Sign
 
-A trade mark cannot be registered if it contains or consists of a prescribed sign – as set out in Schedule 2 of the [Trade Mark Regulations 1995](https:_www.legislation.gov.au/Details/F2018C00773). [^AUTOREPLACEDTMAs39ENDREPLACE] For example, a trade mark cannot contain ©, Patent, National Flags, Coat of Arms, names of cities, towns, public authorities etc.
+A trade mark cannot be registered if it contains or consists of a prescribed sign – as set out in Schedule 2 of the [Trade Mark Regulations 1995](https://www.legislation.gov.au/Details/F2018C00773). [^AUTOREPLACEDTMAs39ENDREPLACE] For example, a trade mark cannot contain ©, Patent, National Flags, Coat of Arms, names of cities, towns, public authorities etc.
 [^AUTOREPLACEDTMAs39ENDREPLACE]: _TMA_ s 39
 
 
 ### Graphically Represented
 
-A trade mark cannot be registered where it cannot be described in writing and/or drawing. A trade mark must not be solely graphically represented. [^AUTOREPLACEDTMAs40ENDREPLACE] See [Trade Marks Office Manual of Practice and Procedure Part 21](http:_www.ipaustralia.gov.au/pdfs/trademarkmanual/trade_marks_examiners_manual.htm).
+A trade mark cannot be registered where it cannot be described in writing and/or drawing. A trade mark must not be solely graphically represented. [^AUTOREPLACEDTMAs40ENDREPLACE] See [Trade Marks Office Manual of Practice and Procedure Part 21](http://www.ipaustralia.gov.au/pdfs/trademarkmanual/trade_marks_examiners_manual.htm).
 [^AUTOREPLACEDTMAs40ENDREPLACE]: _TMA_ s 40
 
 
 
-**Video overview by Chris Ormandy on [Graphic Representation](https:_www.youtube.com/watch?v=T08fQLbW45Q)**
+**Video overview by Chris Ormandy on [Graphic Representation](https://www.youtube.com/watch?v=T08fQLbW45Q)**
 
 
-**Video overview by Jacob Briggs on [s 40](https:_www.youtube.com/watch?v=jAvxJvncWPI)**
+**Video overview by Jacob Briggs on [s 40](https://www.youtube.com/watch?v=jAvxJvncWPI)**
 
 
 ### Not Capable of Distinguishing
@@ -139,7 +139,7 @@ An application for registration must be rejected if the trade mark is not capabl
 [^AUTOREPLACEDTMAs411ENDREPLACE]: _TMA_ s 41(1)
 
 
-**Video overview by Nic Suzor on [The Requirement of Distinctiveness](https:_www.youtube.com/watch?v=emH1P49K0v0&list=PLa0bKPnUKQrzadmRvIQclmAWk9Wmg1a0P&index=5)**
+**Video overview by Nic Suzor on [The Requirement of Distinctiveness](https://www.youtube.com/watch?v=emH1P49K0v0&list=PLa0bKPnUKQrzadmRvIQclmAWk9Wmg1a0P&index=5)**
 
 There are three categories of distinctiveness
 
@@ -159,7 +159,7 @@ _TMA_ s 41 Note 1 deals with trade marks that are inherently adapted to distingu
 (b) The time of production of goods or of the rendering of services.
 
 
-Trade marks that are capable of distinguishing due to their *intrinsic characteristics* will be inherently distinctive, irrespective of use, intended use or other circumstances. Kitto J in  *[Clark Equipment Co v Registrar of Trade Marks](http:_classic.austlii.edu.au/au/cases/cth/HCA/1964/55.html)*, [^AUTOREPLACED1964HCA55ENDREPLACE] outlined the test for inherent distinctiveness:
+Trade marks that are capable of distinguishing due to their *intrinsic characteristics* will be inherently distinctive, irrespective of use, intended use or other circumstances. Kitto J in  *[Clark Equipment Co v Registrar of Trade Marks](http://classic.austlii.edu.au/au/cases/cth/HCA/1964/55.html)*, [^AUTOREPLACED1964HCA55ENDREPLACE] outlined the test for inherent distinctiveness:
 [^AUTOREPLACED1964HCA55ENDREPLACE]: [1964] HCA 55
 
 
@@ -168,17 +168,17 @@ Trade marks that are capable of distinguishing due to their *intrinsic character
 The following trade marks are not inherently adapted to distinguish:
 
 
-* The word 'Whopper': *[Burger King Corp v Registrar of Trade Marks](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1973/15.html)*; [^AUTOREPLACED1973HCA15ENDREPLACE]
+* The word 'Whopper': *[Burger King Corp v Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1973/15.html)*; [^AUTOREPLACED1973HCA15ENDREPLACE]
 [^AUTOREPLACED1973HCA15ENDREPLACE]: [1973] HCA 15
  [^AUTOREPLACEDhttpwwwaustliieduauaucasescthHCA197315htmlENDREPLACE]
-[^AUTOREPLACEDhttpwwwaustliieduauaucasescthHCA197315htmlENDREPLACE]: http:_www.austlii.edu.au/au/cases/cth/HCA/1973/15.html
+[^AUTOREPLACEDhttpwwwaustliieduauaucasescthHCA197315htmlENDREPLACE]: http://www.austlii.edu.au/au/cases/cth/HCA/1973/15.html
 
 
-* The words 'Cranberry Classic': *[Ocean Spray Cranberries v Registrar of Trade Marks](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/177.html)*; [^AUTOREPLACED2000FCA177ENDREPLACE]
+* The words 'Cranberry Classic': *[Ocean Spray Cranberries v Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/177.html)*; [^AUTOREPLACED2000FCA177ENDREPLACE]
 [^AUTOREPLACED2000FCA177ENDREPLACE]: [2000] FCA 177
 
 
-* The word 'Oregon' with device: *[Blount Inc v Registrar of Trade Marks](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1998/440.html)*. [^AUTOREPLACED1998FCA440ENDREPLACE]
+* The word 'Oregon' with device: *[Blount Inc v Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1998/440.html)*. [^AUTOREPLACED1998FCA440ENDREPLACE]
 [^AUTOREPLACED1998FCA440ENDREPLACE]: [1998] FCA 440
 
 
@@ -194,7 +194,7 @@ In *Ocean Spray Cranberries v Registrar of Trade Marks*, [^AUTOREPLACED2000FCA17
 
 
 
-**Video overview by Patrick Johnson on [Distinctiveness](https:_www.youtube.com/watch?v=xByiCLKTPAI)**
+**Video overview by Patrick Johnson on [Distinctiveness](https://www.youtube.com/watch?v=xByiCLKTPAI)**
 
 #### Trade Marks Adapted to Distinguish to Some Extent
 
@@ -216,7 +216,7 @@ In *Gazal Apparel Pty Ltd v Fine Lines Extraordinary Apparel Pty Ltd*, [^AUTOREP
 
 
 
-**Video overview by Jessica Bell [Distinctiveness](https:_www.youtube.com/watch?v=hqiqW8_BbLM)**
+**Video overview by Jessica Bell [Distinctiveness](https://www.youtube.com/watch?v=hqiqW8_BbLM)**
 
 #### Distinctiveness of Non-Traditional Trade Marks
 
@@ -242,7 +242,7 @@ In *Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd*, 
 
 __Chocolaterie Guylian N.V. v Registrar of Trade Marks__
 
-In *[Chocolaterie Guylian N.V. v Registrar of Trade Marks](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2009/891.html)*, [^AUTOREPLACED2009FCA891ENDREPLACE] the seahorse shape of Guylian chocolates could not be registered as a trade mark as Guylian did not use the shape as its trade mark. Despite evidence that consumers associated the shape with Guylian chocolates, Guylian solely used its name as a badge of origin for goods. The seahorse shape was thus not distinctive.
+In *[Chocolaterie Guylian N.V. v Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2009/891.html)*, [^AUTOREPLACED2009FCA891ENDREPLACE] the seahorse shape of Guylian chocolates could not be registered as a trade mark as Guylian did not use the shape as its trade mark. Despite evidence that consumers associated the shape with Guylian chocolates, Guylian solely used its name as a badge of origin for goods. The seahorse shape was thus not distinctive.
 [^AUTOREPLACED2009FCA891ENDREPLACE]: [2009] FCA 891
 
 
@@ -250,7 +250,7 @@ In *[Chocolaterie Guylian N.V. v Registrar of Trade Marks](http:_www.austlii.edu
 [^AUTOREPLACED2002FCAFC273ENDREPLACE]: [2002] FCAFC 273
 
 
-In *[Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2002/273.html)*, [^AUTOREPLACED2002FCAFC273ENDREPLACE] the 3D shape of an imaginary six-legged spider-like creature (the millennium bug), was capable of registration as a trade mark as it had no functional significance, was distinctive of the applicant's product and was not based on an actual bug that existed in nature.
+In *[Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2002/273.html)*, [^AUTOREPLACED2002FCAFC273ENDREPLACE] the 3D shape of an imaginary six-legged spider-like creature (the millennium bug), was capable of registration as a trade mark as it had no functional significance, was distinctive of the applicant's product and was not based on an actual bug that existed in nature.
 
 [^AUTOREPLACED2002FCAFC273ENDREPLACE]: [2002] FCAFC 273
 
@@ -280,7 +280,7 @@ In *Woolworths Limited v BP p.l.c.*, [^AUTOREPLACED2013ATMO61ENDREPLACE] Woolwor
 
 A trade mark will be contrary to law if its use would violate another law, [^AUTOREPLACEDTMAs42bENDREPLACE]
 [^AUTOREPLACEDTMAs42bENDREPLACE]: _TMA_ s 42(b)
- (such as defamation, copyright, or Australian Consumer Law, [Competition and Consumer Act (Cth) 2010](https:_www.legislation.gov.au/Details/C2018C00437)) or if the trade mark is not allowed to be registered pursuant to law (e.g. Sydney Olympics, Melbourne Commonwealth Games, Australian Grand Prix). See for example *[Advantage Re-A-Car v Advantage Car Rental P/L](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2001/683.html)*.  [^AUTOREPLACED2001FCA683ENDREPLACE] where the trade mark was refused because it would contravene the *Copyright Act 1968* (Cth), as it would give rise to copyright infringement of an artistic work.
+ (such as defamation, copyright, or Australian Consumer Law, [Competition and Consumer Act (Cth) 2010](https://www.legislation.gov.au/Details/C2018C00437)) or if the trade mark is not allowed to be registered pursuant to law (e.g. Sydney Olympics, Melbourne Commonwealth Games, Australian Grand Prix). See for example *[Advantage Re-A-Car v Advantage Car Rental P/L](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2001/683.html)*.  [^AUTOREPLACED2001FCA683ENDREPLACE] where the trade mark was refused because it would contravene the *Copyright Act 1968* (Cth), as it would give rise to copyright infringement of an artistic work.
 [^AUTOREPLACED2001FCA683ENDREPLACE]: [2001] FCA 683
 
 
@@ -301,16 +301,16 @@ An application for registration must be rejected if, because of some *connotatio
 [^AUTOREPLACED2007FCA1649ENDREPLACE]: [2007] FCA 1649
 
 
-In *[Scotch Whisky Association v De Witt](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2007/1649.html)*, [^AUTOREPLACED2007FCA1649ENDREPLACE] an application for the trade mark 'Glen Oaks' for bourbon was refused on the basis the words 'Glenn Oaks' (particularly 'Glenn') conveyed a clear connotation of Scottish origin, and its use in relation to bourbon products was likely to deceive or cause confusion.
+In *[Scotch Whisky Association v De Witt](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2007/1649.html)*, [^AUTOREPLACED2007FCA1649ENDREPLACE] an application for the trade mark 'Glen Oaks' for bourbon was refused on the basis the words 'Glenn Oaks' (particularly 'Glenn') conveyed a clear connotation of Scottish origin, and its use in relation to bourbon products was likely to deceive or cause confusion.
 [^AUTOREPLACED2007FCA1649ENDREPLACE]: [2007] FCA 1649
 
 
 
-**Video overview by Roohi Gill on the [Likelihood of Deception or Confusion](https:_www.youtube.com/watch?v=qQXjYHnp6ng)**
+**Video overview by Roohi Gill on the [Likelihood of Deception or Confusion](https://www.youtube.com/watch?v=qQXjYHnp6ng)**
 
 
 
-**Video overview by Trent Stephens on [Section 43 Deceptive and Confusing Marks](https:_www.youtube.com/watch?v=gkxyzAzEzKc)**
+**Video overview by Trent Stephens on [Section 43 Deceptive and Confusing Marks](https://www.youtube.com/watch?v=gkxyzAzEzKc)**
 
 
 
@@ -332,7 +332,7 @@ _TMA_ s 44 requires the goods/services to be either similar or closely related.
 
 _TMA_ s 14 defines what 'similar' goods and services are. Under _TMA_ s 14(1), goods are similar to other goods if they are the same as the other goods; or if they are of the same description as that of the other goods. Under _TMA_ s 14(2),  services are similar to other services if they are the same as the other services; or if they are of the same description as that of the other services.
 
-If the public would not expect the same business to supply both the goods/services, then the two are unlikely to be considered closely related. In *[Registrar of Trade Marks v Woolworths Ltd](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/1020.html)*, [^AUTOREPLACED1999FCA1020ENDREPLACE] retailing and wholesaling services in the nature of supermarkets, department stores, variety stores, boutiques, speciality products stores, liquor outlets and discount stores were services closely related to the following goods: meat of all kinds, confectionery, mens, womens and children under and outer wear but not including footwear, games, toys and playthings but not including scooters, bicycles or exercise bikes, chairs, combs and hairbrushes.
+If the public would not expect the same business to supply both the goods/services, then the two are unlikely to be considered closely related. In *[Registrar of Trade Marks v Woolworths Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/1020.html)*, [^AUTOREPLACED1999FCA1020ENDREPLACE] retailing and wholesaling services in the nature of supermarkets, department stores, variety stores, boutiques, speciality products stores, liquor outlets and discount stores were services closely related to the following goods: meat of all kinds, confectionery, mens, womens and children under and outer wear but not including footwear, games, toys and playthings but not including scooters, bicycles or exercise bikes, chairs, combs and hairbrushes.
 [^AUTOREPLACED1999FCA1020ENDREPLACE]: [1999] FCA 1020
 
 
@@ -343,7 +343,7 @@ If the public would not expect the same business to supply both the goods/servic
 [^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66]
 
 
-Windeyer J in *[Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1963/66.html)*, [^AUTOREPLACED1963HCA66ENDREPLACE] observed that:
+Windeyer J in *[Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1963/66.html)*, [^AUTOREPLACED1963HCA66ENDREPLACE] observed that:
 [^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66]
 
 
@@ -368,11 +368,11 @@ In *Coca Cola Co v All-Fect Distributors Ltd*, [^AUTOREPLACED199996FCR107ENDREPL
 The case concerned coke bottle lollies, which used a similar shape that Coca-Cola had protected by a shape trade mark. The court held that even when the confectionary was laid out flat, it didn't have the pronounced waisting effect that the bottom quarter of Coca-Cola's mark had. While there was space for the label on the confectionary, it was of a different shape and had 'Cola' written across it. The only similarities between the mark and the confectionary was the fluting. Therefore, a total impression of similarity did not emerge by comparison of the mark and the confectionary and therefore they are not substantially identical.
 
 
-**Video overview by Matt Gamble on [Test of Substantial Identity](https:_www.youtube.com/watch?v=adX01FWSENM)**
+**Video overview by Matt Gamble on [Test of Substantial Identity](https://www.youtube.com/watch?v=adX01FWSENM)**
 
 
 
-**Video overview by Laura O'Brien on the [Test of Substantial Identity](https:_www.youtube.com/watch?v=KTluc6T23oY)**
+**Video overview by Laura O'Brien on the [Test of Substantial Identity](https://www.youtube.com/watch?v=KTluc6T23oY)**
 
 [^AUTOREPLACED1999FCAFC1020ENDREPLACE]
 [^AUTOREPLACED1999FCAFC1020ENDREPLACE]: [1999] FCAFC 1020
@@ -386,7 +386,7 @@ In *Woolworths v Register of Trade Marks*, [^AUTOREPLACED1999FCAFC1020ENDREPLACE
 [^AUTOREPLACED2003FCA901ENDREPLACE]: [2003] FCA 901
 
 
-In *[Torpedoes Sportswear Pty Limited v Thorpedo Enterprises Pty Limited](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2003/901.html)*, [^AUTOREPLACED2003FCA901ENDREPLACE] Torpedoes Sportswear owned two trade marks for 'Paradise Legends Torpedoes' word and 'Torpedoes' logo. It opposed the registration of 'Thorpedo' for sportswear.
+In *[Torpedoes Sportswear Pty Limited v Thorpedo Enterprises Pty Limited](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2003/901.html)*, [^AUTOREPLACED2003FCA901ENDREPLACE] Torpedoes Sportswear owned two trade marks for 'Paradise Legends Torpedoes' word and 'Torpedoes' logo. It opposed the registration of 'Thorpedo' for sportswear.
 [^AUTOREPLACED2003FCA901ENDREPLACE]: [2003] FCA 901
 
 
@@ -408,7 +408,7 @@ The marks need not be compared side by side. Instead, the residual impression on
 [^AUTOREPLACED1954HCA82ENDREPLACE]: [1954] HCA 82
 
 
-In *[Southern Cross Refrigeration Co v Toowoomba Foundry Pty Ltd](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1954/82.html)*, [^AUTOREPLACED1954HCA82ENDREPLACE] the High Court approved the wonderment test - the trade mark will be deceptively similar if it causes a reasonable person to wonder whether it might not be the case that the two products come from the same source. In that case, the words 'Southern Cross' were applied for in respect of refrigerators. This was successfully opposed by Toowoomba Foundry, which owned the mark 'Southern Cross' in respect of well drilling machinery, milking machines, engines and windmills. There was evidence of actual confusion between the marks. Particularly relevant was that the 'Southern Cross' mark was used for many years over a large range of goods, sold at country stores that sold a wide range of products. Therefore, the marks were deceptively similar.
+In *[Southern Cross Refrigeration Co v Toowoomba Foundry Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1954/82.html)*, [^AUTOREPLACED1954HCA82ENDREPLACE] the High Court approved the wonderment test - the trade mark will be deceptively similar if it causes a reasonable person to wonder whether it might not be the case that the two products come from the same source. In that case, the words 'Southern Cross' were applied for in respect of refrigerators. This was successfully opposed by Toowoomba Foundry, which owned the mark 'Southern Cross' in respect of well drilling machinery, milking machines, engines and windmills. There was evidence of actual confusion between the marks. Particularly relevant was that the 'Southern Cross' mark was used for many years over a large range of goods, sold at country stores that sold a wide range of products. Therefore, the marks were deceptively similar.
 [^AUTOREPLACED1954HCA82ENDREPLACE]: [1954] HCA 82
 
 
@@ -416,7 +416,7 @@ In *[Southern Cross Refrigeration Co v Toowoomba Foundry Pty Ltd](http:_www.aust
 [^AUTOREPLACED1973HCA43ENDREPLACE]: [1973] HCA 43
 
 
-In *[Berlei Hestia Industries v the Bali Co, Inc](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1973/43.html)*, [^AUTOREPLACED1973HCA43ENDREPLACE]
+In *[Berlei Hestia Industries v the Bali Co, Inc](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1973/43.html)*, [^AUTOREPLACED1973HCA43ENDREPLACE]
 [^AUTOREPLACED1973HCA43ENDREPLACE]: [1973] HCA 43 the aural similarities between 'Berlei' and 'Bali' made the mark deceptively similar by reason of phonetic confusion. A consumer would be caused to wonder if there was a relationship between the two brands.
 
 
@@ -424,7 +424,7 @@ In *[Berlei Hestia Industries v the Bali Co, Inc](http:_www.austlii.edu.au/cgi-b
 [^AUTOREPLACED2000HCA12ENDREPLACE]: [2000] HCA 12
 
 
-In *[Campomar Sociedad Limited v Nike International Limited](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/2000/12.html)*, [^AUTOREPLACED2000HCA12ENDREPLACE] Campomar marketed a 'Nike Sports Fragrance' and applied for a trade mark in class 3. Nike had no registration in this class. The court held there was no likelihood of confusion in 1986 when the first mark was applied for, but some likelihood of confusion from 1992 when the second mark was applied for, once Nike engaged in a worldwide advertising campaign.
+In *[Campomar Sociedad Limited v Nike International Limited](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/2000/12.html)*, [^AUTOREPLACED2000HCA12ENDREPLACE] Campomar marketed a 'Nike Sports Fragrance' and applied for a trade mark in class 3. Nike had no registration in this class. The court held there was no likelihood of confusion in 1986 when the first mark was applied for, but some likelihood of confusion from 1992 when the second mark was applied for, once Nike engaged in a worldwide advertising campaign.
 [^AUTOREPLACED2000HCA12ENDREPLACE]: [2000] HCA 12
 
 
@@ -432,7 +432,7 @@ In *[Campomar Sociedad Limited v Nike International Limited](http:_www.austlii.e
 [^AUTOREPLACED2004FCAFC196ENDREPLACE]: [2004] FCAFC 196
 
 
-*[Crazy Ron's v Mobileworld](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2004/196.html)*, [^AUTOREPLACED2004FCAFC196ENDREPLACE] concerned Crazy Johns, which operated since 1993 and Crazy Ron's, which operated since 1996. It was held the words CRAZY RON'S did not infringe the Crazy Johns globe device mark, as the words 'Crazy John's' was not an essential feature of the logo. However, a different conclusion might have been reached if the reputation of Crazy John's was greater.
+*[Crazy Ron's v Mobileworld](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2004/196.html)*, [^AUTOREPLACED2004FCAFC196ENDREPLACE] concerned Crazy Johns, which operated since 1993 and Crazy Ron's, which operated since 1996. It was held the words CRAZY RON'S did not infringe the Crazy Johns globe device mark, as the words 'Crazy John's' was not an essential feature of the logo. However, a different conclusion might have been reached if the reputation of Crazy John's was greater.
 [^AUTOREPLACED2004FCAFC196ENDREPLACE]: [2004] FCAFC 196
 
 
@@ -440,34 +440,34 @@ In *[Campomar Sociedad Limited v Nike International Limited](http:_www.austlii.e
 [^AUTOREPLACED1994FCA1001ENDREPLACE]: [1994] FCA 1001
 
 
-In *[Wingate Marketing v Levi Strauss](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1994/1001.html)*, [^AUTOREPLACED1994FCA1001ENDREPLACE]
+In *[Wingate Marketing v Levi Strauss](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1994/1001.html)*, [^AUTOREPLACED1994FCA1001ENDREPLACE]
 [^AUTOREPLACED1994FCA1001ENDREPLACE]: [1994] FCA 1001
  'Revise' was held to be deceptively similar to 'Levis', both aurally and visually - 'Revise' was pronounce 'Ree-vise' to sound like 'Levis', as it was remade second-hand Levis.
 
 
-**Video overview by Nicholas Cassidy on [Wingate Marketing v Levi Strauss](https:_www.youtube.com/watch?v=SjeRsg0vyOs)**
+**Video overview by Nicholas Cassidy on [Wingate Marketing v Levi Strauss](https://www.youtube.com/watch?v=SjeRsg0vyOs)**
 
 
 
 
-**Video overview by Yanery Ventura-Rodriguez on [Wingate Marketing v Levi Strauss](https:_www.youtube.com/watch?v=oWB_AErfJnc)**
+**Video overview by Yanery Ventura-Rodriguez on [Wingate Marketing v Levi Strauss](https://www.youtube.com/watch?v=oWB_AErfJnc)**
 
 
 [^AUTOREPLACED2000FCA1539ENDREPLACE]
 [^AUTOREPLACED2000FCA1539ENDREPLACE]: [2000] FCA 1539
 
 
-In *[CA Henschke & Co v Rosemount Estates Pty Ltd](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1539.html)*, [^AUTOREPLACED2000FCA1539ENDREPLACE]
+In *[CA Henschke & Co v Rosemount Estates Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1539.html)*, [^AUTOREPLACED2000FCA1539ENDREPLACE]
 [^AUTOREPLACED2000FCA1539ENDREPLACE]: [2000] FCA 1539 compared the applicants trade mark 'Hill of Grace' with the respondents' 'Hill of Gold' and concluded that there was no infringement. The judgement applied the common law test for deceptive similarity by considering the impression an ordinary person with ordinary recollection would derive from the marks. The case turned on the finding of a distinct character of the metaphorical connotations of the marks. Notably, the case established that evidence as to reputation of the initial mark was not relevant to proving infringement by deceptive similarity where the initial mark is not notoriously so ubiquitous that consumers must be familiar with it. [^AUTOREPLACEDDistinguishingWoolworthsvRegisterofTradeMarks1999FCAFC1020andCocaColaCovAllFectDistributorsLtd199996FCR107ENDREPLACE]
 
 [^AUTOREPLACEDDistinguishingWoolworthsvRegisterofTradeMarks1999FCAFC1020andCocaColaCovAllFectDistributorsLtd199996FCR107ENDREPLACE]: Distinguishing *Woolworths v Register of Trade Marks* [1999] FCAFC 1020 and *Coca Cola Co v All-Fect Distributors Ltd* (1999) 96 FCR 107
 
 
 
-**Video overview by Julia Bolam on [CA Henschke & Co v Rosemount Estates Pty Ltd](https:_www.youtube.com/watch?v=F1KZjgXjozY)**
+**Video overview by Julia Bolam on [CA Henschke & Co v Rosemount Estates Pty Ltd](https://www.youtube.com/watch?v=F1KZjgXjozY)**
 
 
-**Video overview by Scott Thompson on [Scandalous Marks](https:_www.youtube.com/watch?v=TBVNsQhdZeg)**
+**Video overview by Scott Thompson on [Scandalous Marks](https://www.youtube.com/watch?v=TBVNsQhdZeg)**
 
 
 
@@ -503,15 +503,15 @@ A trade mark can be opposed by an interested third party within two months of th
 
 
 
-**Video overview by Lucy Jorgensen on [Opposing a Trade Mark Application](https:_www.youtube.com/watch?v=pIoK2kPldBE)**
+**Video overview by Lucy Jorgensen on [Opposing a Trade Mark Application](https://www.youtube.com/watch?v=pIoK2kPldBE)**
 
 
 
-**Video overview by Louis Jennings on [Opposition on Grounds of a False Geographical Indication](https:_www.youtube.com/watch?v=UGSDPbr3Ju8**
+**Video overview by Louis Jennings on [Opposition on Grounds of a False Geographical Indication](https://www.youtube.com/watch?v=UGSDPbr3Ju8**
 
 
 
-**Video overview by Reily B on [Opposition on Grounds that Applicant Has no Intention to Use](https:_www.youtube.com/watch?v=k0tdCHq9ZcQ)**
+**Video overview by Reily B on [Opposition on Grounds that Applicant Has no Intention to Use](https://www.youtube.com/watch?v=k0tdCHq9ZcQ)**
 
 
-**Video overview by tcava3 on [Opposition on Grounds that Applicant Has no Intention to Use](https:_www.youtube.com/watch?v=a4FP1A47MKs)**
+**Video overview by tcava3 on [Opposition on Grounds that Applicant Has no Intention to Use](https://www.youtube.com/watch?v=a4FP1A47MKs)**

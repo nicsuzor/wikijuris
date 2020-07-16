@@ -4,7 +4,7 @@ title: Copyright Safe Harbours
 parent: Governing the Internet
 nav_order: 70
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_safe_harbours.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_safe_harbours.markdown){: .btn .btn-outline }
 
 
 # Copyright Safe Harbours
@@ -19,13 +19,13 @@ This Chapter provides a brief history of the development of safe harbour protect
 
 ## A Legislative Bargain
 
-**Video Overview by [Nic Suzor](https:_www.youtube.com/watch?v=VkP4EOQL2j4)**
+**Video Overview by [Nic Suzor](https://www.youtube.com/watch?v=VkP4EOQL2j4)**
 
 In the late 1990s, internet service providers and other intermediaries expressed concern about potential secondary liability for copyright infringement. At the same time, copyright owners were lobbying for increased protection in the online context. The result, in 1998, was the compromise position established by the Digital Millenium Copyright Act 1998 (US) (DMCA). The DMCA was widely supported by the copyright industries; it amended some provisions to ensure application in the online environment, strengthened penalties for infringement, and introduced new rights to prevent tampering with technological locks on content. It included some trade-offs: copyright owners received additional rights, but service providers (certain intermediaries) were immunised from liability under the so-called 'safe harbours'.
 
 Essentially, the copyright safe harbours provide that online service providers (Internet Service Providers AND content hosts) are not liable for monetary damages for the infringing acts of their users, as long as they meet certain conditions. The relevant provisions are in 17 USC § 512[^AUTOREPLACEDhttpwwwlawcornelleduuscode17512htmlAUTOREPLACED]
 
-[^AUTOREPLACEDhttpwwwlawcornelleduuscode17512htmlAUTOREPLACED]: http:_www.law.cornell.edu/uscode/17/512.html
+[^AUTOREPLACEDhttpwwwlawcornelleduuscode17512htmlAUTOREPLACED]: http://www.law.cornell.edu/uscode/17/512.html
 
 . Intermediaries might still be liable, but the only remedy available is limited injunctive relief. In exchange, they undertake obligations to respond to notice & takedown requests. It is important to note that these obligations are optional. A service provider only needs to meet the conditions in the safe harbours if it wishes to be able to rely on them.
 
@@ -35,7 +35,7 @@ Australia was obliged to implement DMCA-style legislation (known as TRIPS+) as a
 
 ### Only ISPs Can Rely on the Safe Harbours
 
-The Australian Safe Harbours, unlike those in the US DMCA, only apply to 'Carriage Service Providers' (CSP). This is defined in [Telecommunications Act 1997 (Cth) s 87](http:_www.austlii.edu.au/au/legis/cth/consol_act/ta1997214/s87.html). Essentially, a CSP is an ISP. What this means, crucially, is that the Australian safe harbours do not apply to content hosts. There are four safe harbours that apply to different types of activity:
+The Australian Safe Harbours, unlike those in the US DMCA, only apply to 'Carriage Service Providers' (CSP). This is defined in [Telecommunications Act 1997 (Cth) s 87](http://www.austlii.edu.au/au/legis/cth/consol_act/ta1997214/s87.html). Essentially, a CSP is an ISP. What this means, crucially, is that the Australian safe harbours do not apply to content hosts. There are four safe harbours that apply to different types of activity:
 
 **Category A Activity: Transmission (s 116AC)**
 
@@ -87,7 +87,7 @@ S 116AG then goes on to list the relief that a successful copyright owner is ent
 
 ## Conditions for Safe Harbour Protection
 
-As explained in this **video overview by [Nic Suzor](https:_www.youtube.com/watch?v=HsNBRbywcto)**, each safe harbour requires the CSP to follow certain conditions in s 116AH(1).
+As explained in this **video overview by [Nic Suzor](https://www.youtube.com/watch?v=HsNBRbywcto)**, each safe harbour requires the CSP to follow certain conditions in s 116AH(1).
 
 ### 'Repeat Infringer' Policy
 
@@ -140,7 +140,7 @@ Copyright Regulations 1969 (Cth) prescribe more detail for the notice & takedown
 
 ### Example of the Category A Safe Harbour: Roadshow v iiNet
 
-**Sophie Murdock explains [Roadshow v iiNet](https:_www.youtube.com/watch?v=h4iBhgAUV8Q)**
+**Sophie Murdock explains [Roadshow v iiNet](https://www.youtube.com/watch?v=h4iBhgAUV8Q)**
 
 The FCAFC held that iiNet could not rely on the safe harbours, had it been liable for authorising copyright infringement. The Court unanimously held that iiNet could not rely on the safe harbour provisions. The three judges each gave separate reasons, however there were common threads throughout their arguments. Each judge focussed on item 1 condition 1 of s 116AH(1) of the Copyright Act, and while they acknowledged that iiNet was in Category A, they did not discuss the requirements for safe harbour in Category A.
 
@@ -172,7 +172,7 @@ Aimster locked itself out of any knowledge by encrypting the network. 7th Circui
 
 ### Ellison v Robertson, 357 F.3d 1072 (9th Cir. 2004)
 
-**Video Overview of Ellison v Robertson by [Chris Pham](https:_www.youtube.com/watch?v=z3YgPFQudVk)**
+**Video Overview of Ellison v Robertson by [Chris Pham](https://www.youtube.com/watch?v=z3YgPFQudVk)**
 
 AOL had a repeat infringer policy, but had changed its designated email address for complaints. AOL never received Ellison's complaints, and never bounced back the wrongly addressed email messages. There was therefore a triable question of fact as to whether AOL had 'reasonably implemented' its repeat infringer policy.
 
@@ -190,7 +190,7 @@ US caselaw has developed a 'red flag' doctrine – an OSP may lose the protectio
 
 ### Viacom v YouTube (2nd Cir.) (Decided April 5, 2012)
 
-**Overview video by Emily Guiver: [Viacom v YouTube](https:_youtu.be/SC75opYLwZI)**
+**Overview video by Emily Guiver: [Viacom v YouTube](https://youtu.be/SC75opYLwZI)**
 
 Viacom International, Inc. v. YouTube, Inc was a controversial U.S case where Viacom sued YouTube for $1bil U.S dollars for copyright infringement.
 
@@ -226,7 +226,7 @@ An appeal was begun, but the week before the parties were to appear in the 2nd U
 
 ## Broadcasting Services Act Sch 5, Cl 91
 
-**Video Overview by Nic Suzor: [Other Australian Safe Harbours](https:_www.youtube.com/watch?v=p6iNf63Xs0Y)**
+**Video Overview by Nic Suzor: [Other Australian Safe Harbours](https://www.youtube.com/watch?v=p6iNf63Xs0Y)**
 
 Schedule 5, Clause 91(1) of the _Broadcasting Services Act 1992_ provides that a law of a State or Territory, or a rule of common law or equity, has no effect to the extent to which it:
   * (a)  subjects, or would have the effect (whether direct or indirect) of subjecting, an internet content host to liability (whether criminal or civil) in respect of hosting particular internet content in a case where the host was not aware of the nature of the internet content; or
@@ -244,7 +244,7 @@ While the wording of the section may appear to provide an important defence to I
 
 ## The Future of Notice and Takedown
 
-**Video Overview by Nic Suzor: [The Future of Notice and Takedown](https:_www.youtube.com/watch?v=tNepvFX2J6w)**
+**Video Overview by Nic Suzor: [The Future of Notice and Takedown](https://www.youtube.com/watch?v=tNepvFX2J6w)**
 
 
 Help needed!

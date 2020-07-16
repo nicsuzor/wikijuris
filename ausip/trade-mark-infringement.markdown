@@ -5,7 +5,7 @@ nav_order: 53
 parent: Trade Mark
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-infringement.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-infringement.markdown){: .btn .btn-outline }
 
 
 # Trade Mark Infringement & Defences
@@ -20,7 +20,7 @@ Not all uses of registered trade marks will be infringements. Uses which merely 
 [^AUTOREPLACEDShellCoAustLtdvEssoStandardOilAustLtd1963HCA66ENDREPLACE]: _Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd_ [1963] HCA 66
 
 
-**The below video by Nicolas Suzor provides an overview of [The Trademark Infringement Framework](https:_www.youtube.com/watch?v=figyb5V4Q2o&list=PLa0bKPnUKQrxD942qJoDGW_7qbB6O6a7B&index=1).**
+**The below video by Nicolas Suzor provides an overview of [The Trademark Infringement Framework](https://www.youtube.com/watch?v=figyb5V4Q2o&list=PLa0bKPnUKQrxD942qJoDGW_7qbB6O6a7B&index=1).**
 
 
 
@@ -64,12 +64,12 @@ In relation to well-known trade marks, take into account the extent to which the
 [^AUTOREPLACEDTMAs1204ENDREPLACE]: _TMA_ s 120(4)
 
 
-**Video overview by Ria on [The Different Forms of Infringement in s 120](https:_www.youtube.com/watch?v=lc1ZpqIBMRs)**
+**Video overview by Ria on [The Different Forms of Infringement in s 120](https://www.youtube.com/watch?v=lc1ZpqIBMRs)**
 
 
 
 
-**Video overview by Rohan Davies on [The Different Forms of Infringement under s 120](https:_www.youtube.com/watch?v=lZuPa7udlMo)**
+**Video overview by Rohan Davies on [The Different Forms of Infringement under s 120](https://www.youtube.com/watch?v=lZuPa7udlMo)**
 
 
 ### Same Goods/Services
@@ -78,7 +78,7 @@ Infringement may occur when an alleged infringing mark is used in the same class
 [^AUTOREPLACEDTMAs1201ENDREPLACE]: _TMA_ s120(1)
 
 
-For more information read Amanda Scardamaglia's *The Coca-Cola Company v Pepsico Inc & Ors* VID 876/2010[‘Storm in a Contour Bottle? – The Coca-Cola Company v Pepsico Inc & Ors VID 876/2010’, Fortnightly Review of IP & Media Law, Edition 18 (11 November 2010)](https:_researchbank.swinburne.edu.au/file/c341d5be-acec-4403-bd61-60add0b15243/1/PDF%20%28Published%20version%29.pdf) Licensed for reuse under a Creative Commons Attribution-NonCommercial 2.5 Licence).
+For more information read Amanda Scardamaglia's *The Coca-Cola Company v Pepsico Inc & Ors* VID 876/2010[‘Storm in a Contour Bottle? – The Coca-Cola Company v Pepsico Inc & Ors VID 876/2010’, Fortnightly Review of IP & Media Law, Edition 18 (11 November 2010)](https://researchbank.swinburne.edu.au/file/c341d5be-acec-4403-bd61-60add0b15243/1/PDF%20%28Published%20version%29.pdf) Licensed for reuse under a Creative Commons Attribution-NonCommercial 2.5 Licence).
 
 ### Same Description/Closely Related Goods or Services
 
@@ -94,7 +94,7 @@ The principles of goods and services being of the same description or closely re
 [^AUTOREPLACED2009FCAFC27ENDREPLACE]: [2009] FCAFC 27
 
 
-In *[E & J Gallo Winery v Lion Nathan Australia Pty Limited](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2009/27.html)* [^AUTOREPLACED2009FCAFC27ENDREPLACE]
+In *[E & J Gallo Winery v Lion Nathan Australia Pty Limited](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2009/27.html)* [^AUTOREPLACED2009FCAFC27ENDREPLACE]
 [^AUTOREPLACED2009FCAFC27ENDREPLACE]: [2009] FCAFC 27
   Gallo Winery was the registered owner of the trade mark 'Barefoot' in relation to wines in Australia.  Lion Nathan (Australia) started selling a specialty beer under the trade mark 'Barefoot Radler' from January 2008. Infringement was established as beer and wine were held to be goods of the same description.
 
@@ -102,7 +102,7 @@ In *[E & J Gallo Winery v Lion Nathan Australia Pty Limited](http:_www.austlii.e
 [^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645
 
 
-In *[Musidor BV v Tansing (t/as Apple Music House)](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1993/645.html), [^AUTOREPLACED1993FCA645ENDREPLACE]
+In *[Musidor BV v Tansing (t/as Apple Music House)](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1993/645.html), [^AUTOREPLACED1993FCA645ENDREPLACE]
 [^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645
 * concerned Musidor selling Rolling Stones bootlegs. Musidor made it plain in its advertising and get-up that the source of the origin of the goods was not authorised. Held, the disclaimer was effective to show that the goods were not related. It was held that no infringement occurred.
 
@@ -110,7 +110,7 @@ In *[Musidor BV v Tansing (t/as Apple Music House)](http:_www.austlii.edu.au/cgi
 [^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
 
 
-In *[Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1996/1484.html)*, [^AUTOREPLACED1996FCA1484ENDREPLACE]
+In *[Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1996/1484.html)*, [^AUTOREPLACED1996FCA1484ENDREPLACE]
 [^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
  'Duff' beer which disclaimed any association with The Simpsons was still held to amount to infringement. The disclaimer was too simplistic in approach. The beer was an express reference to The Simpsons and therefore the disclaimer was not effective.
 
@@ -130,7 +130,7 @@ Examples of well-known trade marks:
 [^AUTOREPLACED2000FCA1538ENDREPLACE]: [2000] FCA 1538
 
 
-In *[Nintendo Co Ltd v Care](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1538.html)* – the Nintendo trademark in 'Super Mario' allowed the company to prevent a person from dressing up as Mario when wrestling. [^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]
+In *[Nintendo Co Ltd v Care](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1538.html)* – the Nintendo trademark in 'Super Mario' allowed the company to prevent a person from dressing up as Mario when wrestling. [^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]
 [^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]: *Nintendo Co Ltd v Care* [2000] FCA 1538
 
 
@@ -138,7 +138,7 @@ In *[Nintendo Co Ltd v Care](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/c
 [^AUTOREPLACED2001FCA1502ENDREPLACE]: [2001] FCA 1502
 
 
-In *[Virgin Enterprises Limited v Klapsas](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2001/1502.html)* – Virgin obtained judgement against people trying to sell Virgin limousines or Virgin rentals. The court stressed the large investments made by Virgin in marketing and promoting the brand globally was such that if the defendant ran a Virgin ad, it was likely customers would be confused. [^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]
+In *[Virgin Enterprises Limited v Klapsas](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2001/1502.html)* – Virgin obtained judgement against people trying to sell Virgin limousines or Virgin rentals. The court stressed the large investments made by Virgin in marketing and promoting the brand globally was such that if the defendant ran a Virgin ad, it was likely customers would be confused. [^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]
 [^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]: *Virgin Enterprises Limited v Klapsas* [2001] FCA 1502
 
 
@@ -146,7 +146,7 @@ In *[Virgin Enterprises Limited v Klapsas](http:_www.austlii.edu.au/cgi-bin/view
 [^AUTOREPLACED2000FCA1842ENDREPLACE]: [2000] FCA 1842
 
 
-In *[San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1842.html)* - there was a serious question to be tried as to whether the use of SAN REMO on coffee machines infringed the (potentially) well-known trade mark for 'San Remo' pasta. Note this decision was made with some reluctance. [^AUTOREPLACEDSanRemoMacaroniCompanyPtyLtdvSanRemoGourmetCoffeePtyLtd2000FCA1842ENDREPLACE]
+In *[San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1842.html)* - there was a serious question to be tried as to whether the use of SAN REMO on coffee machines infringed the (potentially) well-known trade mark for 'San Remo' pasta. Note this decision was made with some reluctance. [^AUTOREPLACEDSanRemoMacaroniCompanyPtyLtdvSanRemoGourmetCoffeePtyLtd2000FCA1842ENDREPLACE]
 [^AUTOREPLACEDSanRemoMacaroniCompanyPtyLtdvSanRemoGourmetCoffeePtyLtd2000FCA1842ENDREPLACE]: *San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd* [2000] FCA 1842
 
 
@@ -157,7 +157,7 @@ Whether goods are unrelated or not closely related is a question of degree. The 
 [^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
 
 
-In *[Coca-Cola Co v All-Fect Distributors Ltd](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/1721.html)*, [^AUTOREPLACED1999FCA1721ENDREPLACE] the court held that cola lollies would not give rise to consumers questioning whether there was a connection between Coca-Cola and the lollies.  
+In *[Coca-Cola Co v All-Fect Distributors Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/1721.html)*, [^AUTOREPLACED1999FCA1721ENDREPLACE] the court held that cola lollies would not give rise to consumers questioning whether there was a connection between Coca-Cola and the lollies.  
 [^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
 
 
@@ -204,12 +204,12 @@ Kitto J in *Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd* held:[^AUTOREPLA
 [^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
 
 
-In *[Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1991/310.html)*, [^AUTOREPLACED1991FCA310ENDREPLACE] it was held that Johnson & Johnson had only used 'caplets' in a descriptive sense as to shape and dosage and not as indicative of origin or identity.
+In *[Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1991/310.html)*, [^AUTOREPLACED1991FCA310ENDREPLACE] it was held that Johnson & Johnson had only used 'caplets' in a descriptive sense as to shape and dosage and not as indicative of origin or identity.
 [^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
 
 
 
-**Video overview by Annabel Burton on [Use as a Trade Mark and Johnson & Johnson](https:_www.youtube.com/watch?v=fO5T1o9Yl9E)**
+**Video overview by Annabel Burton on [Use as a Trade Mark and Johnson & Johnson](https://www.youtube.com/watch?v=fO5T1o9Yl9E)**
 
 [^AUTOREPLACED199634IPR282ENDREPLACE]
 [^AUTOREPLACED199634IPR282ENDREPLACE]:  (1996) 34 IPR 282
@@ -223,7 +223,7 @@ In *Top Heavy v Killin*, [^AUTOREPLACED199634IPR282ENDREPLACE] the words 'Chill 
 [^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
 
 
-In *[Mark Foy’s Ltd v Davies Co-op Co Ltd](http:_www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1956/41.html)*, [^AUTOREPLACED1956HCA41ENDREPLACE] Williams J held that the trade mark 'Tub Happy' was capable of registration. He said:
+In *[Mark Foy’s Ltd v Davies Co-op Co Ltd](http://www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1956/41.html)*, [^AUTOREPLACED1956HCA41ENDREPLACE] Williams J held that the trade mark 'Tub Happy' was capable of registration. He said:
 [^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
 
 
@@ -245,12 +245,12 @@ Substantially identical requires a side by side comparison, having regard to the
 [^AUTOREPLACED2009FCA606ENDREPLACE]: [2009] FCA 606
 
 
-In *[Mars Australia Pty Ltd v Sweet Rewards Pty Ltd](http:_www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2009/606.html)*, [^AUTOREPLACED2009FCA606ENDREPLACE] the registered trade marks, label and words 'Malt Balls' were sufficiently different from 'Malteasers', and purely descriptive.
+In *[Mars Australia Pty Ltd v Sweet Rewards Pty Ltd](http://www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2009/606.html)*, [^AUTOREPLACED2009FCA606ENDREPLACE] the registered trade marks, label and words 'Malt Balls' were sufficiently different from 'Malteasers', and purely descriptive.
 [^AUTOREPLACED2009FCA606ENDREPLACE]: [2009] FCA 606
 
 
 
-**Video overview by Sarah Griffin-Breen on [Deceptive Similarity](https:_www.youtube.com/watch?v=OVYsCnRN1RM)**
+**Video overview by Sarah Griffin-Breen on [Deceptive Similarity](https://www.youtube.com/watch?v=OVYsCnRN1RM)**
 
 
 
@@ -304,16 +304,16 @@ Defences to trade mark infringement are found in s 122 of the _TMA_. The table b
 | s 122(1)(g) | The trade mark will not be infringed if its use falls within a limitation or condition imposed on the registration of the mark. |
 
 
-** Video overview by Craig Sherritt on [The Comparative Advertising Defence](https:_www.youtube.com/watch?v=mKiifGrx1V8)**
+** Video overview by Craig Sherritt on [The Comparative Advertising Defence](https://www.youtube.com/watch?v=mKiifGrx1V8)**
 
 
 
 
-**Video overview by Natalie Cruickshanks on [Trade Mark Spare Parts Defence](http:_voice.adobe.com/v/NHDUraYrgxQ)**
+**Video overview by Natalie Cruickshanks on [Trade Mark Spare Parts Defence](http://voice.adobe.com/v/NHDUraYrgxQ)**
 
 
 
-**Video overview by Andrew Avenell on [The s 122(1)(c) Spare Parts and Accessories Defence](https:_www.youtube.com/watch?v=wPJNLX_5fNc)**
+**Video overview by Andrew Avenell on [The s 122(1)(c) Spare Parts and Accessories Defence](https://www.youtube.com/watch?v=wPJNLX_5fNc)**
 
 
 
@@ -324,10 +324,10 @@ In the above sections, 'good faith' means an absence of ulterior motive. [^AUTOR
    Use of the trade mark cannot be calculated to divert business from the registered trade mark owner or to confuse customers as to the origin of goods.
 
 
-**Video overview by Abigail Hill on [The Good Faith Defence in s 122 (1)(b)](https:_www.youtube.com/watch?v=vqDWy9e7XAs)**
+**Video overview by Abigail Hill on [The Good Faith Defence in s 122 (1)(b)](https://www.youtube.com/watch?v=vqDWy9e7XAs)**
 
 
-**Video overview by Shelby McGreachan on [The Good Faith Use of Own Name](https:_www.youtube.com/watch?v=xqxoZgsN2Cw)**
+**Video overview by Shelby McGreachan on [The Good Faith Use of Own Name](https://www.youtube.com/watch?v=xqxoZgsN2Cw)**
 
 
 
@@ -347,7 +347,7 @@ A similar provision applies to services. A person who uses a registered trade ma
 
 Note that prior to amendments as a result of the Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018, the consent provision for goods was s123. The 2018 amendments inserted s122A and amended s123. The effect of the defence is largely the same prior to and after 2018.
 
-**Video overview by Alex Trezise on [former Section 123 of the Trade Marks Act](https:_www.youtube.com/watch?v=UyGxR4a9z3I)**
+**Video overview by Alex Trezise on [former Section 123 of the Trade Marks Act](https://www.youtube.com/watch?v=UyGxR4a9z3I)**
 
 
 
@@ -376,7 +376,7 @@ Under _TMA_ s 88(2), an aggrieved person or the Registrar can apply to the Court
 Under s 88(1), if one of these grounds is satisfied, the court can cancel the registration of the trade mark, remove or amend the entry wrongly main or remaining on the Register, or enter any condition or limitation affecting the registration of the trade mark that ought to be entered.
 
 
-**Video overview by Nicolas Suzor on [Grounds for Rejection, Opposition or Rectification](https:_www.youtube.com/watch?v=au3mOq9Abrg&list=PLa0bKPnUKQrzadmRvIQclmAWk9Wmg1a0P&index=6)**
+**Video overview by Nicolas Suzor on [Grounds for Rejection, Opposition or Rectification](https://www.youtube.com/watch?v=au3mOq9Abrg&list=PLa0bKPnUKQrzadmRvIQclmAWk9Wmg1a0P&index=6)**
 
 
 
@@ -385,13 +385,13 @@ In spite of s 120, if a disclaimer has been registered in respect of a part of a
 
 
 
-**Video overview by Corrine Leach on [Section 88 of the Trade Marks Act](https:_www.youtube.com/watch?v=PLKbSmhihUs)**
+**Video overview by Corrine Leach on [Section 88 of the Trade Marks Act](https://www.youtube.com/watch?v=PLKbSmhihUs)**
 
 
 
 
 
-**Video overview by Jessica Hine on [Section 88 of the Trade Marks Act](https:_www.youtube.com/watch?v=7S5xyWwKB5M)**
+**Video overview by Jessica Hine on [Section 88 of the Trade Marks Act](https://www.youtube.com/watch?v=7S5xyWwKB5M)**
 
 
 
@@ -440,16 +440,16 @@ Further, the following claims can also be made in _TMA_ s 120(2) infringement ca
   * The defendant's use of the mark is not n relation to goods or services of the same description or goods or services that are closely related to the goods or services for which the mark is registered with respect to.
 
 
-**Velcro's advertisement explains [The Dangers of Genericide for an Established Brand](https:_www.youtube.com/watch?v=rRi8LptvFZY)**
+**Velcro's advertisement explains [The Dangers of Genericide for an Established Brand](https://www.youtube.com/watch?v=rRi8LptvFZY)**
 
 
 
 
-**Video overview by Stephanie Derrington on [Genericide](https:_www.youtube.com/watch?v=Z92wy-deVG0)**
+**Video overview by Stephanie Derrington on [Genericide](https://www.youtube.com/watch?v=Z92wy-deVG0)**
 
 
 
-**Video overview by Ayaka Nakashima Edwards on [Genericide](https:_www.youtube.com/watch?v=Z6Xm3tNJ7xc)**
+**Video overview by Ayaka Nakashima Edwards on [Genericide](https://www.youtube.com/watch?v=Z6Xm3tNJ7xc)**
 
 
 Note that the Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018 amended sections 129 and 130 of the Act, relating to applications for relief from unjustified threats of infringement, and counterclaims for infringement. It also inserted s130A, which provides that mere notification of a registered trade mark is not a threat.

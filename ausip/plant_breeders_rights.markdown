@@ -4,7 +4,7 @@ title: Plant Breeders' Rights
 nav_order: 71
 parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/plant_breeders_rights.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/plant_breeders_rights.markdown){: .btn .btn-outline }
 
 
 # Plant Breeders Rights
@@ -22,13 +22,13 @@ Plant breeder’s rights (PBR), sometimes known as plant variety rights (PVR), a
 , based on the _International Convention for the Protection of New Varieties of Plants_ (_UPOV Convention_).
 
 Adopted in 1961, the UPOV Convention has been revised three times: in 1972, 1978 and 1991 [^AUTOREPLACEDhttpswwwupovintupovlexenupov_conventionhtmlENDREPLACE]
-[^AUTOREPLACEDhttpswwwupovintupovlexenupov_conventionhtmlENDREPLACE]: https:_www.upov.int/upovlex/en/upov_convention.html
-. As of January 2019, there are 75 UPOV Members.For details on UPOV members see the [[UPOV Website]](https:_www.upov.int/members/en/).
+[^AUTOREPLACEDhttpswwwupovintupovlexenupov_conventionhtmlENDREPLACE]: https://www.upov.int/upovlex/en/upov_convention.html
+. As of January 2019, there are 75 UPOV Members.For details on UPOV members see the [[UPOV Website]](https://www.upov.int/members/en/).
 
 As the only international treaty concerned with intellectual property protection of new plant varieties, the UPOV Convention plays a key social, political and economic role in the development of new plant varieties. New plant varieties are important to overcome a raft of issues including food security, climate change and environmental degradation.
 
 The purpose of UPOV is ‘to provide and promote an effective system of plant variety protection, with the aim of encouraging the development of new varieties of plants, for the benefit of society’. [^AUTOREPLACEDhttpswwwupovintaboutenENDREPLACE]
-[^AUTOREPLACEDhttpswwwupovintaboutenENDREPLACE]: https:_www.upov.int/about/en/
+[^AUTOREPLACEDhttpswwwupovintaboutenENDREPLACE]: https://www.upov.int/about/en/
 
 
 Article 27(3)(b) of the TRIPs Agreement
@@ -74,7 +74,7 @@ UPOV 1991 strengthened PBR protection, removing the breeder’s exemption from e
 The main argument for PBR is that it encourages the development of new plant varieties. More specifically, by providing sui generis protection – that includes specific exceptions such as the breeder’s exemption – it is argued that PBR increases the yield of important crops, increases income for farmers and supports rural development.
 
 UPOV has a range of videos espousing the benefits of PBR [^AUTOREPLACEDhttpswwwupovintaboutenbenefits_upov_systemhtmlENDREPLACE]
-[^AUTOREPLACEDhttpswwwupovintaboutenbenefits_upov_systemhtmlENDREPLACE]: https:_www.upov.int/about/en/benefits_upov_system.html
+[^AUTOREPLACEDhttpswwwupovintaboutenbenefits_upov_systemhtmlENDREPLACE]: https://www.upov.int/about/en/benefits_upov_system.html
 .
 
 ## Criteria for Protection
@@ -182,7 +182,7 @@ Under Australian PBR legislation and regulations, the application process involv
   * Growing Trials; and
   * Final Application.
 
-See IP Australia for more details - [https:_www.ipaustralia.gov.au/plant-breeders-rights/applying-pbr]  
+See IP Australia for more details - [https://www.ipaustralia.gov.au/plant-breeders-rights/applying-pbr]  
 
 ### Requirements of Registration
 

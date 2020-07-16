@@ -5,7 +5,7 @@ nav_order: 21
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightsubsp3.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightsubsp3.markdown){: .btn .btn-outline }
 
 
 
@@ -44,12 +44,12 @@ An idea becomes a work when it is "first reduced to writing or to some other mat
 
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
-[^AUTOREPLACEDSeeStarMicronicsPtyLtdvFiveStarComputersPtyLtdhttpclassicaustliieduauaucasescthFCA1990387html199018IPR225ENDREPLACE]: See _[Star Micronics Pty Ltd v Five Star Computers Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/1990/387.html)_ (1990) 18 IPR 225
+[^AUTOREPLACEDSeeStarMicronicsPtyLtdvFiveStarComputersPtyLtdhttpclassicaustliieduauaucasescthFCA1990387html199018IPR225ENDREPLACE]: See _[Star Micronics Pty Ltd v Five Star Computers Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1990/387.html)_ (1990) 18 IPR 225
 
 
 
 
-**Video overview by Kylie Pappalardo on [Material Form](https:_www.youtube.com/watch?v=18ZotN4fp_E&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=5).**
+**Video overview by Kylie Pappalardo on [Material Form](https://www.youtube.com/watch?v=18ZotN4fp_E&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=5).**
 
 
 
@@ -60,7 +60,7 @@ Copyright protects **expression** fixed in material form. It does not protect id
 
 
 
-**Video overview by Kylie Pappalardo on [the Idea / Expression Dichotomy](https:_www.youtube.com/watch?v=DRjx7kWXAoA&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=4).**
+**Video overview by Kylie Pappalardo on [the Idea / Expression Dichotomy](https://www.youtube.com/watch?v=DRjx7kWXAoA&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=4).**
 
 
 * The idea expression dichotomy was considered in the leading case of _Skybase Nominees Pty Ltd v Fortuity Pty Ltd_. [^AUTOREPLACED199636IPR529ENDREPLACE]
@@ -84,7 +84,7 @@ Copyright protects **expression** fixed in material form. It does not protect id
 
 To fall within Part III of the _Copyright Act_, the expression must be a literary, dramatic, musical or artistic work.
 
-**Video overview by Kylie Pappalardo on [Part III works](https:_www.youtube.com/watch?v=jZ0VwNj9Kco&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=1).**
+**Video overview by Kylie Pappalardo on [Part III works](https://www.youtube.com/watch?v=jZ0VwNj9Kco&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=1).**
 
 Each of these types of works will be considered below.
 
@@ -137,7 +137,7 @@ Examples of literary works include:
 
 Copyright does not normally subsist in titles and names. Generally, titles and single words are better protected through trade mark law and passing off than copyright.
 
-**Video overview by Kylie Pappalardo on [Copyright in Headlines, Titles and Names.](https:_www.youtube.com/watch?v=rwKiQzl1Hw4&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=6)**
+**Video overview by Kylie Pappalardo on [Copyright in Headlines, Titles and Names.](https://www.youtube.com/watch?v=rwKiQzl1Hw4&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=6)**
 
 The cases of _WH Allen & Co. v Brown Watson Ltd_ and _McWilliam’s Wines Pty Ltd v McDonald’s System of Australia Pty Ltd_ considered passing off and copyright law.
 
@@ -156,7 +156,7 @@ There was already a reputation in the book written by Frank Harris entitled, "My
 [^AUTOREPLACED1980FCA159ENDREPLACE]: [1980] FCA 159
 
 
-In the case of [McWilliam’s Wines Pty Ltd v McDonald’s System of Australia Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/1980/159.html) a wine company brought out a wine called "Big Mac". McDonalds claimed that this was a breach of s 52 of the _Trade Practices Act_ (the law preceding the Australian Consumer Law). McDonald's argued that people would be misled into thinking that the wine had some connection with McDonalds. The court held that there was no breach. McWilliam’s conduct might confuse people but this was not the same as being misled under the _Trade Practices Act_.[^AUTOREPLACEDAccordingtoAustralianConsumerLawss1819ENDREPLACE]
+In the case of [McWilliam’s Wines Pty Ltd v McDonald’s System of Australia Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1980/159.html) a wine company brought out a wine called "Big Mac". McDonalds claimed that this was a breach of s 52 of the _Trade Practices Act_ (the law preceding the Australian Consumer Law). McDonald's argued that people would be misled into thinking that the wine had some connection with McDonalds. The court held that there was no breach. McWilliam’s conduct might confuse people but this was not the same as being misled under the _Trade Practices Act_.[^AUTOREPLACEDAccordingtoAustralianConsumerLawss1819ENDREPLACE]
 [^AUTOREPLACEDAccordingtoAustralianConsumerLawss1819ENDREPLACE]: According to Australian Consumer Law ss 18, 19
 
 </div>
@@ -186,7 +186,7 @@ Held, a name alone cannot possess copyright unless it is sufficiently original a
 [^AUTOREPLACED2010FCA984ENDREPLACE]: [2010] FCA 984
 
 
-In the case of [Fairfax Media v Reed International Books](http:_classic.austlii.edu.au/au/cases/cth/FCA/2010/984.html), Fairfax, (the publisher of the Australian Financial Review) alleged that Reed had infringed copyright by copying AFR headlines as part of its media monitoring service. The question was whether headlines were "original literary works".[^AUTOREPLACED2010189FCR109ENDREPLACE]
+In the case of [Fairfax Media v Reed International Books](http://classic.austlii.edu.au/au/cases/cth/FCA/2010/984.html), Fairfax, (the publisher of the Australian Financial Review) alleged that Reed had infringed copyright by copying AFR headlines as part of its media monitoring service. The question was whether headlines were "original literary works".[^AUTOREPLACED2010189FCR109ENDREPLACE]
 [^AUTOREPLACED2010189FCR109ENDREPLACE]:  (2010) 189 FCR 109
 
 
@@ -221,16 +221,16 @@ Databases are also protected as literary works. However, court cases have impose
 
 These additional requirements are imposed because often data compilations consist of pure facts or information compiled in a logical order. The law considers that pure facts and information (most data) should be free for the public to use, unless there is an extra layer of creativity that goes into their compilation and organisation.
 
-In the case of [Computer Edge Pty Ltd v Apple Computer Inc](http:_classic.austlii.edu.au/au/journals/ANZCompuLawJl/1984/13.html), it was held that programs in object code (as opposed to source code) were not literary works.
+In the case of [Computer Edge Pty Ltd v Apple Computer Inc](http://classic.austlii.edu.au/au/journals/ANZCompuLawJl/1984/13.html), it was held that programs in object code (as opposed to source code) were not literary works.
 
 This case was pre the 1984 amendments to the _Act_. These amendments provided that copyright subsists regardless of the code, language or notation used.
 
 
 ##### Autodesk v Dyason (No 2) [1993] HCA 6- Liability for reverse engineering computer programs
 
-**Video overview by Zoe Cannan on [Autodesk v Dyason (No 2)](https:_www.youtube.com/watch?v=MolI2YH3l84)**
+**Video overview by Zoe Cannan on [Autodesk v Dyason (No 2)](https://www.youtube.com/watch?v=MolI2YH3l84)**
 
-In the case of [Autodesk Inc v Dyason](http:_classic.austlii.edu.au/au/cases/cth/HCA/1993/6.html), the plaintiff owned copyright in a drafting program used by architects and engineers called "Autocad".  It was sold with an electronic device, the “Autolock”, to attach to the computer. The program would not run without the “Autolock”, preventing its use on more than one computer at any one time.  The defendant cracked the code and produced a device called “Autokey”, which performed the same function as the “Autolock”.
+In the case of [Autodesk Inc v Dyason](http://classic.austlii.edu.au/au/cases/cth/HCA/1993/6.html), the plaintiff owned copyright in a drafting program used by architects and engineers called "Autocad".  It was sold with an electronic device, the “Autolock”, to attach to the computer. The program would not run without the “Autolock”, preventing its use on more than one computer at any one time.  The defendant cracked the code and produced a device called “Autokey”, which performed the same function as the “Autolock”.
 
 It was held that the defendant had infringed copyright in the "Autocad" by reproducing a substantial part of the program in the device.
 </div>
@@ -240,7 +240,7 @@ It was held that the defendant had infringed copyright in the "Autocad" by repro
 [^AUTOREPLACED1999HCA49ENDREPLACE]: [1999] HCA 49
 
 
-In the Hight Court case of [Data Access Corp v Powerflex Services Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/HCA/1999/49.html) Data Access had copyright in a computer program "Dataflex", used by programmers to develop databases. Dr Bennett created a program compatible with “Dataflex”, which was sold by Powerflex Services in competition with “Dataflex”. He did not have access to the “Dataflex” source code, nor did he seek to decompile their program.
+In the Hight Court case of [Data Access Corp v Powerflex Services Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/1999/49.html) Data Access had copyright in a computer program "Dataflex", used by programmers to develop databases. Dr Bennett created a program compatible with “Dataflex”, which was sold by Powerflex Services in competition with “Dataflex”. He did not have access to the “Dataflex” source code, nor did he seek to decompile their program.
 
 It was held that there was no infringement of copyright except for the use of a compression table which merely reduced computer storage space. Observing a program and developing a similar program without copying the source code or decompiling the program will not infringe copyright.
 </div>
@@ -255,7 +255,7 @@ Copyright in a film is the subject of a separate copyright in Part IV.
 
 The essential character of a dramatic work is that it is intended to be represented or performed in some way, for example, by acting or dancing. A dramatic work must not only be intended to be performed, it must also be able to be performed. Disparate elements without sufficient unity do not amount to a dramatic work.
 
-**Video overview by Brandon Hoffler on [Dramatic Works](https:_www.youtube.com/watch?v=D9OxidyITdw)**
+**Video overview by Brandon Hoffler on [Dramatic Works](https://www.youtube.com/watch?v=D9OxidyITdw)**
 
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED1989RPC469ENDREPLACE]
@@ -275,7 +275,7 @@ It was held that the repetitive elements alone did not constitute a dramatic wor
 [^AUTOREPLACED199948IPR333ENDREPLACE]: [1999]48 IPR 333
 
 
-In the case of [Nine Network Australia Pty v ABC](http:_classic.austlii.edu.au/au/cases/cth/FCA/1999/1864.html), the Nine Network had paid $450,000 towards the Council of the City of Sydney’s fireworks display to welcome the new millennium.  The Nine Network tried to restrain the ABC from broadcasting in Australia anything featuring the fireworks, the procession of lanterns on Sydney Harbour and decorations on the Harbour Bridge.
+In the case of [Nine Network Australia Pty v ABC](http://classic.austlii.edu.au/au/cases/cth/FCA/1999/1864.html), the Nine Network had paid $450,000 towards the Council of the City of Sydney’s fireworks display to welcome the new millennium.  The Nine Network tried to restrain the ABC from broadcasting in Australia anything featuring the fireworks, the procession of lanterns on Sydney Harbour and decorations on the Harbour Bridge.
 
 The court found that Nine’s contention that the display and parade were dramatic works was not strong.
 
@@ -371,7 +371,7 @@ The two elements (artistic and craftsmanship) must be united in the same person.
 [^AUTOREPLACEDBurkeMargotBurkeLtdvSpicersDressDesigns1936Ch400ENDREPLACE]: _Burke & Margot Burke Ltd v Spicers Dress Designs_ [1936] Ch 400
 
 
-**Video overview by Joseph Auclair on[artistic craftsmanship and design protection](https:_www.youtube.com/watch?v=rwYoDjYoFE4)**
+**Video overview by Joseph Auclair on[artistic craftsmanship and design protection](https://www.youtube.com/watch?v=rwYoDjYoFE4)**
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED1963VR719ENDREPLACE]
 [^AUTOREPLACED1963VR719ENDREPLACE]: [1963] VR 719
@@ -425,7 +425,7 @@ __ [^AUTOREPLACED2007HCA17ENDREPLACE]
 [^AUTOREPLACED2007HCA17ENDREPLACE]: [2007] HCA 17
 
 
-The case of [Burge v Swarbrick](http:_classic.austlii.edu.au/au/cases/cth/HCA/2007/17.html) considered the copyright/design overlap.
+The case of [Burge v Swarbrick](http://classic.austlii.edu.au/au/cases/cth/HCA/2007/17.html) considered the copyright/design overlap.
 
 Here, the creator of a yacht design sued for copyright infringement. The creator would only be able to assert copyright if the hull or the 'plug' (a hand-crafted full scale model) used to create the yacht was a 'work of artistic craftsmanship'
 
@@ -440,14 +440,14 @@ The High Court overturned the ruling, holding that the plug was not a work of ar
 The designer in this case was motivated by engineering imperatives, and was not acting as an artist-craftsperson when he created the plug. The utilitarian requirements of aerodynamics and speed influenced and, at times, dictated the design choices.
 </div>
 
-**Video overview by Shonagh Hunter on [Burge v Swarbrick](https:_www.youtube.com/watch?v=Pj0oHFWNJKU).**
+**Video overview by Shonagh Hunter on [Burge v Swarbrick](https://www.youtube.com/watch?v=Pj0oHFWNJKU).**
 
 
 ## Originality
 
 In copyright, the term "originality" does not mean "novel" or new. Instead, "original" means to originate from the author, in the sense that it is the result of his or her skill, labour or judgment, and is not copied from another author. It is possible that two authors will independently produced a similar work both attracting copyright, and neither infringing copyright.
 
-**Video overview by Kylie Pappalardo on [Originality](https:_www.youtube.com/watch?v=52-IJvRzNq8&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=3).**
+**Video overview by Kylie Pappalardo on [Originality](https://www.youtube.com/watch?v=52-IJvRzNq8&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=3).**
 
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED19162Ch601ENDREPLACE]
@@ -455,7 +455,7 @@ __ [^AUTOREPLACED19162Ch601ENDREPLACE]
 
 
 
-**Video overview by Christine Apurel on [University of London Press v University Tutorial Press](https:_www.youtube.com/watch?v=FfQjfmFt-_8).**
+**Video overview by Christine Apurel on [University of London Press v University Tutorial Press](https://www.youtube.com/watch?v=FfQjfmFt-_8).**
 
 Examiners were hired to create exam scripts for the University of London. A condition of appointment for examiners was that copyright in the papers belonged to the University.  The University subsequently assigned copyright to the plaintiff publisher.  The defendant publisher then published exams with answers and comments.  The plaintiff publisher sued for infringement of copyright.
 
@@ -471,9 +471,9 @@ __ [^AUTOREPLACED2010FCA507ENDREPLACE]
 [^AUTOREPLACED2010FCA507ENDREPLACE]: [2010] FCA 507
 
 
-**Video overview by Emma Taylor on [Budget Eyewear Australia v Specsavers](https:_www.youtube.com/watch?v=n5rWzSkzUpc).**
+**Video overview by Emma Taylor on [Budget Eyewear Australia v Specsavers](https://www.youtube.com/watch?v=n5rWzSkzUpc).**
 
-In the case of [Budget Eyewear Australia v Specsavers](http:_classic.austlii.edu.au/au/cases/cth/FCA/2010/507.html) the court found that there was an arguable case that the manner in which a concept was expressed in an advertisement was original because "[i]t is necessary for the creator of the advertisement to choose words and expressions carefully and to put those words and phrases together in a particular considered way. Expressions such as ‘if your glasses are not all they are cracked up to be, don’t worry, we’ll come to the rescue’ may involve ordinary words, as does much literary language, but the fact that the words are commonplace does not mean that the way in which they are put together cannot have a degree of originality." ([17])
+In the case of [Budget Eyewear Australia v Specsavers](http://classic.austlii.edu.au/au/cases/cth/FCA/2010/507.html) the court found that there was an arguable case that the manner in which a concept was expressed in an advertisement was original because "[i]t is necessary for the creator of the advertisement to choose words and expressions carefully and to put those words and phrases together in a particular considered way. Expressions such as ‘if your glasses are not all they are cracked up to be, don’t worry, we’ll come to the rescue’ may involve ordinary words, as does much literary language, but the fact that the words are commonplace does not mean that the way in which they are put together cannot have a degree of originality." ([17])
 
 Legal terms and conditions are less likely to be original.
 
@@ -513,7 +513,7 @@ Feist was not followed in Australia.
 [^AUTOREPLACED2002FCAFC112ENDREPLACE]: [2002] FCAFC 112
 
 
-In the case of [Desktop Marketing Systems Pty Ltd v Telstra Corp Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCAFC/2002/112.html) Telstra published the Yellow Pages and the White Pages. Desktop Marketing produced and sold phone directories in CD-ROMs of varying levels of sophistication with White and Yellow pages listings, which could be searched in different ways whether by name, address, postcode, industry and the like. The data used to produce the CD-ROMS was taken from Telstra’s phone books and rekeyed by a team of workers in the Philippines. Desktop Marketing also used Telstra’s headings, though it did add its own software to do the searching.
+In the case of [Desktop Marketing Systems Pty Ltd v Telstra Corp Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2002/112.html) Telstra published the Yellow Pages and the White Pages. Desktop Marketing produced and sold phone directories in CD-ROMs of varying levels of sophistication with White and Yellow pages listings, which could be searched in different ways whether by name, address, postcode, industry and the like. The data used to produce the CD-ROMS was taken from Telstra’s phone books and rekeyed by a team of workers in the Philippines. Desktop Marketing also used Telstra’s headings, though it did add its own software to do the searching.
 
 
 Held, copyright subsisted in Telstra’s White Pages and Yellow Pages directories, and that copyright had been infringed.
@@ -542,7 +542,7 @@ __ [^AUTOREPLACED2009239CLR458ENDREPLACE]
 [^AUTOREPLACED2009239CLR458ENDREPLACE]:  (2009) 239 CLR 458
 
 
-In the case of [IceTV Pty Limited v Nine Network Australia Pty Limited](http:_classic.austlii.edu.au/au/cases/cth/HCA/2009/14.html) Channel 9 created a Weekly Schedule of television programmes to be broadcast each week. They alleged that each Weekly Schedule was a compilation, and therefore a literary work under the _Copyright Act_, and that IceTV had infringed copyright by taking part of the time and title information from the Aggregated Guides (guides produced by third party Aggregators, authorised by Nine and to whom Nine provides the Weekly Schedule) and including it in their own (electronic) guide, the "IceGuide".
+In the case of [IceTV Pty Limited v Nine Network Australia Pty Limited](http://classic.austlii.edu.au/au/cases/cth/HCA/2009/14.html) Channel 9 created a Weekly Schedule of television programmes to be broadcast each week. They alleged that each Weekly Schedule was a compilation, and therefore a literary work under the _Copyright Act_, and that IceTV had infringed copyright by taking part of the time and title information from the Aggregated Guides (guides produced by third party Aggregators, authorised by Nine and to whom Nine provides the Weekly Schedule) and including it in their own (electronic) guide, the "IceGuide".
 
 
 The Weekly Schedule consisted of a spreadsheet with the details of dates, titles, start and finish times of television programs ("time and title information"); additional details such as episode titles, episode numbers, currency information, program formats, classification, etc; and short synopses of the TV programs.
@@ -596,7 +596,7 @@ __ [^AUTOREPLACED2010FCAFC149ENDREPLACE]
 [^AUTOREPLACED2010FCAFC149ENDREPLACE]: [2010] FCAFC 149
 
 
-In the case of [Telstra v Phone Directories](http:_classic.austlii.edu.au/au/cases/cth/FCAFC/2010/149.html), the question again arose as to whether copyright subsists in Telstra's White Pages and Yellow Pages directories.
+In the case of [Telstra v Phone Directories](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2010/149.html), the question again arose as to whether copyright subsists in Telstra's White Pages and Yellow Pages directories.
 
 At first instance, Gordon J, consistent with IceTV, rejected the notion that skill, labour or expense alone can give rise to copyright protection. There must be something more, and that something more is the exercise of "independent intellectual effort" and /or “sufficient effort of a literary nature”.
 
@@ -646,7 +646,7 @@ Following IceTV, it is important to identify an author and the independent intel
 
 ## Connection with Australia
 
-**Video overview by Kylie Pappalardo on [Connection to Australia](https:_www.youtube.com/watch?v=FDXXvZdnCu8).**
+**Video overview by Kylie Pappalardo on [Connection to Australia](https://www.youtube.com/watch?v=FDXXvZdnCu8).**
 
 
 ### Unpublished Works
@@ -684,4 +684,4 @@ In practice, works first published internationally will be treated in the same w
 
 
 
-**Video overview by Samuel Roach on [Principles of reciprocity in the Berne Convention](https:_www.youtube.com/watch?v=rOoGsqCXCrs).**
+**Video overview by Samuel Roach on [Principles of reciprocity in the Berne Convention](https://www.youtube.com/watch?v=rOoGsqCXCrs).**

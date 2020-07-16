@@ -5,7 +5,7 @@ nav_order: 27
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightremedies.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightremedies.markdown){: .btn .btn-outline }
 
 
 
@@ -88,7 +88,7 @@ __Milpurrurru v Indofurn Pty Ltd__[^AUTOREPLACED1994FCA1544ENDREPLACE]
 [^AUTOREPLACED1994FCA1544ENDREPLACE]: [1994] FCA 1544
 
 
-The case of [Milpurrurru v Indofurn Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/1994/1544.html) involved the artwork of eight Aboriginal artists which had been reproduced without their permission on carpets manufactured overseas and imported into Australia by the defendants.
+The case of [Milpurrurru v Indofurn Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1994/1544.html) involved the artwork of eight Aboriginal artists which had been reproduced without their permission on carpets manufactured overseas and imported into Australia by the defendants.
 
 The Court held that copyright had been infringed. Further, the Court assessed additional dames in the sum of $70,000, having regards to the cultural harm and personal distress caused.
 
@@ -167,7 +167,7 @@ Conversion damages cannot be obtained from an innocent infringer. A copyright ow
 The last civil remedy available to copyright owners is an Anton Piller Order. An Anton Piller Order is an ex parte interlocutory order that requires the defendant to permit the plaintiff’s solicitors to enter their premises forthwith to inspect and remove defined articles and documents.
 
 In order for an Anton Piller Order to be granted, the plaintiff needs to show a strong prima facie case that there is a real risk that evidence will be destroyed if an order was not made. [^AUTOREPLACEDAntonPillerKGvManufacturingProcessesLtd1976Ch55CAPolygramRecordsPtyLtdvMonashRecordsAustraliaPtyLtdhttpclassicaustliieduauaucasescthFCA1985472html1985FCA472ENDREPLACE]
-[^AUTOREPLACEDAntonPillerKGvManufacturingProcessesLtd1976Ch55CAPolygramRecordsPtyLtdvMonashRecordsAustraliaPtyLtdhttpclassicaustliieduauaucasescthFCA1985472html1985FCA472ENDREPLACE]: _Anton Piller KG v Manufacturing Processes Ltd_ [1976] Ch. 55 (C.A.); _[Polygram Records Pty Ltd v Monash Records (Australia) Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/1985/472.html)_[1985] FCA 472
+[^AUTOREPLACEDAntonPillerKGvManufacturingProcessesLtd1976Ch55CAPolygramRecordsPtyLtdvMonashRecordsAustraliaPtyLtdhttpclassicaustliieduauaucasescthFCA1985472html1985FCA472ENDREPLACE]: _Anton Piller KG v Manufacturing Processes Ltd_ [1976] Ch. 55 (C.A.); _[Polygram Records Pty Ltd v Monash Records (Australia) Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1985/472.html)_[1985] FCA 472
 
 
 ## Criminal Provisions

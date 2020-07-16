@@ -4,7 +4,7 @@ title: Introduction to Intellectual Property
 nav_order: 5
 parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/intro-ip.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/intro-ip.markdown){: .btn .btn-outline }
 
 
 # Introduction to Intellectual Property
@@ -50,11 +50,11 @@ Because these things should be free for all people to use. Also, facts exist ind
 
 ### Types of IP
 
-**Video overview by Nic Suzor on the different types of [Intellectual Property](https:_www.youtube.com/watch?v=eOiHqDYhaF4)**
+**Video overview by Nic Suzor on the different types of [Intellectual Property](https://www.youtube.com/watch?v=eOiHqDYhaF4)**
 
 The term ‘intellectual property right’ is a broad term and branches out into different types of rights. Each of these IP rights protect different forms of intellectual property. The most common types of IP are: copyright, trade marks, industrial designs, and patent law.
 
-In this video, Rob talks about the rights he considered to [protect the IP in a safety helmet](https:_www.youtube.com/watch?v=lTKbx91AE_4) he designed. Watch the video for an overview of the different types of IP as applied to a business context
+In this video, Rob talks about the rights he considered to [protect the IP in a safety helmet](https://www.youtube.com/watch?v=lTKbx91AE_4) he designed. Watch the video for an overview of the different types of IP as applied to a business context
 
 #### Copyright
 
@@ -130,14 +130,14 @@ The most common justifications for intellectual property is the utilitarian just
 [^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]: _US Constitution, Article 1, Section 8, Clause 8_
 
 
-**Video overview of [The Utilitarian Justification for Intellectual Property](https:_www.youtube.com/watch?v=KVpYFZ-FBdk).**
+**Video overview of [The Utilitarian Justification for Intellectual Property](https://www.youtube.com/watch?v=KVpYFZ-FBdk).**
 
 
 The utilitarian perspective of intellectual property stems from the idea that expression is a "public good" and that creators therefore cannot prevent others from using their expression without legal intervention. This idea is supported by the unique "non-rival" nature of expression as an intangible good - that is - one person's use does not diminish or interfere with the use by another. However, the inability to exclude others may present problems for creators and the production of public goods. If a creator of a public good is unable to exclude others from using it, she or he will be unlikely to recoup the time and/or monetary investment in creating it. This may cause creators, or those funding creation such as publishers, record labels or movie studios, to stop spending resources on cultural production because they cannot profit from it. Intellectual property seeks to prevent this from happening by making expression excludable in order to allow producers to commercialise their creations and recover their costs. Intellectual property law does this by providing a set of "exclusive rights" to creators and inventors.
 
 In order to make the production of public goods more profitable, intellectual property makes access more expensive. The law must then strike a delicate balance between encouraging the creation and dissemination of works by providing incentives and recognising the public interest in greater access to expression. The law must also recognise the needs of future authors who often build upon the past expression. Because of this, the stronger intellectual property protection is, the more expensive future production becomes.
 
-**Video overview of [The IP Balance](https:_www.youtube.com/watch?v=jpOe9VRYKJ8).**
+**Video overview of [The IP Balance](https://www.youtube.com/watch?v=jpOe9VRYKJ8).**
 
 ### The Natural Rights Justification
 
@@ -169,7 +169,7 @@ Intellectual property was not always central to international trade. As technolo
 | 2004/2005 | _Australia-US Free Trade Agreement_ (_AUSFTA_)| On 18 May 2004, the _Australia – United States Free Trade Agreement_ (_AUSFTA_) is signed.  This is a preferential trade agreement between Australia and the United States modelled on the _North American Free Trade Agreement_ (_NAFTA_). The Agreement came into effect on 1 January 2005.|
 | 2013 and beyond | The Trans-Pacific Partnership Agreement | The _Trans-Pacific Partnership Agreement_ (_TPP_) was negotiated between twelve countries that border the Pacific Ocean: Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, the United States and Vietnam. These countries represent approximately 40% of the world's economic output, making the _TPP_ the largest trade agreement in history. However, before negotiations were finalised, on 23 January 2017, when US President Donald Trump took office, he signed a presidential memorandum to withdraw the United States from _TPP_ negotiations. While other _TPP_ countries, including Australia, have stated that they plan to continue _TPP_ negotiations, the future of the agreement looks uncertain without US involvement.|
 
-Intellectual property law has been relatively harmonised worldwide. There are a number of agreements regarding intellectual property law in general, and more specific agreements that apply to certain areas of intellectual property. The [World Intellectual Property Organisation](https:_www.wipo.int/about-wipo/en/) (WIPO) is an international agency, established in 1967 which administers treaties such as the _Paris Convention on the Protection of Industrial Property 1883_ and the _Berne Convention for the Protection of Literary and Artistic Works 1886_, _WIPO Performances and Phonograms Treaty_ and _WIPO Copyright Treaty_. It is WIPO's obligation to administer intellectual property matters and there are approximately 22 intellectual property treaties under its administration. Whilst WIPO administers the treaties, it does not have the requisite power to ensure compliance of the treaties. As a result of this, the _World Trade Organisation Agreement_ was enacted, specifically the part that deals with intellectual property, the _Trade Related Aspects of Intellectual Property Rights 1994_ (_TRIPS_).
+Intellectual property law has been relatively harmonised worldwide. There are a number of agreements regarding intellectual property law in general, and more specific agreements that apply to certain areas of intellectual property. The [World Intellectual Property Organisation](https://www.wipo.int/about-wipo/en/) (WIPO) is an international agency, established in 1967 which administers treaties such as the _Paris Convention on the Protection of Industrial Property 1883_ and the _Berne Convention for the Protection of Literary and Artistic Works 1886_, _WIPO Performances and Phonograms Treaty_ and _WIPO Copyright Treaty_. It is WIPO's obligation to administer intellectual property matters and there are approximately 22 intellectual property treaties under its administration. Whilst WIPO administers the treaties, it does not have the requisite power to ensure compliance of the treaties. As a result of this, the _World Trade Organisation Agreement_ was enacted, specifically the part that deals with intellectual property, the _Trade Related Aspects of Intellectual Property Rights 1994_ (_TRIPS_).
 
 _TRIPS_ is an international agreement which identifies 5 minimum standards for intellectual property that all members of the WTO must adhere to. Further, each WTO member is required by _TRIPS_ to enforce these standards.
 

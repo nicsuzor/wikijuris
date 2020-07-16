@@ -5,7 +5,7 @@ nav_order: 50
 parent: Australian IP Law
 has_children: true
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-overview.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-overview.markdown){: .btn .btn-outline }
 
 
 # Trade Mark Overview
@@ -22,8 +22,8 @@ The origins of trade mark law can be traced back to medieval times when traders 
 
 In Australia, there are a number sources of trade mark law including:
 
-1. [Trade Mark Act 1995 (Cth)](https:_www.legislation.gov.au/Details/C2019C00085);
-2. [Trade Mark Regulations 1995 (Cth)](https:_www.legislation.gov.au/Details/F2018C00773);
+1. [Trade Mark Act 1995 (Cth)](https://www.legislation.gov.au/Details/C2019C00085);
+2. [Trade Mark Regulations 1995 (Cth)](https://www.legislation.gov.au/Details/F2018C00773);
 3. International law and treaties; and
 4. The common law tort of passing off.
 
@@ -34,17 +34,17 @@ As noted above, trade mark law is governed by the _Trade Marks Act 1995_ (Cth) (
 
 
 
-**Video overview by Dan Hunter on [The Need for the Trade Mark Law System](https:_youtu.be/G073FK1BzAU?list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
+**Video overview by Dan Hunter on [The Need for the Trade Mark Law System](https://youtu.be/G073FK1BzAU?list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
 
 ## Rationale for Protection
 
 Trade marks serve the economic function of reducing consumer search costs by helping consumers to find products they know and like.  At the same time, trade marks give producers incentives to maintain quality standards and promotes investment.
 
-**Video over by Brian Hensel on [The Rationale for Trade Marks](https:_www.youtube.com/watch?v=_AnH_0APBVo)**
+**Video over by Brian Hensel on [The Rationale for Trade Marks](https://www.youtube.com/watch?v=_AnH_0APBVo)**
 
 ## International Law and Trade Marks
 
-The trade marks legislation was amended in 1995 to align with Australia's obligations under the _[Agreement of Trade-Related Aspects of Intellectual Property Rights](https:_www.wto.org/english/docs_e/legal_e/27-trips_01_e.htm)_ (_TRIPS_). As Australia is a _WTO_ country, there are a number of minimum standards relating to trade marks that each _WTO_ country must meet. This includes having a trade mark registration system. Whilst trade marks do not have to be registered, there are a number of benefits of using the trade mark system as opposed to relying on the common law to recognise ownership of trade marks through reputation. These benefits include 'prima facie proof of ownership'.
+The trade marks legislation was amended in 1995 to align with Australia's obligations under the _[Agreement of Trade-Related Aspects of Intellectual Property Rights](https://www.wto.org/english/docs_e/legal_e/27-trips_01_e.htm)_ (_TRIPS_). As Australia is a _WTO_ country, there are a number of minimum standards relating to trade marks that each _WTO_ country must meet. This includes having a trade mark registration system. Whilst trade marks do not have to be registered, there are a number of benefits of using the trade mark system as opposed to relying on the common law to recognise ownership of trade marks through reputation. These benefits include 'prima facie proof of ownership'.
 
 ## The Registration Process
 
@@ -101,7 +101,7 @@ A trade mark must:
 
 These elements will be outlined in more detail below.
 
-**Video overview by Dan Hunter on [The Definition of a Trade Mark](https:_www.youtube.com/watch?v=LjKF7UrbCDI&index=2&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
+**Video overview by Dan Hunter on [The Definition of a Trade Mark](https://www.youtube.com/watch?v=LjKF7UrbCDI&index=2&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
 
 
 ### A Sign
@@ -123,15 +123,15 @@ Use of a trade mark in relation to goods/services also means use of the trade ma
 
 ### Distinguishing Goods or Services in the Course of Trade
 
-There is no requirement that trade result in actual sales or dealing in the goods – it is enough if the goods or services have been offered or advertised for sale or hire. However, a trade mark must be registered with respect to one or more classes of goods and/or services. [^AUTOREPLACEDTMAs19ENDREPLACE] There are 34 classes of goods and 11 classes of services. See IP Australia, Trade Marks Classification Search, [Classes of Goods](http:_xeno.ipaustralia.gov.au/tmgns/facelets/tmgoods.xhtml)
+There is no requirement that trade result in actual sales or dealing in the goods – it is enough if the goods or services have been offered or advertised for sale or hire. However, a trade mark must be registered with respect to one or more classes of goods and/or services. [^AUTOREPLACEDTMAs19ENDREPLACE] There are 34 classes of goods and 11 classes of services. See IP Australia, Trade Marks Classification Search, [Classes of Goods](http://xeno.ipaustralia.gov.au/tmgns/facelets/tmgoods.xhtml)
 [^AUTOREPLACEDTMAs19ENDREPLACE]: _TMA_ s 19
 
 
 
-**Video overview by Morgan Beames on [The Classification System for Trade Marks](https:_www.youtube.com/watch?v=OQKNDMjn89M)**
+**Video overview by Morgan Beames on [The Classification System for Trade Marks](https://www.youtube.com/watch?v=OQKNDMjn89M)**
 
 
-**Video overview by Maddy Ryan on [The Classification System for Trade Marks](https:_www.youtube.com/watch?v=VUJxVWAMvIo)**
+**Video overview by Maddy Ryan on [The Classification System for Trade Marks](https://www.youtube.com/watch?v=VUJxVWAMvIo)**
 
 ## Types of Trade Marks
 
@@ -148,9 +148,9 @@ There are four types of trade marks which can be registered:
 
 4.  **Certification trade mark**: A sign distinguishing goods or services in respect of origin, material, mode of manufacture, accuracy or some other characteristics.  For example *Woolmark*, *Heart Foundation Tick*, *Fresh Care*.
 
-**Video overview by Luke Chandler on [Defensive Trade Marks](https:_www.youtube.com/watch?v=xfb8qqBdzp0)**
+**Video overview by Luke Chandler on [Defensive Trade Marks](https://www.youtube.com/watch?v=xfb8qqBdzp0)**
 
-**Video overview by Ethan McCann on [Certification Marks](https:_www.youtube.com/watch?v=XhrvRSXeq2U)**
+**Video overview by Ethan McCann on [Certification Marks](https://www.youtube.com/watch?v=XhrvRSXeq2U)**
 
 
 ## Non-Traditional Trade Marks
@@ -169,7 +169,7 @@ In *Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks*, [^AUTOREPLACED20
 [^AUTOREPLACED2002FCAFC273ENDREPLACE]: [2002] FCAFC 273
 
 
-However, in *[Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/816.html)*, [^AUTOREPLACED1999FCA816ENDREPLACE] the design of a triple-headed rotary shaver could not be registered as a trade mark since the configuration of the three heads was the best design and did not add anything extra to distinguish the product.
+However, in *[Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/816.html)*, [^AUTOREPLACED1999FCA816ENDREPLACE] the design of a triple-headed rotary shaver could not be registered as a trade mark since the configuration of the three heads was the best design and did not add anything extra to distinguish the product.
 [^AUTOREPLACED1999FCA816ENDREPLACE]: [1999] FCA 816
 
 
@@ -188,15 +188,15 @@ In order for a colour to be distinctive it needs to be capable to distinguish go
 
 In order for a colour to be distinctive it needs to be capable to distinguish goods and services from other products and services. To determine whether a colour is being used as a trade mark an objective analysis of the purpose and nature of the use of the colour must be undertaken. The colour must be used as a ‘ badge of honour’ to distinguish the product form those of other competitors.
 
-**Video overview by Emily Rees on [Colour Marks](https:_www.youtube.com/watch?v=6-gnP8tkRwk)**
+**Video overview by Emily Rees on [Colour Marks](https://www.youtube.com/watch?v=6-gnP8tkRwk)**
 
 
-**Video overview by Kate Clinton on [Colour Marks](https:_www.youtube.com/watch?v=CNl9ncEadXM)**
+**Video overview by Kate Clinton on [Colour Marks](https://www.youtube.com/watch?v=CNl9ncEadXM)**
 
 
 Colour can be registered as a trade mark if the colour is distinct and has no functional purpose.
 
-In *[Philmac Pty Limited v The Registrar of Trade Marks](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2002/1551.html)*, [^AUTOREPLACED2002FCA1551ENDREPLACE] a terracotta shade on plastic pipes and pipe fittings could be registered as a trade mark as the colour had no functional purpose. In contrast, in *[Smith Kline and French Laboratories (Australia) Ltd v Registrar of Trade Marks](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1967/42.html)*,[^AUTOREPLACED1967HCA42ENDREPLACE] the colour scheme of a pharmaceutical capsule which was half transparent and revealed multi-coloured pellets of medicine was refused registration as the trade mark could not be described apart from the capsule.
+In *[Philmac Pty Limited v The Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2002/1551.html)*, [^AUTOREPLACED2002FCA1551ENDREPLACE] a terracotta shade on plastic pipes and pipe fittings could be registered as a trade mark as the colour had no functional purpose. In contrast, in *[Smith Kline and French Laboratories (Australia) Ltd v Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1967/42.html)*,[^AUTOREPLACED1967HCA42ENDREPLACE] the colour scheme of a pharmaceutical capsule which was half transparent and revealed multi-coloured pellets of medicine was refused registration as the trade mark could not be described apart from the capsule.
 [^AUTOREPLACED2002FCA1551ENDREPLACE]: [2002] FCA 1551
 
 [^AUTOREPLACED1967HCA42ENDREPLACE]: [1967] HCA 42
@@ -204,7 +204,7 @@ In *[Philmac Pty Limited v The Registrar of Trade Marks](http:_www.austlii.edu.a
 
 
 
-**Video overview by Paula Harrison on [Colours](https:_www.youtube.com/watch?v=X0tXFWezfwA)**
+**Video overview by Paula Harrison on [Colours](https://www.youtube.com/watch?v=X0tXFWezfwA)**
 
 
 
@@ -218,7 +218,7 @@ Much like other types of trade marks, in order to register the sound mark the so
 
 To be distinct it must provide an audible identifier that sets the product out as being unique (as opposed to common functional sound).
 
-**Video overview by Darren Brown on [Registering Sounds](https:_www.youtube.com/watch?v=UHJfTerLjoA)**
+**Video overview by Darren Brown on [Registering Sounds](https://www.youtube.com/watch?v=UHJfTerLjoA)**
 
 
 ### Registering Scents
@@ -235,7 +235,7 @@ Scents also must be adequately described in writing or graphically represented i
 
 There is no requirement to provide a sample of the scent when applying for trade mark registration, however it can be requested at the point the registration application is reviewed.
 
-**Video overview by Luana Maeyke on [Scent Marks](https:_www.youtube.com/watch?v=foAqYOABIXk)**
+**Video overview by Luana Maeyke on [Scent Marks](https://www.youtube.com/watch?v=foAqYOABIXk)**
 
 
-**Video overview by Rica Ehlers on [Scent Marks](https:_www.youtube.com/watch?v=1lbiM5du5fg)**
+**Video overview by Rica Ehlers on [Scent Marks](https://www.youtube.com/watch?v=1lbiM5du5fg)**

@@ -4,7 +4,7 @@ title: Regulating Private Intermediaries
 nav_order: 120
 parent: Governing the Internet
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/private_power.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/private_power.markdown){: .btn .btn-outline }
 
 # Regulating Private Intermediaries
 {: .no_toc }
@@ -20,7 +20,7 @@ This section is a stub. Please help out by filling in some details and fixing so
 ## Freedom of Speech Online
 
 
-**Overview of Online Freedom of Speech Issues by [Nic Suzor](https:_www.youtube.com/watch?v=-HTCDLty87s)**
+**Overview of Online Freedom of Speech Issues by [Nic Suzor](https://www.youtube.com/watch?v=-HTCDLty87s)**
 
 According to John Perry Barlow, the internet is the ‘new home of the mind’. The great potential the internet brings is to democratise speech. It provides the ability for ordinary people to be heard by massive audiences.
 
@@ -44,7 +44,7 @@ These private organisations are increasingly important in how we access informat
 
 ### Platform Responsibility: Imposing Obligations on Private Intermediaries
 
-**Video Overview of the UN Guiding Principles on Business and Human Rights by [the Danish Institute for Human Rights](https:_www.youtube.com/watch?v=BCoL6JVZHrA)**
+**Video Overview of the UN Guiding Principles on Business and Human Rights by [the Danish Institute for Human Rights](https://www.youtube.com/watch?v=BCoL6JVZHrA)**
 
 The new gatekeepers are private actors who have the power to control speech but no real responsibilities. So we don’t know when they’re censoring speech, on the one hand, and on the other, there is a lot of abusive speech, hate speech, and vilification that is difficult to respond to or control.
 
@@ -54,7 +54,7 @@ This becomes even more important when we look at the conflict between freedom of
 
 If we think of freedom of speech not just as a negative right to be free from overt state interference, but as a thicker substantive right to maintain and express one's opinions, there is a real conflict here. Minority voices are being drowned out by abuse[^AUTOREPLACEDForaninterestingoverviewofhatespeechinonlinegamingplatformsseethisvideobyGAMBIThttpvideomiteduwatchgambithatespeechvideo7031AUTOREPLACED] or silenced by algorithms, filters, and moderators with inbuilt majoritarian biases.
 
-[^AUTOREPLACEDForaninterestingoverviewofhatespeechinonlinegamingplatformsseethisvideobyGAMBIThttpvideomiteduwatchgambithatespeechvideo7031AUTOREPLACED]: For an interesting overview of hate speech in online gaming platforms, see this video by GAMBIT: http:_video.mit.edu/watch/gambit-hate-speech-video-7031/
+[^AUTOREPLACEDForaninterestingoverviewofhatespeechinonlinegamingplatformsseethisvideobyGAMBIThttpvideomiteduwatchgambithatespeechvideo7031AUTOREPLACED]: For an interesting overview of hate speech in online gaming platforms, see this video by GAMBIT: http://video.mit.edu/watch/gambit-hate-speech-video-7031/
 
 
 

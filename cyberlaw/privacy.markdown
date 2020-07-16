@@ -6,7 +6,7 @@ parent: Governing the Internet
 ---
 
 
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/privacy.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/privacy.markdown){: .btn .btn-outline }
 
 Help needed! Please contribute your notes to help us finish this page.
 
@@ -16,7 +16,7 @@ Help needed! Please contribute your notes to help us finish this page.
 1. Table of Contents
 {:toc}
 
-**Rita Matulionyte [Explains How Online Technologies Affect Our Privacy](https:_www.youtube.com/watch?v=67BPeCTpu10)**
+**Rita Matulionyte [Explains How Online Technologies Affect Our Privacy](https://www.youtube.com/watch?v=67BPeCTpu10)**
 
 ## International Law
 **Article 12, 1948 Universal Declaration on Human Rights (UDHR)**
@@ -25,7 +25,7 @@ Help needed! Please contribute your notes to help us finish this page.
 
 The UDHR was adopted in the General Assembly as Resolution 217 on 10 December 1948. Among the 58 members of United Nations, 48 voted in favour, 8 abstained. Honduras and Yemen failed to vote or abstain. The historical vote on adoption does not affect the application of the UDHR on other member states who joined the United Nations later.  
 
-[The UDHR is not a treaty and therefore does not itself create legal obligations for countries](https:_www.humanrights.gov.au/our-work/what-universal-declaration-human-rights). It is an expression of fundamental values which are shared by all members of the international community, and therefore has arguably become binding as part of customary international law
+[The UDHR is not a treaty and therefore does not itself create legal obligations for countries](https://www.humanrights.gov.au/our-work/what-universal-declaration-human-rights). It is an expression of fundamental values which are shared by all members of the international community, and therefore has arguably become binding as part of customary international law
 
 **Article 17, International Covenant on Civil and Political Rights (ICCPR)**
 
@@ -33,7 +33,7 @@ The UDHR was adopted in the General Assembly as Resolution 217 on 10 December 19
 
 '(2) Everyone has the right to the protection of the law against such interference or attacks’
 
-[There are a total of 172 parties to the ICCPR.](https:_treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-4&chapter=4&clang=_en)
+[There are a total of 172 parties to the ICCPR.](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-4&chapter=4&clang=_en)
 
 **Article 16, Convention on the Rights of the Child**
 
@@ -63,17 +63,17 @@ There are 8 principles governing the protection of privacy and transborder flow 
 
 Right to privacy is not confined to the physical world. In its sixty-eighth session of General Assembly, the United Nations (UN) adopted Resolution 68/177 regarding the right to privacy in the digital age. It recognized the increasing global trend of Internet usage and the advancement in information and communications technologies, and emphasised that the right to privacy also includes privacy in the digital world.
 
-While gathering of an individual’s sensitive information may be necessary for the purpose of national and public security, it must be done in compliance with the state’s obligations in international human rights laws. [Therefore UN called upon on States to review their legislation and practices relating to communication surveillance and collection of personal data so as to protect individual’s right to privacy, which also includes digital communications](https:_www.ohchr.org/EN/Issues/DigitalAge/Pages/DigitalAgeIndex.aspx).
+While gathering of an individual’s sensitive information may be necessary for the purpose of national and public security, it must be done in compliance with the state’s obligations in international human rights laws. [Therefore UN called upon on States to review their legislation and practices relating to communication surveillance and collection of personal data so as to protect individual’s right to privacy, which also includes digital communications](https://www.ohchr.org/EN/Issues/DigitalAge/Pages/DigitalAgeIndex.aspx).
 
 ### Interference with privacy
 
-Under UDHR and ICCPR, the content of the right to privacy includes the term ‘interference’. What this essentially means is that the integrity  and confidentiality of correspondence should be guaranteed de jure and de facto, without any interception and without being opened or read.  Any capture of communication data may potentially fall under the ‘interference’. [Therefore, as suggested by the Office of UN High Commissioner for Human Rights,  mass surveillance programmes adopted by many states would already be amount to ‘interfering’, and it is on the State to prove that such interception is neither arbitrary nor unlawful.](https:_www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session27/Documents/A-HRC-27-37_en.doc)
+Under UDHR and ICCPR, the content of the right to privacy includes the term ‘interference’. What this essentially means is that the integrity  and confidentiality of correspondence should be guaranteed de jure and de facto, without any interception and without being opened or read.  Any capture of communication data may potentially fall under the ‘interference’. [Therefore, as suggested by the Office of UN High Commissioner for Human Rights,  mass surveillance programmes adopted by many states would already be amount to ‘interfering’, and it is on the State to prove that such interception is neither arbitrary nor unlawful.](https://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session27/Documents/A-HRC-27-37_en.doc)
 
 ### ‘Unlawful’ and ‘Arbitrary’ – Qualified rights
 
 The right to privacy under both UDHR and ICCPR is not an absolute right. It may be restricted or limited as long as it is not ‘unlawful’. This means that member states may implement laws that specifically authorize such derogation. However, member states are not unfettered. The implemented laws must not be in contravention with the provisions in the International Covenant on Civil and Political Rights, and should be ‘reasonable in particular circumstances’.
 
-In determining the reasonableness of such limitation, references may be drawn from [_Siracusa Principles_](https:_www.uio.no/studier/emner/jus/humanrights/HUMR5503/h09/undervisningsmateriale/SiracusaPrinciples.pdf) and case law. In short, they all emphasise the principles of legality, necessity and proportionality. Such a law has to be readily accessible and clear. It must be necessary and should be the least intrusive option to pursue the legitimate aim.
+In determining the reasonableness of such limitation, references may be drawn from [_Siracusa Principles_](https://www.uio.no/studier/emner/jus/humanrights/HUMR5503/h09/undervisningsmateriale/SiracusaPrinciples.pdf) and case law. In short, they all emphasise the principles of legality, necessity and proportionality. Such a law has to be readily accessible and clear. It must be necessary and should be the least intrusive option to pursue the legitimate aim.
 
 ## Privacy Protection in the European Union
 
@@ -168,7 +168,7 @@ So far, no such case has come up to the Australian High Court but there have bee
 
 ### Privacy Act 1988 (Cth) and the Australian Privacy Principles
 
-**Rita Matulionyte [Explains the Legal Protections for Privacy in Australia](https:_www.youtube.com/watch?v=dGTkYs8jT3o)**
+**Rita Matulionyte [Explains the Legal Protections for Privacy in Australia](https://www.youtube.com/watch?v=dGTkYs8jT3o)**
 
 The _Privacy Act 1988_ (Cth) protects information privacy - that is, it prescribes what 'personal information' organisations and federal government agencies can collect about Australians, how that information can be collected and how it must be stored, the circumstances in which the information can be used and disclosed, and what Australian citizens must be told about the information collected about them. Personal information includes things like name, address, phone number, occupation, and sensitive information like health information. Other, state-level information privacy legislation also exists, which usually applies to state government agencies e.g. _Information Privacy Act 2009_ (QLD).
 
@@ -176,7 +176,7 @@ Personal privacy in Australia is protected in a _de facto_ way, through a myriad
 
 ## The Privacy Act
 
-**Rita Matulionyte [Provides an Introduction to the Privacy Act](https:_www.youtube.com/watch?v=34AAdrbr050)** and **Video Overview by Michael Thomson [Explains the Role of the OAIC](https:_www.youtube.com/watch?v=D-pebFkJn4o)**
+**Rita Matulionyte [Provides an Introduction to the Privacy Act](https://www.youtube.com/watch?v=34AAdrbr050)** and **Video Overview by Michael Thomson [Explains the Role of the OAIC](https://www.youtube.com/watch?v=D-pebFkJn4o)**
 
 The _Privacy Act 1988_ (Cth) contains 13 Australian Privacy Principles (APPs) in Schedule 1. These principles apply to "APP entities".
 
@@ -190,7 +190,7 @@ Sections 65 and 66 of the Privacy Act provide that entities must cooperate with 
 
 ## The Australian Privacy Principles
 
-**Rita Matulionyte [Explains the APPs](https:_www.youtube.com/watch?v=H3-R_ymAAFY)**
+**Rita Matulionyte [Explains the APPs](https://www.youtube.com/watch?v=H3-R_ymAAFY)**
 
 #### APP 1 — Open and transparent management of personal information
 Ensures that APP entities manage personal information in an open and transparent way. This includes having a clearly expressed and up to date APP privacy policy.
@@ -216,7 +216,7 @@ An organisation may only use or disclose personal information for direct marketi
 #### APP 8 — Cross-border disclosure of personal information
 Outlines the steps an APP entity must take to protect personal information before it is disclosed overseas.
 
-**Video Overview of [APP 8](https:_www.youtube.com/watch?v=0S6yURu809M)**
+**Video Overview of [APP 8](https://www.youtube.com/watch?v=0S6yURu809M)**
 
 #### APP 9 — Adoption, use or disclosure of government related identifiers
 Outlines the limited circumstances when an organisation may adopt a government related identifier of an individual as its own identifier, or use or disclose a government related identifier of an individual.
@@ -230,7 +230,7 @@ An APP entity must take reasonable steps to protect personal information it hold
 #### APP 12 — Access to personal information
 Outlines an APP entity’s obligations when an individual requests to be given access to personal information held about them by the entity. This includes a requirement to provide access unless a specific exception applies.
 
-**Video Overview of [APP 12](https:_www.youtube.com/watch?v=dGB_J8cGjXk)**
+**Video Overview of [APP 12](https://www.youtube.com/watch?v=dGB_J8cGjXk)**
 
 #### APP 13 — Correction of personal information
 Outlines an APP entity’s obligations in relation to correcting the personal information it holds about individuals.
@@ -251,7 +251,7 @@ The data breach notification scheme commences on 22 February 2018
 
 ## Government Surveillance
 
-Surveillance is the monitoring of behaviour, activities, or other changing information, usually of people for the purposes of influencing/managing/directing/protecting them (Lyon 2007). For a glossary of commonly-used terms in surveillance studies, have a look at [this open access book edited by Guy McHendry](https:_surveillancestudies.pressbooks.com/).
+Surveillance is the monitoring of behaviour, activities, or other changing information, usually of people for the purposes of influencing/managing/directing/protecting them (Lyon 2007). For a glossary of commonly-used terms in surveillance studies, have a look at [this open access book edited by Guy McHendry](https://surveillancestudies.pressbooks.com/).
 
 Surveillance is by governments for intelligence gathering, prevention of crime, protection of process/group/person/object or for investigation of crime.
 
@@ -303,7 +303,7 @@ Telecommunications companies must retain and secure for 2 years a set of informa
 ## Regulating Privacy-Enhancing Technologies
 
 
-**Ryan Glister [Explains TOR](https:_www.youtube.com/watch?v=oUPAleiqvQI)** and **Sooraj Sidhu [Explains Public Key Encryption](https:_www.youtube.com/watch?v=71mSYkuGZtk)**
+**Ryan Glister [Explains TOR](https://www.youtube.com/watch?v=oUPAleiqvQI)** and **Sooraj Sidhu [Explains Public Key Encryption](https://www.youtube.com/watch?v=71mSYkuGZtk)**
 
 
 
@@ -312,7 +312,7 @@ This section is a [[:wiki:stub]]. Please help out by filling in some details.
 
 ## The SPAM Act
 
-**Video Overview of the The SPAM Act by [Rita Matulionyte](https:_www.youtube.com/watch?v=7mR87qJ0Ipg)** and **[Anna Hall](https:_www.youtube.com/watch?v=cb8q7hiyj9I)**
+**Video Overview of the The SPAM Act by [Rita Matulionyte](https://www.youtube.com/watch?v=7mR87qJ0Ipg)** and **[Anna Hall](https://www.youtube.com/watch?v=cb8q7hiyj9I)**
 
 The SPAM Act 2003 (Cth) prohibits the sending of unsolicited commercial electronic messages with an Australian link. A message has an Australian link if it originates or was commissioned in Australia, or originates overseas but was sent to an address accessed in Australia.
 

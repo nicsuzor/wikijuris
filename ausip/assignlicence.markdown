@@ -5,7 +5,7 @@ nav_order: 25
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/assignlicence.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/assignlicence.markdown){: .btn .btn-outline }
 
 
 
@@ -21,7 +21,7 @@ grand_parent: Australian IP Law
 Copyright is a personal property right. The interest conferred by copyright law is the exclusive rights to do acts comprised in the copyright. These rights can be assigned or licensed. An assignment of copyright is a transfer of ownership and interest in all, or some of the copyright. A license is a permission to do some of the acts comprised in copyright. Each of these will be considered in detail below.
 
 
-**Video overview by Nicolas Suzor on [Copyright Assignments and Licences](https:_www.youtube.com/watch?v=08DU3pZeajk).**
+**Video overview by Nicolas Suzor on [Copyright Assignments and Licences](https://www.youtube.com/watch?v=08DU3pZeajk).**
 
 ## Assignments
 
@@ -46,7 +46,7 @@ When copyright is assigned, the assignee acquires full rights with respect to th
 
 A license is a permission to use copyright material in ways that would otherwise infringe. The license can be limited by contract.
 
-**Video overview by Kylie Pappalardo on[Copyright Licences](https:_www.youtube.com/watch?v=nJ7mRfcNZQI).**
+**Video overview by Kylie Pappalardo on[Copyright Licences](https://www.youtube.com/watch?v=nJ7mRfcNZQI).**
 
 
 An exclusive license is "a licence in writing, signed by or on behalf of the owner or prospective owner of copyright, authorising the licensee, to the exclusion of all other persons, to do an act that … the owner of the copyright would, but for the licence, have the exclusive right to do". [^AUTOREPLACED _CA_ s 10(1) ENDREPLACE] s 10(1) Exclusive licences give the licensee the power to sublicense and the title to sue for infringement. [^AUTOREPLACED_CA_ s 119ENDREPLACE]
@@ -81,7 +81,7 @@ It was held that there was an implied licence in favour of the purchaser to use 
 
 ### Creative Commons Licensing
 
-Creative Commons (CC) is a non-profit organisation which created a public licensing suite. The licenses are free, easy-to-use copyright licenses that provide a simple and standardised way to give the public permission to share and use creative work. The idea of the CC licenses is to help people legally share their "knowledge and creativity to build a more equitable, accessible, and innovative world". [Creative Commons "What we do"](https:_creativecommons.org/about/)  
+Creative Commons (CC) is a non-profit organisation which created a public licensing suite. The licenses are free, easy-to-use copyright licenses that provide a simple and standardised way to give the public permission to share and use creative work. The idea of the CC licenses is to help people legally share their "knowledge and creativity to build a more equitable, accessible, and innovative world". [Creative Commons "What we do"](https://creativecommons.org/about/)  
 
 Creative Commons licensing can be applied by any person to their work, and can be taken advantage of by any person to use the licensed work (provided it is in accordance with the terms of the license).
 
@@ -94,7 +94,7 @@ There are four conditions that can be applied to a Creative Commons license.
 | No Derivative Works (ND) | Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it. |
 
 
-**Video overview by Rachel Varshney on[Creative Commons Licensing](https:_www.youtube.com/watch?v=BzR6gVzFSjo).**
+**Video overview by Rachel Varshney on[Creative Commons Licensing](https://www.youtube.com/watch?v=BzR6gVzFSjo).**
 
 ### Statutory Licences
 

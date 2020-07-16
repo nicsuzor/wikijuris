@@ -6,7 +6,7 @@ parent: Governing the Internet
 has_children: true
 ---
 
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/preface.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/preface.markdown){: .btn .btn-outline }
 
 # Preface: About This Textbook: Four Main Themes and How You Can Help
 {: .no_toc }
@@ -16,7 +16,7 @@ has_children: true
 
 ## Four Key Themes
 
-**[Video Overview by Nic Suzor](https:_www.youtube.com/watch?v=bD2yTx9rGeI&t=268s)**
+**[Video Overview by Nic Suzor](https://www.youtube.com/watch?v=bD2yTx9rGeI&t=268s)**
 
 This textbook, which is a resource in the unit _LLB345: Regulating the Internet_ in the School of Law, Faculty of Law at the Queensland University of Technology (QUT), focuses on how societies can and should regulate the internet. It is not a survey of all the ways that law intersects with the internet (not 'law and the internet') – nearly all areas of law can have some application online. Instead, we focus on four key themes:
 
@@ -44,7 +44,7 @@ Society is still struggling to come to terms with the changes brought about by n
 
 The textbook market is flawed. Students often pay too much, and do not have choice in the books they buy. In response to this, we are creating a set of open educational resources, which are free for the world to use.
 
-**Video Overview by Nic Suzor:[Free and Open Textbooks: A Small Revolution](https:_www.youtube.com/watch?time_continue=13&v=hpDMNZ6DyVQ)**  
+**Video Overview by Nic Suzor:[Free and Open Textbooks: A Small Revolution](https://www.youtube.com/watch?time_continue=13&v=hpDMNZ6DyVQ)**  
 
 ### How to Contribute
 
@@ -60,10 +60,10 @@ What can I do? We have provided an outline structure. Here’s a few ways you ca
 * Make sure that formatting is correct and the appropriate styles are used. Put examples and videos in breakout boxes; and/or
 * For any section where it would be useful, copy and paste material from another free and open source into our book. Remember, you may only copy and paste material that is in the Public Domain or licensed under one of CC BY or CC BY-SA. Some places you might like to start are:
     * Wikipedia (CC BY-SA)
-    * http:_cyber.law.harvard.edu/copyrightforlibrarians/Main_Page  (CC BY)
-    * http:_itlaw.wikia.com/wiki/The_IT_Law_Wiki  (CC BY SA)
-    * http:_www.teachingcopyright.org/curriculum/hs  (CC BY)
-    * http:_pad.p2pu.org/p/school-of-open-resources
+    * http://cyber.law.harvard.edu/copyrightforlibrarians/Main_Page  (CC BY)
+    * http://itlaw.wikia.com/wiki/The_IT_Law_Wiki  (CC BY SA)
+    * http://www.teachingcopyright.org/curriculum/hs  (CC BY)
+    * http://pad.p2pu.org/p/school-of-open-resources
 
 ### Guiding Principles
 

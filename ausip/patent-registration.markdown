@@ -5,7 +5,7 @@ nav_order: 64
 parent: Patent
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/patent-registration.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/patent-registration.markdown){: .btn .btn-outline }
 
 
 
@@ -98,7 +98,7 @@ The meaning of manner of manufacture has been debated by the Australian High Cou
 >the correct inquiry to determine manner of manufacture is 'not into the meaning of a word so much as the breadth of the concept which the law has developed by its consideration of the text and purpose of the _Statute of Monopolies_.
 
 
-**Video overview by Natalie McIntosh on[Manner of Manufacture](https:_www.youtube.com/watch?v=NAU_p4ZDCsc).**
+**Video overview by Natalie McIntosh on[Manner of Manufacture](https://www.youtube.com/watch?v=NAU_p4ZDCsc).**
 
 The _Patents Act 1990_ (Cth) incorporates the guidelines for manner of manufacture within s 18. Pursuant to s18 of the _Act_ an invention is to be a manner of manufacture within the meaning of s 6 of the _Statute of Monopolies_.
 
@@ -142,7 +142,7 @@ The development of technology and innovative business practices lead to question
 [^AUTOREPLACEDGrantvCommissionerofPatents2006154FCR62ENDREPLACE]: _Grant v Commissioner of Patents (2006) 154 FCR 62_
 
 
-**Video overview by Stephen Kuhn on [Business Method Patents](https:_www.youtube.com/watch?v=_Pmqa_nldKE?small).**
+**Video overview by Stephen Kuhn on [Business Method Patents](https://www.youtube.com/watch?v=_Pmqa_nldKE?small).**
 
 
 __*State Street Bank & Trust Co. v Signature Financial Group Inc* (1998) (‘State Street’) - United States Case__
@@ -204,7 +204,7 @@ Issue:  Are methods of medical treatment for some reason excluded from scope of 
 Held: Patent at issue is valid – no exception for methods of medical treatment. For policy reasons, some earlier courts said should not be patentable so they are more available to people – however counter-argument for incentive principle. The court held that the patent had not infringed because s117 (contributory infringement by supply of products) could not be made out.
 
 
-**Video overview by Thalia Ho on [Swiss style claims' on application of pharmaceuticals](https:_www.youtube.com/watch?v=IhG4TZOprH4?small).**
+**Video overview by Thalia Ho on [Swiss style claims' on application of pharmaceuticals](https://www.youtube.com/watch?v=IhG4TZOprH4?small).**
 
 ### Patentable Subject Matter: Genes
 
@@ -219,7 +219,7 @@ Facts:  This case concerns a product, namely nucleic acid sequences (DNA or RNA)
 Held: isolation of genes not patentable
 
 
-**Video overview by Nicholas Chinon [D'Arcy v Myriad Genetics](https:_www.youtube.com/watch?v=WOc-qXrC-TM).**
+**Video overview by Nicholas Chinon [D'Arcy v Myriad Genetics](https://www.youtube.com/watch?v=WOc-qXrC-TM).**
 
 
 ## Requirement 2: Novelty
@@ -230,9 +230,9 @@ In order to be patentable the invention must be new. This requires the invention
 
 Novelty is required by ss 18(1)(b)(i), 18(1A)(b)(i) and 7(1) of the _Act_.
 
-**Video overview by Georgia Ardouin on [The test of Novelty in patent law](https:_www.youtube.com/watch?v=lpoOsKyAEZc).**
+**Video overview by Georgia Ardouin on [The test of Novelty in patent law](https://www.youtube.com/watch?v=lpoOsKyAEZc).**
 
-**Video overview by Jess Smith on [Novelty](https:_www.youtube.com/watch?v=K5mZI8syVcA).**
+**Video overview by Jess Smith on [Novelty](https://www.youtube.com/watch?v=K5mZI8syVcA).**
 
 The concepts of priority date and prior art base will be considered in turn.  
 
@@ -251,7 +251,7 @@ Historically, the prior art base was confined to documents and acts that were ma
 [^AUTOREPLACEDPatentsAct1952CthENDREPLACE]:  _Patents Act 1952_ Cth
 
 
-**Video overview by Tracey Bryan on [Prior Art Base](https:_www.youtube.com/watch?v=QaJdiagcO_o).**
+**Video overview by Tracey Bryan on [Prior Art Base](https://www.youtube.com/watch?v=QaJdiagcO_o).**
 
 One of the key ways to determine if a patent has been anticipated by content within the prior art base is to apply the reverse infringement test. The reverse infringement test was established in _Meyers Taylor Pty Ltd v Vicarr Industries Ltd_. [^AUTOREPLACED1977137CLR228ENDREPLACE]
 [^AUTOREPLACED1977137CLR228ENDREPLACE]:  (1977) 137 CLR 228
@@ -271,7 +271,7 @@ An inventor who discloses his/her invention to the public before the priority da
 [^AUTOREPLACEDPAs24ENDREPLACE]: _PA_ s 24
 
 
-**Video overview by Jacob Corbett on[Novelty in patents and the reverse infringement test](https:_www.youtube.com/watch?v=KdTOAoZmveg).**
+**Video overview by Jacob Corbett on[Novelty in patents and the reverse infringement test](https://www.youtube.com/watch?v=KdTOAoZmveg).**
 
 ### Disregarding Certain Types of Public Information
 
@@ -296,9 +296,9 @@ The specifics relating to this provision can be found in the _Patents Regulation
 ## Requirement 3: Inventive step (Standard Patents) or Innovative Step (Innovation Patents)
 An applicant can choose to apply for either a Standard Patent or an Innovation Patent.
 
-**Video overview by Marcus de Witt-Ryall on [Innovative vs Inventive steps](https:_www.youtube.com/watch?v=m781AZkfQdM?small).**
+**Video overview by Marcus de Witt-Ryall on [Innovative vs Inventive steps](https://www.youtube.com/watch?v=m781AZkfQdM?small).**
 
-**Video overview by Rebecca Mync on [Inventive Step vs Innovative Step](https:_www.youtube.com/watch?v=UUi0f_H5Kao).**  
+**Video overview by Rebecca Mync on [Inventive Step vs Innovative Step](https://www.youtube.com/watch?v=UUi0f_H5Kao).**  
 
 ### Inventive Step
 
@@ -311,9 +311,9 @@ According to ss 18(1)(b)(ii) and 7(2) of the _Act_, there will be an inventive s
 [^AUTOREPLACEDMeyersTaylorPtyLtdvVicarrIndustriesLtd1977137CLR28249AickenJENDREPLACE]: Meyers Taylor Pty Ltd v Vicarr Industries Ltd (1977) 137 CLR 28, 249 (Aicken J
 
 
-**Video overview by Shiva Abassi  on[Inventive Step](https:_www.youtube.com/watch?v=Pvi38hb98hY).**
+**Video overview by Shiva Abassi  on[Inventive Step](https://www.youtube.com/watch?v=Pvi38hb98hY).**
 
-**Video overview by Emily Sakzewski on[Inventive Step](https:_www.youtube.com/watch?v=3fdADIrxx6Q).**
+**Video overview by Emily Sakzewski on[Inventive Step](https://www.youtube.com/watch?v=3fdADIrxx6Q).**
 
 A 'person skilled in the relevant art' is a hypothetical “non-inventive” person who possesses “ordinary skill” who works in the art or science of the invention. [^AUTOREPLACEDHLundbeckASvAlphapharmPtyLtd2009177FCR151190173perBennettJENDREPLACE] This can be a team of researchers. [^AUTOREPLACEDAktiebolagetHsslevAlphapharmPty2002212CLR41142630ENDREPLACE]
 [^AUTOREPLACEDHLundbeckASvAlphapharmPtyLtd2009177FCR151190173perBennettJENDREPLACE]: H Lundbeck A/S v Alphapharm Pty Ltd (2009) 177 FCR 151, 190, [173] per Bennett J
@@ -321,8 +321,8 @@ A 'person skilled in the relevant art' is a hypothetical “non-inventive” per
 [^AUTOREPLACEDAktiebolagetHsslevAlphapharmPty2002212CLR41142630ENDREPLACE]: Aktiebolaget Hässle v Alphapharm Pty (2002) 212 CLR 411, 426 [30]
 
 
-**Video overview by Carrick Brough on[A person skilled in the art](https:_www.youtube.com/watch?v=ViORhY1J6Z4).**
-**Video overview by Nathan Dowrick on[A person skilled in the art](https:_www.youtube.com/watch?v=s1ER6lusqV0).**
+**Video overview by Carrick Brough on[A person skilled in the art](https://www.youtube.com/watch?v=ViORhY1J6Z4).**
+**Video overview by Nathan Dowrick on[A person skilled in the art](https://www.youtube.com/watch?v=s1ER6lusqV0).**
 
 Common general knowledge is the body of knowledge known or used by all those in the relevant trade, which forms the background knowledge and experience of those working in that field. Not simply information that could be found – must be information that is generally accepted and assimilated by the relevant technical community. It is the knowledge the person skilled in the relevant art has in the back of their mind when considering whether the invention is not obvious. [^AUTOREPLACEDMinnesotaMiningManufacturingCoand3MAustraliaPtyLtdvBeiersdorf198029ALR29ENDREPLACE]
 [^AUTOREPLACEDMinnesotaMiningManufacturingCoand3MAustraliaPtyLtdvBeiersdorf198029ALR29ENDREPLACE]: _Minnesota Mining & Manufacturing Co and 3M Australia Pty Ltd v Beiersdorf (1980)_ 29 ALR 29
@@ -344,7 +344,7 @@ Facts: Concerned improved flexible roadside posts. Utilised sheet spring steel t
 
 The question of whether an invention makes a substantial contribution as claimed has not been explained in greater detail. It is a factual enquiry that requires the perspective of a person skilled in the art having regard to relevant common general knowledge. It is decided on a case by case basis.
 
-**Video overview by Daniel G on [Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd](https:_www.youtube.com/watch?v=1h4P4FvVCw8?small).**
+**Video overview by Daniel G on [Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd](https://www.youtube.com/watch?v=1h4P4FvVCw8?small).**
 
 ## Requirement 4: Usefulness
 
@@ -375,7 +375,7 @@ Secret use and public use are mutually exclusive - i.e. secret use will not affe
 [^AUTOREPLACEDAzukoPtyLtdvOldDiggerPtyLtd200152IPR75ENDREPLACE]: _Azuko Pty Ltd v Old Digger Pty Ltd_ (2001) 52 IPR 75
 
 
-**Video overview by Zoe Busch on[Secret Use](https:_www.youtube.com/watch?v=1tWUkFVaW58).**
+**Video overview by Zoe Busch on[Secret Use](https://www.youtube.com/watch?v=1tWUkFVaW58).**
 
 Pursuant to s 9 of the _Act_ the following acts are not considered to be secret use of the invention:
 
@@ -394,10 +394,10 @@ __*Azuko Pty Ltd v Old Digger Pty Ltd* (2001) 52 IPR 75__
 * Facts: Concerned a hammer used in mining for exploratory drilling. A friend of the inventor, who had tested the hammers inventor, ordered a number from the inventor. However, the inventor had not accepted the order. It also decided that the manufacture of 15 to 20 hammers was reasonable in order to conduct trials to determine their commercial viability.
 * Held Has the patentee obtained a commercial benefit before the priority date? One instance is sufficient, no matter how close to the priority date it occurs. Rationale: Prevents a patentee gaining a longer monopoly than the statutory period. Production of 15 – 20 hammers in condition for commercial sale and order having been received for 5-6 cannot be considered a matter of trial and experiment, this indicates trial and experiment had been concluded earlier and commercial product had commenced since.  Lack of evidence as to any trials or experiments on hammers, so inference drawn is that this wasn’t occurring.
 
-**Video overview by Sam D'Arro on[Secret use in Azuko Pty Ltd v Old Differ](https:_www.youtube.com/watch?v=fmxgvofZOks?small).**
+**Video overview by Sam D'Arro on[Secret use in Azuko Pty Ltd v Old Differ](https://www.youtube.com/watch?v=fmxgvofZOks?small).**
 
 
-**Video overview by Diana Chiknaikin on [Azuko Pty Ltd v Old Digger](https:_www.youtube.com/watch?v=6kMRDqoBBqU?small).**
+**Video overview by Diana Chiknaikin on [Azuko Pty Ltd v Old Digger](https://www.youtube.com/watch?v=6kMRDqoBBqU?small).**
 
 
 
@@ -524,9 +524,9 @@ The patent application process is complicated and involves many steps which are 
 [^AUTOREPLACEDPAs121ENDREPLACE]: _PA_ s 121
 
 
-For more information see[IP Australia’s Patent Application Guide](https:_www.ipaustralia.gov.au/sites/g/files/net856/f/patent_application_guide.pdf)
+For more information see[IP Australia’s Patent Application Guide](https://www.ipaustralia.gov.au/sites/g/files/net856/f/patent_application_guide.pdf)
 
-**Video by Kimberley Dorrian on [How to Obtain a Standard Patent](https:_goanimate.com/videos/0f_ER1g2iPds?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent).**
+**Video by Kimberley Dorrian on [How to Obtain a Standard Patent](https://goanimate.com/videos/0f_ER1g2iPds?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent).**
 
 ### Innovation Patent
 Only a formalities check is conducted prior to grant of the patent. [^AUTOREPLACEDPAs52ENDREPLACE] The patentee must comply with the specification disclosure requirements in s 40. The patent can only be enforced once it is certified, which requires a substantive examination. [^AUTOREPLACEDPAs101EENDREPLACE] If an innovation patent is examined and found to be invalid, it is revoked. [^AUTOREPLACEDPAs138ENDREPLACE]
@@ -539,7 +539,7 @@ Only a formalities check is conducted prior to grant of the patent. [^AUTOREPLAC
 
 ## Ownership: employees and employers
 
-**Video overview by Matthew Egerton-Vernon on [When an Employer Will Own The Invention of an Employee](https:_www.youtube.com/watch?v=aLZLfS2vHRs).**
+**Video overview by Matthew Egerton-Vernon on [When an Employer Will Own The Invention of an Employee](https://www.youtube.com/watch?v=aLZLfS2vHRs).**
 
 ## Converting Patent Applications
 
@@ -576,4 +576,4 @@ If a patentee wants to extend the protection of their invention outside of Austr
 
 The _PCT_ facilitates the filing of a patent application in a number of countries simultaneously, however the result is still multiple patent applications in multiple countries. A _PCT_ application is subject the examination processes and standards of each of the countries. The _PCT_ allows applicants to file one application for many countries. This is one single application, which split into multiple applications for each jurisdiction. Filing in this way may create a priority date. This can be used in conjunction with national applications. E.g. might file _PCT_ for inventions in 3 countries and a national application in Australia – Paris Convention makes this possible. The _PCT_ makes the process of applying for patents in multiple countries easier.
 
-For more information see [WIPO Patent Cooperation Treaty Applicant’s Guide](http:_www.wipo.int/pct/en/appguide/index.jsp)
+For more information see [WIPO Patent Cooperation Treaty Applicant’s Guide](http://www.wipo.int/pct/en/appguide/index.jsp)

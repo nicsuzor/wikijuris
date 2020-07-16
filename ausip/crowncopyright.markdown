@@ -5,7 +5,7 @@ nav_order: 25
 parent: copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/crowncopyright.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/crowncopyright.markdown){: .btn .btn-outline }
 
 
 
@@ -16,7 +16,7 @@ grand_parent: Australian IP Law
 1. Table of Contents
 {:toc}
 
-Video overview by Kylie Pappalardo on [crown copyright](https:_www.youtube.com/watch?v=EqxyEZwLGUI).
+Video overview by Kylie Pappalardo on [crown copyright](https://www.youtube.com/watch?v=EqxyEZwLGUI).
 
 The term "crown copyright" refers to Government (or "Crown") owned copyrights. These include:
 

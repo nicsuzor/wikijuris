@@ -4,7 +4,7 @@ title: Intermediary Liability for Copyright
 nav_order: 50
 parent: Governing the Internet
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_copyright.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_copyright.markdown){: .btn .btn-outline }
 
 # Intermediary Liability for Copyright
 {: .no_toc }
@@ -18,15 +18,15 @@ In this Chapter, we will focus on the liability of online intermediaries for the
 
 ## Copyright Authorisation (the Australian Position)
 
-**Video Overview by [Kylie Pappalardo](https:_www.youtube.com/watch?v=qIIVG11mF5s)**
+**Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=qIIVG11mF5s)**
 
-Sections [http:_www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s36.html](36(1) and [http:_www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s101.html](101(1)) of the Copyright Act 1968 provide that copyright is infringed “by a person who, not being the owner of the copyright, and without the licence of the owner of the copyright, does in Australia, **or authorizes the doing in Australia of**, any act comprised in copyright”.
+Sections [http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s36.html](36(1) and [http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s101.html](101(1)) of the Copyright Act 1968 provide that copyright is infringed “by a person who, not being the owner of the copyright, and without the licence of the owner of the copyright, does in Australia, **or authorizes the doing in Australia of**, any act comprised in copyright”.
 
 It is this idea of authorising someone else to commit copyright infringement that is at the heart of intermediary liability for copyright infringement in Australia. This is the part of the copyright law that potentially applies to ISPs, website hosts, and other internet intermediaries. This doctrine is called “authorisation liability”.
 
 ### University of New South Wales v Moorhouse
 
-One of the leading authorisation case in Australia is University of New South Wales v Moorhouse [http:_www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse]((1975) 6 ALR 193) (“Moorhouse”). It provides the modern foundation for the authorisation doctrine in Australia.
+One of the leading authorisation case in Australia is University of New South Wales v Moorhouse [http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse]((1975) 6 ALR 193) (“Moorhouse”). It provides the modern foundation for the authorisation doctrine in Australia.
 
 In that case, the Australian Copyright Council arranged for a graduate of the University of New South Wales (UNSW) to photocopy an infringing portion of a book by Frank Moorhouse entitled, The Americans, Baby, on a photocopier in the UNSW library. It then brought a test case against UNSW, claiming that UNSW had authorised the infringing reproduction by making photocopying machines available in its library without exercising supervision over how the machines were used and without displaying proper notices as to copyright exceptions and limitations. The High Court unanimously held that UNSW was liable for authorising infringement.
 
@@ -38,7 +38,7 @@ Two separate bases for finding authorisation were advanced:
 
 In the ensuing years, the most influential judgment proved to be that of Justice Gibbs. In particular, His Honour’s statement: [^AUTOREPLACEDUniversityofNewSouthWalesvMoorhousehttpwwwaustliieduaucgibinsinodispaucasescthHCA197526htmlstem0synonyms0queryUniversity20Moorhouse19756ALR193200GibbsJAUTOREPLACED]
 
-[^AUTOREPLACEDUniversityofNewSouthWalesvMoorhousehttpwwwaustliieduaucgibinsinodispaucasescthHCA197526htmlstem0synonyms0queryUniversity20Moorhouse19756ALR193200GibbsJAUTOREPLACED]: University of New South Wales v Moorhouse [http:_www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse]((1975) 6 ALR 193), 200 (Gibbs J).
+[^AUTOREPLACEDUniversityofNewSouthWalesvMoorhousehttpwwwaustliieduaucgibinsinodispaucasescthHCA197526htmlstem0synonyms0queryUniversity20Moorhouse19756ALR193200GibbsJAUTOREPLACED]: University of New South Wales v Moorhouse [http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse]((1975) 6 ALR 193), 200 (Gibbs J).
 
 
 
@@ -47,7 +47,7 @@ In the ensuing years, the most influential judgment proved to be that of Justice
 
 ### Legislative Amendments: Codification of the Moorhouse Test
 
-**Madeline Urmoneit [explains what 'authorise' means in Australian copyright law](https:_www.youtube.com/watch?v=u5fvVruam_4)**
+**Madeline Urmoneit [explains what 'authorise' means in Australian copyright law](https://www.youtube.com/watch?v=u5fvVruam_4)**
 
 In the year 2000, the Copyright Amendment (Digital Agenda) Act inserted the following subsection into sections 36 and 101 of the Copyright Act:
 
@@ -63,19 +63,19 @@ In the year 2000, the Copyright Amendment (Digital Agenda) Act inserted the foll
 
 This subsection was designed to codify the principles set out in Justice Gibb’s statement in Moorhouse, extracted above. The legislative amendments were intended to promote certainty within the law for the communication and IT industries that provided online access to copyright material.[^AUTOREPLACEDCopyrightAmendmentDigitalAgendaAct2000Cths3TheParliamentoftheCommonwealthofAustraliaHouseofRepresentativesCopyrightAmendmentDigitalAgendaBill1999ExplanatoryMemorandumOutlinehttpwwwcomlawgovauDetailsC2004B00540Explanatory20MemorandumTextAUTOREPLACED]
 
-[^AUTOREPLACEDCopyrightAmendmentDigitalAgendaAct2000Cths3TheParliamentoftheCommonwealthofAustraliaHouseofRepresentativesCopyrightAmendmentDigitalAgendaBill1999ExplanatoryMemorandumOutlinehttpwwwcomlawgovauDetailsC2004B00540Explanatory20MemorandumTextAUTOREPLACED]: Copyright Amendment (Digital Agenda) Act 2000 (Cth), s. 3; The Parliament of the Commonwealth of Australia, House of Representatives, Copyright Amendment (Digital Agenda) Bill 1999, Explanatory Memorandum, Outline, http:_www.comlaw.gov.au/Details/C2004B00540/Explanatory%20Memorandum/Text.
+[^AUTOREPLACEDCopyrightAmendmentDigitalAgendaAct2000Cths3TheParliamentoftheCommonwealthofAustraliaHouseofRepresentativesCopyrightAmendmentDigitalAgendaBill1999ExplanatoryMemorandumOutlinehttpwwwcomlawgovauDetailsC2004B00540Explanatory20MemorandumTextAUTOREPLACED]: Copyright Amendment (Digital Agenda) Act 2000 (Cth), s. 3; The Parliament of the Commonwealth of Australia, House of Representatives, Copyright Amendment (Digital Agenda) Bill 1999, Explanatory Memorandum, Outline, http://www.comlaw.gov.au/Details/C2004B00540/Explanatory%20Memorandum/Text.
 
 
 
 ### Section 115A
 
-**Video Overview by [Kylie Pappalardo](https:_www.youtube.com/watch?v=3hWe0YJ_hds)**
+**Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=3hWe0YJ_hds)**
 
 Section [$1]($2) of the _Copyright Act 1968_ (Cth) was inserted by a 2015 amendment to the Copyright Act. The section enables a copyright owner to obtain an injunction to require a carriage service provider to take reasonable steps to block user access to infringing material hosted online from a location outside Australia.
 
 ### Mere Conduits
 
-It is also useful to be aware of sections [39B](http:_www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s39b.html) and [112E](http:_www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s112e.html) of the _Copyright Act 1968_ (Cth). These are known as the 'mere conduit' provision. They ensure that “A person (including a carrier or carriage service provider) who provides facilities for making, or facilitating the making of, a communication is not taken to have authorised any infringement of copyright ... merely because another person uses the facilities so provided to do something the right to do which is included in the copyright.” So, an important question for our purposes is when an online intermediary will be held to do more than 'merely' provide facilities.
+It is also useful to be aware of sections [39B](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s39b.html) and [112E](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s112e.html) of the _Copyright Act 1968_ (Cth). These are known as the 'mere conduit' provision. They ensure that “A person (including a carrier or carriage service provider) who provides facilities for making, or facilitating the making of, a communication is not taken to have authorised any infringement of copyright ... merely because another person uses the facilities so provided to do something the right to do which is included in the copyright.” So, an important question for our purposes is when an online intermediary will be held to do more than 'merely' provide facilities.
 
 ## The Digital Agenda Cases
 
@@ -89,7 +89,7 @@ The court found for the applicants. Justice Wilcox held that at all material tim
 
 **Power to Prevent**
 
-**Video Overview by [Kylie Pappalardo](https:_www.youtube.com/watch?v=ObnKHnP4194)**
+**Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=ObnKHnP4194)**
 
 A key factor in finding liability was Sharman’s perceived power to control or prevent infringement via filtering and other technological controls. This was a contentious factual issue in the case, because the respondents presented evidence – cautiously accepted by the court – that there was no Kazaa ‘central server’ through which Sharman could exercise substantial control over users’ activities to prevent the sharing of copyright files. Consequently, much of the judgment focused on expert testimony as to whether Sharman could effectively implement a filter, in the absence of a central server, to prevent the display files with metadata that matched the particulars of sound recordings listed in the applicants’ catalogues.
 
@@ -111,7 +111,7 @@ The court found that Sharman had not taken any reasonable steps to prevent infri
 
 ### Cooper v Universal Music Australia Pty Ltd (2006) 237 ALR 714 (“Cooper”)
 
-**Video Overview of Cooper v Universal by [Ed Green](https:_www.youtube.com/watch?v=6VDB6P3GedA)**
+**Video Overview of Cooper v Universal by [Ed Green](https://www.youtube.com/watch?v=6VDB6P3GedA)**
 
 The defendant ran a website, ‘MP3s4FREE’, which contained a list of hyperlinks that directed users to other websites where they could download infringing music files. Visitors would submit links to music files through an automated form and Cooper exercised no editorial control over the links. In this case, the court was influenced by evidence that the defendant deliberately designed his website to facilitate the infringing downloading of sound recordings.
 
@@ -123,7 +123,7 @@ The appellants attempted to rely on the s 112E exception to the s 101(1). Howeve
 
 ## The Intervening Years: BitTorrent
 
-**Video Overviews of BitTorrent by [Lindsay Mengel](https:_www.youtube.com/watch?v=o2Lxvx8PzJ0)** and **[Jordan Bell](https:_www.youtube.com/watch?v=MMnsBJeb0IQ)**
+**Video Overviews of BitTorrent by [Lindsay Mengel](https://www.youtube.com/watch?v=o2Lxvx8PzJ0)** and **[Jordan Bell](https://www.youtube.com/watch?v=MMnsBJeb0IQ)**
 
 Technology developers responded to the legal requirement that no central party should oversee, control, or even know about infringing filesharing. Most relevantly, Bram Cohen developed the BitTorrent filesharing protocol. BitTorrent still relied on a central index  'tracker', but trackers could easily be set up by any interested party. An uploader ('seed') of content creates a small index file that lists all of the pieces of the content and lists the address of the tracker, which coordinates the swarm. The seed begins to distribute pieces of the content to computers in the swarm. Each peer downloading the content (usually) simultaneously makes the pieces it receives available to other clients in the swarm.
 
@@ -139,9 +139,9 @@ The protocol and the clients that implement it also are general-purpose with sub
 
 ### Roadshow Films v iiNet
 
-**Video Overview of Roadshow Films v iiNet by [Kylie Pappalardo](https:_www.youtube.com/watch?v=FeQqRwQVoi4)**
+**Video Overview of Roadshow Films v iiNet by [Kylie Pappalardo](https://www.youtube.com/watch?v=FeQqRwQVoi4)**
 
-_Roadshow v iiNet_ [[2012] HCA 16](http:_www.austlii.edu.au/au/cases/cth/HCA/2012/16.html) involved an appeal from the Full Federal Court of Australia on the issue of whether iiNet, an ISP, authorised its customers’ infringing acts of communicating films owned by the appellants over a BitTorrent file sharing system.
+_Roadshow v iiNet_ [[2012] HCA 16](http://www.austlii.edu.au/au/cases/cth/HCA/2012/16.html) involved an appeal from the Full Federal Court of Australia on the issue of whether iiNet, an ISP, authorised its customers’ infringing acts of communicating films owned by the appellants over a BitTorrent file sharing system.
 
 The Full Federal Court had found for iiNet (Jagott J dissenting) on the issue of authorisation, but all members of the Full Court had found that iiNet was not entitled to the benefit of the safe harbour provisions in the Copyright Act. iiNet did not appeal the findings in relation to the safe harbour provisions.
 
@@ -208,7 +208,7 @@ Justices Gummow and Hayne dismissed the appeal. They concluded:
 
 ### Dallas Buyers Club v iiNet
 
-**Video Overviews of Dallas Buyers Club v iiNet by [Kylie Pappalardo](https:_www.youtube.com/watch?v=BbGBSrbd1AY)** and **[Lachlan McCormick](https:_www.youtube.com/watch?v=FrCJRnxiPHw)**
+**Video Overviews of Dallas Buyers Club v iiNet by [Kylie Pappalardo](https://www.youtube.com/watch?v=BbGBSrbd1AY)** and **[Lachlan McCormick](https://www.youtube.com/watch?v=FrCJRnxiPHw)**
 
 The Dallas Buyers Club series of cases in 2015 concerned an application for a preliminary discovery order by Dallas Buyers Club LLC and its parent company, Voltage Pictures LLC,  under the Federal Court Rules 2011 (Cth) r 7.22.
 
@@ -224,7 +224,7 @@ In the Dallas Buyers Club judgment, Justice Perram followed the approach taken b
 
 Later in the series of Dallas Buyers Club decisions,[^AUTOREPLACEDDallasBuyersClubviiNetNo42015FCA838httpwwwaustliieduaucgibinsinodispaucasescthFCA2015838htmlstem0synonyms0querydallas20buyers20clubnocontext1AUTOREPLACED] Dallas Buyers Club LLC submitted to the court a number of draft correspondence to be sent to relevant account holders.
 
-[^AUTOREPLACEDDallasBuyersClubviiNetNo42015FCA838httpwwwaustliieduaucgibinsinodispaucasescthFCA2015838htmlstem0synonyms0querydallas20buyers20clubnocontext1AUTOREPLACED]: Dallas Buyers Club v iiNet (No 4) [2015] FCA 838 http:_www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FCA/2015/838.html?stem=0&synonyms=0&query=dallas%20buyers%20club&nocontext=1
+[^AUTOREPLACEDDallasBuyersClubviiNetNo42015FCA838httpwwwaustliieduaucgibinsinodispaucasescthFCA2015838htmlstem0synonyms0querydallas20buyers20clubnocontext1AUTOREPLACED]: Dallas Buyers Club v iiNet (No 4) [2015] FCA 838 http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FCA/2015/838.html?stem=0&synonyms=0&query=dallas%20buyers%20club&nocontext=1
 
 
 
@@ -244,7 +244,7 @@ DBC failed to provide a letter limited to the heads of damage under (a) and (d) 
 
 ## Intermediary Copyright Liability – The US Position
 
-**Video Overview of the US Position by [Kylie Pappalardo](https:_www.youtube.com/watch?v=G-jD1WDw_34)**
+**Video Overview of the US Position by [Kylie Pappalardo](https://www.youtube.com/watch?v=G-jD1WDw_34)**
 
 ### US Doctrine
 
@@ -260,7 +260,7 @@ A new head of liability, called **inducement**, was developed in the Grokster ca
 
 #### Sony Corp. of America v. Universal City Studios, Inc. 464 U.S. 417 (1984)
 
-**[Video explaining the 'Sony rule'](https:_www.youtube.com/watch?v=8M04ISrQZq8) by by Tamara Moretto**
+**[Video explaining the 'Sony rule'](https://www.youtube.com/watch?v=8M04ISrQZq8) by by Tamara Moretto**
 
 In 1984, the United States Supreme Court decided the landmark case of Sony Corp. of America v. Universal City Studios, Inc. (Sony). Sony manufactured the Betamax VCR, which some consumers used to record television programs broadcast over the public television airwaves. Respondents, who owned copyright in some of these programs, argued that Sony was indirectly liable for the copyright infringement of these consumers because Sony marketed and sold the means of infringement – the Betamax – to them.  
 
@@ -282,7 +282,7 @@ Online intermediaries can continue to benefit from the Sony rule if:
 
 #### A & M Records, Inc. v. Napster, Inc. 239 F. 3d 1004 (9th Cir. 2001) ("Napster")
 
-**Video Overview of the Naspter Decision by [Evan Price](https:_www.youtube.com/watch?v=S2kLe-sqKj4)**
+**Video Overview of the Naspter Decision by [Evan Price](https://www.youtube.com/watch?v=S2kLe-sqKj4)**
 
 The question of how the Sony rule would apply to the sharing of content over computer systems was addressed in A & M Records, Inc. v. Napster, Inc., which concerned a p2p music file sharing system.  
 
@@ -321,7 +321,7 @@ Grokster, StreamCast, and Kazaa were better designed:
 
 #### MGM Studios Inc., v. Grokster Ltd. 545 U.S. 913 (2005)
 
-**[Overview of the Grokster Case](https:_www.youtube.com/watch?v=TZVFGDJEhZ4) by Joe Sherman**
+**[Overview of the Grokster Case](https://www.youtube.com/watch?v=TZVFGDJEhZ4) by Joe Sherman**
 
 The Sony rule was narrowed somewhat in the 2005 decision, Metro-Goldwyn-Mayer Studios Inc., v. Grokster Ltd. (Grokster), another p2p file-sharing case.  
 
@@ -343,7 +343,7 @@ The court set aside the summary judgment and remanded the case to trial. Grokste
 
 ## Direct Infringement by Intermediaries
 
-**Video Overview by [Kylie Pappalardo](https:_www.youtube.com/watch?v=Nr3Mjik4960)**
+**Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=Nr3Mjik4960)**
 
 As services on the internet evolve, we are increasingly facing a new type of copyright liability question. What happens when the intermediary performs the infringing act on behalf of users? For example, cloud computing services make copies of items that users upload in order to store them (think about Dropbox).
 
@@ -357,21 +357,21 @@ In De Garis v Neville Jeffress Pidler Pty Ltd (1990) 18 IPR 292, the respondent,
 
 ### NRL v Singtel Optus - Optus TV Now
 
-**Video Overview on NRL v Optus by [Andrew Dawson](https:_www.youtube.com/watch?v=p37z_7di9Nc)**
+**Video Overview on NRL v Optus by [Andrew Dawson](https://www.youtube.com/watch?v=p37z_7di9Nc)**
 
 In NRL v Singtel Optus, NRL owned copyright in broadcasts of sporting fixtures displayed by Optus’ “TV Now” subscription service. The TV Now service copied and stored a television broadcast selected by a subscriber, after the subscriber clicked the “record” button on the subscriber’s Optus compatible device, to be played back at other times (“time-shifting” – minimum delay of 2 minutes). NRL alleged copyright infringement as their television broadcast copied included film and sound recording. The issue to be decided was who the maker of the recording was. HELD, Optus’s role in capturing the broadcast and then in embodying its images and sounds in the hard disk is so pervasive that, even though entirely automated, it cannot be disregarded when the “person” who does the act of copying is to be identified. Without the effort of both parties, the recording could not be made and thus both parties are liable. Optus cannot rely on the “private and domestic use” defence of s 111 as “there is nothing in the language, or the provenance, of s 111 to suggest that it was intended to cover commercial copying on behalf of individuals.”See Federal Court summary,[^AUTOREPLACEDhttpwwwafrcomrw20092014AFR20120201Photos25b9aa844c9011e186ca960b8e9ad70e_optuspdfAUTOREPLACED] and appeal.[^AUTOREPLACEDFullFederalCourtjudgementhttpwwwafrcomrw20092014AFR20120427Photos861c3906900011e189e302af79055de5_NRL20and20AFL20v20SingTel20Optus20FINALpdfAUTOREPLACED]
 
-[^AUTOREPLACEDhttpwwwafrcomrw20092014AFR20120201Photos25b9aa844c9011e186ca960b8e9ad70e_optuspdfAUTOREPLACED]: http:_www.afr.com/rw/2009-2014/AFR/2012/02/01/Photos/25b9aa84-4c90-11e1-86ca-960b8e9ad70e_optus.pdf
+[^AUTOREPLACEDhttpwwwafrcomrw20092014AFR20120201Photos25b9aa844c9011e186ca960b8e9ad70e_optuspdfAUTOREPLACED]: http://www.afr.com/rw/2009-2014/AFR/2012/02/01/Photos/25b9aa84-4c90-11e1-86ca-960b8e9ad70e_optus.pdf
 
 
 
-[^AUTOREPLACEDFullFederalCourtjudgementhttpwwwafrcomrw20092014AFR20120427Photos861c3906900011e189e302af79055de5_NRL20and20AFL20v20SingTel20Optus20FINALpdfAUTOREPLACED]: Full Federal Court judgement, http:_www.afr.com/rw/2009-2014/AFR/2012/04/27/Photos/861c3906-9000-11e1-89e3-02af79055de5_NRL%20and%20AFL%20v%20SingTel%20Optus%20FINAL.pdf
+[^AUTOREPLACEDFullFederalCourtjudgementhttpwwwafrcomrw20092014AFR20120427Photos861c3906900011e189e302af79055de5_NRL20and20AFL20v20SingTel20Optus20FINALpdfAUTOREPLACED]: Full Federal Court judgement, http://www.afr.com/rw/2009-2014/AFR/2012/04/27/Photos/861c3906-9000-11e1-89e3-02af79055de5_NRL%20and%20AFL%20v%20SingTel%20Optus%20FINAL.pdf
 
 
 
 ### CCH Canadian Ltd v Law Society of Upper Canada [2004] 1 S.C.R. 339
 
-**Vide Overview of [CCH Canadian v Law Society](https:_www.youtube.com/watch?v=ksuRAKMZ6YE)**
+**Vide Overview of [CCH Canadian v Law Society](https://www.youtube.com/watch?v=ksuRAKMZ6YE)**
 
 In this case, the Supreme Court of Canada had to decide whether the Law Society of Upper Canada, which maintained the Great Library at Osgoode Hall in Toronto, had infringed copyright because it provided a request-based photocopy service for Law Society members, members of the judiciary and other authorised researchers. Under this ‘custom photocopy service’, legal materials were reproduced by library staff and delivered in person, by mail or by facsimile transmission to requesters. Publishers sued the Law Society, alleging copyright infringement.  The Law Society denied liability on the basis that the copies were made for the purpose of research and were therefore covered by the fair dealing defence.
 
@@ -389,7 +389,7 @@ Relevant to the court’s finding was that the library had an access policy whic
 
 ### European Copyright Directive: the 'link tax' (Article 15)
 
-**Video overview by Katherine Karan on the ['Link Tax'](https:_www.youtube.com/watch?v=6xpSsvpuQKU)**
+**Video overview by Katherine Karan on the ['Link Tax'](https://www.youtube.com/watch?v=6xpSsvpuQKU)**
 
 Article 15 (previously known as draft Article 11) provides a new copyright rules to allow news websites to be remunerated for their work when displayed or promoted on large commercial platforms, such as Facebook or Google. This does not affect private or non-commercial users. It is designed to increase compensation to the publishers of news articles.
 

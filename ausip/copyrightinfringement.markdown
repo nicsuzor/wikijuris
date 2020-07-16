@@ -5,7 +5,7 @@ nav_order: 26
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightinfringement.markdown){: .btn .btn-outline }
+[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightinfringement.markdown){: .btn .btn-outline }
 
 
 
@@ -78,7 +78,7 @@ The exclusive rights of copyright holders are set out in the table below:
 
 Unauthorised use of the copyright owner's work may amount to infringement.
 
-**Video overview by Kylie Pappalardo on[Exclusive Rights in Copyright](https:_www.youtube.com/watch?v=--ArNTM5x2g&index=1&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on[Exclusive Rights in Copyright](https://www.youtube.com/watch?v=--ArNTM5x2g&index=1&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
 ## Part III Original works
@@ -129,7 +129,7 @@ The notion of reproduction involves **two elements** [^AUTOREPLACEDSWHartCovEdwa
 
 * 2. **Objective similarity **– there must be a sufficient degree of objective similarity between the plaintiff’s and the defendant’s work (that is, the defendant must have produced a work which closely resembles the plaintiff's work).
 
-**Video overview by Kylie Pappalardo on[Infringement by Reproduction of Works](https:_www.youtube.com/watch?v=byNA3vW7aHE&index=3&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on[Infringement by Reproduction of Works](https://www.youtube.com/watch?v=byNA3vW7aHE&index=3&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
 **Deemed Reproductions**
@@ -182,9 +182,9 @@ In the case of _Francis Day & Hunter v. Bron_ the plaintiff sued alleging the de
 * Held, similarities probably coincidental, and there was no evidence that the defendant had copied or heard the song. The Plaintiff was unable to infer that there was sufficient knowledge and memory for conscious or subconscious copying.
 
 
-**Video overview by Olivia Steele on[Subconscious Copying in _Francis Day & Hunter v Bron_](https:_www.youtube.com/watch?v=38YzweuP6c8).**
+**Video overview by Olivia Steele on[Subconscious Copying in _Francis Day & Hunter v Bron_](https://www.youtube.com/watch?v=38YzweuP6c8).**
 
-**Video overview by John Herbet on[Francis Day & Hunter v Bron](https:_www.youtube.com/watch?v=sPY7xTNV_LQ).**
+**Video overview by John Herbet on[Francis Day & Hunter v Bron](https://www.youtube.com/watch?v=sPY7xTNV_LQ).**
 
 
 
@@ -193,9 +193,9 @@ In the case of _Francis Day & Hunter v. Bron_ the plaintiff sued alleging the de
 The test for reproduction requires both a causal connection and objective similarity. Literal copying of expressive elements is relatively straightforward. The courts have a difficult task in determining whether a copier has taken copyright expression or the underlying unprotected ideas. It is difficult to express a general rule as to when copying of non-literal elements will infringe.
 
 
-**Video overview by Greg Travers on[Objective Similarity](https:_www.youtube.com/watch?v=r3gosX2iBOE).**
+**Video overview by Greg Travers on[Objective Similarity](https://www.youtube.com/watch?v=r3gosX2iBOE).**
 
-**Video overview by Jack Howe on[Originality](https:_www.wevideo.com/hub# media/ci/343207597?timelineId=335936108).**
+**Video overview by Jack Howe on[Originality](https://www.wevideo.com/hub# media/ci/343207597?timelineId=335936108).**
 
 
 
@@ -203,7 +203,7 @@ The test for reproduction requires both a causal connection and objective simila
 [^AUTOREPLACED198246ALR189ENDREPLACE]:  (1982) 46 ALR 189
 
 
-In the case of [Zeccola v Universal City Studios Inc](http:_classic.austlii.edu.au/au/cases/cth/FCA/1982/241.html) Universal owned copyright in film Jaws, screenplay Jaws, and novel Jaws.  Zeccola made a film about man eating sharks called Great White.  Universal sued for copyright infringement.  
+In the case of [Zeccola v Universal City Studios Inc](http://classic.austlii.edu.au/au/cases/cth/FCA/1982/241.html) Universal owned copyright in film Jaws, screenplay Jaws, and novel Jaws.  Zeccola made a film about man eating sharks called Great White.  Universal sued for copyright infringement.  
 
 The court held that Zeccola had not infringed copyright in the "film" as there was no copy of the visual images.
 
@@ -215,7 +215,7 @@ There is no copyright in the central idea: the idea of a shark terrorising a com
 [^AUTOREPLACED200357IPR453ENDREPLACE]:  (2003) 57 IPR 453
 
 
-In the case of [Telstra Corp Ltd v Royal & Sun Alliance Insurance Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/2003/786.html) Shannons car insurance ran a parody advertisement appropriating the format, story, and character of Telstra's Goggomobil advertisements.
+In the case of [Telstra Corp Ltd v Royal & Sun Alliance Insurance Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/2003/786.html) Shannons car insurance ran a parody advertisement appropriating the format, story, and character of Telstra's Goggomobil advertisements.
 
 It was held that there was no infringement of the script or dramatic works.
 
@@ -239,7 +239,7 @@ It was held that Brown had taken ideas, but not expression from HBHG. Therefore,
 [^AUTOREPLACED2011FCAFC47ENDREPLACE]: [2011] FCAFC 47
 
 
-In the case of [EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCAFC/2011/47.html) it was held that the flute riff in Men at Work's song "Down Under" reproduced two bars of the old song “Kookaburra sits in the old gum tree”
+In the case of [EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2011/47.html) it was held that the flute riff in Men at Work's song "Down Under" reproduced two bars of the old song “Kookaburra sits in the old gum tree”
 
 >"There are limited features of similarity between Kookaburra and Down Under in terms of key, harmony, tempo and rhythm. Kookaburra was written in a major key. The relevant bars in the Impugned Recordings appear as part of an overall work in a minor key. The harmony in Kookaburra arises both from its character as a round, and the implied harmonies suggested by casting its melody in a specific key. The versions of Down Under in the Impugned Recordings have a highly distinctive harmony, arising from the voice of Mr Hay, singing very different lyrics, and the mix of instruments. While, as a result, the bars in question in the Impugned Recordings may, in some sense, sound different from Kookaburra, the melody is nevertheless clearly recognisable. Dr Ford described the change in underlying harmony as “a bit like shining a different light" on the relevant melodic phrase. Although, as the primary judge observed, that might differentiate the listener’s impressions of the same notes in the two works, I do not consider that it meaningfully detracts from the objective similarity between the works”. ([90])
 
@@ -256,7 +256,7 @@ There is an exclusive right to publish the work [^AUTOREPLACEDCAss311aiiand311bi
 
 It is not an infringement of the right to republish something that has already been made public. It may however, be an infringement of the reproduction right. It is also an infringement to communicate the work without permission or legal excuse. This will be discussed below in the 'Infringement - Communicate to the Public' section of this chapter.
 
-**Video overview by Kylie Pappalardo on[Direct Infringement](https:_www.youtube.com/watch?v=aIdpYgL-NBc).**
+**Video overview by Kylie Pappalardo on[Direct Infringement](https://www.youtube.com/watch?v=aIdpYgL-NBc).**
 
 
 ### Infringement - Perform the Work in Public
@@ -266,7 +266,7 @@ There is an exclusive right to perform the work in public. [^AUTOREPLACEDs311aii
 
 
 
-**Video overview by Tom Gardner on[Telstra v APRA](https:_www.youtube.com/watch?v=WRUtG398Ygw).**
+**Video overview by Tom Gardner on[Telstra v APRA](https://www.youtube.com/watch?v=WRUtG398Ygw).**
 
 
 ### Infringement - Communicate to the Public
@@ -302,10 +302,10 @@ Where Part IV copyright is concerned, direct infringement is a much more restric
 [^AUTOREPLACEDCBSRecordsAustraliaLtdvTelmakTeleproductsAustPtyLtd19879IPR440ENDREPLACE]: _CBS Records Australia Ltd v Telmak Teleproducts (Aust) Pty Ltd_ (1987) 9 IPR 440
 
 
-**Video overview by Kylie Pappalardo on[Direct infringement of Part IV subject matter](https:_www.youtube.com/watch?v=o6pxhU0nyVg&index=5&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on[Direct infringement of Part IV subject matter](https://www.youtube.com/watch?v=o6pxhU0nyVg&index=5&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
-**Video overview by Thomas Ryan on[The Difference Between 'Copy' and 'Reproduce'](https:_youtu.be/rnFkvgm1f0c).**
+**Video overview by Thomas Ryan on[The Difference Between 'Copy' and 'Reproduce'](https://youtu.be/rnFkvgm1f0c).**
 
 
 
@@ -364,7 +364,7 @@ Australian Video Retailers Association Ltd v Warner Home Video Pty Ltd [^AUTOREP
 [^AUTOREPLACED2001FCA1719ENDREPLACE]: [2001] FCA 1719
 
 
-In the case of [Australian Video Retailers Association Ltd v Warner Video Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/2001/1719.html) Warner Home Video argued that DVD movies are also computer programs. They argued this because there are no commercial rental right in films, but there are in computer programs, [^AUTOREPLACEDSeeCAs30AENDREPLACE]
+In the case of [Australian Video Retailers Association Ltd v Warner Video Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/2001/1719.html) Warner Home Video argued that DVD movies are also computer programs. They argued this because there are no commercial rental right in films, but there are in computer programs, [^AUTOREPLACEDSeeCAs30AENDREPLACE]
 [^AUTOREPLACEDSeeCAs30AENDREPLACE]: See _CA_ s 30A
 
 
@@ -388,7 +388,7 @@ Pursuant to s 87 of the _Act_ television and sound broadcasts are protected. Thi
 [^AUTOREPLACED2002FCAFC146ENDREPLACE]: [2002] FCAFC 146
 
 
-In the case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCAFC/2002/146.html) Ten’s show broadcast clips taken from other networks.  Nine sued under right to re-broadcast.
+In the case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2002/146.html) Ten’s show broadcast clips taken from other networks.  Nine sued under right to re-broadcast.
 
 The Full Federal Court held that any unauthorised rebroadcasting of a broadcast would be an infringement of copyright (subject to any defence of fair dealing that Ten might have had).
 
@@ -415,7 +415,7 @@ An infringing act need not be done in relation to the whole of the work or other
 [^AUTOREPLACEDCAs141ENDREPLACE]: _CA_ s 14(1)
 
 
-**Video overview by Kylie Pappalardo on [Substantial Part](https:_www.youtube.com/watch?v=IPoiwAbGCr8&index=6&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on [Substantial Part](https://www.youtube.com/watch?v=IPoiwAbGCr8&index=6&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 "Substantial" is a question of fact to be determined in the circumstances – requires a consideration of the quality of the work taken in relation to the work as a whole.
 
@@ -446,7 +446,7 @@ Substantial part is assessed in respect to the work as a whole [^AUTOREPLACEDLad
 [^AUTOREPLACED2009HCA1422April2009ENDREPLACE]: [2009] HCA 14 (22 April 2009)
 
 
-In the High Court Case of [IceTV Pty Limited v Nine Network Australia Pty Limited](http:_classic.austlii.edu.au/au/cases/cth/HCA/2009/14.html) Channel 9 created a Weekly Schedule of television programmes to be broadcast each week. They alleged that each Weekly Schedule was a compilation, and therefore a literary work under the* Copyright Act 1968*, and that IceTV had infringed copyright by taking part of the time and title information from the Aggregated Guides (guides produced by third party Aggregators, authorised by Nine and to whom Nine provides the Weekly Schedule) and including it in their own (electronic) guide, the "IceGuide". Nine alleged that this constituted a reproduction of a substantial part of the copyright work. IceTV denied that they had reproduced in a material form a substantial part of any Weekly Schedule and denied that reproduction from any Aggregated Guide was a reproduction of any Weekly Schedule.
+In the High Court Case of [IceTV Pty Limited v Nine Network Australia Pty Limited](http://classic.austlii.edu.au/au/cases/cth/HCA/2009/14.html) Channel 9 created a Weekly Schedule of television programmes to be broadcast each week. They alleged that each Weekly Schedule was a compilation, and therefore a literary work under the* Copyright Act 1968*, and that IceTV had infringed copyright by taking part of the time and title information from the Aggregated Guides (guides produced by third party Aggregators, authorised by Nine and to whom Nine provides the Weekly Schedule) and including it in their own (electronic) guide, the "IceGuide". Nine alleged that this constituted a reproduction of a substantial part of the copyright work. IceTV denied that they had reproduced in a material form a substantial part of any Weekly Schedule and denied that reproduction from any Aggregated Guide was a reproduction of any Weekly Schedule.
 
 "... in order to assess whether material copied is a substantial part of an original literary work, it is necessary to consider not only the extent of what is copied:** the quality of what is copied is critical**". (French CJ, Crennan and Kiefel JJ)
 
@@ -516,7 +516,7 @@ The main forms of indirect infringement involve infringing copies. These include
 [^AUTOREPLACEDCAss38and103ENDREPLACE]: _CA_ ss 38 and 103
 
 
-**Video overview by Kylie Pappalardo on [Indirect Infringement of Copyright](https:_www.youtube.com/watch?v=7NJZYUKQ4MI&index=7&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on [Indirect Infringement of Copyright](https://www.youtube.com/watch?v=7NJZYUKQ4MI&index=7&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
 As a general rule it is necessary to establish that a defendant knew or ought to have reasonably known that the article in which they were dealing had been made in breach of copyright, or in the case of an imported article, that it would have been an infringing copy if it had been made in Australia by the importer. [^AUTOREPLACEDRabenFootwearPtyLtdvPolygramRecordsInc1997FCA370ENDREPLACE]
@@ -558,7 +558,7 @@ Held, the importing company had infringed the applicant’s copyright - managing
 
 Parallel importation is where an overseas supplier who has legally acquired copies of the works, imports these works into Australia without a license of the copyright holder.  
 
-**Video overview by Jordan Gregory on[Section 44C and Parallel Importation](https:_www.youtube.com/watch?v=5NtqSfnjTxc).**
+**Video overview by Jordan Gregory on[Section 44C and Parallel Importation](https://www.youtube.com/watch?v=5NtqSfnjTxc).**
 
 However, parallel importation of books is now allowed in certain circumstances.[^AUTOREPLACEDCAss44Aand112AENDREPLACE] These circumstances include:
 [^AUTOREPLACEDCAss44Aand112AENDREPLACE]: _CA_ ss 44A and 112A
