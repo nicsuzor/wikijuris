@@ -137,7 +137,7 @@ The index file contains a list of the pieces and the location of a tracker. Torr
 
 The protocol and the clients that implement it also are general-purpose with substantial non-infringing uses. Since many clients are pure software projects (often open source), rather than filesharing businesses, there's also often no strong financial link on which to found inducement liability. Lacking targets to sue, rightsholders are increasingly seeking to hold ISPs responsible for copyright infringement of their users.
 
-<div class="box case">
+<div markdown="block" class="box case">
 
 ### Roadshow Films v iiNet
 
@@ -209,7 +209,7 @@ Justices Gummow and Hayne dismissed the appeal. They concluded:
 
 </div>
 
-<div class="box case">
+<div markdown="block"  class="box case">
 
 ### Dallas Buyers Club v iiNet
 
