@@ -18,9 +18,12 @@ Unlike the _Copyright Act 1968_ (Cth) and _Patents Acts 1990_ (Cth), the _Trade 
 
 ## UK Developments
 
-In 2014, Justice Arnold of the UK High Court presided over a trial between luxury brand owners and internet service providers in _Cartier, Montblanc and Richemont v BSkyB, BT, TalkTalk, EE and Virgin (Open Rights Group intervening)_ [2014] EWHC 3354 (Ch). As set out in the judgment:
 
-<div markdown="block" class="box">
+<div markdown="block"  class="box case">
+
+#####  _Cartier, Montblanc and Richemont v BSkyB, BT, TalkTalk, EE and Virgin (Open Rights Group intervening)_ [2014] EWHC 3354
+
+In 2014, Justice Arnold of the UK High Court presided over a trial between luxury brand owners and internet service providers in _Cartier, Montblanc and Richemont v BSkyB, BT, TalkTalk, EE and Virgin (Open Rights Group intervening)_ [2014] EWHC 3354 (Ch). As set out in the judgment:
 
 [1]. The Claimants ( collectively, "Richemont") are the owners of a large number of United Kingdom Registered Trade Marks for CARTIER, MONTBLANC, IWC and other brands ("the Trade Marks"). The Defendants ("Sky", "BT", "EE", "TalkTalk" and "Virgin", collectively "the ISPs") are the five main retail internet service providers in the United Kingdom. Between them, they have a market share of some 95% of UK broadband users. By this application Richemont seek orders requiring the ISPs to block, or at least impede, access by their respective subscribers to six websites which advertise and sell counterfeit goods ("the Target Websites"). Richemont contend that the operators of the Target Websites thereby infringe the Trade Marks. For the avoidance of doubt, there is no suggestion that the ISPs have infringed the Trade Marks or are liable for infringements by the operators of the Target Websites.
 
@@ -38,9 +41,11 @@ In 2014, Justice Arnold of the UK High Court presided over a trial between luxur
 
 The Australian statutory landscape is similar to that in the UK. The _Copyright Act 1968_ (Cth) s115A provides for blocking injunctions against online service providers who facilitate copyright infringement. However, the Australian _Trade Marks Act 1995_ (Cth) is silent on the issue. The UK plaintiffs, in the absence of a statutory provision in the UK _Trade Marks Act 1994_ (Cth), plead for the court to exercise its inherent equitable jurisdiction to issue an injunction. It is interesting to note that Australian courts also have such powers -- for example _Federal Court of Australia Act 1977_ (Cth) s23\. Justice Arnold decided that the High Court had jurisdiction to issue blocking orders forcing ISPS to block access to websites that were dealing in counterfeit goods. Similar to the outcome in a copyright case, Arnold J ordered that the ISPs bear the costs of implementation.
 
-The ISPs appealed to the Court of Appeal of England and Wales. The court upheld Arnold J's decision at _Cartier International AG and others v British Sky Broadcasting Ltd and Others [2016] EWCA Civ 658._ Lord Justice Kitchin in the _Cartier_ (appeal) the following to say about the problems facing trade mark owners:
+The ISPs appealed to the Court of Appeal of England and Wales. The court upheld Arnold J's decision at _Cartier International AG and others v British Sky Broadcasting Ltd and Others [2016] EWCA Civ 658._ Lord Justice Kitchin in the _Cartier_ (appeal) had the following to say about the problems facing trade mark owners:
 
-<div markdown="block" class="box">
+<div markdown="block"  class="box case">
+
+#####  _Cartier International AG and others v British Sky Broadcasting Ltd and Others [2016] EWCA Civ 658._
 
 [10] Unfortunately and as is well known, luxury goods attract the attention of counterfeiters and Richemont and other such producers suffer significant losses each year as a result of the international trade in counterfeit goods. In 2014 the European Commission published its _Report on EU Customs Enforcement of Intellectual Property Rights: Results at the EU Border_ in which it stated that in 2012 the customs authorities at the external borders of the EU seized over 39.9 million counterfeit articles with a market value of almost 900 million, and that the authorities in the UK seized more articles than the authorities in any other Member State. In 2011 Frontier Economics Ltd published a report entitled _Estimating the Global Economic and Social Impacts of Counterfeiting and Piracy_ in which it estimated that the value of internationally traded counterfeit and pirated goods would increase to US\$960 billion by 2015.
 
@@ -53,7 +58,9 @@ The ISPs appealed to the Court of Appeal of England and Wales. The court upheld 
 
 The ISPs appealed again to the Supreme Court on the issue of costs which could have been significant as the brand owners had identified at least 46,000 websites which sold counterfeit goods. In a judgment delivered on 13 June 2018, the UK Supreme Court at _Cartier International AG and others v British Telecommunications Plc and another_ [2018] UKSC 28, allowed the appeal thus removing the burden on the ISPs in relation to compliance costs. Lord Sumption: (with whom Lord Mance, Lord Kerr, Lord Reed and Lord Hodge agree):
 
-<div markdown="block" class="box">
+<div markdown="block"  class="box case">
+
+##### _Cartier International AG and others v British Telecommunications Plc and another_
 
 [37] It is critical to these conclusions that the intermediary in question is legally innocent. The appellants in this case are legally innocent because they are "mere conduits". Different considerations may apply to intermediaries engaging in caching or hosting governed by articles 13 and 14 of the E-Commerce Directive, because these operations involve a greater degree of participation in the infringement, which is more likely to infringe national laws protecting intellectual property rights if the conditions of immunity are not satisfied. That must, however, depend on the precise facts and on the relevant provisions of national law. For my part, I would not accept that the mere fact, without more, that the immunities of intermediaries under articles 13 or 14 of the E-Commerce Directive are conditional on active steps being taken against the infringer in certain circumstances, is enough to require a court to make intermediaries covered by those articles pay the costs of compliance.
 
@@ -61,7 +68,7 @@ The ISPs appealed again to the Supreme Court on the issue of costs which could h
 
 The Productivity Commission has recently expressed concerns similar to Lord Kitchin as to the problems created by counterfeit trade marked goods: see Australian Government, Productivity Commission, _Intellectual Property Arrangements: Final Report_ (2016), p. 553-555.
 
-<div markdown="block" class="box">
+<div markdown="block" class="box warning">
 
 Do you think the Australian _Trade Marks Act 1995_ (Cth) should be amended to include intermediary liability provisions similar to s115A of the _Copyright Act 1968_ (Cth)?
 
@@ -71,10 +78,14 @@ In the UK, the Supreme Court held that brand owners would have to indemnify the 
 
 </div>
 
-## US Developments
+# US Developments
 
 US trade mark law and IP law in general is quite different from Australia's making comparative case studies difficult. However, a recent US case is highlighted here for its interesting fact pattern. Can a domain name registrar be liable for registering a domain name for a counterfeiter's website?
 
+
+<div markdown="block" class="box case">
+
+##### _InvenTel Products, LLC v. Li_
 In the case of _InvenTel Products, LLC v. Li_, 18-cv-16590, Inventel sued Li and others for selling counterfeit products. After voluntarily dismissing GoDaddy from the action, InvenTel learned that Li had started a new website to further market counterfeit products at [www.hdmirrorcambuy.com](http://www.hdmirrorcambuy.com). InvenTel then brought a fresh suit against GoDaddy for registering the new website. GoDaddy filed to dismiss the claim.
 
 Can GoDaddy be liable for counterfeiting activity for registering the domain name?
@@ -87,9 +98,7 @@ The court ultimately held no. _Inventel Products v Li_ Civ. No. 2:19-9190 (13 Au
 
 Thus the question was whether GoDaddy exhibit a bad faith intent to profit?
 
-<div markdown="block" class="box">
-
-Plaintiff argues it "pled and established in detail through Declaration of Yasir Abdul [sic] and documentary evidence previously submitted to the Court that GoDaddy was provided with multiple notices of the infringement," and thus acted in bad faith in registering the Website. Opp. at 13-15\. The Court disagrees. The only pleaded basis for GoDaddy's knowledge that the Website would be used to infring is the Li Defendants' conduct using _other websites_ and the Prior Action. _See_ Compl. ¶¶ 76-83\. But GoDaddy's domain name registration system is automatic. _See_ May 7, 2019 Op. at 3, ECF No. 29 (discussing registration "computer systems"); _McTernan._, 577 F.3d 521, 530 (permitting findings and conclusions at preliminary injunction stage to have preclusive effect). Therefore, without a warning that the specific URL being registered would be used for an illicit purpose, GoDaddy did not have a "bad faith intent to profit" from the automatic registration of "www.hdmirrorcambuy.com.". In other words, failing to prevent its computer system from registering the Website does not constitute "bad faith." Plaintiff provides no basis for the proposition that GoDaddy must predict which URLs will be used for infringement purposes and proactively stop them from being registered. Accordingly, Plaintiff's Lanham-Act based claims (Count One and part of Four) are **DISMISSED**.
+> Plaintiff argues it "pled and established in detail through Declaration of Yasir Abdul [sic] and documentary evidence previously submitted to the Court that GoDaddy was provided with multiple notices of the infringement," and thus acted in bad faith in registering the Website. Opp. at 13-15\. The Court disagrees. The only pleaded basis for GoDaddy's knowledge that the Website would be used to infring is the Li Defendants' conduct using _other websites_ and the Prior Action. _See_ Compl. ¶¶ 76-83\. But GoDaddy's domain name registration system is automatic. _See_ May 7, 2019 Op. at 3, ECF No. 29 (discussing registration "computer systems"); _McTernan._, 577 F.3d 521, 530 (permitting findings and conclusions at preliminary injunction stage to have preclusive effect). Therefore, without a warning that the specific URL being registered would be used for an illicit purpose, GoDaddy did not have a "bad faith intent to profit" from the automatic registration of "www.hdmirrorcambuy.com.". In other words, failing to prevent its computer system from registering the Website does not constitute "bad faith." Plaintiff provides no basis for the proposition that GoDaddy must predict which URLs will be used for infringement purposes and proactively stop them from being registered. Accordingly, Plaintiff's Lanham-Act based claims (Count One and part of Four) are **DISMISSED**.
 
 </div>
 
@@ -98,8 +107,8 @@ Plaintiff argues it "pled and established in detail through Declaration of Yasir
 Advertisers who use brands have sometimes been held liable for misleading and deceptive conduct, passing off, and trade mark infringement. For direct liability for keyword advertising, see:
 
 * Veda Advantage Ltd v Malouf Group Enterprises Pty Ltd (2016) 241 FCR 161; facts plus trade mark infringement at 126-128; s18 ACL at 234 (who is the reasonable member); on what is a misleading misrepresentation 242-244 and [251]-[254].
-* Australian Competition and Consumer Commission v Trading Post Australia Pty  (2011) 197 FCR 498 per Nicholas J Legal principles s31 – 38 FACTS in relation to Kloster Ford advertisement [85 88]; Analysis at [94] – [100] , only in relation to Representation A and B [118] – [130]. Note that these findings were not overturned on appeal.
 
+* Australian Competition and Consumer Commission v Trading Post Australia Pty  (2011) 197 FCR 498 per Nicholas J Legal principles s31 – 38 FACTS in relation to Kloster Ford advertisement [85 88]; Analysis at [94] – [100] , only in relation to Representation A and B [118] – [130]. Note that these findings were not overturned on appeal.
 
 In _Google, Inc v ACCC_ (2013) [249 CLR 435](http://www.austlii.edu.au/au/cases/cth/HCA/2013/1.html) the High Court held that Google was not liable when it created a system to enable third parties to create advertisements that were reproduced on Google’s search results pages. The High Court was clear in finding that Google did not ‘endorse’ advertisements submitted by third parties and published on its own web pages, on the basis that the content of the material was wholly determined by the  advertiser  and  published  automatically  by  Google.  Google  ‘did  not  itself engage in misleading or deceptive conduct, or endorse or adopt the representations which it displayed on behalf of advertisers’ (at [73] (French CJ, Crennan and Kiefel JJ)). Liability for misleading and deceptive conduct is strict, but requires actual wrongful conduct on the part of the defendant that is likely to mislead or deceive — there is no separate secondary head of liability. Whether Google knew that the content was misleading was irrelevant.
 
