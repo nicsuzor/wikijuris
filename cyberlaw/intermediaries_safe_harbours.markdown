@@ -138,7 +138,10 @@ Copyright Regulations 1969 (Cth) prescribe more detail for the notice & takedown
 * r 20M: Upon receiving a counter-notice, the CSP must restore the content, unless the copyright owner files for injunctive relief
 
 
-### Example of the Category A Safe Harbour: Roadshow v iiNet
+
+<div markdown="block"  class="box case">
+
+#####   Example of the Category A Safe Harbour: Roadshow v iiNet
 
 **Sophie Murdock explains [Roadshow v iiNet](https://www.youtube.com/watch?v=h4iBhgAUV8Q)**
 
@@ -160,23 +163,42 @@ The Court in the full court appeal did not hold that the policy was sufficient, 
 
 **'Repeat infringer':** Jagot and Nicholas JJ held that because iiNet's policy did not reference repeat infringers it was not sufficient because the policy could be applied to a user who had only infringed copyright once or one who had infringed it multiple times. In other words, the policy was not tailored to the legislation.
 
+</div>
+
 ## Some US Authority
 
-### A&M Records v Napster, 239 F.3d 1004 (2001)
+<div markdown="block"  class="box case">
+
+#####  A&M Records v Napster, 239 F.3d 1004 (2001)
 
 Napster did not qualify for 17 USC 512 (a) (transmission) safe harbor because it did not actually transmit copyright material through its network. Even if Napster did qualify, it would not have satisfied 512(i), the requirement to terminate the accounts of repeat infringers
 
-### In re: Aimster, 334 F.3d 643 (7th Cir. 2003)
+
+</div>
+
+<div markdown="block"  class="box case">
+
+#####  In re: Aimster, 334 F.3d 643 (7th Cir. 2003)
 
 Aimster locked itself out of any knowledge by encrypting the network. 7th Circuit held that Aimster was wilfully blind. Although Aimster had a repeat infringer policy, it could never really be exercised in practice because Aimster had no way to know what users were doing.
 
-### Ellison v Robertson, 357 F.3d 1072 (9th Cir. 2004)
+
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Ellison v Robertson, 357 F.3d 1072 (9th Cir. 2004)
 
 **Video Overview of Ellison v Robertson by [Chris Pham](https://www.youtube.com/watch?v=z3YgPFQudVk)**
 
 AOL had a repeat infringer policy, but had changed its designated email address for complaints. AOL never received Ellison's complaints, and never bounced back the wrongly addressed email messages. There was therefore a triable question of fact as to whether AOL had 'reasonably implemented' its repeat infringer policy.
 
-### Perfect 10 v CCBill, 488 F.3d 1102 (9th Cir. 2007)
+
+</div>
+
+<div markdown="block"  class="box case">
+
+#####   Perfect 10 v CCBill, 488 F.3d 1102 (9th Cir. 2007)
 
 CCBill kept a spreadsheet database of allegations of infringement. Court found that a service provider will 'reasonably implement' a repeat infringer policy:
 
@@ -184,11 +206,16 @@ CCBill kept a spreadsheet database of allegations of infringement. Court found t
 
 CCBill was under no obligation to police the site.
 
+</div>
+
 ### Red Flag Doctrine: When Will Infringement Become Apparent?
 
 US caselaw has developed a 'red flag' doctrine – an OSP may lose the protection of the safe harbors if it takes no action when infringement becomes apparent. See Australian equivalent under s 116AH(1)(4)(2A)(a) and (b).
 
-### Viacom v YouTube (2nd Cir.) (Decided April 5, 2012)
+
+<div markdown="block"  class="box case">
+
+##### Viacom v YouTube (2nd Cir.) (Decided April 5, 2012)
 
 **Overview video by Emily Guiver: [Viacom v YouTube](https://youtu.be/SC75opYLwZI)**
 
@@ -223,6 +250,8 @@ Affirmed District Court’s holding that §512(c) requires knowledge of specific
 On April 18, 2013, the District Court issued another order granting summary judgment in favor of YouTube. Following the remand from the Second Circuit court of appeals, Judge Stanton ruled in favor of YouTube, finding that YouTube had no actual knowledge of any specific instance of infringement of Viacom's works, and therefore could not have "willfully blinded itself". He also ruled that YouTube did not have the "right and ability to control" infringing activity because "there is no evidence that YouTube induced its users to submit infringing videos, provided users with detailed instructions about what content to upload or edited their content, prescreened submissions for quality, steered users to infringing videos, or otherwise interacted with infringing users to a point where it might be said to have participated in their activity."
 
 An appeal was begun, but the week before the parties were to appear in the 2nd U.S. Circuit Court of Appeals, a settlement was announced, and it was reported that no money changed hands.
+
+</div>
 
 ## Broadcasting Services Act Sch 5, Cl 91
 

@@ -171,9 +171,12 @@ contrast, Barker J held that where the respondent “actively solicits and moder
 
 
 
-## Case Notes
 
-### Google Inc and Duffy [2017] SASCFC 130 (4 October 2017)
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Google Inc and Duffy [2017] SASCFC 130 (4 October 2017)
 
 **Video Overview by Natalia Weir of [Duffy v Google](https://www.youtube.com/watch?v=S6k8K28hAd8) [2017] SASCFC 130**
 
@@ -187,7 +190,11 @@ In 2017, the Full Court of the South Australian Supreme Court held that Google I
 
 Google sought to rely on several defences, most notably statutory qualified privilege and innocent dissemination. These were rejected by the Court of Appeal. The innocent dissemination defence was unsuccessful because Google were aware of the defamatory material. Statutory Qualified Privilege was not made out as Google was unable to prove that all persons googling Dr Duffy's name were concerned with her dispute with the psychics.
 
-### Voller v Nationwide News Pty Ltd; Voller v Fairfax Media Publications Pty Ltd; Voller v Australian News Channel Pty Ltd [2019] NSWSC 766)
+</div>
+
+<div markdown="block"  class="box case">
+
+#####  Voller v Nationwide News Pty Ltd; Voller v Fairfax Media Publications Pty Ltd; Voller v Australian News Channel Pty Ltd [2019] NSWSC 766)
 
 **Video overview by Brenton Poynting: [Voller v Nationwide News](https://www.youtube.com/watch?v=zFTtINx48kI&t=54s)**
 
@@ -196,7 +203,11 @@ The plaintiff was Dylan Voller, a former youth detainee who was mistreated in de
 The Supreme Court of New South Wales ultimately held that the defendants were publishers of the third-party Facebook comments. Furthermore, the Court found that the defendants would be liable as primary publishers. Justice Rothman found that the compiler of a comment does not publish it as a result of her or his authorship. Rather, it is the publisher of a comment in a comprehensible or legible form that publishes the comment. The Court held that the criteria to determine whether a publisher is a “primary publisher” are that, before publication, the publisher knows or can easily acquire knowledge of the content of the article being published, and secondly, has editorial control involving the ability and opportunity to prevent publication of such content. The Court deemed that the defendants satisfied both elements. Consequently, the defence of innocent dissemination was unavailable.
 
 
-### Clarke v Nationwide News Pty Ltd (t/as The Sunday Times) (2012) 289 ALR 345; [2012] FCA 307
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Clarke v Nationwide News Pty Ltd (t/as The Sunday Times) (2012) 289 ALR 345; [2012] FCA 307
 
 **Video Overview by Steven McMahon on [Clarke v Nationwide News](https://www.youtube.com/watch?time_continue=1&v=venTYL3A4C0)**
 
@@ -208,7 +219,11 @@ The court rejected the newspaper's argument that it merely moderated the comment
 
 The control over publication on the website, coupled with the knowledge of the publication's contents, therefore sufficed for the newspaper to be considered responsible over the publication. Barker J distinguished this case from cases where no such moderating was undertaken, and cases where the existence of the comment was unknown by the media company. Implicit in his Honour's reasons is this: since the newspaper did not exercise its right to refuse to publish or modify the comments, that meant it approved of them.
 
-### Trkulja v Google Inc. & Google Australia Pty Ltd (No 5) [2012] VSC 533
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Trkulja v Google Inc. & Google Australia Pty Ltd (No 5) [2012] VSC 533
 
 **Video Overview by Patrick Johnson: [Trkulja v Google](https://www.youtube.com/watch?v=AfZDXGgV11c)**
 
@@ -230,16 +245,28 @@ In respect of Trkulja's first argument, the Court focused its reasoning heavily 
 
 So far as Trkulja's second argument was concerned, the Court held that after being given notice, Google's power and failure to stop publication was capable of leading to an inference that it consented to the publication (see [31]). Google was aware of the defamatory material, and could have removed from its searches the URL to the page with the defamatory photographs.
 
-### Trkulja v Google LLC [2018] HCA 25
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Trkulja v Google LLC [2018] HCA 25
 
 **Video overview by Elizabeth MacGillivray: [Trkulja v Google LLC](https://www.youtube.com/watch?v=hCwbgqIdon0) [2018]**
 
 In 2012, Trkulja successfully sued Google in the Victorian Supreme Court, arguing that the publication of such web pages was defamatory. In 2015, Trkulja alleged that Google had engaged in further defamatory conduct by way of auto-complete search predictions and associative image search results. Trkulja provided evidence of his name in a search bar, with autocomplete predictive words that linked him with the underworld killings and criminals, and photos of his face in the image search tab next to other known Melbourne criminals. Upon Trkulja’s success, Google then successfully appealed the decision in 2016, with the Court of Appeal ruling that Trkulja would have ‘no real prospect of success’. However, in 2018 Trkulja subsequently appealed to the High Court of Australia, where it was held that the Court of Appeal had erred in its decision and had applied the wrong test in determining whether defamatory conduct was evident. With the High Court’s go-ahead, Trkulja’s case can therefore proceed in the Supreme Court of Victoria.
 
-### Defteros v Google Inc LLC [2018] VSCA 176 (25 July 2018)
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Defteros v Google Inc LLC [2018] VSCA 176 (25 July 2018)
 
 
-### Rana v Google Australia Pty Ltd [2013] FCA 60
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Rana v Google Australia Pty Ltd [2013] FCA 60
 
 **Video Overview by Carlie McCulloch: [Rana v Google](https://www.youtube.com/watch?v=_nt11Yig1nI)**
 
@@ -247,7 +274,11 @@ Rana sought leave to serve proceedings on Google Inc (USA-based), claiming Googl
 
 Justice Mansfield granted leave to serve the proceedings (see [58]). His Honour found it inappropriate to refuse leave on the basis that Google Inc. was not the “publisher” of the defamatory material, given the inconsistency between Duffy and Trkulja.
 
-### Visscher v Maritime Union of Australia (No 6) [2014] NSWSC 350
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Visscher v Maritime Union of Australia (No 6) [2014] NSWSC 350
 
 **Video Overview by Matthew Dolan: [Visscher v MUA](https://www.youtube.com/watch?v=mSl1WyTiWM0)**
 
@@ -261,7 +292,11 @@ The Court here rejected the approach adopted by the majority in the Supreme Cour
 
 Beech-Jones J distinguished Crookes on three grounds. First, that the Supreme Court of Canada's reasoning was informed by the Canadian Charter of Rights and Freedoms – of which there is no equivalent in New South Wales. Secondly, that it was difficult to accept that the hyperlink would need to repeat the defamatory material to amount to “publication”. Such an approach, in his Honour's view, takes context out of the analysis and forecloses the ability for the law to conform to changing internet norms in the future. Thirdly, that the Court's reasoning was inconsistent with the principle in Urbanchich – namely, that defamation can be imputed against a defendant who approved, adopted, promoted or in some way ratified the content.
 
-### Trkulja v Yahoo! Inc LLC [2012] VSC 88
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Trkulja v Yahoo! Inc LLC [2012] VSC 88
 
 **Video Overview by Stuart Efstathis: [Trkulja v Yahoo](https://www.youtube.com/watch?v=6Y5aIhTB6vg)**
 
@@ -271,7 +306,7 @@ In Trkulja v Yahoo! LLC, T sued Yahoo for publishing a story on an attempted hit
 >
 >A Victoria Police document reveals detectives dropped the investigation because of a lack of evidence. But Mr Trkulja, 58, now claims to know the identity of the hit man and those who hired him. He says he has passed the names to the police. 'He (the hit man) was offered $10,000 to kill me, I know who sent him and they know that I know who they are,' Mr Trkulja told the Herald Sun.
 >
->`Nobody should be shot like this.’ Mr Trkulja’s lawyer, high profile solicitor George Defteros, has written to Ms Nixon seeking a fresh investigation and the request is being considered.”
+>'Nobody should be shot like this.' Mr Trkulja’s lawyer, high profile solicitor George Defteros, has written to Ms Nixon seeking a fresh investigation and the request is being considered.”
 
 T was a well-known music promoter who regularly appeared in the media. T alleged that the article was defamatory due to the imputations:
   - That the plaintiff was a criminal;
@@ -282,7 +317,12 @@ Yahoo ultimately admitted publication, but submitted that the article did not co
 
 HELD, the article carried imputations 2 and 3 and those were defamatory of the plaintiff. The article reached a widespread audience and thus the damage to the plaintiff’s reputation was similarly widespread. The fact that the material remained available through the Yahoo! search engine, without being removed, served to increase the damage to the plaintiff’s reputation throughout the community. Aggravated damages was not awarded, but T still received $225,000.
 
-### Bleyer v Google Inc LLC (2014) 311 ALR 529
+
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Bleyer v Google Inc LLC (2014) 311 ALR 529
 
 **Video Overview by Claire Stewart: [Bleyer v Google Inc](https://www.youtube.com/watch?v=IWlPyJGxT10)**
 
@@ -309,7 +349,12 @@ Ultimately the case was decided on whether it was proportionate for the case to 
 After the decision about Google's status as a publisher had been made, the case rested on one potential publication to a reader in April.
 The claim would be difficult to make out and defend and any judgment would more than likely be unenforceable against Google in the US anyway. As such, her Honour held that the resources of the court and parties to determine the claim would be "out of all proportion" to B's interest.
 
-### Crookes v Newton [2011] 3 SCR 269
+
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Crookes v Newton [2011] 3 SCR 269
 
 **Video Overviews on Crooks v Newton by [Clairlaw](https://www.youtube.com/watch?v=ymo3-q5DD4E)** and **[Daniel Hill](https://www.youtube.com/watch?v=so1Utg-W9dE)**
 
@@ -331,7 +376,12 @@ It does not incorporate the text or in any way adopt it.
 Links among websites create the fabric of the web and play a pivotal role in social media as users share links amongst each other.
 The threat of liability for the posting of a link would unnecessarily chill the further development of online media and social spaces.
 
-### Silberberg v Builders Collective of Australia Inc (2007) 164 FCR 475
+
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Silberberg v Builders Collective of Australia Inc (2007) 164 FCR 475
 
 **Facts:**
 Silberberg v Builders Collective of Australia Inc (2007) 164 FCR 475 explores the liability of Internet forum operators for racial vilification pursuant to the Racial Discrimination Act 1975 (Cth) ("RDA"). The applicant (Dr Silberberg) was the managing director of the Housing Industry Association Ltd (HIA). HIA was a company representing the interests of people involved in the residential building industry. The Builders Collective of Australia Inc (BCA) was an incorporated association made up of predomonantly small builders and opposed policies of the HIA in many areas. The BCA operated a website. On that website there was a discussion forum which contained confidential information surrounding the building of transmitter sites for the Digital Radio Oceane project. In May 2005 and January 2006, a registered user of the forum posted messages suggesting that Dr Silberberg's Jewish background was responsible for a perceived unhealthy monetary focus on the part of the HIA. Dr Silberberg complained to the Human Rights and Equal Opportunity Commission, which was subsequently terminated. Dr Silberberg commenced proceedings in the Federal Court against the BCA and the forum user.
@@ -347,3 +397,5 @@ Their posting contravened s.18C of the Racial Discrimination Act 1975 (Cth).
 The BCA had knowledge of the presence of one of the offensive postings in the forum and failed to remove it.
 Not proven that the BCA failed to remove it because of the Jewish race or ethnicity of Dr Silberberg, as required by the RDA.
 The case against the BCA was dismissed.
+
+</div>

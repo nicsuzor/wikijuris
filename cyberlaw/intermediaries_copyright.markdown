@@ -211,7 +211,7 @@ Justices Gummow and Hayne dismissed the appeal. They concluded:
 
 <div markdown="block"  class="box case">
 
-### Dallas Buyers Club v iiNet
+##### Dallas Buyers Club v iiNet
 
 **Video Overviews of Dallas Buyers Club v iiNet by [Kylie Pappalardo](https://www.youtube.com/watch?v=BbGBSrbd1AY)** and **[Lachlan McCormick](https://www.youtube.com/watch?v=FrCJRnxiPHw)**
 
@@ -252,8 +252,6 @@ DBC failed to provide a letter limited to the heads of damage under (a) and (d) 
 
 **Video Overview of the US Position by [Kylie Pappalardo](https://www.youtube.com/watch?v=G-jD1WDw_34)**
 
-### US Doctrine
-
 The United States does not have a concept of “authorisation” for intermediary copyright liability, like we do in Australia. Instead, the US uses several tests developed from tort law. There are three heads of intermediary liability in US copyright law:
 
 **Contributory infringement** applies to “one who, with knowledge of the infringing activity, induces, causes or materially contributes to the infringing conduct of another” (Gershwin v Columbia 443 F.2d 1159 (2nd Cir 1971). The two elements here are: (1) knowledge of the infringement; and (2) induces, causes or materially contributes to the infringement.
@@ -264,7 +262,9 @@ The United States does not have a concept of “authorisation” for intermediar
 
 A new head of liability, called **inducement**, was developed in the Grokster case, though it is unclear whether this is separate to or part of contributory infringement. In that case, the court held that those who actively induce others to commit infringing acts will be liable. This head of liability incorporates the notion of intent.
 
-#### Sony Corp. of America v. Universal City Studios, Inc. 464 U.S. 417 (1984)
+<div markdown="block"  class="box case">
+
+#####  Sony Corp. of America v. Universal City Studios, Inc. 464 U.S. 417 (1984)
 
 **[Video explaining the 'Sony rule'](https://www.youtube.com/watch?v=8M04ISrQZq8) by by Tamara Moretto**
 
@@ -285,8 +285,11 @@ Online intermediaries can continue to benefit from the Sony rule if:
 
 *  They are not liable under another form of intermediary liability (i.e. inducement or vicarious liability)
 
+</div>
 
-#### A & M Records, Inc. v. Napster, Inc. 239 F. 3d 1004 (9th Cir. 2001) ("Napster")
+<div markdown="block"  class="box case">
+
+#####  A & M Records, Inc. v. Napster, Inc. 239 F. 3d 1004 (9th Cir. 2001) ("Napster")
 
 **Video Overview of the Naspter Decision by [Evan Price](https://www.youtube.com/watch?v=S2kLe-sqKj4)**
 
@@ -315,7 +318,9 @@ Vicarious liability:
 
 The court acknowledged the importance of the Sony rule, stating, “Absent specific information which identifies infringing activity, a computer system operator cannot be liable for contributory infringement merely because the structure of the system allows for the exchange of copyrighted material” (at 1021). The court found, however, that Napster did have specific knowledge of the infringing files as well as an ability to remove these files from its system, and on these grounds the court distinguished Napster from Sony and found Napster to be liable for contributory infringement. The court also found Napster to be vicariously liable because it received a direct financial benefit from advertising sales and had both the right and ability to control the infringement by filtering or blocking the exchange of the infringing files or blocking infringing users from its service.
 
-## The Next Generation: Aimster, Grokster, StreamCast, Kazaa
+</div>
+
+### The Next Generation: Aimster, Grokster, StreamCast, Kazaa
 
 Since Napster was liable because it had knowledge of the files shared on the network (contributory liability) and a centralised point of control (vicarious liability), the next generation of filesharing software was developed to have no central servers.
 
@@ -325,7 +330,9 @@ Grokster, StreamCast, and Kazaa were better designed:
   * The networks were able to demonstrate 'substantial non-infringing uses' to satisfy the Sony test;
   * The networks were designed to operate autonomously, with no central control. The central agent provided the software, but after the software was connected to the network, the network would pass on search requests, and transfer files without any intervention from a central server.
 
-#### MGM Studios Inc., v. Grokster Ltd. 545 U.S. 913 (2005)
+<div markdown="block"  class="box case">
+
+#####  MGM Studios Inc., v. Grokster Ltd. 545 U.S. 913 (2005)
 
 **[Overview of the Grokster Case](https://www.youtube.com/watch?v=TZVFGDJEhZ4) by Joe Sherman**
 
@@ -347,7 +354,9 @@ The Grokster court expressly stated that evidence of factors (2) or (3), standin
 
 The court set aside the summary judgment and remanded the case to trial. Grokster and Sharman settled after the US Supreme Court decision. StreamCast (Morpheus) went to trial and lost on summary judgment. District Court (CD Cal) found that StreamCast overwhelmingly distributed Morpheus with the intent to induce infringement.
 
-## Direct Infringement by Intermediaries
+</div>
+
+# Direct Infringement by Intermediaries
 
 **Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=Nr3Mjik4960)**
 
@@ -357,11 +366,17 @@ Australian courts have been reluctant to extend fair dealing exceptions to inter
 
 Contrast the Australian position with that of the courts in Canada (below).
 
-### De Garis v Neville Jeffress
+<div markdown="block"  class="box case">
+
+##### De Garis v Neville Jeffress
 
 In De Garis v Neville Jeffress Pidler Pty Ltd (1990) 18 IPR 292, the respondent, a press-clipping agency, was held to have infringed the copyrights in book reviews and newspaper articles reproduced as part of its service. The respondent monitored newspapers and other media sources and provided clippings and photocopies of material from those sources to clients in return for a fee. Materials were provided in response to general subject areas of interest as indicated by the client. When faced with suit for copyright infringement, the respondent claimed that its conduct constituted a fair dealing for research or study. The court rejected this claim, holding that Jeffress’ dealings with the works were done for a purpose other than research, namely, for the commercial purpose of supplying a photocopy of material already published in return for a fee. Importantly, the court continued, “There is another reason why s 40 cannot apply here. The relevant purpose required by s 40(1) is that of Jeffress, not that of its customer. That is to say, even if a customer were engaged in research, this would not assist Jeffress".
 
-### NRL v Singtel Optus - Optus TV Now
+</div>
+
+<div markdown="block"  class="box case">
+
+##### NRL v Singtel Optus - Optus TV Now
 
 **Video Overview on NRL v Optus by [Andrew Dawson](https://www.youtube.com/watch?v=p37z_7di9Nc)**
 
@@ -375,7 +390,12 @@ In NRL v Singtel Optus, NRL owned copyright in broadcasts of sporting fixtures d
 
 
 
-### CCH Canadian Ltd v Law Society of Upper Canada [2004] 1 S.C.R. 339
+
+</div>
+
+<div markdown="block"  class="box case">
+
+#####  CCH Canadian Ltd v Law Society of Upper Canada [2004] 1 S.C.R. 339
 
 **Vide Overview of [CCH Canadian v Law Society](https://www.youtube.com/watch?v=ksuRAKMZ6YE)**
 
@@ -391,12 +411,25 @@ In finding for the Law Society, the Chief Justice McLachlin stated: [^AUTOREPLAC
 
 Relevant to the court’s finding was that the library had an access policy which stated that only single copies of materials would be provided for the purposes of research, review, private study and criticism as well as use in legal proceedings, and that any requests for copies in excess of 5% of the volume would be referred to the Reference Librarian and might be refused.  Additionally, the service was provided on a not for profit basis.  Also relevant was that there were no apparent alternatives to the custom photocopy service – the court considered it unreasonable to expect that patrons would always conduct their research onsite, particularly as 20% of the library’s patrons lived outside the Toronto area.  The court held that the availability of a licence is not relevant to deciding whether a dealing has been fair and that it was not incumbent upon the Law Society to adduce evidence that every patron uses the material provided in a fair dealing manner – reliance on a general practice would suffice.
 
-## Recent developments
+</div>
 
-### European Copyright Directive: the 'link tax' (Article 15)
+# Recent developments
+
+## European Copyright Directive: the 'link tax' (Article 15)
 
 **Video overview by Katherine Karan on the ['Link Tax'](https://www.youtube.com/watch?v=6xpSsvpuQKU)**
 
 Article 15 (previously known as draft Article 11) provides a new copyright rules to allow news websites to be remunerated for their work when displayed or promoted on large commercial platforms, such as Facebook or Google. This does not affect private or non-commercial users. It is designed to increase compensation to the publishers of news articles.
 
 Because the link tax is yet to implemented by countries of the EU, it remains to be seen how states will deal with the ambiguities and potential adverse effects of Article 15. For instance, each platform will only be permitted to present a very short extract of the news article without breaching copyright, however it is at the country’s discretion to determine what constitutes a “very short extract”. This link tax will also have a major potential impact on small news websites that may see less traffic as a result. Exceptions do exist to this link tax, such as individual words, copyright expiry dates and hyperlinks.
+
+## The ACCC's news bargaining code
+
+
+
+<div markdown="block"  class="box error">
+
+##### This section is a stub. Please help out by adding to it!
+
+
+</div>
