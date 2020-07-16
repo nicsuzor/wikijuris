@@ -1,55 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap')
 
 $default:#9E9E9E
-$error:#D50000
-$warning:#FF6F00
-$tip:#448AFF
-$case:#388E3C
-$light:#eee
-$dark:#222
+$error: #D50000
+$warning: #FF6F00
+$tip: #448AFF
+$case: #388E3C
+$light: #eee
+$dark: #222
 
 .box
- font-family: 'Roboto Slab', serif
- background: $light
- border-left: solid 4px $default
- overflow: hidden
- font-size: 90%
- line-height: 18px
- max-width: 40em
- margin: 2em auto
- padding-left: 6px
+  font-family: 'Roboto Slab', serif
+  background: $light
+  border-left: solid 4px $default
+  overflow: hidden
+  font-size: 90%
+  line-height: 18px
+  max-width: 40em
+  margin: 2em auto
+  padding-left: 6px
 
- h5
-   font-size: 1.25rem
+  h5
+    font-size: 1.25rem
 
+  error
+    border-left: solid 4px $error
 
+    h1, h2, h3, h4, h5
+      color: $error
 
-.box.error
- border-left: solid 4px $error
+  case
+    border-left: solid 4px $case
 
- h1, h2, h3, h4, h5
-   color: $error
+    h1, h2, h3, h4, h5
+      color: $error
 
+  tip
+    border-left: solid 4px $tip
 
+    h1, h2, h3, h4, h5
+      color: $tip
 
-.box.case
- border-left: solid 4px $case
+  warning
+    border-left: solid 4px $warning
 
- h1, h2, h3, h4, h5
-   color: $error
-
-
-
-.box.tip
- border-left: solid 4px $tip
-
- h1, h2, h3, h4, h5
-   color: $tip
-
-
-
-.box.warning
- border-left: solid 4px $warning
-
- h1, h2, h3, h4, h5
-   color: $warning
+    h1, h2, h3, h4, h5
+      color: $warning
