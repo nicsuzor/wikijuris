@@ -51,6 +51,7 @@ The period of protection afforded by a standard patent is up to twenty years fro
 
 [^pa67]: _Patents Act 1990_ (Cth) s 67
 
+### Extensions for pharmaceutical Patents
 
 An extension of up to five years can be sought for pharmaceuticals. [^pa7079] Pharmaceuticals require regulatory approval before they are sold to the public and approvals can only be sought during the patent term, so patentees are compensated for the time taken to obtain regulatory approval.
 
@@ -58,26 +59,13 @@ An extension of up to five years can be sought for pharmaceuticals. [^pa7079] Ph
 
 Not all pharmaceutical patent applications are automatically given the extension of five years. Three requirements must be met to obtain an extension for a pharmaceutical patent:
 
+1. The claim must define a pharmaceutical substance per se or a substance produced by recombinant DNA technology. For a pharmaceutical substance per se, it must be must be disclosed and claimed, including compounds, active metabolites, a composition or a mixture of substances, and it must be unqualified by process, temporal or environmental components.[^LTS]
 
-### First requirement
+[^LTS]: _LTS Lohmann Therapie-Systeme Gmbh & Co KH_ [2002]
 
+2. Must be included in the Australian Register for Therapeutic Goods (ARTG). A substance can be included in the ARTG if it is included in some way. The substance does not have to be explicitly named as an active ingredient to be considered ‘included’ and can be an impurity, which has been noted.
 
-a) The first part of this requirement is that a pharmaceutical substance per se must be disclosed and claimed, including compounds, active metabolites, a composition or a mixture of substances. [^LTS]
-
-[^LTS]: //LTS Lohmann Therapie-Systeme Gmbh & Co KH// [2002]
-
-
-For a claim to related to a pharmaceutical substance per se, it must be unqualified by process, temporal or environmental components.
-
-b) A Pharmaceutical substance produced by a process that involves the use of recombinant DNA technology.
-
-### Second requirement
-
-Must be included in the Australian Register for Therapeutic Goods (ARTG). A substance can be included in the ARTG if it is included in some way. The substance does not have to be explicitly named as an active ingredient to be considered ‘included’ and can be an impurity, which has been noted.
-
-### Final requirement
-
-The final requirement for a pharmaceutical patent is that regulatory approval for the pharmaceutical substance must have occurred more than five years after the date of the patent.
+3. The final requirement for a pharmaceutical patent is that regulatory approval for the pharmaceutical substance must have occurred more than five years after the date of the patent.
 
 There are specific rights that are valid during the extended term of the patent. These include that a patent will not be infringed if a person exploits the pharmaceutical substance a purpose other than a therapeutic purpose or if a person exploits any form of the invention other than the pharmaceutical substance per se.
 
