@@ -4,6 +4,7 @@ title: Governing the Internet
 nav_order: 0
 has_children: true
 has_toc: true
+redirect_from:
 - /cyberlaw/
 - /cyberlaw
 ---
