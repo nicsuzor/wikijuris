@@ -4,7 +4,7 @@ title: Introduction to Intellectual Property
 nav_order: 5
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/intro-ip.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/intro-ip.markdown){: .btn .btn-outline }
 
 
 # Introduction to Intellectual Property
@@ -50,11 +50,11 @@ Because these things should be free for all people to use. Also, facts exist ind
 
 ### Types of IP
 
-**Video overview by Nic Suzor on the different types of [Intellectual Property](https://www.youtube.com/watch?v=eOiHqDYhaF4)**
+**Video overview by Nic Suzor on the different types of [Intellectual Property](https:_www.youtube.com/watch?v=eOiHqDYhaF4)**
 
 The term ‘intellectual property right’ is a broad term and branches out into different types of rights. Each of these IP rights protect different forms of intellectual property. The most common types of IP are: copyright, trade marks, industrial designs, and patent law.
 
-In this video, Rob talks about the rights he considered to [protect the IP in a safety helmet](https://www.youtube.com/watch?v=lTKbx91AE_4) he designed. Watch the video for an overview of the different types of IP as applied to a business context
+In this video, Rob talks about the rights he considered to [protect the IP in a safety helmet](https:_www.youtube.com/watch?v=lTKbx91AE_4) he designed. Watch the video for an overview of the different types of IP as applied to a business context
 
 #### Copyright
 
@@ -100,12 +100,12 @@ For designers to get protection, a design must be registered before any manufact
 In addition to the four main categories of IP discussed above, there are also a few other rules and sui generis laws for particular types of subject matter. These include rights such as plant breeders rights, circuit designs, and geographical indicators. The table below sets out the key Australian sources for intellectual property law.
 
 ^Intellectual Property Area        ^Rights               ^Source of Law in Australia |
-| Copyright | to copy and distribute creative works and productions | //Copyright Act 1968// (Cth)|
-| Trade marks | to use words and symbols to identify your goods and services in trade | //Trade Marks Act 1995// (Cth) |
-| Patents | to commercially exploit an invention | //Patent Act 1990// (Cth) |
-| Design | to apply a shape or pattern to a creation | //Design Act 2003// (Cth) |
-| Plant Breeders' Rights | to commercialise and control new plant materials | //Plant Breeder's Rights Act 1994// (Cth) |
-| Circuit designs | to copy, exploit, and create circuitry in accordance with the layout | //Circuit Layouts Act 1989// (Cth) |
+| Copyright | to copy and distribute creative works and productions | _Copyright Act 1968_ (Cth)|
+| Trade marks | to use words and symbols to identify your goods and services in trade | _Trade Marks Act 1995_ (Cth) |
+| Patents | to commercially exploit an invention | _Patent Act 1990_ (Cth) |
+| Design | to apply a shape or pattern to a creation | _Design Act 2003_ (Cth) |
+| Plant Breeders' Rights | to commercialise and control new plant materials | _Plant Breeder's Rights Act 1994_ (Cth) |
+| Circuit designs | to copy, exploit, and create circuitry in accordance with the layout | _Circuit Layouts Act 1989_ (Cth) |
 | Geographical Indicators | | |
 | Trade secrets | | Common law (Breach of Confidence) |
 
@@ -115,10 +115,10 @@ In addition to the four main categories of IP discussed above, there are also a 
 
 Intellectual property law, and especially copyright and patent law, is thought to have a predominantly instrumental function. It provides creators of new work (whether it is inventors of patents or authors and publishers alike), with certain incentives in order to encourage the creation of new expression. It does this by granting creators control over certain uses of their creations for specified periods of time, limiting who may exploit, or make use of the creations. Each specific area of intellectual property law confers exclusive rights to the creator or owner. The exclusive rights vary between the types of intellectual property law, however, the concept of exclusive use of the creations remains the same.
 
-There are several views concerning the purpose of intellectual property law. One view is that intellectual property encourages creativity and innovation by allowing creators to profit from their work. This view is most notable in the area of copyright and is reflected in the wording of many copyright laws. For example, the "Copyright Clause" of the //United States Constitution// states that Congress may grant authors copyright protection for their works for a limited time in order to "promote the progress of science and useful arts". [^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE] Similarly, the stated purpose of the //Statute of Anne//, the first copyright statute in England, was to "encourage learning". [^AUTOREPLACED8AnneChapter191710ENDREPLACE] Another view is that intellectual property law ensures that creators are paid fairly for their effort. A third view suggests that a creative work is an expression of the personality of its creator and should be protected from being used without the creator's permission.
-[^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]: //US Constitution, Article 1, Section 8, Clause 8//
+There are several views concerning the purpose of intellectual property law. One view is that intellectual property encourages creativity and innovation by allowing creators to profit from their work. This view is most notable in the area of copyright and is reflected in the wording of many copyright laws. For example, the "Copyright Clause" of the _United States Constitution_ states that Congress may grant authors copyright protection for their works for a limited time in order to "promote the progress of science and useful arts". [^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE] Similarly, the stated purpose of the _Statute of Anne_, the first copyright statute in England, was to "encourage learning". [^AUTOREPLACED8AnneChapter191710ENDREPLACE] Another view is that intellectual property law ensures that creators are paid fairly for their effort. A third view suggests that a creative work is an expression of the personality of its creator and should be protected from being used without the creator's permission.
+[^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]: _US Constitution, Article 1, Section 8, Clause 8_
 
-[^AUTOREPLACED8AnneChapter191710ENDREPLACE]: //8 Anne Chapter 19// (1710)
+[^AUTOREPLACED8AnneChapter191710ENDREPLACE]: _8 Anne Chapter 19_ (1710)
 
 
 Although intellectual property law grants creators many exclusive rights, it also limits these rights in many important ways. Most of these limitations are quite specific, but a few are broad. These limits are important in order to ensure that law is balanced - that the monopoly granted by intellectual property's exclusive rights does not place excessive limitations on the public's freedom to learn, express themselves and build upon existing cultural works.
@@ -127,17 +127,17 @@ Although intellectual property law grants creators many exclusive rights, it als
 ### The Economic (Utilitarian) Justification
 
 The most common justifications for intellectual property is the utilitarian justification. According to the US Constitution, intellectual property law exists, “[t]o promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries". [^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]
-[^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]: //US Constitution, Article 1, Section 8, Clause 8//
+[^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]: _US Constitution, Article 1, Section 8, Clause 8_
 
 
-**Video overview of [The Utilitarian Justification for Intellectual Property](https://www.youtube.com/watch?v=KVpYFZ-FBdk).**
+**Video overview of [The Utilitarian Justification for Intellectual Property](https:_www.youtube.com/watch?v=KVpYFZ-FBdk).**
 
 
 The utilitarian perspective of intellectual property stems from the idea that expression is a "public good" and that creators therefore cannot prevent others from using their expression without legal intervention. This idea is supported by the unique "non-rival" nature of expression as an intangible good - that is - one person's use does not diminish or interfere with the use by another. However, the inability to exclude others may present problems for creators and the production of public goods. If a creator of a public good is unable to exclude others from using it, she or he will be unlikely to recoup the time and/or monetary investment in creating it. This may cause creators, or those funding creation such as publishers, record labels or movie studios, to stop spending resources on cultural production because they cannot profit from it. Intellectual property seeks to prevent this from happening by making expression excludable in order to allow producers to commercialise their creations and recover their costs. Intellectual property law does this by providing a set of "exclusive rights" to creators and inventors.
 
 In order to make the production of public goods more profitable, intellectual property makes access more expensive. The law must then strike a delicate balance between encouraging the creation and dissemination of works by providing incentives and recognising the public interest in greater access to expression. The law must also recognise the needs of future authors who often build upon the past expression. Because of this, the stronger intellectual property protection is, the more expensive future production becomes.
 
-**Video overview of [The IP Balance](https://www.youtube.com/watch?v=jpOe9VRYKJ8).**
+**Video overview of [The IP Balance](https:_www.youtube.com/watch?v=jpOe9VRYKJ8).**
 
 ### The Natural Rights Justification
 
@@ -157,38 +157,38 @@ Intellectual property was not always central to international trade. As technolo
 
 ^Year    ^Agreement     ^Effect |
 | 1873 | The impetus for international protection | Creators refused to attend the International Exhibition of Inventions in Vienna, Austria, because they were afraid their ideas would be stolen and exploited in other countries.|
-| 1883 | The Paris Convention | //The Paris Convention for the Protection of Intellectual Property// is the first major international treaty designed to help the people of one country obtain intellectual property protection in another country. It applies mainly to patents, but also covers trade marks and industrial designs. It was first agreed on in 20 March 1883. It has now been incorporated into the //TRIPS// Agreement.|
-| 1886 | The Berne Convention | //The Berne Convention for the Protection of Literary and Artistic Works// aims to give creators the right to control and receive payment for their creative works on an international level. This agreement applies to copyright.|
-| 1893 | BIRPI is established | The //United International Bureaux for the Protection of Intellectual Property// (//BIRPI//) was an international organisation set up in 1893 to administer the //Berne Convention for the Protection of Literary and Artistic Works// and the //Paris Convention for the Protection of Industrial Property//. The BIRPI is the predecessor of the //World Intellectual Property Organisation// (//WIPO//).|
-| 1947 - 1949 | //General Agreement on Tariffs and Trade// (//GATT//) | In 1947, the //General Agreement on Tariffs and Trade// (//GATT//) is signed, following decades of economic instability with the Great Depression and World War II. The Agreement was negotiated during the United Nations Conference on Trade and Employment and was the outcome of the failure of negotiating governments to create the //International Trade Organisation// (//ITO//). The idea behind //GATT// was to set up basic trade rules and reduce tariffs between countries.|
-| 1970; 1974 | //The World Intellectual Property Organisation// (//WIPO//)| The Convention establishing the //World Intellectual Property Organisation// (//WIPO//) comes into force (on 26 April 1970) and //BIRPI// is thus transformed to become //WIPO//. The newly established //WIPO// is a member state-led, intergovernmental organisation, with its headquarters in Geneva, Switzerland. //WIPO// has two main purposes: (1) to provide legal and technical assistance, particularly to developing countries, to develop IP regimes; and (2) to administer the multilateral IP agreements.|
-| 1986 - 1994 | The Uruguay Round| The //Uruguay Round// was a round of multilateral trade negotiations conducted within the framework of the GATT. The round began in 1986, but negotiations stalled in 1991 when the US refused to agree to anything unless intellectual property was included within the negotiations. The //Uruguay Round// concluded in 1994 with the signing of the //Marrakesh Agreement//, which established the //WTO//. Members also agreed to the Dispute Settlement Understanding (DSU), which is annexed to the Marrakesh Agreement.|
-| 1995 | //World Trade Organisation// (//WTO//)| The //WTO// comes into effect on 1 January 1995, replacing the //GATT// system. This is widely regarded as the most profound institutional reform of the world trading system since the //GATT// was established.|
-| 1995 | //TRIPS// | The //Agreement on Trade-Related Aspects of Intellectual Property Rights// (//TRIPS//) is an international legal agreement between all the member nations of the //WTO//. It sets down minimum standards for the protection of intellectual property.|
-| 2001 | The Doha Declaration | The Doha Development Round commences in 2001. The Doha Declaration on the //TRIPS// Agreement and Public Health is adopted by the WTO Ministerial Conference on 14 November 2001.|
-| 2004/2005 | //Australia-US Free Trade Agreement// (//AUSFTA//)| On 18 May 2004, the //Australia – United States Free Trade Agreement// (//AUSFTA//) is signed.  This is a preferential trade agreement between Australia and the United States modelled on the //North American Free Trade Agreement// (//NAFTA//). The Agreement came into effect on 1 January 2005.|
-| 2013 and beyond | The Trans-Pacific Partnership Agreement | The //Trans-Pacific Partnership Agreement// (//TPP//) was negotiated between twelve countries that border the Pacific Ocean: Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, the United States and Vietnam. These countries represent approximately 40% of the world's economic output, making the //TPP// the largest trade agreement in history. However, before negotiations were finalised, on 23 January 2017, when US President Donald Trump took office, he signed a presidential memorandum to withdraw the United States from //TPP// negotiations. While other //TPP// countries, including Australia, have stated that they plan to continue //TPP// negotiations, the future of the agreement looks uncertain without US involvement.|
+| 1883 | The Paris Convention | _The Paris Convention for the Protection of Intellectual Property_ is the first major international treaty designed to help the people of one country obtain intellectual property protection in another country. It applies mainly to patents, but also covers trade marks and industrial designs. It was first agreed on in 20 March 1883. It has now been incorporated into the _TRIPS_ Agreement.|
+| 1886 | The Berne Convention | _The Berne Convention for the Protection of Literary and Artistic Works_ aims to give creators the right to control and receive payment for their creative works on an international level. This agreement applies to copyright.|
+| 1893 | BIRPI is established | The _United International Bureaux for the Protection of Intellectual Property_ (_BIRPI_) was an international organisation set up in 1893 to administer the _Berne Convention for the Protection of Literary and Artistic Works_ and the _Paris Convention for the Protection of Industrial Property_. The BIRPI is the predecessor of the _World Intellectual Property Organisation_ (_WIPO_).|
+| 1947 - 1949 | _General Agreement on Tariffs and Trade_ (_GATT_) | In 1947, the _General Agreement on Tariffs and Trade_ (_GATT_) is signed, following decades of economic instability with the Great Depression and World War II. The Agreement was negotiated during the United Nations Conference on Trade and Employment and was the outcome of the failure of negotiating governments to create the _International Trade Organisation_ (_ITO_). The idea behind _GATT_ was to set up basic trade rules and reduce tariffs between countries.|
+| 1970; 1974 | _The World Intellectual Property Organisation_ (_WIPO_)| The Convention establishing the _World Intellectual Property Organisation_ (_WIPO_) comes into force (on 26 April 1970) and _BIRPI_ is thus transformed to become _WIPO_. The newly established _WIPO_ is a member state-led, intergovernmental organisation, with its headquarters in Geneva, Switzerland. _WIPO_ has two main purposes: (1) to provide legal and technical assistance, particularly to developing countries, to develop IP regimes; and (2) to administer the multilateral IP agreements.|
+| 1986 - 1994 | The Uruguay Round| The _Uruguay Round_ was a round of multilateral trade negotiations conducted within the framework of the GATT. The round began in 1986, but negotiations stalled in 1991 when the US refused to agree to anything unless intellectual property was included within the negotiations. The _Uruguay Round_ concluded in 1994 with the signing of the _Marrakesh Agreement_, which established the _WTO_. Members also agreed to the Dispute Settlement Understanding (DSU), which is annexed to the Marrakesh Agreement.|
+| 1995 | _World Trade Organisation_ (_WTO_)| The _WTO_ comes into effect on 1 January 1995, replacing the _GATT_ system. This is widely regarded as the most profound institutional reform of the world trading system since the _GATT_ was established.|
+| 1995 | _TRIPS_ | The _Agreement on Trade-Related Aspects of Intellectual Property Rights_ (_TRIPS_) is an international legal agreement between all the member nations of the _WTO_. It sets down minimum standards for the protection of intellectual property.|
+| 2001 | The Doha Declaration | The Doha Development Round commences in 2001. The Doha Declaration on the _TRIPS_ Agreement and Public Health is adopted by the WTO Ministerial Conference on 14 November 2001.|
+| 2004/2005 | _Australia-US Free Trade Agreement_ (_AUSFTA_)| On 18 May 2004, the _Australia – United States Free Trade Agreement_ (_AUSFTA_) is signed.  This is a preferential trade agreement between Australia and the United States modelled on the _North American Free Trade Agreement_ (_NAFTA_). The Agreement came into effect on 1 January 2005.|
+| 2013 and beyond | The Trans-Pacific Partnership Agreement | The _Trans-Pacific Partnership Agreement_ (_TPP_) was negotiated between twelve countries that border the Pacific Ocean: Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, the United States and Vietnam. These countries represent approximately 40% of the world's economic output, making the _TPP_ the largest trade agreement in history. However, before negotiations were finalised, on 23 January 2017, when US President Donald Trump took office, he signed a presidential memorandum to withdraw the United States from _TPP_ negotiations. While other _TPP_ countries, including Australia, have stated that they plan to continue _TPP_ negotiations, the future of the agreement looks uncertain without US involvement.|
 
-Intellectual property law has been relatively harmonised worldwide. There are a number of agreements regarding intellectual property law in general, and more specific agreements that apply to certain areas of intellectual property. The [World Intellectual Property Organisation](https://www.wipo.int/about-wipo/en/) (WIPO) is an international agency, established in 1967 which administers treaties such as the //Paris Convention on the Protection of Industrial Property 1883// and the //Berne Convention for the Protection of Literary and Artistic Works 1886//, //WIPO Performances and Phonograms Treaty// and //WIPO Copyright Treaty//. It is WIPO's obligation to administer intellectual property matters and there are approximately 22 intellectual property treaties under its administration. Whilst WIPO administers the treaties, it does not have the requisite power to ensure compliance of the treaties. As a result of this, the //World Trade Organisation Agreement// was enacted, specifically the part that deals with intellectual property, the //Trade Related Aspects of Intellectual Property Rights 1994// (//TRIPS//).
+Intellectual property law has been relatively harmonised worldwide. There are a number of agreements regarding intellectual property law in general, and more specific agreements that apply to certain areas of intellectual property. The [World Intellectual Property Organisation](https:_www.wipo.int/about-wipo/en/) (WIPO) is an international agency, established in 1967 which administers treaties such as the _Paris Convention on the Protection of Industrial Property 1883_ and the _Berne Convention for the Protection of Literary and Artistic Works 1886_, _WIPO Performances and Phonograms Treaty_ and _WIPO Copyright Treaty_. It is WIPO's obligation to administer intellectual property matters and there are approximately 22 intellectual property treaties under its administration. Whilst WIPO administers the treaties, it does not have the requisite power to ensure compliance of the treaties. As a result of this, the _World Trade Organisation Agreement_ was enacted, specifically the part that deals with intellectual property, the _Trade Related Aspects of Intellectual Property Rights 1994_ (_TRIPS_).
 
-//TRIPS// is an international agreement which identifies 5 minimum standards for intellectual property that all members of the WTO must adhere to. Further, each WTO member is required by //TRIPS// to enforce these standards.
+_TRIPS_ is an international agreement which identifies 5 minimum standards for intellectual property that all members of the WTO must adhere to. Further, each WTO member is required by _TRIPS_ to enforce these standards.
 
 There are also a number of bilateral intellectual property law agreements. These agreements are often entered into to ensure that the countries who deal in trade together have similar or compatible intellectual property laws. Some of the most notable trade agreements are:
 
-- //Australia-United States Free Trade Agreement// (//AUSFTA//)
+- _Australia-United States Free Trade Agreement_ (_AUSFTA_)
 
-- //Korea-Australia Free Trade Agreement// (//KAFTA//)
+- _Korea-Australia Free Trade Agreement_ (_KAFTA_)
 
-- //Japan-Australia Economic Partnership Agreement// (//JAEPA//)
+- _Japan-Australia Economic Partnership Agreement_ (_JAEPA_)
 
-- //China-Australia Free Trade Agreement// (//CHAFTA//)
+- _China-Australia Free Trade Agreement_ (_CHAFTA_)
 
-- //Anti-Counterfeiting Trade Agreement// (//ACTA//)
+- _Anti-Counterfeiting Trade Agreement_ (_ACTA_)
 
-- //Trans-Pacific Partnership// (//TPP//)
+- _Trans-Pacific Partnership_ (_TPP_)
 
-- //Trans-Atlantic Trade and Investment Partnership// (//TTIP//)
+- _Trans-Atlantic Trade and Investment Partnership_ (_TTIP_)
 
-- //Trade in Services Agreement// (//TISA//)
+- _Trade in Services Agreement_ (_TISA_)
 
-One controversial aspect of trade agreements is the use of investor-state dispute settlement (ISDS) clauses. In the case of many treaties, if there is a dispute between the parties, //TRIPS// can be used to enforce the standards of trade. However, in instances where an ISDS is included in contracts, individual investors can bring arbitration proceeding against a nation. This process can be very costly and may involve significant delay.
+One controversial aspect of trade agreements is the use of investor-state dispute settlement (ISDS) clauses. In the case of many treaties, if there is a dispute between the parties, _TRIPS_ can be used to enforce the standards of trade. However, in instances where an ISDS is included in contracts, individual investors can bring arbitration proceeding against a nation. This process can be very costly and may involve significant delay.

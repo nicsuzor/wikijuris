@@ -5,7 +5,7 @@ nav_order: 50
 parent: Australian IP Law
 has_children: true
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-overview.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-overview.markdown){: .btn .btn-outline }
 
 
 # Trade Mark Overview
@@ -22,40 +22,40 @@ The origins of trade mark law can be traced back to medieval times when traders 
 
 In Australia, there are a number sources of trade mark law including:
 
-1. [Trade Mark Act 1995 (Cth)](https://www.legislation.gov.au/Details/C2019C00085);
-2. [Trade Mark Regulations 1995 (Cth)](https://www.legislation.gov.au/Details/F2018C00773);
+1. [Trade Mark Act 1995 (Cth)](https:_www.legislation.gov.au/Details/C2019C00085);
+2. [Trade Mark Regulations 1995 (Cth)](https:_www.legislation.gov.au/Details/F2018C00773);
 3. International law and treaties; and
 4. The common law tort of passing off.
 
 ## Introduction to Trade Marks
 
-As noted above, trade mark law is governed by the //Trade Marks Act 1995// (Cth) (//TMA//). Trade mark protection gives the registered owner the exclusive right to use the trade mark or authorise another person to use the trade mark in relation to the goods or services in which it is registered. These exclusive rights include the right to obtain relief if the trade mark has been infringed. [^AUTOREPLACEDTMAs20ENDREPLACE] Trade mark law overcomes some of the limitations of passing off.
-[^AUTOREPLACEDTMAs20ENDREPLACE]: //TMA// s 20
+As noted above, trade mark law is governed by the _Trade Marks Act 1995_ (Cth) (_TMA_). Trade mark protection gives the registered owner the exclusive right to use the trade mark or authorise another person to use the trade mark in relation to the goods or services in which it is registered. These exclusive rights include the right to obtain relief if the trade mark has been infringed. [^AUTOREPLACEDTMAs20ENDREPLACE] Trade mark law overcomes some of the limitations of passing off.
+[^AUTOREPLACEDTMAs20ENDREPLACE]: _TMA_ s 20
 
 
 
-**Video overview by Dan Hunter on [The Need for the Trade Mark Law System](https://youtu.be/G073FK1BzAU?list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
+**Video overview by Dan Hunter on [The Need for the Trade Mark Law System](https:_youtu.be/G073FK1BzAU?list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
 
 ## Rationale for Protection
 
 Trade marks serve the economic function of reducing consumer search costs by helping consumers to find products they know and like.  At the same time, trade marks give producers incentives to maintain quality standards and promotes investment.
 
-**Video over by Brian Hensel on [The Rationale for Trade Marks](https://www.youtube.com/watch?v=_AnH_0APBVo)**
+**Video over by Brian Hensel on [The Rationale for Trade Marks](https:_www.youtube.com/watch?v=_AnH_0APBVo)**
 
 ## International Law and Trade Marks
 
-The trade marks legislation was amended in 1995 to align with Australia's obligations under the //[Agreement of Trade-Related Aspects of Intellectual Property Rights](https://www.wto.org/english/docs_e/legal_e/27-trips_01_e.htm)// (//TRIPS//). As Australia is a //WTO// country, there are a number of minimum standards relating to trade marks that each //WTO// country must meet. This includes having a trade mark registration system. Whilst trade marks do not have to be registered, there are a number of benefits of using the trade mark system as opposed to relying on the common law to recognise ownership of trade marks through reputation. These benefits include 'prima facie proof of ownership'.
+The trade marks legislation was amended in 1995 to align with Australia's obligations under the _[Agreement of Trade-Related Aspects of Intellectual Property Rights](https:_www.wto.org/english/docs_e/legal_e/27-trips_01_e.htm)_ (_TRIPS_). As Australia is a _WTO_ country, there are a number of minimum standards relating to trade marks that each _WTO_ country must meet. This includes having a trade mark registration system. Whilst trade marks do not have to be registered, there are a number of benefits of using the trade mark system as opposed to relying on the common law to recognise ownership of trade marks through reputation. These benefits include 'prima facie proof of ownership'.
 
 ## The Registration Process
 
 The process of registering trade marks involves seven steps.
 
-1.	Application: An application is made under s 27 //TMA//;
+1.	Application: An application is made under s 27 _TMA_;
 2.	Examination: The Trade Mark Office examines the trade mark, and an amendment is made if necessary;
 3.	Acceptance/Rejection: The Trade Mark Office either accepts or rejects the trade mark;
 4.	Opposition: The Trade Mark Office advertises the trade mark for two months, during which time any third party can object to the trade mark;
 5.	Registration: If no oppositions are lodged, or after oppositions are successfully overcome, the trade mark is registered;
-6.	Renewal: A trade mark is valid for 10 years, and must be renewed every 10 years to remain on foot under s 75 //TMA//;
+6.	Renewal: A trade mark is valid for 10 years, and must be renewed every 10 years to remain on foot under s 75 _TMA_;
 7.	Amendment/Cancellation: Once a trade mark is registered, it can be amended or cancelled on application of interested third parties or the registrar. The onus is on the party seeking the amendment or cancellation.
 
 The process of registering domestic and international applications for trade marks will be discussed in the following chapter.
@@ -63,28 +63,28 @@ The process of registering domestic and international applications for trade mar
 
 ## Trade Marks Act 1995 (Cth)
 
-The //TMA// made significant changes to the law relating to trade marks and, as noted earlier, this was in part a response to Australia’s new obligations under the //TRIPS//. As a result of the changes, the //TMA// was broadened to offer protection where a trade mark is used in relation to goods of the same description or in relation to closely related service.
+The _TMA_ made significant changes to the law relating to trade marks and, as noted earlier, this was in part a response to Australia’s new obligations under the _TRIPS_. As a result of the changes, the _TMA_ was broadened to offer protection where a trade mark is used in relation to goods of the same description or in relation to closely related service.
 
-The //TMA// also offers extended protection to well-known marks, by granting protection where the trade mark is used on unrelated goods or services.
+The _TMA_ also offers extended protection to well-known marks, by granting protection where the trade mark is used on unrelated goods or services.
 
-The //TMA// further permits the registration of trade marks that are not inherently distinctive but become distinctive through use. [^AUTOREPLACEDTMAs41ENDREPLACE]
-[^AUTOREPLACEDTMAs41ENDREPLACE]: //TMA// s 41
+The _TMA_ further permits the registration of trade marks that are not inherently distinctive but become distinctive through use. [^AUTOREPLACEDTMAs41ENDREPLACE]
+[^AUTOREPLACEDTMAs41ENDREPLACE]: _TMA_ s 41
 
 
-While there are significant differences between the 1955 Act and the //TMA//, many existing concepts were left in place in the current //Act//, and so cases decided under the 1955 Act are still relevant.
+While there are significant differences between the 1955 Act and the _TMA_, many existing concepts were left in place in the current _Act_, and so cases decided under the 1955 Act are still relevant.
 
 ## Why Have a Registered Trade Mark System?
 
-The //TMA// was introduced to help overcome some of the limitations of passing-off law. In particular, the legislative regime for registration sought to overcome the difficulty of having to prove reputation before an action could be brought against the misappropriation of a trade mark. It also provided a system of property rights in the mark itself, the appropriation of which was not dependent on their being a misrepresentation.
+The _TMA_ was introduced to help overcome some of the limitations of passing-off law. In particular, the legislative regime for registration sought to overcome the difficulty of having to prove reputation before an action could be brought against the misappropriation of a trade mark. It also provided a system of property rights in the mark itself, the appropriation of which was not dependent on their being a misrepresentation.
 
-The //TMA// provides certainty, by clearly defining the boundaries of a trade mark. It also gives property rights in the trade mark itself, rather than in the goodwill attached to the mark.
+The _TMA_ provides certainty, by clearly defining the boundaries of a trade mark. It also gives property rights in the trade mark itself, rather than in the goodwill attached to the mark.
 
 ## What Does Trade Mark Registration Give You?
 
-Registration gives the registered owner the exclusive right to use the trade mark or authorise another person to use the trade mark in relation to the goods and services in which it is registered. [^AUTOREPLACEDTMAs201ENDREPLACE] The trade mark owner also has the right to obtain relief if the trade mark is infringed. [^AUTOREPLACEDTMAs202ENDREPLACE] A trade mark is infringed if it is used in a manner specified in //TMA// s 120.
-[^AUTOREPLACEDTMAs201ENDREPLACE]: //TMA// s 20(1)
+Registration gives the registered owner the exclusive right to use the trade mark or authorise another person to use the trade mark in relation to the goods and services in which it is registered. [^AUTOREPLACEDTMAs201ENDREPLACE] The trade mark owner also has the right to obtain relief if the trade mark is infringed. [^AUTOREPLACEDTMAs202ENDREPLACE] A trade mark is infringed if it is used in a manner specified in _TMA_ s 120.
+[^AUTOREPLACEDTMAs201ENDREPLACE]: _TMA_ s 20(1)
 
-[^AUTOREPLACEDTMAs202ENDREPLACE]: //TMA// s 20(2)
+[^AUTOREPLACEDTMAs202ENDREPLACE]: _TMA_ s 20(2)
 
 
 ## Definition of a Trade Mark
@@ -101,13 +101,13 @@ A trade mark must:
 
 These elements will be outlined in more detail below.
 
-**Video overview by Dan Hunter on [The Definition of a Trade Mark](https://www.youtube.com/watch?v=LjKF7UrbCDI&index=2&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
+**Video overview by Dan Hunter on [The Definition of a Trade Mark](https:_www.youtube.com/watch?v=LjKF7UrbCDI&index=2&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
 
 
 ### A Sign
 
 A sign includes the following or any combination of the following, namely: letter, word, name, signature, numeral, device, brand, heading, label, ticket, aspect of packaging, shape, colour, sound or scent. [^AUTOREPLACEDTMAs6ENDREPLACE]
-[^AUTOREPLACEDTMAs6ENDREPLACE]: //TMA// s 6
+[^AUTOREPLACEDTMAs6ENDREPLACE]: _TMA_ s 6
 
 
 
@@ -117,21 +117,21 @@ A sign includes the following or any combination of the following, namely: lette
 Use ‘as a trade mark’ is use of the mark as a *badge of origin* whether the trade mark would have been understood by consumers as being used to *indicate a connection* in the course of trade between the goods or services and the person using it.
 
 Use of a trade mark in relation to goods/services also means use of the trade mark upon, or in physical or other relation to,  the goods (including secondhand goods) or services. [^AUTOREPLACEDTMAs74and5ENDREPLACE]
-[^AUTOREPLACEDTMAs74and5ENDREPLACE]: //TMA// s 7(4) and (5)
+[^AUTOREPLACEDTMAs74and5ENDREPLACE]: _TMA_ s 7(4) and (5)
 
 
 
 ### Distinguishing Goods or Services in the Course of Trade
 
-There is no requirement that trade result in actual sales or dealing in the goods – it is enough if the goods or services have been offered or advertised for sale or hire. However, a trade mark must be registered with respect to one or more classes of goods and/or services. [^AUTOREPLACEDTMAs19ENDREPLACE] There are 34 classes of goods and 11 classes of services. See IP Australia, Trade Marks Classification Search, [Classes of Goods](http://xeno.ipaustralia.gov.au/tmgns/facelets/tmgoods.xhtml)
-[^AUTOREPLACEDTMAs19ENDREPLACE]: //TMA// s 19
+There is no requirement that trade result in actual sales or dealing in the goods – it is enough if the goods or services have been offered or advertised for sale or hire. However, a trade mark must be registered with respect to one or more classes of goods and/or services. [^AUTOREPLACEDTMAs19ENDREPLACE] There are 34 classes of goods and 11 classes of services. See IP Australia, Trade Marks Classification Search, [Classes of Goods](http:_xeno.ipaustralia.gov.au/tmgns/facelets/tmgoods.xhtml)
+[^AUTOREPLACEDTMAs19ENDREPLACE]: _TMA_ s 19
 
 
 
-**Video overview by Morgan Beames on [The Classification System for Trade Marks](https://www.youtube.com/watch?v=OQKNDMjn89M)**
+**Video overview by Morgan Beames on [The Classification System for Trade Marks](https:_www.youtube.com/watch?v=OQKNDMjn89M)**
 
 
-**Video overview by Maddy Ryan on [The Classification System for Trade Marks](https://www.youtube.com/watch?v=VUJxVWAMvIo)**
+**Video overview by Maddy Ryan on [The Classification System for Trade Marks](https:_www.youtube.com/watch?v=VUJxVWAMvIo)**
 
 ## Types of Trade Marks
 
@@ -139,7 +139,7 @@ There are four types of trade marks which can be registered:
 
 
 1.  **Standard trade mark**: A sign used, or intended to be used, to distinguish goods or services dealt with or provided in the course of trade, from goods or services dealt with or provided by any other person. [^AUTOREPLACEDTMAs17ENDREPLACE]
-[^AUTOREPLACEDTMAs17ENDREPLACE]: //TMA// s 17
+[^AUTOREPLACEDTMAs17ENDREPLACE]: _TMA_ s 17
 
 
 2.  **Collective trade mark**: A sign used by members of an association to distinguish goods or services provided by persons who are not members of that association. For example, *Industry Super Funds*
@@ -148,9 +148,9 @@ There are four types of trade marks which can be registered:
 
 4.  **Certification trade mark**: A sign distinguishing goods or services in respect of origin, material, mode of manufacture, accuracy or some other characteristics.  For example *Woolmark*, *Heart Foundation Tick*, *Fresh Care*.
 
-**Video overview by Luke Chandler on [Defensive Trade Marks](https://www.youtube.com/watch?v=xfb8qqBdzp0)**
+**Video overview by Luke Chandler on [Defensive Trade Marks](https:_www.youtube.com/watch?v=xfb8qqBdzp0)**
 
-**Video overview by Ethan McCann on [Certification Marks](https://www.youtube.com/watch?v=XhrvRSXeq2U)**
+**Video overview by Ethan McCann on [Certification Marks](https:_www.youtube.com/watch?v=XhrvRSXeq2U)**
 
 
 ## Non-Traditional Trade Marks
@@ -169,14 +169,14 @@ In *Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks*, [^AUTOREPLACED20
 [^AUTOREPLACED2002FCAFC273ENDREPLACE]: [2002] FCAFC 273
 
 
-However, in *[Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/816.html)*, [^AUTOREPLACED1999FCA816ENDREPLACE] the design of a triple-headed rotary shaver could not be registered as a trade mark since the configuration of the three heads was the best design and did not add anything extra to distinguish the product.
+However, in *[Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/816.html)*, [^AUTOREPLACED1999FCA816ENDREPLACE] the design of a triple-headed rotary shaver could not be registered as a trade mark since the configuration of the three heads was the best design and did not add anything extra to distinguish the product.
 [^AUTOREPLACED1999FCA816ENDREPLACE]: [1999] FCA 816
 
 
 ### Colour
 
 Colour is an important element to brands. The colour often acts as a visual symbol provoking memories and attachment. Colour is expressly listed as able to constitute a sign. [^AUTOREPLACEDTMAs6ENDREPLACE]
-[^AUTOREPLACEDTMAs6ENDREPLACE]: //TMA// s 6
+[^AUTOREPLACEDTMAs6ENDREPLACE]: _TMA_ s 6
 
 
 The legal requirements for colours to be trade marks are
@@ -188,15 +188,15 @@ In order for a colour to be distinctive it needs to be capable to distinguish go
 
 In order for a colour to be distinctive it needs to be capable to distinguish goods and services from other products and services. To determine whether a colour is being used as a trade mark an objective analysis of the purpose and nature of the use of the colour must be undertaken. The colour must be used as a ‘ badge of honour’ to distinguish the product form those of other competitors.
 
-**Video overview by Emily Rees on [Colour Marks](https://www.youtube.com/watch?v=6-gnP8tkRwk)**
+**Video overview by Emily Rees on [Colour Marks](https:_www.youtube.com/watch?v=6-gnP8tkRwk)**
 
 
-**Video overview by Kate Clinton on [Colour Marks](https://www.youtube.com/watch?v=CNl9ncEadXM)**
+**Video overview by Kate Clinton on [Colour Marks](https:_www.youtube.com/watch?v=CNl9ncEadXM)**
 
 
 Colour can be registered as a trade mark if the colour is distinct and has no functional purpose.
 
-In *[Philmac Pty Limited v The Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2002/1551.html)*, [^AUTOREPLACED2002FCA1551ENDREPLACE] a terracotta shade on plastic pipes and pipe fittings could be registered as a trade mark as the colour had no functional purpose. In contrast, in *[Smith Kline and French Laboratories (Australia) Ltd v Registrar of Trade Marks](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1967/42.html)*,[^AUTOREPLACED1967HCA42ENDREPLACE] the colour scheme of a pharmaceutical capsule which was half transparent and revealed multi-coloured pellets of medicine was refused registration as the trade mark could not be described apart from the capsule.
+In *[Philmac Pty Limited v The Registrar of Trade Marks](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2002/1551.html)*, [^AUTOREPLACED2002FCA1551ENDREPLACE] a terracotta shade on plastic pipes and pipe fittings could be registered as a trade mark as the colour had no functional purpose. In contrast, in *[Smith Kline and French Laboratories (Australia) Ltd v Registrar of Trade Marks](http:_www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1967/42.html)*,[^AUTOREPLACED1967HCA42ENDREPLACE] the colour scheme of a pharmaceutical capsule which was half transparent and revealed multi-coloured pellets of medicine was refused registration as the trade mark could not be described apart from the capsule.
 [^AUTOREPLACED2002FCA1551ENDREPLACE]: [2002] FCA 1551
 
 [^AUTOREPLACED1967HCA42ENDREPLACE]: [1967] HCA 42
@@ -204,7 +204,7 @@ In *[Philmac Pty Limited v The Registrar of Trade Marks](http://www.austlii.edu.
 
 
 
-**Video overview by Paula Harrison on [Colours](https://www.youtube.com/watch?v=X0tXFWezfwA)**
+**Video overview by Paula Harrison on [Colours](https:_www.youtube.com/watch?v=X0tXFWezfwA)**
 
 
 
@@ -218,12 +218,12 @@ Much like other types of trade marks, in order to register the sound mark the so
 
 To be distinct it must provide an audible identifier that sets the product out as being unique (as opposed to common functional sound).
 
-**Video overview by Darren Brown on [Registering Sounds](https://www.youtube.com/watch?v=UHJfTerLjoA)**
+**Video overview by Darren Brown on [Registering Sounds](https:_www.youtube.com/watch?v=UHJfTerLjoA)**
 
 
 ### Registering Scents
 
-According to s 6 of the //TMA// a scent is capable of being a trade mark. In order to be considered a trade mark, the scent must be distinctive enough to distinguish the product from other products and services.
+According to s 6 of the _TMA_ a scent is capable of being a trade mark. In order to be considered a trade mark, the scent must be distinctive enough to distinguish the product from other products and services.
 
 Scents alone can’t be registered as a trade mark, they must form only part of the trade mark application.
 
@@ -235,7 +235,7 @@ Scents also must be adequately described in writing or graphically represented i
 
 There is no requirement to provide a sample of the scent when applying for trade mark registration, however it can be requested at the point the registration application is reviewed.
 
-**Video overview by Luana Maeyke on [Scent Marks](https://www.youtube.com/watch?v=foAqYOABIXk)**
+**Video overview by Luana Maeyke on [Scent Marks](https:_www.youtube.com/watch?v=foAqYOABIXk)**
 
 
-**Video overview by Rica Ehlers on [Scent Marks](https://www.youtube.com/watch?v=1lbiM5du5fg)**
+**Video overview by Rica Ehlers on [Scent Marks](https:_www.youtube.com/watch?v=1lbiM5du5fg)**

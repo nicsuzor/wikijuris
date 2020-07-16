@@ -5,7 +5,7 @@ nav_order: 28
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/moralrights.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/moralrights.markdown){: .btn .btn-outline }
 
 
 # Moral Rights and Performers Rights
@@ -24,14 +24,14 @@ Creators of copyright have a special right known as “moral rights”, in addit
 
 Moral rights can only be owned by individuals (not corporations). A creator will hold their moral rights for the entire duration of copyright; moral rights cannot be transferred to anyone else.
 
-The concepts of moral rights and performers rights are still relatively new in Australia, with the first mention of moral rights being introduced by the //Copyright Amendment (Moral Rights) Act// 2000 (Cth) and additional performers rights being implemented as a result of the //US Free Trade Agreement Implementation Act// 2004 (Cth). These moral rights protect authors, creators and directors - they protect individuals not the copyright owners. These rights operate parallel to the copyright regime and act as inalienable rights.
+The concepts of moral rights and performers rights are still relatively new in Australia, with the first mention of moral rights being introduced by the _Copyright Amendment (Moral Rights) Act_ 2000 (Cth) and additional performers rights being implemented as a result of the _US Free Trade Agreement Implementation Act_ 2004 (Cth). These moral rights protect authors, creators and directors - they protect individuals not the copyright owners. These rights operate parallel to the copyright regime and act as inalienable rights.
 
 The philosophy underpinning moral rights is that creators deserve respect integral to the act of creativity which remains even after copyrights has been assigned.
 
-**Video overview by Nicolas Suzor on [Moral Rights](https://www.youtube.com/watch?v=Zg_pPoz2BXY&index=6&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
+**Video overview by Nicolas Suzor on [Moral Rights](https:_www.youtube.com/watch?v=Zg_pPoz2BXY&index=6&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
 
 Moral rights were introduced by the Copyright Amendment (Moral Rights) Act 2000 (Cth) which provides that creators are protected from three sources of harm:[^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]
-[^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]: Part IX of the //Copyright Act 1968// (Cth)
+[^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]: Part IX of the _Copyright Act 1968_ (Cth)
 
 
   * a right of attribution of authorship;
@@ -45,9 +45,9 @@ As noted above, the moral rights were extended in 2004 to include performers.
 ### Right of Attribution
 
 The right of attribution requires that an author must be identified where attributable acts are done in respect of the work [^AUTOREPLACEDCAs193ENDREPLACE]
-[^AUTOREPLACEDCAs193ENDREPLACE]: //CA// s 193
+[^AUTOREPLACEDCAs193ENDREPLACE]: _CA_ s 193
 . The right of attribution is also applied to performers. [^AUTOREPLACEDCAs195ABAENDREPLACE]
-[^AUTOREPLACEDCAs195ABAENDREPLACE]: //CA// s 195ABA
+[^AUTOREPLACEDCAs195ABAENDREPLACE]: _CA_ s 195ABA
 
 
 Creators of copyright material have the right to be attributed when the work is:
@@ -58,24 +58,24 @@ Creators of copyright material have the right to be attributed when the work is:
   * For performances: communicated, staged, or copied.
 
 If a creator has not stated the way in which he or she wishes to be identified, any clear and reasonably prominent form of identification may be used. [^AUTOREPLACEDCAss195195ABCENDREPLACE]
-[^AUTOREPLACEDCAss195195ABCENDREPLACE]: //CA// ss 195, 195ABC
+[^AUTOREPLACEDCAss195195ABCENDREPLACE]: _CA_ ss 195, 195ABC
 
 
 Attribution must be clear and reasonably prominent. [^AUTOREPLACEDCAs195AA195ABDENDREPLACE]
-[^AUTOREPLACEDCAs195AA195ABDENDREPLACE]: //CA// s 195AA, 195ABD
+[^AUTOREPLACEDCAs195AA195ABDENDREPLACE]: _CA_ s 195AA, 195ABD
 
 
 It is not necessary to attribute the creator if:
 
   * the creator has consented in writing not to be identified; or
   * it is reasonable in all the circumstances not to identify the author. [^AUTOREPLACEDCAss195AR195AXDENDREPLACE]
-[^AUTOREPLACEDCAss195AR195AXDENDREPLACE]: //CA// ss 195AR, 195AXD
+[^AUTOREPLACEDCAss195AR195AXDENDREPLACE]: _CA_ ss 195AR, 195AXD
 
 
 ### Right against False Attribution
 
 Authors of literary, dramatic, musical and artistic works and films and performers have the right not to have the authorship of their works falsely attributed. [^AUTOREPLACEDCAss195AC195AHAENDREPLACE]
-[^AUTOREPLACEDCAss195AC195AHAENDREPLACE]: //CA// ss 195AC, 195AHA
+[^AUTOREPLACEDCAss195AC195AHAENDREPLACE]: _CA_ ss 195AC, 195AHA
 
 
 False attribution means:
@@ -90,7 +90,7 @@ It is also an infringement of this right to knowingly deal with or communicate a
 ### Right of Integrity
 
 The right of integrity is the right not to have your work subjected to derogatory treatment. [^AUTOREPLACEDCAss195AJ195ALBENDREPLACE]
-[^AUTOREPLACEDCAss195AJ195ALBENDREPLACE]: //CA// ss 195AJ-195ALB
+[^AUTOREPLACEDCAss195AJ195ALBENDREPLACE]: _CA_ ss 195AJ-195ALB
 
 
 Derogatory treatment means doing anything that results in a material distortion of, the mutilation of, or a material alteration to, the work that is prejudicial to the author's honour or reputation. It also includes doing anything else in relation to the work that is prejudicial to the author's honour or reputation. In the case of artistic works, exhibiting in a way or place that is prejudicial to the author’s honour or reputation.
@@ -98,7 +98,7 @@ Derogatory treatment means doing anything that results in a material distortion 
 It is not clear to what extent the test for whether a derogatory treatment is prejudicial to the author’s honour or reputation takes into account the author’s subjective view, as opposed to an objective test. To date, there have been no cases in Australia to clarify what this might mean.
 
 It is not an infringement if the derogatory treatment or other action was reasonable. [^AUTOREPLACEDCAss195ASand195AXEENDREPLACE]
-[^AUTOREPLACEDCAss195ASand195AXEENDREPLACE]: //CA// ss 195AS and 195AXE
+[^AUTOREPLACEDCAss195ASand195AXEENDREPLACE]: _CA_ ss 195AS and 195AXE
 
 
 There are special exceptions to infringement of the right of integrity in relation to artistic works (including buildings and architectural drawings).
@@ -113,7 +113,7 @@ It is not an infringement of moral rights to do anything in good faith to restor
 
 A failure to properly attribute the creator, or a derogatory treatment of copyright work, does not infringe the creator’s rights if the action was reasonable in the circumstances.
 
-The //Act// sets out a number of factors to be taken into account in working out whether the action was reasonable. These include:
+The _Act_ sets out a number of factors to be taken into account in working out whether the action was reasonable. These include:
 
   * the nature of the work;
   * the purpose, manner and context for which it is used;
@@ -122,21 +122,21 @@ The //Act// sets out a number of factors to be taken into account in working out
   * if there are two or more authors, their views about the failure to attribute or derogatory treatment.
 
 
-**Video overview by Madeline Menzies-Miha on[Moral Rights and Reasonableness](https://www.youtube.com/watch?v=gycmrJ_AOhk)**
+**Video overview by Madeline Menzies-Miha on[Moral Rights and Reasonableness](https:_www.youtube.com/watch?v=gycmrJ_AOhk)**
 
 
 
 
 
 
-**Video overview by Courtney Steffens on[Moral Rights and Reasonableness](https://www.youtube.com/watch?v=mlfjVQYif3s)**  
+**Video overview by Courtney Steffens on[Moral Rights and Reasonableness](https:_www.youtube.com/watch?v=mlfjVQYif3s)**  
 
 
 
 
 ## Waiver and Assignment
 
-Moral rights can be waived. This is not explicitly stated in the //Act// but the term consent is used on several occasions.
+Moral rights can be waived. This is not explicitly stated in the _Act_ but the term consent is used on several occasions.
 
 Moral rights cannot be assigned. Even after the economic components of copyright have been assigned, the creators still retains the moral rights.
 
@@ -150,7 +150,7 @@ Moral rights are loosely derived from the French system of droit moral. The Fren
 [^AUTOREPLACED2012FMCA2ENDREPLACE]: [2012] FMCA 2
 
 
-The case of [Perez & Ors v Fernandez](http://classic.austlii.edu.au/au/cases/cth/FMCA/2012/2.html) involved Perez 'Pitbull', the US-based author of the song “Bon, Bon”. Fernandez, a Perth-based DJ, had planned to host Perez on-tour in Australia, and Perez had recorded a promo referring to and supporting Fernandez 'DJ Suave'.
+The case of [Perez & Ors v Fernandez](http:_classic.austlii.edu.au/au/cases/cth/FMCA/2012/2.html) involved Perez 'Pitbull', the US-based author of the song “Bon, Bon”. Fernandez, a Perth-based DJ, had planned to host Perez on-tour in Australia, and Perez had recorded a promo referring to and supporting Fernandez 'DJ Suave'.
 After the tour was cancelled, Fernandez deleted a 'prominent part' of the recording, and substituted the previously made recording in a way that “made it appear that Mr Fernandez was a subject of the song”.
 
 The Federal Magistrates Court held that the new recording infringed Perez's right of integrity on the basis that:
@@ -166,7 +166,7 @@ Fernandez's use was not reasonable in the circumstances.
 [^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]:  (1996) 71 FCR 37 (Carmina Burana case), [1997] FCA 531
 
 
-The case of [Schott Musik International Gmbh v Colossal Records Australia](http://classic.austlii.edu.au/au/cases/cth/FCA/1997/531.html) involved a a techno remix of a classical musical work and questioned whether this remix ‘debased’ the original. Before the introduction of moral rights, Section 55(2) previously prevented a recording artist from obtaining a statutory licence to record a musical work if the adaptation 'debases' the original work.
+The case of [Schott Musik International Gmbh v Colossal Records Australia](http:_classic.austlii.edu.au/au/cases/cth/FCA/1997/531.html) involved a a techno remix of a classical musical work and questioned whether this remix ‘debased’ the original. Before the introduction of moral rights, Section 55(2) previously prevented a recording artist from obtaining a statutory licence to record a musical work if the adaptation 'debases' the original work.
 
 The Federal Court held that a wide approach should be taken, taking into account the broad spectrum of community tastes and values.
 At first instance, Tamberlin J considered that “[t]he term 'debase' calls for a value judgment based on a significant lowering in integrity, value, esteem or quality of the work.”

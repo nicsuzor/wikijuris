@@ -5,7 +5,7 @@ nav_order: 22
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightsubsp4.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightsubsp4.markdown){: .btn .btn-outline }
 
 
 
@@ -15,46 +15,46 @@ grand_parent: Australian IP Law
 1. Table of Contents
 {:toc}
 
-The //Copyright Act 1968// (Cth) (//CA//) introduced new categories of subject matter in order to protect entrepreneurial investment. Part IV aims to protect "new" technologies and the investment of resources in the production of media and content.
+The _Copyright Act 1968_ (Cth) (_CA_) introduced new categories of subject matter in order to protect entrepreneurial investment. Part IV aims to protect "new" technologies and the investment of resources in the production of media and content.
 
 The content protected by Part IV is known as "subject matter other than works" or, more succinctly, "other subject matter" This subject matter includes:
 
 * Sound recordings; [^AUTOREPLACEDCAs89ENDREPLACE]
-[^AUTOREPLACEDCAs89ENDREPLACE]: //CA// s 89
+[^AUTOREPLACEDCAs89ENDREPLACE]: _CA_ s 89
 
 * Cinematograph films; [^AUTOREPLACEDCAs90ENDREPLACE]
-[^AUTOREPLACEDCAs90ENDREPLACE]: //CA// s 90
+[^AUTOREPLACEDCAs90ENDREPLACE]: _CA_ s 90
 
 * Television and sound broadcasts; [^AUTOREPLACEDCAs91ENDREPLACE]
-[^AUTOREPLACEDCAs91ENDREPLACE]: //CA// s 91
+[^AUTOREPLACEDCAs91ENDREPLACE]: _CA_ s 91
  and
 * Published editions of works. [^AUTOREPLACEDCAs92ENDREPLACE]
-[^AUTOREPLACEDCAs92ENDREPLACE]: //CA// s 92
+[^AUTOREPLACEDCAs92ENDREPLACE]: _CA_ s 92
 
 
 For these subject matter, there is no requirement of originality. Rights are granted to the "makers" of these subject matter. The terminology for the creator is different in Part III and IV - the creators of Part III works are called "authors" and the creators of Part IV subject matter are called "makers".
 
 Copyright in Part IV subject matter is "in addition to, and independent of" any copyright subsisting in the work under Part III. [^AUTOREPLACEDCAs1131ENDREPLACE] Thus, a single item may have many layers of copyright. For example, a recording of a song will have copyright protection in the underlying musical work (the musical notation), literary work (the lyrics), as well as copyright in the actual sound recording.
-[^AUTOREPLACEDCAs1131ENDREPLACE]: //CA// s 113(1)
+[^AUTOREPLACEDCAs1131ENDREPLACE]: _CA_ s 113(1)
 
 
 
-**Video overview by Kylie Pappalardo on [Part IV Subject Matter Other Than Works](https://www.youtube.com/watch?v=PFSfIzyyLDU).**
+**Video overview by Kylie Pappalardo on [Part IV Subject Matter Other Than Works](https:_www.youtube.com/watch?v=PFSfIzyyLDU).**
 
 
 
 ## Sound Recordings
 
-Copyright in sound recordings subsists by virtue of s 89 of the //Copyright Act//. "Sound recording" is defined in s 10 as "the aggregate of the sounds embodied in a record". [^AUTOREPLACEDCAs10ENDREPLACE]
-[^AUTOREPLACEDCAs10ENDREPLACE]: //CA// s 10
+Copyright in sound recordings subsists by virtue of s 89 of the _Copyright Act_. "Sound recording" is defined in s 10 as "the aggregate of the sounds embodied in a record". [^AUTOREPLACEDCAs10ENDREPLACE]
+[^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
  "Record", in turn, is defined to mean "a disc, tape, paper or other device in which sounds are embodied". [^AUTOREPLACEDCAs10ENDREPLACE] This definition is designed to be technology neutral and covers CDs, DVDs, electronic files etc.
-[^AUTOREPLACEDCAs10ENDREPLACE]: //CA// s 10
+[^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
 
 
 
 ## Cinematograph Films
 
-Section 90 of the //Act// provides for the subsistence of copyright in cinematograph films.
+Section 90 of the _Act_ provides for the subsistence of copyright in cinematograph films.
 
 "Cinematograph films" is defined in s 10 to mean:
 
@@ -72,7 +72,7 @@ The means by which a "moving picture" is produced is not relevant in determining
 
 
 
-In the cases [Sega Enterprises Ltd v Galaxy Electronics Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1996/761.html)[^AUTOREPLACED1996FCA761ENDREPLACE] and [Galaxy Electronics Pty Ltd v Sega Enterprises Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1997/403.html)[^AUTOREPLACED1997FCA403ENDREPLACE] Sega wanted to stop parallel imports of its video games.  As there is no restriction on importing non-infringing computer programs, Sega argued that the games were "films".
+In the cases [Sega Enterprises Ltd v Galaxy Electronics Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/1996/761.html)[^AUTOREPLACED1996FCA761ENDREPLACE] and [Galaxy Electronics Pty Ltd v Sega Enterprises Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/1997/403.html)[^AUTOREPLACED1997FCA403ENDREPLACE] Sega wanted to stop parallel imports of its video games.  As there is no restriction on importing non-infringing computer programs, Sega argued that the games were "films".
 
 [^AUTOREPLACED1996FCA761ENDREPLACE]: [1996] FCA 761
 
@@ -87,23 +87,23 @@ Virtual Cop was in reality very similar to a traditional movie; two protagonist 
   * The important distinction is that the video game is capable of producing the video imagery and the soundtrack, and hence that video and soundtrack was 'embodied' in the game.
 
 
-**Video overview by Caitlin Low on [Cinematography films](https://www.youtube.com/watch?v=C_8Wl-pdDJY).**
+**Video overview by Caitlin Low on [Cinematography films](https:_www.youtube.com/watch?v=C_8Wl-pdDJY).**
 
 
 
 
 ## Television and Sound Broadcasts
 
-Section 91 of the //Act// provides that copyright subsists in television and sound broadcasts. This copyright can subsist even if there is no copyright in the underlying material being broadcast. For example, there is no copyright in a sporting match or spectacle, but the maker of the broadcast of that match or spectacle will have copyright in the broadcast.
+Section 91 of the _Act_ provides that copyright subsists in television and sound broadcasts. This copyright can subsist even if there is no copyright in the underlying material being broadcast. For example, there is no copyright in a sporting match or spectacle, but the maker of the broadcast of that match or spectacle will have copyright in the broadcast.
 
 Specifically, section 91 provides:
 
 > "Subject to this Act, copyright subsists in a television broadcast or sound broadcast made from a place in Australia: (a)  under the authority of a licence or a class licence under the Broadcasting Services Act 1992; or (b)  by the Australian Broadcasting Corporation or the Special Broadcasting Service Corporation".
 
 
-There are three relevant definitions in s 10 of the //Act//:
+There are three relevant definitions in s 10 of the _Act_:
 
-* "Broadcast" is defined as "a communication to the public delivered by a broadcasting service within the meaning of the //Broadcasting Services Act 1992// (Cth)."
+* "Broadcast" is defined as "a communication to the public delivered by a broadcasting service within the meaning of the _Broadcasting Services Act 1992_ (Cth)."
 
 * "Television broadcast" means "visual images broadcast by way of television, together with any sounds broadcast for reception along with those images".
 
@@ -112,7 +112,7 @@ There are three relevant definitions in s 10 of the //Act//:
 A key aspect of the concept of broadcasting, which is apparent in the definition of "broadcast", is that it is "to the public".
 
 
-In the case of[Telstra Corp Ltd v Australasian Performing Right Association Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/1997/41.html)[^AUTOREPLACED1997191CLR140ENDREPLACE] APRA argued that when Telstra played music on hold to subscribers, it was broadcasting that music to the public.
+In the case of[Telstra Corp Ltd v Australasian Performing Right Association Ltd](http:_classic.austlii.edu.au/au/cases/cth/HCA/1997/41.html)[^AUTOREPLACED1997191CLR140ENDREPLACE] APRA argued that when Telstra played music on hold to subscribers, it was broadcasting that music to the public.
 [^AUTOREPLACED1997191CLR140ENDREPLACE]:  (1997) 191 CLR 140
 
 It was held that music on hold played to individual callers was considered to be played "to the public".
@@ -120,11 +120,11 @@ It was held that music on hold played to individual callers was considered to be
 "The use of the words "to the public" conveys a broader concept than the use of the words "in public" since it makes clear that the place where the relevant communication occurs is irrelevant. That is to say, there can be a communication to individual members of the public in a private or domestic setting which is nevertheless a communication to the public."
 
 
-**Video overview by Thomas Gardner on [Telstra Corp Ltd v Australasian Performing Right Association Ltd](https://www.youtube.com/watch?v=WRUtG398Ygw).**
+**Video overview by Thomas Gardner on [Telstra Corp Ltd v Australasian Performing Right Association Ltd](https:_www.youtube.com/watch?v=WRUtG398Ygw).**
 
 
 
-In the High Court of Australia case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/2004/14.html)[^AUTOREPLACED2004218CLR273ENDREPLACE] Network Ten had a variety show called The Panel, which broadcast clips taken from other networks. A panel of commentators then provided (often humorous) commentary on the clips. The Panel used several short clips taken from Channel Nine. Nine sued under right to rebroadcast.
+In the High Court of Australia case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/HCA/2004/14.html)[^AUTOREPLACED2004218CLR273ENDREPLACE] Network Ten had a variety show called The Panel, which broadcast clips taken from other networks. A panel of commentators then provided (often humorous) commentary on the clips. The Panel used several short clips taken from Channel Nine. Nine sued under right to rebroadcast.
 
 The Full Federal Court held that any unauthorised rebroadcasting of a broadcast would be an infringement of copyright (subject to any defence of fair dealing that Ten might have had).
 
@@ -148,13 +148,13 @@ In dissent, Kirby J and Callinan J held in separate judgments that any short ser
 
 ## Published Editions of Works
 
-Section 92 of the //Copyright Act// provides that "copyright subsists in a published edition of a literary, dramatic, musical or artistic work, or, of 2 or more literary, dramatic, musical or artistic works".
+Section 92 of the _Copyright Act_ provides that "copyright subsists in a published edition of a literary, dramatic, musical or artistic work, or, of 2 or more literary, dramatic, musical or artistic works".
 
 The published edition copyright protects the layout and formatting of printed pages. For example, the precise layout and formatting of newspaper pages will attract separate copyright protection than the underlying literary and artistic works forming the actual newspaper articles.
 
-This type of protection was only introduced with the //Copyright Act 1968//, as such, there is no copyright protection afforded to published editions of books published before 1968. [^AUTOREPLACEDCAs224ENDREPLACE]
-[^AUTOREPLACEDCAs224ENDREPLACE]: //CA// s 224
+This type of protection was only introduced with the _Copyright Act 1968_, as such, there is no copyright protection afforded to published editions of books published before 1968. [^AUTOREPLACEDCAs224ENDREPLACE]
+[^AUTOREPLACEDCAs224ENDREPLACE]: _CA_ s 224
 
 
 
-**Video overview by Elizabeth Morrell on [Published Editions](https://www.youtube.com/watch?v=HPX8ojJ-R6A).**
+**Video overview by Elizabeth Morrell on [Published Editions](https:_www.youtube.com/watch?v=HPX8ojJ-R6A).**

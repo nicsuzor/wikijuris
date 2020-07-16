@@ -4,7 +4,7 @@ title: Regulating the Domain Name System
 parent: Governing the Internet
 nav_order: 80
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/dns.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/dns.markdown){: .btn .btn-outline }
 
 # Regulating the Domain Name System
 {: .no_toc }
@@ -35,7 +35,7 @@ TLDs can be open, restricted or sponsored. Open TLDS (e.g. '.com' and '.net') ca
 
 ### Registering A Domain Name In The .au ccTLDs
 
-**Darren Brown Explains [Domain Name Registration in Australia](https://www.youtube.com/watch?time_continue=1&v=w5LSJMFaSsM)**
+**Darren Brown Explains [Domain Name Registration in Australia](https:_www.youtube.com/watch?time_continue=1&v=w5LSJMFaSsM)**
 
 There are general rules that apply to all open 2LD domain names within the  .au namespace. A .au domain name licence may only be allocated to a Registrant who is an “Australian”. Each domain name is required to: consist of from 2 to 63 characters; contain only letters (a – z), numbers (0 – 9), hyphens ( - ) or a combination of these; start and end with a letter or number, not a hypen; not contain a hyphen in the third or fourth positions, eg ab-cd.com.au. Eligibility criteria differ among the .au 2LDs. For example, eligibility for .com.au and .net.au domain names is now based on the following indicators:
 
@@ -59,7 +59,7 @@ A Registrant can obtain a domain name in the .com.au, .net.au, .org.au and .asn.
 
 A Registrant may obtain a domain name licence for a name that has a close and substantial connection with the Registrant.[^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED] This requirement was introduced in 2002. For .com.au and .net.au domain names, a “close and substantial connection” with the Registrant may be established where the name refers to:
 
-[^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED]: See Clause 10 of Guidelines for Accredited Registrars on the Interpretation of Policy Rules for Open 2LDs (2008-06) at http://www.auda.org.au/policies/auda-2008-06/
+[^AUTOREPLACEDSeeClause10ofGuidelinesforAccreditedRegistrarsontheInterpretationofPolicyRulesforOpen2LDs200806athttpwwwaudaorgaupoliciesauda200806AUTOREPLACED]: See Clause 10 of Guidelines for Accredited Registrars on the Interpretation of Policy Rules for Open 2LDs (2008-06) at http:_www.auda.org.au/policies/auda-2008-06/
 
 
 
@@ -72,7 +72,7 @@ A Registrant may obtain a domain name licence for a name that has a close and su
 
 ### Care and Control
 
-The Domain Name System comes under the exclusive control of the Internet Corporation for Assigned Names and Numbers, [https://en.wikipedia.org/wiki/ICANN](ICANN), which is  an American company registered and based in California.  ICANN determines whether or not a domain can be registered, or if the translation to your IP address will be performed, and is a '[http://techland.time.com/2010/12/03/wikileaks-domain-name-killed-and-why-it-wont-kill-wikileaks/](choke point)' for regulation. The Australian Domain Administration (AuDA) is authorised by ICANN to administer the '.au' TLD. AuDA has licenced AusRegistry Pty Ltd to operate the '.au' domain name register. There are 34 registrars of open 2LDs in this domain space, with over 3000 resellers of Australian domain names.
+The Domain Name System comes under the exclusive control of the Internet Corporation for Assigned Names and Numbers, [https:_en.wikipedia.org/wiki/ICANN](ICANN), which is  an American company registered and based in California.  ICANN determines whether or not a domain can be registered, or if the translation to your IP address will be performed, and is a '[http:_techland.time.com/2010/12/03/wikileaks-domain-name-killed-and-why-it-wont-kill-wikileaks/](choke point)' for regulation. The Australian Domain Administration (AuDA) is authorised by ICANN to administer the '.au' TLD. AuDA has licenced AusRegistry Pty Ltd to operate the '.au' domain name register. There are 34 registrars of open 2LDs in this domain space, with over 3000 resellers of Australian domain names.
 
 ### Registering and Transferring Domain Names
 
@@ -84,7 +84,7 @@ Initially, the transfer of domain names was prohbited, in an attempt to stop peo
 
 ## Domain Name Disputes
 
-There is an apparent need for more straightforward, inexpensive procedures for resolving disputes between domain name Registrants and third parties about entitlement to register and use domain names. A WIPO report in 1999 entitled //The Management of Internet Names and Addresses: Intellectual Property Issues//  recommended the introduction of mandatory and uniform procedures for resolving disputes about names registered in the gTLDs. Acceptance of this recommendation led to development of the Uniform Domain Name Dispute Resolution Policy (UDRP). This policy was approved by ICANN in October 1999 and entered into force on 1 January 2000.
+There is an apparent need for more straightforward, inexpensive procedures for resolving disputes between domain name Registrants and third parties about entitlement to register and use domain names. A WIPO report in 1999 entitled _The Management of Internet Names and Addresses: Intellectual Property Issues_  recommended the introduction of mandatory and uniform procedures for resolving disputes about names registered in the gTLDs. Acceptance of this recommendation led to development of the Uniform Domain Name Dispute Resolution Policy (UDRP). This policy was approved by ICANN in October 1999 and entered into force on 1 January 2000.
 
 Following its introduction in 2000, the UDRP rapidly became the international standard for resolving domain name disputes. The UDRP establishes procedures for dealing with disputes between a domain name Registrant and a third party complainant (ie, a party other than the Registrar) in cases where the DN is identical or confusingly similar to the complainant’s trade mark and it is alleged that the domain name has been registered and is being used in bad faith.
 
@@ -122,7 +122,7 @@ Clause 4(c) provides the definition of a legitimate interest:
 
 #### Bad Faith
 
-**Watch an [overview of the UDRP and the meaning of 'bad faith'](https://youtu.be/WFdUt9urNhs) by Josephine Hungerford**
+**Watch an [overview of the UDRP and the meaning of 'bad faith'](https:_youtu.be/WFdUt9urNhs) by Josephine Hungerford**
 
 The UDRP does not provide an explicit definition of ‘bad faith’, but both the UDRP and AuDRP enumerate circumstances amounting to bad faith in clause 4(b):
   * Domain name registered primarily for the purpose of selling, renting or otherwise transferring the domain name registration to the owner of the trade mark or service mark or their competitor;
@@ -134,10 +134,10 @@ Where the second registrant can establish a right and legitimate interest in the
 
 ### Domain Name Disputes in Australia
 
-Administrative dispute resolution procedures based on the UDRP have been adopted by the administrators of many ccTLDs, including the .au ccTLD. The .au Domain Administration (AuDA) board((Current auDRP proceedings are available at http://www.auda.org.au/audrp/current-proceedings/. Archived proceedings can be accessed at http://www.auda.org.au/audrp/proceedings-archive/.
-)) approved the //Dispute Resolution Working Party Report// (June 2001) recommendations for a dispute resolution policy. It adopted the AuDRP, which is based on the UDRP, and applies to all .au subdomains. The auDRP commenced on 1 August 2002.[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED] The AuDRP provides for cheaper, faster alternatives to litigation for resolution of disputes between a registrant and another party who claims to have rights to the domain name. Complaints are submitted to any auDA-approved dispute resolution providers and are heard by a panel of either 1 or 3 providers. Providers, each who have their own rules, include:
+Administrative dispute resolution procedures based on the UDRP have been adopted by the administrators of many ccTLDs, including the .au ccTLD. The .au Domain Administration (AuDA) board((Current auDRP proceedings are available at http:_www.auda.org.au/audrp/current-proceedings/. Archived proceedings can be accessed at http:_www.auda.org.au/audrp/proceedings-archive/.
+)) approved the _Dispute Resolution Working Party Report_ (June 2001) recommendations for a dispute resolution policy. It adopted the AuDRP, which is based on the UDRP, and applies to all .au subdomains. The auDRP commenced on 1 August 2002.[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED] The AuDRP provides for cheaper, faster alternatives to litigation for resolution of disputes between a registrant and another party who claims to have rights to the domain name. Complaints are submitted to any auDA-approved dispute resolution providers and are heard by a panel of either 1 or 3 providers. Providers, each who have their own rules, include:
 
-[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED]: http://www.auda.org.au/policy/audrp
+[^AUTOREPLACEDhttpwwwaudaorgaupolicyaudrpAUTOREPLACED]: http:_www.auda.org.au/policy/audrp
 
 
   * Leading Edge ADR (LEADR)
@@ -147,7 +147,7 @@ Administrative dispute resolution procedures based on the UDRP have been adopted
 
 ### Domain Name Disputes in the United States
 
-In the United States, the inadequacies of the existing laws in dealing with cybersquatting led Congress to enact the //Anticybersquatting Consumer Protection Act 1999// ("ACPA") which amended the //US Trademark Act 1946// (the Lanham Act)
+In the United States, the inadequacies of the existing laws in dealing with cybersquatting led Congress to enact the _Anticybersquatting Consumer Protection Act 1999_ ("ACPA") which amended the _US Trademark Act 1946_ (the Lanham Act)
 ACPA creates civil liability for registration, trafficking in or use of a domain name that is identical or confusingly similar to a distinctive trade mark or which dilutes a famous trade mark. It applies to personal names as well as distinctive trade marks and famous trade marks where the registration, trafficking in or use of the domain name is done with a bad faith intent to profit from the mark
 
 The ACPA sets out a non-exhaustive list of factors to be applied in determining, on a case-by-case basis, whether a domain name holder is acting in bad faith. Remedies under the ACPA include injunctions, forfeiture, cancellation or transfer of the domain name, recovery of profits and actual damages or, at the election of the trade mark owner, statutory damages of $1,000 to $100,000 per domain name.
@@ -180,16 +180,16 @@ In April 2001, a US Federal Court awarded $US65 million to the owners of the dom
 
 Domain names are generally not treated as IP but there are exceptions:
 
-* //Hoath v Connect Internet Services// (2006) 229 ALR 566 (see p 369 – course book) – obiter – assumed that domain name was a form of property
-* US – //the Anticybersquatting Consumer Protection Act 1999// – domain names treated as a form of intangible property in order to establish in rem jurisdiction
-* //Network Solutions Inc v Umbro International Inc// 259 Va 759 at 770 domain name was a contract for services rather than property
-* //Kremen v Cohen// F 3d 1024 – action for conversion where the underlying property was a domain name – Court held that domain names are a form of intangible property that can support a claim of conversion
+* _Hoath v Connect Internet Services_ (2006) 229 ALR 566 (see p 369 – course book) – obiter – assumed that domain name was a form of property
+* US – _the Anticybersquatting Consumer Protection Act 1999_ – domain names treated as a form of intangible property in order to establish in rem jurisdiction
+* _Network Solutions Inc v Umbro International Inc_ 259 Va 759 at 770 domain name was a contract for services rather than property
+* _Kremen v Cohen_ F 3d 1024 – action for conversion where the underlying property was a domain name – Court held that domain names are a form of intangible property that can support a claim of conversion
 
 ## Trade Marks
 
 Australian trade marks are usually protected through registration under the Commonwealth _Trade Marks Act_ 1995 (Cth). It has become increasingly common for businesses to register domain names as trademarks, in order to gain more protection for them. Trade marks ("TM"), generally speaking, are those ''signs'' (traditionally, names, words and logos) that businesses use to identify themselves and the goods and services they provide. Because of the vital commercial role that trade marks play, no business enterprise can function without TMs. A TM is a sign used in trade or commerce to indicate source of goods or services, and distinguish them from those of other traders. TMs are extremely important for businesses as they are an essential part of branding of goods and services. TMs can be a very valuable commercial asset (e.g. Coca Cola, Microsoft).
 
-In Australia, TMs can be either registered or unregistered (common law); registration is not compulsory for protection of business reputation. However, registration confers considerable advantages, so should be done where possible. In particular, registered trade marks are easier and cheaper to enforce. Obtaining a trade mark registration under the //Trade Marks Act 1995// (Cth) may be seen as taking out a form of insurance. If registered owners of trade marks consider that their TMs have been infringed, they have a comparatively cheap and expeditious way of taking action against the infringer. In many cases, a letter of demand to the infringer providing details of the owner's registration will enable the matter to be settled out of court.
+In Australia, TMs can be either registered or unregistered (common law); registration is not compulsory for protection of business reputation. However, registration confers considerable advantages, so should be done where possible. In particular, registered trade marks are easier and cheaper to enforce. Obtaining a trade mark registration under the _Trade Marks Act 1995_ (Cth) may be seen as taking out a form of insurance. If registered owners of trade marks consider that their TMs have been infringed, they have a comparatively cheap and expeditious way of taking action against the infringer. In many cases, a letter of demand to the infringer providing details of the owner's registration will enable the matter to be settled out of court.
 
 TMs are registered in respect to particular classes of goods and services. Generally, a TM can only be registered in relation to the particular types of goods or services it is used in relation to. If a TM is registered in classes in which the goods or services are not sold, the TM is vulnerable to cancellation. Thus, the TM system cannot be used to secure rights in a name against all other uses of that name.
 
@@ -199,32 +199,32 @@ Company names and registered business names are often permitted to co-exist. Thi
 
 ### Trade Mark Infringement
 
-A trade mark is infringed under s 120(1) of the //Trade Marks Act 1995// (Cth)by another person's use of the name  if:
+A trade mark is infringed under s 120(1) of the _Trade Marks Act 1995_ (Cth)by another person's use of the name  if:
   * The sign used by the potential infringer is substantially identical with or deceptively similar to the trade mark;
   * The sign is used in relation to the same or similar goods or services; and
   * The sign is used as a trade mark.
 
 Trade mark infringement is problematic online, especially due to territorial problems. There is potential that the same trade mark can be owned by different companies in different jurisdictions - with no intention of either owner trading off each other's reputation. This means that the rights of a trade mark owner in one jurisdiction may be infringed by an overseas website being accessible within the jurisdiction.
 
-In //Ward Group Pty Ltd v Brodie & Stone Plc// [2005] FCA 471, the Federal Court held that for an overseas website to constitute trade mark infringement in Australia, the website must specifically target users located in Australia. THe World Intellectual Property Organisation ("WIPO") similarly recommended that a trade mark cannot be seen to have commercial effect in a particular jurisdiction unless the website that uses that trade mark is targeted at that place.
+In _Ward Group Pty Ltd v Brodie & Stone Plc_ [2005] FCA 471, the Federal Court held that for an overseas website to constitute trade mark infringement in Australia, the website must specifically target users located in Australia. THe World Intellectual Property Organisation ("WIPO") similarly recommended that a trade mark cannot be seen to have commercial effect in a particular jurisdiction unless the website that uses that trade mark is targeted at that place.
 
 Issues also arise in online trade mark infringement cases, as some websites may not be engaging in trade or commerce at all, or may be selling goods and services different to those claimed within the registration. If this occurs, trade mark infringement proceedings will not be successful.
 
 ## Domain Names and Trade Marks in Australia
 
-**Robert Tranent Explains [Cybersquatting and Applicable Remedies Under the auDRP](https://www.youtube.com/watch?v=YHcpQpF2LVc)**
+**Robert Tranent Explains [Cybersquatting and Applicable Remedies Under the auDRP](https:_www.youtube.com/watch?v=YHcpQpF2LVc)**
 
 In Australia the mere registration of a domain name does not constitute use (and therefore infringement) of a trade mark. There are no reported Australian cases in which a domain name has been held to have infringed a registered trade mark under s 120 of the Trade Marks Act 1995. It is at least theoretically possible for a .au domain name to infringe a registered trade mark[^AUTOREPLACEDseeCSRLtdvResourceCapitalAustraliaPtyLtd2003FCA279AUTOREPLACED]
 
 [^AUTOREPLACEDseeCSRLtdvResourceCapitalAustraliaPtyLtd2003FCA279AUTOREPLACED]: see CSR Ltd v Resource Capital Australia Pty Ltd [2003] FCA 279
 
-. The Advisory Council on Intellectual Property (ACIP) commented in its 2004 issues paper, //A review of the relationship between trade marks and business names, company names and domain names //
+. The Advisory Council on Intellectual Property (ACIP) commented in its 2004 issues paper, _A review of the relationship between trade marks and business names, company names and domain names _
 
 >"Registered trade mark infringement may occur where a domain name is registered in good faith, where the words in the domain name are identical with, substantially identical with or deceptively similar to a registered trade mark, and where the domain name is connected with a website concerned with trading in the same goods or services, or goods or services of the same description as those in relation to which the trade mark is registered."
 
 To establish trade mark infringement, the Trade Marks Act requires that a defendant has used a mark as a trade mark – this is difficult to establish in relation to the mere registration of a domain name.
 
-In //CSR Limited v Resource Capital Australia Pty Ltd// (2003) 128 FCR 408 RCA, a cybersquatter, registered csrsugar.com and csrsugar.com.au and offered to sell them to CSR. RCA did nothing with the domain names except to offer this sale. Hill J observed that:
+In _CSR Limited v Resource Capital Australia Pty Ltd_ (2003) 128 FCR 408 RCA, a cybersquatter, registered csrsugar.com and csrsugar.com.au and offered to sell them to CSR. RCA did nothing with the domain names except to offer this sale. Hill J observed that:
 
 >“for the purposes of s 120 of the Trade Marks Act 1995 (Cth) … RCA or Mr Boland at no time used or intended to use the domain names as trade marks in relation to either goods or services”
 
@@ -269,18 +269,18 @@ Including another's trade marks excessively in metatags on a website – you may
 
 ## Australian Consumer Law contraventions and Passing Off
 
-In several decisions, the use of domain names has been held to contravene ss 52 (misleading and deceptive conduct) and/or 53 (misrepresentations of the //Trade Practices Act 1974// (Cth) ("TPA")  - now ss 18 and 29 of the Australian Consumer Law (//Competition and Consumer Act 2010// (Cth) Schedule 2) respectively). In these cases, courts have made orders requiring all necessary steps to be taken to transfer, cancel or de-register the disputed domain name.
+In several decisions, the use of domain names has been held to contravene ss 52 (misleading and deceptive conduct) and/or 53 (misrepresentations of the _Trade Practices Act 1974_ (Cth) ("TPA")  - now ss 18 and 29 of the Australian Consumer Law (_Competition and Consumer Act 2010_ (Cth) Schedule 2) respectively). In these cases, courts have made orders requiring all necessary steps to be taken to transfer, cancel or de-register the disputed domain name.
 
-* //Macquarie Bank Ltd v Seagle// [2008] FCA 1417 – registrant breached TPA s 52 in registering domain names related to Macquarie Bank  in .com, .net and .us domains
+* _Macquarie Bank Ltd v Seagle_ [2008] FCA 1417 – registrant breached TPA s 52 in registering domain names related to Macquarie Bank  in .com, .net and .us domains
 
-* //The Architects (Australia) Pty Ltd v Witty Consultants// [2002] QSC 139 – Witty registered the website 'architectsaustralia.com.au' and extensively advertised it. AA succeeded in action for misleading and deceptive conduct.
+* _The Architects (Australia) Pty Ltd v Witty Consultants_ [2002] QSC 139 – Witty registered the website 'architectsaustralia.com.au' and extensively advertised it. AA succeeded in action for misleading and deceptive conduct.
 
-* //CSR Ltd v Resource Capital Australia Pty Ltd// [2003] FCA 279 – RCA (cybersquatter) registered 'csrsugar.com' and 'csrsugar.com.au', amounting to misleading and decptive conduct
+* _CSR Ltd v Resource Capital Australia Pty Ltd_ [2003] FCA 279 – RCA (cybersquatter) registered 'csrsugar.com' and 'csrsugar.com.au', amounting to misleading and decptive conduct
 
-* //Kailash Center for Personal Development Inc v Yoga Magik Pty Ltd// [2003] FCA 536 - the use of “mumford” in yoga web site metatags.
+* _Kailash Center for Personal Development Inc v Yoga Magik Pty Ltd_ [2003] FCA 536 - the use of “mumford” in yoga web site metatags.
 
-* //Mark Foys Pty Ltd v TVSN (Pacific) Ltd// [2000] FCA 1626 - Markfoys.com.au
+* _Mark Foys Pty Ltd v TVSN (Pacific) Ltd_ [2000] FCA 1626 - Markfoys.com.au
 
-* //Sydney Markets Limited v Sydney Flower Market Pty Ltd// [2002] FCA 124 - sydneyflowermarket.com.au (respondent), sydneyflowermarket.com, sydneyflowermarket.net and sydneyflowermarket.net.au (applicant)
+* _Sydney Markets Limited v Sydney Flower Market Pty Ltd_ [2002] FCA 124 - sydneyflowermarket.com.au (respondent), sydneyflowermarket.com, sydneyflowermarket.net and sydneyflowermarket.net.au (applicant)
 
 Prior to 1999, there was no specific dispute resolution mechanism for disputes involving TLDs (2002 for .au 2LDs). Instead, dispute resolution required court action for infringement of a registered trade mark, contravention of the TPA or passing off.

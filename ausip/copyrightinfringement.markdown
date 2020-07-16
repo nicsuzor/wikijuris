@@ -5,7 +5,7 @@ nav_order: 26
 parent: Copyright
 grand_parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightinfringement.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightinfringement.markdown){: .btn .btn-outline }
 
 
 
@@ -78,19 +78,19 @@ The exclusive rights of copyright holders are set out in the table below:
 
 Unauthorised use of the copyright owner's work may amount to infringement.
 
-**Video overview by Kylie Pappalardo on[Exclusive Rights in Copyright](https://www.youtube.com/watch?v=--ArNTM5x2g&index=1&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on[Exclusive Rights in Copyright](https:_www.youtube.com/watch?v=--ArNTM5x2g&index=1&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
 ## Part III Original works
 
 It is an infringement of copyright to do or authorise any of the exclusive rights comprised in copyright without the permission of the copyright owner. [^AUTOREPLACEDCAs36ENDREPLACE]
-[^AUTOREPLACEDCAs36ENDREPLACE]: //CA// s 36
+[^AUTOREPLACEDCAs36ENDREPLACE]: _CA_ s 36
 
 
 * The exclusive rights are set out in s 31(1):
 
     * For literary, dramatic and musical works: [^AUTOREPLACEDCAs311aENDREPLACE]
-[^AUTOREPLACEDCAs311aENDREPLACE]: //CA// s 31(1)(a)
+[^AUTOREPLACEDCAs311aENDREPLACE]: _CA_ s 31(1)(a)
 
 
         * to reproduce the work in a material form;
@@ -104,7 +104,7 @@ It is an infringement of copyright to do or authorise any of the exclusive right
         * to make an adaptation of the work.
 
     * For artistic works: [^AUTOREPLACEDCAs311bENDREPLACE]
-[^AUTOREPLACEDCAs311bENDREPLACE]: //CA// s 31(1)(b)
+[^AUTOREPLACEDCAs311bENDREPLACE]: _CA_ s 31(1)(b)
 
 
         * to reproduce the work in a material form;
@@ -116,9 +116,9 @@ It is an infringement of copyright to do or authorise any of the exclusive right
 ### Infringement - Reproduce the Work in a Material Form
 
 There is an exclusive right to reproduce the work in material form. [^AUTOREPLACEDCAss311aiand311biENDREPLACE] Reproduction means copying and does not include cases where the author or compiler produces a substantially similar result by independent work without copying [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]
-[^AUTOREPLACEDCAss311aiand311biENDREPLACE]: //CA// ss 31(1)(a)(i) and 31(1)(b)(i)
+[^AUTOREPLACEDCAss311aiand311biENDREPLACE]: _CA_ ss 31(1)(a)(i) and 31(1)(b)(i)
 
-[^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]: //Ladbroke (Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273//
+[^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]: _Ladbroke (Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273_
 
 
 The notion of reproduction involves **two elements** [^AUTOREPLACEDSWHartCovEdwardsHotWaterSystems1985159CLR466472FrancisDayHuntervBron1963Ch587614ENDREPLACE]
@@ -129,62 +129,62 @@ The notion of reproduction involves **two elements** [^AUTOREPLACEDSWHartCovEdwa
 
 * 2. **Objective similarity **– there must be a sufficient degree of objective similarity between the plaintiff’s and the defendant’s work (that is, the defendant must have produced a work which closely resembles the plaintiff's work).
 
-**Video overview by Kylie Pappalardo on[Infringement by Reproduction of Works](https://www.youtube.com/watch?v=byNA3vW7aHE&index=3&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on[Infringement by Reproduction of Works](https:_www.youtube.com/watch?v=byNA3vW7aHE&index=3&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
 **Deemed Reproductions**
 
 A literary, dramatic or musical work is deemed to have been reproduced in a material form if a sound recording or film is made of the work [^AUTOREPLACEDCAs211ENDREPLACE] Copyright in an artistic work in two-dimensional form will be infringed by its reproduction in a three dimensional form and vice versa. [^AUTOREPLACEDCAs213ENDREPLACE]
-[^AUTOREPLACEDCAs211ENDREPLACE]: //CA// s 21(1)
+[^AUTOREPLACEDCAs211ENDREPLACE]: _CA_ s 21(1)
 
-[^AUTOREPLACEDCAs213ENDREPLACE]: //CA// s 21(3)
+[^AUTOREPLACEDCAs213ENDREPLACE]: _CA_ s 21(3)
 
 
 A lot of cases of copyright infringement concern project homes.  When dealing with a work, such as a project home design, which is by its nature very simple and commonplace, it will be more difficult to prove infringement.
 
-* //Ancher, Mortlock, Murray & Woolley Pty Ltd v Hooker Homes Pty Ltd// [^AUTOREPLACED197120FLR481ENDREPLACE]
+* _Ancher, Mortlock, Murray & Woolley Pty Ltd v Hooker Homes Pty Ltd_ [^AUTOREPLACED197120FLR481ENDREPLACE]
 [^AUTOREPLACED197120FLR481ENDREPLACE]:  (1971) 20 FLR 481
 
-* //Ownit Homes Pty Ltd v D. and F. Mancuso Investments Pty Ltd// [^AUTOREPLACED1987AIPC90426ENDREPLACE]
+* _Ownit Homes Pty Ltd v D. and F. Mancuso Investments Pty Ltd_ [^AUTOREPLACED1987AIPC90426ENDREPLACE]
 [^AUTOREPLACED1987AIPC90426ENDREPLACE]: [1987] AIPC 90-426
 
 
 The simpler and more commonplace the design is, the more closely the defendant’s plans must follow the plaintiff’s. [^AUTOREPLACEDDixonInvestmentsPtyLtdvHall1990FCA477ENDREPLACE]
-[^AUTOREPLACEDDixonInvestmentsPtyLtdvHall1990FCA477ENDREPLACE]: //Dixon Investments Pty Ltd v Hall// [1990] FCA 477
+[^AUTOREPLACEDDixonInvestmentsPtyLtdvHall1990FCA477ENDREPLACE]: _Dixon Investments Pty Ltd v Hall_ [1990] FCA 477
 
 
 The copyright in a building or a model of a building is not infringed by the making of a painting, drawing, engraving or photograph of the building or model or by the inclusion of the building or model in a cinematograph film or in a television broadcast. [^AUTOREPLACEDCAs66ENDREPLACE]
-[^AUTOREPLACEDCAs66ENDREPLACE]: //CA// s 66
+[^AUTOREPLACEDCAs66ENDREPLACE]: _CA_ s 66
 
 
 #### Element 1 - Causal Connection
 
 An infringement may be indirect. [^AUTOREPLACEDLEDBuildersPtyLtdvEagleHomes1999FCA584ENDREPLACE] In order to prove a causal link it will generally be a requirement that the plaintiff show the defendant had access to the plaintiff's work. [^AUTOREPLACEDBarretPropertyGroupPtyLtdvDennisFamilyHomesPtyLtd201191IPR1ENDREPLACE]
-[^AUTOREPLACEDLEDBuildersPtyLtdvEagleHomes1999FCA584ENDREPLACE]: //LED Builders Pty Ltd v Eagle Homes// [1999] FCA 584
+[^AUTOREPLACEDLEDBuildersPtyLtdvEagleHomes1999FCA584ENDREPLACE]: _LED Builders Pty Ltd v Eagle Homes_ [1999] FCA 584
 
-[^AUTOREPLACEDBarretPropertyGroupPtyLtdvDennisFamilyHomesPtyLtd201191IPR1ENDREPLACE]: //Barret Property Group Pty Ltd v Dennis Family Homes Pty Ltd// (2011) 91 IPR 1
+[^AUTOREPLACEDBarretPropertyGroupPtyLtdvDennisFamilyHomesPtyLtd201191IPR1ENDREPLACE]: _Barret Property Group Pty Ltd v Dennis Family Homes Pty Ltd_ (2011) 91 IPR 1
 
 
 This will not always be the case, because causal links may be established indirectly. Copyright could exist in the artistic work of a dress design drawing. A person may infringe this copyright without access to the artistic work. The could do so by copying the dress fashioned from the design drawing. [^AUTOREPLACEDBurkeMargotBurkeLtdvSpicersDressDesigns1936Ch400ENDREPLACE]
-[^AUTOREPLACEDBurkeMargotBurkeLtdvSpicersDressDesigns1936Ch400ENDREPLACE]: //Burke & Margot Burke Ltd v Spicers Dress Designs// [1936] Ch 400
+[^AUTOREPLACEDBurkeMargotBurkeLtdvSpicersDressDesigns1936Ch400ENDREPLACE]: _Burke & Margot Burke Ltd v Spicers Dress Designs_ [1936] Ch 400
 
 
 Subconscious copying is sufficient provided there is evidence of copying. [^AUTOREPLACEDFrancisDayHuntervBron1963Ch587perWillmerJENDREPLACE]
-[^AUTOREPLACEDFrancisDayHuntervBron1963Ch587perWillmerJENDREPLACE]: //Francis Day & Hunter v. Bron// [1963] Ch 587 per Willmer J
+[^AUTOREPLACEDFrancisDayHuntervBron1963Ch587perWillmerJENDREPLACE]: _Francis Day & Hunter v. Bron_ [1963] Ch 587 per Willmer J
 
 
 ##### Francis Day & Hunter v. Bron [^AUTOREPLACED1963Ch587ENDREPLACE]
 [^AUTOREPLACED1963Ch587ENDREPLACE]: [1963] Ch 587
 
 
-In the case of //Francis Day & Hunter v. Bron// the plaintiff sued alleging the defendant’s infringed copyright in a musical work.
+In the case of _Francis Day & Hunter v. Bron_ the plaintiff sued alleging the defendant’s infringed copyright in a musical work.
 * As a question of law, it is possible to infringe by subconscious copying.
 * Held, similarities probably coincidental, and there was no evidence that the defendant had copied or heard the song. The Plaintiff was unable to infer that there was sufficient knowledge and memory for conscious or subconscious copying.
 
 
-**Video overview by Olivia Steele on[Subconscious Copying in _Francis Day & Hunter v Bron_](https://www.youtube.com/watch?v=38YzweuP6c8).**
+**Video overview by Olivia Steele on[Subconscious Copying in _Francis Day & Hunter v Bron_](https:_www.youtube.com/watch?v=38YzweuP6c8).**
 
-**Video overview by John Herbet on[Francis Day & Hunter v Bron](https://www.youtube.com/watch?v=sPY7xTNV_LQ).**
+**Video overview by John Herbet on[Francis Day & Hunter v Bron](https:_www.youtube.com/watch?v=sPY7xTNV_LQ).**
 
 
 
@@ -193,9 +193,9 @@ In the case of //Francis Day & Hunter v. Bron// the plaintiff sued alleging the 
 The test for reproduction requires both a causal connection and objective similarity. Literal copying of expressive elements is relatively straightforward. The courts have a difficult task in determining whether a copier has taken copyright expression or the underlying unprotected ideas. It is difficult to express a general rule as to when copying of non-literal elements will infringe.
 
 
-**Video overview by Greg Travers on[Objective Similarity](https://www.youtube.com/watch?v=r3gosX2iBOE).**
+**Video overview by Greg Travers on[Objective Similarity](https:_www.youtube.com/watch?v=r3gosX2iBOE).**
 
-**Video overview by Jack Howe on[Originality](https://www.wevideo.com/hub# media/ci/343207597?timelineId=335936108).**
+**Video overview by Jack Howe on[Originality](https:_www.wevideo.com/hub# media/ci/343207597?timelineId=335936108).**
 
 
 
@@ -203,7 +203,7 @@ The test for reproduction requires both a causal connection and objective simila
 [^AUTOREPLACED198246ALR189ENDREPLACE]:  (1982) 46 ALR 189
 
 
-In the case of [Zeccola v Universal City Studios Inc](http://classic.austlii.edu.au/au/cases/cth/FCA/1982/241.html) Universal owned copyright in film Jaws, screenplay Jaws, and novel Jaws.  Zeccola made a film about man eating sharks called Great White.  Universal sued for copyright infringement.  
+In the case of [Zeccola v Universal City Studios Inc](http:_classic.austlii.edu.au/au/cases/cth/FCA/1982/241.html) Universal owned copyright in film Jaws, screenplay Jaws, and novel Jaws.  Zeccola made a film about man eating sharks called Great White.  Universal sued for copyright infringement.  
 
 The court held that Zeccola had not infringed copyright in the "film" as there was no copy of the visual images.
 
@@ -215,7 +215,7 @@ There is no copyright in the central idea: the idea of a shark terrorising a com
 [^AUTOREPLACED200357IPR453ENDREPLACE]:  (2003) 57 IPR 453
 
 
-In the case of [Telstra Corp Ltd v Royal & Sun Alliance Insurance Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/2003/786.html) Shannons car insurance ran a parody advertisement appropriating the format, story, and character of Telstra's Goggomobil advertisements.
+In the case of [Telstra Corp Ltd v Royal & Sun Alliance Insurance Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/2003/786.html) Shannons car insurance ran a parody advertisement appropriating the format, story, and character of Telstra's Goggomobil advertisements.
 
 It was held that there was no infringement of the script or dramatic works.
 
@@ -239,7 +239,7 @@ It was held that Brown had taken ideas, but not expression from HBHG. Therefore,
 [^AUTOREPLACED2011FCAFC47ENDREPLACE]: [2011] FCAFC 47
 
 
-In the case of [EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2011/47.html) it was held that the flute riff in Men at Work's song "Down Under" reproduced two bars of the old song “Kookaburra sits in the old gum tree”
+In the case of [EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCAFC/2011/47.html) it was held that the flute riff in Men at Work's song "Down Under" reproduced two bars of the old song “Kookaburra sits in the old gum tree”
 
 >"There are limited features of similarity between Kookaburra and Down Under in terms of key, harmony, tempo and rhythm. Kookaburra was written in a major key. The relevant bars in the Impugned Recordings appear as part of an overall work in a minor key. The harmony in Kookaburra arises both from its character as a round, and the implied harmonies suggested by casting its melody in a specific key. The versions of Down Under in the Impugned Recordings have a highly distinctive harmony, arising from the voice of Mr Hay, singing very different lyrics, and the mix of instruments. While, as a result, the bars in question in the Impugned Recordings may, in some sense, sound different from Kookaburra, the melody is nevertheless clearly recognisable. Dr Ford described the change in underlying harmony as “a bit like shining a different light" on the relevant melodic phrase. Although, as the primary judge observed, that might differentiate the listener’s impressions of the same notes in the two works, I do not consider that it meaningfully detracts from the objective similarity between the works”. ([90])
 
@@ -249,14 +249,14 @@ In the case of [EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd]
 
 
 There is an exclusive right to publish the work [^AUTOREPLACEDCAss311aiiand311biiENDREPLACE]
-[^AUTOREPLACEDCAss311aiiand311biiENDREPLACE]: //CA// ss 31(1)(a)(ii) and 31(1)(b)(ii)
+[^AUTOREPLACEDCAss311aiiand311biiENDREPLACE]: _CA_ ss 31(1)(a)(ii) and 31(1)(b)(ii)
 . Publish means to make available to the public in Australia something which has not previously been made available. [^AUTOREPLACEDAvelPtyLtdvMulticoinAmusementPtyLtd1990HCA58ENDREPLACE] The definitions of published in s 29(1)(a) do not control the meaning of the words 'to publish' in s 31(1)(a)(ii) for the purposes of infringement. This is the right of first publication.
-[^AUTOREPLACEDAvelPtyLtdvMulticoinAmusementPtyLtd1990HCA58ENDREPLACE]: //Avel Pty Ltd v Multicoin Amusement Pty Ltd// [1990] HCA 58
+[^AUTOREPLACEDAvelPtyLtdvMulticoinAmusementPtyLtd1990HCA58ENDREPLACE]: _Avel Pty Ltd v Multicoin Amusement Pty Ltd_ [1990] HCA 58
 
 
 It is not an infringement of the right to republish something that has already been made public. It may however, be an infringement of the reproduction right. It is also an infringement to communicate the work without permission or legal excuse. This will be discussed below in the 'Infringement - Communicate to the Public' section of this chapter.
 
-**Video overview by Kylie Pappalardo on[Direct Infringement](https://www.youtube.com/watch?v=aIdpYgL-NBc).**
+**Video overview by Kylie Pappalardo on[Direct Infringement](https:_www.youtube.com/watch?v=aIdpYgL-NBc).**
 
 
 ### Infringement - Perform the Work in Public
@@ -266,19 +266,19 @@ There is an exclusive right to perform the work in public. [^AUTOREPLACEDs311aii
 
 
 
-**Video overview by Tom Gardner on[Telstra v APRA](https://www.youtube.com/watch?v=WRUtG398Ygw).**
+**Video overview by Tom Gardner on[Telstra v APRA](https:_www.youtube.com/watch?v=WRUtG398Ygw).**
 
 
 ### Infringement - Communicate to the Public
 
-There is an exclusive right to communicate the work to the public. [^AUTOREPLACEDCAss311aivands311biiiENDREPLACE] This right was introduced by the //Copyright Amendment (Digital Agenda) Act 2000// (Cth), replacing and extending the former "broadcasting" right.
-[^AUTOREPLACEDCAss311aivands311biiiENDREPLACE]: //CA// ss 31(1)(a)(iv) and s 31(1)(b)(iii)
+There is an exclusive right to communicate the work to the public. [^AUTOREPLACEDCAss311aivands311biiiENDREPLACE] This right was introduced by the _Copyright Amendment (Digital Agenda) Act 2000_ (Cth), replacing and extending the former "broadcasting" right.
+[^AUTOREPLACEDCAss311aivands311biiiENDREPLACE]: _CA_ ss 31(1)(a)(iv) and s 31(1)(b)(iii)
 
 
 "Communicate" is defined as meaning to “make available online or electronically transmit (whether over a path, or a combination of paths, provided by a material substance or otherwise) a work or other subject-matter”. [^AUTOREPLACEDCAs101ENDREPLACE] Communication other than broadcast is taken to have been made by the person responsible for determining the content of the communication. [^AUTOREPLACEDCAs226ENDREPLACE]
-[^AUTOREPLACEDCAs101ENDREPLACE]: //CA// s 10(1)
+[^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
-[^AUTOREPLACEDCAs226ENDREPLACE]: //CA// s 22(6)
+[^AUTOREPLACEDCAs226ENDREPLACE]: _CA_ s 22(6)
 
 
 This right includes cable transmissions and making available of copyright material online. For example, uploading material onto the Internet.
@@ -286,9 +286,9 @@ This right includes cable transmissions and making available of copyright materi
 ### Infringement - Make an Adaptation of the Work
 
 There is an exclusive right to make an adaptation of the work. [^AUTOREPLACEDCAs311aviENDREPLACE] Adaptation includes:[^AUTOREPLACEDCAs10ENDREPLACE]
-[^AUTOREPLACEDCAs311aviENDREPLACE]: //CA// s 31(1)(a)(vi)
+[^AUTOREPLACEDCAs311aviENDREPLACE]: _CA_ s 31(1)(a)(vi)
 
-[^AUTOREPLACEDCAs10ENDREPLACE]: //CA// s 10
+[^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
 
 
 * the dramatisation of a non-dramatic literary work;
@@ -299,19 +299,19 @@ There is an exclusive right to make an adaptation of the work. [^AUTOREPLACEDCAs
 ## Direct infringement of Part IV subject matter
 
 Where Part IV copyright is concerned, direct infringement is a much more restricted concept than in relation to works. This is because the exclusive right granted for Part IV subject matter in sound recordings and films is the right to make a copy not the right of reproduction. In practice, this means that only actual copies in the same form will infringe copyright. [^AUTOREPLACEDCBSRecordsAustraliaLtdvTelmakTeleproductsAustPtyLtd19879IPR440ENDREPLACE]
-[^AUTOREPLACEDCBSRecordsAustraliaLtdvTelmakTeleproductsAustPtyLtd19879IPR440ENDREPLACE]: //CBS Records Australia Ltd v Telmak Teleproducts (Aust) Pty Ltd// (1987) 9 IPR 440
+[^AUTOREPLACEDCBSRecordsAustraliaLtdvTelmakTeleproductsAustPtyLtd19879IPR440ENDREPLACE]: _CBS Records Australia Ltd v Telmak Teleproducts (Aust) Pty Ltd_ (1987) 9 IPR 440
 
 
-**Video overview by Kylie Pappalardo on[Direct infringement of Part IV subject matter](https://www.youtube.com/watch?v=o6pxhU0nyVg&index=5&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on[Direct infringement of Part IV subject matter](https:_www.youtube.com/watch?v=o6pxhU0nyVg&index=5&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
-**Video overview by Thomas Ryan on[The Difference Between 'Copy' and 'Reproduce'](https://youtu.be/rnFkvgm1f0c).**
+**Video overview by Thomas Ryan on[The Difference Between 'Copy' and 'Reproduce'](https:_youtu.be/rnFkvgm1f0c).**
 
 
 
 ### Sound Recordings
 
-Sound recordings are protected under s 85 of the //Act//. This section affords the copyright owner the exclusive rights to:
+Sound recordings are protected under s 85 of the _Act_. This section affords the copyright owner the exclusive rights to:
 
 
 * make a copy of the recording;
@@ -321,7 +321,7 @@ Sound recordings are protected under s 85 of the //Act//. This section affords t
 * communicate the record to the public; and
 
 * enter into commercial rental agreements. [^AUTOREPLACEDCAs85ENDREPLACE]
-[^AUTOREPLACEDCAs85ENDREPLACE]: //CA// s 85
+[^AUTOREPLACEDCAs85ENDREPLACE]: _CA_ s 85
 
 
 
@@ -331,11 +331,11 @@ This right allows owners to control the renting of music CDs but not films.
 
 
 Exclusive right to make a copy of the recording:[^AUTOREPLACEDCAs85ENDREPLACE]
-[^AUTOREPLACEDCAs85ENDREPLACE]: //CA// s 85
+[^AUTOREPLACEDCAs85ENDREPLACE]: _CA_ s 85
 
 
 "Copy" means “a record embodying a sound recording …”. [^AUTOREPLACEDCAs103cENDREPLACE]
-[^AUTOREPLACEDCAs103cENDREPLACE]: //CA// s 10(3)(c)
+[^AUTOREPLACEDCAs103cENDREPLACE]: _CA_ s 10(3)(c)
 
 
 Making a "sound alike" version of a popular song does not infringe copyright in the sound recording, although it may in the underlying works (the lyrics and music).
@@ -344,14 +344,14 @@ CBS Records Australia v Telmak Teleproducts (Aust) Pty Ltd[^AUTOREPLACED1987FCA1
 [^AUTOREPLACED1987FCA138ENDREPLACE]: [1987] FCA 138
 
 
-In the case of //CBS Records Australia v Telmak Teleproducts (Aust) Pty Ltd//, Telmak produced recordings and compilation of chart hits by cover bands.  CBS, who owned the sound recording copyright, sued for infringement of sound recording copyright.
+In the case of _CBS Records Australia v Telmak Teleproducts (Aust) Pty Ltd_, Telmak produced recordings and compilation of chart hits by cover bands.  CBS, who owned the sound recording copyright, sued for infringement of sound recording copyright.
 
 It was held that copyright only protects the actual embodiment of the very sounds on the original record.
 
 ### Cinematographic Films
 
-Pursuant to s 86 of the //Act//, films are provided copyright protection. Copyright owners of films have exclusive rights to: [^AUTOREPLACEDCAs86ENDREPLACE]
-[^AUTOREPLACEDCAs86ENDREPLACE]: //CA// s86
+Pursuant to s 86 of the _Act_, films are provided copyright protection. Copyright owners of films have exclusive rights to: [^AUTOREPLACEDCAs86ENDREPLACE]
+[^AUTOREPLACEDCAs86ENDREPLACE]: _CA_ s86
 
 
 * make a copy of the film;
@@ -364,8 +364,8 @@ Australian Video Retailers Association Ltd v Warner Home Video Pty Ltd [^AUTOREP
 [^AUTOREPLACED2001FCA1719ENDREPLACE]: [2001] FCA 1719
 
 
-In the case of [Australian Video Retailers Association Ltd v Warner Video Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/2001/1719.html) Warner Home Video argued that DVD movies are also computer programs. They argued this because there are no commercial rental right in films, but there are in computer programs, [^AUTOREPLACEDSeeCAs30AENDREPLACE]
-[^AUTOREPLACEDSeeCAs30AENDREPLACE]: See //CA// s 30A
+In the case of [Australian Video Retailers Association Ltd v Warner Video Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCA/2001/1719.html) Warner Home Video argued that DVD movies are also computer programs. They argued this because there are no commercial rental right in films, but there are in computer programs, [^AUTOREPLACEDSeeCAs30AENDREPLACE]
+[^AUTOREPLACEDSeeCAs30AENDREPLACE]: See _CA_ s 30A
 
 
 It was held that the commands which controlled the flow of the DVD were computer programs, but that the audiovisual content was not part of the program.  Accordingly, when a video store hires out a movie, the essential object of the rental is not the computer program, but the film.
@@ -374,8 +374,8 @@ Although computer programs can be "films", films do not suddenly become programs
 
 ### Television and Sound Broadcasts
 
-Pursuant to s 87 of the //Act// television and sound broadcasts are protected. This section afford the copyright owner the exclusive right to: [^AUTOREPLACEDCAs87ENDREPLACE]
-[^AUTOREPLACEDCAs87ENDREPLACE]: //CA// s 87
+Pursuant to s 87 of the _Act_ television and sound broadcasts are protected. This section afford the copyright owner the exclusive right to: [^AUTOREPLACEDCAs87ENDREPLACE]
+[^AUTOREPLACEDCAs87ENDREPLACE]: _CA_ s 87
 
 
 * make a film of a television broadcast;
@@ -388,7 +388,7 @@ Pursuant to s 87 of the //Act// television and sound broadcasts are protected. T
 [^AUTOREPLACED2002FCAFC146ENDREPLACE]: [2002] FCAFC 146
 
 
-In the case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2002/146.html) Ten’s show broadcast clips taken from other networks.  Nine sued under right to re-broadcast.
+In the case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http:_classic.austlii.edu.au/au/cases/cth/FCAFC/2002/146.html) Ten’s show broadcast clips taken from other networks.  Nine sued under right to re-broadcast.
 
 The Full Federal Court held that any unauthorised rebroadcasting of a broadcast would be an infringement of copyright (subject to any defence of fair dealing that Ten might have had).
 
@@ -396,8 +396,8 @@ The case was appealed to the High Court. It was held that copyright is only infr
 
 ### Published Editions of Works
 
-Section 88 of the //Act// protects published editions of works by providing the copyright owner the exclusive right to make a facsimile copy of a published edition of one or more literary, dramatic, musical, or artistic works. [^AUTOREPLACEDCAs88ENDREPLACE]
-[^AUTOREPLACEDCAs88ENDREPLACE]: //CA// s 88
+Section 88 of the _Act_ protects published editions of works by providing the copyright owner the exclusive right to make a facsimile copy of a published edition of one or more literary, dramatic, musical, or artistic works. [^AUTOREPLACEDCAs88ENDREPLACE]
+[^AUTOREPLACEDCAs88ENDREPLACE]: _CA_ s 88
 
 
 ##### Nationwide News Pty Ltd v Copyright Agency Limited [^AUTOREPLACED1996FCA257ENDREPLACE]
@@ -412,17 +412,17 @@ It was held that the newspaper and magazine owners had rights to published editi
 ## Substantial Part
 
 An infringing act need not be done in relation to the whole of the work or other subject-matter. It is sufficient if it is done in relation to a substantial part of the work. [^AUTOREPLACEDCAs141ENDREPLACE]
-[^AUTOREPLACEDCAs141ENDREPLACE]: //CA// s 14(1)
+[^AUTOREPLACEDCAs141ENDREPLACE]: _CA_ s 14(1)
 
 
-**Video overview by Kylie Pappalardo on [Substantial Part](https://www.youtube.com/watch?v=IPoiwAbGCr8&index=6&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on [Substantial Part](https:_www.youtube.com/watch?v=IPoiwAbGCr8&index=6&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 "Substantial" is a question of fact to be determined in the circumstances – requires a consideration of the quality of the work taken in relation to the work as a whole.
 
 Quality is the most important factor, not quantity:
 
 "Whether a part is substantial must be decided by its quality rather than its quantity. The reproduction of a part which by itself has no originality will not normally be a substantial part of the copyright and therefore will not be protected". [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]
-[^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]: //Ladbroke (Football) Ltd v William Hill (Football) Ltd// [1964] 1 WLR 273
+[^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]: _Ladbroke (Football) Ltd v William Hill (Football) Ltd_ [1964] 1 WLR 273
 
 
 ##### Folsom v Marsh [^AUTOREPLACED9FedCas342348Mass1841USENDREPLACE]
@@ -433,9 +433,9 @@ Quality is the most important factor, not quantity:
 
 
 Substantial part is assessed in respect to the work as a whole [^AUTOREPLACEDLadbrokevWilliamHill19641WLR273ENDREPLACE] and by reference to originality of the part taken.[^AUTOREPLACEDIceTVPtyLimitedvNineNetworkAustraliaPtyLimited2009HCA14ENDREPLACE]
-[^AUTOREPLACEDLadbrokevWilliamHill19641WLR273ENDREPLACE]: //Ladbroke v William Hill// [1964] 1 WLR 273
+[^AUTOREPLACEDLadbrokevWilliamHill19641WLR273ENDREPLACE]: _Ladbroke v William Hill_ [1964] 1 WLR 273
 
-[^AUTOREPLACEDIceTVPtyLimitedvNineNetworkAustraliaPtyLimited2009HCA14ENDREPLACE]: // IceTV Pty Limited v Nine Network Australia Pty Limited// [2009] HCA 14
+[^AUTOREPLACEDIceTVPtyLimitedvNineNetworkAustraliaPtyLimited2009HCA14ENDREPLACE]: _ IceTV Pty Limited v Nine Network Australia Pty Limited_ [2009] HCA 14
 
 
 
@@ -446,7 +446,7 @@ Substantial part is assessed in respect to the work as a whole [^AUTOREPLACEDLad
 [^AUTOREPLACED2009HCA1422April2009ENDREPLACE]: [2009] HCA 14 (22 April 2009)
 
 
-In the High Court Case of [IceTV Pty Limited v Nine Network Australia Pty Limited](http://classic.austlii.edu.au/au/cases/cth/HCA/2009/14.html) Channel 9 created a Weekly Schedule of television programmes to be broadcast each week. They alleged that each Weekly Schedule was a compilation, and therefore a literary work under the* Copyright Act 1968*, and that IceTV had infringed copyright by taking part of the time and title information from the Aggregated Guides (guides produced by third party Aggregators, authorised by Nine and to whom Nine provides the Weekly Schedule) and including it in their own (electronic) guide, the "IceGuide". Nine alleged that this constituted a reproduction of a substantial part of the copyright work. IceTV denied that they had reproduced in a material form a substantial part of any Weekly Schedule and denied that reproduction from any Aggregated Guide was a reproduction of any Weekly Schedule.
+In the High Court Case of [IceTV Pty Limited v Nine Network Australia Pty Limited](http:_classic.austlii.edu.au/au/cases/cth/HCA/2009/14.html) Channel 9 created a Weekly Schedule of television programmes to be broadcast each week. They alleged that each Weekly Schedule was a compilation, and therefore a literary work under the* Copyright Act 1968*, and that IceTV had infringed copyright by taking part of the time and title information from the Aggregated Guides (guides produced by third party Aggregators, authorised by Nine and to whom Nine provides the Weekly Schedule) and including it in their own (electronic) guide, the "IceGuide". Nine alleged that this constituted a reproduction of a substantial part of the copyright work. IceTV denied that they had reproduced in a material form a substantial part of any Weekly Schedule and denied that reproduction from any Aggregated Guide was a reproduction of any Weekly Schedule.
 
 "... in order to assess whether material copied is a substantial part of an original literary work, it is necessary to consider not only the extent of what is copied:** the quality of what is copied is critical**". (French CJ, Crennan and Kiefel JJ)
 
@@ -511,16 +511,16 @@ The piece taken was qualitatively important to the original – it could be desc
 ## Indirect Infringement
 
 The main forms of indirect infringement involve infringing copies. These include importing for the purposes of trade without the license of the copyright owner; [^AUTOREPLACEDCAss37and102ENDREPLACE] selling or hiring out or otherwise made the subject of trade;[^AUTOREPLACEDCAss38and103ENDREPLACE] and renting.
-[^AUTOREPLACEDCAss37and102ENDREPLACE]: //CA// ss 37 and 102
+[^AUTOREPLACEDCAss37and102ENDREPLACE]: _CA_ ss 37 and 102
 
-[^AUTOREPLACEDCAss38and103ENDREPLACE]: //CA// ss 38 and 103
+[^AUTOREPLACEDCAss38and103ENDREPLACE]: _CA_ ss 38 and 103
 
 
-**Video overview by Kylie Pappalardo on [Indirect Infringement of Copyright](https://www.youtube.com/watch?v=7NJZYUKQ4MI&index=7&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on [Indirect Infringement of Copyright](https:_www.youtube.com/watch?v=7NJZYUKQ4MI&index=7&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
 As a general rule it is necessary to establish that a defendant knew or ought to have reasonably known that the article in which they were dealing had been made in breach of copyright, or in the case of an imported article, that it would have been an infringing copy if it had been made in Australia by the importer. [^AUTOREPLACEDRabenFootwearPtyLtdvPolygramRecordsInc1997FCA370ENDREPLACE]
-[^AUTOREPLACEDRabenFootwearPtyLtdvPolygramRecordsInc1997FCA370ENDREPLACE]: //Raben Footwear Pty Ltd v Polygram Records Inc// [1997] FCA 370
+[^AUTOREPLACEDRabenFootwearPtyLtdvPolygramRecordsInc1997FCA370ENDREPLACE]: _Raben Footwear Pty Ltd v Polygram Records Inc_ [1997] FCA 370
 
 
 ### Entry into Commercial Rental Arrangement
@@ -528,22 +528,22 @@ As a general rule it is necessary to establish that a defendant knew or ought to
 There is an exclusive right to enter into a commercial rental arrangement, but is limited to:
 
 * a sound recording (for example, a CD or tape); [^AUTOREPLACEDCAs851dENDREPLACE]
-[^AUTOREPLACEDCAs851dENDREPLACE]: //CA// s 85(1)(d)
+[^AUTOREPLACEDCAs851dENDREPLACE]: _CA_ s 85(1)(d)
 
 
 * a literary, musical or dramatic work reproduced in sound recording; [^AUTOREPLACEDCAs31cENDREPLACE]
-[^AUTOREPLACEDCAs31cENDREPLACE]: //CA// s 31(c)
+[^AUTOREPLACEDCAs31cENDREPLACE]: _CA_ s 31(c)
  and
 
 * a computer program. [^AUTOREPLACEDCAs31dENDREPLACE]
-[^AUTOREPLACEDCAs31dENDREPLACE]: //CA// s 31(d)
+[^AUTOREPLACEDCAs31dENDREPLACE]: _CA_ s 31(d)
 
 
 
 ### Importation of Infringing Articles
 
 It is an infringement of copyright in any work in which copyright subsists to import an article into Australia for sale, hire or other commercial purpose, without the license of the copyright owner. This is on the basis that the importer knew, or ought reasonably to have known, that if the article had been made by the importer in Australia, it would have constituted an infringement of copyright. [^AUTOREPLACEDCAss37and102ENDREPLACE]
-[^AUTOREPLACEDCAss37and102ENDREPLACE]: //CA// ss 37 and 102
+[^AUTOREPLACEDCAss37and102ENDREPLACE]: _CA_ ss 37 and 102
 
 
 ##### Milpurrurru v Indofurn Pty Ltd [^AUTOREPLACED1994FCA975ENDREPLACE]
@@ -558,10 +558,10 @@ Held, the importing company had infringed the applicant’s copyright - managing
 
 Parallel importation is where an overseas supplier who has legally acquired copies of the works, imports these works into Australia without a license of the copyright holder.  
 
-**Video overview by Jordan Gregory on[Section 44C and Parallel Importation](https://www.youtube.com/watch?v=5NtqSfnjTxc).**
+**Video overview by Jordan Gregory on[Section 44C and Parallel Importation](https:_www.youtube.com/watch?v=5NtqSfnjTxc).**
 
 However, parallel importation of books is now allowed in certain circumstances.[^AUTOREPLACEDCAss44Aand112AENDREPLACE] These circumstances include:
-[^AUTOREPLACEDCAss44Aand112AENDREPLACE]: //CA// ss 44A and 112A
+[^AUTOREPLACEDCAss44Aand112AENDREPLACE]: _CA_ ss 44A and 112A
 
 
 * When book is first published outside Australia and not published in Australia within 30 days;
@@ -575,7 +575,7 @@ However, parallel importation of books is now allowed in certain circumstances.[
 * Note also that there have been other relaxations on parallel importation:
 
     * Labels – provisions of the Copyright Amendment Act (No. 1) 1998 (Cth) now prevent an overseas copyright owner controlling the distribution of goods in Australia by reliance on copyright in, for example, the label on a product. [^AUTOREPLACEDCAs44CENDREPLACE]
-[^AUTOREPLACEDCAs44CENDREPLACE]: //CA// s 44C
+[^AUTOREPLACEDCAs44CENDREPLACE]: _CA_ s 44C
 
 
         * See definition of "accessory" and “non-infringing accessory”. [^AUTOREPLACEDs101ENDREPLACE]
@@ -584,8 +584,8 @@ However, parallel importation of books is now allowed in certain circumstances.[
 
 * New provisions came into operation 18 months after 30 July 1998 – that is 1 February 2000.
 
-    * Sound recordings – the //Copyright Amendment Act (No. 2) 1998// effectively removed the restriction on the parallel importation of legitimate "sound recordings" as from 30 July 1998. [^AUTOREPLACEDCAss44Dand112DENDREPLACE]
-[^AUTOREPLACEDCAss44Dand112DENDREPLACE]: //CA// ss 44D and 112D
+    * Sound recordings – the _Copyright Amendment Act (No. 2) 1998_ effectively removed the restriction on the parallel importation of legitimate "sound recordings" as from 30 July 1998. [^AUTOREPLACEDCAss44Dand112DENDREPLACE]
+[^AUTOREPLACEDCAss44Dand112DENDREPLACE]: _CA_ ss 44D and 112D
 
 
 * Amendments dealing with the seizure of imported copies of copyright material make it easier for copyright owners to use the Notice of Objection scheme and are consistent with the Trade Marks Notice of Objection scheme under the Trade Marks Amendment Act 2006.
@@ -599,7 +599,7 @@ Held, infringement by importation.
 ### Sale of Infringing Articles
 
 Copyright in a work is infringed by a person who sells or hires an article if the person knew, or ought reasonably to have known, that the making of the article constituted an infringement of the copyright or, in the case of an imported article, would, if the article had been made in Australia by the importer, have constituted such an infringement. [^AUTOREPLACEDCAss38and103ENDREPLACE]
-[^AUTOREPLACEDCAss38and103ENDREPLACE]: //CA// ss 38 and 103
+[^AUTOREPLACEDCAss38and103ENDREPLACE]: _CA_ ss 38 and 103
 
 
 ##### Raben Footwear Pty Ltd v Polygram Records Inc__ [^AUTOREPLACED1997FCA370ENDREPLACE]

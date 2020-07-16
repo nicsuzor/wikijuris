@@ -5,7 +5,7 @@ nav_order: 40
 parent: Governing the Internet
 ---
 
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_defamation.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_defamation.markdown){: .btn .btn-outline }
 
 # Copyright Safe Harbours
 {: .no_toc }
@@ -20,7 +20,7 @@ This Chapter explains how defamation is an example of one area of law where inte
 
 ## The Law of Defamation
 
-**Video Overview by Kylie Pappalardo: [A Brief Introduction to Defamation Law](https://www.youtube.com/watch?v=RHLkorKAAys)**
+**Video Overview by Kylie Pappalardo: [A Brief Introduction to Defamation Law](https:_www.youtube.com/watch?v=RHLkorKAAys)**
 
 Defamation law is concerned with harm to a person's reputation (to "de-fame" someone). The law is therefore concerned with balancing the protection of reputation and freedom of expression. Defamation is the umbrella term for what used to be called libel (written imputations) and slander (verbal imputations).
 
@@ -64,25 +64,25 @@ For publication on the internet, uniform defamation legislation now provides tha
 
 ## Defences to Defamation
 
-**Video Overview by Kylie Pappalardo: [Selected Defences to Defamation](https://www.youtube.com/watch?v=YD76y1JCXnA)**
+**Video Overview by Kylie Pappalardo: [Selected Defences to Defamation](https:_www.youtube.com/watch?v=YD76y1JCXnA)**
 
 ### Truth
 
-A complete defence arises for any defamatory imputations that are true. Under the uniform defamation legislation in Australia, this defence is sometimes called "justification". To satisfy this defence, the imputations must be true in substance, though some small, immaterial inaccuracies will not defeat the defence. Defendants may experience evidentiary issues in proving the truth of the allegations. The defence will fail if a reasonable person would draw untrue inferences from the statements made. Under the Australian statutes, proof that a person was convicted of an offence is conclusive evidence that they committed the offence and so it will not be defamatory to make such a statement. In Queensland, the statutory defence of justification is available under s 25 of the //Defamation Act 2005// (Qld).
+A complete defence arises for any defamatory imputations that are true. Under the uniform defamation legislation in Australia, this defence is sometimes called "justification". To satisfy this defence, the imputations must be true in substance, though some small, immaterial inaccuracies will not defeat the defence. Defendants may experience evidentiary issues in proving the truth of the allegations. The defence will fail if a reasonable person would draw untrue inferences from the statements made. Under the Australian statutes, proof that a person was convicted of an offence is conclusive evidence that they committed the offence and so it will not be defamatory to make such a statement. In Queensland, the statutory defence of justification is available under s 25 of the _Defamation Act 2005_ (Qld).
 
 There is also a related defence of contextual truth. This defence applies where: (1) matter carries one or more defamatory imputations that are substantially true; and (2) the matter also contains an imputation that cannot be proved but which does not further harm the plaintiff's reputation. In these circumstances, the defence of contextual truth will excuse the unproven imputation. In other words, the force of the true imputations is strong enough that the untrue imputation does not really do any further harm.
 
-Contextual truth is a statutory defence under s 26 of the //Defamation Act 2005// (Qld). There is a similar defence at common law called the Polly Peck defence. This defence operates where different imputations have a common sting. If some imputations can be proven to establish the truth of the common sting, then it will not matter that the other imputations cannot be proven. For example, if a publication alleges that John stole from Sarah, Ashley and Peter, the common sting is that John is a thief. If the allegations in relation to Sarah and Ashley can be proven, then this will be sufficient to establish the common sting and the imputations in relation to John stealing from Peter will be excused even though they cannot be proven.
+Contextual truth is a statutory defence under s 26 of the _Defamation Act 2005_ (Qld). There is a similar defence at common law called the Polly Peck defence. This defence operates where different imputations have a common sting. If some imputations can be proven to establish the truth of the common sting, then it will not matter that the other imputations cannot be proven. For example, if a publication alleges that John stole from Sarah, Ashley and Peter, the common sting is that John is a thief. If the allegations in relation to Sarah and Ashley can be proven, then this will be sufficient to establish the common sting and the imputations in relation to John stealing from Peter will be excused even though they cannot be proven.
 
 ### Honest Opinion
 
-The defence of honest opinion excuses any defamatory statements made that are clearly only the defendant's personal opinion (i.e. not presented as fact) and which relate to something in the public sphere. This defence operates to protect reviews of movies (and actors), music, and restaurants, for example. The opinion must be honestly held, and the defence is defeated if the plaintiff can show that the defendant did not honestly hold the opinion. In Queensland, the defence is available under s 31 of the //Defamation Act 2005// (Qld).
+The defence of honest opinion excuses any defamatory statements made that are clearly only the defendant's personal opinion (i.e. not presented as fact) and which relate to something in the public sphere. This defence operates to protect reviews of movies (and actors), music, and restaurants, for example. The opinion must be honestly held, and the defence is defeated if the plaintiff can show that the defendant did not honestly hold the opinion. In Queensland, the defence is available under s 31 of the _Defamation Act 2005_ (Qld).
 
 ### Innocent Dissemination
 
 The defence of innocent dissemination protects subordinate distributors (such as vendors, postal workers, librarians, or live broadcasters who do not have control over the performers making the defamatory statements) who publish defamatory material when they neither knew nor reasonably could have known that the matter was defamatory. This defence protects those actors that are several steps removed from the making of the defamatory statements. Lack of knowledge is the crux of this defence.
 
-Under the defence of innocent dissemination (provided in Qld by s 32 of the //Defamation Act 2005// (Qld)), liability accrues from the point at which the intermediary acquires knowledge of defamatory material.[^AUTOREPLACEDseeDavidRolphPublicationInnocentDisseminationandtheInternetafterDowJonesCoIncvGutnick201033UniversityofNewSouthWalesLawJournal56257375AUTOREPLACED]
+Under the defence of innocent dissemination (provided in Qld by s 32 of the _Defamation Act 2005_ (Qld)), liability accrues from the point at which the intermediary acquires knowledge of defamatory material.[^AUTOREPLACEDseeDavidRolphPublicationInnocentDisseminationandtheInternetafterDowJonesCoIncvGutnick201033UniversityofNewSouthWalesLawJournal56257375AUTOREPLACED]
 
 [^AUTOREPLACEDseeDavidRolphPublicationInnocentDisseminationandtheInternetafterDowJonesCoIncvGutnick201033UniversityofNewSouthWalesLawJournal56257375AUTOREPLACED]: see David Rolph, ‘Publication, Innocent Dissemination and the Internet after Dow Jones & Co Inc v Gutnick’ (2010) 33 University of New South Wales Law Journal 562, 573–75.
 
@@ -90,7 +90,7 @@ Under the defence of innocent dissemination (provided in Qld by s 32 of the //De
 
 ## Intermediary Liability for 'Publishing' Defamatory Imputations
 
-**Video Overview by Nic Suzor: [Intermediary Liability for Defamation](https://www.youtube.com/watch?v=0pv7pvKoboI)**
+**Video Overview by Nic Suzor: [Intermediary Liability for Defamation](https:_www.youtube.com/watch?v=0pv7pvKoboI)**
 
 The general rule for defamation is that anyone in the chain of publication can be liable and held responsible for defamatory imputations that are published. This is very broad - it means, for example, that the operators of websites and discussion forums are potentially liable when unrelated third-parties post comments that are defamatory. In some circumstances, it may also extend to intermediaries who only have a tangential role in making the content available - including, for example, search engines who make the content discoverable or, through technical processes, reproduce third-party content on their own services in a way that is defamatory.
 
@@ -134,7 +134,7 @@ In Trkulja, Google was found liable for defamatory imputations carried as a resu
 
 
 
-[^AUTOREPLACEDIntheUKJusticeEadyoftheHighCourtofEnglandandWalesfoundthatGooglewasnotliableforinformationcontainedinsearchengineresultsMetropolitanSchoolsLtdvDesigntechnicaCorpn20111WLR1743orthecontentofblogsithostsonBloggercomTamizvGoogleInc2012EWHC449AUTOREPLACED]: In the UK, Justice Eady of the High Court of England and Wales found that Google was not liable for information contained in search engine results (//Metropolitan Schools Ltd v Designtechnica Corpn// [2011] 1 WLR 1743) or the content of blogs it hosts on Blogger.com (//Tamiz v Google Inc// [2012] EWHC 449).
+[^AUTOREPLACEDIntheUKJusticeEadyoftheHighCourtofEnglandandWalesfoundthatGooglewasnotliableforinformationcontainedinsearchengineresultsMetropolitanSchoolsLtdvDesigntechnicaCorpn20111WLR1743orthecontentofblogsithostsonBloggercomTamizvGoogleInc2012EWHC449AUTOREPLACED]: In the UK, Justice Eady of the High Court of England and Wales found that Google was not liable for information contained in search engine results (_Metropolitan Schools Ltd v Designtechnica Corpn_ [2011] 1 WLR 1743) or the content of blogs it hosts on Blogger.com (_Tamiz v Google Inc_ [2012] EWHC 449).
 
 
 
@@ -175,13 +175,13 @@ contrast, Barker J held that where the respondent “actively solicits and moder
 
 ### Google Inc and Duffy [2017] SASCFC 130 (4 October 2017)
 
-**Video Overview by Natalia Weir of [Duffy v Google](https://www.youtube.com/watch?v=S6k8K28hAd8) [2017] SASCFC 130**
+**Video Overview by Natalia Weir of [Duffy v Google](https:_www.youtube.com/watch?v=S6k8K28hAd8) [2017] SASCFC 130**
 
 Duffy alleged defamation against each of Google's USA and Australian entities in respect to material appearing on websites owned by the USA (i.e. parent company) Google entity. Searches of her name produced URL links to the websites and snippets, containing allegedly defamatory material, from those websites. Dr Janice Duffy has paid for and received psychic readings over the internet and her predictions proved to be false. Dr Duffy then engaged in an online conflict with the psychics, posting unfavourable remarks on a consumer website called Ripoff Report. Defamatory paragraphs about her were then posted, calling her a ‘psychic stalker’ and referring to her conflict with psychics on Ripoff Report. When Google’s search engine was used to search Dr Duffy’s name the autocomplete function produced an alternate search term ‘Janice Duffy Psychic Stalker’. Furthermore, the search engine reproduced content from, and hyperlinked to, the Ripoff Report material. The court subsequently found these allegations to be defamatory.
 
 Both the USA and Australian Google entities were requested by Duffy to remove the URL links and associated snippets. As neither entity acceded to the numerous requests, Duffy applied for interlocutory relief for the removal of the URL links and associated snippets.
 
-The relief sought was initially not granted against either of the defendants. With respect to Google Australia, this was because there was no evidence it had the ability to remove the URL links and snippets from the Google Search index. Instead, the evidence indicated that Google Inc – not Google Australia – exercised control over the Google Search (See video overview by Jack Howe of [Duffy v Google](https://www.youtube.com/watch?v=3552Qt2JrkI) [2011] SADC 178).
+The relief sought was initially not granted against either of the defendants. With respect to Google Australia, this was because there was no evidence it had the ability to remove the URL links and snippets from the Google Search index. Instead, the evidence indicated that Google Inc – not Google Australia – exercised control over the Google Search (See video overview by Jack Howe of [Duffy v Google](https:_www.youtube.com/watch?v=3552Qt2JrkI) [2011] SADC 178).
 
 In 2017, the Full Court of the South Australian Supreme Court held that Google Inc was liable for publication of defamatory content through search result snippets and by hyperlinking to defamatory articles hosted on other websites. The Court found that the “search results amounted to a publication because they facilitated the reading of the defamatory material in a substantial and proximate way, which drew attention to the defamatory remarks and provided instantaneous access to them through a hyperlink.” If users were required to copy a link into their browser, it is likely Google may not have been found liable.
 
@@ -189,7 +189,7 @@ Google sought to rely on several defences, most notably statutory qualified priv
 
 ### Voller v Nationwide News Pty Ltd; Voller v Fairfax Media Publications Pty Ltd; Voller v Australian News Channel Pty Ltd [2019] NSWSC 766)
 
-**Video overview by Brenton Poynting: [Voller v Nationwide News](https://www.youtube.com/watch?v=zFTtINx48kI&t=54s)**
+**Video overview by Brenton Poynting: [Voller v Nationwide News](https:_www.youtube.com/watch?v=zFTtINx48kI&t=54s)**
 
 The plaintiff was Dylan Voller, a former youth detainee who was mistreated in detention. The defendants were three media companies - Nationwide News Pty Ltd, Fairfax Media Publications Pty Ltd, and Australian News Channel Pty Ltd. Mr. Voller commenced defamation proceedings against the defendants over allegedly defamatory comments written by members of the public in reply to news articles posted on their respective Facebook pages. The issues to be considered were first, whether the media defendants should be considered to be “publishers” (the first element to make out in a defamation claim) of Facebook comments made by third parties. Secondly, whether the defendants were the primary or secondary publishers of third-party comments.
 
@@ -198,7 +198,7 @@ The Supreme Court of New South Wales ultimately held that the defendants were pu
 
 ### Clarke v Nationwide News Pty Ltd (t/as The Sunday Times) (2012) 289 ALR 345; [2012] FCA 307
 
-**Video Overview by Steven McMahon on [Clarke v Nationwide News](https://www.youtube.com/watch?time_continue=1&v=venTYL3A4C0)**
+**Video Overview by Steven McMahon on [Clarke v Nationwide News](https:_www.youtube.com/watch?time_continue=1&v=venTYL3A4C0)**
 
 A single justice sitting as the Federal Court was asked to decide whether the newspaper company contravened s 18C of the Racial Discrimination Act 1975 (Cth) when a reader published racially-fuelled comments on an article published about the death of several Aboriginal boys. The comments were moderated by the newspaper prior to publication. This was an application for damages, which were awarded in the sum of $12,000.
 
@@ -210,9 +210,9 @@ The control over publication on the website, coupled with the knowledge of the p
 
 ### Trkulja v Google Inc. & Google Australia Pty Ltd (No 5) [2012] VSC 533
 
-**Video Overview by Patrick Johnson: [Trkulja v Google](https://www.youtube.com/watch?v=AfZDXGgV11c)**
+**Video Overview by Patrick Johnson: [Trkulja v Google](https:_www.youtube.com/watch?v=AfZDXGgV11c)**
 
-The plaintiff successfully obtained a verdict of defamation against Google Inc. in a trial by jury in respect of photos posted on the internet. The plaintiff claimed that a Google search of his name showed results that displayed his picture and name together with pictures of other individuals either known to have committed serious criminal offences or against whom serious criminal allegations had been made and an article with the heading //Melbourne Crime//.
+The plaintiff successfully obtained a verdict of defamation against Google Inc. in a trial by jury in respect of photos posted on the internet. The plaintiff claimed that a Google search of his name showed results that displayed his picture and name together with pictures of other individuals either known to have committed serious criminal offences or against whom serious criminal allegations had been made and an article with the heading _Melbourne Crime_.
 
 The photos appeared in an online news article about a Melbourne shooting. The plaintiff successfully convinced the jury that the photos imputed that he was a prominent figure in the Melbourne criminal underworld, and Google Inc. (but not Google Australia) was ordered to pay damages.
 
@@ -222,7 +222,7 @@ The plaintiff argued that Google Inc. was a “publisher” of the images, on tw
 
 The court declined to overturn the jury's verdict, accepting the arguments put forth by Trkulja.[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdNo5httpwwwaustliieduaucgibinsinodispaucasesvicVSC2012533htmlstem0synonyms0querytitleTrkulja20and20Google20Inc20nocontext12012VSC533AUTOREPLACED]
 
-[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdNo5httpwwwaustliieduaucgibinsinodispaucasesvicVSC2012533htmlstem0synonyms0querytitleTrkulja20and20Google20Inc20nocontext12012VSC533AUTOREPLACED]: //Trkulja v Google Inc. & Google Australia Pty Ltd// (No 5) [http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/vic/VSC/2012/533.html?stem=0&synonyms=0&query=title(Trkulja%20and%20Google%20Inc.%20)&nocontext=1]([2012] VSC 533
+[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdNo5httpwwwaustliieduaucgibinsinodispaucasesvicVSC2012533htmlstem0synonyms0querytitleTrkulja20and20Google20Inc20nocontext12012VSC533AUTOREPLACED]: _Trkulja v Google Inc. & Google Australia Pty Ltd_ (No 5) [http:_www.austlii.edu.au/cgi-bin/sinodisp/au/cases/vic/VSC/2012/533.html?stem=0&synonyms=0&query=title(Trkulja%20and%20Google%20Inc.%20)&nocontext=1]([2012] VSC 533
 
 )
 
@@ -232,7 +232,7 @@ So far as Trkulja's second argument was concerned, the Court held that after bei
 
 ### Trkulja v Google LLC [2018] HCA 25
 
-**Video overview by Elizabeth MacGillivray: [Trkulja v Google LLC](https://www.youtube.com/watch?v=hCwbgqIdon0) [2018]**
+**Video overview by Elizabeth MacGillivray: [Trkulja v Google LLC](https:_www.youtube.com/watch?v=hCwbgqIdon0) [2018]**
 
 In 2012, Trkulja successfully sued Google in the Victorian Supreme Court, arguing that the publication of such web pages was defamatory. In 2015, Trkulja alleged that Google had engaged in further defamatory conduct by way of auto-complete search predictions and associative image search results. Trkulja provided evidence of his name in a search bar, with autocomplete predictive words that linked him with the underworld killings and criminals, and photos of his face in the image search tab next to other known Melbourne criminals. Upon Trkulja’s success, Google then successfully appealed the decision in 2016, with the Court of Appeal ruling that Trkulja would have ‘no real prospect of success’. However, in 2018 Trkulja subsequently appealed to the High Court of Australia, where it was held that the Court of Appeal had erred in its decision and had applied the wrong test in determining whether defamatory conduct was evident. With the High Court’s go-ahead, Trkulja’s case can therefore proceed in the Supreme Court of Victoria.
 
@@ -241,7 +241,7 @@ In 2012, Trkulja successfully sued Google in the Victorian Supreme Court, arguin
 
 ### Rana v Google Australia Pty Ltd [2013] FCA 60
 
-**Video Overview by Carlie McCulloch: [Rana v Google](https://www.youtube.com/watch?v=_nt11Yig1nI)**
+**Video Overview by Carlie McCulloch: [Rana v Google](https:_www.youtube.com/watch?v=_nt11Yig1nI)**
 
 Rana sought leave to serve proceedings on Google Inc (USA-based), claiming Google was liable as publisher of a third party's defamatory websites as appearing in Google's search results; significant reliance was placed on the Trkulja case. Google sought summary judgment dismissing the claim, on the basis of no reasonable prospect of establishing Google was the publisher of the websites.
 
@@ -249,7 +249,7 @@ Justice Mansfield granted leave to serve the proceedings (see [58]). His Honour 
 
 ### Visscher v Maritime Union of Australia (No 6) [2014] NSWSC 350
 
-**Video Overview by Matthew Dolan: [Visscher v MUA](https://www.youtube.com/watch?v=mSl1WyTiWM0)**
+**Video Overview by Matthew Dolan: [Visscher v MUA](https:_www.youtube.com/watch?v=mSl1WyTiWM0)**
 
 This was a (non-jury) defamation trial before the New South Wales Supreme Court. The court held that an online article's hyperlink to another, defamatory, article amounted to a “publication” according to the _Urbanchich_ test.
 
@@ -263,7 +263,7 @@ Beech-Jones J distinguished Crookes on three grounds. First, that the Supreme Co
 
 ### Trkulja v Yahoo! Inc LLC [2012] VSC 88
 
-**Video Overview by Stuart Efstathis: [Trkulja v Yahoo](https://www.youtube.com/watch?v=6Y5aIhTB6vg)**
+**Video Overview by Stuart Efstathis: [Trkulja v Yahoo](https:_www.youtube.com/watch?v=6Y5aIhTB6vg)**
 
 In Trkulja v Yahoo! LLC, T sued Yahoo for publishing a story on an attempted hit on T's life through the Yahoo!7 search service on a website entitled “Melbourne Crime”. Next to a large photo of T appeared the text of the article:
 
@@ -284,7 +284,7 @@ HELD, the article carried imputations 2 and 3 and those were defamatory of the p
 
 ### Bleyer v Google Inc LLC (2014) 311 ALR 529
 
-**Video Overview by Claire Stewart: [Bleyer v Google Inc](https://www.youtube.com/watch?v=IWlPyJGxT10)**
+**Video Overview by Claire Stewart: [Bleyer v Google Inc](https:_www.youtube.com/watch?v=IWlPyJGxT10)**
 
 **Facts:**
 Proceedings in the NSW Supreme Court;
@@ -311,7 +311,7 @@ The claim would be difficult to make out and defend and any judgment would more 
 
 ### Crookes v Newton [2011] 3 SCR 269
 
-**Video Overviews on Crooks v Newton by [Clairlaw](https://www.youtube.com/watch?v=ymo3-q5DD4E)** and **[Daniel Hill](https://www.youtube.com/watch?v=so1Utg-W9dE)**
+**Video Overviews on Crooks v Newton by [Clairlaw](https:_www.youtube.com/watch?v=ymo3-q5DD4E)** and **[Daniel Hill](https:_www.youtube.com/watch?v=so1Utg-W9dE)**
 
 **Facts:**
 C sued N for defamation after N refused to remove a pair of links on his website.

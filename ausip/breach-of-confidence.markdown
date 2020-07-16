@@ -4,7 +4,7 @@ title: Breach of Confidence
 nav_order: 30
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/breach-of-confidence.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/breach-of-confidence.markdown){: .btn .btn-outline }
 
 
 
@@ -16,11 +16,11 @@ parent: Australian IP Law
 
 The equitable doctrine of breach of confidence is a remedy that protects confidential information -- including private and personal information as well as trade secrets.  It sometimes operates as a quasi-privacy right. Whilst it is not as straight forward as enforcing a contractual non disclosure agreement for example, in some instances the breach of confidence doctrine can be used to prevent the disclosure of private or secret information.
 
-**Video overview by Nicolas Suzor on [Breach of Confidence](https://www.youtube.com/watch?v=Qai12dUAKbA&index=3&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve).**
+**Video overview by Nicolas Suzor on [Breach of Confidence](https:_www.youtube.com/watch?v=Qai12dUAKbA&index=3&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve).**
 
 ## Origins of Breach of Confidence in Australia
 
-There is no one body which governs confidential information. In Australia, we have a number of statues and relationship specific situations which seek to protect various types of confidential information. These are specific to types of relationships or duties owned in situations. For instance, a lawyer has a legal professional privilege and the //Corporations Act 2001// (Cth) s 183(1) imposes obligations of confidence. These are just two examples, there are many others which set out specific obligations of confidence or protect secret information. Confidence may also be contractual, such as in a non-disclosure agreement.     
+There is no one body which governs confidential information. In Australia, we have a number of statues and relationship specific situations which seek to protect various types of confidential information. These are specific to types of relationships or duties owned in situations. For instance, a lawyer has a legal professional privilege and the _Corporations Act 2001_ (Cth) s 183(1) imposes obligations of confidence. These are just two examples, there are many others which set out specific obligations of confidence or protect secret information. Confidence may also be contractual, such as in a non-disclosure agreement.     
 
 In situations where there is no statue, contract or relationships which expressly protect confidential information, the doctrine of breach of confidence may assist.
 
@@ -177,4 +177,4 @@ These include:
 2. Damages, account of profits - Usually plaintiff seeks an injunction.
 
 Beware of the Streisand effect. The Streisand effect is a phenomenon whereby an attempt to hide, remove, or censor a piece of information has the unintended consequence of publicising the information more widely, usually facilitated by the Internet. [^AUTOREPLACEDhttpsenwikipediaorgwikiStreisand_effectENDREPLACE]
-[^AUTOREPLACEDhttpsenwikipediaorgwikiStreisand_effectENDREPLACE]: https://en.wikipedia.org/wiki/Streisand_effect
+[^AUTOREPLACEDhttpsenwikipediaorgwikiStreisand_effectENDREPLACE]: https:_en.wikipedia.org/wiki/Streisand_effect

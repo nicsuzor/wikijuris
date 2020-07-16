@@ -5,7 +5,7 @@ nav_order: 60
 has_children: true
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/patent-overview.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/patent-overview.markdown){: .btn .btn-outline }
 
 
 # Patent Overview: an introduction to the patent system
@@ -18,11 +18,11 @@ parent: Australian IP Law
 
 A patent is a legally enforceable right in a new and useful invention, product or process. It is granted by a government office, in a form of a document, upon application by an inventor or inventors. The document describes the invention and recognises its inventors. In Australia, patents are governed by the Patents Act 1990 and are granted by the Intellectual Property Office of Australia located in Canberra.
 
-**Video: [Protecting your product](https://www.youtube.com/watch?v=l9eRdOP_Fhg)**
+**Video: [Protecting your product](https:_www.youtube.com/watch?v=l9eRdOP_Fhg)**
 
 ## What is a Patent?
 
-Patents are governed by //Patents Act 1990// (Cth) (//PA//). A patent is a grant by the Crown (the Commonwealth government), which gives the owner of the patent the exclusive right to exploit an invention ('exploit' means a right to prevent others using the invention). This exclusive right applies throughout the patent territory (territorially limited – Australia), for the duration of the patent. The period of protection provided by the patent depends on the type of patent.
+Patents are governed by _Patents Act 1990_ (Cth) (_PA_). A patent is a grant by the Crown (the Commonwealth government), which gives the owner of the patent the exclusive right to exploit an invention ('exploit' means a right to prevent others using the invention). This exclusive right applies throughout the patent territory (territorially limited – Australia), for the duration of the patent. The period of protection provided by the patent depends on the type of patent.
 
 
 ### Examples of Granted Patents
@@ -86,7 +86,7 @@ There are specific rights that are valid during the extended term of the patent.
 
 The extended period of protection only protects the pharmaceutical substance itself.
 
-**Video overview by Fern Doyle on [Requirements For Extension of Time for Pharmaceutical Patents](https://www.youtube.com/watch?v=XA_QFCUoIJA).**
+**Video overview by Fern Doyle on [Requirements For Extension of Time for Pharmaceutical Patents](https:_www.youtube.com/watch?v=XA_QFCUoIJA).**
 
 [^AUTOREPLACED$1ENDREPLACE]
 [^AUTOREPLACED$1ENDREPLACE]: $1
@@ -104,9 +104,9 @@ The duration of an innovative patent is for the period of eight years from the d
 [^AUTOREPLACED$1ENDREPLACE]: $1
 
 
-**Video overview by Maddison D on [The Difference Between a Standard Patent and an Innovation Patent](https://www.youtube.com/watch?v=G77xPOYJZng?small).**
+**Video overview by Maddison D on [The Difference Between a Standard Patent and an Innovation Patent](https:_www.youtube.com/watch?v=G77xPOYJZng?small).**
 
-IP Australia [Quick guide to innovation versus standard patents](https://www.ipaustralia.gov.au/patents/understanding-patents/types-patents) CC-BY 4.0.
+IP Australia [Quick guide to innovation versus standard patents](https:_www.ipaustralia.gov.au/patents/understanding-patents/types-patents) CC-BY 4.0.
 
 ^             ^ Innovation Patent ^ Standard Patent |
 | Your invention must: | Be new, useful and involve an innovative step. | Be new, useful and involve an inventive step.|
@@ -137,7 +137,7 @@ It is usually accepted that there are two main goals of the patent system. First
 
 The second goal of the patent system is to disseminate new knowledge. Inventors are encouraged, through a statutory monopoly, to publish a full description of their new inventions and explain, in the patent specification, exactly how it works. The patent system is designed so that the incentive to publish (and gain protection) is greater than the inventor's incentive to keep new inventions secret.
 
-**Video overview by Brandon Vagnini on [The Goals of The Patent System](https://www.youtube.com/watch?v=G2qWEp0hsyc).**
+**Video overview by Brandon Vagnini on [The Goals of The Patent System](https:_www.youtube.com/watch?v=G2qWEp0hsyc).**
 
 
 
@@ -168,7 +168,7 @@ By the 16th century, the English Crown would habitually grant letters patent for
 ==== Statute of Monopolies ====
 
 
-After public outcry, James I of England was forced to revoke all existing monopolies and declare that they were only to be used for "projects of new invention".  This was incorporated into the Statute of Monopolies in which Parliament restricted the Crown's power explicitly so that the King could only issue letters patent to the inventors or introducers of original inventions for a fixed number of years. According to  s6 of the //Statute of Monopolies//,  all existing monopolies and dispensations were voided with the exception of:
+After public outcry, James I of England was forced to revoke all existing monopolies and declare that they were only to be used for "projects of new invention".  This was incorporated into the Statute of Monopolies in which Parliament restricted the Crown's power explicitly so that the King could only issue letters patent to the inventors or introducers of original inventions for a fixed number of years. According to  s6 of the _Statute of Monopolies_,  all existing monopolies and dispensations were voided with the exception of:
 > ...the sole working or making of any manner of new manufactures within this realm to the true and first inventor and inventors of such manufactures which others at the time of making such letters patent and grants shall not use...
 
 The Statute of Monopolies voided monopolies on the principle that monopolies are generally anti-competitive. The main exception to this principle is that sometimes monopolies are required in order to encourage new inventions or products. So while the Statute of Monopolies declared that all monopolies were void, it specifically excluded any patent or grant of privilege that was limited in duration (14 yrs here, the duration of two period of apprenticeship) that covered any new manner of manufacture (new product/process), was territorially limited, and granted directly to inventor (not importers). The Statute imposed further restrictions that the patent granted could not be contrary to law (particularly competition law), raise existing price of commodities, harm trade in general products, or be 'generally inconvenient'.
@@ -179,4 +179,4 @@ The Statute of Monopolies became the foundation for later developments in patent
 
 The notion of patent law, like many Australian laws comes from the Anglo-Saxton heritage of the UK. The letters patent was the first type of patent which was issued by the Crown. These letters patent provided the recipient with their rights to practice their trade or craft.
 
-The States and Territories enacted the first patent laws in Australia independently. It wasn’t until 1903 that a Commonwealth Act was enacted, //Patents Act 1903// (Cth.) This was enacted pursuant to the Constitution under s 51 (xviii). Since this time there have been a number of changes to the //Patents Act//. The current //Act//, which is in force, is a result of changing times in technology and innovation. Alongside the legislation is the //Patents Regulation 1991// (Cth), which is positioned to compliment the //Act//.
+The States and Territories enacted the first patent laws in Australia independently. It wasn’t until 1903 that a Commonwealth Act was enacted, _Patents Act 1903_ (Cth.) This was enacted pursuant to the Constitution under s 51 (xviii). Since this time there have been a number of changes to the _Patents Act_. The current _Act_, which is in force, is a result of changing times in technology and innovation. Alongside the legislation is the _Patents Regulation 1991_ (Cth), which is positioned to compliment the _Act_.

@@ -5,7 +5,7 @@ parent: Content Regulation
 grand_parent: Governing the Internet
 nav_order: 93
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/filtering.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/filtering.markdown){: .btn .btn-outline }
 
 # ISP Filtering
 {: .no_toc }
@@ -19,7 +19,7 @@ Sometimes this is done by explicit statutory schemes; other times, ISPs may be p
 
 ## Section 313 of the of the Telecommunications Act 1997 (Cth)
 
-**Video Overview by Kaava Watson:[Section 313](https://www.youtube.com/watch?v=DgSMz2GRVB4)**
+**Video Overview by Kaava Watson:[Section 313](https:_www.youtube.com/watch?v=DgSMz2GRVB4)**
 
 In Australia, several different forms of pressure have been exercised in recent years to encourage intermediaries to take action to police the actions of their users. The most blunt is direct action by law enforcement agencies, who are empowered to make requests of telecommunications providers under s 313 of the Telecommunications Act.  This provision requires carriers and carriage service providers to "do the carrier's best or the provider's best to prevent telecommunications networks and facilities from being used in, or in relation to, the commission of offences against the laws of the Commonwealth or of the States and Territories", and to
  “give officers and authorities of the Commonwealth and of the States and Territories such help as is reasonably necessary” to enforce criminal law, impose pecuniary penalties, assist foreign law enforcement, protect the public revenue, and safeguard national security.
@@ -34,7 +34,7 @@ The section essentially enables police and other law enforcement agencies to dir
 
 The Australian Government recently introduced a legislative scheme to enable copyright owners to seek an injunction to require Internet Service Providers to block access to infringing websites and other internet resources.
 
-The Act introduces a new [Section 115A](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s115a.html), which empowers the Federal Court to order injunctive relief against ISPs on application by copyright owners in respect of an 'online location'. Copyright owners are required to show that "the online location infringes, or facilitates an infringement of, the copyright", and that "the primary purpose of the online location is to infringe, or to facilitate the infringement of, copyright (whether or not in Australia)."
+The Act introduces a new [Section 115A](http:_www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s115a.html), which empowers the Federal Court to order injunctive relief against ISPs on application by copyright owners in respect of an 'online location'. Copyright owners are required to show that "the online location infringes, or facilitates an infringement of, the copyright", and that "the primary purpose of the online location is to infringe, or to facilitate the infringement of, copyright (whether or not in Australia)."
 
 The Act uses a definition that catches foreign internet sites that 'infringe or facilitate' infringement of copyright. 'Facilitate' is not a defined term in Australian copyright law; there is considerable uncertainty as to the breadth of this test. Presumably, the term is designed to include foreign sites that help people to infringe -- for example by providing software or indexing services -- but may not necessarily 'authorise' infringement.
 
@@ -73,4 +73,4 @@ The Federal Court must also take into account any other relevant matters before 
 
 The scheme is inspired by UK legislation that enables courts to enjoin ISPs to block certain websites. Similar schemes exist in other jurisdictions - although, notably, other jurisdictions have found that they are disproportionate. The lack of evidence that the schemes worked led the European Court of Justice to strike down website blocking in the Netherlands.[^AUTOREPLACEDREINvZIGGO2012translationprovidedbyhttppiratepartyorgaumediadocumentsECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREINpdfAUTOREPLACED] An order to require ISPs to block access to The Pirate Bay was overturned on appeal, and the Court noted that rates of infringement had actually increased following the imposition of the block. The inference drawn by the court was that the measure could not have been proportionate, since it necessarily imposed a cost on freedom of speech for little ascertainable benefit.
 
-[^AUTOREPLACEDREINvZIGGO2012translationprovidedbyhttppiratepartyorgaumediadocumentsECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREINpdfAUTOREPLACED]: ​REIN v ZIGGO (​2012), translation provided by ￼￼￼h​ttp://pirateparty.org.au/media/documents/ECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREIN.pdf
+[^AUTOREPLACEDREINvZIGGO2012translationprovidedbyhttppiratepartyorgaumediadocumentsECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREINpdfAUTOREPLACED]: ​REIN v ZIGGO (​2012), translation provided by ￼￼￼h​ttp:_pirateparty.org.au/media/documents/ECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREIN.pdf

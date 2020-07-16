@@ -5,7 +5,7 @@ parent: Content Regulation
 grand_parent: Governing the Internet
 nav_order: 95
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/follow_the_money.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/follow_the_money.markdown){: .btn .btn-outline }
 
 ## 'Follow the Money'
 
@@ -18,7 +18,7 @@ Public and private actors are increasingly seeking to regulate user behaviour by
 
 **Case study: How Payment Intermediaries Attempted to Shut Down WikiLeaks**
 
-**Video Overview by [Shana Webster](https://www.youtube.com/watch?v=PX4GMHz3QTA)**
+**Video Overview by [Shana Webster](https:_www.youtube.com/watch?v=PX4GMHz3QTA)**
 
 In 2010, WikiLeaks partnered with multiple leading newspapers around the globe (such as the Guardian and New York Times) to publish over 250,000 cables between the US Department of State and US Embassies worldwide. These disclosures included highly sensitive information, such as identifying that the American Special Forces had been operating inside Pakistan. As the publication of the information is legal in the US, the Government could not prevent the release. Instead, the State wrote to WikiLeaks, imploring them to cooperate. The letter was strategically penned so as to insinuate illegal operations by WikiLeaks. It alleged that the anonymous source who released the information had broken the law, and so long as WikiLeaks held the material, the violation was ongoing. When WikiLeaks failed to cooperate, the State leaked the letter to the media.
 
@@ -42,7 +42,7 @@ The payment blockade raised valid concerns as to the ongoing privatisation of in
 
 =====BitCoin and Other Decentralised Currencies=====
 
-**Overview Videos by [Madeline Menzies-Miha](https://www.youtube.com/watch?v=ZtKDE7ReN2g) and [Jennifer Singleton](https://www.youtube.com/watch?v=ylN9uPK6bIo)**
+**Overview Videos by [Madeline Menzies-Miha](https:_www.youtube.com/watch?v=ZtKDE7ReN2g) and [Jennifer Singleton](https:_www.youtube.com/watch?v=ylN9uPK6bIo)**
 
 Help needed!
 
@@ -56,7 +56,7 @@ For those interested in further reading, please see:
 
 * Cannon, Samuel C., "Terrorizing WikiLeaks: Why The Embargo Against Wikileaks Will Fail" (2013) 11(305) Journal On Telecomm. & High Tech L., 306.
 * DeNardis, Laura, "Hidden Levers of Internet Control" (2012) 15(5) Information, Communication & Society, 720.
-* WikiLeaks.org, "Banking Blockade" (2014), https://wikileaks.org/Banking-Blockade.html - while clearly a subjective opinion from WikiLeaks perspective, I found the PDF document linked on this page (https://wikileaks.org/IMG/pdf/WikiLeaks-Banking-Blockade-Information-Pack.pdf) to be a concise overview of the timeline of events. It is also a highly interesting read to view the blockade from the perspective of WikiLeaks and its advocates.
-* Forbes, "WikiLeaks Bypasses Financial Blockade With Bitcoin" (2012) http://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/
-* RT, "Visa, MasterCard sued for blocking donations to WikiLeaks" (2014), https://www.rt.com/usa/214007-datacell-wikileaks-bank-blockade/
-* The Register, "Credit card donations to WikiLeaks restored as Mastercard breaks ranks" (2013) http://www.theregister.co.uk/2013/07/05/wikileaks_credit_card_donations_restored/
+* WikiLeaks.org, "Banking Blockade" (2014), https:_wikileaks.org/Banking-Blockade.html - while clearly a subjective opinion from WikiLeaks perspective, I found the PDF document linked on this page (https:_wikileaks.org/IMG/pdf/WikiLeaks-Banking-Blockade-Information-Pack.pdf) to be a concise overview of the timeline of events. It is also a highly interesting read to view the blockade from the perspective of WikiLeaks and its advocates.
+* Forbes, "WikiLeaks Bypasses Financial Blockade With Bitcoin" (2012) http:_www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/
+* RT, "Visa, MasterCard sued for blocking donations to WikiLeaks" (2014), https:_www.rt.com/usa/214007-datacell-wikileaks-bank-blockade/
+* The Register, "Credit card donations to WikiLeaks restored as Mastercard breaks ranks" (2013) http:_www.theregister.co.uk/2013/07/05/wikileaks_credit_card_donations_restored/

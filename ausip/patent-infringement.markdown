@@ -5,7 +5,7 @@ nav_order: 64
 parent: Patent
 grand_parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/patent-infringement.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/patent-infringement.markdown){: .btn .btn-outline }
 
 
 # Patent Infringement
@@ -29,8 +29,8 @@ The rights granted to a patentee are considered personal property. [^AUTOREPLACE
 
 
 ### Ownership
-Ownership, within s6 of the *Statute of Monopolies* traditionally referred to the ‘first and true inventor’, which included the person who first introduced the invention into the realm. [^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE] This definition of ownership is not the case today. Pursuant to the //Patents Act 1990// (Cth), an inventor has a right to apply for a patent, but a person can also acquire rights to an invention. Rights can be acquires through the course of employment or by purchasing the right. [^AUTOREPLACEDs15ENDREPLACE] Mere importation is no longer sufficient to apply for a patent.
-[^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE]: E//dgeberry v Stephens* (1693)// 2 Salk 447
+Ownership, within s6 of the *Statute of Monopolies* traditionally referred to the ‘first and true inventor’, which included the person who first introduced the invention into the realm. [^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE] This definition of ownership is not the case today. Pursuant to the _Patents Act 1990_ (Cth), an inventor has a right to apply for a patent, but a person can also acquire rights to an invention. Rights can be acquires through the course of employment or by purchasing the right. [^AUTOREPLACEDs15ENDREPLACE] Mere importation is no longer sufficient to apply for a patent.
+[^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE]: E_dgeberry v Stephens* (1693)_ 2 Salk 447
 
 [^AUTOREPLACEDs15ENDREPLACE]: s 15
 
@@ -46,17 +46,17 @@ There can be joint inventors of a patent. [^AUTOREPLACEDs31ENDREPLACE] Joint inv
 
 
 
-**Video overview by Taylor Lennox on[When the rights to an invention will be owned by an employer](https://www.youtube.com/watch?v=mF5DzTcqB4k).**
+**Video overview by Taylor Lennox on[When the rights to an invention will be owned by an employer](https:_www.youtube.com/watch?v=mF5DzTcqB4k).**
 
 
 
 ### Employee Inventions
-Ownership of employee inventions vests in employers where there is an express term in the employment contract. Any express term should not be so wide as to constitute a restraint of trade. [^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE] In //Electrolux//, an adaptor to fit a bag to a vacuum cleaner was invented by a storekeeper and the terms of his employment had nothing to do with inventing in relation to vacuum cleaners.
-[^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE]: //Electrolux Ltd v Hudson// [1977] FSR 312
+Ownership of employee inventions vests in employers where there is an express term in the employment contract. Any express term should not be so wide as to constitute a restraint of trade. [^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE] In _Electrolux_, an adaptor to fit a bag to a vacuum cleaner was invented by a storekeeper and the terms of his employment had nothing to do with inventing in relation to vacuum cleaners.
+[^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE]: _Electrolux Ltd v Hudson_ [1977] FSR 312
 
 
 Ownership can also vest in employers by way of implied terms. Where employees are engaged to use their inventive faculty, they will be considered to be doing work they are paid to do. In these instances, the benefits to the employer include the rights to invention. [^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE]
-[^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE]: //UWA v Gray// (2009) 82 IPR 206
+[^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE]: _UWA v Gray_ (2009) 82 IPR 206
 
 
 ## Ownership and Exploitation: Assignment and Licensing
@@ -73,7 +73,7 @@ Patents are considered personal property. [^AUTOREPLACEDs132ENDREPLACE] The righ
 
 
 There is a possibility of unregistered equitable interests in a patent. [^AUTOREPLACEDStackvBrisbaneCityCouncil199635IPR297at299ss1893and196biiENDREPLACE] Pursuant to s 189(3), in some instances, "equities in relation to a patent may be enforced against the patentee except to the prejudice of a purchaser in good faith for value".
-[^AUTOREPLACEDStackvBrisbaneCityCouncil199635IPR297at299ss1893and196biiENDREPLACE]: //Stack v Brisbane City Council// (1996) 35 IPR 297 at 299; ss 189(3) and 196(b)(ii
+[^AUTOREPLACEDStackvBrisbaneCityCouncil199635IPR297at299ss1893and196biiENDREPLACE]: _Stack v Brisbane City Council_ (1996) 35 IPR 297 at 299; ss 189(3) and 196(b)(ii
 
 
 The assignment sale of patent right gives the  assignee rights to the patent. Once complete, the assignee owns the patent and the assignor has no residual rights. The details of the assignment must be recorded on the patent register.  
@@ -91,7 +91,7 @@ A licensee may terminate the licence agreement even if it is still in force at t
 
 
 
-**Video overview by David Taylor on[Commercialisation and licensing of inventions](https://www.youtube.com/watch?v=EUUHq8PsKSQ).**
+**Video overview by David Taylor on[Commercialisation and licensing of inventions](https:_www.youtube.com/watch?v=EUUHq8PsKSQ).**
 
 
 __*Regency Media Pty Ltd v MPEG LA, L.L.C.* [2014] FCAFC 183__
@@ -108,7 +108,7 @@ Licence may be exclusive, sole or non-exclusive.
 
 There can also be implied licences, for example a purchaser's right to use a patented product, or a purchaser's right to repair a patented product. Such uses will not breach the patent.
 
-Compulsory licences also exist under the //Act//. A court application is required to evoke compulsory licenses. These arise where a patentee has failed to exploit the patent in the patent territory. [^AUTOREPLACEDss1332135and144ENDREPLACE]
+Compulsory licences also exist under the _Act_. A court application is required to evoke compulsory licenses. These arise where a patentee has failed to exploit the patent in the patent territory. [^AUTOREPLACEDss1332135and144ENDREPLACE]
 [^AUTOREPLACEDss1332135and144ENDREPLACE]: ss 133(2), 135 and 144
 
 
@@ -130,9 +130,9 @@ Multiple exclusive licenses for patents in respect of different uses of the inve
 
 ## Infringement
 
-Patent infringement proceedings are outlined in s120 of the //Act//. Proceedings can be commenced by a patentee or exclusive licensee, although an exclusive licensee must join the patentee as a defendant or plaintiff. [^AUTOREPLACEDs1202ENDREPLACE]
+Patent infringement proceedings are outlined in s120 of the _Act_. Proceedings can be commenced by a patentee or exclusive licensee, although an exclusive licensee must join the patentee as a defendant or plaintiff. [^AUTOREPLACEDs1202ENDREPLACE]
 [^AUTOREPLACEDs1202ENDREPLACE]: s120(2
-) 'Infringement' is not defined by the //Act// however is considered to occur when a person exercises one of the exclusive rights of the patentee without their consent. The concepts of knowledge and intent are not elements of patent infringement. Infringement depends purely on whether a person other than the patentee, licensee or someone authorised is exploiting the exclusive rights of the patentee.
+) 'Infringement' is not defined by the _Act_ however is considered to occur when a person exercises one of the exclusive rights of the patentee without their consent. The concepts of knowledge and intent are not elements of patent infringement. Infringement depends purely on whether a person other than the patentee, licensee or someone authorised is exploiting the exclusive rights of the patentee.
 
 As noted previously, the exclusive rights of the patentee are to exploit the invention; including using, selling or making the invention [^AUTOREPLACEDs13Sch1ENDREPLACE]
 [^AUTOREPLACEDs13Sch1ENDREPLACE]: s 13, Sch 1
@@ -157,9 +157,9 @@ The test for infringement is whether all essential integers (elements) of the pa
 #### Pith and Marrow  
 
 The pith and marrow refers to the 'essence and substance' of the invention. [^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE] Whilst this phrase is rarely used in modern patent law cases, the phrase is intended to refer to the "novel features only that [the patentee] claims to be essential", these are the essential integers of the patent claim. [^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]
-[^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE]: //Clark v Adie// (1875) 10 Ch App 667
+[^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE]: _Clark v Adie_ (1875) 10 Ch App 667
 
-[^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]:  //Catnic Components Ltd v Hill & Smith Ltd// [1982] RPC 183, 243; //Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd// (2005) 67 IPR 230, 245
+[^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]:  _Catnic Components Ltd v Hill & Smith Ltd_ [1982] RPC 183, 243; _Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd_ (2005) 67 IPR 230, 245
 
 
 
@@ -175,7 +175,7 @@ __*Catnic Components Ltd v Hill & Smith Ltd* (No 1) (1982) RPC 183__
 
 The doctrine of contributory infringement applies in patent law to allow a patentee to seek remedies from a person who has indirectly infringed the patent. This may occur in situations where a person has supplied another the ability to infringe the patent.
 
-Section 117 of the //Act// outlines the doctrine of contributory infringement.
+Section 117 of the _Act_ outlines the doctrine of contributory infringement.
 
 
 * Section 117(1)  If the use of a product by a person would infringe a patent, the supply of that product by one person to another is an infringement of the patent by the supplier unless the supplier is the patentee or licensee of the patent.
@@ -186,7 +186,7 @@ Section 117 of the //Act// outlines the doctrine of contributory infringement.
 	* (c)  in any case the use of the product in accordance with any instructions for the use of the product, or any inducement to use the product, given to the person by the supplier or contained in an advertisement published by or with the authority of the supplier.
 
 The mere completion of supply of the patentable product amounts to infringement. It is immaterial whether the product is put to an infringing use. [^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]
-[^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]: //Collins v Northern Territory// (2007) 161 FCR 549, [61] French J; //Generic Health Pty Ltd v Otsuka Pharmaceutical Co Ltd// (2013) 296 ALR 50, [140]
+[^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]: _Collins v Northern Territory_ (2007) 161 FCR 549, [61] French J; _Generic Health Pty Ltd v Otsuka Pharmaceutical Co Ltd_ (2013) 296 ALR 50, [140]
 
 
 
@@ -199,11 +199,11 @@ Section 119 allows a person to continue to exploit a product or process if immed
 
 There must be a continuous use of the invention. This defence can apply where a prior user learns of invention through publication or use in the prescribed circumstances mentioned in s 24(1)(a). A prior user can assign his or her rights to another.
 
-The examination process is susceptible to error, this is why the //Act// makes it clear that a grant of a patent is no guarantee of validity. This defence is largely relevant where the prior user does not wish to challenge the validity of the patent.
+The examination process is susceptible to error, this is why the _Act_ makes it clear that a grant of a patent is no guarantee of validity. This defence is largely relevant where the prior user does not wish to challenge the validity of the patent.
 
 ### Exemptions for Obtaining Regulatory Approvals
 
-Pursuant to s 119A of the //Act//, a pharmaceutical patent is not infringed if a person exploits an invention solely for the purpose of obtaining TGA approval of goods intended for therapeutic use; or obtaining similar regulatory approval in a foreign country.
+Pursuant to s 119A of the _Act_, a pharmaceutical patent is not infringed if a person exploits an invention solely for the purpose of obtaining TGA approval of goods intended for therapeutic use; or obtaining similar regulatory approval in a foreign country.
 
 This exception is for generic versions of drugs and for regulatory approval to be sought during the patent term. This is in place to ensure that when the patent expires patent protection can be sought immediately. This does not apply to medical devices or therapeutic devices
 
@@ -211,9 +211,9 @@ Section 119B applies to obtaining regulatory approval of non-pharmaceuticals (eg
 
 ### Experimental Use Exemption
 
-Section 119C of the //Act// was introduced with the Raising the Bar amendments. This section outlines experimental use of the patent.
+Section 119C of the _Act_ was introduced with the Raising the Bar amendments. This section outlines experimental use of the patent.
 
-**Video overview by Sophie Williams on[Experimental use](https://voice.adobe.com/a/erG6B).**
+**Video overview by Sophie Williams on[Experimental use](https:_voice.adobe.com/a/erG6B).**
 
 
 #### Section 119 C
@@ -256,11 +256,11 @@ A counterclaim for revocation of the patent can be brought by the alleged infrin
 
 
 
-**Video overview by Jack Longley on[Section 19 Certificates of Validity](https://www.youtube.com/watch?v=7Z9mED6DEYE).**
+**Video overview by Jack Longley on[Section 19 Certificates of Validity](https:_www.youtube.com/watch?v=7Z9mED6DEYE).**
 
 
 ## Unjustified Threats
-The provisions dealing with unjustified threats are contained in Part 3, Chapter 11 of the //Act//.  Section 128 allows a person to apply to the Court for:
+The provisions dealing with unjustified threats are contained in Part 3, Chapter 11 of the _Act_.  Section 128 allows a person to apply to the Court for:
 
 * (a) a declaration that the threats are unjustifiable;
 * (b) an injunction against the continuance of the threats;
@@ -287,9 +287,9 @@ To avoid being named as a respondent to an unjustified threats proceedings:
 ## International agreements on patent law
 
 
-In 1970 the //Patent Co-operation Treaty// (//PCT//) was drafted. The //PCT// was drafted within the existing framework of the Paris Convention. There are over 147 countries who are members of the Paris Convention. The //PCT// is a comprehensive guide to patent law standards. The PCT not only makes it easier for patentees to file applications in multiple countries, it also seeks to harmonise the national patent laws of the countries. The //PCT// has been considered successful is assisting in the development of patent law globally.  
+In 1970 the _Patent Co-operation Treaty_ (_PCT_) was drafted. The _PCT_ was drafted within the existing framework of the Paris Convention. There are over 147 countries who are members of the Paris Convention. The _PCT_ is a comprehensive guide to patent law standards. The PCT not only makes it easier for patentees to file applications in multiple countries, it also seeks to harmonise the national patent laws of the countries. The _PCT_ has been considered successful is assisting in the development of patent law globally.  
 
-//The Agreement on Trade-Related Aspects of Intellectual Property Rights// (//TRIPS//), which built upon the foundations of the //PCT// was enacted to address the gap in the laws and the demands of modern technology and innovation, //TRIPS// is administered by the World Trade Organisation (WTO) and seeks to facilitate international trade and promote stability in the global economy by setting minimum standards for IP. //TRIPS// sought to further minimise the deviations between national patent laws. For instance in Australia, as a result of TRIPS, the term of patent protection was increased from 16 years to the international standard of 20 years.[^AUTOREPLACEDArticle12TRIPSENDREPLACE]
+_The Agreement on Trade-Related Aspects of Intellectual Property Rights_ (_TRIPS_), which built upon the foundations of the _PCT_ was enacted to address the gap in the laws and the demands of modern technology and innovation, _TRIPS_ is administered by the World Trade Organisation (WTO) and seeks to facilitate international trade and promote stability in the global economy by setting minimum standards for IP. _TRIPS_ sought to further minimise the deviations between national patent laws. For instance in Australia, as a result of TRIPS, the term of patent protection was increased from 16 years to the international standard of 20 years.[^AUTOREPLACEDArticle12TRIPSENDREPLACE]
 [^AUTOREPLACEDArticle12TRIPSENDREPLACE]: Article 12 TRIPS
 
 
@@ -297,17 +297,17 @@ TRIPS also set out the basic criteria for patentability. Pursuant to Article 27 
 
 “…Products or processes, in all fields of technology, provided that they are new, involve an inventive step and are capable of industrial application.”
 
-In 2005 Australia entered intro a bilateral trade agreement with the US, //The Australia-US Free Trade Agreement// (//AUSFTA//), which also required a number of significant changes to Australia’s IP laws including patent legislation.
+In 2005 Australia entered intro a bilateral trade agreement with the US, _The Australia-US Free Trade Agreement_ (_AUSFTA_), which also required a number of significant changes to Australia’s IP laws including patent legislation.
 
-//TRIPS// is administered by the WTO and seeks to facilitate international trade and promote stability in the global economy by setting minimum standards for intellectual property.[^AUTOREPLACEDTheUSFreeTradeAgreementImplementationAct2004CthSch8ENDREPLACE]
-[^AUTOREPLACEDTheUSFreeTradeAgreementImplementationAct2004CthSch8ENDREPLACE]: The //US Free Trade Agreement Implementation Act 2004// (Cth) Sch 8
+_TRIPS_ is administered by the WTO and seeks to facilitate international trade and promote stability in the global economy by setting minimum standards for intellectual property.[^AUTOREPLACEDTheUSFreeTradeAgreementImplementationAct2004CthSch8ENDREPLACE]
+[^AUTOREPLACEDTheUSFreeTradeAgreementImplementationAct2004CthSch8ENDREPLACE]: The _US Free Trade Agreement Implementation Act 2004_ (Cth) Sch 8
 
 
-Since 2004 there have been other amendments made to the //Patents Act 1990// (Cth), predominantly motivated by the need to ensure Australia’s laws were comparable and compatible with Australia’s international trading partners.[^AUTOREPLACEDSeetheIntellectualPropertyLawsAmendmentAct2006CthandIntellectualPropertyLawsAmendmentRaisingtheBarAct2012CthENDREPLACE]
-[^AUTOREPLACEDSeetheIntellectualPropertyLawsAmendmentAct2006CthandIntellectualPropertyLawsAmendmentRaisingtheBarAct2012CthENDREPLACE]: See the //Intellectual Property Laws Amendment Act 2006// (Cth) and //Intellectual Property Laws Amendment (Raising the Bar) Act 2012// (Cth
+Since 2004 there have been other amendments made to the _Patents Act 1990_ (Cth), predominantly motivated by the need to ensure Australia’s laws were comparable and compatible with Australia’s international trading partners.[^AUTOREPLACEDSeetheIntellectualPropertyLawsAmendmentAct2006CthandIntellectualPropertyLawsAmendmentRaisingtheBarAct2012CthENDREPLACE]
+[^AUTOREPLACEDSeetheIntellectualPropertyLawsAmendmentAct2006CthandIntellectualPropertyLawsAmendmentRaisingtheBarAct2012CthENDREPLACE]: See the _Intellectual Property Laws Amendment Act 2006_ (Cth) and _Intellectual Property Laws Amendment (Raising the Bar) Act 2012_ (Cth
 )
 
 
 #### Access to Medicine
 
-**Video overview by Tess Van Geelan on[The Doha Declaration and global access to medicines](https://www.youtube.com/watch?v=1niAYHEPmmY).**
+**Video overview by Tess Van Geelan on[The Doha Declaration and global access to medicines](https:_www.youtube.com/watch?v=1niAYHEPmmY).**

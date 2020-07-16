@@ -4,7 +4,7 @@ title: Content Regulation
 parent: Governing the Internet
 nav_order: 90
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/content.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/cyberlaw/content.markdown){: .btn .btn-outline }
 
 
 # Content Regulation and Online Classification
@@ -13,17 +13,17 @@ nav_order: 90
 1. Table of Contents
 {:toc}
 
-**Video Overview of Online Content Regulation in Australia by [Nicolas Suzor](https://www.youtube.com/watch?v=MXx8E2jnyGg)**
+**Video Overview of Online Content Regulation in Australia by [Nicolas Suzor](https:_www.youtube.com/watch?v=MXx8E2jnyGg)**
 
 Australia has a co-regulatory content regulation scheme. Telecommunications providers work together to develop industry codes of practice. These industry codes are overseen by the Australian Communications and Media Authority (ACMA) under the _Broadcasting Services Act 1992_ (Cth) Schedules 5 and 7. Schedule 5 applies to material hosted outside of Australia, and Schedule 7 applies to material hosted inside Australia. Australia also has an Office of the eSafety Commissioner, who has powers to investigate and address complaints about internet content. The Communications Alliance is the industry body that represents ISPs and Content Hosts.
 
-* [Code for Industry Co-Regulation in Areas of Mobile and Internet Content](http://www.acma.gov.au/~/media/Content%20Classification/Regulation/pdf/Internet%20Industry%20Codes%20of%20Practice%202005.PDF) (2005)
+* [Code for Industry Co-Regulation in Areas of Mobile and Internet Content](http:_www.acma.gov.au/~/media/Content%20Classification/Regulation/pdf/Internet%20Industry%20Codes%20of%20Practice%202005.PDF) (2005)
 
-* [Content Services Code of Practice](http://www.acma.gov.au/webwr/aba/contentreg/codes/internet/documents/content_services_code_2008.pdf) (2008)
+* [Content Services Code of Practice](http:_www.acma.gov.au/webwr/aba/contentreg/codes/internet/documents/content_services_code_2008.pdf) (2008)
 
 ## Content classification in Australia
 
-**Video Overview of Australia's classification Ratings by[Emily Rees](https://www.youtube.com/watch?v=GAZ3Bev5lb0)**
+**Video Overview of Australia's classification Ratings by[Emily Rees](https:_www.youtube.com/watch?v=GAZ3Bev5lb0)**
 
 The National Classification Code provides a statement of purpose that classification decisions are to give effect, as far as possible, to the following principles:
 (a)	adults should be able to read, hear and see what they want;
@@ -34,7 +34,7 @@ The National Classification Code provides a statement of purpose that classifica
 (ii)	the portrayal of persons in a demeaning manner.
 
 
-Publications, Films, and Computer games are rated by the Classification Board, according to the [Classification Guidelines](http://www.comlaw.gov.au/Series/F2005L01286). Each State and Territory determines the consequences of classification. The ratings systems differ by media:
+Publications, Films, and Computer games are rated by the Classification Board, according to the [Classification Guidelines](http:_www.comlaw.gov.au/Series/F2005L01286). Each State and Territory determines the consequences of classification. The ratings systems differ by media:
 
 * Films: G, PG, M, MA15+, R18+, X18+
 * Publications: Unrestricted, Unrestricted (M), Category 1 Restricted, Category 2 Restricted
@@ -85,7 +85,7 @@ The online classification scheme is a complaints-based scheme. When ACMA receive
 
 ## Content Hosted in Australia (Sch 7)
 
-**Video Overview of the complaints system under Sch 7 by [Hannah Burnett](https://www.youtube.com/watch?v=fgll39yYmD0)**
+**Video Overview of the complaints system under Sch 7 by [Hannah Burnett](https:_www.youtube.com/watch?v=fgll39yYmD0)**
 
 Under Schedule 7, members of the public can make complaints about prohibited or potentially prohibited content [^AUTOREPLACEDcl37AUTOREPLACED], which the Commissioner must investigate. Content that is prohibited in Australia is defined as material that is or would be:[^AUTOREPLACEDcl20AUTOREPLACED]
 
@@ -145,7 +145,7 @@ Only available to the service provider concerned.
 
 ### The ACMA may replace an industry code of practice with new standards
 
-**See [explanation by Nicholas Cooper](https://www.youtube.com/watch?v=F-dqj6B8qUU)**
+**See [explanation by Nicholas Cooper](https:_www.youtube.com/watch?v=F-dqj6B8qUU)**
 
 Where relevant industry codes have failed or are not adopted, the ACMA may replace these codes with their own standards. The ACMA's ability to replace an industry code with a standard varies dependent on the legislation that governs that industry.
 
@@ -153,19 +153,19 @@ Generally, the ACMA must request that an association representing an industry de
 
 ## Internationally Hosted Content  (Sch 5)
 
-**Video Overview of the Operation of Sch 5 for Internationally Hosted Content by [Anon](https://www.youtube.com/watch?v=XmFfWrAWzP8)**
+**Video Overview of the Operation of Sch 5 for Internationally Hosted Content by [Anon](https:_www.youtube.com/watch?v=XmFfWrAWzP8)**
 
 Legislation  provides for  blocking of  content if there is  no industry code in  force. However, there is a current industry code, and it does not require blocking. Under the code, URLs of prohibited content are given to  voluntary filter vendors, but no further action is taken in regards to overseas hosted content.
 
 ## Section 313 Blocking
 
-**Gab Red Explains [How s 313 Is Used by Government Agencies to Block Websites](https://www.youtube.com/watch?v=tdfHpMizgkM)**
+**Gab Red Explains [How s 313 Is Used by Government Agencies to Block Websites](https:_www.youtube.com/watch?v=tdfHpMizgkM)**
 
-**Matt Cartwright [Explains](https://www.youtube.com/watch?v=CDxI6-ePEgk) the Recommendations of the Recent [Inquiry Into the Use of s 313](http://www.aph.gov.au/Parliamentary_Business/Committees/House/Infrastructure_and_Communications/Inquiry_into_the_use_of_section_313_of_the_Telecommunications_Act_to_disrupt_the_operation_of_illegal_online_services)**
+**Matt Cartwright [Explains](https:_www.youtube.com/watch?v=CDxI6-ePEgk) the Recommendations of the Recent [Inquiry Into the Use of s 313](http:_www.aph.gov.au/Parliamentary_Business/Committees/House/Infrastructure_and_Communications/Inquiry_into_the_use_of_section_313_of_the_Telecommunications_Act_to_disrupt_the_operation_of_illegal_online_services)**
 
 ## Image-based abuse
 
-**Video overview of [image-based abuse laws](https://www.youtube.com/watch?v=IW17HxwdP-Q) by Danielle Harris**
+**Video overview of [image-based abuse laws](https:_www.youtube.com/watch?v=IW17HxwdP-Q) by Danielle Harris**
 
 The non-consensual sharing of intimate images is often colloquially referred to as 'revenge porn'. The term 'image-based abuse' is generally considered to be a more accurate term that avoids the victim-blaming connotations of 'revenge porn'.
 
@@ -203,9 +203,9 @@ The State also introduced three new misdemeanours into their Criminal Code[6] to
 
 ## The Office of the e-Safety Commissioner
 
-**Lauren Trickey explains [how to make a complaint to the eSafety Commissioner](https://youtu.be/2aTxXyZsYgw)**
+**Lauren Trickey explains [how to make a complaint to the eSafety Commissioner](https:_youtu.be/2aTxXyZsYgw)**
 
-The [eSafety Commissioner](https://www.esafety.gov.au/) is a statutory office established by the Enhancing Online Safety Act 2015 (Cth) to promote and enhance online safety. The Commissioner can receive reports for cyber-bulling, image-based abuse or offensive and illegal content.
+The [eSafety Commissioner](https:_www.esafety.gov.au/) is a statutory office established by the Enhancing Online Safety Act 2015 (Cth) to promote and enhance online safety. The Commissioner can receive reports for cyber-bulling, image-based abuse or offensive and illegal content.
 
 Cyberbullying complaints can be made by an Australian child or parent, guardian or person authorised by the child. Cyberbullying refers to online material intended to seriously threaten, intimidate, harass or humiliate an Australian child.
 
@@ -217,9 +217,9 @@ For each type of material an online form can be completed on the eSafety website
 
 ## Abhorrent Violent Material
 
-**See overview by Georgie Vine about the [Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](https://www.youtube.com/watch?v=a8qDarI5mCM)**
+**See overview by Georgie Vine about the [Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](https:_www.youtube.com/watch?v=a8qDarI5mCM)**
 
-The _[Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](https://www.legislation.gov.au/Details/C2019A00038)_ creates new offences under the Criminal Code, effective from 6 April 2019. These new provisions require social media websites and other platforms to remove abhorrent violent material as soon as reasonably possible, and to refer it to the Australian Federal Police. These offences target content that is reasonably capable of being accessed with Australia, regardless of where the platform operator is located. The offences include substantial penalties if individuals and companies do not remove or report such classified material: fines up to 10% of annual global turnover for companies, and up to 3 years imprisonment for individuals.
+The _[Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](https:_www.legislation.gov.au/Details/C2019A00038)_ creates new offences under the Criminal Code, effective from 6 April 2019. These new provisions require social media websites and other platforms to remove abhorrent violent material as soon as reasonably possible, and to refer it to the Australian Federal Police. These offences target content that is reasonably capable of being accessed with Australia, regardless of where the platform operator is located. The offences include substantial penalties if individuals and companies do not remove or report such classified material: fines up to 10% of annual global turnover for companies, and up to 3 years imprisonment for individuals.
 
 There are a few defences to the new offences, including material distributed by journalists; material used for scientific, medical, academic or historical research; and the exhibition of artistic works.
 
@@ -227,7 +227,7 @@ There are a few defences to the new offences, including material distributed by 
 
 ### Deepfakes
 
-**See [an explanation of deepfakes](https://youtu.be/cLHdOJr7v5w) by Eric Briese**
+**See [an explanation of deepfakes](https:_youtu.be/cLHdOJr7v5w) by Eric Briese**
 
 A deepfake is a technique of video manipulation where artificial intelligence and deep learning is leveraged to modify the appearance of a person in a video to appear as someone else. While fake and edited videos are nothing new, this recent phenomenon has caused concern due to the ease and accessibility of their creation.
 

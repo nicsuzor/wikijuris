@@ -4,7 +4,7 @@ title: Plant Breeders' Rights
 nav_order: 71
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/plant_breeders_rights.markdown){: .btn .btn-outline }
+[Edit this page](https:_github.com/nicsuzor/wikijuris/blob/master/ausip/plant_breeders_rights.markdown){: .btn .btn-outline }
 
 
 # Plant Breeders Rights
@@ -18,17 +18,17 @@ This chapter briefly explores plant breeders’ right (PBR) including the origin
 ## Overview of Plant Breeders Rights
 
 Plant breeder’s rights (PBR), sometimes known as plant variety rights (PVR), are a form of intellectual property protection designed to protect new varieties of plants. Referred to as sui generis national PBR laws are (with a few exceptions) [^AUTOREPLACEDForexamplein2001IndiaintroducedtheProtectionofPlantVarietyandFarmersRightsActENDREPLACE]
-[^AUTOREPLACEDForexamplein2001IndiaintroducedtheProtectionofPlantVarietyandFarmersRightsActENDREPLACE]: For example, in 2001 India introduced the //Protection of Plant Variety and Farmers Rights Act//.
-, based on the //International Convention for the Protection of New Varieties of Plants// (//UPOV Convention//).
+[^AUTOREPLACEDForexamplein2001IndiaintroducedtheProtectionofPlantVarietyandFarmersRightsActENDREPLACE]: For example, in 2001 India introduced the _Protection of Plant Variety and Farmers Rights Act_.
+, based on the _International Convention for the Protection of New Varieties of Plants_ (_UPOV Convention_).
 
 Adopted in 1961, the UPOV Convention has been revised three times: in 1972, 1978 and 1991 [^AUTOREPLACEDhttpswwwupovintupovlexenupov_conventionhtmlENDREPLACE]
-[^AUTOREPLACEDhttpswwwupovintupovlexenupov_conventionhtmlENDREPLACE]: https://www.upov.int/upovlex/en/upov_convention.html
-. As of January 2019, there are 75 UPOV Members.For details on UPOV members see the [[UPOV Website]](https://www.upov.int/members/en/).
+[^AUTOREPLACEDhttpswwwupovintupovlexenupov_conventionhtmlENDREPLACE]: https:_www.upov.int/upovlex/en/upov_convention.html
+. As of January 2019, there are 75 UPOV Members.For details on UPOV members see the [[UPOV Website]](https:_www.upov.int/members/en/).
 
 As the only international treaty concerned with intellectual property protection of new plant varieties, the UPOV Convention plays a key social, political and economic role in the development of new plant varieties. New plant varieties are important to overcome a raft of issues including food security, climate change and environmental degradation.
 
 The purpose of UPOV is ‘to provide and promote an effective system of plant variety protection, with the aim of encouraging the development of new varieties of plants, for the benefit of society’. [^AUTOREPLACEDhttpswwwupovintaboutenENDREPLACE]
-[^AUTOREPLACEDhttpswwwupovintaboutenENDREPLACE]: https://www.upov.int/about/en/
+[^AUTOREPLACEDhttpswwwupovintaboutenENDREPLACE]: https:_www.upov.int/about/en/
 
 
 Article 27(3)(b) of the TRIPs Agreement
@@ -52,7 +52,7 @@ PBR are territorial in nature, and varieties need to be registered in the countr
 
 ## A Very Brief History of Plant Breeders’ Rights
 
-PBR were originally developed as an alternative to patents and were first recognised internationally by the 1961 //International Convention for the Protection of New Varieties of Plants// [^AUTOREPLACEDUPOV1961ENDREPLACE]
+PBR were originally developed as an alternative to patents and were first recognised internationally by the 1961 _International Convention for the Protection of New Varieties of Plants_ [^AUTOREPLACEDUPOV1961ENDREPLACE]
 [^AUTOREPLACEDUPOV1961ENDREPLACE]: UPOV 1961
 . UPOV 1961 was first revised in 1972 and again in 1978 and 1991.
 
@@ -74,7 +74,7 @@ UPOV 1991 strengthened PBR protection, removing the breeder’s exemption from e
 The main argument for PBR is that it encourages the development of new plant varieties. More specifically, by providing sui generis protection – that includes specific exceptions such as the breeder’s exemption – it is argued that PBR increases the yield of important crops, increases income for farmers and supports rural development.
 
 UPOV has a range of videos espousing the benefits of PBR [^AUTOREPLACEDhttpswwwupovintaboutenbenefits_upov_systemhtmlENDREPLACE]
-[^AUTOREPLACEDhttpswwwupovintaboutenbenefits_upov_systemhtmlENDREPLACE]: https://www.upov.int/about/en/benefits_upov_system.html
+[^AUTOREPLACEDhttpswwwupovintaboutenbenefits_upov_systemhtmlENDREPLACE]: https:_www.upov.int/about/en/benefits_upov_system.html
 .
 
 ## Criteria for Protection
@@ -82,35 +82,35 @@ UPOV has a range of videos espousing the benefits of PBR [^AUTOREPLACEDhttpswwwu
 To be protected, a plant variety must have a breeder and be new, distinct, uniform and stable as defined by the UPOV Convention:
 
 |Breeder|A breeder is a person who has bred, or discovered and developed, a plant variety, or their employer or contractor who has commissioned the work, and their respective successors in title [^AUTOREPLACEDArt1ivUPOV1991ENDREPLACE]
-[^AUTOREPLACEDArt1ivUPOV1991ENDREPLACE]: Art. 1(iv), //UPOV// 1991
+[^AUTOREPLACEDArt1ivUPOV1991ENDREPLACE]: Art. 1(iv), _UPOV_ 1991
 .|
 |New|A variety is generally considered new if it has not been sold (with the breeder’s consent) for a period specified in national law [^AUTOREPLACEDArt61UPOV1991ENDREPLACE]
-[^AUTOREPLACEDArt61UPOV1991ENDREPLACE]: Art. 6(1), //UPOV// 1991
+[^AUTOREPLACEDArt61UPOV1991ENDREPLACE]: Art. 6(1), _UPOV_ 1991
 .|
 |Distinct|A variety is distinct if it is clearly distinguishable by one or more characteristics which can be clearly described from any other variety whose existence is a matter of common knowledge at the time of application [^AUTOREPLACEDArt7UPOV1991ENDREPLACE]
-[^AUTOREPLACEDArt7UPOV1991ENDREPLACE]: Art. 7, //UPOV// 1991
+[^AUTOREPLACEDArt7UPOV1991ENDREPLACE]: Art. 7, _UPOV_ 1991
 .|
 |Uniform|The requirement that the variety be uniform means that a variety must be sufficiently consistent in those characteristics that make it distinct [^AUTOREPLACEDArt8UPOV1991ENDREPLACE]
-[^AUTOREPLACEDArt8UPOV1991ENDREPLACE]: Art. 8, //UPOV// 1991
+[^AUTOREPLACEDArt8UPOV1991ENDREPLACE]: Art. 8, _UPOV_ 1991
 .|
 |Stable|A variety must remain true to description after repeated propagation or reproduction [^AUTOREPLACEDArt9UPOV1991ENDREPLACE]
-[^AUTOREPLACEDArt9UPOV1991ENDREPLACE]: Art. 9, //UPOV// 1991
+[^AUTOREPLACEDArt9UPOV1991ENDREPLACE]: Art. 9, _UPOV_ 1991
 .|
 
 
-Plant varieties must also have a variety denomination in accordance with Article 20, //UPOV// 1991.
+Plant varieties must also have a variety denomination in accordance with Article 20, _UPOV_ 1991.
 An important feature of the PBR system is the way in which the interests of breeders, growers, and researchers have been accommodated through exceptions or limitations to the scope of the breeder’s right.
 
 Some key exemptions in PBR include:
 
   * **private or non-commercial purpose:** for example: subsistence farmers who propagate a protected variety to produce food for consumption (by the farmer and her family) is excluded from the scope of the breeder’s right [^AUTOREPLACEDArt151iUPOV1991ENDREPLACE]
-[^AUTOREPLACEDArt151iUPOV1991ENDREPLACE]: Art. 15(1)(i), //UPOV// 1991
+[^AUTOREPLACEDArt151iUPOV1991ENDREPLACE]: Art. 15(1)(i), _UPOV_ 1991
 .
   * **plant breeding:** this considers the nature of plant breeding and the importance of the continued development of new plant varieties and permits the use of protected plant varieties as an initial source of genetic variation [^AUTOREPLACEDArt151iiiUPOV1991ENDREPLACE]
-[^AUTOREPLACEDArt151iiiUPOV1991ENDREPLACE]: Art. 15(1)(iii), //UPOV// 1991
+[^AUTOREPLACEDArt151iiiUPOV1991ENDREPLACE]: Art. 15(1)(iii), _UPOV_ 1991
 .
   * **farm saved seed:** there is an ‘Optional Exception’ that allows national governments to permit, ‘within ‘reasonable limits and subject to the safeguarding of the legitimate interests of the breeder’, the saving of seed and other propagating material (to be used as propagating material, not sold, on their own holdings).[^AUTOREPLACEDArt152UPOV1991ENDREPLACE]
-[^AUTOREPLACEDArt152UPOV1991ENDREPLACE]: Art 15(2), //UPOV// 1991
+[^AUTOREPLACEDArt152UPOV1991ENDREPLACE]: Art 15(2), _UPOV_ 1991
 
 
 ## Concerns and Controversies
@@ -161,17 +161,17 @@ Several countries (e.g. India and Brazil) have opposed PBR because it restricts 
 
 ## The Plant Breeder’s Rights Act 1994 (Cth)
 
-Australia is a Member of UPOV 1991, and this is the basis of Australia’s //Plant Breeder’s Rights Act 1994// (Cth) [^AUTOREPLACEDPBRActENDREPLACE]
-[^AUTOREPLACEDPBRActENDREPLACE]: //PBR Act//
+Australia is a Member of UPOV 1991, and this is the basis of Australia’s _Plant Breeder’s Rights Act 1994_ (Cth) [^AUTOREPLACEDPBRActENDREPLACE]
+[^AUTOREPLACEDPBRActENDREPLACE]: _PBR Act_
  [^AUTOREPLACEDInitiallytheAustralianGovernmentintroducedthePlantVarietyRightsAct1987CththiswasrepealedandreplacedbythePBRActENDREPLACE]
-[^AUTOREPLACEDInitiallytheAustralianGovernmentintroducedthePlantVarietyRightsAct1987CththiswasrepealedandreplacedbythePBRActENDREPLACE]: Initially the Australian Government introduced the //Plant Variety Rights Act 1987// (Cth): this was repealed and replaced by the //PBR Act//.
+[^AUTOREPLACEDInitiallytheAustralianGovernmentintroducedthePlantVarietyRightsAct1987CththiswasrepealedandreplacedbythePBRActENDREPLACE]: Initially the Australian Government introduced the _Plant Variety Rights Act 1987_ (Cth): this was repealed and replaced by the _PBR Act_.
 . The constitutional validity of plant variety protection was challenged in Grain Pool of Western Australia v Commonwealth [^AUTOREPLACEDGrainPoolofWAvTheCommonwealth2000HCA14ENDREPLACE]
 [^AUTOREPLACEDGrainPoolofWAvTheCommonwealth2000HCA14ENDREPLACE]: Grain Pool of WA v The Commonwealth [2000] HCA 14
-, with the majority of the High Court concluding that the //PBR Act// (and earlier PVR Act 1987 (Cth)) were valid under the intellectual property power of the Constitution [^AUTOREPLACEDs51xviiiENDREPLACE]
+, with the majority of the High Court concluding that the _PBR Act_ (and earlier PVR Act 1987 (Cth)) were valid under the intellectual property power of the Constitution [^AUTOREPLACEDs51xviiiENDREPLACE]
 [^AUTOREPLACEDs51xviiiENDREPLACE]: s 51(xviii
 .
 
-The //PBR Act// establishes Australia’s system of registration of new plant varieties. There are five key features of the PBR Act which will be discussed below.
+The _PBR Act_ establishes Australia’s system of registration of new plant varieties. There are five key features of the PBR Act which will be discussed below.
 
 ### Application Process
 
@@ -182,7 +182,7 @@ Under Australian PBR legislation and regulations, the application process involv
   * Growing Trials; and
   * Final Application.
 
-See IP Australia for more details - [https://www.ipaustralia.gov.au/plant-breeders-rights/applying-pbr]  
+See IP Australia for more details - [https:_www.ipaustralia.gov.au/plant-breeders-rights/applying-pbr]  
 
 ### Requirements of Registration
 
@@ -191,19 +191,19 @@ Under section 43 of the PBR Act a plant variety in which an application for PBR 
 
 Table:
 
-|Has a breeder|See s 3(1) of the //PBR Act// for definition of breeder.|
+|Has a breeder|See s 3(1) of the _PBR Act_ for definition of breeder.|
 |Is distinct| Varieties are distinct if they are clearly distinguishable from another variety that is a matter of ‘common knowledge’ at the date of filing the application [^AUTOREPLACEDs432PBRActENDREPLACE]
-[^AUTOREPLACEDs432PBRActENDREPLACE]: s 43(2), //PBR Act//
+[^AUTOREPLACEDs432PBRActENDREPLACE]: s 43(2), _PBR Act_
 |
 |Is uniform| A plant variety is uniform if, subject to the variation that may be expected from the particular features of its propagation, it is uniform in its relevant characteristics on propagation [^AUTOREPLACEDs433PBRActENDREPLACE]
-[^AUTOREPLACEDs433PBRActENDREPLACE]: s 43(3), //PBR Act//
+[^AUTOREPLACEDs433PBRActENDREPLACE]: s 43(3), _PBR Act_
 .|
 |Is stable| A plant variety is stable if its relevant characteristics remain unchanged after repeated propagation [^AUTOREPLACEDs434PBRActENDREPLACE]
-[^AUTOREPLACEDs434PBRActENDREPLACE]: s 43(4), //PBR Act//
+[^AUTOREPLACEDs434PBRActENDREPLACE]: s 43(4), _PBR Act_
 .|
-|Has not been exploited or has been only recently exploited| See s 43(1)(5) and (6) of the //PBR Act// for the definitions, but generally this means that the variety has not been sold in Australia more than one year before the date of lodging the application; or outside of Australia: more than six years before that date (for trees and vines) or more than four years before that date (in all other cases).|
+|Has not been exploited or has been only recently exploited| See s 43(1)(5) and (6) of the _PBR Act_ for the definitions, but generally this means that the variety has not been sold in Australia more than one year before the date of lodging the application; or outside of Australia: more than six years before that date (for trees and vines) or more than four years before that date (in all other cases).|
 
-In addition to the above criteria, a new plant variety has to be named in accordance with s 27 of the //PBR Act//.
+In addition to the above criteria, a new plant variety has to be named in accordance with s 27 of the _PBR Act_.
 
 ### Rights of the Breeder
 
@@ -214,22 +214,22 @@ A valid PBR gives the owner (initially, the breeder) a number of rights. For exa
 •	import or export the variety.
 
 While these rights are primarily in relation to the commercialisation of propagating material [^AUTOREPLACEDs11PBRActENDREPLACE]
-[^AUTOREPLACEDs11PBRActENDREPLACE]: s 11, //PBR Act//
+[^AUTOREPLACEDs11PBRActENDREPLACE]: s 11, _PBR Act_
 , they may also apply to harvested material [^AUTOREPLACEDs14PBRActENDREPLACE]
-[^AUTOREPLACEDs14PBRActENDREPLACE]: s 14, //PBR Act//
+[^AUTOREPLACEDs14PBRActENDREPLACE]: s 14, _PBR Act_
 , products obtained from harvested material [^AUTOREPLACEDs15PBRActENDREPLACE]
-[^AUTOREPLACEDs15PBRActENDREPLACE]: s 15, //PBR Act//
+[^AUTOREPLACEDs15PBRActENDREPLACE]: s 15, _PBR Act_
 , and to derivative varieties in certain circumstances [^AUTOREPLACEDs12PBRActENDREPLACE]
-[^AUTOREPLACEDs12PBRActENDREPLACE]: s 12, //PBR Act//
+[^AUTOREPLACEDs12PBRActENDREPLACE]: s 12, _PBR Act_
 .
 
 ### Exceptions
 
-An important feature of the PBR system is the way in which the interests of breeders, growers, and researchers have been accommodated through exceptions or limitations to the scope of the breeder’s right. Some exemptions under the //PBR Act// include:
+An important feature of the PBR system is the way in which the interests of breeders, growers, and researchers have been accommodated through exceptions or limitations to the scope of the breeder’s right. Some exemptions under the _PBR Act_ include:
 
 #### Acts done for private, experimental or breeding purposes
 
-Under s 16 of the //PBR Act//, the PBR owner’s rights are not infringed by acts that are done:
+Under s 16 of the _PBR Act_, the PBR owner’s rights are not infringed by acts that are done:
 
              (a)  privately and for non-commercial purposes; or
              (b)  for experimental purposes; or
@@ -237,7 +237,7 @@ Under s 16 of the //PBR Act//, the PBR owner’s rights are not infringed by act
 
 #### Farm saved seed
 
-Section 17 of the //PBR Act// sets out that in certain (limited) circumstances the rights of a PBR owner are not infringed by:
+Section 17 of the _PBR Act_ sets out that in certain (limited) circumstances the rights of a PBR owner are not infringed by:
 
   * the conditioning of so much of that further propagating material as is required for the person's use for reproductive purposes [^AUTOREPLACEDs171dENDREPLACE]
 [^AUTOREPLACEDs171dENDREPLACE]: s 17(1)(d
@@ -247,7 +247,7 @@ Section 17 of the //PBR Act// sets out that in certain (limited) circumstances t
 ).
 
 
-Therefore, in certain circumstances, growers can save propagating material to sow in following years. There has been some doubt about the practical effect of the farm-saved seed exception after the Federal Court’s decision of //Cultivaust v Grain Pool Pty Ltd// [^AUTOREPLACED2005FCAFC223ENDREPLACE]
+Therefore, in certain circumstances, growers can save propagating material to sow in following years. There has been some doubt about the practical effect of the farm-saved seed exception after the Federal Court’s decision of _Cultivaust v Grain Pool Pty Ltd_ [^AUTOREPLACED2005FCAFC223ENDREPLACE]
 [^AUTOREPLACED2005FCAFC223ENDREPLACE]: [2005] FCAFC 223
 .
 
@@ -257,10 +257,10 @@ To overcome any uncertainty about whether growers can commercially sell these se
 
 ### Essentially Derived Varieties (EDVs)
 
-Another important feature of PBR are essentially derived varieties (EDVs). In short, EDVs extend the protection of PBR to those varieties that are essentially derived from a protected variety: s 12, //PBR Act//. See also s 23, //PBR Act//.
+Another important feature of PBR are essentially derived varieties (EDVs). In short, EDVs extend the protection of PBR to those varieties that are essentially derived from a protected variety: s 12, _PBR Act_. See also s 23, _PBR Act_.
 
 Before recent changes, a declaration of EDV could only be made if there was an application for or grant of a PBR in respect of the alleged EDV. In other words, the only way a PBR rights holder can seek redress for EDV was if the later variety is registered for PBR. Now, however, the Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018 (Cth) has amended the PBR Act so that an EDV declaration can be made in respect of a non-PBR plant varieties [^AUTOREPLACEDs40PBRActENDREPLACE]
-[^AUTOREPLACEDs40PBRActENDREPLACE]: s 40, //PBR Act//
+[^AUTOREPLACEDs40PBRActENDREPLACE]: s 40, _PBR Act_
 .
 
 ## Patents, Names and Licences
@@ -275,7 +275,7 @@ The patentability of plants is not uniform in all countries. In some countries a
 
 There may be different patent schemes available for patents. These include standard patents and specific plant patent schemes (e.g. the __United States Plant Patents Act__ of 1930).
 
-//Some differences between patents and PBR//
+_Some differences between patents and PBR_
 
 Broadly stated, there are some important differences between patents and PBR schemes which will be discussed below.
 
@@ -306,16 +306,16 @@ A good example of the interaction between PBR and trade marks is Pink Lady apple
 
 ### Grower Licences
 
-While the //PBR Act// gives the breeder the exclusive right to commercialise the variety, it does not stipulate how this is to be achieved. It is therefore left to the owner to determine how the protected variety is used. Typically, this is done by way of contract (often referred to as a “Grower Agreement” or “Grower Licence”) which sets out the terms and conditions by which the variety can be used.
+While the _PBR Act_ gives the breeder the exclusive right to commercialise the variety, it does not stipulate how this is to be achieved. It is therefore left to the owner to determine how the protected variety is used. Typically, this is done by way of contract (often referred to as a “Grower Agreement” or “Grower Licence”) which sets out the terms and conditions by which the variety can be used.
 
 Specific clauses may relate to terminating the contract, costs and terms of use, including restricting farm-saved seed (often referred to as non-propagation clauses). Importantly, a contract that prohibits the saving of seed (or other propagating material), overrides the exception in the PBR Act.
 
 ## Australian PBR Cases
 
-  * Unordered List Item//Sun World International Inc v Registrar, Plant Breeder’s Rights// [1997] FCA 924;
-  * //Grain Pool of WA v The Commonwealth// [2000] HCA 14;
-  * //Cultivaust Pty Ltd v Grain Pool Pty Ltd// [2005] FCAFC 223;
-  * //Fleming’s Nurseries Pty Ltd v Sicliano// [2006] FCA 757;
-  * //Fleming’s Nurseries Pty Ltd v Hannaford// [2008] FCA 591;
-  * //Elders Rural Services Australia Limited v Registrar of Plant Breeder’s Rights// [2012] FCAFC 14;
-  * //Buchanan Turf Supplies Pty Ltd v Registrar of Trade Marks// [2015] FCA 756.
+  * Unordered List Item_Sun World International Inc v Registrar, Plant Breeder’s Rights_ [1997] FCA 924;
+  * _Grain Pool of WA v The Commonwealth_ [2000] HCA 14;
+  * _Cultivaust Pty Ltd v Grain Pool Pty Ltd_ [2005] FCAFC 223;
+  * _Fleming’s Nurseries Pty Ltd v Sicliano_ [2006] FCA 757;
+  * _Fleming’s Nurseries Pty Ltd v Hannaford_ [2008] FCA 591;
+  * _Elders Rural Services Australia Limited v Registrar of Plant Breeder’s Rights_ [2012] FCAFC 14;
+  * _Buchanan Turf Supplies Pty Ltd v Registrar of Trade Marks_ [2015] FCA 756.
