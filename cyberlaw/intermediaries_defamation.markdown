@@ -60,7 +60,7 @@ In defamation law, every republication or repetition is treated as a fresh publi
 
 
 
-For publication on the internet, uniform defamation legislation now provides that the applicable law is that from the jurisdiction in which the harm occasioned by the publication as a whole has the closest connection. Usually, the jurisdiction with the closest connection to the harm will be that in which the plaintiff lives or runs their business, because that will be the jurisdiction in which their reputation is the strongest and therefore most severely damaged by the defamatory imputations. See further, [cyberlaw:jurisdiction](jurisdiction).
+For publication on the internet, uniform defamation legislation now provides that the applicable law is that from the jurisdiction in which the harm occasioned by the publication as a whole has the closest connection. Usually, the jurisdiction with the closest connection to the harm will be that in which the plaintiff lives or runs their business, because that will be the jurisdiction in which their reputation is the strongest and therefore most severely damaged by the defamatory imputations. See further the Chapter on [jurisdiction].
 
 ## Defences to Defamation
 

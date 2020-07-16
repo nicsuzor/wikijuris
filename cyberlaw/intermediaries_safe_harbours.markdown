@@ -246,6 +246,10 @@ While the wording of the section may appear to provide an important defence to I
 
 **Video Overview by Nic Suzor: [The Future of Notice and Takedown](https://www.youtube.com/watch?v=tNepvFX2J6w)**
 
+<div class="box error">
 
-Help needed!
-This section is a [[:wiki:stub]]. Please help out by filling in some details.
+##### Help needed!
+
+This section is incomplete. Please help out by filling in some details.
+
+</div>

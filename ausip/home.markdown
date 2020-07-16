@@ -18,7 +18,7 @@ This is a collaborative, free open textbook about Australian Intellectual Proper
 
 You can find our complete course of accompanying IP videos on YouTube: [Australian IP law](https://www.youtube.com/playlist?list=PLL6gyWv948RU928wTpzqyDBwmIcfy2-Zz).
 
-We also have an open textbook about internet law and regulation: [[:cyberlaw:home]].
+We also have an open textbook about internet law and regulation: [Governing the Internet](/cyberlaw/)
 
 ## Why Open Textbooks?
 The textbook market is flawed - students are paying too much, and do not have choice in the books they buy. We are creating a set of open educational resources that are free for the world to use.

@@ -4,6 +4,8 @@ title: Governing the Internet
 nav_order: 0
 has_children: true
 has_toc: true
+- /cyberlaw/
+- /cyberlaw
 ---
 # Governing the internet: a collaborative, open course and textbook
 {: .no_toc }

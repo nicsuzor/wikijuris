@@ -137,11 +137,13 @@ The index file contains a list of the pieces and the location of a tracker. Torr
 
 The protocol and the clients that implement it also are general-purpose with substantial non-infringing uses. Since many clients are pure software projects (often open source), rather than filesharing businesses, there's also often no strong financial link on which to found inducement liability. Lacking targets to sue, rightsholders are increasingly seeking to hold ISPs responsible for copyright infringement of their users.
 
+<div class="box case">
+
 ### Roadshow Films v iiNet
 
 **Video Overview of Roadshow Films v iiNet by [Kylie Pappalardo](https://www.youtube.com/watch?v=FeQqRwQVoi4)**
 
-_Roadshow v iiNet_ [[2012] HCA 16](http://www.austlii.edu.au/au/cases/cth/HCA/2012/16.html) involved an appeal from the Full Federal Court of Australia on the issue of whether iiNet, an ISP, authorised its customers’ infringing acts of communicating films owned by the appellants over a BitTorrent file sharing system.
+[_Roadshow v iiNet_ [2012] HCA 16](http://www.austlii.edu.au/au/cases/cth/HCA/2012/16.html) involved an appeal from the Full Federal Court of Australia on the issue of whether iiNet, an ISP, authorised its customers’ infringing acts of communicating films owned by the appellants over a BitTorrent file sharing system.
 
 The Full Federal Court had found for iiNet (Jagott J dissenting) on the issue of authorisation, but all members of the Full Court had found that iiNet was not entitled to the benefit of the safe harbour provisions in the Copyright Act. iiNet did not appeal the findings in relation to the safe harbour provisions.
 
@@ -205,6 +207,9 @@ Gummow and Hayne JJ stated:
 Justices Gummow and Hayne dismissed the appeal. They concluded:
 > “These matters, taken together, do not establish a case of authorisation… The progression urged by the appellants from the evidence, to "indifference", to "countenancing", and so to "authorisation", is too long a march.” (at [143])
 
+</div>
+
+<div class="box case">
 
 ### Dallas Buyers Club v iiNet
 
@@ -224,9 +229,7 @@ In the Dallas Buyers Club judgment, Justice Perram followed the approach taken b
 
 Later in the series of Dallas Buyers Club decisions,[^AUTOREPLACEDDallasBuyersClubviiNetNo42015FCA838httpwwwaustliieduaucgibinsinodispaucasescthFCA2015838htmlstem0synonyms0querydallas20buyers20clubnocontext1AUTOREPLACED] Dallas Buyers Club LLC submitted to the court a number of draft correspondence to be sent to relevant account holders.
 
-[^AUTOREPLACEDDallasBuyersClubviiNetNo42015FCA838httpwwwaustliieduaucgibinsinodispaucasescthFCA2015838htmlstem0synonyms0querydallas20buyers20clubnocontext1AUTOREPLACED]: Dallas Buyers Club v iiNet (No 4) [2015] FCA 838 http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FCA/2015/838.html?stem=0&synonyms=0&query=dallas%20buyers%20club&nocontext=1
-
-
+[^AUTOREPLACEDDallasBuyersClubviiNetNo42015FCA838httpwwwaustliieduaucgibinsinodispaucasescthFCA2015838htmlstem0synonyms0querydallas20buyers20clubnocontext1AUTOREPLACED]: Dallas Buyers Club v iiNet (No 4) [[2015] FCA 838](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FCA/2015/838.html?stem=0&synonyms=0&query=dallas%20buyers%20club&nocontext=1)
 
 Justice Perram identified some differences in the legal context of the English and Canadian decisions he had referred to earlier in proceedings. He pointed out that Australian law obliged him to try to accommodate the competing rights of account holders to privacy and the copyright owners right to sue for infringement to the best of his ability, rather than to apply a proportionality approach taken in the overseas jurisdictions. To do this, it was necessary to consider whether the proposed use of the information accords with the purpose of FCR r 7.22. Of particular focus was subrule (1)(a), which is the requirement that the prospective applicant has a right to obtain relief against a prospective respondent. To determine whether this right existed, an inquiry into whether the monetary demands contained in DBC’s proposed correspondence could plausibly be sued for was undertaken by the Court.
 
@@ -241,6 +244,9 @@ With respect to the damages claimed under (c), Perram J was critical of DBC’s 
 The Court would have allowed recovery of damages under (a) and (d). The Court refused to lift a stay on the order for preliminary disclosure unless an undertaking was made by DBC to only use the account holders’ identities and contact details for demands under those heads. Due to the fact that DBC has no physical presence in Australia, and as such could not be punished for contempt if they failed to honour such an undertaking, the Court set a bond of $600,000 before any information regarding account holder identities were to be provided.
 
 DBC failed to provide a letter limited to the heads of damage under (a) and (d) by the date set by the court, and consequently this action was terminated. The result was that DBC was not provided access to account holder details in this case.
+
+</div>
+
 
 ## Intermediary Copyright Liability – The US Position
 

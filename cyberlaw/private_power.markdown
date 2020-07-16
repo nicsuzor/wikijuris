@@ -13,9 +13,14 @@ parent: Governing the Internet
 {:toc}
 
 
-Help needed!
-This section is a stub. Please help out by filling in some details and fixing some disjointed prose.
 
+<div class="box error">
+
+##### Help needed!
+
+This section is incomplete. Please help out by filling in some details.
+
+</div>
 
 ## Freedom of Speech Online
 

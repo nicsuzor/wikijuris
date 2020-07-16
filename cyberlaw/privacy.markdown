@@ -307,8 +307,14 @@ Telecommunications companies must retain and secure for 2 years a set of informa
 
 
 
-Help needed!
-This section is a [[:wiki:stub]]. Please help out by filling in some details.
+
+<div class="box error">
+
+##### Help needed!
+
+This section is incomplete. Please help out by filling in some details.
+
+</div>
 
 ## The SPAM Act
 
