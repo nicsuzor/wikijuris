@@ -12,21 +12,19 @@ parent: Governing the Internet
 1. Table of Contents
 {:toc}
 
-## Chapter Overview
-
 In this Chapter, we will focus on the liability of online intermediaries for the infringing acts of their users, principally intermediaries who provide software or services that facilitate copyright infringement. It explains the Australian position on copyright authorisation followed by the United States (US) position on intermediary liability. We will generally assume that there has been primary infringement by the users. You are not expected to know the general principles of copyright in detail, and you do not need to know the rules for establishing primary infringement. The Chapter also outlines intermediary liability for direct infringement.
 
-## Copyright Authorisation (the Australian Position)
+# Copyright Authorisation (the Australian Position)
 
 **Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=qIIVG11mF5s)**
 
-Sections [http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s36.html](36(1) and [http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s101.html](101(1)) of the Copyright Act 1968 provide that copyright is infringed “by a person who, not being the owner of the copyright, and without the licence of the owner of the copyright, does in Australia, **or authorizes the doing in Australia of**, any act comprised in copyright”.
+Sections [36(1)](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s36.html) and [101(1)](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s101.html) of the Copyright Act 1968 provide that copyright is infringed “by a person who, not being the owner of the copyright, and without the licence of the owner of the copyright, does in Australia, **or authorizes the doing in Australia of**, any act comprised in copyright”.
 
 It is this idea of authorising someone else to commit copyright infringement that is at the heart of intermediary liability for copyright infringement in Australia. This is the part of the copyright law that potentially applies to ISPs, website hosts, and other internet intermediaries. This doctrine is called “authorisation liability”.
 
 ### University of New South Wales v Moorhouse
 
-One of the leading authorisation case in Australia is University of New South Wales v Moorhouse [http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse]((1975) 6 ALR 193) (“Moorhouse”). It provides the modern foundation for the authorisation doctrine in Australia.
+One of the leading authorisation case in Australia is _[University of New South Wales v Moorhouse](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse)_ (1975) 6 ALR 193 (“Moorhouse”). It provides the modern foundation for the authorisation doctrine in Australia.
 
 In that case, the Australian Copyright Council arranged for a graduate of the University of New South Wales (UNSW) to photocopy an infringing portion of a book by Frank Moorhouse entitled, The Americans, Baby, on a photocopier in the UNSW library. It then brought a test case against UNSW, claiming that UNSW had authorised the infringing reproduction by making photocopying machines available in its library without exercising supervision over how the machines were used and without displaying proper notices as to copyright exceptions and limitations. The High Court unanimously held that UNSW was liable for authorising infringement.
 
@@ -51,7 +49,9 @@ In the ensuing years, the most influential judgment proved to be that of Justice
 
 In the year 2000, the Copyright Amendment (Digital Agenda) Act inserted the following subsection into sections 36 and 101 of the Copyright Act:
 
-**_Copyright Act 1968_ (Cth) ss 36 & 101**
+<div markdown="block"  class="box legislation">
+
+#####  _Copyright Act 1968_ (Cth) ss 36 & 101**
 
 (1A) In determining, for the purposes of subsection (1), whether or not a person has authorised the doing in Australia of any act comprised in the copyright… without the licence of the owner of the copyright, the matters that must be taken into account include the following:
 
@@ -60,6 +60,8 @@ In the year 2000, the Copyright Amendment (Digital Agenda) Act inserted the foll
 * (b) the nature of any relationship existing between the person and the person who did the act concerned;
 
 * (c) whether the person took any reasonable steps to prevent or avoid the doing of the act, including whether the person complied with any relevant industry codes of practice.
+
+</div>
 
 This subsection was designed to codify the principles set out in Justice Gibb’s statement in Moorhouse, extracted above. The legislative amendments were intended to promote certainty within the law for the communication and IT industries that provided online access to copyright material.[^AUTOREPLACEDCopyrightAmendmentDigitalAgendaAct2000Cths3TheParliamentoftheCommonwealthofAustraliaHouseofRepresentativesCopyrightAmendmentDigitalAgendaBill1999ExplanatoryMemorandumOutlinehttpwwwcomlawgovauDetailsC2004B00540Explanatory20MemorandumTextAUTOREPLACED]
 
@@ -71,17 +73,19 @@ This subsection was designed to codify the principles set out in Justice Gibb’
 
 **Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=3hWe0YJ_hds)**
 
-Section [$1]($2) of the _Copyright Act 1968_ (Cth) was inserted by a 2015 amendment to the Copyright Act. The section enables a copyright owner to obtain an injunction to require a carriage service provider to take reasonable steps to block user access to infringing material hosted online from a location outside Australia.
+Section [115A](http://www5.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s115a.html) of the _Copyright Act 1968_ (Cth) was inserted by a 2015 amendment to the Copyright Act. The section enables a copyright owner to obtain an injunction to require a carriage service provider to take reasonable steps to block user access to infringing material hosted online from a location outside Australia.
 
 ### Mere Conduits
 
 It is also useful to be aware of sections [39B](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s39b.html) and [112E](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s112e.html) of the _Copyright Act 1968_ (Cth). These are known as the 'mere conduit' provision. They ensure that “A person (including a carrier or carriage service provider) who provides facilities for making, or facilitating the making of, a communication is not taken to have authorised any infringement of copyright ... merely because another person uses the facilities so provided to do something the right to do which is included in the copyright.” So, an important question for our purposes is when an online intermediary will be held to do more than 'merely' provide facilities.
 
-## The Digital Agenda Cases
+# The Digital Agenda Cases
 
 There are two relevant cases that have applied s. 101(1A) to online file sharing: Universal Music Australia Pty Ltd v Sharman License Holdings Ltd and Cooper v Universal Music Australia Pty Ltd (2006) 237 ALR 714. We will consider these cases in turn:
 
-### Universal Music Australia Pty Ltd v Sharman License Holdings Ltd [2005] FCA 1242 (“Sharman”)
+<div markdown="block"  class="box case">
+
+##### Universal Music Australia Pty Ltd v Sharman License Holdings Ltd [2005] FCA 1242 (“Sharman”)
 
 This case dealt with the distribution of the peer-to-peer file-sharing software, Kazaa. The applicants were holders of copyright in certain sound recordings. They alleged that users had downloaded and made available for download, via the Kazaa network and without licence, copies of the whole or a substantial part of recordings owned by the applicants. They claimed that Sharman had authorised this infringement by operating and maintaining the Kazaa software and by failing to implement mechanisms to prevent or avoid the infringing activities.
 
@@ -109,7 +113,12 @@ Sharman was also found to derive a direct financial benefit from infringement (s
 
 The court found that Sharman had not taken any reasonable steps to prevent infringement. The Court explicitly distanced itself from the US Supreme Court's reasoning about inducement liability in Grokster. Nevertheless, the court took a very dim view of Sharman's directors and actions – it was clear that Sharman was a 'bad' actor that had encouraged copyright infringement.
 
-### Cooper v Universal Music Australia Pty Ltd (2006) 237 ALR 714 (“Cooper”)
+
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Cooper v Universal Music Australia Pty Ltd (2006) 237 ALR 714 (“Cooper”)
 
 **Video Overview of Cooper v Universal by [Ed Green](https://www.youtube.com/watch?v=6VDB6P3GedA)**
 
@@ -121,7 +130,9 @@ The court also found Cooper's ISP liable for authorisation. The ISP had provided
 
 The appellants attempted to rely on the s 112E exception to the s 101(1). However, the Court concluded that both parties had done more than merely facilitate the infringements by others, and therefore, the exception could not apply to the appellants. As the exception did not apply, the Court concluded that the primary judge was correct as Cooper and E-Talk had authorised the copying and communication of copyright sound recordings. The Court dismissed the appeals.
 
-## The Intervening Years: BitTorrent
+</div>
+
+# The Intervening Years: BitTorrent
 
 **Video Overviews of BitTorrent by [Lindsay Mengel](https://www.youtube.com/watch?v=o2Lxvx8PzJ0)** and **[Jordan Bell](https://www.youtube.com/watch?v=MMnsBJeb0IQ)**
 
@@ -137,9 +148,10 @@ The index file contains a list of the pieces and the location of a tracker. Torr
 
 The protocol and the clients that implement it also are general-purpose with substantial non-infringing uses. Since many clients are pure software projects (often open source), rather than filesharing businesses, there's also often no strong financial link on which to found inducement liability. Lacking targets to sue, rightsholders are increasingly seeking to hold ISPs responsible for copyright infringement of their users.
 
-<div markdown="block" class="box case">
 
-### Roadshow Films v iiNet
+<div markdown="block"  class="box case">
+
+##### Roadshow Films v iiNet
 
 **Video Overview of Roadshow Films v iiNet by [Kylie Pappalardo](https://www.youtube.com/watch?v=FeQqRwQVoi4)**
 
@@ -157,7 +169,12 @@ From July 2008 to August 2009, AFACT began sending notices to iiNet every week (
 
 The appellants argued that iiNet’s contractual relationship with its customers gave it an indirect power to control the use of its services and to prevent infringement. “That led to the submission that, once iiNet had received credible information of past infringements sufficient to raise a reasonable suspicion that such acts of infringement were continuing, failure to enforce the terms of the CRA…amounted, at the very least, to ‘countenancing’ the primary infringements.” (at [58])
 
-### Roadshow Films v iiNet Judgment: French CJ, Crennan and Kiefel JJ
+</div>
+
+
+<div markdown="block"  class="box case">
+
+##### Roadshow Films v iiNet Judgment: French CJ, Crennan and Kiefel JJ
 
 French CJ, Crennan and Kiefel JJ considered what “countenance” means. They noted that some of the meanings of “countenance” and not co-extensive with “authorise” and they highlighted  the danger in placing reliance on one of the synonyms for “authorise” found in the dictionary.
 
@@ -185,7 +202,12 @@ French CJ, Crennan and Kiefel JJ stated:
 
 Their Honours concluded that iiNet had not authorised infringement, and dismissed the appeal with costs.
 
-### Roadshow Films v iiNet Judgment: Gummow and Hayne JJ
+
+</div>
+
+<div markdown="block"  class="box case">
+
+##### Roadshow Films v iiNet Judgment: Gummow and Hayne JJ
 
 Justices Gummow and Hayne discussed the meaning of “authorise”. They said, “After a century, the selection of the term ‘authorise’ to identify the activity constituting secondary infringement continues to give rise to difficulty. But the difficulties, which reflect both technological developments and changes in business methods, are unlikely to be resolved merely by recourse to a dictionary.” (at [117]) Further, they warned that:
 > “it would be wrong to take from [this definition] one element, such as ‘countenance’, and by fixing upon the broadest dictionary meaning of that word seek to expand the core notion of ‘authorise’.”
@@ -248,7 +270,7 @@ DBC failed to provide a letter limited to the heads of damage under (a) and (d) 
 </div>
 
 
-## Intermediary Copyright Liability – The US Position
+# Intermediary Copyright Liability – The US Position
 
 **Video Overview of the US Position by [Kylie Pappalardo](https://www.youtube.com/watch?v=G-jD1WDw_34)**
 
