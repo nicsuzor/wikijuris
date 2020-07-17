@@ -21,68 +21,50 @@ The _Cybercrime Act 2001_ introduced a series of computer-related offences into 
 
 **Video Overview of the Convention on Cybercrime by [Lucy Jorgensen](https://www.youtube.com/watch?v=M_23yYrzM9o)**
 
-**__The Key Components of the Convention on Cybercrime and How It Helps Australia__**
-
 The Council of Europe’s Convention on Cybercrime was the first international treaty on crimes committed via the Internet and other computer networks. It was ratified by Australia on the 1st March 2013 and has been ratified by 47 countries worldwide.
-
-**What Is The Conventions Main Objective?**
 
 The Convention's main objective is to promote a common criminal policy, which aims to protect society against cybercrime, by adopting legislation and promoting international co-operation.
 
-**What Crimes Does the Convention Primarily Deal With?**
+The Convention primarily deals with:
 
 * Copyright Infringement
-* Computer-related fraud and forgery
-* Child pornography
-* Violations of network security
 
-**Requirements of Signatories**
+* Computer-related fraud and forgery
+
+* Child pornography
+
+* Violations of network security
 
 In order to achieve the goal of establishing a common criminal policy, the Convention requires signatories to:
 
 1.	Define criminal offenses and sanctions under their domestic laws according to the four categories of computer crimes listed above.
+
 2.	Establish domestic procedures for detecting, investigating and prosecuting computer crimes and collecting electronic evidence of any criminal offence.
+
 3.	Establish a rapid and effective system for international cooperation. This includes allowing law enforcement authorities in one country to collect computer-based evidence for those in another country.
 
-**The success of international co-operation is highlighted in the following example:**
-_‘Operation Rescue led to the arrest of nearly 200 suspected pedophiles and rescued 230 children. Operation Rescue began as an investigation undertaken by the Australian Federal Police alone. It then spread to a British investigation. In response, the Federal Police and British police formed a joint investigation, which involved sharing intelligence with police in Thailand and the subsequent discovery of a website publishing child abuse material. It then led to other countries: the Netherlands, the involvement of Europol, Canada, Italy, the United States, New Zealand. People were arrested in Chile, Brazil and France.’_
-
-Mr McDonald, Attorney-General's Department, Transcript of Evidence, Canberra, 25 March 2011, p. 7.
-
-**How Does the Convention Help Australia?**
-
-Australia’s ratification of the Convention complements existing laws, increasing the capacity for international co-operation to deal with increasingly sophisticated forms of computer-related criminal activity.
-
-Practical Points:
-
-•	Being a party to the Convention will help Australia combat criminal offences related to fraud, child pornography, copyright infringement and network security violations.
-
-•	Under the Convention, Australia participates in a 24/7 global network of high tech crime points of contact, allowing for speedy assistance between signatory countries.
-
-•	It enables domestic agencies to access and share information to facilitate international investigations.
-
-•	The Convention will ensure vital evidence is not lost before a mutual assistance request can be complete.
+Australia’s ratification of the Convention complements existing laws, increasing the capacity for international co-operation to deal with increasingly sophisticated forms of computer-related criminal activity. Being a party to the Convention is designed to help Australia combat criminal offences related to fraud, child pornography, copyright infringement and network security violations. Under the Convention, Australia participates in a 24/7 global network of high tech crime points of contact, allowing for speedy assistance between signatory countries. It aims to enable domestic agencies to access and share information to facilitate international investigations, and seeks to ensure that vital evidence is not lost before a mutual assistance request can be complete.
 
 
-## Commonwealth Criminal Offences
+# Commonwealth Criminal Offences
 
-### Definitions
+## Definitions
 
 * “unauthorised”: “not entitled to cause that access, modification or impairment.” (s 476.2)
 * But access, modification, or impairment is “not unauthorised merely because he or she has an ulterior purpose for causing it.”
 
-### Fault Elements
+# Fault Elements
 
 Default fault elements are included in Criminal Code 1995 (Cth) s 5.6. Except where explicitly stated, all these offences require:
 * Intent to access or modify; and
 * Recklessness as to whether data was actually modified or access impaired.
 
-### Jurisdiction
+## Jurisdiction
 
 These offences now apply to all conduct in Australia, against Australian computer systems, or by Australian citizens (s 15.1)
 There is some overlap with State laws. In many cases, conduct will be prohibited under both State and Federal law.
 
-### Unauthorised Access
+## Unauthorised Access
 
 **Friedrich Kuepper [Explains the Unauthorised Access Offences](https://vimeo.com/141874460)**
 
@@ -107,7 +89,7 @@ Section 477.1 creates the offence of "Unauthorised access, modification or impai
 * Requires intent to modify (default fault element - s 5.6)
 * Requires recklessness as to whether the modification impairs or will impair access to data, reliability, security, or operation.
 
-### Impairment
+## Impairment
 
 477.3   Unauthorised Impairment of Electronic Communication
 
@@ -115,7 +97,7 @@ Section 477.1 creates the offence of "Unauthorised access, modification or impai
 * Requires knowledge that impairment was unauthorised
 * Requires intent to cause impairment
 
-### Telecommunications Interception
+## Telecommunications Interception
 
 Telecommunications (Interception and Access) Act 1979 (Cth), s 7
 
@@ -130,24 +112,24 @@ A person shall not:
 
 a communication passing over a telecommunications system.
 
-### Other Computer Offences
+## Other Computer Offences
 
-#### 478.2   Unauthorised impairment of data held on a computer disk etc.
+### 478.2   Unauthorised impairment of data held on a computer disk etc.
 
-#### 478.3   Possession or control of data with intent to commit a computer offence
+### 478.3   Possession or control of data with intent to commit a computer offence
 
-#### 478.4   Producing, supplying or obtaining data with intent to commit a computer offence
+### 478.4   Producing, supplying or obtaining data with intent to commit a computer offence
 
 
-### Other crimes involving computers
+## Other crimes involving computers
 
-#### 474.14   Using a telecommunications network with intention to commit a serious offence
+### 474.14   Using a telecommunications network with intention to commit a serious offence
 
-#### 474.15   Using a carriage service to make a threat
+### 474.15   Using a carriage service to make a threat
 
-#### 474.17   Using a carriage service to menace, harass or cause offence
+### 474.17   Using a carriage service to menace, harass or cause offence
 
-## Queensland Legislation
+# Queensland Legislation
 
 **Video: Sarah Lawrence explains [how Section 359B of Queensland's Criminal Code regulates cyberstalking](https://www.youtube.com/watch?v=SeEPjsLyGso)**
 
@@ -157,12 +139,12 @@ Cyberstalking includes email stalking, phone stalking and computer stalking. Bot
 
 A major controversy surrounding the stalking offence is the that the victim must have suffered a real apprehension or fear of violence, however, cyberstalking is unlikely to meet this threshold due to its virtual and non-physical nature. In addition, the prosecution of cyberstalking is difficult and victims must turn to other avenues to find relief. The current and most realistic remedies for victims would be to approach social media services to have material removed, or to report the behaviour to the eSafety commissioner.
 
-## Private Law: Electronic Contracts
+# Private Law: Electronic Contracts
 
 Access to computer systems is typically constrained by both code and contract law. The code that makes computer systems interactive will often have some system for controlling access to the system. For example, websites are often made accessible to the public, but webservers can be configured to ensure that different parts of the website are only accessible to logged-in users with the correct permissions. Similarly, login controls prevent people from gaining access to computer systems without the correct password or credentials. Accessing computer systems by breaking these authentication mechanisms will usually be an offence under the unauthorised access or computer trespass provisions in the criminal law.
 
 
-### Shrink-wrap, click-wrap, and browse-wrap agreements
+## Shrink-wrap, click-wrap, and browse-wrap agreements
 
 **Video: [What's the difference between a click-wrap and a browse-wrap agreement?](https://www.youtube.com/watch?v=pdk3e5Fnp2I&feature=youtu.be) by Erin Laird**
 
