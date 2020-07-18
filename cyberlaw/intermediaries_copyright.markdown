@@ -313,8 +313,6 @@ Online intermediaries can continue to benefit from the Sony rule if:
 
 #####  A & M Records, Inc. v. Napster, Inc. 239 F. 3d 1004 (9th Cir. 2001) ("Napster")
 
-**Video Overview of the Naspter Decision by [Tamara Moretto](https://youtu.be/8M04ISrQZq8)**
-
 The question of how the Sony rule would apply to the sharing of content over computer systems was addressed in A & M Records, Inc. v. Napster, Inc., which concerned a p2p music file sharing system.  
 
 **Plaintiff**: A&M Records Inc. – Record label owned by Universal Music Group

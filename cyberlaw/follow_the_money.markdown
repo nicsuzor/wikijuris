@@ -40,7 +40,7 @@ While the financial blockade was not successful in shutting down WikiLeaks, it m
 
 The payment blockade raised valid concerns as to the ongoing privatisation of internet governance. The intermediary action demonstrates that private actors who own critical internet infrastructures are willing to deny services to individuals without proven legal cause. There is an argument that intermediary regulation is the most viable option at present, given the substantive jurisdictional issues surrounding internet governance. However, these private organisations are absorbing a significant amount of power due to infrastructural design as opposed to legal capacity or appointment. It is not realistic to assume that they have the ability to remain objective and resilient in the face of political pressure.
 
-###BitCoin and Other Decentralised Currencies###
+### BitCoin and Other Decentralised Currencies 
 
 **Overview Videos by [Madeline Menzies-Miha](https://www.youtube.com/watch?v=ZtKDE7ReN2g) and [Jennifer Singleton](https://www.youtube.com/watch?v=ylN9uPK6bIo)**
 
@@ -50,7 +50,7 @@ Help needed!
 The regulatory pressure that can be imposed by payment gateways and providers has led some people to move to decentralised cryptographic currencies - like Bitcoin. Explain Bitcoin and the regulatory challenges it presents.
 
 
-###Further Reading###
+### Further Reading
 
 For those interested in further reading, please see:
 

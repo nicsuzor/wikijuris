@@ -45,10 +45,12 @@ The Federal Court must also take into account any other relevant matters before 
 
 **Extracts from s 115A:**
 
+<div markdown="block"  class="box legislation">
+
 (1)  The Federal Court of Australia may, on application by the owner of a copyright, grant an injunction referred to in subsection (2) if the Court is satisfied that:
   * (a)  a carriage service provider provides access to an online location outside Australia; and
   * (b)  the online location infringes, or facilitates an infringement of, the copyright; and
-  * ( c)  the primary purpose of the online location is to infringe, or to facilitate the infringement of, copyright (whether or not in Australia).
+  * (c)  the primary purpose of the online location is to infringe, or to facilitate the infringement of, copyright (whether or not in Australia).
 
 (2)  The injunction is to require the carriage service provider to take reasonable steps to disable access to the online location.
 
@@ -68,9 +70,10 @@ The Federal Court must also take into account any other relevant matters before 
   * (j)  any other matter prescribed by the regulations;
   * (k)  any other relevant matter.
 
+</div>
 
 
 
 The scheme is inspired by UK legislation that enables courts to enjoin ISPs to block certain websites. Similar schemes exist in other jurisdictions - although, notably, other jurisdictions have found that they are disproportionate. The lack of evidence that the schemes worked led the European Court of Justice to strike down website blocking in the Netherlands.[^AUTOREPLACEDREINvZIGGO2012translationprovidedbyhttppiratepartyorgaumediadocumentsECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREINpdfAUTOREPLACED] An order to require ISPs to block access to The Pirate Bay was overturned on appeal, and the Court noted that rates of infringement had actually increased following the imposition of the block. The inference drawn by the court was that the measure could not have been proportionate, since it necessarily imposed a cost on freedom of speech for little ascertainable benefit.
 
-[^AUTOREPLACEDREINvZIGGO2012translationprovidedbyhttppiratepartyorgaumediadocumentsECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREINpdfAUTOREPLACED]: ​REIN v ZIGGO (​2012), translation provided by ￼￼￼h​ttp:_pirateparty.org.au/media/documents/ECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREIN.pdf
+[^AUTOREPLACEDREINvZIGGO2012translationprovidedbyhttppiratepartyorgaumediadocumentsECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREINpdfAUTOREPLACED]: ​REIN v ZIGGO (​2012), translation provided by ￼￼￼h​ttp://pirateparty.org.au/media/documents/ECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREIN.pdf
