@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copyright Safe Harbours
+title: Australian Safe Harbours
 parent: Governing the Internet
 nav_order: 70
 ---
@@ -124,7 +124,7 @@ All safe harbours require that the CSP “must adopt and reasonably implement a 
 >(a) becomes aware that the material is infringing; or
 >(b) becomes aware of facts or circumstances that make it apparent that the material is likely to be infringing.”
 >
->“The carriage service provider must comply with the prescribed procedure in relation to removing or disabling access [to copyright material | a reference] residing on its system or network.”
+>“The carriage service provider must comply with the prescribed procedure in relation to removing or disabling access [to copyright material \| a reference] residing on its system or network.”
 
 
 ### Category C Safe Harbour: Notice & Takedown Procedure

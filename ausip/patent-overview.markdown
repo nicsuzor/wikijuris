@@ -105,7 +105,7 @@ Duration of protection for both types of patents is measured from the date the c
 [^pa65]: _Patents Act 1990_ (Cth) s 65
 
 
-===== Rationale of the Patent System =====
+### Rationale of the Patent System ###
 
 It is usually accepted that there are two main goals of the patent system. First, to encourage innovation: patents enable inventors a period of monopoly in which to exploit their invention and recoup their costs. This is not a reward for an inventor’s natural rights, but rather so that the public may ultimately benefit from the technological advancement that invention brings. Exclusivity is, in this sense, a necessary evil - it restricts the use of new inventions in order to encourage them.
 
@@ -115,7 +115,7 @@ The second goal of the patent system is to disseminate new knowledge. Inventors 
 
 
 
-===== Overview of Patent Law =====
+### Overview of Patent Law ###
 
 The object of patent law is to encourage invention and disseminate new knowledge.  For an invention to be patentable, the following elements must be met:
 
@@ -132,14 +132,14 @@ The object of patent law is to encourage invention and disseminate new knowledge
 
 Patent law seeks to achieve a balance between the private right to exploit an invention (an incentive granted by the State so that the public can benefit from new inventions), with the public benefit of adding to the store of public knowledge and increasing public access to new products and processes.
 
-===== Origins of Patent Law =====
+### Origins of Patent Law ###
 
 
 Patents were systematically granted in Venice from 1450, where they issued a decree by which new and inventive devices had to be communicated to the Republic in order to obtain legal protection against potential infringers. King Henry II of France introduced the concept of publishing the description of an invention in a patent in 1555. Patents were granted by the monarchy and by others institutions like the "Maison du Roi" and the Parliament of Paris. The novelty of the invention was examined by the French Academy of Sciences.
 
 By the 16th century, the English Crown would habitually grant letters patent for monopolies to favoured persons (or people who were prepared to pay for them). This power was used to raise money for the Crown, and was widely abused, as the Crown granted patents in respect of all sorts of common goods (salt, for example).  Consequently, the Court began to limit the circumstances in which they could be granted.
 
-==== Statute of Monopolies ====
+### Statute of Monopolies ###
 
 
 After public outcry, James I of England was forced to revoke all existing monopolies and declare that they were only to be used for "projects of new invention".  This was incorporated into the Statute of Monopolies in which Parliament restricted the Crown's power explicitly so that the King could only issue letters patent to the inventors or introducers of original inventions for a fixed number of years. According to  s6 of the _Statute of Monopolies_,  all existing monopolies and dispensations were voided with the exception of:

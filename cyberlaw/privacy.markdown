@@ -237,7 +237,7 @@ Outlines an APP entity’s obligations in relation to correcting the personal in
 
 There has been very little case law on the application of the _Privacy Act_ and APPs. One recent exception is the _Privacy Commissioner v Telstra_ case involving technology journalist Ben Grubb's metadata. Unfortunately, it is unclear in the aftermath of the case whether dynamic IP addresses constitute 'personal information' for the purposes of Australian privacy law. (NB It would constitute ‘personal data’ in EU data protection law.)
 
-===== Data Breaches =====
+### Data Breaches ###
 
 Mandatory data breach requirements were introduced in early 2017 as an amendment to the _Privacy Act_.
 
@@ -263,20 +263,20 @@ The extent of government surveillance powers go to heart of issues about appropr
 
 Since 9/11, the War on Terror in Western countries has seen expansion of anti-terrorism and law enforcement surveillance powers in many countries.
 
-==== Telecommunications (Interception and Access) Act 1979 (Cth) ====
+### Telecommunications (Interception and Access) Act 1979 (Cth) ###
 This Act:
   * Makes it an offence to intercept (listen to or record) a communication passing over a ‘telecommunications system’ without the knowledge of the person making the communication
   * Also an offence to publish or retain a record of information gained in this way
   * Allows access to communications content for law enforcement and national security purposes after obtaining a judicial warrant.
 
-==== Telecommunications Act 1997 ====
+### Telecommunications Act 1997 ###
 This Act imposes obligations on telecoms providers inc to provide assistance to law enforcement agencies for:
   * enforcing the criminal law and laws imposing pecuniary penalties
   * assisting the enforcement of the criminal laws in force in a foreign country
   * protecting revenue
   * safeguarding national security.
 
-==== Exceptions to the Privacy Act ====
+### Exceptions to the Privacy Act ###
 Most Australian government agencies are covered by the Privacy Act including AFP, Border and Crim Trac
 But some are not covered:
   * Office of National Assessments
@@ -287,7 +287,7 @@ But some are not covered:
   * Australian Geospatial Intelligence Org
 Instead, the Inspector General of Intelligence and Security provides oversight of these agencies’ activities & reviews activities for legality and propriety
 
-==== Data Retention ====
+### Data Retention ###
 
 Law passed in 2015 to implement data retention scheme: _Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015_ (Cth).
 
@@ -318,7 +318,7 @@ This section is incomplete. Please help out by filling in some details.
 
 ## The SPAM Act
 
-**Video Overview of the The SPAM Act by [Rita Matulionyte](https://www.youtube.com/watch?v=7mR87qJ0Ipg)** and **[Anna Hall](https://www.youtube.com/watch?v=cb8q7hiyj9I)**
+**Video Overview of the SPAM Act by [Anna Hall](https://www.youtube.com/watch?v=cb8q7hiyj9I)**
 
 The SPAM Act 2003 (Cth) prohibits the sending of unsolicited commercial electronic messages with an Australian link. A message has an Australian link if it originates or was commissioned in Australia, or originates overseas but was sent to an address accessed in Australia.
 

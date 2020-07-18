@@ -41,12 +41,12 @@ Publications, Films, and Computer games are rated by the Classification Board, a
 * Games: G, PG, M, MA15+, R18+
 
 
-=== Classification Guidelines: R18+ ===
+### Classification Guidelines: R18+ ###
 
 * High impact violence, simulated sex, drug use, nudity
 * No restrictions on  language
 
-=== Classification Guidelines: X18+ ===
+### Classification Guidelines: X18+ ###
 
 * Real depictions of sexual intercourse and sexual activity between consenting adults
 * No depiction of violence or sexual violence
@@ -55,7 +55,7 @@ Publications, Films, and Computer games are rated by the Classification Board, a
 * No fetishes (such as ‘body piercing’; candle wax; bondage; fisting; etc)
 * No depictions of anyone under 18, or of adults who look under 18.
 
-=== Classification Guidelines: Refused Classification ===
+### Classification Guidelines: Refused Classification ###
 “Publications that  appear to  purposefully  debase or abuse  for the enjoyment  of readers/viewers,  and which lack  moral, artistic or  other values to the  extent that they  offend against  generally accepted  standards of  morality, decency  and propriety will  be classified ‘RC’.”
 
 For films, anything that exceeds X18+ is Refused Classification. For Games, anything that exceeds R18+ is RC (A new R18+ category was introduced for Games in 2012).
