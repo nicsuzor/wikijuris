@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Australian Safe Harbours
+title: Copyright Notice and Takedown: Safe Harbours
 parent: Governing the Internet
-nav_order: 70
+nav_order: 60
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_safe_harbours.markdown){: .btn .btn-outline }
 
@@ -277,8 +277,55 @@ While the wording of the section may appear to provide an important defence to I
 
 <div markdown="block"  class="box error">
 
-##### Help needed!
 
-This section is incomplete. Please help out by filling in some details.
+# Website blocking: Section 115A of the Copyright Act
+
+**Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=3hWe0YJ_hds)**
+
+Section [115A](http://www5.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s115a.html) of the _Copyright Act 1968_ (Cth) was inserted by a 2015 amendment to the Copyright Act. The section enables a copyright owner to obtain an injunction to require a carriage service provider to block access to infringing websites and other internet resources.
+
+The Act empowers the Federal Court to order injunctive relief against ISPs on application by copyright owners in respect of an 'online location'. Copyright owners are required to show that "the online location infringes, or facilitates an infringement of, the copyright", and that "the primary purpose of the online location is to infringe, or to facilitate the infringement of, copyright (whether or not in Australia)."
+
+The Act uses a definition that catches foreign internet sites that 'infringe or facilitate' infringement of copyright. 'Facilitate' is not a defined term in Australian copyright law; there is considerable uncertainty as to the breadth of this test. Presumably, the term is designed to include foreign sites that help people to infringe -- for example by providing software or indexing services -- but may not necessarily 'authorise' infringement.
+
+The Act introduces a primary limiting factor on this broad 'facilitates' test: the 'primary purpose' of the foreign site must be to infringe or facilitate copyright infringement. Again, this 'primary purpose' test is not defined, but is presumably designed to exclude general purpose services which may be used to infringe. A general purpose search engine, for example, might link to infringing copyright and therefore 'facilitate' infringement, but its 'primary purpose' is to facilitate access to information generally, not to facilitate infringement.
+
+The Federal Court must also take into account any other relevant matters before ordering injunctive relief. There is an enumerated list of the types of things the Court may have regard to in the legislation, and the most significant of these include "whether disabling access to the online location is a proportionate response in the circumstances"; "the impact on any person, or class of persons, likely to be affected by the grant of the injunction;" and "whether it is in the public interest to disable access to the online location".
+
+
+## Extracts from s 115A:
+
+<div markdown="block"  class="box legislation">
+
+(1)  The Federal Court of Australia may, on application by the owner of a copyright, grant an injunction referred to in subsection (2) if the Court is satisfied that:
+  * (a)  a carriage service provider provides access to an online location outside Australia; and
+  * (b)  the online location infringes, or facilitates an infringement of, the copyright; and
+  * (c)  the primary purpose of the online location is to infringe, or to facilitate the infringement of, copyright (whether or not in Australia).
+
+(2)  The injunction is to require the carriage service provider to take reasonable steps to disable access to the online location.
+
+...
+
+ (5)  In determining whether to grant the injunction, the Court may take the following matters into account:
+
+  * (a)  the flagrancy of the infringement, or the flagrancy of the facilitation of the infringement, as referred to in paragraph (1)(c);
+  * (b)  whether the online location makes available or contains directories, indexes or categories of the means to infringe, or facilitate an infringement of, copyright;
+  * (c)  whether the owner or operator of the online location demonstrates a disregard for copyright generally;
+  * (d)  whether access to the online location has been disabled by orders from any court of another country or territory on the ground of or related to copyright infringement;
+  * (e)  whether disabling access to the online location is a proportionate response in the circumstances;
+  * (f)  the impact on any person, or class of persons, likely to be affected by the grant of the injunction;
+  * (g)  whether it is in the public interest to disable access to the online location;
+  * (h)  whether the owner of the copyright complied with subsection (4);
+  * (i)  any other remedies available under this Act;
+  * (j)  any other matter prescribed by the regulations;
+  * (k)  any other relevant matter.
+
+</div>
+
+
+
+The scheme is inspired by UK legislation that enables courts to enjoin ISPs to block certain websites. Similar schemes exist in other jurisdictions - although, notably, other jurisdictions have found that they are disproportionate. The lack of evidence that the schemes worked led the European Court of Justice to strike down website blocking in the Netherlands.[^AUTOREPLACEDREINvZIGGO2012translationprovidedbyhttppiratepartyorgaumediadocumentsECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREINpdfAUTOREPLACED] An order to require ISPs to block access to The Pirate Bay was overturned on appeal, and the Court noted that rates of infringement had actually increased following the imposition of the block. The inference drawn by the court was that the measure could not have been proportionate, since it necessarily imposed a cost on freedom of speech for little ascertainable benefit.
+
+[^AUTOREPLACEDREINvZIGGO2012translationprovidedbyhttppiratepartyorgaumediadocumentsECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREINpdfAUTOREPLACED]: ​REIN v ZIGGO (​2012), translation provided by ￼￼￼h​ttp://pirateparty.org.au/media/documents/ECLI_NL_GHDHA_2014_88_ENG_Ziggo_v_BREIN.pdf
 
 </div>

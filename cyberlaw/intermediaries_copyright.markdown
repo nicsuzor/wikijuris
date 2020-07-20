@@ -45,6 +45,8 @@ In the ensuing years, the most influential judgment proved to be that of Justice
 
 ### Legislative Amendments: Codification of the Moorhouse Test
 
+**Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=ObnKHnP4194)**
+
 **Madeline Urmoneit [explains what 'authorise' means in Australian copyright law](https://www.youtube.com/watch?v=u5fvVruam_4)**
 
 In the year 2000, the Copyright Amendment (Digital Agenda) Act inserted the following subsection into sections 36 and 101 of the Copyright Act:
@@ -69,12 +71,6 @@ This subsection was designed to codify the principles set out in Justice Gibb’
 
 
 
-### Section 115A
-
-**Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=3hWe0YJ_hds)**
-
-Section [115A](http://www5.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s115a.html) of the _Copyright Act 1968_ (Cth) was inserted by a 2015 amendment to the Copyright Act. The section enables a copyright owner to obtain an injunction to require a carriage service provider to take reasonable steps to block user access to infringing material hosted online from a location outside Australia.
-
 ### Mere Conduits
 
 It is also useful to be aware of sections [39B](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s39b.html) and [112E](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s112e.html) of the _Copyright Act 1968_ (Cth). These are known as the 'mere conduit' provision. They ensure that “A person (including a carrier or carriage service provider) who provides facilities for making, or facilitating the making of, a communication is not taken to have authorised any infringement of copyright ... merely because another person uses the facilities so provided to do something the right to do which is included in the copyright.” So, an important question for our purposes is when an online intermediary will be held to do more than 'merely' provide facilities.
@@ -92,8 +88,6 @@ This case dealt with the distribution of the peer-to-peer file-sharing software,
 The court found for the applicants. Justice Wilcox held that at all material times, the respondents were aware that a major use of the Kazaa system was the transmission of copyright material.
 
 **Power to Prevent**
-
-**Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=ObnKHnP4194)**
 
 A key factor in finding liability was Sharman’s perceived power to control or prevent infringement via filtering and other technological controls. This was a contentious factual issue in the case, because the respondents presented evidence – cautiously accepted by the court – that there was no Kazaa ‘central server’ through which Sharman could exercise substantial control over users’ activities to prevent the sharing of copyright files. Consequently, much of the judgment focused on expert testimony as to whether Sharman could effectively implement a filter, in the absence of a central server, to prevent the display files with metadata that matched the particulars of sound recordings listed in the applicants’ catalogues.
 
@@ -235,7 +229,7 @@ Justices Gummow and Hayne dismissed the appeal. They concluded:
 
 ##### Dallas Buyers Club v iiNet
 
-**Video Overviews of Dallas Buyers Club v iiNet by [Kylie Pappalardo](https://www.youtube.com/watch?v=BbGBSrbd1AY)** and **[Lachlan McCormick](https://www.youtube.com/watch?v=FrCJRnxiPHw)**
+**Video Overviews of Dallas Buyers Club v iiNet by [Kylie Pappalardo](https://www.youtube.com/watch?v=BbGBSrbd1AY)**
 
 The Dallas Buyers Club series of cases in 2015 concerned an application for a preliminary discovery order by Dallas Buyers Club LLC and its parent company, Voltage Pictures LLC,  under the Federal Court Rules 2011 (Cth) r 7.22.
 

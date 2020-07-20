@@ -157,13 +157,27 @@ Generally, the ACMA must request that an association representing an industry de
 
 Legislation  provides for  blocking of  content if there is  no industry code in  force. However, there is a current industry code, and it does not require blocking. Under the code, URLs of prohibited content are given to  voluntary filter vendors, but no further action is taken in regards to overseas hosted content.
 
-## Section 313 Blocking
 
-**Gab Red Explains [How s 313 Is Used by Government Agencies to Block Websites](https://www.youtube.com/watch?v=tdfHpMizgkM)**
+# Section 313 of the of the Telecommunications Act 1997 (Cth)
 
-**Matt Cartwright [Explains](https://www.youtube.com/watch?v=CDxI6-ePEgk) the Recommendations of the Recent [Inquiry Into the Use of s 313](http://www.aph.gov.au/Parliamentary_Business/Committees/House/Infrastructure_and_Communications/Inquiry_into_the_use_of_section_313_of_the_Telecommunications_Act_to_disrupt_the_operation_of_illegal_online_services)**
 
-## Image-based abuse
+**Video Overview by Kaava Watson:[Section 313](https://www.youtube.com/watch?v=DgSMz2GRVB4)**
+
+In Australia, several different forms of pressure have been exercised in recent years to encourage intermediaries to take action to police the actions of their users. The most blunt is direct action by law enforcement agencies, who are empowered to make requests of telecommunications providers under s 313 of the Telecommunications Act.  This provision requires carriers and carriage service providers to "do the carrier's best or the provider's best to prevent telecommunications networks and facilities from being used in, or in relation to, the commission of offences against the laws of the Commonwealth or of the States and Territories", and to
+ “give officers and authorities of the Commonwealth and of the States and Territories such help as is reasonably necessary” to enforce criminal law, impose pecuniary penalties, assist foreign law enforcement, protect the public revenue, and safeguard national security.
+
+
+ **Gab Red Explains [How s 313 Is Used by Government Agencies to Block Websites](https://www.youtube.com/watch?v=tdfHpMizgkM)**
+
+ **Matt Cartwright [Explains](https://www.youtube.com/watch?v=CDxI6-ePEgk) the Recommendations of the Recent [Inquiry Into the Use of s 313](http://www.aph.gov.au/Parliamentary_Business/Committees/House/Infrastructure_and_Communications/Inquiry_into_the_use_of_section_313_of_the_Telecommunications_Act_to_disrupt_the_operation_of_illegal_online_services)**
+
+The section essentially enables police and other law enforcement agencies to direct ISPs to hand over information about users and their communications. Increasingly, however, it is also apparently used by a number of government actors to require service providers to block access to content that appears to be unlawful, in cases ranging from the Australian Federal Police seeking to block access to child sexual abuse material to the Australian Securities and Investment Commission (ASIC) blocking access to phishing websites. Even the RSPCA is reported to have used the power, although the details of its request are not clear. There is significant concern over the lack of transparency around s 313(3) and lack of safeguards over its use.[^AUTOREPLACEDSeeforexampleAlanaMaurushatDavidVaileandAliceChowTheAftermathofMandatoryInternetFilteringandS313oftheTelecommunicationsAct1997Cth201419MediaandArtsLawReview263AUTOREPLACED] These came to the fore in 2013 when ASIC asked an ISP to block a particular IP address, not realising that the address was shared between up to 250,000 different websites, including the Melbourne Free University. The operation of s 313(3) is currently under review by the House of Representatives Standing Committee on Infrastructure and Communications.
+
+[^AUTOREPLACEDSeeforexampleAlanaMaurushatDavidVaileandAliceChowTheAftermathofMandatoryInternetFilteringandS313oftheTelecommunicationsAct1997Cth201419MediaandArtsLawReview263AUTOREPLACED]: See, for example, Alana Maurushat, David Vaile and Alice Chow, ‘The Aftermath of Mandatory Internet Filtering and S 313 of the Telecommunications Act 1997 (Cth)’ (2014) 19 Media and Arts Law Review 263.
+
+
+
+# Image-based abuse
 
 **Video overview of [image-based abuse laws](https://www.youtube.com/watch?v=IW17HxwdP-Q) by Danielle Harris**
 
@@ -201,7 +215,7 @@ The State also introduced three new misdemeanours into their Criminal Code[6] to
 
 
 
-## The Office of the e-Safety Commissioner
+# The Office of the e-Safety Commissioner
 
 **Lauren Trickey explains [how to make a complaint to the eSafety Commissioner](https://youtu.be/2aTxXyZsYgw)**
 
@@ -215,7 +229,7 @@ Australian residents can also report offensive or illegal content, which include
 
 For each type of material an online form can be completed on the eSafety website. Each form requests information regarding what is contained or depicted in the material and where the material has been posted. After receiving a complaint, the Commissioner assesses the material complained of to determine the appropriate course of action, which may include liaising with the relevant platform for the material to be removed.
 
-## Abhorrent Violent Material
+# Abhorrent Violent Material
 
 **See overview by Georgie Vine about the [Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](https://www.youtube.com/watch?v=a8qDarI5mCM)**
 
@@ -223,9 +237,9 @@ The _[Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](
 
 There are a few defences to the new offences, including material distributed by journalists; material used for scientific, medical, academic or historical research; and the exhibition of artistic works.
 
-## Other emerging issues
+# Other emerging issues
 
-### Deepfakes
+## Deepfakes
 
 **See [an explanation of deepfakes](https://youtu.be/cLHdOJr7v5w) by Eric Briese**
 
