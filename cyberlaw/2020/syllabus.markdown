@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 2020 Syllabus
-nav_order: 2020
+#nav_order: 2020
+nav_exclude: true
 ---
 
 # LLB345 Regulating the Internet, Sem 2, 2020
