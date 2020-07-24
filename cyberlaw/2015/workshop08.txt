@@ -1,0 +1,79 @@
+# Week 8: Regulating the Domain Name System
+
+## What do I need to do?
+
+* Watch 6 videos by Rita Matulionyte: https://www.youtube.com/playlist?list=PL8bhn3ohfmsfF7iap-VxNWR1MYu7zRu7O
+* Download the lecture slides from the Dropbox folder: https://goo.gl/WvWcdJ (08 Domain Names and Trade Marks.pptx)
+* Read: 2001 WIPO Joint Recommendation on the use of Concerning Provisions on the Protection of Marks, and Other Industrial Property Rights in Signs, on the Internet, available at http://www.wipo.int/edocs/pubdocs/en/marks/845/pub845.pdf
+* Read: auDA’s .au Dispute Resolution Policy: http://www.auda.org.au/policies/2010-05/
+* Read: auDA, ‘Domain Name Eligibility and Allocation Policy Rules for the Open 2LDs’, http://www.auda.org.au/policies/2012-04/
+* Optional reading: Fitzgerald et al Textbook, Ch 6.
+* Help edit our textbook: [[:cyberlaw:dns]]
+* Prepare ￼answers to the discussion questions below; come to class prepared or post your answers to the discussion board.
+
+## Teach-the-class questions
+
+1. Explain who controls the DNS system and the organisation's role in internet governance. Why has this been controversial?
+
+2. Explain the recent release of new generic top-level domain names. What are the justifications for these new TLDs?
+
+3. Explain the rules for obtaining domain names within the .au Country Code Top Level Domain name space.
+
+4. Explain whether domains dedicated to criticising other businesses are entitled to use a trade mark in their name (e.g. the 'sucks' cases).
+
+5. Explain the circumstances in which selling or offering to sell a domain name will constitute 'bad faith'
+
+6. Explain the meaning of the "rights or legitimate interests" test in the UDRP
+
+7. Explain "Reverse domain hijacking" and how it can be prevented.
+
+8. Explain "cybersquatting" and how it can be prevented.
+
+9. Explain the defensive steps a business can take to protect its trade marks in the domain name system (importantly, also explain when it is likely to be efficient to take these steps) (e.g. should a business register its name in multiple TLDs? to what extent should it register common typos or mis-spellings?)
+
+## Discussion questions
+
+1. It is often said that the UDRP process favours trade mark owners. How appropriately are free speech interests protected in terms of domain names that criticise or ridicule trade mark owners?
+
+2. Domain names can be very valuable. Should the law encourage speculation in the domain name market as free-market enterprise, or condemn it as ‘cyber-squatting’?
+
+3. What happens when two or more entities from different jurisdictions each have a legitimate interest in a particular domain name? Is there a better way to resolve disputes than a first-come-first-served priority system?
+
+## Workshop questions
+
+
+### Domain names and UDRP
+
+The Complainant MCD Asia owns and operates the chain of McDonalds Family Restaurants in Australia. In 2013 certain McDonald’s restaurants started offering home delivery services under the name “McDelivery.” The Complainant is the holder of a trade mark for MCDONALDS and various other trade marks with the “Mc” prefix, as well as an Australian trade mark MCDELIVERY which has been registered from October 17, 2013.
+
+The Domain Name <mcdelivery.com.au> was created on June 3, 2014 by a Respondent David J. The Domain Name currently redirects to a website operated by the Registrar, which states that “This domain name has been listed for sale by the domain registrant.” (the “Respondent’s Website”).
+
+The Claimant requests transferring the domain name mcdelivery.com.au.
+
+The Respondent claims that on June 3, 2014, it registered the **MCDelivery.com.au** (Respondent’s emphasis) Domain Name as part of a business offering MC (Master of Ceremony) services for hire. The Respondent operates a business as a DJ in Brisbane and a second business known as “Love in Letters.” The Respondent had no intention to trade in the same business as the Complainant. 
+
+The Respondent’s explanation for the listing of the Domain Name for sale is “As for the domain name having being listed for sale so quickly, this was simply a case of creating another financial opportunity rather than having a dormant domain name whilst finalising the commitment to a potential business venture.”
+
+Your group is representing the complainant. How would you argue?
+
+
+### Past exam
+<WRAP help round>
+To help you prepare for the exam, we will mark your answers to this past exam question at the end of Week 10. You must work in groups of at least 4 people. Please email your answer to Nic [n.suzor@qut.edu.au](mailto:n.suzor@qut.edu.au) before Sunday 27 September. 
+
+If you are having trouble finding a group, please post to the discussion board. If you still cannot find a group, you may help us improve [this document](http://piratepad.net/TzNBgauX1R) to fill out a collaborative answer.
+
+You should create a shared document using [Google Docs](http://docs.google.com) or [Pirate Pad](http://piratepad.net/).
+</WRAP>
+
+You represent Kate Dotorgdotau, an eccentric internet baroness who has recently moved to Tasmania, where she raises giraffe and carries on her web business, Pico.org.au. Pico Pty Ltd is a filelocker service where users can upload their content onto its webservers for others to access. Pico is a registered trademark of Pico Pty Ltd. Pico's chief unique selling proposition is that her servers are located in Australia, and all user content is encrypted with a unique key, which means that neither Kate nor any other unauthorised person can access the data that users upload. As part of its emphasis on privacy, Pico does not store any logs of the IP addresses of downloaders who have accessed a file or the uploaders who place it there. Uploaded files are only stored for a maximum of 24 hours; they are automatically deleted after that time.
+
+Kate makes money by: (1) charging uploaders a fixed fee to store their content on her servers; (2) displaying advertisements to downloaders; and (3) offering higher speed downloads to downloaders who subscribe to the 'premium' service for a monthly fee. Pico's profit scales with the popularity of the content users share on its server – the more people who download from its servers, the more advertising revenue it generates. In order to ensure high speeds, she purchased a small ISP which leases a series of fibreoptic cables providing high throughput domestic and international connectivity (Pico Pty Ltd is therefore a 'carriage service provider' for the purposes of the relevant Telecommunications legislation). The standard form agreement that uploaders and premium subscribers sign when registering for the site includes a clause that provides: “You warrant that you will not use this service in a way that is illegal or infringes on the rights of any third party. Pico reserves the right to terminate this agreement at any time for any breach of this clause” (Clause 23). 
+
+Over the last few months, Pico has been receiving allegations from copyright owners that certain files on its site infringe on their rights. The notices all explain that the copyright owner has a good faith belief that the material is owned by them and stored on Pico's servers without licence, and include a demand that Pico delete the infringing file and terminate the account of the uploader. Pico automatically responds to rightsholders that that it would ordinarily be happy to comply with their request, but that since it is unable to verify their claims of infringement, it would only terminate its users' accounts if they are found to have infringed copyright on three occasions within a twelve month period by a competent court of law. Pico also notes in its response that the file will automatically be deleted within twenty four hours. 
+
+Recently, Pico has been suffering some downtime due to Distributed Denial-of-Service (DDoS) attacks. It believes these were initiated by representatives of copyright owners who have been seeking to shut the site down. It has traced the IP addresses of some computers involved in the attack to Elephant Investigations, a private investigations firm that operates out of Vanuatu. Kate also believes that Elephant has been downloading files from its website in order to identify potentially infringing material, and that Elephant is the source of the data that underpins the notices of infringement that it has been receiving. In response, Kate has placed a prominent message on the Pico website that requires any visitors to agree to the terms of use before proceeding. One of the clauses of the contract reads: “Access to this website is prohibited to any private investigator, any person employed by a private investigation firm, including, without limitation, any employee of Elephant Investigations.” Users must click 'I accept' before being able to download any files. Kate hopes that this will be sufficient to trigger criminal responsibility if Elephant's employees seek to access her website.
+
+As tensions begin to escalate between Kate and Sergio, the proprietor of Elephant Investigations, Sergio decides to try to gain support for a public campaign against Pico. Sergio registers the domain names pico.com.au and pico-sucks.com.au. Websites on both domains display a video which attempts to educate users not to download infringing content from Pico. The websites clearly state that they are not affiliated with Pico in any way. Sergio has also apparently managed to compromise Pico's server and accessed its billing system; Sergio now has gained access to the email addresses of all of Pico's registered clients. Sergio starts to send email out from the address pico@pico.com.au to all of Pico's client list, warning them not to use the Pico system. The emails contain a link at the bottom to Elephant's website.
+
+Advise Pico Pty Ltd. Confine your answer to Australian law.

@@ -1,0 +1,77 @@
+# Week 6: Safe harbours from intermediary liability
+
+## What do I need to do?
+
+* Watch five videos on YouTube: https://www.youtube.com/playlist?list=PL6zgvy7Uc6fXcGmqT6E8FzN93xyHody_L
+* Textbook: [[:cyberlaw:intermediaries_safe_harbours]]
+* Read: Roadshow Films Pty Ltd v iiNet Ltd [[2011] FCAFC 23](http://www.austlii.edu.au/au/cases/cth/FCAFC/2011/23.html) (Only the parts of the Full Federal Court's decision about the safe harbours)
+* Read: Lawrence Lessig, “Make way for Copyright Chaos”, New York Times (18 March 2007) http://www.nytimes.com/2007/03/18/opinion/18lessig.html
+* Recommended Reading:  Textbook Chapter 12, paragraphs [12.340]-[12.430] 
+* Prepare ￼answers to the discussion questions below; come to class prepared or post your answers to the discussion board.
+
+## ￼￼￼￼￼Discussion questions
+
+1. What is a ‘repeat infringer’?
+
+2. How should the phrase ‘in appropriate circumstances’ in Copyright Act 1968 ￼￼￼￼￼(Cth) s 116AH (1) be interpreted in relation to peer-to-peer filesharing users, like those in Sharman? Should it be interpreted the same way in relation to subscribers of internet service providers like iiNet?
+
+3. John Gilmore famously said that “The Net interprets censorship as damage ￼￼and routes around it.” In the last decade, however, it has become clear that significant regulatory results can be reached by applying pressures on internet chokepoints – ISPs, search engines, and popular sites. Can you articulate a basis for when we should allow private parties to sue the intermediaries who enable others to infringe their rights?
+
+4. Sites like Youtube rely heavily on the copyright safe harbours. Do the notice ￼￼and takedown provisions in the US and Australian safe harbours effectively balance the rights of copyright owners with the desire to promote innovation? 
+
+5. Critically analyse the copyright safe harbours from the point of view of a user ￼￼who is the subject of a takedown notice. Do they effectively balance the rights of copyright owners with the free speech interests of users?
+
+## Teach-the-class video topics
+
+1. Explain ss [39B](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s39b.html) and [112E](http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s112e.html) of the _Copyright Act 1968_ (Cth) and how the High Court interpreted these provisions in _[Roadshow Films v iiNet](http://www.austlii.edu.au/au/cases/cth/HCA/2012/16.html)_.
+
+2. Explain the Viacom v Google litigation. On what basis did Google qualify for the safe harbours?
+
+3. Explain why iiNet was held not to be able to rely on the Safe Harbours in the Full Federal Court's decision in _iiNet v Roadshow_ [2011] FCAFC 23 http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FCAFC/2011/23.html
+
+4. Explain the court's decision regarding the US safe harbors in _A&M Records v Napster_, 239 F.3d 1004 (2001) 
+
+5. Explain the court's decision regarding the US safe harbors in _In re: Aimster_, 334 F.3d 643 (7th Cir. 2003)
+
+6. Explain the court's decision regarding the US safe harbors in _Ellison v Robertson_, 357 F.3d 1072 (9th Cir. 2004)
+
+7. Explain the court's decision regarding the US safe harbors in _Perfect 10 v CCBill_, 488 F.3d 1102 (9th Cir. 2007)
+
+8. Explain how Section 230 of the Communications Decency Act (US) operates to immunise online intermediaries.
+
+9. Explain how BSA Sch 5, Cl 91 operated to invalidate suppression orders in Fairfax Digital Australia & New Zealand Pty Ltd v Ibrahim [2012] NSWCCA 125 (13 June 2012).
+
+10. Explain how the Notice and Takedown regime operates in rr 20G - 20M of the Copyright Regulations http://www.austlii.edu.au/au/legis/cth/consol_reg/cr1969242/
+
+11. Explain what protections exist to prevent fraud or abuse of the notice and takedown system in Australia (see [Reg 20X](http://www.austlii.edu.au/au/legis/cth/consol_reg/cr1969242/s20x.html)) and the US (see, e.g. [Automattic v Steiner](http://blog.ericgoldman.org/archives/2015/03/it-takes-a-default-judgment-to-win-a-17-usc-512f-case-automattic-v-steiner.htm)). How effective are these systems? (See further http://copyrightalliance.org/2015/03/dmca_abuse_and_meaning_good_faith)
+
+
+
+## Workshop questions
+
+### 1. Past Exam Question
+
+Revisit the past exam question that we looked at last week. Can Elephant rely on a safe harbour? 
+
+### Group work: Website blocking
+
+You are the judiciary of the Federal Court of Australia. Roadshow Films has applied to the court seeking an injunction under s.115A Copyright Act against iiNet, to require iiNet to block the following websites:
+  * The Pirate Bay
+  * Newzbin (a Usenet indexing website)
+  * Pinterest
+Your job is to determine whether to grant the injunction. What do you conclude, upon an application of s.115A?
+
+What do you learn from this exercise? How well is s.115A likely to work in practice? Is it clear? Is it a desirable law?
+
+### Past exam
+
+You represent Kate Dotorgdotau, an eccentric internet baroness who has recently moved to Tasmania, where she raises giraffe and carries on her web business, Pico.org.au. Pico Pty Ltd is a filelocker service where users can upload their content onto its webservers for others to access. Pico is a registered trademark of Pico Pty Ltd. Pico's chief unique selling proposition is that her servers are located in Australia, and all user content is encrypted with a unique key, which means that neither Kate nor any other unauthorised person can access the data that users upload. As part of its emphasis on privacy, Pico does not store any logs of the IP addresses of downloaders who have accessed a file or the uploaders who place it there. Uploaded files are only stored for a maximum of 24 hours; they are automatically deleted after that time.
+
+Kate makes money by: (1) charging uploaders a fixed fee to store their content on her servers; (2) displaying advertisements to downloaders; and (3) offering higher speed downloads to downloaders who subscribe to the 'premium' service for a monthly fee. Pico's profit scales with the popularity of the content users share on its server – the more people who download from its servers, the more advertising revenue it generates. In order to ensure high speeds, she purchased a small ISP which leases a series of fibreoptic cables providing high throughput domestic and international connectivity (Pico Pty Ltd is therefore a 'carriage service provider' for the purposes of the relevant Telecommunications legislation). The standard form agreement that uploaders and premium subscribers sign when registering for the site includes a clause that provides: “You warrant that you will not use this service in a way that is illegal or infringes on the rights of any third party. Pico reserves the right to terminate this agreement at any time for any breach of this clause” (Clause 23). 
+
+Over the last few months, Pico has been receiving allegations from copyright owners that certain files on its site infringe on their rights. The notices all explain that the copyright owner has a good faith belief that the material is owned by them and stored on Pico's servers without licence, and include a demand that Pico delete the infringing file and terminate the account of the uploader. Pico automatically responds to rightsholders that that it would ordinarily be happy to comply with their request, but that since it is unable to verify their claims of infringement, it would only terminate its users' accounts if they are found to have infringed copyright on three occasions within a twelve month period by a competent court of law. Pico also notes in its response that the file will automatically be deleted within twenty four hours. 
+
+Recently, Pico has been suffering some downtime due to Distributed Denial-of-Service (DDoS) attacks. It believes these were initiated by representatives of copyright owners who have been seeking to shut the site down. It has traced the IP addresses of some computers involved in the attack to Elephant Investigations, a private investigations firm that operates out of Vanuatu. Kate also believes that Elephant has been downloading files from its website in order to identify potentially infringing material, and that Elephant is the source of the data that underpins the notices of infringement that it has been receiving. In response, Kate has placed a prominent message on the Pico website that requires any visitors to agree to the terms of use before proceeding. One of the clauses of the contract reads: “Access to this website is prohibited to any private investigator, any person employed by a private investigation firm, including, without limitation, any employee of Elephant Investigations.” Users must click 'I accept' before being able to download any files. Kate hopes that this will be sufficient to trigger criminal responsibility if Elephant's employees seek to access her website.
+
+As tensions begin to escalate between Kate and Sergio, the proprietor of Elephant Investigations, Sergio decides to try to gain support for a public campaign against Pico. Sergio registers the domain names pico.com.au and pico-sucks.com.au. Websites on both domains display a video which attempts to educate users not to download infringing content from Pico. The websites clearly state that they are not affiliated with Pico in any way. Sergio has also apparently managed to compromise Pico's server and accessed its billing system; Sergio now has gained access to the email addresses of all of Pico's registered clients. Sergio starts to send email out from the address pico@pico.com.au to all of Pico's client list, warning them not to use the Pico system. The emails contain a link at the bottom to Elephant's website.
+Advise Pico Pty Ltd. Confine your answer to Australian law.

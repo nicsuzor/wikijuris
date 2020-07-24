@@ -1,0 +1,78 @@
+# Week 3: Intermediary liability - general issues
+
+## What do I need to do?
+
+* Watch 4 videos: https://www.youtube.com/playlist?list=PL6zgvy7Uc6fWOPAFUMciZVrt-aB1rCD5F
+* Lecture notes and open textbook: [[:cyberlaw:intermediaries_general]]
+* Main reading: Jack Goldsmith & Tim Wu, ‘[Digital Borders](http://www.legalaffairs.org/issues/January-February-2006/feature_goldsmith_janfeb06.msp)’, Legal Affairs (Jan. 2006) 
+* Answer the discussion questions below in the discussion board
+* Prepare for the workshop or post your answers to the workshop questions on the discussion board
+
+## Teach the Class topics
+
+* explain why plaintiffs don't usually sue end users over low value claims (you should consider both the high costs and the PR problems associated with suing individuals -- particularly customers)
+
+* explain how s 313 of the Telecommunications Act has been used to block websites in Australia
+
+* explain what else s 313 of the Telecommunications Act is typically used for
+
+* explain the operation of new s 115A introduced by Copyright Amendment (Online Infringement) Act 2015 (Cth)
+
+* Explain the operation of the new Children's e-safety commissioner 
+
+* Explain how regulators attempted to shut down wikileaks by preventing donations through Paypal and other payment processors
+
+* Explain how bitcoin works and why it is harder to regulate than Government currencies
+
+* Explain the work that Mastercard and Visa do to control the sale of counterfeit goods on online marketplaces
+
+* Explain why there are freedom of speech issues that arise when intermediaries are asked to block content online
+
+* Explain to a non-technical audience how ISP-level website filtering works and how it can be circumvented
+
+## Workshop questions
+
+### 1. Discussion: Goldsmith & Wu's article. 
+
+To what extent does this article convincingly rebuff the arguments made by John Perry Barlow and Johnson & Post that we studied in Week 1?
+
+Some points of discussion:
+
+* A borderless internet. To what extent does the internet we know reflect geography? Is this good?
+* "Information wants to be free'. What are the value-laden assumptions made here? Do we agree with them?
+* "We now risk a race to the bottom," predicted Alan Davidson of the Center for Democracy and Technology, in which "the most restrictive rules about Internet content—influenced by any country—could have an impact on people around the world." Has this fear been borne out?
+* Why did Yahoo capitulate?
+* Is it good that Yahoo capitulates to France? What about to China?
+
+
+Go back to Barlow's claims:
+
+1. The internet is unregulable. What's Goldsmith & Wu's answer?
+
+2. The internet should not be regulated by territorial governments. What do Goldsmith & Wu say?
+
+
+
+### 2. Regulating users
+
+1. What is the theoretical justification for imposing liability on intermediaries for the acts of their users?
+
+2. What can go wrong when intermediaries are legally liable for posts made by others?
+
+3. How can the law protect users against fraudulent or incorrect complaints made by third parties to intermediaries?
+
+
+
+### 3. Group work: regulating hate speech online
+
+Your table is a practice group representing {Facebook, an anti-abuse advocacy group, or a civil libertarian organisation}. You are twenty minutes away from a negotiation meeting, mediated by the Australian Department of Online Law Enforcement. The Australian Government is very keen to do something to reduce the amount of hate speech, particularly gender-based hate speech, on the internet. 
+
+The last meeting did not go very well - we barely got through opening remarks. The Government has called a follow-up. The Attorney-General's department is clearly not impressed with the attitude of US-based social network companies that they will set and enforce their own content standards.
+
+In particular, the government points to the recent issues faced by Clementine Ford, who was banned from Facebook after naming and shaming some of the people who had sent her graphic abuse. See, e.g.:
+
+* http://www.smh.com.au/entertainment/tv-and-radio/clementine-ford-talks-about-sunrise-and-shaming-online-abusers-on-the-project-20150626-ghy815.html
+
+* Warning - graphic content / offensive language: http://www.buzzfeed.com/lanesainty/a-woman-has-been-banned-from-facebook-after-sharing-the-abus#.ujRy5blnX
+
+Prepare your list of talking points for the meeting.

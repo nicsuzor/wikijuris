@@ -1,0 +1,99 @@
+# Week 04: Intermediary liability for defamation
+
+## What do I need to do?
+
+* Watch 3 videos: https://www.youtube.com/playlist?list=PL6zgvy7Uc6fVPltZPJp-ZZgYOnItcQ2y4
+* Lecture notes and open textbook: [[:cyberlaw:intermediaries_defamation]]
+* Main reading: David Rolph, ‘Publication, Innocent Dissemination and the Internet after Dow Jones & Co Inc v Gutnick’ (2010) 33 University of New South Wales Law Journal 562 http://www.austlii.edu.au/au/journals/UNSWLJ/2010/24.pdf
+* Answer the discussion questions below in the discussion board
+* Prepare for the workshop or post your answers to the workshop questions on the discussion board
+
+## Prescribed reading
+
+*  David Rolph, ‘Publication, Innocent Dissemination and the Internet after Dow Jones & Co Inc v Gutnick’ (2010) 33 University of New South Wales Law Journal 562 http://www.austlii.edu.au/au/journals/UNSWLJ/2010/24.pdf
+* Broadcasting Services Act 1992 (Cth) Schedule 5, cl 91 http://www.austlii.edu.au/au/legis/cth/consol_act/bsa1992214/sch5.html
+* Defamation Act 2005 (Qld) s 32 http://www.austlii.edu.au/au/legis/qld/consol_act/da200599/s32.html
+* Communications Decency Act 1996 (US) s 230 (codified at 47 USC § 230) http://www.law.cornell.edu/uscode/47/230.html
+
+## Optional reading
+
+* Textbook Ch 12, paragraphs [12.780]-[12.880] Defamation
+
+## Teach the class topics
+
+* Explain the key facts and major holdings of _Trkulja v Google Inc, Google Australia Pty Ltd_ [2012] VSC 533; 
+
+* Explain the key facts and major holdings of _Trkulja v Yahoo! Inc LLC_ [2012] VSC 88
+
+* Explain the key facts and major holdings of _Visscher v Maritime Union of Australia (No 6)_ NSWSC 350
+
+* Explain the key facts and major holdings of _Duffy v Google Inc_ [2011] SADC 178
+
+* Explain the key facts and major holdings of _Rana v Google Australia Pty Ltd_ [2013] FCA 60
+
+* Explain the key facts and major holdings of _Bleyer v Google Inc LLC_ (2014) 311 ALR 529
+
+* Explain the key facts and major holdings of _Crookes v Newton_ [2011] 3 SCR 269, where a majority of the Canadian Supreme Court found that ‘[m]aking reference to the existence and/or location of content by hyperlink or otherwise, without more, is not publication of that content.’
+
+* Explain the key facts and major holdings of _Silberberg v Builders Collective of Australia Inc_ 164 FCR 475 (on intermediary liability for racial vilification) 
+
+* Explain the key facts and major holdings of _Clarke v Nationwide News Pty Ltd_ (2012) 289 ALR 345 (on intermediary liability for racial vilification) 
+
+
+## Discussion questions
+
+1. Compare CDA s 230 with the BSA Sch 5 Cl 91. How does the Australian approach differ from the US approach?
+2. Do the contours of intermediary liability for defamatory material in Australia provide adequate safeguards for freedom of speech?
+3. Do some quick research to identify the law for intermediary liability for trade mark infringement in Australia. Are they similar to those for intermediary liability for defamation? Should similar principles apply?
+
+## Workshop exercises
+
+### Question 1: Discussion question
+
+Read David Rolph, ‘Publication, Innocent Dissemination and the Internet after Dow Jones & Co Inc v Gutnick’ (2010) 33 University of New South Wales Law Journal 562 http://www.austlii.edu.au/au/journals/UNSWLJ/2010/24.pdf
+
+Think about the development of defamation law over the last decade. To what extent does it:
+
+* provide a useful mechanism for enforcing defamation law?
+* promote investment in innovative internet services in Australia?
+* strike an appropriate balance between the rights of plaintiffs and the freedom of speech of individuals?
+
+### Question 2
+
+In which of the following contexts is an intermediary likely to be liable for defamation?((examples stolen from EFF's Bloggers Guide (CC BY): https://www.eff.org/issues/bloggers/legal/liability/defamation))
+
+1. A commenter in a discussion board calling a lawyer a "crook"
+
+1. A commenter in a discussion board describing a woman as a call girl
+
+1. A commenter in a discussion board calling a TV show participant a "local loser," "chicken butt" and "big skank"
+
+1. A commenter on a news article calling a politician a "thief" and "liar" for reneging on a promise
+
+1. A commenter on a news article accusing a minister of unethical conduct
+
+1. A subscriber of an internet service provider repeatedly leaving false reviews on different review sites for a local businessperson, claiming them to be corrupt
+
+1. A Skype user calling someone a thief to her two close friends
+
+1. A Skype user calling someone a thief to her (figurative) face
+
+1. Someone falsely claiming on facebook that a chain restaurant uses rats in its cooking.
+
+1. A discussion board participant claiming, without providing evidence, that they thought a local politician "looked creepy"
+
+### Question 3 (2012 exam q2)
+
+MugBook is an immensely popular social media web service. It is available in 200 or so countries around the world, and is used by approximately 500 million individuals and businesses.
+
+Mugbook allows people to create profiles, which can display photographs, text and other media that others can download and view. They can also use the service to store files privately and in a way in which those files cannot readily be viewed by others. Making changes to a user’s profile, or accessing stored files requires knowledge of that user’s password. Organisations (including businesses) can also create Mugbook profiles, upon which they can make product announcements, communicate with their customers and receive comments and feedback from customers.
+
+Julie Ann is a well known advocate for reducing the world's dependence on fossil fuels in the generation of electricity who has a MugBook profile. Julie Ann lives in Brisbane, Australia.
+
+Graham Garner, who works for a global coal mining business, is based in New York City in the United States. Graham has created a company profile on MugBook called, ‘Has Julie Ann lied to you?’ The profile contains, among other similar accusations, the following words: ‘those who allege that fossil fuels are to blame for climate change are liars and cheats’. In addition to this material Graham has posted, other people who use Mugbook have also posted comments to this MugBook site. Some of the comments posted by others are also highly inflammatory and possibly defamatory of Julie Ann. Among other things, those comments include the following postings: ‘Julie Ann is a corrupt cow and is in the pocket of the green movement’; and ‘Julie Ann eats little children’.
+
+Graham has also set up a second MugBook site, which contains material that promotes, incites and instructs in respect of violence against fossil fuel activists. You may assume that the material is classified as 'Refused Classification' under the National Classification Code administered by the Australian Government Classification Board. Julie Ann is concerned about this Mugbook site.
+
+Julie Ann has her own MugBook profile, upon which she stores and displays photos of her friends and family and the social events she takes part in. Graham has hacked into Julie Ann’s MugBook profile, and copied all of the material there, including a file that contains Julie Ann’s health and other personal records.
+
+Julie Ann has come to you for advice. Advise Julie Ann. This week, focus only on the defamation issues.
