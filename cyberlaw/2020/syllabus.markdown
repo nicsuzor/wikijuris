@@ -93,7 +93,7 @@ You must be familiar with the legal principles arising from the main case law in
 
 # Copyright notice and takedown and the safe harbours
 
-### Watch
+## What do I need to do?
 
 * Watch 7 videos on notice and takedown: https://www.youtube.com/watch?list=PLa0bKPnUKQryiuRn-9LqoiIeMPtxeqV5u&v=VkP4EOQL2j4
 
