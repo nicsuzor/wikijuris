@@ -35,8 +35,8 @@ For example, when musicians become members of the Australasian Performing Rights
 
 An assignment __must be in writing__ and signed by the assignor to be effective. [^AUTOREPLACED_CA_ s 196(3) ENDREPLACE]
 
-[^AUTOREPLACED_CA_ s 196(3) ENDREPLACE]: _CA_ s 196(3)
 
+[^AUTOREPLACED_CA_ s 196(3) ENDREPLACE]: _CA_ s 196(3)
 
 When copyright is assigned, the assignee acquires full rights with respect to the copyright interest assigned - for example, they may licence the interest, assign it to someone else, or sue another person for copyright infringement. The assignor retains no special rights in relation to the work and may even be sued for infringement by the assignee.
 
@@ -52,8 +52,8 @@ A license is a permission to use copyright material in ways that would otherwise
 
 An exclusive license is "a licence in writing, signed by or on behalf of the owner or prospective owner of copyright, authorising the licensee, to the exclusion of all other persons, to do an act that … the owner of the copyright would, but for the licence, have the exclusive right to do". [^AUTOREPLACED _CA_ s 10(1) ENDREPLACE] s 10(1) Exclusive licences give the licensee the power to sublicense and the title to sue for infringement. [^AUTOREPLACED_CA_ s 119ENDREPLACE]
 
-[^AUTOREPLACED _CA_ s 10(1) ENDREPLACE]:  _CA_
 
+[^AUTOREPLACED _CA_ s 10(1) ENDREPLACE]:  _CA_
 [^AUTOREPLACED_CA_ s 119ENDREPLACE]: _CA_ s 119
 
 
@@ -72,8 +72,8 @@ Gratuitous licences may be revoked at any time. [^AUTOREPLACED_Trumpet Winsock v
 
 Licenses can be implied from the circumstances. A newspaper editor has an implied licence to publish letters to the editor. This is always subject to directions to the contrary. An implied license also exists to use commissioned copyright material for the purposes contemplated. [^AUTOREPLACED_Beck v Montana Constructions Pty Ltd_ (1963) WN (NSW) 1578ENDREPLACE]
 
-[^AUTOREPLACED_Beck v Montana Constructions Pty Ltd_ (1963) WN (NSW) 1578ENDREPLACE]: _Beck v Montana Constructions Pty Ltd_ (1963) WN (NSW) 1578
 
+[^AUTOREPLACED_Beck v Montana Constructions Pty Ltd_ (1963) WN (NSW) 1578ENDREPLACE]: _Beck v Montana Constructions Pty Ltd_ (1963) WN (NSW) 1578
 
  [1964-5] NSWR 229; (1963) WN (NSW) 1578__
 

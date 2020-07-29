@@ -69,8 +69,8 @@ The _TMA_ also offers extended protection to well-known marks, by granting prote
 
 The _TMA_ further permits the registration of trade marks that are not inherently distinctive but become distinctive through use. [^AUTOREPLACEDTMAs41ENDREPLACE]
 
-[^AUTOREPLACEDTMAs41ENDREPLACE]: _TMA_ s 41
 
+[^AUTOREPLACEDTMAs41ENDREPLACE]: _TMA_ s 41
 
 While there are significant differences between the 1955 Act and the _TMA_, many existing concepts were left in place in the current _Act_, and so cases decided under the 1955 Act are still relevant.
 
@@ -109,8 +109,8 @@ These elements will be outlined in more detail below.
 
 A sign includes the following or any combination of the following, namely: letter, word, name, signature, numeral, device, brand, heading, label, ticket, aspect of packaging, shape, colour, sound or scent. [^AUTOREPLACEDTMAs6ENDREPLACE]
 
-[^AUTOREPLACEDTMAs6ENDREPLACE]: _TMA_ s 6
 
+[^AUTOREPLACEDTMAs6ENDREPLACE]: _TMA_ s 6
 
 
 ### Used or Intended to be Used to Distinguish
@@ -120,8 +120,8 @@ Use ‘as a trade mark’ is use of the mark as a *badge of origin* whether the 
 
 Use of a trade mark in relation to goods/services also means use of the trade mark upon, or in physical or other relation to,  the goods (including secondhand goods) or services. [^AUTOREPLACEDTMAs74and5ENDREPLACE]
 
-[^AUTOREPLACEDTMAs74and5ENDREPLACE]: _TMA_ s 7(4) and (5)
 
+[^AUTOREPLACEDTMAs74and5ENDREPLACE]: _TMA_ s 7(4) and (5)
 
 
 ### Distinguishing Goods or Services in the Course of Trade
@@ -143,8 +143,8 @@ There are four types of trade marks which can be registered:
 
 1.  **Standard trade mark**: A sign used, or intended to be used, to distinguish goods or services dealt with or provided in the course of trade, from goods or services dealt with or provided by any other person. [^AUTOREPLACEDTMAs17ENDREPLACE]
 
-[^AUTOREPLACEDTMAs17ENDREPLACE]: _TMA_ s 17
 
+[^AUTOREPLACEDTMAs17ENDREPLACE]: _TMA_ s 17
 
 2.  **Collective trade mark**: A sign used by members of an association to distinguish goods or services provided by persons who are not members of that association. For example, *Industry Super Funds*
 
@@ -167,8 +167,8 @@ An aspect of packaging or part of a product may constitute a trade mark. For exa
 
 A shape may include the entirety of the goods. If the shape of the goods is not essential and is separate from the function of the goods, the shape can be registered as a trade mark. However, a shape cannot be registered if it is entirely functional. [^AUTOREPLACEDKoninklijkePhilipsElectronicsNVvRemingtonProductsAustraliaPtyLtd1999FCA816ENDREPLACE]
 
-[^AUTOREPLACEDKoninklijkePhilipsElectronicsNVvRemingtonProductsAustraliaPtyLtd1999FCA816ENDREPLACE]: *Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd* [1999] FCA 816
 
+[^AUTOREPLACEDKoninklijkePhilipsElectronicsNVvRemingtonProductsAustraliaPtyLtd1999FCA816ENDREPLACE]: *Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd* [1999] FCA 816
 
 In *Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks*, [^AUTOREPLACED2002FCAFC273ENDREPLACE] the 3D shape of an imaginary six-legged spider-like creature (the millennium bug), was capable of registration as a trade mark as it had no functional significance, was distinctive of the applicant's product and was not based on an actual bug that existed in nature.
 [^AUTOREPLACED2002FCAFC273ENDREPLACE]: [2002] FCAFC 273
@@ -182,8 +182,8 @@ However, in *[Koninklijke Philips Electronics NV v Remington Products Australia 
 
 Colour is an important element to brands. The colour often acts as a visual symbol provoking memories and attachment. Colour is expressly listed as able to constitute a sign. [^AUTOREPLACEDTMAs6ENDREPLACE]
 
-[^AUTOREPLACEDTMAs6ENDREPLACE]: _TMA_ s 6
 
+[^AUTOREPLACEDTMAs6ENDREPLACE]: _TMA_ s 6
 
 The legal requirements for colours to be trade marks are
 

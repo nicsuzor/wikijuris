@@ -66,8 +66,8 @@ The court of equity were interested in passing off, not as a form of fraud, but 
 
 Passing off has three core elements known as "the classic trinity". [^AUTOREPLACEDConAgraIncvMcCainFoodsAustPtyLtd199233FCR302at355356GummowJcitingReckittColmanProductsLtdvBordenInc1990RPC341at406andConsorziodelProsciuttodiPannavMarksandSpencerplc1991RPC351at368369TGIFridaysAustraliaPtyLtdvTGIFridaysInc199945IPR4325ENDREPLACE]
 
-[^AUTOREPLACEDConAgraIncvMcCainFoodsAustPtyLtd199233FCR302at355356GummowJcitingReckittColmanProductsLtdvBordenInc1990RPC341at406andConsorziodelProsciuttodiPannavMarksandSpencerplc1991RPC351at368369TGIFridaysAustraliaPtyLtdvTGIFridaysInc199945IPR4325ENDREPLACE]: *ConAgra Inc v McCain Foods (Aust) Pty Ltd* (1992) 33 FCR 302 at 355-356 (Gummow J) citing *Reckitt & Colman Products Ltd v Borden Inc* [1990] RPC 341 at 406 and *Consorzio del Prosciutto di Panna v Marks and Spencer plc* [1991] RPC 351 at 368-369; *TGI Friday’s Australia Pty Ltd v TGI Friday’s Inc* (1999) 45 IPR 43, [25]
 
+[^AUTOREPLACEDConAgraIncvMcCainFoodsAustPtyLtd199233FCR302at355356GummowJcitingReckittColmanProductsLtdvBordenInc1990RPC341at406andConsorziodelProsciuttodiPannavMarksandSpencerplc1991RPC351at368369TGIFridaysAustraliaPtyLtdvTGIFridaysInc199945IPR4325ENDREPLACE]: *ConAgra Inc v McCain Foods (Aust) Pty Ltd* (1992) 33 FCR 302 at 355-356 (Gummow J) citing *Reckitt & Colman Products Ltd v Borden Inc* [1990] RPC 341 at 406 and *Consorzio del Prosciutto di Panna v Marks and Spencer plc* [1991] RPC 351 at 368-369; *TGI Friday’s Australia Pty Ltd v TGI Friday’s Inc* (1999) 45 IPR 43, [25]
 
 1. That the plaintiff’s goods, business or get-up, including any brand name, enjoy a certain reputation or goodwill, to be recognised by the public as distinctive in the geographical area; and
 
@@ -94,13 +94,13 @@ To establish this element for the purpose of passing off, the following must be 
 
 Courts have taken a very liberal approach to this question – so, only even vaguely commercial activity would satisfy this – ie professional associations and charities. There is no requirement that the public be aware of the plaintiff’s identity as a proprietor, but only that the public think that the goods come from a particular source which in fact is the plaintiff. [^AUTOREPLACEDReckittColmanENDREPLACE]
 
-[^AUTOREPLACEDReckittColmanENDREPLACE]: *Reckitt & Colman*
-
-
-There is no need for plaintiff to be the only source of the goodwill attached to a particular trade indicia. The plaintiff may be one of many, perhaps hundreds who share in the goodwill attached to a particular indicia – ie *Advocaat case* and *Champagne Case* – the goodwill attached to Advocaat and Champagne respectively were shared by many manufactures. [^AUTOREPLACEDReckittColmanENDREPLACE]
 
 [^AUTOREPLACEDReckittColmanENDREPLACE]: *Reckitt & Colman*
-  Two traders may also be honest concurrent users of particular indicia, in which case each will not normally have an action against the other. This is because the first trader will not normally have had a sufficient reputation at the time the second-comer had also begun trading under the name.
+
+There is no need for plaintiff to be the only source of the goodwill attached to a particular trade indicia. The plaintiff may be one of many, perhaps hundreds who share in the goodwill attached to a particular indicia – ie *Advocaat case* and *Champagne Case* – the goodwill attached to Advocaat and Champagne respectively were shared by many manufactures. [^AUTOREPLACEDReckittColmanENDREPLACE]  Two traders may also be honest concurrent users of particular indicia, in which case each will not normally have an action against the other. This is because the first trader will not normally have had a sufficient reputation at the time the second-comer had also begun trading under the name.
+
+
+[^AUTOREPLACEDReckittColmanENDREPLACE]: *Reckitt & Colman*
 
 
 #### When must Reputation be Established?
@@ -132,10 +132,10 @@ The appeal was dismissed by the House of Lords, which agreed with the decision o
 
 ### Trade Indicia - Acquiring Secondary Meaning
 
-It is commonly held that descriptive marks must have acquired a secondary meaning, or secondary signification, indicating goods or services connected exclusively with the plaintiff. [^AUTOREPLACEDReckittColmanReddawayvBanhamENDREPLACE]
+It is commonly held that descriptive marks must have acquired a secondary meaning, or secondary signification, indicating goods or services connected exclusively with the plaintiff. [^AUTOREPLACEDReckittColmanReddawayvBanhamENDREPLACE]  Where a word has acquired a secondary meaning as indicating the plaintiff’s goods or services, it might be difficult for others to use it without committing a passing off.
+
 
 [^AUTOREPLACEDReckittColmanReddawayvBanhamENDREPLACE]: *Reckitt & Colman; Reddaway v Banham*
-  Where a word has acquired a secondary meaning as indicating the plaintiff’s goods or services, it might be difficult for others to use it without committing a passing off.
 
 However, using a descriptive term, rather than an inventive term, will require much more effort on the part of a plaintiff to establish a secondary meaning that the term is exclusively distinctive of the plaintiff’s goods.
 
@@ -160,10 +160,10 @@ Facts: 150 growers would have been entitled to use the description 'champagne'.
 Held: Name was distinctive of both place of origin and quality.
 
 #### Reputation established in the relevant jurisdiction
-The reputation must be established in the jurisdiction, but note that there is no requirement that the trader has actually traded in the jurisdiction, or even that their goods have been sold in the jurisdiction. Rather, reputation can be established by showing that people in the jurisdiction would be aware of the plaintiff’s reputation [^AUTOREPLACEDConAgraENDREPLACE]
+The reputation must be established in the jurisdiction, but note that there is no requirement that the trader has actually traded in the jurisdiction, or even that their goods have been sold in the jurisdiction. Rather, reputation can be established by showing that people in the jurisdiction would be aware of the plaintiff’s reputation [^AUTOREPLACEDConAgraENDREPLACE]  For sufficient reputation to be found there must also be a substantial number of persons in the jurisdiction who are aware of the plaintiff’s goods/services. [^AUTOREPLACEDConAgraperGummowJENDREPLACE]
+
 
 [^AUTOREPLACEDConAgraENDREPLACE]: *ConAgra*
-  For sufficient reputation to be found there must also be a substantial number of persons in the jurisdiction who are aware of the plaintiff’s goods/services. [^AUTOREPLACEDConAgraperGummowJENDREPLACE]
 
 [^AUTOREPLACEDConAgraperGummowJENDREPLACE]: *ConAgra* per Gummow J
 
@@ -214,8 +214,8 @@ A misrepresentation in passing off refers to conduct on the part of the trader w
 
 It is necessary to show that the defendant's conduct caused customers to be deceived. The misrepresentation must be capable of causing deception or foreseeable cause deception. [^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE] The misrepresentation may be express or implied, but it will usually be implied. Whether or not there has been a misrepresentation is ultimately question of fact for the court to determine. It is a matter of impression and there is no determinative factor that the court will necessarily turn to answer the question. [^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE]
 
-[^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE]: *AG Spalding v Gamage* (1915) 32 RPC 273
 
+[^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE]: *AG Spalding v Gamage* (1915) 32 RPC 273
 [^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE]: *Interlego Ag v Croner Trading Pty Ltd* (1992) 39 FCR 348
 . The existence of a misrepresentation is gauged by the court’s objective assessment of its impact on consumers.
 
@@ -241,8 +241,8 @@ Scope of protection:
 
 > “It is only if a plaintiff can establish that a defendant has invaded his “intangible property right” in his product by misappropriating descriptions which have become recognised by the market as distinctive of the product that the law will permit competition to be restricted. Any other approach would encourage monopoly.” [^AUTOREPLACEDat863CD44ENDREPLACE]
 
-[^AUTOREPLACEDat863CD44ENDREPLACE]: at 863 C-D [44]
 
+[^AUTOREPLACEDat863CD44ENDREPLACE]: at 863 C-D [44]
 
 
 __*Philips v Remington* (2000) 100 FCR 90__
@@ -291,8 +291,8 @@ Held: NSW SC found that consumers could be misled to thinking that the Henderson
 
 Proof of fraudulent misrepresentation is not necessary to prove passing off there is no requirement that deception be intended, but such an intention will be relevant to damages, and proof of an intention to deceive will assist in proving actual or likely deception (*ConAgra Inc v McCain Foods (Aust) Pty Ltd* (1992) 23 IPR 193; Cadbury Schweppes Pty Ltd v Pub Squash Co Pty Ltd (1980) 32 ALR 387). Deliberate appropriation of attractive features of a competitor’s product may lead to an inference of an intention to deceive. [^AUTOREPLACEDSydneywideDistributorsPtyLtdvRedBullAustraliaPtyLtd2002FCAFC157ENDREPLACE]
 
-[^AUTOREPLACEDSydneywideDistributorsPtyLtdvRedBullAustraliaPtyLtd2002FCAFC157ENDREPLACE]: *Sydneywide Distributors Pty Ltd v Red Bull Australia Pty Ltd* [2002] FCAFC 157
 
+[^AUTOREPLACEDSydneywideDistributorsPtyLtdvRedBullAustraliaPtyLtd2002FCAFC157ENDREPLACE]: *Sydneywide Distributors Pty Ltd v Red Bull Australia Pty Ltd* [2002] FCAFC 157
 
 The Full Federal Court in *Sydneywide Distributors Pty Ltd v Red Bull Australia Pty Ltd* [2002] FCAFC 157 held:
 
@@ -304,20 +304,20 @@ In determining intent to defraud the conduct of the defendant must be viewed as 
 
 Whether or not there has been deception or likely deception is tested against a group of relevant persons, which is generally the class of potential customers likely to be affected by or exposed to the conduct. It is necessary that a significant segment of the relevant class would be deceived. [^AUTOREPLACEDParkdaleENDREPLACE] [^AUTOREPLACEDParkdaleENDREPLACE]
 
-[^AUTOREPLACEDParkdaleENDREPLACE]: *Parkdale*
 
+[^AUTOREPLACEDParkdaleENDREPLACE]: *Parkdale*
 [^AUTOREPLACEDParkdaleENDREPLACE]: *Parkdale*
 
 
 In practice, the issue is not who is likely to be deceived but rather whether the court decides, based on all the evidence, that conduct is deceptive. To do this the court will place itself in the shoes of a representative member of the relevant class of consumers and assess whether this hypothetical reasonable consumer would likely be deceived. [^AUTOREPLACEDCampomarvNikeENDREPLACE]
 
-[^AUTOREPLACEDCampomarvNikeENDREPLACE]: *Campomar v Nike*
 
+[^AUTOREPLACEDCampomarvNikeENDREPLACE]: *Campomar v Nike*
 
 The hypothetical consumer will take reasonable care, will not be overly gullible or astute, experienced or inexperienced. [^AUTOREPLACEDParkdaleENDREPLACE]
 
-[^AUTOREPLACEDParkdaleENDREPLACE]: *Parkdale*
 
+[^AUTOREPLACEDParkdaleENDREPLACE]: *Parkdale*
 
 When considering whether conduct is likely to deceive the courts consider:
 
@@ -328,8 +328,8 @@ When considering whether conduct is likely to deceive the courts consider:
 
 Authority suggests misrepresentation must continue up until the point of sale and if cleared up before the point of purchase this will be insufficient for There must be likelihood of actual deception, mere confusion or a cause to wonder whether there is an association is not sufficient (*Parkdale*). However, if there is a deliberate attempt to create uncertainty, then this would amount to deception. [^AUTOREPLACEDLockhartJinBridgeStockbrokersvBridges19845IPR81ENDREPLACE] misrepresentation. [^AUTOREPLACEDCadburySchweppesENDREPLACE]
 
-[^AUTOREPLACEDCadburySchweppesENDREPLACE]: *Cadbury Schweppes*
 
+[^AUTOREPLACEDCadburySchweppesENDREPLACE]: *Cadbury Schweppes*
 [^AUTOREPLACEDLockhartJinBridgeStockbrokersvBridges19845IPR81ENDREPLACE]: Lockhart J in *Bridge Stockbrokers v Bridges* (1984) 5 IPR 81
 
 
@@ -365,8 +365,8 @@ Dilution may occur where there is a loss of to the distinctiveness of the produc
 
 It may be possible to avoid passing off by disclaiming any association with the plaintiff. To be effective any such disclaimer must be as bold, precise and compelling as the trade description itself and must be effectively brought to the notice of any person to whom the goods may be supplied. [^AUTOREPLACEDNormanvBennettENDREPLACE]
 
-[^AUTOREPLACEDNormanvBennettENDREPLACE]: *Norman v Bennett*
 
+[^AUTOREPLACEDNormanvBennettENDREPLACE]: *Norman v Bennett*
 
 It is far less likely that a disclaimer will neutralise the effect of a particularly distinctive trade mark. More often than not, courts will take the view that a disclaimer will not be noticed or understood or that it might be too easily removed. [^AUTOREPLACEDHutchencevSouthSeaBubbleCoENDREPLACE] A disclaimer will be less likely to be effective where goods are ‘low involvement goods’ – goods where purchasing decisions are made quickly and without much thought or examination - generally cheap goods.
 [^AUTOREPLACEDHutchencevSouthSeaBubbleCoENDREPLACE]: *Hutchence v South Sea Bubble Co*
@@ -385,8 +385,8 @@ Tamberlin J in *Twentieth Century Fox v South Australian Brewing*:
 
 There are two main remedies available for an action in passing off. These are injunctions and damages. In instances involving fraud, an account of profits may be sought. Further, where there is evidence of fraud exemplary damages may be sought. [^AUTOREPLACEDHoganvKoalaDundeePtyLtd1988FCA333PacificDunlopLtdvHogan1989FCA185andIrvinevTalksportLtd2002EWHC367CthENDREPLACE]
 
-[^AUTOREPLACEDHoganvKoalaDundeePtyLtd1988FCA333PacificDunlopLtdvHogan1989FCA185andIrvinevTalksportLtd2002EWHC367CthENDREPLACE]: Hogan v Koala Dundee Pty Ltd* [1988] FCA 333, *Pacific Dunlop Ltd v Hogan* [1989] FCA 185 and *Irvine v Talksport* Ltd [2002] EWHC 367 (Cth)
 
+[^AUTOREPLACEDHoganvKoalaDundeePtyLtd1988FCA333PacificDunlopLtdvHogan1989FCA185andIrvinevTalksportLtd2002EWHC367CthENDREPLACE]: Hogan v Koala Dundee Pty Ltd* [1988] FCA 333, *Pacific Dunlop Ltd v Hogan* [1989] FCA 185 and *Irvine v Talksport* Ltd [2002] EWHC 367 (Cth)
 
 ## Defences
 
@@ -427,8 +427,8 @@ Celebrity endorsements = Using a celebrity to endorse and contribute to the popu
 
 The elements of passing off for character merchandising and celebrity endorsements are:[^AUTOREPLACEDIrvinevTalksportLtd200257IPR621ENDREPLACE]
 
-[^AUTOREPLACEDIrvinevTalksportLtd200257IPR621ENDREPLACE]: *Irvine v Talksport Ltd* (2002) 57 IPR 621
 
+[^AUTOREPLACEDIrvinevTalksportLtd200257IPR621ENDREPLACE]: *Irvine v Talksport Ltd* (2002) 57 IPR 621
 
 * The subsistence of some reputation acquired by the fictional character or celebrity; and
 * A misrepresentation by the defendant; and

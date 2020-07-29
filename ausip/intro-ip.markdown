@@ -128,8 +128,8 @@ Although intellectual property law grants creators many exclusive rights, it als
 
 The most common justifications for intellectual property is the utilitarian justification. According to the US Constitution, intellectual property law exists, “[t]o promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries". [^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]
 
-[^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]: _US Constitution, Article 1, Section 8, Clause 8_
 
+[^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE]: _US Constitution, Article 1, Section 8, Clause 8_
 
 **Video overview of [The Utilitarian Justification for Intellectual Property](https://www.youtube.com/watch?v=KVpYFZ-FBdk).**
 

@@ -21,20 +21,20 @@ The content protected by Part IV is known as "subject matter other than works" o
 
 * Sound recordings; [^AUTOREPLACEDCAs89ENDREPLACE]
 
-[^AUTOREPLACEDCAs89ENDREPLACE]: _CA_ s 89
 
+[^AUTOREPLACEDCAs89ENDREPLACE]: _CA_ s 89
 * Cinematograph films; [^AUTOREPLACEDCAs90ENDREPLACE]
 
-[^AUTOREPLACEDCAs90ENDREPLACE]: _CA_ s 90
 
-* Television and sound broadcasts; [^AUTOREPLACEDCAs91ENDREPLACE]
+[^AUTOREPLACEDCAs90ENDREPLACE]: _CA_ s 90
+* Television and sound broadcasts; [^AUTOREPLACEDCAs91ENDREPLACE] and
+
 
 [^AUTOREPLACEDCAs91ENDREPLACE]: _CA_ s 91
- and
 * Published editions of works. [^AUTOREPLACEDCAs92ENDREPLACE]
 
-[^AUTOREPLACEDCAs92ENDREPLACE]: _CA_ s 92
 
+[^AUTOREPLACEDCAs92ENDREPLACE]: _CA_ s 92
 
 For these subject matter, there is no requirement of originality. Rights are granted to the "makers" of these subject matter. The terminology for the creator is different in Part III and IV - the creators of Part III works are called "authors" and the creators of Part IV subject matter are called "makers".
 
@@ -49,10 +49,10 @@ Copyright in Part IV subject matter is "in addition to, and independent of" any 
 
 ## Sound Recordings
 
-Copyright in sound recordings subsists by virtue of s 89 of the _Copyright Act_. "Sound recording" is defined in s 10 as "the aggregate of the sounds embodied in a record". [^AUTOREPLACEDCAs10ENDREPLACE]
+Copyright in sound recordings subsists by virtue of s 89 of the _Copyright Act_. "Sound recording" is defined in s 10 as "the aggregate of the sounds embodied in a record". [^AUTOREPLACEDCAs10ENDREPLACE] "Record", in turn, is defined to mean "a disc, tape, paper or other device in which sounds are embodied". [^AUTOREPLACEDCAs10ENDREPLACE] This definition is designed to be technology neutral and covers CDs, DVDs, electronic files etc.
+
 
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
- "Record", in turn, is defined to mean "a disc, tape, paper or other device in which sounds are embodied". [^AUTOREPLACEDCAs10ENDREPLACE] This definition is designed to be technology neutral and covers CDs, DVDs, electronic files etc.
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
 
 
@@ -71,8 +71,8 @@ Section 90 of the _Act_ provides for the subsistence of copyright in cinematogra
 
 This includes the aggregate of the sounds embodied in a sound track associated with such visual images". [^AUTOREPLACEDs101ENDREPLACE]
 
-[^AUTOREPLACEDs101ENDREPLACE]: s 10(1)
 
+[^AUTOREPLACEDs101ENDREPLACE]: s 10(1)
 
 The means by which a "moving picture" is produced is not relevant in determining whether the end result is a “film”.
 
@@ -160,8 +160,8 @@ The published edition copyright protects the layout and formatting of printed pa
 
 This type of protection was only introduced with the _Copyright Act 1968_, as such, there is no copyright protection afforded to published editions of books published before 1968. [^AUTOREPLACEDCAs224ENDREPLACE]
 
-[^AUTOREPLACEDCAs224ENDREPLACE]: _CA_ s 224
 
+[^AUTOREPLACEDCAs224ENDREPLACE]: _CA_ s 224
 
 
 **Video overview by Elizabeth Morrell on [Published Editions](https://www.youtube.com/watch?v=HPX8ojJ-R6A).**

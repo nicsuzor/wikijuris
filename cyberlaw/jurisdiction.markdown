@@ -43,8 +43,8 @@ _In the strict sense,_ jurisdiction "refers to the authority of a court to decid
 
 [^AUTOREPLACED_JohnPfeifferPtyLtdvRogerson_2000HCA36at25AUTOREPLACED]: _John Pfeiffer Pty Ltd v Rogerson_ [2000] HCA 36 at [25]
 
-[^AUTOREPLACEDCyberLawCentreInternetJurisdictionWhatIsJurisdictionwwwcyberlawcentreorggenl203212Jurisdictionv1pptxAUTOREPLACED]: Cyber Law Centre, 'Internet Jurisdiction - What Is Jurisdiction?' www.cyberlawcentre.org/genl2032/12Jurisdiction-v1.pptx
 
+[^AUTOREPLACEDCyberLawCentreInternetJurisdictionWhatIsJurisdictionwwwcyberlawcentreorggenl203212Jurisdictionv1pptxAUTOREPLACED]: Cyber Law Centre, 'Internet Jurisdiction - What Is Jurisdiction?' www.cyberlawcentre.org/genl2032/12Jurisdiction-v1.pptx
 
 
 [^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201158AUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 58
@@ -63,8 +63,8 @@ Generally, for a court to have personal jurisdiction over a defendant, the court
 
 Subject matter jurisdiction refers to the subject matter or types of actions that a court may hear and decide on. Courts are often limited with respect to the type of matter that they can hear as well as the amount in dispute. In Queensland, for instance, a money dispute of a value up to $150,000 can be resolved in the Magistrates Court,[^AUTOREPLACEDQueenslandCourtsMoneyDisputesunder150000httpswwwcourtsqldgovaugoingtocourtmoneydisputesmoneydisputesupto150000AUTOREPLACED]. At the national level, the Federal Circuit Court of Australia has exclusive jurisdiction to hear and determine civil disputes concerning copyright, designs, trade marks and plant breeder's rights, among other subject matter.[^AUTOREPLACEDFederalCircuitCourtofAustraliaIntellectualPropertyhttpwwwfederalcircuitcourtgovauwpswcmconnectfccwebgflintellectualpropertyAUTOREPLACED]
 
-[^AUTOREPLACEDQueenslandCourtsMoneyDisputesunder150000httpswwwcourtsqldgovaugoingtocourtmoneydisputesmoneydisputesupto150000AUTOREPLACED]: Queensland Courts, 'Money Disputes under $150,000' https://www.courts.qld.gov.au/going-to-court/money-disputes/money-disputes-up-to-150000
 
+[^AUTOREPLACEDQueenslandCourtsMoneyDisputesunder150000httpswwwcourtsqldgovaugoingtocourtmoneydisputesmoneydisputesupto150000AUTOREPLACED]: Queensland Courts, 'Money Disputes under $150,000' https://www.courts.qld.gov.au/going-to-court/money-disputes/money-disputes-up-to-150000
 
 
 [^AUTOREPLACEDFederalCircuitCourtofAustraliaIntellectualPropertyhttpwwwfederalcircuitcourtgovauwpswcmconnectfccwebgflintellectualpropertyAUTOREPLACED]: Federal Circuit Court of Australia, 'Intellectual Property' http://www.federalcircuitcourt.gov.au/wps/wcm/connect/fccweb/gfl/intellectual-property
@@ -143,8 +143,8 @@ In rem jurisdiction, which roughly translates to jurisdiction 'about or over a t
 
 The United States (US) _Anti-Cybersquating Protection Act_ establishes that the US has in rem jurisdiction over domain names.[^AUTOREPLACEDCatherineTStruveandRPolkWagnerRealspaceSovereignsinCyberspaceProblemswiththeAnticybersquattingConsumerProtectionActhttpsheinonlineorgHOLPagecollectionjournalshandleheinjournalsberktech17id1019men_tabsrchresultsAUTOREPLACED]
 
-[^AUTOREPLACEDCatherineTStruveandRPolkWagnerRealspaceSovereignsinCyberspaceProblemswiththeAnticybersquattingConsumerProtectionActhttpsheinonlineorgHOLPagecollectionjournalshandleheinjournalsberktech17id1019men_tabsrchresultsAUTOREPLACED]: Catherine T. Struve and R. Polk Wagner, 'Realspace Sovereigns in Cyberspace: Problems with the Anticybersquatting Consumer Protection Act' https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/berktech17&id=1019&men_tab=srchresults
 
+[^AUTOREPLACEDCatherineTStruveandRPolkWagnerRealspaceSovereignsinCyberspaceProblemswiththeAnticybersquattingConsumerProtectionActhttpsheinonlineorgHOLPagecollectionjournalshandleheinjournalsberktech17id1019men_tabsrchresultsAUTOREPLACED]: Catherine T. Struve and R. Polk Wagner, 'Realspace Sovereigns in Cyberspace: Problems with the Anticybersquatting Consumer Protection Act' https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/berktech17&id=1019&men_tab=srchresults
 
 
 **_Cable News network LP v Cnnnews.com 56 Fed. Appx._ 559 (4th Cir 2003)**
@@ -202,8 +202,8 @@ Courts can deny jurisdiction based on the “clearly inappropriate forum” or "
 
 Facts that a court can take into consideration when apply the Voth test follow:[^AUTOREPLACEDSpillasaMaritimeCorpvCansulexLtdAUTOREPLACED]
 
-[^AUTOREPLACEDSpillasaMaritimeCorpvCansulexLtdAUTOREPLACED]: Spillasa Maritime Corp v Cansulex Ltd
 
+[^AUTOREPLACEDSpillasaMaritimeCorpvCansulexLtdAUTOREPLACED]: Spillasa Maritime Corp v Cansulex Ltd
 
 
 * Connection between the chosen forum and the subject matter or parties;

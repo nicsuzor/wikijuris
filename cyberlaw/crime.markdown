@@ -156,8 +156,8 @@ A 'click-wrap' agreement is an online agreement where the user actively gives co
 
 Click-wrap and browse-wrap agreements differ from how the terms are incorporated to the agreement by reference. To be enforceable, it must be done by signature or reasonable notice.[^AUTOREPLACEDTollFGCTPtyLtdvAlphapharmPtyLtd2004219CLR165approvingLEstrangevFGraucobLtd19342KB394AUTOREPLACED] Click-wrap agreements do this by signature. Browse-wrap agreements attempt this through reasonable notice, but this is sometimes harder to enforce.[^AUTOREPLACEDHotmailCorporationvVanMoneyPieInc199847USPQ102AUTOREPLACED]
 
-[^AUTOREPLACEDTollFGCTPtyLtdvAlphapharmPtyLtd2004219CLR165approvingLEstrangevFGraucobLtd19342KB394AUTOREPLACED]: Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd (2004) 219 CLR 165 approving L’Estrange v F Graucob Ltd [1934] 2 KB 394.
 
+[^AUTOREPLACEDTollFGCTPtyLtdvAlphapharmPtyLtd2004219CLR165approvingLEstrangevFGraucobLtd19342KB394AUTOREPLACED]: Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd (2004) 219 CLR 165 approving L’Estrange v F Graucob Ltd [1934] 2 KB 394.
 
 
 [^AUTOREPLACEDHotmailCorporationvVanMoneyPieInc199847USPQ102AUTOREPLACED]: Hotmail Corporation v Van Money Pie Inc (1998) 47 USPQ 102.

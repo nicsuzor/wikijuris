@@ -50,16 +50,16 @@ Online copyright infringement provides a useful example of how lawmakers often u
 
 There are valid reasons for targeting intermediaries rather than suing the end users themselves. On the internet, users are often difficult to identify, contact and bring legal action against. Plus, they are many. Chasing individual users has been described as “a teaspoon solution to an ocean problem”.[^AUTOREPLACEDInReAimsterCopyrightLitigation334F3d6436457thCir2003PosnerCJquotingRandalCPickerCopyrightasEntryPolicyTheCaseofDigitalDistribution200247AntitrustBulletin423442AUTOREPLACED]
 
-[^AUTOREPLACEDInReAimsterCopyrightLitigation334F3d6436457thCir2003PosnerCJquotingRandalCPickerCopyrightasEntryPolicyTheCaseofDigitalDistribution200247AntitrustBulletin423442AUTOREPLACED]: In Re Aimster Copyright Litigation, 334 F.3d 643, 645 (7th Cir. 2003) (Posner CJ, quoting Randal C. Picker, ‘Copyright as Entry Policy: The Case of Digital Distribution’ (2002) 47 Antitrust Bulletin 423, 442).
 
+[^AUTOREPLACEDInReAimsterCopyrightLitigation334F3d6436457thCir2003PosnerCJquotingRandalCPickerCopyrightasEntryPolicyTheCaseofDigitalDistribution200247AntitrustBulletin423442AUTOREPLACED]: In Re Aimster Copyright Litigation, 334 F.3d 643, 645 (7th Cir. 2003) (Posner CJ, quoting Randal C. Picker, ‘Copyright as Entry Policy: The Case of Digital Distribution’ (2002) 47 Antitrust Bulletin 423, 442).
   Thus, there are legitimate efficiency reasons for suing just one entity – the intermediary – that might be able to have a real impact on the proliferation of unlawful activity online.
 
 Users have their own interests, however, such as being able to access content for education, self-development and self-expression. Users have interests in being able to creatively play with content to produce remixes, mash up and commentary. They have autonomy interests in being able to view or listen to content at times that are convenient for them. Users have their own speech interests. These interests can be easily forgotten in intermediary regulation, because we are trained to think of legal disputes as two party problems – the plaintiff on one side (in copyright cases, this is the content industry) and the defendant on the other (the intermediary). In this two-party framework, users do not have an opportunity to defend themselves or to present their interests. Often, courts or lawmakers simply presume that the majority of users are acting unlawfully and proceed with regulation on that basis.
 
 This is a concern because, as noted above, regulation can fundamentally impact users and how they are able to interact online. When courts and lawmakers are dictating the terms of the technology that allows people to access and engage with content online, then it is important that they recognise the full social consequences of those decisions. As Mark Lemley and R. Anthony Reese have argued, actions against intermediaries lack the granularity of suits against individuals:[^AUTOREPLACEDMarkALemleyandRAnthonyReeseReducingDigitalCopyrightInfringementWithoutRestrictingInnovation200456StanfordLawReview134513791380AUTOREPLACED]
 
-[^AUTOREPLACEDMarkALemleyandRAnthonyReeseReducingDigitalCopyrightInfringementWithoutRestrictingInnovation200456StanfordLawReview134513791380AUTOREPLACED]: Mark A. Lemley and R. Anthony Reese, ‘Reducing Digital Copyright Infringement Without Restricting Innovation’ (2004) 56 Stanford Law Review 1345, 1379-1380.
 
+[^AUTOREPLACEDMarkALemleyandRAnthonyReeseReducingDigitalCopyrightInfringementWithoutRestrictingInnovation200456StanfordLawReview134513791380AUTOREPLACED]: Mark A. Lemley and R. Anthony Reese, ‘Reducing Digital Copyright Infringement Without Restricting Innovation’ (2004) 56 Stanford Law Review 1345, 1379-1380.
 
 
 > For example, in the Grokster case, the Central District of California had to decide either to ban the distribution of software that permits users to connect to the Morpheus [file sharing] network or not to ban it. That essentially binary choice is ill-suited to the realities of the Morpheus network, over which individual end users trade lots of plaintiffs' content, trade some content that either is in the public domain or for which the copyright owner has given permission, trade some files of a type that tends not to be copyrighted at all, and trade significantly more content that might be copyrighted, but whose owner has neither granted permission for its use nor sought its removal by joining in the lawsuit.
@@ -80,12 +80,12 @@ The liberal basis of our legal system means that the law is comfortable with imp
 
 An important reason that the law does not impose liability for the failure to help someone else is a deep respect within the law for individual liberty. [^AUTOREPLACEDJohnStuartMillOnLibertyStartPublishingLLC2012ChapterIVOftheLimitstotheAuthorityofSocietyOvertheIndividualAUTOREPLACED]
 
-[^AUTOREPLACEDJohnStuartMillOnLibertyStartPublishingLLC2012ChapterIVOftheLimitstotheAuthorityofSocietyOvertheIndividualAUTOREPLACED]: John Stuart Mill, On Liberty (Start Publishing LLC, 2012), Chapter IV: Of the Limits to the Authority of Society Over the Individual.
 
+[^AUTOREPLACEDJohnStuartMillOnLibertyStartPublishingLLC2012ChapterIVOftheLimitstotheAuthorityofSocietyOvertheIndividualAUTOREPLACED]: John Stuart Mill, On Liberty (Start Publishing LLC, 2012), Chapter IV: Of the Limits to the Authority of Society Over the Individual.
   Under common law, individuals are free to act as they choose so long as those actions do not positively harm others. The law will not interfere with a person’s liberty by coercing her to act in aid of another where she has had no role in producing the other’s misfortune. Courts have consistently held that the common law does not impose positive duties to act based simply on one party’s need and another party’s ability to meet that need.[^AUTOREPLACEDSeeforexampleDorsetYachtCoLtdvHomeOffice1970AC1004SmithvLittlewoodsOrganisationLtd1987AC241AUTOREPLACED]
 
-[^AUTOREPLACEDSeeforexampleDorsetYachtCoLtdvHomeOffice1970AC1004SmithvLittlewoodsOrganisationLtd1987AC241AUTOREPLACED]: See, for example, Dorset Yacht Co Ltd v Home Office [1970] AC 1004; Smith v Littlewoods Organisation Ltd [1987] A.C. 241.
 
+[^AUTOREPLACEDSeeforexampleDorsetYachtCoLtdvHomeOffice1970AC1004SmithvLittlewoodsOrganisationLtd1987AC241AUTOREPLACED]: See, for example, Dorset Yacht Co Ltd v Home Office [1970] AC 1004; Smith v Littlewoods Organisation Ltd [1987] A.C. 241.
 
 
 An interesting question that arises with respect to internet intermediaries relates to the basis on which we purport to regulate them:

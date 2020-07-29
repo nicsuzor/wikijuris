@@ -18,8 +18,8 @@ Trade mark infringement occurs when a defendant uses a registered sign as a mark
 
 Not all uses of registered trade marks will be infringements. Uses which merely refer to a product or brand or other descriptive uses of a trade mark are not going to be infringements unless they are used in a way that amounts to use as a trade mark. This means that infringement only occurs if the sign is used in a way that seeks to distinguish products or services. [^AUTOREPLACEDShellCoAustLtdvEssoStandardOilAustLtd1963HCA66ENDREPLACE]
 
-[^AUTOREPLACEDShellCoAustLtdvEssoStandardOilAustLtd1963HCA66ENDREPLACE]: _Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd_ [1963] HCA 66
 
+[^AUTOREPLACEDShellCoAustLtdvEssoStandardOilAustLtd1963HCA66ENDREPLACE]: _Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd_ [1963] HCA 66
 
 **The below video by Nicolas Suzor provides an overview of [The Trademark Infringement Framework](https://www.youtube.com/watch?v=figyb5V4Q2o&list=PLa0bKPnUKQrxD942qJoDGW_7qbB6O6a7B&index=1).**
 
@@ -30,8 +30,8 @@ Not all uses of registered trade marks will be infringements. Uses which merely 
 
 Registration gives the registered owner the exclusive right to use the trade mark or authorise another person to use the trade mark in relation to the goods or services in which it is registered. [^AUTOREPLACEDTMAs201ENDREPLACE] The trade mark owner also has the right to obtain relief if the trade mark has been infringed. [^AUTOREPLACEDTMAs202ENDREPLACE]
 
-[^AUTOREPLACEDTMAs201ENDREPLACE]: _TMA_ s 20(1)
 
+[^AUTOREPLACEDTMAs201ENDREPLACE]: _TMA_ s 20(1)
 [^AUTOREPLACEDTMAs202ENDREPLACE]: _TMA_ s 20(2)
 
 
@@ -45,18 +45,18 @@ Section 120 of the _TMA_ sets out the three ways in which a trade mark can be in
 
 1. A person uses, as a trade mark, a sign that is substantially identical with, or deceptively similar to, the registered trade mark in relation to goods or services in respect of which the trade mark is registered. [^AUTOREPLACEDTMAs1201ENDREPLACE]
 
-[^AUTOREPLACEDTMAs1201ENDREPLACE]: _TMA_ s 120(1)
 
+[^AUTOREPLACEDTMAs1201ENDREPLACE]: _TMA_ s 120(1)
 
 2. A person uses, as a trade mark, a sign that is substantially identical with, or deceptively similar to, the registered trade mark in relation to goods of the same description or services that are closely related to  registered goods; or services of the same description or goods that are closely related to registered services.[^AUTOREPLACEDTMAs1202ENDREPLACE]
 
-[^AUTOREPLACEDTMAs1202ENDREPLACE]: _TMA_ s 120(2)
 
+[^AUTOREPLACEDTMAs1202ENDREPLACE]: _TMA_ s 120(2)
 
 3. A person uses, as a trade mark, a sign that is substantially identical with, or deceptively similar to a registered trade mark that is well-known in Australia, in relation to: [^AUTOREPLACEDTMAs1203ENDREPLACE]
 
-[^AUTOREPLACEDTMAs1203ENDREPLACE]:  _TMA_ s 120(3)
 
+[^AUTOREPLACEDTMAs1203ENDREPLACE]:  _TMA_ s 120(3)
 
   * The goods or services are not of the same description or not closely related; and
 
@@ -67,8 +67,8 @@ Section 120 of the _TMA_ sets out the three ways in which a trade mark can be in
 
 In relation to well-known trade marks, take into account the extent to which the trade mark is known within the relevant sector of the public, whether as a result of the promotion of the trade mark or for any other reason. [^AUTOREPLACEDTMAs1204ENDREPLACE]
 
-[^AUTOREPLACEDTMAs1204ENDREPLACE]: _TMA_ s 120(4)
 
+[^AUTOREPLACEDTMAs1204ENDREPLACE]: _TMA_ s 120(4)
 
 **Video overview by Ria on [The Different Forms of Infringement in s 120](https://www.youtube.com/watch?v=lc1ZpqIBMRs)**
 
@@ -98,40 +98,40 @@ The principles of goods and services being of the same description or closely re
 
 [^AUTOREPLACED2009FCAFC27ENDREPLACE]
 
-[^AUTOREPLACED2009FCAFC27ENDREPLACE]: [2009] FCAFC 27
-
-
-In *[E & J Gallo Winery v Lion Nathan Australia Pty Limited](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2009/27.html)* [^AUTOREPLACED2009FCAFC27ENDREPLACE]
 
 [^AUTOREPLACED2009FCAFC27ENDREPLACE]: [2009] FCAFC 27
-  Gallo Winery was the registered owner of the trade mark 'Barefoot' in relation to wines in Australia.  Lion Nathan (Australia) started selling a specialty beer under the trade mark 'Barefoot Radler' from January 2008. Infringement was established as beer and wine were held to be goods of the same description.
+
+In *[E & J Gallo Winery v Lion Nathan Australia Pty Limited](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2009/27.html)* [^AUTOREPLACED2009FCAFC27ENDREPLACE]  Gallo Winery was the registered owner of the trade mark 'Barefoot' in relation to wines in Australia.  Lion Nathan (Australia) started selling a specialty beer under the trade mark 'Barefoot Radler' from January 2008. Infringement was established as beer and wine were held to be goods of the same description.
+
+
+[^AUTOREPLACED2009FCAFC27ENDREPLACE]: [2009] FCAFC 27
 
 [^AUTOREPLACED1993FCA645ENDREPLACE]
 
-[^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645
-
-
-In *[Musidor BV v Tansing (t/as Apple Music House)](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1993/645.html), [^AUTOREPLACED1993FCA645ENDREPLACE]
 
 [^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645
-* concerned Musidor selling Rolling Stones bootlegs. Musidor made it plain in its advertising and get-up that the source of the origin of the goods was not authorised. Held, the disclaimer was effective to show that the goods were not related. It was held that no infringement occurred.
+
+In *[Musidor BV v Tansing (t/as Apple Music House)](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1993/645.html), [^AUTOREPLACED1993FCA645ENDREPLACE]* concerned Musidor selling Rolling Stones bootlegs. Musidor made it plain in its advertising and get-up that the source of the origin of the goods was not authorised. Held, the disclaimer was effective to show that the goods were not related. It was held that no infringement occurred.
+
+
+[^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645
 
 [^AUTOREPLACED1996FCA1484ENDREPLACE]
 
-[^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
-
-
-In *[Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1996/1484.html)*, [^AUTOREPLACED1996FCA1484ENDREPLACE]
 
 [^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
- 'Duff' beer which disclaimed any association with The Simpsons was still held to amount to infringement. The disclaimer was too simplistic in approach. The beer was an express reference to The Simpsons and therefore the disclaimer was not effective.
+
+In *[Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1996/1484.html)*, [^AUTOREPLACED1996FCA1484ENDREPLACE] 'Duff' beer which disclaimed any association with The Simpsons was still held to amount to infringement. The disclaimer was too simplistic in approach. The beer was an express reference to The Simpsons and therefore the disclaimer was not effective.
+
+
+[^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
 
 ### Unrelated Goods Where Trade Mark is Well-Known
 
 Trade mark infringement may occur where the defendant is using a  mark as a trade mark, which is substantially identical or deceptively similar to the registered mark, with respect to unrelated goods or services where the mark is well-known or famous. [^AUTOREPLACEDTMAs1203ENDREPLACE]
 
-[^AUTOREPLACEDTMAs1203ENDREPLACE]: _TMA_ s 120(3)
 
+[^AUTOREPLACEDTMAs1203ENDREPLACE]: _TMA_ s 120(3)
 
 To establish this type of infringement the trade mark must be well-known in Australia; the person must use as a trade mark a sign that is substantially identical with, or deceptively similar to, the trade mark in relation to or not closely related goods or services; because the trade mark is well-known, the sign must be likely to be taken as indicating a connection between the unrelated goods or services and the registered owner of the trade mark; and for that reason, the interests of the registered owner are likely to be adversely affected.
 
@@ -141,41 +141,41 @@ Examples of well-known trade marks:
 
 [^AUTOREPLACED2000FCA1538ENDREPLACE]
 
-[^AUTOREPLACED2000FCA1538ENDREPLACE]: [2000] FCA 1538
 
+[^AUTOREPLACED2000FCA1538ENDREPLACE]: [2000] FCA 1538
 
 In *[Nintendo Co Ltd v Care](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1538.html)* – the Nintendo trademark in 'Super Mario' allowed the company to prevent a person from dressing up as Mario when wrestling. [^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]
 
-[^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]: *Nintendo Co Ltd v Care* [2000] FCA 1538
 
+[^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]: *Nintendo Co Ltd v Care* [2000] FCA 1538
 
 [^AUTOREPLACED2001FCA1502ENDREPLACE]
 
-[^AUTOREPLACED2001FCA1502ENDREPLACE]: [2001] FCA 1502
 
+[^AUTOREPLACED2001FCA1502ENDREPLACE]: [2001] FCA 1502
 
 In *[Virgin Enterprises Limited v Klapsas](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2001/1502.html)* – Virgin obtained judgement against people trying to sell Virgin limousines or Virgin rentals. The court stressed the large investments made by Virgin in marketing and promoting the brand globally was such that if the defendant ran a Virgin ad, it was likely customers would be confused. [^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]
 
-[^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]: *Virgin Enterprises Limited v Klapsas* [2001] FCA 1502
 
+[^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]: *Virgin Enterprises Limited v Klapsas* [2001] FCA 1502
 
 [^AUTOREPLACED2000FCA1842ENDREPLACE]
 
-[^AUTOREPLACED2000FCA1842ENDREPLACE]: [2000] FCA 1842
 
+[^AUTOREPLACED2000FCA1842ENDREPLACE]: [2000] FCA 1842
 
 In *[San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1842.html)* - there was a serious question to be tried as to whether the use of SAN REMO on coffee machines infringed the (potentially) well-known trade mark for 'San Remo' pasta. Note this decision was made with some reluctance. [^AUTOREPLACEDSanRemoMacaroniCompanyPtyLtdvSanRemoGourmetCoffeePtyLtd2000FCA1842ENDREPLACE]
 
-[^AUTOREPLACEDSanRemoMacaroniCompanyPtyLtdvSanRemoGourmetCoffeePtyLtd2000FCA1842ENDREPLACE]: *San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd* [2000] FCA 1842
 
+[^AUTOREPLACEDSanRemoMacaroniCompanyPtyLtdvSanRemoGourmetCoffeePtyLtd2000FCA1842ENDREPLACE]: *San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd* [2000] FCA 1842
 
 
 Whether goods are unrelated or not closely related is a question of degree. The less ‘unrelated’ the goods or services are, the more likely that trade mark infringement will be made out.  For example, PUMA for use on beer or CADBURY for use with respect to motorcycles. The use must indicate a connection with the owner.
 
 [^AUTOREPLACED1999FCA1721ENDREPLACE]
 
-[^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
 
+[^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
 
 In *[Coca-Cola Co v All-Fect Distributors Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/1721.html)*, [^AUTOREPLACED1999FCA1721ENDREPLACE] the court held that cola lollies would not give rise to consumers questioning whether there was a connection between Coca-Cola and the lollies.  
 [^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
@@ -202,8 +202,8 @@ Finally, the owner's interests must be adversely affected. Usually it is quite e
 
 Not all use constitutes trade mark infringement. A person will only infringe a trade mark if they ‘use’ a protected mark as a trade mark – a defendant must use a protected mark or very similar mark in the course of trade as an attempt to distinguish their goods or services for another. [^AUTOREPLACEDShellCompanyofAustraliaLtdvEssoStandardOilAustraliaLtd1963109CLR407ENDREPLACE] An infringement will not be made out if a mark is used but not used to distinguish.  The alleged infringing trade mark must be used or intended to be used as a trade mark in the course of trade – to distinguish one person’s goods/services from another. [^AUTOREPLACEDTMAs17ENDREPLACE] The trade mark must be used or intended to be used physically in relation to goods or services. [^AUTOREPLACEDTMAs7ENDREPLACE]
 
-[^AUTOREPLACEDShellCompanyofAustraliaLtdvEssoStandardOilAustraliaLtd1963109CLR407ENDREPLACE]: *Shell Company of Australia Ltd v Esso Standard Oil (Australia) Ltd* (1963) 109 CLR 407
 
+[^AUTOREPLACEDShellCompanyofAustraliaLtdvEssoStandardOilAustraliaLtd1963109CLR407ENDREPLACE]: *Shell Company of Australia Ltd v Esso Standard Oil (Australia) Ltd* (1963) 109 CLR 407
 [^AUTOREPLACEDTMAs17ENDREPLACE]: _TMA_ s 17
 
 [^AUTOREPLACEDTMAs7ENDREPLACE]: _TMA_ s 7
@@ -213,20 +213,20 @@ A registered trade mark is likely to amount to use as a mark if the manner in wh
 
 [^AUTOREPLACED1963HCA66ENDREPLACE]
 
-[^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66
 
+[^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66
 
 Kitto J in *Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd* held:[^AUTOREPLACED1963HCA66ENDREPLACE]
 
-[^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66
 
+[^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66
 
 >[T]he purpose and the only purpose that can be seen in the appearance of the little man on the screen is that which unites the quickly moving series of pictures as a whole, namely the purpose of conveying by a combination of pictures and words a particular message about the qualities of Shell petrol.  This fact makes it … quite certain that no viewer would ever pick out any of the individual scenes … and say to himself: “There I see something that the Shell people are showing me as being a mark by which I may know that any petrol in relation to which I see it used is theirs.  And one may fairly affirm with even greater confidence that the viewer would never infer from the films that every one of the forms which the oil drop figure takes appears there as being a mark which has been chosen to serve the specific purpose of branding petrol in reference to its origin.
 
 [^AUTOREPLACED1991FCA310ENDREPLACE]
 
-[^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
 
+[^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
 
 In *[Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1991/310.html)*, [^AUTOREPLACED1991FCA310ENDREPLACE] it was held that Johnson & Johnson had only used 'caplets' in a descriptive sense as to shape and dosage and not as indicative of origin or identity.
 [^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
@@ -237,8 +237,8 @@ In *[Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd](htt
 
 [^AUTOREPLACED199634IPR282ENDREPLACE]
 
-[^AUTOREPLACED199634IPR282ENDREPLACE]:  (1996) 34 IPR 282
 
+[^AUTOREPLACED199634IPR282ENDREPLACE]:  (1996) 34 IPR 282
 
 In *Top Heavy v Killin*, [^AUTOREPLACED199634IPR282ENDREPLACE] the words 'Chill out' were not indications of the provenance of the T-shirts. The message which the mark conveyed in general terms is an exhortation to the reader to relax. Coca-Cola could thus not assert trade mark infringement.
 [^AUTOREPLACED199634IPR282ENDREPLACE]:  (1996) 34 IPR 282
@@ -246,8 +246,8 @@ In *Top Heavy v Killin*, [^AUTOREPLACED199634IPR282ENDREPLACE] the words 'Chill 
 
 [^AUTOREPLACED1956HCA41ENDREPLACE]
 
-[^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
 
+[^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
 
 In *[Mark Foy’s Ltd v Davies Co-op Co Ltd](http://www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1956/41.html)*, [^AUTOREPLACED1956HCA41ENDREPLACE] Williams J held that the trade mark 'Tub Happy' was capable of registration. He said:
 [^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
@@ -263,15 +263,15 @@ The phrases 'substantial identity' and 'deceptive similarity' hold the same mean
 
 Substantially identical requires a side by side comparison, having regard to the similarities and difference between the essential features. [^AUTOREPLACEDShellCoAustLtdvEssoStandardOilAustLtd1963HCA66ENDREPLACE] Deceptive similarity involves trade marks that so nearly resemble each other that they are likely to deceive or cause confusion. [^AUTOREPLACEDTMAs10ENDREPLACE]
 
-[^AUTOREPLACEDShellCoAustLtdvEssoStandardOilAustLtd1963HCA66ENDREPLACE]: *Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd* [1963] HCA 66]
 
+[^AUTOREPLACEDShellCoAustLtdvEssoStandardOilAustLtd1963HCA66ENDREPLACE]: *Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd* [1963] HCA 66]
 [^AUTOREPLACEDTMAs10ENDREPLACE]: _TMA_ s 10
 
 
 [^AUTOREPLACED2009FCA606ENDREPLACE]
 
-[^AUTOREPLACED2009FCA606ENDREPLACE]: [2009] FCA 606
 
+[^AUTOREPLACED2009FCA606ENDREPLACE]: [2009] FCA 606
 
 In *[Mars Australia Pty Ltd v Sweet Rewards Pty Ltd](http://www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2009/606.html)*, [^AUTOREPLACED2009FCA606ENDREPLACE] the registered trade marks, label and words 'Malt Balls' were sufficiently different from 'Malteasers', and purely descriptive.
 [^AUTOREPLACED2009FCA606ENDREPLACE]: [2009] FCA 606
@@ -290,15 +290,15 @@ Dilution in the United States and European Union does not require confusion betw
 
 Blurring is the result of the unauthorised use of a trade mark which mars the selling power of that trade mark. For example dilution by blurring might occur when the trade mark 'Kodak' is used with respect to motorcycles or the trade mark 'Cadbury' is used with respect to chainsaws. [^AUTOREPLACEDSeeforexampleEastmanPhotographicMaterialsCoLtdvJohnGriffithsCycleCorpLtdandKodakCycleCoLtdReTradeMarkNo20700615RPC105ENDREPLACE]
 
-[^AUTOREPLACEDSeeforexampleEastmanPhotographicMaterialsCoLtdvJohnGriffithsCycleCorpLtdandKodakCycleCoLtdReTradeMarkNo20700615RPC105ENDREPLACE]: See for example *Eastman Photographic Materials Co Ltd v John Griffiths Cycle Corp Ltd and Kodak Cycle Co Ltd, Re Trade Mark No 207006 15 RPC 105*
 
+[^AUTOREPLACEDSeeforexampleEastmanPhotographicMaterialsCoLtdvJohnGriffithsCycleCorpLtdandKodakCycleCoLtdReTradeMarkNo20700615RPC105ENDREPLACE]: See for example *Eastman Photographic Materials Co Ltd v John Griffiths Cycle Corp Ltd and Kodak Cycle Co Ltd, Re Trade Mark No 207006 15 RPC 105*
 
 ### Tarnishment
 
 Occurs when the use of a trade mark results in the tainting or downgrading of the positive associations the trade mark has come to convey.  Often it will occur when a trade mark is linked to products of inferior quality or products of an immoral or unwholesome character or where the trade mark is portrayed in an unsavoury context likely to evoke negative thoughts about the trade mark owner. [^AUTOREPLACEDSeeforexampleToysRUsIncvAkkaoui40USPQ2d1836NDCal1996ENDREPLACE]
 
-[^AUTOREPLACEDSeeforexampleToysRUsIncvAkkaoui40USPQ2d1836NDCal1996ENDREPLACE]: See for example *Toys ‘R Us Inc v Akkaoui* (40) USPQ 2d 1836 (ND Cal, 1996)
 
+[^AUTOREPLACEDSeeforexampleToysRUsIncvAkkaoui40USPQ2d1836NDCal1996ENDREPLACE]: See for example *Toys ‘R Us Inc v Akkaoui* (40) USPQ 2d 1836 (ND Cal, 1996)
 
 ### Anti-dilution
 
@@ -349,8 +349,8 @@ Defences to trade mark infringement are found in s 122 of the _TMA_. The table b
 
 In the above sections, 'good faith' means an absence of ulterior motive. [^AUTOREPLACEDAngovesPtyLtdvJohnson198243ALR349ENDREPLACE] Absence of good faith cannot be inferred merely from striking similarity between the two marks. [^AUTOREPLACEDGeoffreyIncvLuik199738IPR555ENDREPLACE]
 
-[^AUTOREPLACEDAngovesPtyLtdvJohnson198243ALR349ENDREPLACE]: *Angoves Pty Ltd v Johnson* (1982) 43 ALR 349
 
+[^AUTOREPLACEDAngovesPtyLtdvJohnson198243ALR349ENDREPLACE]: *Angoves Pty Ltd v Johnson* (1982) 43 ALR 349
 [^AUTOREPLACEDGeoffreyIncvLuik199738IPR555ENDREPLACE]: *Geoffrey Inc v Luik*  (1997) 38 IPR 555
    Use of the trade mark cannot be calculated to divert business from the registered trade mark owner or to confuse customers as to the origin of goods.
 
@@ -366,8 +366,8 @@ In the above sections, 'good faith' means an absence of ulterior motive. [^AUTOR
 
 A person who uses a registered trade mark in relation to goods that are similar to goods in respect of which the trade mark is registered does not infringe the trade mark if the trade mark has been applied to, or in relation to, the goods by, or with the consent of, the registered trade mark owner. [^AUTOREPLACEDTMAs122AENDREPLACE]
 
-[^AUTOREPLACEDTMAs122AENDREPLACE]: _TMA_ s 122A
 
+[^AUTOREPLACEDTMAs122AENDREPLACE]: _TMA_ s 122A
 
 Because of the requirement of similar goods, this defence does not apply to _TMA_ s 120(3).
 
@@ -375,8 +375,8 @@ This provision helps to protect uses in relation to imported goods or second han
 
 A similar provision applies to services. A person who uses a registered trade mark for services that are similar to services in respect of which the trade mark is registered does not infringe the registered mark if it has been applied in relation to the services by, or with the consent of, the registered owner. [^AUTOREPLACEDTMAs123ENDREPLACE]
 
-[^AUTOREPLACEDTMAs123ENDREPLACE]: _TMA_ s 123
 
+[^AUTOREPLACEDTMAs123ENDREPLACE]: _TMA_ s 123
 
 Note that prior to amendments as a result of the Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018, the consent provision for goods was s123. The 2018 amendments inserted s122A and amended s123. The effect of the defence is largely the same prior to and after 2018.
 
@@ -415,8 +415,8 @@ Under s 88(1), if one of these grounds is satisfied, the court can cancel the re
 
 In spite of s 120, if a disclaimer has been registered in respect of a part of a registered trade mark, a person does not infringe the trade mark by using that part of the trade mark. [^AUTOREPLACEDTMAs1222ENDREPLACE]
 
-[^AUTOREPLACEDTMAs1222ENDREPLACE]: _TMA_ s 122(2)
 
+[^AUTOREPLACEDTMAs1222ENDREPLACE]: _TMA_ s 122(2)
 
 
 **Video overview by Corrine Leach on [Section 88 of the Trade Marks Act](https://www.youtube.com/watch?v=PLKbSmhihUs)**
@@ -443,41 +443,41 @@ If trade mark infringement under _TMA_ s 120(1), (2) or (3) is claimed, the defe
 
 * Consent; [^AUTOREPLACEDTMAs123ENDREPLACE]
 
-[^AUTOREPLACEDTMAs123ENDREPLACE]: _TMA_ s 123
 
+[^AUTOREPLACEDTMAs123ENDREPLACE]: _TMA_ s 123
 
 * Prior Use; [^AUTOREPLACEDTMAs124ENDREPLACE]
 
-[^AUTOREPLACEDTMAs124ENDREPLACE]: _TMA_ s 124
 
+[^AUTOREPLACEDTMAs124ENDREPLACE]: _TMA_ s 124
 
 * The plaintiff’s trade mark is not valid – cross claim for rectification or removal; [^AUTOREPLACEDTMAs88ENDREPLACE]
 
-[^AUTOREPLACEDTMAs88ENDREPLACE]: _TMA_ s 88
 
+[^AUTOREPLACEDTMAs88ENDREPLACE]: _TMA_ s 88
 
 * The plaintiff's registered trade mark is generic; [^AUTOREPLACEDTMAs87ENDREPLACE]
 
+
 [^AUTOREPLACEDTMAs87ENDREPLACE]: _TMA_ s 87
 
+* The plaintiff's mark contravened a limitation or condition;[^AUTOREPLACEDTMAs86ENDREPLACE] and  
 
-* The plaintiff's mark contravened a limitation or condition;[^AUTOREPLACEDTMAs86ENDREPLACE]
 
 [^AUTOREPLACEDTMAs86ENDREPLACE]: _TMA_ s 86
- and  
 
 * Removal for non-use. [^AUTOREPLACEDTMAs92ENDREPLACE]
 
-[^AUTOREPLACEDTMAs92ENDREPLACE]: _TMA_ s 92
 
+[^AUTOREPLACEDTMAs92ENDREPLACE]: _TMA_ s 92
 
 
 Further, the following claims can also be made in _TMA_ s 120(2) infringement cases:
 
   * The defendant's use of the mark is not likely to deceive or cause confusion. [^AUTOREPLACEDTMAs10ENDREPLACE]
 
-[^AUTOREPLACEDTMAs10ENDREPLACE]: _TMA_ s 10
 
+[^AUTOREPLACEDTMAs10ENDREPLACE]: _TMA_ s 10
   * The defendant's use of the mark is not n relation to goods or services of the same description or goods or services that are closely related to the goods or services for which the mark is registered with respect to.
 
 

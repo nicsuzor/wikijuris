@@ -216,8 +216,8 @@ Issues also arise in online trade mark infringement cases, as some websites may 
 
 In Australia the mere registration of a domain name does not constitute use (and therefore infringement) of a trade mark. There are no reported Australian cases in which a domain name has been held to have infringed a registered trade mark under s 120 of the Trade Marks Act 1995. It is at least theoretically possible for a .au domain name to infringe a registered trade mark[^AUTOREPLACEDseeCSRLtdvResourceCapitalAustraliaPtyLtd2003FCA279AUTOREPLACED]
 
-[^AUTOREPLACEDseeCSRLtdvResourceCapitalAustraliaPtyLtd2003FCA279AUTOREPLACED]: see CSR Ltd v Resource Capital Australia Pty Ltd [2003] FCA 279
 
+[^AUTOREPLACEDseeCSRLtdvResourceCapitalAustraliaPtyLtd2003FCA279AUTOREPLACED]: see CSR Ltd v Resource Capital Australia Pty Ltd [2003] FCA 279
 . The Advisory Council on Intellectual Property (ACIP) commented in its 2004 issues paper, _A review of the relationship between trade marks and business names, company names and domain names _
 
 >"Registered trade mark infringement may occur where a domain name is registered in good faith, where the words in the domain name are identical with, substantially identical with or deceptively similar to a registered trade mark, and where the domain name is connected with a website concerned with trading in the same goods or services, or goods or services of the same description as those in relation to which the trade mark is registered."

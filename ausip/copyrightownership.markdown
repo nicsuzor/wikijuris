@@ -55,8 +55,8 @@ Each of these will be considered in turn.
 
 Where a creator is working under a contract of employment, the rule is that the employer owns copyright of works produced in the course of employment. [^AUTOREPLACEDCAs356ENDREPLACE] The creator must be working under a contract *of* service, as distinguished from a contract *for* services. In other words, they must be an employee and not an independent contractor.  Additionally, a person employed as a consultant retains copyright in the work he/she produces, subject to contrary express agreement. [^AUTOREPLACEDOceanroutesAustraliaPtyLtdvMCLamond1984AIPC90ENDREPLACE]
 
-[^AUTOREPLACEDCAs356ENDREPLACE]: _CA_ s 35(6)
 
+[^AUTOREPLACEDCAs356ENDREPLACE]: _CA_ s 35(6)
 [^AUTOREPLACEDOceanroutesAustraliaPtyLtdvMCLamond1984AIPC90ENDREPLACE]: _Oceanroutes (Australia) Pty Ltd v M C Lamond_ [1984] AIPC 90
 
 
@@ -66,14 +66,14 @@ Where a creator is working under a contract of employment, the rule is that the 
 
 In determining whether the work is created in the course of employment, it can be helpful to ask: "Whether on the one hand the employee is employed as part of the business and his work is an integral part of the business, or whether his work is not integrated into the business but is only accessory to it, or, […] the work is done by him in business on his own account." [^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]
 
-[^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]: _Mr Diljeet Titus v Mr. Alfred A Adebare_ 130 (2006) DLT 130 (Delhi High Court)
 
+[^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]: _Mr Diljeet Titus v Mr. Alfred A Adebare_ 130 (2006) DLT 130 (Delhi High Court)
 
 <div markdown="block" class="box  case">
 ##### Beloff v Pressdram Ltd [^AUTOREPLACED1973FSR33ENDREPLACE]
 
-[^AUTOREPLACED1973FSR33ENDREPLACE]: [1973] FSR 33
 
+[^AUTOREPLACED1973FSR33ENDREPLACE]: [1973] FSR 33
 
 The plaintiff, a political correspondent of the "London Observer", issued a politically sensitive internal memo to the editor and senior staff about the Prime Minister.  It was published in full by the “Private Eye”.  The plaintiff sued for infringement of copyright.
 
@@ -95,16 +95,16 @@ For these purposes, the journalist will not need permission from their employer.
 
 The proprietor of the newspaper or magazine (the journalist's employer) is the owner of copyright for any other purpose. [^AUTOREPLACEDCAs354ENDREPLACE]
 
-[^AUTOREPLACEDCAs354ENDREPLACE]: _CA_ s 35(4)
 
+[^AUTOREPLACEDCAs354ENDREPLACE]: _CA_ s 35(4)
 
 
 ### Commissioned Artistic Works
 
 In the following cases, the person who commissioned the work, rather than the person who created the works, owns copyright in it: [^AUTOREPLACEDCAs355ENDREPLACE]
 
-[^AUTOREPLACEDCAs355ENDREPLACE]: _CA_ s 35(5)
 
+[^AUTOREPLACEDCAs355ENDREPLACE]: _CA_ s 35(5)
 
 * the taking of a photograph for a "private or domestic" purpose;
 
@@ -112,8 +112,8 @@ In the following cases, the person who commissioned the work, rather than the pe
 
 * the making of an engraving. [^AUTOREPLACEDCAs355ENDREPLACE]
 
-[^AUTOREPLACEDCAs355ENDREPLACE]: _CA_ s 35(5)
 
+[^AUTOREPLACEDCAs355ENDREPLACE]: _CA_ s 35(5)
 
 Copyright in all other commissioned works, such as works commissioned for a commercial purposes, vests in the author. Recall, however, that copyright ownership can always be modified by agreement.
 
@@ -124,8 +124,8 @@ Under s 35(5), if the person who commissions the relevant artistic works makes k
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED198264FLR145ENDREPLACE]
 
-[^AUTOREPLACED198264FLR145ENDREPLACE]: (1982) 64 FLR 145
 
+[^AUTOREPLACED198264FLR145ENDREPLACE]: (1982) 64 FLR 145
 
 The plaintiff artist was commissioned to make a drawing of a hotel.  Two years later, ads in the paper for the sale of the hotel included a reproduction of the drawing.  The plaintiff sued for infringement of copyright.
 
@@ -144,8 +144,8 @@ This definition does not mean that all jointly produced works result in joint au
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED1938Ch106ENDREPLACE]
 
-[^AUTOREPLACED1938Ch106ENDREPLACE]: [1938] Ch 106
 
+[^AUTOREPLACED1938Ch106ENDREPLACE]: [1938] Ch 106
 
 Held, where a person communicates an idea to an author and the author clothes the idea in the form of an article or articles, the copyright is owned by the author.
 </div>
@@ -153,8 +153,8 @@ Held, where a person communicates an idea to an author and the author clothes th
 
 Joint authors take ownership as tenants in common – each has title to sue and can sue each other.[^AUTOREPLACEDPriorvSheldonENDREPLACE]
 
-[^AUTOREPLACEDPriorvSheldonENDREPLACE]: _Prior v Sheldon_
 
+[^AUTOREPLACEDPriorvSheldonENDREPLACE]: _Prior v Sheldon_
 
 
 **Video overview by Olivia Wright on [Tenants in Common and Copyright](https://www.youtube.com/watch?v=SuR0HoFVO2Y).**
@@ -176,8 +176,8 @@ For recordings of live performances, the sound recording is owned jointly by the
 
 Pursuant to s 97, where a person commissions a sound recording for valuable consideration, then the person who commissioned the recording is the copyright owner, subject to any agreement to the contrary. [^AUTOREPLACEDCAENDREPLACE]
 
-[^AUTOREPLACEDCAENDREPLACE]: _CA_
 
+[^AUTOREPLACEDCAENDREPLACE]: _CA_
 
 
 
@@ -185,8 +185,8 @@ Pursuant to s 97, where a person commissions a sound recording for valuable cons
 
 The first owner of copyright in a cinematograph film is the maker of the film. [^AUTOREPLACEDCAs982ENDREPLACE]
 
-[^AUTOREPLACEDCAs982ENDREPLACE]: _CA_ s 98(2)
 
+[^AUTOREPLACEDCAs982ENDREPLACE]: _CA_ s 98(2)
 
 Section 22(4) of the _Act_ provides that a maker of a film is the person who undertook the necessary arrangements for the production of the first copy of the film. This person will generally be the producer of the film.
 
@@ -205,25 +205,25 @@ Section 22(5) provides that a broadcast is taken to have been made by the person
 
 The owner of copyright in a published edition is the publisher. [^AUTOREPLACEDCAs100ENDREPLACE]
 
-[^AUTOREPLACEDCAs100ENDREPLACE]: _CA_ s 100
 
+[^AUTOREPLACEDCAs100ENDREPLACE]: _CA_ s 100
 
 ## Proof of Ownership
 
 In a copyright case, unless ownership is put in issue, copyright is presumed to subsist and the plaintiff is presumed to be the owner. [^AUTOREPLACEDCAs126ENDREPLACE]
 
-[^AUTOREPLACEDCAs126ENDREPLACE]: _CA_ s 126
 
+[^AUTOREPLACEDCAs126ENDREPLACE]: _CA_ s 126
 
 Labels or marks indicating the year and place of the publication or the making of a work are admissible as prima facie evidence of copyright subsistence [^AUTOREPLACEDCAss126Aand126BENDREPLACE]
 
-[^AUTOREPLACEDCAss126Aand126BENDREPLACE]: _CA_ ss 126A and 126B
 
+[^AUTOREPLACEDCAss126Aand126BENDREPLACE]: _CA_ ss 126A and 126B
 
 The name appearing on a work is presumed to be the author and first owner of the work.[^AUTOREPLACEDCAs127ENDREPLACE] If s 127 does not apply, then the name of the publisher appearing on a work published in the last 70 years is presumed to be the owner. [^AUTOREPLACEDCAs128ENDREPLACE]
 
-[^AUTOREPLACEDCAs127ENDREPLACE]: _CA_ s 127
 
+[^AUTOREPLACEDCAs127ENDREPLACE]: _CA_ s 127
 [^AUTOREPLACEDCAs128ENDREPLACE]: _CA_ s 128
 
 
@@ -237,18 +237,18 @@ These include:
 
 * works made by or under the direction or control of the Crown; [^AUTOREPLACEDCAs176ENDREPLACE]
 
+
 [^AUTOREPLACEDCAs176ENDREPLACE]: _CA_ s 176
 
+* works first published by the Crown; [^AUTOREPLACEDCAs177ENDREPLACE] and
 
-* works first published by the Crown; [^AUTOREPLACEDCAs177ENDREPLACE]
 
 [^AUTOREPLACEDCAs177ENDREPLACE]: _CA_ s 177
- and
 
 * sound recording and films made by, or under the direction or control of the Crown. [^AUTOREPLACEDCAs178ENDREPLACE]
 
-[^AUTOREPLACEDCAs178ENDREPLACE]: _CA_ s 178
 
+[^AUTOREPLACEDCAs178ENDREPLACE]: _CA_ s 178
 
 The duration of Crown copyright is 50 years.
 
@@ -256,8 +256,8 @@ The Copyright Law Review Committee (CLRC) recommended the abolition of special p
 
 __ [^AUTOREPLACED2007FCAC80ENDREPLACE]
 
-[^AUTOREPLACED2007FCAC80ENDREPLACE]: [2007] FCAC 80
 
+[^AUTOREPLACED2007FCAC80ENDREPLACE]: [2007] FCAC 80
 
 In the case of [Copyright Agency Limited v State of NSW](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2007/80.html) the Copyright Tribunal heard a claim by the Copyright Agency Limited (CAL), whose members include surveyors, for orders under ss 183(5) and 183(A) of the _Copyright Act 1968_ (Cth) in respect of a number of surveyors' plans and the State of New South Wales' 'dealings' in respect of them. Following the determination of the Tribunal, questions of law were referred to the Full Federal Court.
 

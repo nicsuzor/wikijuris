@@ -11,8 +11,8 @@ nav_order: 95
 
 Public and private actors are increasingly seeking to regulate user behaviour by asking payment intermediaries -- like Mastercard, Visa, and Paypal -- to exercise control over the flow of money.[^AUTOREPLACEDSeeforexampleMarkMacCarthyWhatPaymentIntermediariesareDoingAboutOnlineLiabilityandWhyitMatters2010252BerkeleyTechnologyLawJournal1139AUTOREPLACED]
 
-[^AUTOREPLACEDSeeforexampleMarkMacCarthyWhatPaymentIntermediariesareDoingAboutOnlineLiabilityandWhyitMatters2010252BerkeleyTechnologyLawJournal1139AUTOREPLACED]: See, for example, Mark MacCarthy, “What Payment Intermediaries are Doing About Online Liability and Why it Matters” (2010) 25(2) Berkeley Technology Law Journal 1139.
 
+[^AUTOREPLACEDSeeforexampleMarkMacCarthyWhatPaymentIntermediariesareDoingAboutOnlineLiabilityandWhyitMatters2010252BerkeleyTechnologyLawJournal1139AUTOREPLACED]: See, for example, Mark MacCarthy, “What Payment Intermediaries are Doing About Online Liability and Why it Matters” (2010) 25(2) Berkeley Technology Law Journal 1139.
 
 
 
