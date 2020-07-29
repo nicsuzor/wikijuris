@@ -20,6 +20,7 @@ grand_parent: Australian IP Law
 In this section, you will learn when copyright subsists in various types of material.
 
 Copyright protection in the _Copyright Act 1968_ (Cth), (_CA_) is split between original works (Part III) and "subject matter other than works" (Part IV). Original works include literary, dramatic, musical or artistic works. Subject matter other than works includes sound recordings, films, broadcasts and published editions. [^AUTOREPLACEDCAs10ENDREPLACE]
+
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
 
 
@@ -64,6 +65,7 @@ Copyright protects **expression** fixed in material form. It does not protect id
 
 
 * The idea expression dichotomy was considered in the leading case of _Skybase Nominees Pty Ltd v Fortuity Pty Ltd_. [^AUTOREPLACED199636IPR529ENDREPLACE]
+
 [^AUTOREPLACED199636IPR529ENDREPLACE]:  (1996) 36 IPR 529
 
 
@@ -71,6 +73,7 @@ Copyright protects **expression** fixed in material form. It does not protect id
 <div markdown="block" class="box  case">
 
 [^AUTOREPLACED199636IPR529at531ENDREPLACE]
+
 [^AUTOREPLACED199636IPR529at531ENDREPLACE]:  (1996) 36 IPR 529 at 531
 
 
@@ -92,6 +95,7 @@ Each of these types of works will be considered below.
 ### Literary Work
 
 A literary work includes tables, compilations, expressed in words, figures or symbols (whether or not in a visible form), and computer programs or compilations of computer programs. [^AUTOREPLACEDCAs10ENDREPLACE]
+
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
 
 
@@ -99,6 +103,7 @@ A literary work is a work which is expressed in print or writing, irrespective o
 
 <div markdown="block" class="box  case">
  [^AUTOREPLACED19162Ch601ENDREPLACE]
+
 [^AUTOREPLACED19162Ch601ENDREPLACE]: [1916] 2 Ch 601
 
 
@@ -114,22 +119,27 @@ This case is discussed further under 'Originality' (below).
 Examples of literary works include:
 
 * Football pool coupons; [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR27ENDREPLACE]
+
 [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR27ENDREPLACE]: _Ladbroke (Football) Ltd v William Hill (Football) Ltd_ [1964] 1 WLR 27
 
 
 * A racing programme; [^AUTOREPLACEDMandervOBrien1934SASR87ENDREPLACE]
+
 [^AUTOREPLACEDMandervOBrien1934SASR87ENDREPLACE]: _Mander v O’Brien_ (1934) SASR 87
 
 
 * Chronological lists of football matches; [^AUTOREPLACEDFootballLeagueLtdvLittlewoodsPoolsLtd1959Ch637ENDREPLACE]
+
 [^AUTOREPLACEDFootballLeagueLtdvLittlewoodsPoolsLtd1959Ch637ENDREPLACE]: _Football League Ltd v. Littlewoods Pools Ltd_ [1959] Ch 637
 
 
 * Lists of bingo numbers; [^AUTOREPLACEDMirrorNewspapersLtdvQueenslandNewspapersLtd1982QdR305ENDREPLACE]
+
 [^AUTOREPLACEDMirrorNewspapersLtdvQueenslandNewspapersLtd1982QdR305ENDREPLACE]: _Mirror Newspapers Ltd v Queensland Newspapers Ltd_ [1982] Qd R 305
  and
 
 * Accounting forms. [^AUTOREPLACEDKalamazooAustPtyLtdvCompactBusinessSystemsPtyLtd19855IPR213ENDREPLACE]
+
 [^AUTOREPLACEDKalamazooAustPtyLtdvCompactBusinessSystemsPtyLtd19855IPR213ENDREPLACE]: _Kalamazoo (Aust.) Pty Ltd v Compact Business Systems Pty Ltd_ (1985) 5 IPR 213
 
 
@@ -143,6 +153,7 @@ The cases of _WH Allen & Co. v Brown Watson Ltd_ and _McWilliam’s Wines Pty Lt
 
 <div markdown="block" class="box  case">
 [^AUTOREPLACED1965RPC191ENDREPLACE]
+
 [^AUTOREPLACED1965RPC191ENDREPLACE]: [1965] RPC 191
 
 
@@ -153,16 +164,19 @@ There was already a reputation in the book written by Frank Harris entitled, "My
 
 <div markdown="block" class="box  case">
 [^AUTOREPLACED1980FCA159ENDREPLACE]
+
 [^AUTOREPLACED1980FCA159ENDREPLACE]: [1980] FCA 159
 
 
 In the case of [McWilliam’s Wines Pty Ltd v McDonald’s System of Australia Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1980/159.html) a wine company brought out a wine called "Big Mac". McDonalds claimed that this was a breach of s 52 of the _Trade Practices Act_ (the law preceding the Australian Consumer Law). McDonald's argued that people would be misled into thinking that the wine had some connection with McDonalds. The court held that there was no breach. McWilliam’s conduct might confuse people but this was not the same as being misled under the _Trade Practices Act_.[^AUTOREPLACEDAccordingtoAustralianConsumerLawss1819ENDREPLACE]
+
 [^AUTOREPLACEDAccordingtoAustralianConsumerLawss1819ENDREPLACE]: According to Australian Consumer Law ss 18, 19
 
 </div>
 
 <div markdown="block" class="box  case">
  [^AUTOREPLACED1982Ch119ENDREPLACE]
+
 [^AUTOREPLACED1982Ch119ENDREPLACE]: [1982] Ch. 119
 
 
@@ -173,6 +187,7 @@ Held, although the name was original, it was not sufficiently substantial for co
 
 <div markdown="block" class="box  case">
  [^AUTOREPLACEDUKPC68ENDREPLACE]
+
 [^AUTOREPLACEDUKPC68ENDREPLACE]: UKPC 68
 
 
@@ -183,10 +198,12 @@ Held, a name alone cannot possess copyright unless it is sufficiently original a
 
 <div markdown="block" class="box  case">
  [^AUTOREPLACED2010FCA984ENDREPLACE]
+
 [^AUTOREPLACED2010FCA984ENDREPLACE]: [2010] FCA 984
 
 
 In the case of [Fairfax Media v Reed International Books](http://classic.austlii.edu.au/au/cases/cth/FCA/2010/984.html), Fairfax, (the publisher of the Australian Financial Review) alleged that Reed had infringed copyright by copying AFR headlines as part of its media monitoring service. The question was whether headlines were "original literary works".[^AUTOREPLACED2010189FCR109ENDREPLACE]
+
 [^AUTOREPLACED2010189FCR109ENDREPLACE]:  (2010) 189 FCR 109
 
 
@@ -202,6 +219,7 @@ However, "[i]t may be that evidence directed to a particular headline, or a titl
 "In my opinion headlines are capable of being literary works, whether independently or as part of the articles to which they relate. Some of the headlines in the Daily Mail with which I have been provided are certainly independent literary works". (Proudman J, [71])
 
 The decision was upheld on appeal. [^AUTOREPLACEDTheNewspaperLicensingAgencyLtdOrsvMeltwaterHoldingBVOrs2011EWCACiv890ENDREPLACE]
+
 [^AUTOREPLACEDTheNewspaperLicensingAgencyLtdOrsvMeltwaterHoldingBVOrs2011EWCACiv890ENDREPLACE]: _The Newspaper Licensing Agency Ltd & Ors v Meltwater Holding BV & Ors_ [2011] EWCA Civ 890
 
 </div>
@@ -209,6 +227,7 @@ The decision was upheld on appeal. [^AUTOREPLACEDTheNewspaperLicensingAgencyLtdO
 #### Copyright protection for software and databases
 
 Computer programs (software) and databases are classified and protected as “literary works”. To understand why, it's necessary to briefly look at the definition of “literary works” under the Australian copyright law.[^AUTOREPLACEDSeethedefinitionsofliteraryworkandcomputerprogramins10oftheCopyrightAct1968ENDREPLACE]
+
 [^AUTOREPLACEDSeethedefinitionsofliteraryworkandcomputerprogramins10oftheCopyrightAct1968ENDREPLACE]: See the definitions of "literary work" and "computer program" in s 10 of the _Copyright Act 1968_
 
 
@@ -237,6 +256,7 @@ It was held that the defendant had infringed copyright in the "Autocad" by repro
 
 <div markdown="block" class="box  case">
  [^AUTOREPLACED1999HCA49ENDREPLACE]
+
 [^AUTOREPLACED1999HCA49ENDREPLACE]: [1999] HCA 49
 
 
@@ -259,6 +279,7 @@ The essential character of a dramatic work is that it is intended to be represen
 
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED1989RPC469ENDREPLACE]
+
 [^AUTOREPLACED1989RPC469ENDREPLACE]: [1989] RPC 469
 
 
@@ -272,6 +293,7 @@ It was held that the repetitive elements alone did not constitute a dramatic wor
 
 <div markdown="block" class="box  case">
  [^AUTOREPLACED199948IPR333ENDREPLACE]
+
 [^AUTOREPLACED199948IPR333ENDREPLACE]: [1999]48 IPR 333
 
 
@@ -313,6 +335,7 @@ Held, although there was no statutory definition of "painting", it is a word in 
 #### Copyright in Drawings
 
 Drawing is defined as including "a diagram, map, chart or plan". [^AUTOREPLACEDCAs101ENDREPLACE] Architects' plans are considered artistic works. [^AUTOREPLACEDAncherMortlockMurraryWoolleyPtyLtdvHookerHomesPtyLtdENDREPLACE]
+
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
 [^AUTOREPLACEDAncherMortlockMurraryWoolleyPtyLtdvHookerHomesPtyLtdENDREPLACE]: _Ancher, Mortlock, Murrary & Woolley Pty Ltd v Hooker Homes Pty Ltd_
@@ -321,11 +344,13 @@ Drawing is defined as including "a diagram, map, chart or plan". [^AUTOREPLACEDC
 #### Copyright in Sculptures
 
 'Sculpture' includes a cast or model made for purposes of sculpture. [^AUTOREPLACEDCAs101ENDREPLACE]
+
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
 
 <div markdown="block" class="box  case">
 __[^AUTOREPLACED1997FSR718ENDREPLACE]
+
 [^AUTOREPLACED1997FSR718ENDREPLACE]: [1997] FSR 718
 
 
@@ -340,11 +365,13 @@ Held: Industrial moulds to make twin cartridges like double-barrelled syringes w
 #### Copyright in Buildings
 
 Building includes a structure of any kind. [^AUTOREPLACEDCAs101ENDREPLACE]
+
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
 
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED1980FLR240ENDREPLACE]
+
 [^AUTOREPLACED1980FLR240ENDREPLACE]:  (1980) FLR 240
 
 
@@ -353,6 +380,7 @@ Held, a half-tennis court was a building.
 
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED199841IPR649ENDREPLACE]
+
 [^AUTOREPLACED199841IPR649ENDREPLACE]:  (1998) 41 IPR 649
 
 
@@ -368,12 +396,14 @@ The term "artistic craftsmanship" is not defined in the _Act_. This is the only 
 The traditional test is whether the author in making the article had the main object of creating an article which will have a substantial appeal to the aesthetic tastes of those who observe them.
 
 The two elements (artistic and craftsmanship) must be united in the same person. [^AUTOREPLACEDBurkeMargotBurkeLtdvSpicersDressDesigns1936Ch400ENDREPLACE]
+
 [^AUTOREPLACEDBurkeMargotBurkeLtdvSpicersDressDesigns1936Ch400ENDREPLACE]: _Burke & Margot Burke Ltd v Spicers Dress Designs_ [1936] Ch 400
 
 
 **Video overview by Joseph Auclair on[artistic craftsmanship and design protection](https://www.youtube.com/watch?v=rwYoDjYoFE4)**
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED1963VR719ENDREPLACE]
+
 [^AUTOREPLACED1963VR719ENDREPLACE]: [1963] VR 719
 
 
@@ -383,6 +413,7 @@ Held, no copyright subsisted as a work of artistic craftsmanship as cutting up p
 </div>
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED1976AC64ENDREPLACE]
+
 [^AUTOREPLACED1976AC64ENDREPLACE]: [1976] AC 64
 
 
@@ -398,10 +429,12 @@ Lord Reid: "An item will have aesthetic appeal if a substantial section of the p
 </div>
 
 A work of artistic craftsmanship may be mass produced. Factory based products can be works of artistic craftsmanship – they need not be handmade, although the author must use a highly sophisticated machine with creative skill, knowledge, and pride in workmanship. A work of artistic craftsmanship need not be the product of a single person. This was considered in the case of _Coogi Australia Pty Ltd v Hysport International Pty Ltd_. [^AUTOREPLACED199886FCR154ENDREPLACE]
+
 [^AUTOREPLACED199886FCR154ENDREPLACE]:  (1998) 86 FCR 154
 
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED199886FCR154ENDREPLACE]
+
 [^AUTOREPLACED199886FCR154ENDREPLACE]:  (1998) 86 FCR 154
 
 
@@ -422,6 +455,7 @@ But: "The level of aesthetic appeal required for a work of artistic craftsmanshi
 </div>
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED2007HCA17ENDREPLACE]
+
 [^AUTOREPLACED2007HCA17ENDREPLACE]: [2007] HCA 17
 
 
@@ -434,6 +468,7 @@ The court held that the plug was a work of artistic craftsmanship. "The creation
 The High Court overturned the ruling, holding that the plug was not a work of artistic craftsmanship:
 
 >"It may be impossible, and certainly would be unwise, to attempt any exhaustive and fully predictive identification of what can and cannot amount to "a work of artistic craftsmanship" within the meaning of the _Copyright Act_ as it stood after the 1989 Act. However, determining whether a work is "a work of artistic craftsmanship" does not turn on assessing the beauty or aesthetic appeal of work or on assessing any harmony between its visual appeal and its utility. The determination turns on assessing the extent to which the particular work's artistic expression, in its form, is unconstrained by functional considerations".[83][^AUTOREPLACEDBurgevSwarbrick2007HCA17ENDREPLACE]
+
 [^AUTOREPLACEDBurgevSwarbrick2007HCA17ENDREPLACE]: _Burge v Swarbrick_ [2007] HCA 17
 
 
@@ -451,6 +486,7 @@ In copyright, the term "originality" does not mean "novel" or new. Instead, "ori
 
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED19162Ch601ENDREPLACE]
+
 [^AUTOREPLACED19162Ch601ENDREPLACE]: [1916] 2 Ch 601
 
 
@@ -468,6 +504,7 @@ Held: copyright subsisted in the papers as original literary works – originali
 
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED2010FCA507ENDREPLACE]
+
 [^AUTOREPLACED2010FCA507ENDREPLACE]: [2010] FCA 507
 
 
@@ -510,6 +547,7 @@ Feist was not followed in Australia.
 </div>
 
  [^AUTOREPLACED2002FCAFC112ENDREPLACE]
+
 [^AUTOREPLACED2002FCAFC112ENDREPLACE]: [2002] FCAFC 112
 
 
@@ -539,6 +577,7 @@ Clearly Telstra incurred significant labour and expense in collecting, verifying
 
 
 __ [^AUTOREPLACED2009239CLR458ENDREPLACE]
+
 [^AUTOREPLACED2009239CLR458ENDREPLACE]:  (2009) 239 CLR 458
 
 
@@ -593,6 +632,7 @@ An important obiter remark was made by Gummow, Hayne and Heydon JJ immediately f
 
 
 __ [^AUTOREPLACED2010FCAFC149ENDREPLACE]
+
 [^AUTOREPLACED2010FCAFC149ENDREPLACE]: [2010] FCAFC 149
 
 
@@ -632,6 +672,7 @@ There is still some uncertainty as to what degree of "independent intellectual e
 * "The level of intellectual effort necessary to produce an original literary work is not required to rise to the level of “creativity" or “inventiveness”. In determining whether a literary work is original, the focus of consideration is not upon creativity or novelty, but upon the origin of the work in some intellectual effort of the author.” (Keane CJ, [58])
 
 __ [^AUTOREPLACED2010189FCR109ENDREPLACE]
+
 [^AUTOREPLACED2010189FCR109ENDREPLACE]:  (2010) 189 FCR 109
 
 
@@ -652,27 +693,33 @@ Following IceTV, it is important to identify an author and the independent intel
 ### Unpublished Works
 
 For unpublished works, the author must be a qualified person at the time it was made. [^AUTOREPLACEDCAs321ENDREPLACE]
+
 [^AUTOREPLACEDCAs321ENDREPLACE]: _CA_ s 32(1)
 
 
 * If the making of the work extends over a period, the author must be a qualified person for a substantial part of that period [^AUTOREPLACEDCAs321ENDREPLACE]
+
 [^AUTOREPLACEDCAs321ENDREPLACE]: _CA_ s 32(1)
 
 
 * A qualified person is an Australian citizen, an Australian protected person, or a person resident in Australia. [^AUTOREPLACEDCAs324ENDREPLACE]
+
 [^AUTOREPLACEDCAs324ENDREPLACE]: _CA_ s 32(4)
 
 
 ### Published Works
 
 In terms of published works, the work must meet a specific criteria. [^AUTOREPLACEDCAs322ENDREPLACE]
+
 [^AUTOREPLACEDCAs322ENDREPLACE]: _CA_ s 32(2)
 
 
 The work must be first published in Australia or the author must be a qualified person when the work was first published. A qualified person is an Australian citizen, an Australian protected person, or a person resident in Australia, [^AUTOREPLACEDCAs324ENDREPLACE]
+
 [^AUTOREPLACEDCAs324ENDREPLACE]: _CA_ s 32(4)
 
 A work is deemed to have been published if reproductions have been supplied to the public. [^AUTOREPLACEDCAs291aENDREPLACE]
+
 [^AUTOREPLACEDCAs291aENDREPLACE]: _CA_ s 29(1)(a)
 
 
@@ -680,6 +727,7 @@ A work is deemed to have been published if reproductions have been supplied to t
 ### International Reciprocity (Principle of National Treatment)
 
 In practice, works first published internationally will be treated in the same way as Australian works. This applies only to countries who are a signatory to the _Berne Convention_, (Berne Convention countries). [^AUTOREPLACEDCopyrightInternationalProtectionRegulations1969reg4ENDREPLACE]
+
 [^AUTOREPLACEDCopyrightInternationalProtectionRegulations1969reg4ENDREPLACE]: _Copyright (International Protection) Regulations 1969_ reg 4
 
 

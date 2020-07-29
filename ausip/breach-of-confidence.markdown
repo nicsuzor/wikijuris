@@ -51,10 +51,12 @@ Each of these elements will be considered in turn.
 ### Element 1: Quality of Confidence
 
 This element is based on a requirement of secrecy. Should the information enter the public domain, the quality of confidence is lost. It is sufficient for relative secrecy [^AUTOREPLACEDGeevDayENDREPLACE]
+
 [^AUTOREPLACEDGeevDayENDREPLACE]: Gee v Day
 , total secrecy is not required.
 
 Information can be disclosed if recipient is under an obligation of confidence. [^AUTOREPLACEDNDAENDREPLACE]
+
 [^AUTOREPLACEDNDAENDREPLACE]: NDA
 
 
@@ -177,4 +179,5 @@ These include:
 2. Damages, account of profits - Usually plaintiff seeks an injunction.
 
 Beware of the Streisand effect. The Streisand effect is a phenomenon whereby an attempt to hide, remove, or censor a piece of information has the unintended consequence of publicising the information more widely, usually facilitated by the Internet. [^AUTOREPLACEDhttpsenwikipediaorgwikiStreisand_effectENDREPLACE]
+
 [^AUTOREPLACEDhttpsenwikipediaorgwikiStreisand_effectENDREPLACE]: https://en.wikipedia.org/wiki/Streisand_effect

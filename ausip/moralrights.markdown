@@ -31,6 +31,7 @@ The philosophy underpinning moral rights is that creators deserve respect integr
 **Video overview by Nicolas Suzor on [Moral Rights](https://www.youtube.com/watch?v=Zg_pPoz2BXY&index=6&list=PLa0bKPnUKQrzsxtMxKxWy_Ed2KWNs-s0u).**
 
 Moral rights were introduced by the Copyright Amendment (Moral Rights) Act 2000 (Cth) which provides that creators are protected from three sources of harm:[^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]
+
 [^AUTOREPLACEDPartIXoftheCopyrightAct1968CthENDREPLACE]: Part IX of the _Copyright Act 1968_ (Cth)
 
 
@@ -45,8 +46,10 @@ As noted above, the moral rights were extended in 2004 to include performers.
 ### Right of Attribution
 
 The right of attribution requires that an author must be identified where attributable acts are done in respect of the work [^AUTOREPLACEDCAs193ENDREPLACE]
+
 [^AUTOREPLACEDCAs193ENDREPLACE]: _CA_ s 193
 . The right of attribution is also applied to performers. [^AUTOREPLACEDCAs195ABAENDREPLACE]
+
 [^AUTOREPLACEDCAs195ABAENDREPLACE]: _CA_ s 195ABA
 
 
@@ -58,10 +61,12 @@ Creators of copyright material have the right to be attributed when the work is:
   * For performances: communicated, staged, or copied.
 
 If a creator has not stated the way in which he or she wishes to be identified, any clear and reasonably prominent form of identification may be used. [^AUTOREPLACEDCAss195195ABCENDREPLACE]
+
 [^AUTOREPLACEDCAss195195ABCENDREPLACE]: _CA_ ss 195, 195ABC
 
 
 Attribution must be clear and reasonably prominent. [^AUTOREPLACEDCAs195AA195ABDENDREPLACE]
+
 [^AUTOREPLACEDCAs195AA195ABDENDREPLACE]: _CA_ s 195AA, 195ABD
 
 
@@ -69,12 +74,14 @@ It is not necessary to attribute the creator if:
 
   * the creator has consented in writing not to be identified; or
   * it is reasonable in all the circumstances not to identify the author. [^AUTOREPLACEDCAss195AR195AXDENDREPLACE]
+
 [^AUTOREPLACEDCAss195AR195AXDENDREPLACE]: _CA_ ss 195AR, 195AXD
 
 
 ### Right against False Attribution
 
 Authors of literary, dramatic, musical and artistic works and films and performers have the right not to have the authorship of their works falsely attributed. [^AUTOREPLACEDCAss195AC195AHAENDREPLACE]
+
 [^AUTOREPLACEDCAss195AC195AHAENDREPLACE]: _CA_ ss 195AC, 195AHA
 
 
@@ -90,6 +97,7 @@ It is also an infringement of this right to knowingly deal with or communicate a
 ### Right of Integrity
 
 The right of integrity is the right not to have your work subjected to derogatory treatment. [^AUTOREPLACEDCAss195AJ195ALBENDREPLACE]
+
 [^AUTOREPLACEDCAss195AJ195ALBENDREPLACE]: _CA_ ss 195AJ-195ALB
 
 
@@ -98,6 +106,7 @@ Derogatory treatment means doing anything that results in a material distortion 
 It is not clear to what extent the test for whether a derogatory treatment is prejudicial to the author’s honour or reputation takes into account the author’s subjective view, as opposed to an objective test. To date, there have been no cases in Australia to clarify what this might mean.
 
 It is not an infringement if the derogatory treatment or other action was reasonable. [^AUTOREPLACEDCAss195ASand195AXEENDREPLACE]
+
 [^AUTOREPLACEDCAss195ASand195AXEENDREPLACE]: _CA_ ss 195AS and 195AXE
 
 
@@ -147,6 +156,7 @@ As the moral rights are relatively new, no significant body of case law has been
 Moral rights are loosely derived from the French system of droit moral. The French authorities are not directly relevant, but may serve as an illustration of the types of treatments which may be found to be derogatory in Australia.
 
  [^AUTOREPLACED2012FMCA2ENDREPLACE]
+
 [^AUTOREPLACED2012FMCA2ENDREPLACE]: [2012] FMCA 2
 
 
@@ -163,6 +173,7 @@ The Federal Magistrates Court held that the new recording infringed Perez's righ
 Fernandez's use was not reasonable in the circumstances.
 
  [^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]
+
 [^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]:  (1996) 71 FCR 37 (Carmina Burana case), [1997] FCA 531
 
 
@@ -190,6 +201,7 @@ The estate of John Huston successfully sought an injunction against a French tel
 - Material distortion of his work prejudicial to honour or reputation.
 
  [^AUTOREPLACED198870CPR2d105ENDREPLACE]
+
 [^AUTOREPLACED198870CPR2d105ENDREPLACE]:  (1988) 70 CPR (2d) 105
 
 
@@ -198,12 +210,14 @@ The Ontario High Court ordered that the ribbons be removed, holding that the tre
 Snow said it was prejudicial to his honour – reducing it to crass advertisement of Christmas.
 
  [^AUTOREPLACED1993EMLR144ENDREPLACE]
+
 [^AUTOREPLACED1993EMLR144ENDREPLACE]: [1993] E.M.L.R. 144.
 
 
 In 1993, George Michael was granted a preliminary injunction preventing the release of a medley of a number of George Michael's songs. The Court of Appeal in London found that it was arguable that the remix record could constitute derogatory treatment of George Michael's works.
 
  [^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]
+
 [^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]: [2003] EWCh 1274 (ch) [150]
 
 

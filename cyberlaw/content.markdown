@@ -89,7 +89,6 @@ The online classification scheme is a complaints-based scheme. When ACMA receive
 
 Under Schedule 7, members of the public can make complaints about prohibited or potentially prohibited content [^AUTOREPLACEDcl37AUTOREPLACED], which the Commissioner must investigate. Content that is prohibited in Australia is defined as material that is or would be:[^AUTOREPLACEDcl20AUTOREPLACED]
 
-
 [^AUTOREPLACEDcl37AUTOREPLACED]: cl 37
 
 
@@ -187,7 +186,6 @@ The National Statement of Principles Relating to the Criminalisation of the Non-
 
 The Commonwealth has inserted a new criminal offence which prohibits the posting, or threatening to post, non-consensual intimate images.[^AUTOREPLACEDEnhancingOnlineSafetyNonConsensualSharingofIntimateImagesAct2018Cthsch2s4CriminalCodeAct1995Cths47417AAUTOREPLACED] It also introduced a complaints-based system whereby the eSafety Commissioner may issue a removal notice or another civil remedy upon receipt of a victim’s complaint.[^AUTOREPLACEDEnhancingOnlineSafetyNonConsensualSharingofIntimateImagesAct2018Cthsch1s24EnhancingOnlineSafetyAct2015Cthss19A2744D44FAUTOREPLACED]
 
-
 [^AUTOREPLACEDEnhancingOnlineSafetyNonConsensualSharingofIntimateImagesAct2018Cthsch2s4CriminalCodeAct1995Cths47417AAUTOREPLACED]: Enhancing Online Safety (Non-Consensual Sharing of Intimate Images) Act 2018 (Cth) sch 2 s 4; Criminal Code Act 1995 (Cth) s 474.17A.
 
 
@@ -202,8 +200,6 @@ Queensland extended the definition of ‘intimate’ images to include original 
 
 
 The State also introduced three new misdemeanours into their Criminal Code[6] to broaden the scope of conduct which is captured under the offence. These include distributing intimate images,[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds5CriminalCodeAct1899Qlds223AUTOREPLACED] observing or recording breaches of privacy,[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds6CriminalCodeAct1899Qlds227AAUTOREPLACED] and distributing prohibited visual recordings.[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds7CriminalCodeAct1899Qlds227BAUTOREPLACED]
-
-
 
 [^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds5CriminalCodeAct1899Qlds223AUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Bill 2018 (Qld) s 5; Criminal Code Act 1899 (Qld) s 223.
 

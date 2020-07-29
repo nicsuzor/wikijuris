@@ -32,6 +32,7 @@ For designers to get protection, a design must be registered before any manufact
 Designs are protected under the *Designs Act 2003* (Cth) (_DA_). A design protects the visual appearance of mass produced goods. To gain protection of a design, it must be registered.
 
 A design is “the overall appearance of the product resulting from one or more visual features of the product”. [^AUTOREPLACEDDAs5ENDREPLACE]
+
 [^AUTOREPLACEDDAs5ENDREPLACE]: _DA_ s 5
 
 
@@ -67,6 +68,7 @@ There must be regard to:
 ## Registration Process
 
 The owner of a design is entitled to apply for its registration. [^AUTOREPLACEDDAs13ENDREPLACE] A design application may be in respect of more than one design. [^AUTOREPLACEDDAs21ENDREPLACE] Registration occurs without substantive examination - only the formal requirements are checked. [^AUTOREPLACEDDAss2439and40ENDREPLACE]
+
 [^AUTOREPLACEDDAs13ENDREPLACE]: _DA_ s 13
 
 [^AUTOREPLACEDDAs21ENDREPLACE]: _DA_ s 21
@@ -77,14 +79,17 @@ The owner of a design is entitled to apply for its registration. [^AUTOREPLACEDD
 ### Request for Registration or Publication
 
 Applicants must request either registration or publication. [^AUTOREPLACEDDAs35ENDREPLACE]
+
 [^AUTOREPLACEDDAs35ENDREPLACE]: _DA_ s 35
 
 
 Publication is an alternative to registration. It does not give the design protection, but prevents subsequent registration of the same design by a third party. It may entitle the applicant to rely on copyright protection. The application will be checked to see if it satisfies the minimum requirements. [^AUTOREPLACEDDAss3940ENDREPLACE]
+
 [^AUTOREPLACEDDAss3940ENDREPLACE]: _DA_ ss 39 - 40
 
 
 Registration of an application will occur after an initial formalities check. [^AUTOREPLACEDDAss3940ENDREPLACE] Once registered, the details of the design will be published and the Registrar will issue a certificate of registration. [^AUTOREPLACEDDAs45ENDREPLACE] If the Registrar is not satisfied with the application, the applicant will be given the opportunity to amend it. [^AUTOREPLACEDDAs41ENDREPLACE]
+
 [^AUTOREPLACEDDAss3940ENDREPLACE]: _DA_ ss 39 - 40
 
 [^AUTOREPLACEDDAs45ENDREPLACE]: _DA_ s 45
@@ -95,6 +100,7 @@ Registration of an application will occur after an initial formalities check. [^
 ### Post-Registration Examination
 
 Examination now occurs post-grant, if a person requests or the court orders examination. [^AUTOREPLACEDDAs63ENDREPLACE] Infringement proceedings cannot be launched until examination has occurred. [^AUTOREPLACEDDAs733ENDREPLACE] If there is no ground for revocation, a certificate of examination is issued. [^AUTOREPLACEDDAs67ENDREPLACE] However, if grounds of revocation are found, either the owner must be allowed to amend it if possible, [^AUTOREPLACEDDAs663ENDREPLACE] or the registration will be revoked. [^AUTOREPLACEDDAs68ENDREPLACE]
+
 [^AUTOREPLACEDDAs63ENDREPLACE]: _DA_ s 63
 
 [^AUTOREPLACEDDAs733ENDREPLACE]: _DA_ s 73(3)
@@ -109,12 +115,14 @@ Examination now occurs post-grant, if a person requests or the court orders exam
 ### Duration
 
 A design is initially valid for 5 years, but can be renewed for a total of ten years if the renewal fee is paid. [^AUTOREPLACEDDAss46and47ENDREPLACE]
+
 [^AUTOREPLACEDDAss46and47ENDREPLACE]: _DA_ ss 46 and 47
 
 
 ## Exclusive Rights
 
 A design gives the owner exclusive rights to control the way that products embodying the design are used. [^AUTOREPLACEDDAs10ENDREPLACE]
+
 [^AUTOREPLACEDDAs10ENDREPLACE]: _DA_ s 10
 
 
@@ -136,6 +144,7 @@ These rights include:
 ### Embodies the design
 
 A design will not be registrable or may be infringing if it is considered to “embod[y] a design that is identical to, or substantially similar in overall impression to, the registered design”.  Same factors as for registrability. [^AUTOREPLACEDDAs713ENDREPLACE]
+
 [^AUTOREPLACEDDAs713ENDREPLACE]: _DA_ s 71(3)
 
 
@@ -144,6 +153,7 @@ In *Review Australia Pty Ltd v Innovative Lifestyle Investments Pty Ltd* (2008
 ## Infringement
 
 Infringement proceedings can be brought once the design is examined and a certificate of examination is issued. [^AUTOREPLACEDDAs733ENDREPLACE] The onus is on the registered owner to show infringement. [^AUTOREPLACEDDAs722ENDREPLACE] Infringement occurs when, without licence or authority: [^AUTOREPLACEDDAs71ENDREPLACE]
+
 [^AUTOREPLACEDDAs733ENDREPLACE]: _DA_ s 73(3)
 
 [^AUTOREPLACEDDAs722ENDREPLACE]: _DA_ s 72(2)
@@ -160,6 +170,7 @@ Infringement proceedings can be brought once the design is examined and a certif
 ## Spare Parts Defence
 
 The spare parts defence allows use of a product to repair a complex product.  Does not cover use of the component part as original equipment or non-repair uses. [^AUTOREPLACEDDAs72ENDREPLACE]
+
 [^AUTOREPLACEDDAs72ENDREPLACE]: _DA_ s 72
 
 
@@ -168,6 +179,7 @@ The spare parts defence allows use of a product to repair a complex product.  Do
 In the case of infringement of a registered design, a court may award an injunction subject to such terms as the court thinks fit; or they may award damages or an account of profits.
 
 A court may refuse to award damages, if at the time of the infringement, the defendant was not aware that the design was registered and had taken all reasonable steps to ascertain whether the design was registered. [^AUTOREPLACEDDAs752ENDREPLACE]
+
 [^AUTOREPLACEDDAs752ENDREPLACE]: _DA_ s 75(2)
 
 
@@ -186,10 +198,12 @@ Importantly, the copyright design overlap doesn’t apply to industrial works of
 ### Recap: Copyright Infringement
 
 Reproduction of an artistic work is an infringement. [^AUTOREPLACEDCAs31ENDREPLACE]
+
 [^AUTOREPLACEDCAs31ENDREPLACE]: _CA_ s 31
 
 
 2D <-> 3D reproduction of an artistic work is an infringement. [^AUTOREPLACEDCAs21ENDREPLACE]
+
 [^AUTOREPLACEDCAs21ENDREPLACE]: _CA_ s 21
   Artistic work includes paintings etc; buildings and models; and works of artistic craftsmanship.  Reproduction of works of artistic craftsmanship is also an infringement (3D to 3D).
 
@@ -212,12 +226,14 @@ Articles that can be registered as designs are not eligible for copyright protec
 ### Copyright Lost Where There is a Corresponding Registered Design
 
 Pursuant to the _Copyright Act 1968_ (Cth), where a design is or has been registered, it is not an infringement of an artistic work to reproduce the work by embodying that, or any other, corresponding design in a product.[^AUTOREPLACEDCAs75ENDREPLACE]
+
 [^AUTOREPLACEDCAs75ENDREPLACE]: _CA_ s 75
 
 
 ### Copyright Lost Where There is an Unregistered Corresponding Design
 
 Pursuant to the _Copyright Act 1968_ (Cth) where a design has been applied industrially, it is not an infringement of an artistic work to reproduce the work by embodying that, or any other corresponding design in a product. [^AUTOREPLACEDCAs77ENDREPLACE]
+
 [^AUTOREPLACEDCAs77ENDREPLACE]: _CA_ s 77
  'Applied industrially' is a question of fact, although a design will definitely be industrially applied if there is more than 50 articles (*Copyright Regulations 1969* (Cth) r 17). This is the presumption set out in the *Copyright Regulations 1969* (Cth). Once this has occurred, the design is considered to be a mass produced industrial application and the right holder looses their ability to be protected by copyright protection. Creators who intend to mass-produce their designs should apply for design protection.
 
@@ -244,6 +260,7 @@ Copyright did subsist in the patterns. Right to prohibit manufacture lost under 
 ### Plan-to-Plan and Advertising Exception
 
 It is not an infringement of copyright in an artistic work to reproduce if reproduction is derived from a 3D product that embodies a corresponding design; and reproduction is in the course of making, selling, or advertising a non-infringing product.[^AUTOREPLACEDCAs77AENDREPLACE]
+
 [^AUTOREPLACEDCAs77AENDREPLACE]: _CA_ s 77A
 
 

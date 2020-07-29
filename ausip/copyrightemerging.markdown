@@ -22,6 +22,7 @@ There are many emerging issues in copyright law. The majority of these issues ar
 ## Open Access
 
 Open access to information and knowledge is a central issue in the copyright space. According to the Scholarly Publishing and Academic Resources Coalition (SPARC), "[o]pen access is the free, immediate, online availability of research articles combined with the rights to use these articles fully in the digital environment. Open Access is the needed modern update for the communication of research that fully utili[s]es the Internet for what it was originally built to do— accelerate research". [^AUTOREPLACEDSPARCOpenAccesshttpssparcopenorgopenaccessENDREPLACE]
+
 [^AUTOREPLACEDSPARCOpenAccesshttpssparcopenorgopenaccessENDREPLACE]: SPARC, Open Access, https://sparcopen.org/open-access/
 
 
@@ -34,6 +35,7 @@ For more information view the SPARC [Open Access Factsheet](https://sparcopen.or
 ### Safe Harbours Scheme
 
 The Safe Harbours scheme was introduced in Australia in 2005 as part of the implementation of the _Australia-US Free Trade Agreement_. The Safe Harbour scheme provides an incentive for service providers to establish efficient mechanisms for the removal from their platforms of material that infringes copyright. In return, service providers are protected from liability relating to any such infringement. See [Electronic Frontiers Australia, 'Safe Harbours' Policy Position 2017](https://www.efa.org.au/our-work/copyright/safe-harbours/) [^AUTOREPLACEDInformationtakenfromtheElectronicFrontiersAustraliaSafeHarboursPolicyPosition2017CCBYENDREPLACE]
+
 [^AUTOREPLACEDInformationtakenfromtheElectronicFrontiersAustraliaSafeHarboursPolicyPosition2017CCBYENDREPLACE]: Information taken from the Electronic Frontiers Australia, 'Safe Harbours' Policy Position 2017 CC-BY
 
 
@@ -79,6 +81,7 @@ The [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)
 Geo-blocking is technology that restricts access to Internet content based upon the user's geographical location. There are circumvention measures such as Virtual Protection Networks (VPN) that can be used to work around geo-blocking to allow access to the geo blocked content.  
 
 This type of activity is becoming more popular when trying to access content that is not currently available in Australia. For instance, when using a streaming service to access films, "Australian consumers can only access one third of the films available to American consumers..." [^AUTOREPLACEDSuzorNicolasPVanGeelenTessPappalardoKylieMBurgessJeanWikstromPatrikVenturaRodriguezYanery2017AustralianconsumeraccesstodigitalcontentAustralianCommunicationsConsumerActionNetworkENDREPLACE]
+
 [^AUTOREPLACEDSuzorNicolasPVanGeelenTessPappalardoKylieMBurgessJeanWikstromPatrikVenturaRodriguezYanery2017AustralianconsumeraccesstodigitalcontentAustralianCommunicationsConsumerActionNetworkENDREPLACE]: Suzor, Nicolas P., Van Geelen, Tess, Pappalardo, Kylie M., Burgess, Jean, Wikstrom, Patrik, & Ventura-Rodriguez, Yanery (2017) Australian consumer access to digital content. Australian Communications Consumer Action Network
 
 

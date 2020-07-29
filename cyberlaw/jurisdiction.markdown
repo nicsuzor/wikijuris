@@ -43,8 +43,6 @@ _In the strict sense,_ jurisdiction "refers to the authority of a court to decid
 
 [^AUTOREPLACED_JohnPfeifferPtyLtdvRogerson_2000HCA36at25AUTOREPLACED]: _John Pfeiffer Pty Ltd v Rogerson_ [2000] HCA 36 at [25]
 
-
-
 [^AUTOREPLACEDCyberLawCentreInternetJurisdictionWhatIsJurisdictionwwwcyberlawcentreorggenl203212Jurisdictionv1pptxAUTOREPLACED]: Cyber Law Centre, 'Internet Jurisdiction - What Is Jurisdiction?' www.cyberlawcentre.org/genl2032/12Jurisdiction-v1.pptx
 
 

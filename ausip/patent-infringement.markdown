@@ -18,6 +18,7 @@ grand_parent: Australian IP Law
 
 ### Exclusive Rights of Patentee
 The patentee has the right to ‘exploit’ the invention. [^AUTOREPLACEDs131ENDREPLACE]
+
 [^AUTOREPLACEDs131ENDREPLACE]: s 13(1)
  'Exploit' is defined in Schedule 1 to mean:
 
@@ -25,6 +26,7 @@ The patentee has the right to ‘exploit’ the invention. [^AUTOREPLACEDs131END
 * In relation to a process/method: to use the process.
 
 The rights granted to a patentee are considered personal property. [^AUTOREPLACEDs132ENDREPLACE]
+
 [^AUTOREPLACEDs132ENDREPLACE]: s 13(2)
 
 
@@ -36,6 +38,7 @@ Ownership, within s6 of the *Statute of Monopolies* traditionally referred to th
 
 
 There can be joint inventors of a patent. [^AUTOREPLACEDs31ENDREPLACE] Joint inventors take the patent as tenants in common [^AUTOREPLACEDs161aENDREPLACE] Each is entitled to work the invention without accounting to the others [^AUTOREPLACEDs161bENDREPLACE] However, all joint inventors must consent to the grant of a licence or assignment of an interest. (s 16(1)(c) )) The  Commissioner of Patents will be engaged to resolve instances of dispute between co-owners of a patent. [^AUTOREPLACEDs17ENDREPLACE]
+
 [^AUTOREPLACEDs31ENDREPLACE]: s 31
 
 [^AUTOREPLACEDs161aENDREPLACE]: s 16(1)(a)
@@ -56,6 +59,7 @@ Ownership of employee inventions vests in employers where there is an express te
 
 
 Ownership can also vest in employers by way of implied terms. Where employees are engaged to use their inventive faculty, they will be considered to be doing work they are paid to do. In these instances, the benefits to the employer include the rights to invention. [^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE]
+
 [^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE]: _UWA v Gray_ (2009) 82 IPR 206
 
 
@@ -86,6 +90,7 @@ License provide permissions for others to make use of the patent.  For patents o
 
 
 A licensee may terminate the licence agreement even if it is still in force at the time the patent expires. [^AUTOREPLACEDs145ENDREPLACE]
+
 [^AUTOREPLACEDs145ENDREPLACE]: s 145
 
 
@@ -109,40 +114,48 @@ Licence may be exclusive, sole or non-exclusive.
 There can also be implied licences, for example a purchaser's right to use a patented product, or a purchaser's right to repair a patented product. Such uses will not breach the patent.
 
 Compulsory licences also exist under the _Act_. A court application is required to evoke compulsory licenses. These arise where a patentee has failed to exploit the patent in the patent territory. [^AUTOREPLACEDss1332135and144ENDREPLACE]
+
 [^AUTOREPLACEDss1332135and144ENDREPLACE]: ss 133(2), 135 and 144
 
 
 **Exclusive Licences**
 
 An exclusive licensee may commence infringement proceedings. [^AUTOREPLACEDs1201ENDREPLACE] The licensee must join the patentee as a party as co-plaintiff (joint legal representation) or as a defendant. [^AUTOREPLACEDs1202ENDREPLACE]
+
 [^AUTOREPLACEDs1201ENDREPLACE]: s 120(1)
 
 [^AUTOREPLACEDs1202ENDREPLACE]: s 120(2)
 
 
 An exclusive licensee means a licensee under a licence granted by the patentee and conferring on the licensee, or on the licensee and persons authorised by the licensee, the right to exploit the patented invention throughout the patent area to the exclusion of the patentee and all other persons. [^AUTOREPLACEDExparteBritishNylonSpinners1963109CLR336ENDREPLACE]
+
 [^AUTOREPLACEDExparteBritishNylonSpinners1963109CLR336ENDREPLACE]: *Ex parte British Nylon Spinners* (1963) 109 CLR 336
 
 
 Multiple exclusive licenses for patents in respect of different uses of the invention are not permitted. [^AUTOREPLACEDBristolMyersSquibbCompanyvApotexPtyLtdNo52013FCA1114425439perYatesJENDREPLACE]
+
 [^AUTOREPLACEDBristolMyersSquibbCompanyvApotexPtyLtdNo52013FCA1114425439perYatesJENDREPLACE]: *Bristol-Myers Squibb Company v Apotex Pty Ltd (No 5)* [2013] FCA 1114, [425]-[439] per Yates J
 
 
 ## Infringement
 
 Patent infringement proceedings are outlined in s120 of the _Act_. Proceedings can be commenced by a patentee or exclusive licensee, although an exclusive licensee must join the patentee as a defendant or plaintiff. [^AUTOREPLACEDs1202ENDREPLACE]
+
 [^AUTOREPLACEDs1202ENDREPLACE]: s120(2
 ) 'Infringement' is not defined by the _Act_ however is considered to occur when a person exercises one of the exclusive rights of the patentee without their consent. The concepts of knowledge and intent are not elements of patent infringement. Infringement depends purely on whether a person other than the patentee, licensee or someone authorised is exploiting the exclusive rights of the patentee.
 
 As noted previously, the exclusive rights of the patentee are to exploit the invention; including using, selling or making the invention [^AUTOREPLACEDs13Sch1ENDREPLACE]
+
 [^AUTOREPLACEDs13Sch1ENDREPLACE]: s 13, Sch 1
 . These exclusive rights commence on publication of the complete specification. [^AUTOREPLACEDs571ENDREPLACE] Infringement proceedings can only be commenced once the patent is granted. [^AUTOREPLACEDs573ENDREPLACE]
+
 [^AUTOREPLACEDs571ENDREPLACE]: s 57(1)
 
 [^AUTOREPLACEDs573ENDREPLACE]: s 57(3)
 
 
 Proceedings must be started within the later of 3 years of the patent being granted, or 6 years from the date of the infringing act.  [^AUTOREPLACEDs1204ENDREPLACE]
+
 [^AUTOREPLACEDs1204ENDREPLACE]: s 120(4)
 
 
@@ -151,12 +164,14 @@ Proceedings must be started within the later of 3 years of the patent being gran
 A literal interpretation of the patent claims will not always suffice. [^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]
 This is known as the 'pith and marrow' (purposive) approach.
 The test for infringement is whether all essential integers (elements) of the patent have been taken - this is a question of fact. [^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE]
+
 [^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE]: *Rodi & Wienenberger AG v Henry Showell Ltd*
 [^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]: *Populin v HB Nominees Pty Ltd*
 
 #### Pith and Marrow  
 
 The pith and marrow refers to the 'essence and substance' of the invention. [^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE] Whilst this phrase is rarely used in modern patent law cases, the phrase is intended to refer to the "novel features only that [the patentee] claims to be essential", these are the essential integers of the patent claim. [^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]
+
 [^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE]: _Clark v Adie_ (1875) 10 Ch App 667
 
 [^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]:  _Catnic Components Ltd v Hill & Smith Ltd_ [1982] RPC 183, 243; _Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd_ (2005) 67 IPR 230, 245
@@ -186,6 +201,7 @@ Section 117 of the _Act_ outlines the doctrine of contributory infringement.
 	* (c)  in any case the use of the product in accordance with any instructions for the use of the product, or any inducement to use the product, given to the person by the supplier or contained in an advertisement published by or with the authority of the supplier.
 
 The mere completion of supply of the patentable product amounts to infringement. It is immaterial whether the product is put to an infringing use. [^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]
+
 [^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]: _Collins v Northern Territory_ (2007) 161 FCR 549, [61] French J; _Generic Health Pty Ltd v Otsuka Pharmaceutical Co Ltd_ (2013) 296 ALR 50, [140]
 
 
@@ -234,6 +250,7 @@ Focuses on the invention, patent, or infringement of the patent – doesn’t ex
 Remedies for infringement are contained in ss 122 and 123.  A court may grant an injunction (on any terms the court deems fit) or, at the option of the plaintiff, either damages or an account of profits.
 
 The court may order infringing articles to be delivered up for destruction or issues Anton Piller orders (to preserve evidence). The court may "refuse to award damages, or to make an order for an account of profits, in respect of an infringement of a patent" if the infringement is considered an innocent infringement. [^AUTOREPLACEDs1231ENDREPLACE]
+
 [^AUTOREPLACEDs1231ENDREPLACE]: s 123(1)
 
 
@@ -250,6 +267,7 @@ A non-infringment declaration can be awarded. [^AUTOREPLACEDss125127ENDREPLACE] 
 
 
 A counterclaim for revocation of the patent can be brought by the alleged infringer. [^AUTOREPLACEDs121ENDREPLACE]
+
 [^AUTOREPLACEDs121ENDREPLACE]: s 121
   A respondent may allege a patent is not valid and ask for revocation of the patent. This is available since the validity of patent is not guaranteed. [^AUTOREPLACEDs20ENDREPLACE] A patentee whose claims survive a challenge to their validity in litigation may apply for a certificate of validity pursuant to s 19. The certificate outlines that the claim has been challenged and survive. This can be used in the future – and provides a judge further opportunity to grant an order for costs.
 [^AUTOREPLACEDs20ENDREPLACE]: s 20
@@ -267,6 +285,7 @@ The provisions dealing with unjustified threats are contained in Part 3, Chapter
 * (c) the recovery of any damages sustained by the applicant as a result of the threats.
 
 However, mere notification of the existence of a patent or a patent application is not a threat for the purposes of s128. [^AUTOREPLACEDs131ENDREPLACE]
+
 [^AUTOREPLACEDs131ENDREPLACE]: s131
 
 
@@ -290,6 +309,7 @@ To avoid being named as a respondent to an unjustified threats proceedings:
 In 1970 the _Patent Co-operation Treaty_ (_PCT_) was drafted. The _PCT_ was drafted within the existing framework of the Paris Convention. There are over 147 countries who are members of the Paris Convention. The _PCT_ is a comprehensive guide to patent law standards. The PCT not only makes it easier for patentees to file applications in multiple countries, it also seeks to harmonise the national patent laws of the countries. The _PCT_ has been considered successful is assisting in the development of patent law globally.  
 
 _The Agreement on Trade-Related Aspects of Intellectual Property Rights_ (_TRIPS_), which built upon the foundations of the _PCT_ was enacted to address the gap in the laws and the demands of modern technology and innovation, _TRIPS_ is administered by the World Trade Organisation (WTO) and seeks to facilitate international trade and promote stability in the global economy by setting minimum standards for IP. _TRIPS_ sought to further minimise the deviations between national patent laws. For instance in Australia, as a result of TRIPS, the term of patent protection was increased from 16 years to the international standard of 20 years.[^AUTOREPLACEDArticle12TRIPSENDREPLACE]
+
 [^AUTOREPLACEDArticle12TRIPSENDREPLACE]: Article 12 TRIPS
 
 
@@ -300,10 +320,12 @@ TRIPS also set out the basic criteria for patentability. Pursuant to Article 27 
 In 2005 Australia entered intro a bilateral trade agreement with the US, _The Australia-US Free Trade Agreement_ (_AUSFTA_), which also required a number of significant changes to Australia’s IP laws including patent legislation.
 
 _TRIPS_ is administered by the WTO and seeks to facilitate international trade and promote stability in the global economy by setting minimum standards for intellectual property.[^AUTOREPLACEDTheUSFreeTradeAgreementImplementationAct2004CthSch8ENDREPLACE]
+
 [^AUTOREPLACEDTheUSFreeTradeAgreementImplementationAct2004CthSch8ENDREPLACE]: The _US Free Trade Agreement Implementation Act 2004_ (Cth) Sch 8
 
 
 Since 2004 there have been other amendments made to the _Patents Act 1990_ (Cth), predominantly motivated by the need to ensure Australia’s laws were comparable and compatible with Australia’s international trading partners.[^AUTOREPLACEDSeetheIntellectualPropertyLawsAmendmentAct2006CthandIntellectualPropertyLawsAmendmentRaisingtheBarAct2012CthENDREPLACE]
+
 [^AUTOREPLACEDSeetheIntellectualPropertyLawsAmendmentAct2006CthandIntellectualPropertyLawsAmendmentRaisingtheBarAct2012CthENDREPLACE]: See the _Intellectual Property Laws Amendment Act 2006_ (Cth) and _Intellectual Property Laws Amendment (Raising the Bar) Act 2012_ (Cth
 )
 

@@ -54,6 +54,7 @@ Each of these will be considered in turn.
 ### Work Produced in the Course of Employment
 
 Where a creator is working under a contract of employment, the rule is that the employer owns copyright of works produced in the course of employment. [^AUTOREPLACEDCAs356ENDREPLACE] The creator must be working under a contract *of* service, as distinguished from a contract *for* services. In other words, they must be an employee and not an independent contractor.  Additionally, a person employed as a consultant retains copyright in the work he/she produces, subject to contrary express agreement. [^AUTOREPLACEDOceanroutesAustraliaPtyLtdvMCLamond1984AIPC90ENDREPLACE]
+
 [^AUTOREPLACEDCAs356ENDREPLACE]: _CA_ s 35(6)
 
 [^AUTOREPLACEDOceanroutesAustraliaPtyLtdvMCLamond1984AIPC90ENDREPLACE]: _Oceanroutes (Australia) Pty Ltd v M C Lamond_ [1984] AIPC 90
@@ -64,11 +65,13 @@ Where a creator is working under a contract of employment, the rule is that the 
 
 
 In determining whether the work is created in the course of employment, it can be helpful to ask: "Whether on the one hand the employee is employed as part of the business and his work is an integral part of the business, or whether his work is not integrated into the business but is only accessory to it, or, […] the work is done by him in business on his own account." [^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]
+
 [^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]: _Mr Diljeet Titus v Mr. Alfred A Adebare_ 130 (2006) DLT 130 (Delhi High Court)
 
 
 <div markdown="block" class="box  case">
 ##### Beloff v Pressdram Ltd [^AUTOREPLACED1973FSR33ENDREPLACE]
+
 [^AUTOREPLACED1973FSR33ENDREPLACE]: [1973] FSR 33
 
 
@@ -91,6 +94,7 @@ Journalists are the owners of copyright in the articles they produce within the 
 For these purposes, the journalist will not need permission from their employer. A facsimile copy is generally an exact copy made, for example, by a photocopying or fax machine.
 
 The proprietor of the newspaper or magazine (the journalist's employer) is the owner of copyright for any other purpose. [^AUTOREPLACEDCAs354ENDREPLACE]
+
 [^AUTOREPLACEDCAs354ENDREPLACE]: _CA_ s 35(4)
 
 
@@ -98,6 +102,7 @@ The proprietor of the newspaper or magazine (the journalist's employer) is the o
 ### Commissioned Artistic Works
 
 In the following cases, the person who commissioned the work, rather than the person who created the works, owns copyright in it: [^AUTOREPLACEDCAs355ENDREPLACE]
+
 [^AUTOREPLACEDCAs355ENDREPLACE]: _CA_ s 35(5)
 
 
@@ -106,6 +111,7 @@ In the following cases, the person who commissioned the work, rather than the pe
 * the painting or drawing of a portrait; and
 
 * the making of an engraving. [^AUTOREPLACEDCAs355ENDREPLACE]
+
 [^AUTOREPLACEDCAs355ENDREPLACE]: _CA_ s 35(5)
 
 
@@ -117,6 +123,7 @@ Under s 35(5), if the person who commissions the relevant artistic works makes k
 
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED198264FLR145ENDREPLACE]
+
 [^AUTOREPLACED198264FLR145ENDREPLACE]: (1982) 64 FLR 145
 
 
@@ -136,6 +143,7 @@ This definition does not mean that all jointly produced works result in joint au
 
 <div markdown="block" class="box  case">
 __ [^AUTOREPLACED1938Ch106ENDREPLACE]
+
 [^AUTOREPLACED1938Ch106ENDREPLACE]: [1938] Ch 106
 
 
@@ -144,6 +152,7 @@ Held, where a person communicates an idea to an author and the author clothes th
 
 
 Joint authors take ownership as tenants in common – each has title to sue and can sue each other.[^AUTOREPLACEDPriorvSheldonENDREPLACE]
+
 [^AUTOREPLACEDPriorvSheldonENDREPLACE]: _Prior v Sheldon_
 
 
@@ -166,6 +175,7 @@ For recordings of live performances, the sound recording is owned jointly by the
 
 
 Pursuant to s 97, where a person commissions a sound recording for valuable consideration, then the person who commissioned the recording is the copyright owner, subject to any agreement to the contrary. [^AUTOREPLACEDCAENDREPLACE]
+
 [^AUTOREPLACEDCAENDREPLACE]: _CA_
 
 
@@ -174,6 +184,7 @@ Pursuant to s 97, where a person commissions a sound recording for valuable cons
 ### Cinematographic Films
 
 The first owner of copyright in a cinematograph film is the maker of the film. [^AUTOREPLACEDCAs982ENDREPLACE]
+
 [^AUTOREPLACEDCAs982ENDREPLACE]: _CA_ s 98(2)
 
 
@@ -193,20 +204,24 @@ Section 22(5) provides that a broadcast is taken to have been made by the person
 ### Published Editions of Works
 
 The owner of copyright in a published edition is the publisher. [^AUTOREPLACEDCAs100ENDREPLACE]
+
 [^AUTOREPLACEDCAs100ENDREPLACE]: _CA_ s 100
 
 
 ## Proof of Ownership
 
 In a copyright case, unless ownership is put in issue, copyright is presumed to subsist and the plaintiff is presumed to be the owner. [^AUTOREPLACEDCAs126ENDREPLACE]
+
 [^AUTOREPLACEDCAs126ENDREPLACE]: _CA_ s 126
 
 
 Labels or marks indicating the year and place of the publication or the making of a work are admissible as prima facie evidence of copyright subsistence [^AUTOREPLACEDCAss126Aand126BENDREPLACE]
+
 [^AUTOREPLACEDCAss126Aand126BENDREPLACE]: _CA_ ss 126A and 126B
 
 
 The name appearing on a work is presumed to be the author and first owner of the work.[^AUTOREPLACEDCAs127ENDREPLACE] If s 127 does not apply, then the name of the publisher appearing on a work published in the last 70 years is presumed to be the owner. [^AUTOREPLACEDCAs128ENDREPLACE]
+
 [^AUTOREPLACEDCAs127ENDREPLACE]: _CA_ s 127
 
 [^AUTOREPLACEDCAs128ENDREPLACE]: _CA_ s 128
@@ -221,14 +236,17 @@ The term “crown copyright” refers to Government (or “Crown”) owned copyr
 These include:
 
 * works made by or under the direction or control of the Crown; [^AUTOREPLACEDCAs176ENDREPLACE]
+
 [^AUTOREPLACEDCAs176ENDREPLACE]: _CA_ s 176
 
 
 * works first published by the Crown; [^AUTOREPLACEDCAs177ENDREPLACE]
+
 [^AUTOREPLACEDCAs177ENDREPLACE]: _CA_ s 177
  and
 
 * sound recording and films made by, or under the direction or control of the Crown. [^AUTOREPLACEDCAs178ENDREPLACE]
+
 [^AUTOREPLACEDCAs178ENDREPLACE]: _CA_ s 178
 
 
@@ -237,6 +255,7 @@ The duration of Crown copyright is 50 years.
 The Copyright Law Review Committee (CLRC) recommended the abolition of special privileges for the Crown in their report, Crown Copyright (2005), but the Australian Government did not implement these recommendations.
 
 __ [^AUTOREPLACED2007FCAC80ENDREPLACE]
+
 [^AUTOREPLACED2007FCAC80ENDREPLACE]: [2007] FCAC 80
 
 
