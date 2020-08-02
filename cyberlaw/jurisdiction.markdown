@@ -57,6 +57,7 @@ A court will only have personal jurisdiction over a foreign defendant if the def
   * the defendant is domiciled or ordinary resident in the relevant jurisdiction;
   * disputed property is within relevant jurisdiction (in rem jurisdiction); or
   * there are special grounds under tort, contract or consumer laws, or a breach of another statute.
+  
 Generally, for a court to have personal jurisdiction over a defendant, the court must serve that  defendant with an originating process issued by the court while the defendant is within the court's geographical boundaries.
 
 ## Subject Matter Jurisdiction
