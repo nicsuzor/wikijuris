@@ -4,6 +4,7 @@ title: Copyright Notice and Takedown: Safe Harbours
 parent: Governing the Internet
 nav_order: 60
 ---
+
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_safe_harbours.markdown){: .btn .btn-outline }
 
 
@@ -190,7 +191,7 @@ Naturally, people sometimes try to sell material that infringes the copyright an
 
 </div>
 
-Redbubble could not rely on the notice and takedown scheme to limit its liability. The practical effect is that although Redbubble was quite conscientious in developing policies and processes to deal with infringements, it was still liable for creating a system that inevitably resulted in some degree of infringement. 
+Redbubble could not rely on the notice and takedown scheme to limit its liability. The practical effect is that although Redbubble was quite conscientious in developing policies and processes to deal with infringements, it was still liable for creating a system that inevitably resulted in some degree of infringement.
 
 This case neatly illustrates a concern that content hosts and other internet companies have had in Australia: how can they adequately manage the risks of running a service that involves user-generated content?
 
