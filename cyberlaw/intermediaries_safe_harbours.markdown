@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copyright Notice and Takedown: Safe Harbours
+title: Copyright Notice and Takedown Safe Harbours
 nav_order: 61
 parent: Governing the Internet
 ---
