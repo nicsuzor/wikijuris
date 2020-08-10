@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Copyright Notice and Takedown: Safe Harbours
+nav_order: 61
 parent: Governing the Internet
-nav_order: 60
 ---
+
 
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_safe_harbours.markdown){: .btn .btn-outline }
 
