@@ -35,7 +35,11 @@ Australia was obliged to implement DMCA-style legislation (known as TRIPS+) as a
 
 ### Only ISPs Can Rely on the Safe Harbours
 
-The Australian Safe Harbours, unlike those in the US DMCA, only apply to 'Carriage Service Providers' (CSP). This is defined in [Telecommunications Act 1997 (Cth) s 87](http://www.austlii.edu.au/au/legis/cth/consol_act/ta1997214/s87.html). Essentially, a CSP is an ISP. What this means, crucially, is that the Australian safe harbours do not apply to content hosts. There are four safe harbours that apply to different types of activity:
+The Australian Safe Harbours, unlike those in the US DMCA, primarily apply to 'Carriage Service Providers' (CSP). This is defined in [Telecommunications Act 1997 (Cth) s 87](http://www.austlii.edu.au/au/legis/cth/consol_act/ta1997214/s87.html). Essentially, a CSP is an ISP. What this means, crucially, is that the Australian safe harbours do not apply to content hosts. 
+
+The safe harbours were [amended recently](http://www5.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s116aba.html) to also cover organisations assisting persons with a disability, libraries, archives, key cultural institutions, and educational institutions. The Government declined to extend them to content hosts and other online service providers. 
+
+There are four safe harbours that apply to different types of activity:
 
 **Category A Activity: Transmission (s 116AC)**
 
