@@ -193,6 +193,12 @@ Naturally, people sometimes try to sell material that infringes the copyright an
 
 Redbubble could not rely on the notice and takedown scheme to limit its liability. The practical effect is that although Redbubble was quite conscientious in developing policies and processes to deal with infringements, it was still liable for creating a system that inevitably resulted in some degree of infringement.
 
+However, the plaintiffs were unable to establish actual harm, and could not show that "the sale made by the infringement ... was necessarily a sale that would have been made by the wronged party". The Court found that the assumption of a 1:1 displacement of sales was unreliable, especially given the mash ups that would not have been licensed. The Court held that
+
+> The evidence thus did not support a confident finding of damages in the amount claimed. Such damages as may be assumed to have been suffered must, at best, be nominal.
+
+The Federal Court awarded Pokémon $1 in damages, no injunctive relief, and 70% of its court costs.
+
 This case neatly illustrates a concern that content hosts and other internet companies have had in Australia: how can they adequately manage the risks of running a service that involves user-generated content?
 
 ## Some US Authority
