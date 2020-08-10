@@ -33,11 +33,11 @@ Essentially, the copyright safe harbours provide that online service providers (
 
 Australia was obliged to implement DMCA-style legislation (known as TRIPS+) as a result of the US free-trade agreement (AUSFTA). Changes to Australian law largely followed the US model, but were redrafted. The Australian safe harbours are in _Copyright Act 1968_ (Cth) Part V Div 2AA; the main operative provisions are ss 116AG and 116AH(1).
 
-### Only ISPs Can Rely on the Safe Harbours
+### Only ISPs (and some other institutions) can rely on the Safe Harbours
 
-The Australian Safe Harbours, unlike those in the US DMCA, primarily apply to 'Carriage Service Providers' (CSP). This is defined in [Telecommunications Act 1997 (Cth) s 87](http://www.austlii.edu.au/au/legis/cth/consol_act/ta1997214/s87.html). Essentially, a CSP is an ISP. What this means, crucially, is that the Australian safe harbours do not apply to content hosts. 
+The Australian Safe Harbours, unlike those in the US DMCA, primarily apply to 'Carriage Service Providers' (CSP). This is defined in [Telecommunications Act 1997 (Cth) s 87](http://www.austlii.edu.au/au/legis/cth/consol_act/ta1997214/s87.html). Essentially, a CSP is an ISP. What this means, crucially, is that the Australian safe harbours do not apply to content hosts.
 
-The safe harbours were [amended recently](http://www5.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s116aba.html) to also cover organisations assisting persons with a disability, libraries, archives, key cultural institutions, and educational institutions. The Government declined to extend them to content hosts and other online service providers. 
+The safe harbours were [amended recently](http://www5.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s116aba.html) to also cover organisations assisting persons with a disability, libraries, archives, key cultural institutions, and educational institutions. The Government declined to extend them to content hosts and other online service providers.
 
 There are four safe harbours that apply to different types of activity:
 
@@ -168,6 +168,31 @@ The Court in the full court appeal did not hold that the policy was sufficient, 
 **'Repeat infringer':** Jagot and Nicholas JJ held that because iiNet's policy did not reference repeat infringers it was not sufficient because the policy could be applied to a user who had only infringed copyright once or one who had infringed it multiple times. In other words, the policy was not tailored to the legislation.
 
 </div>
+
+### Pokemon v Redbubble
+
+The impact of a safe harbour regime that does not apply to the full range of online service providers can be seen in the recent Redbubble decision.
+
+Redbubble allows people to upload designs and sell merchandise. Redbubble handles the manufacturing, e-commerce, and distribution -- it prints t-shirts, stickers, and other items on behalf of the seller and sends them off to purchasers.
+
+Naturally, people sometimes try to sell material that infringes the copyright and trade mark rights of third parties. Pokemon sued Redbubble over a series of infringing items and some apparent parodies. Redbubble had taken extensive steps to mitigate potential infringement, but was still found liable for authorising infringement in:
+
+
+<div markdown="block"  class="box case">
+
+#####  Pokémon Company International, Inc. v Redbubble Ltd [[2017] FCA 1541](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca1541)
+
+[63] There were, indeed, many reasonable steps taken by Redbubble directed to preventing infringement.  Chief amongst those was the considered, and publicly available, IP policy.  Redbubble was aware of the risk of intellectual property infringement occurring through the process it had set up, and had considered what steps it should take to prevent or minimise that from occurring.  The IP policy was an important, and a reasonable, step to that end.  The establishment of the content team was another reasonable step taken by Redbubble to prevent infringements.  The IP policy set out the process that could be followed by persons who considered that an artwork on the Redbubble website infringed their intellectual property or similar rights and could ask Redbubble to moderate the artwork.  A person who considered that his, her or its intellectual property or similar rights had been infringed could, as was described in the IP policy, send an email to a specific address at Redbubble with specified information describing the intellectual property, identifying the artwork on the Redbubble website claimed to be an infringement, and provide other information of a kind directed to seeking to have the infringing work taken down.  Redbubble also accepted and processed complaints which it received other than by that means, and had in place personnel to deal with takedown notices and other complaints of infringement.  The IP policy had procedures to permit a person uploading material to have their artwork moderated as a result of mistake or misidentification or wishing to have their artwork reinstated.  It had other proactive measures to discourage, prevent and penalise infringements and contraventions on its website, and, at least since December 2014, had had one or more anti-fraud software applications in place.  
+
+...
+
+[67]    ... In the present case it may be assumed, as is clearly established from the facts, that Redbubble did not expressly authorise any infringement but that it took conscious, considered and reasonable steps, both proactively and responsively, to prevent infringements and to prevent the continuation of infringements.  The question, however, is whether the facts and relevant inferences establish constructive authorisation of infringement.  The business established by Redbubble carried the inherent risk of infringement of copyright of the kind complained of by TPCi.  It is true that Redbubble sought to mitigate the risk, but it was an inevitable incident of the business, as Redbubble chose to conduct it, that there were likely to be infringements.  It could have prevented them by taking other steps but for business reasons Redbubble chose to deal with the risk of infringement by a process that enabled the infringements to occur.  Such infringements were embedded in the system which was created for, and adopted by, Redbubble.  There may have been a sound commercial basis for Redbubble to manage the risks of infringement as it did, but in doing so it authorised the infringements which occurred.
+
+</div>
+
+Redbubble could not rely on the notice and takedown scheme to limit its liability. The practical effect is that although Redbubble was quite conscientious in developing policies and processes to deal with infringements, it was still liable for creating a system that inevitably resulted in some degree of infringement. 
+
+This case neatly illustrates a concern that content hosts and other internet companies have had in Australia: how can they adequately manage the risks of running a service that involves user-generated content?
 
 ## Some US Authority
 
