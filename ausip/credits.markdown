@@ -31,6 +31,8 @@ Student contributions:
   * Alice Chalk
   * Marcus De Witt-Ryall
 
+Cover design: [Yerai Ibarria](https://www.fiverr.com/yeraiibarria)
+
 Thanks to edits from:
 
 <ul class="list-style-none">
