@@ -118,14 +118,13 @@ It is an infringement of copyright to do or authorise any of the exclusive right
 
 ### Infringement - Reproduce the Work in a Material Form
 
-There is an exclusive right to reproduce the work in material form. [^AUTOREPLACEDCAss311aiand311biENDREPLACE] Reproduction means copying and does not include cases where the author or compiler produces a substantially similar result by independent work without copying [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]
+There is an exclusive right to reproduce the work in material form. [^AUTOREPLACEDCAss311aiand311biENDREPLACE] Reproduction involves some element of copying; it does not include cases where the author or compiler produces a substantially similar result by independent work without copying.  [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE] 
 
 
 [^AUTOREPLACEDCAss311aiand311biENDREPLACE]: _CA_ ss 31(1)(a)(i) and 31(1)(b)(i)
 [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]: _Ladbroke (Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273_
 
-
-The notion of reproduction involves **two elements** [^AUTOREPLACEDSWHartCovEdwardsHotWaterSystems1985159CLR466472FrancisDayHuntervBron1963Ch587614ENDREPLACE]
+Unlike infringement under Part IV, reproduction does not require direct copying, but includes creating new works that are substantially similar to the source work. The notion of reproduction involves **two elements** [^AUTOREPLACEDSWHartCovEdwardsHotWaterSystems1985159CLR466472FrancisDayHuntervBron1963Ch587614ENDREPLACE]
 
 
 [^AUTOREPLACEDSWHartCovEdwardsHotWaterSystems1985159CLR466472FrancisDayHuntervBron1963Ch587614ENDREPLACE]: *SW Hart & Co. v Edwards Hot Water Systems* (1985) 159 CLR 466, 472; *Francis Day & Hunter v Bron* [1963] Ch 587, 614
