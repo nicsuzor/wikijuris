@@ -255,6 +255,11 @@ In 2012, Trkulja successfully sued Google in the Victorian Supreme Court, arguin
 
 ##### Defteros v Google Inc LLC [2018] VSCA 176 (25 July 2018)
 
+**Overview by Stacey M: [Defteros v Google Inc LLC](https://www.youtube.com/watch?v=DjicX-KQ15I) [2018] VSCA 176 (25 July 2018)**
+
+This case controversially found that merely linking in search results to third party pages can be defamatory. The Court held that provision of a hyperlink to content amounts to publication -- the hyperlink is the means of communicating the content. The hyperlinks facilitates communication of the content to such a substantial degree that it amounts to publication.
+
+An intermediary publisher can only rely on the innocent dissemination defence until they receive a cease-and-desist notice. Once notice is received, it must be acted on within a reasonable timeframe to avoid liability. In this case, that timeframe was 7 days.
 
 </div>
 

@@ -180,7 +180,7 @@ The section essentially enables police and other law enforcement agencies to dir
 
 **Video overview of [image-based abuse laws](https://www.youtube.com/watch?v=IW17HxwdP-Q) by Danielle Harris**
 
-The non-consensual sharing of intimate images is often colloquially referred to as 'revenge porn'. The term 'image-based abuse' is generally considered to be a more accurate term that avoids the victim-blaming connotations of 'revenge porn'.
+The non-consensual sharing of intimate images is often colloquially referred to as 'revenge porn'. The term 'image-based abuse' is generally considered to be a better term because it avoids the victim-blaming connotations that the abuse is done in 'revenge' for some perceived wrong.
 
 The National Statement of Principles Relating to the Criminalisation of the Non-consensual Sharing of Intimate Images encouraged each Australian jurisdiction to adopt nationally consistent criminal offences.
 
@@ -211,6 +211,10 @@ The State also introduced three new misdemeanours into their Criminal Code[6] to
 
 
 
+**Angelina Kardum: (How the major social media platforms deal with image-based abuse](https://www.youtube.com/watch?v=Y-RbaE73B7M&feature=youtu.be)**
+
+Most major social media sites now have policies against image-based abuse in their community guidelines or standards. Victims of image-based abuse can make a report directly to the site on which their intimate image was shared. This report is then assessed against the site's community guidelines or standards and if it appears to be in violation of the community guidelines or standards, the image is generally removed within 24 hours. Whilst major social media services have taken positive steps towards tackling image-based abuse, such as developing reporting and take-down mechanisms, these mechanisms have their shortcomings. The two main issues with the current approaches taken by social media services are the delays associated with the assessment of reports and the heavy reliance on self-reporting.
+
 # The Office of the e-Safety Commissioner
 
 **Lauren Trickey explains [how to make a complaint to the eSafety Commissioner](https://youtu.be/2aTxXyZsYgw)**
@@ -232,6 +236,13 @@ For each type of material an online form can be completed on the eSafety website
 The _[Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](https://www.legislation.gov.au/Details/C2019A00038)_ creates new offences under the Criminal Code, effective from 6 April 2019. These new provisions require social media websites and other platforms to remove abhorrent violent material as soon as reasonably possible, and to refer it to the Australian Federal Police. These offences target content that is reasonably capable of being accessed with Australia, regardless of where the platform operator is located. The offences include substantial penalties if individuals and companies do not remove or report such classified material: fines up to 10% of annual global turnover for companies, and up to 3 years imprisonment for individuals.
 
 There are a few defences to the new offences, including material distributed by journalists; material used for scientific, medical, academic or historical research; and the exhibition of artistic works.
+
+# Regulating content in other jurisdictions
+
+**Snoot Boot explains [France and Germany's online hate speech laws](https://www.youtube.com/watch?v=OxLjyjaFiiY)**
+
+Both France and Germany have attempted stricter approaches to regulating online hate speech. In particular, Germany’s laws require social media companies to remove hate speech and report users to the police, or else face significant fines. In 2020, France proposed laws similar to Germany's, but these laws were struck down by a French court, as the laws were unconstitutional and imposed an unreasonable burden on the freedom of speech because they incentivized over-censorship. The laws highlight a deeper tension between free speech and the need to regulate and censor hateful ideologies being spread online.
+
 
 # Other emerging issues
 
