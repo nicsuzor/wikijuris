@@ -39,6 +39,7 @@ Since the requirements of the _AUSFTA_ were introduced, the duration of copyrigh
 
 
 [^AUTOREPLACEDCAs33ENDREPLACE]: _CA_ s 33
+
 [^AUTOREPLACEDCAs93ENDREPLACE]: _CA_ s 93
 
 [^AUTOREPLACEDCAs95ENDREPLACE]: _CA_ s 95
@@ -87,28 +88,26 @@ work is first made public before the end of 50 years after the year in which the
 
 However, if the work is first made public before 1 January 2019 and the identity of the author is not generally known before the end of 70 years after the year in which the work was first made public, the copyright will expire at the end of that 70 year period. If the work is never made public, the work will be protected by copyright for 70 years after the year in which the work is made.
 
-Content adapted from the information sheet created by staff of the University of Sydney available for use under a CC0 Creative Commons waiver and fallback licence (CC0 1.0). No attribution is required. For more information on the new duration provisions see [QUT's Copyright Guide Duration](https://www.library.qut.edu.au/copyrightguide/generalinfor/howlongdoesc.jsp).  
+Content adapted from the information sheet created by staff of the University of Sydney available for use under a CC0 Creative Commons waiver and fallback licence (CC0 1.0). No attribution is required. For more information on the new duration provisions see [QUT's Copyright Guide Duration](https://www.library.qut.edu.au/copyrightguide/generalinfor/howlongdoesc.jsp).
 
 ## Finding the Balance
 
 Governments, academics and advocacy groups both domestically and internationally have explored what the most appropriate balance may be with respect to the duration of copyright.
 
-An economic study of copyright found that a term of approximately 25 years was appropriate to provide rights holders the opportunity to "generate revenue comparable to what they would receive in perpetuity…without imposing onerous costs on consumers". The suggested term of 25 years was considered to be "sufficient to incentivise creative effort". [^AUTOREPLACEDLandesWandPosnerR2002IndefinitelyRenewableCopyrightJohnMOlinLawEconomicsWorkingPaperNo154UniversityofChicagoChicagoENDREPLACE] Another study was undertaken into copyright protection using data from the US copyright register to measured the costs that is paid by the public when copyright protection is increased. [^AUTOREPLACEDPollockR2007ForeverMinusaDaySomeTheoryandEmpiricsofOptimalCopyright24SeptemberMPRAPaperNo5024MunichPersonalResearchPapersinEconomicsArchiveMunichENDREPLACE] [^AUTOREPLACEDLandesWandPosnerR2002IndefinitelyRenewableCopyrightJohnMOlinLawEconomicsWorkingPaperNo154UniversityofChicagoChicagoENDREPLACE] This study suggested a copyright term of approximately 15 years after the creation of the work was sufficient and factored in the benefits of copyright for rights holders and costs of the system on the public.
-[^AUTOREPLACEDLandesWandPosnerR2002IndefinitelyRenewableCopyrightJohnMOlinLawEconomicsWorkingPaperNo154UniversityofChicagoChicagoENDREPLACE]: Landes, W. and Posner, R. 2002, Indefinitely Renewable Copyright, John M Olin Law & Economics Working Paper No 154, University of Chicago, Chicago
+An economic study of copyright found that a term of approximately 25 years was appropriate to provide rights holders the opportunity to "generate revenue comparable to what they would receive in perpetuity…without imposing onerous costs on consumers". The suggested term of 25 years was considered to be "sufficient to incentivise creative effort".[^LandesPosnerIndefinitelyRenewableCopyright] Another study was undertaken into copyright protection using data from the US copyright register to measured the costs that is paid by the public when copyright protection is increased.[^AUTOREPLACEDPollockR2007ForeverMinusaDaySomeTheoryandEmpiricsofOptimalCopyright24SeptemberMPRAPaperNo5024MunichPersonalResearchPapersinEconomicsArchiveMunichENDREPLACE] This study suggested a copyright term of approximately 15 years after the creation of the work was sufficient and factored in the benefits of copyright for rights holders and costs of the system on the public.
 
-[^AUTOREPLACEDLandesWandPosnerR2002IndefinitelyRenewableCopyrightJohnMOlinLawEconomicsWorkingPaperNo154UniversityofChicagoChicagoENDREPLACE]: Landes, W. and Posner, R. 2002, Indefinitely Renewable Copyright, John M Olin Law & Economics Working Paper No 154, University of Chicago, Chicago
-
+[^LandesPosnerIndefinitelyRenewableCopyright]: Landes, W. and Posner, R. 2002, Indefinitely Renewable Copyright, John M Olin Law & Economics Working Paper No 154, University of Chicago, Chicago
 
 
 [^AUTOREPLACEDPollockR2007ForeverMinusaDaySomeTheoryandEmpiricsofOptimalCopyright24SeptemberMPRAPaperNo5024MunichPersonalResearchPapersinEconomicsArchiveMunichENDREPLACE]: Pollock, R. 2007, Forever Minus a Day? Some Theory and Empirics of Optimal Copyright, 24 September, MPRA Paper No. 5024, Munich Personal Research Papers in Economics Archive, Munich
 
 
-Most recently, the Australian Productivity Commission undertook an inquiry into Australia’s Intellectual Property Arrangements. This inquiry provided an overview of the current copyright protection provisions and noted that, "[w]hile a single optimal copyright term is arguably elusive, it is likely to be considerably less than 70 years after death". [^AUTOREPLACEDAustralianProductivityCommissionInquiryReportIntellectualPropertyArrangementsNo7823September2016ENDREPLACE]
+Most recently, the Australian Productivity Commission undertook an inquiry into Australia’s Intellectual Property Arrangements. This inquiry provided an overview of the current copyright protection provisions and noted that, "[w]hile a single optimal copyright term is arguably elusive, it is likely to be considerably less than 70 years after death".[^AUTOREPLACEDAustralianProductivityCommissionInquiryReportIntellectualPropertyArrangementsNo7823September2016ENDREPLACE]
 
 
 [^AUTOREPLACEDAustralianProductivityCommissionInquiryReportIntellectualPropertyArrangementsNo7823September2016ENDREPLACE]: Australian Productivity Commission, Inquiry Report, Intellectual Property Arrangements No. 78, 23 September 2016
 
-Whilst the studies are inconclusive, some general concerns have been raised with respect to the effect overly long duration of copyright protection may have on the copyright system. These concerns include the reduction in community welfare due to access restrictions on works that are under copyright protection and the problem of orphan works. The amendments which came into force in January 2019 begin to address some of these concerns regarding duration, especially with respect to unpublished and orphan works.   
+Whilst the studies are inconclusive, some general concerns have been raised with respect to the effect overly long duration of copyright protection may have on the copyright system. These concerns include the reduction in community welfare due to access restrictions on works that are under copyright protection and the problem of orphan works. The amendments which came into force in January 2019 begin to address some of these concerns regarding duration, especially with respect to unpublished and orphan works.
 
 ## The Future: Limited Scope for Change Under International Law
 
