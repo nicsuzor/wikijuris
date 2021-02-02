@@ -37,6 +37,7 @@ A design is “the overall appearance of the product resulting from one or more 
 [^AUTOREPLACEDDAs5ENDREPLACE]: _DA_ s 5
 
 A visual feature “includes the shape, configuration, pattern and ornamentation of the product”. [^AUTOREPLACEDDAs7ENDREPLACE] A visual feature is not the feel of the product or the materials used.
+
 [^AUTOREPLACEDDAs7ENDREPLACE]: _DA_ s 7
 
 
@@ -49,12 +50,14 @@ A visual feature “includes the shape, configuration, pattern and ornamentation
 ## Registration of Designs
 
 In order to obtain registration, a design must be “new and distinctive when compared with the prior art base for the design as it existed before the priority date of the design”.[^AUTOREPLACEDDAs15ENDREPLACE] Pursuant to s 16(1) of the _Act_, a design is new unless it is identical to a design that forms part of the prior art base for the design. Under _DA_ s 16(2), a design is distinctive unless it is substantially similar in overall impression to a design that forms part of the prior art base for the design.
+
 [^AUTOREPLACEDDAs15ENDREPLACE]: _DA_ s 15
 
 
 ### Substantial Similarity
 
 In determining substantial similarity [^AUTOREPLACEDDAs19ENDREPLACE] more weight must be given to the similarities than differences.  
+
 [^AUTOREPLACEDDAs19ENDREPLACE]: _DA_ s 19
 
 
@@ -71,6 +74,7 @@ The owner of a design is entitled to apply for its registration. [^AUTOREPLACEDD
 
 
 [^AUTOREPLACEDDAs13ENDREPLACE]: _DA_ s 13
+
 [^AUTOREPLACEDDAs21ENDREPLACE]: _DA_ s 21
 
 [^AUTOREPLACEDDAss2439and40ENDREPLACE]: _DA_ ss 24, 39 and 40
@@ -92,6 +96,7 @@ Registration of an application will occur after an initial formalities check. [^
 
 
 [^AUTOREPLACEDDAss3940ENDREPLACE]: _DA_ ss 39 - 40
+
 [^AUTOREPLACEDDAs45ENDREPLACE]: _DA_ s 45
 
 [^AUTOREPLACEDDAs41ENDREPLACE]: _DA_ s 41
@@ -103,6 +108,7 @@ Examination now occurs post-grant, if a person requests or the court orders exam
 
 
 [^AUTOREPLACEDDAs63ENDREPLACE]: _DA_ s 63
+
 [^AUTOREPLACEDDAs733ENDREPLACE]: _DA_ s 73(3)
 
 [^AUTOREPLACEDDAs67ENDREPLACE]: _DA_ s 67
@@ -156,6 +162,7 @@ Infringement proceedings can be brought once the design is examined and a certif
 
 
 [^AUTOREPLACEDDAs733ENDREPLACE]: _DA_ s 73(3)
+
 [^AUTOREPLACEDDAs722ENDREPLACE]: _DA_ s 72(2)
 
 [^AUTOREPLACEDDAs71ENDREPLACE]: _DA_ s 71
@@ -242,6 +249,7 @@ Note this does not apply to works of artistic craftsmanship, buildings or models
 ### Corresponding Design
 
 Corresponding design “means visual features of shape or configuration which, when embodied in a product, result in a reproduction of that work, whether or not the visual features constitute a design that is capable of being registered under the Designs Act 2003”. [^AUTOREPLACEDCopyrightAct1968Cths74ENDREPLACE] Does not cover flat designs (artistic works printed on a product are still protected under copyright).
+
 [^AUTOREPLACEDCopyrightAct1968Cths74ENDREPLACE]: _Copyright Act 1968_ (Cth) s 74
 
 

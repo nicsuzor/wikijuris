@@ -32,6 +32,7 @@ A copyright owner has exclusive rights in their work. This means that if anybody
 ## Ownership of Original (Part III) Works
 
 For Part III works, the general rule is that the author of the work is the first owner of copyright. [^AUTOREPLACEDCAs352ENDREPLACE] Copyright ownership can be modified by contract, and in practice it is often done so. For example, authors of books may transfer copyright ownership of their book to their publisher in the publishing contract, or a recording artists may transfer copyright in the songs they write to their record company. A transfer of copyright ownership is called an "assignment". This practice means that the creator (author) of a copyright work and the owner of a copyright work may in fact be different people.
+
 [^AUTOREPLACEDCAs352ENDREPLACE]: _CA_ s 35(2)
 
 
@@ -57,6 +58,7 @@ Where a creator is working under a contract of employment, the rule is that the 
 
 
 [^AUTOREPLACEDCAs356ENDREPLACE]: _CA_ s 35(6)
+
 [^AUTOREPLACEDOceanroutesAustraliaPtyLtdvMCLamond1984AIPC90ENDREPLACE]: _Oceanroutes (Australia) Pty Ltd v M C Lamond_ [1984] AIPC 90
 
 
@@ -170,6 +172,7 @@ Ownership of copyright in sound recordings is governed by s 97 of the _Act_. Thi
 Section 22(3) provides that a sound recording, other than a sound recording of a live performance, shall be deemed to have been made at the time when the first record embodying the recording was produced. It also provides that the maker of the sound recording is the person who owned that record at that time.  Usually, this will be the recording company.
 
 For recordings of live performances, the sound recording is owned jointly by the person who made the recording and the performer/s who performed the performance. [^AUTOREPLACEDCAs223AENDREPLACE] This arrangement can be modified by contract, such as the performer's employment contract.
+
 [^AUTOREPLACEDCAs223AENDREPLACE]: _CA_ s 22(3A)
 
 
@@ -224,6 +227,7 @@ The name appearing on a work is presumed to be the author and first owner of the
 
 
 [^AUTOREPLACEDCAs127ENDREPLACE]: _CA_ s 127
+
 [^AUTOREPLACEDCAs128ENDREPLACE]: _CA_ s 128
 
 

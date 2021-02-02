@@ -39,6 +39,7 @@ Each of these conditions will be discussed in this chapter.
 ## Material Form
 
 An idea becomes a work when it is "first reduced to writing or to some other material form". [^AUTOREPLACEDCAs221ENDREPLACE] The term "writing" means a mode of representing or reproducing words, figures or symbols in a visible form, and “written" has a corresponding meaning. [^AUTOREPLACEDCAs101ENDREPLACE] The term "material form", in relation to a work or an adaptation of a work, includes any form (whether visible or not), of storage of the work or adaptation, or a substantial part of the work or adaptation, (whether or not the work or adaptation, or a substantial part of the work or adaptation, can be reproduced). Material form includes writing in any tangible medium, analogue or digital storage on any electronic or other medium. [^AUTOREPLACEDSeeStarMicronicsPtyLtdvFiveStarComputersPtyLtdhttpclassicaustliieduauaucasescthFCA1990387html199018IPR225ENDREPLACE] [^AUTOREPLACEDCAs101ENDREPLACE] Material form does not include ephemeral manifestations, projections, speech or live music.
+
 [^AUTOREPLACEDCAs221ENDREPLACE]: _CA_ s 22(1)
 
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
@@ -271,6 +272,7 @@ It was held that there was no infringement of copyright except for the use of a 
 ### Dramatic Work
 
 Dramatic work includes choreographic shows, scenarios or scripts for a cinematograph films. [^AUTOREPLACEDCAs101ENDREPLACE] Dramatic work does not include a cinematograph film this form of expression is distinct from the scenario or script for a cinematograph film.
+
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
 
@@ -318,12 +320,14 @@ Lyrics to musical works are also covered under "literary works".
 ### Artistic Work
 
 Artistic work includes paintings, sculptures, drawings, engravings or photographs, buildings or a models of a buildings [^AUTOREPLACEDCAs101ENDREPLACE] The artistic quality of the work is not a consideration, copyright will subsist in these creations regardless of quality. Artistic work also includes artistic craftsmanship. The definition of artistic works does not apply to a circuit layout within the meaning of the *Circuit Layouts Act 1989* (Cth).
+
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
 
 **Copyright in Paintings**
 
 The case of _Merchandising Corp of America v Harpbond_[^AUTOREPLACED1983FSR32ENDREPLACE] outlines the copyright which subsists in paintings.
+
 [^AUTOREPLACED1983FSR32ENDREPLACE]: [1983] FSR 32
 
 
@@ -337,6 +341,7 @@ Drawing is defined as including "a diagram, map, chart or plan".[^AUTOREPLACEDCA
 
 
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
+
 [^AUTOREPLACEDAncherMortlockMurraryWoolleyPtyLtdvHookerHomesPtyLtdENDREPLACE]: _Ancher, Mortlock, Murrary & Woolley Pty Ltd v Hooker Homes Pty Ltd_
 
 

@@ -23,6 +23,7 @@ The _Copyright Act_ provides that a copyright owner may bring an action for infr
 [^AUTOREPLACEDCAs1151ENDREPLACE]: _CA_ s 115)(1)
 
 There are a number of remedies available to copyright owners which include civil remedies such as injunctions and damages [^AUTOREPLACEDCAs1152ENDREPLACE] and remedies available through criminal proceedings. These remedies will be discussed in detail in this chapter.
+
 [^AUTOREPLACEDCAs1152ENDREPLACE]: _CA_ s 115(2)
 
 
@@ -153,6 +154,7 @@ Conversion damages is a remedy in addition to, for example, compensatory damages
 
 
 [^AUTOREPLACEDCAs1161BENDREPLACE]: _CA_ s 116(1B)
+
 [^AUTOREPLACEDCAs1161CENDREPLACE]: _CA_ s 116(1C)
 
 

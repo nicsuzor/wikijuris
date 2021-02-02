@@ -32,10 +32,12 @@ Registration gives the registered owner the exclusive right to use the trade mar
 
 
 [^AUTOREPLACEDTMAs201ENDREPLACE]: _TMA_ s 20(1)
+
 [^AUTOREPLACEDTMAs202ENDREPLACE]: _TMA_ s 20(2)
 
 
 A trade mark initially provides the owner with 10 years of protection, which can be renewed indefinitely as long as the trade mark is still in use. [^AUTOREPLACEDTMAs723ENDREPLACE] A registered trade mark becomes a type of property and may be licensed to others for use.
+
 [^AUTOREPLACEDTMAs723ENDREPLACE]: _TMA_ s 72(3)
 
 
@@ -81,6 +83,7 @@ In relation to well-known trade marks, take into account the extent to which the
 ### Same Goods/Services
 
 Infringement may occur when an alleged infringing mark is used in the same class of goods or services as the registered mark.  [^AUTOREPLACEDTMAs1201ENDREPLACE] This type of trade mark infringement is known as 'vanilla' infringement, where the defendant is using a mark as a trade mark, which  is substantially identical or deceptively similar to the registered mark, with respect to the same goods or services for which the trade mark is registered. For example, the registered trade mark is used with respect to cola flavoured drink and the alleged infringing mark is used on cola flavoured drink. The onus is on the registered owner to show trade mark infringement.
+
 [^AUTOREPLACEDTMAs1201ENDREPLACE]: _TMA_ s120(1)
 
 
@@ -89,6 +92,7 @@ For more information read Amanda Scardamaglia's *The Coca-Cola Company v Pepsico
 ### Same Description/Closely Related Goods or Services
 
 Infringement may occur where the defendant is using a mark as a trade mark, which  is substantially identical or deceptively similar to the registered mark, with respect to goods or services of the same description or goods or services that are closely related. [^AUTOREPLACEDTMAs1202ENDREPLACE] Note this section also functions as an informal defence (see below). The onus is reversed so the defendant must prove a lack of likelihood of deception or confusion.
+
 [^AUTOREPLACEDTMAs1202ENDREPLACE]: _TMA_ s 120(2)
 
 
@@ -178,6 +182,7 @@ Whether goods are unrelated or not closely related is a question of degree. The 
 [^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
 
 In *[Coca-Cola Co v All-Fect Distributors Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/1721.html)*, [^AUTOREPLACED1999FCA1721ENDREPLACE] the court held that cola lollies would not give rise to consumers questioning whether there was a connection between Coca-Cola and the lollies.  
+
 [^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
 
 
@@ -204,6 +209,7 @@ Not all use constitutes trade mark infringement. A person will only infringe a t
 
 
 [^AUTOREPLACEDShellCompanyofAustraliaLtdvEssoStandardOilAustraliaLtd1963109CLR407ENDREPLACE]: *Shell Company of Australia Ltd v Esso Standard Oil (Australia) Ltd* (1963) 109 CLR 407
+
 [^AUTOREPLACEDTMAs17ENDREPLACE]: _TMA_ s 17
 
 [^AUTOREPLACEDTMAs7ENDREPLACE]: _TMA_ s 7
@@ -229,6 +235,7 @@ Kitto J in *Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd* held:[^AUTOREPLA
 [^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
 
 In *[Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1991/310.html)*, [^AUTOREPLACED1991FCA310ENDREPLACE] it was held that Johnson & Johnson had only used 'caplets' in a descriptive sense as to shape and dosage and not as indicative of origin or identity.
+
 [^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
 
 
@@ -241,6 +248,7 @@ In *[Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd](htt
 [^AUTOREPLACED199634IPR282ENDREPLACE]:  (1996) 34 IPR 282
 
 In *Top Heavy v Killin*, [^AUTOREPLACED199634IPR282ENDREPLACE] the words 'Chill out' were not indications of the provenance of the T-shirts. The message which the mark conveyed in general terms is an exhortation to the reader to relax. Coca-Cola could thus not assert trade mark infringement.
+
 [^AUTOREPLACED199634IPR282ENDREPLACE]:  (1996) 34 IPR 282
 
 
@@ -250,6 +258,7 @@ In *Top Heavy v Killin*, [^AUTOREPLACED199634IPR282ENDREPLACE] the words 'Chill 
 [^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
 
 In *[Mark Foy’s Ltd v Davies Co-op Co Ltd](http://www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1956/41.html)*, [^AUTOREPLACED1956HCA41ENDREPLACE] Williams J held that the trade mark 'Tub Happy' was capable of registration. He said:
+
 [^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
 
 
@@ -265,6 +274,7 @@ Substantially identical requires a side by side comparison, having regard to the
 
 
 [^AUTOREPLACEDShellCoAustLtdvEssoStandardOilAustLtd1963HCA66ENDREPLACE]: *Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd* [1963] HCA 66]
+
 [^AUTOREPLACEDTMAs10ENDREPLACE]: _TMA_ s 10
 
 
@@ -274,6 +284,7 @@ Substantially identical requires a side by side comparison, having regard to the
 [^AUTOREPLACED2009FCA606ENDREPLACE]: [2009] FCA 606
 
 In *[Mars Australia Pty Ltd v Sweet Rewards Pty Ltd](http://www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2009/606.html)*, [^AUTOREPLACED2009FCA606ENDREPLACE] the registered trade marks, label and words 'Malt Balls' were sufficiently different from 'Malteasers', and purely descriptive.
+
 [^AUTOREPLACED2009FCA606ENDREPLACE]: [2009] FCA 606
 
 
@@ -351,6 +362,7 @@ In the above sections, 'good faith' means an absence of ulterior motive. [^AUTOR
 
 
 [^AUTOREPLACEDAngovesPtyLtdvJohnson198243ALR349ENDREPLACE]: *Angoves Pty Ltd v Johnson* (1982) 43 ALR 349
+
 [^AUTOREPLACEDGeoffreyIncvLuik199738IPR555ENDREPLACE]: *Geoffrey Inc v Luik*  (1997) 38 IPR 555
    Use of the trade mark cannot be calculated to divert business from the registered trade mark owner or to confuse customers as to the origin of goods.
 
@@ -387,6 +399,7 @@ Note that prior to amendments as a result of the Intellectual Property Laws Amen
 ### Prior Use
 
 If a person has used a sign that is deceptively similar or substantially identical to the registered trade mark and they have been using concurrently for a period, at least before the filing date of the trade mark application, then they wont be infringing. [^AUTOREPLACEDTMAs124ENDREPLACE] This is equivalent to _TMA_ s 44(4) honest concurrent use provisions.
+
 [^AUTOREPLACEDTMAs124ENDREPLACE]: _TMA_ s 124
 
 

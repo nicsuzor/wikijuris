@@ -32,6 +32,7 @@ The rights granted to a patentee are considered personal property. [^AUTOREPLACE
 
 ### Ownership
 Ownership, within s6 of the *Statute of Monopolies* traditionally referred to the ‘first and true inventor’, which included the person who first introduced the invention into the realm. [^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE] This definition of ownership is not the case today. Pursuant to the _Patents Act 1990_ (Cth), an inventor has a right to apply for a patent, but a person can also acquire rights to an invention. Rights can be acquires through the course of employment or by purchasing the right. [^AUTOREPLACEDs15ENDREPLACE] Mere importation is no longer sufficient to apply for a patent.
+
 [^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE]: E_dgeberry v Stephens* (1693)_ 2 Salk 447
 
 [^AUTOREPLACEDs15ENDREPLACE]: s 15
@@ -41,6 +42,7 @@ There can be joint inventors of a patent. [^AUTOREPLACEDs31ENDREPLACE] Joint inv
 
 
 [^AUTOREPLACEDs31ENDREPLACE]: s 31
+
 [^AUTOREPLACEDs161aENDREPLACE]: s 16(1)(a)
 
 [^AUTOREPLACEDs161bENDREPLACE]: s 16(1)(b)
@@ -55,6 +57,7 @@ There can be joint inventors of a patent. [^AUTOREPLACEDs31ENDREPLACE] Joint inv
 
 ### Employee Inventions
 Ownership of employee inventions vests in employers where there is an express term in the employment contract. Any express term should not be so wide as to constitute a restraint of trade. [^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE] In _Electrolux_, an adaptor to fit a bag to a vacuum cleaner was invented by a storekeeper and the terms of his employment had nothing to do with inventing in relation to vacuum cleaners.
+
 [^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE]: _Electrolux Ltd v Hudson_ [1977] FSR 312
 
 
@@ -67,6 +70,7 @@ Ownership can also vest in employers by way of implied terms. Where employees ar
 
 ### Assignment
 Patents are considered personal property. [^AUTOREPLACEDs132ENDREPLACE] The rights conferred to a patent owner/s are the exclusive rights to exploit the invention.[^AUTOREPLACEDs13ENDREPLACE] Patents can be bought, sold, traded, assigned or licensed. An assignment must be in writing signed by or on behalf of the assignor and assignee. [^AUTOREPLACEDs141ENDREPLACE] A patent may be assigned for a place in, or part of, the patent area. [^AUTOREPLACEDs142ENDREPLACE] The patent right can be divided up geographically (e.g. in different states in Australia).
+
 [^AUTOREPLACEDs132ENDREPLACE]: s 13(2)
 
 [^AUTOREPLACEDs13ENDREPLACE]: s 13
@@ -77,6 +81,7 @@ Patents are considered personal property. [^AUTOREPLACEDs132ENDREPLACE] The righ
 
 
 There is a possibility of unregistered equitable interests in a patent. [^AUTOREPLACEDStackvBrisbaneCityCouncil199635IPR297at299ss1893and196biiENDREPLACE] Pursuant to s 189(3), in some instances, "equities in relation to a patent may be enforced against the patentee except to the prejudice of a purchaser in good faith for value".
+
 [^AUTOREPLACEDStackvBrisbaneCityCouncil199635IPR297at299ss1893and196biiENDREPLACE]: _Stack v Brisbane City Council_ (1996) 35 IPR 297 at 299; ss 189(3) and 196(b)(ii
 
 
@@ -84,6 +89,7 @@ The assignment sale of patent right gives the  assignee rights to the patent. On
 
 ### Licenses
 License provide permissions for others to make use of the patent.  For patents owned jointly, all co-owners must consent the grant of a licence. [^AUTOREPLACEDs161cENDREPLACE] Licences do not need to be in writing (but should be for evidentiary reasons)). Licences should be registered. [^AUTOREPLACEDss187195196ENDREPLACE] Licences can be contractually supported by consideration and for a particular term or can be bear licences determined by will of the licensor.
+
 [^AUTOREPLACEDs161cENDREPLACE]: s 16(1)(c)
 
 [^AUTOREPLACEDss187195196ENDREPLACE]: ss 187, 195, 196
@@ -124,6 +130,7 @@ An exclusive licensee may commence infringement proceedings. [^AUTOREPLACEDs1201
 
 
 [^AUTOREPLACEDs1201ENDREPLACE]: s 120(1)
+
 [^AUTOREPLACEDs1202ENDREPLACE]: s 120(2)
 
 
@@ -174,6 +181,7 @@ The pith and marrow refers to the 'essence and substance' of the invention. [^AU
 
 
 [^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE]: _Clark v Adie_ (1875) 10 Ch App 667
+
 [^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]:  _Catnic Components Ltd v Hill & Smith Ltd_ [1982] RPC 183, 243; _Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd_ (2005) 67 IPR 230, 245
 
 
@@ -257,6 +265,7 @@ The court may order infringing articles to be delivered up for destruction or is
 ### Other Remedies
 
 A non-infringment declaration can be awarded. [^AUTOREPLACEDss125127ENDREPLACE] These remedies can only be sought in respect of specified granted patents or certified innovation patents. [^AUTOREPLACEDs1252ENDREPLACE] The patentee must be joined as a respondent to these proceedings. [^AUTOREPLACEDs1253ENDREPLACE] The applicant must first notify the patentee with full written particulars of the use or proposed use, and patentee must fail to admit that the use would not infringe before bringing non-infringement declaration (designed to prevent non-essential litigation). [^AUTOREPLACEDs126ENDREPLACE] A potential defendant can approach the court to seek a declaration if their actions don’t infringe a registered patent.
+
 [^AUTOREPLACEDss125127ENDREPLACE]: ss 125-127
 
 [^AUTOREPLACEDs1252ENDREPLACE]: s 125(2)
@@ -270,6 +279,7 @@ A counterclaim for revocation of the patent can be brought by the alleged infrin
 
 
 [^AUTOREPLACEDs121ENDREPLACE]: s 121
+
 [^AUTOREPLACEDs20ENDREPLACE]: s 20
 
 

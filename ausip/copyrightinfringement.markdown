@@ -122,6 +122,7 @@ There is an exclusive right to reproduce the work in material form. [^AUTOREPLAC
 
 
 [^AUTOREPLACEDCAss311aiand311biENDREPLACE]: _CA_ ss 31(1)(a)(i) and 31(1)(b)(i)
+
 [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]: _Ladbroke (Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273_
 
 Unlike infringement under Part IV, reproduction does not require direct copying, but includes creating new works that are substantially similar to the source work. The notion of reproduction involves **two elements** [^AUTOREPLACEDSWHartCovEdwardsHotWaterSystems1985159CLR466472FrancisDayHuntervBron1963Ch587614ENDREPLACE]
@@ -142,6 +143,7 @@ A literary, dramatic or musical work is deemed to have been reproduced in a mate
 
 
 [^AUTOREPLACEDCAs211ENDREPLACE]: _CA_ s 21(1)
+
 [^AUTOREPLACEDCAs213ENDREPLACE]: _CA_ s 21(3)
 
 
@@ -172,6 +174,7 @@ An infringement may be indirect. [^AUTOREPLACEDLEDBuildersPtyLtdvEagleHomes1999F
 
 
 [^AUTOREPLACEDLEDBuildersPtyLtdvEagleHomes1999FCA584ENDREPLACE]: _LED Builders Pty Ltd v Eagle Homes_ [1999] FCA 584
+
 [^AUTOREPLACEDBarretPropertyGroupPtyLtdvDennisFamilyHomesPtyLtd201191IPR1ENDREPLACE]: _Barret Property Group Pty Ltd v Dennis Family Homes Pty Ltd_ (2011) 91 IPR 1
 
 
@@ -269,6 +272,7 @@ There is an exclusive right to publish the work [^AUTOREPLACEDCAss311aiiand311bi
 
 
 [^AUTOREPLACEDCAss311aiiand311biiENDREPLACE]: _CA_ ss 31(1)(a)(ii) and 31(1)(b)(ii)
+
 [^AUTOREPLACEDAvelPtyLtdvMulticoinAmusementPtyLtd1990HCA58ENDREPLACE]: _Avel Pty Ltd v Multicoin Amusement Pty Ltd_ [1990] HCA 58
 
 
@@ -280,6 +284,7 @@ It is not an infringement of the right to republish something that has already b
 ### Infringement - Perform the Work in Public
 
 There is an exclusive right to perform the work in public. [^AUTOREPLACEDs311aiiiENDREPLACE] A performance of a work given to members of the public is a performance "in public" unless it is shown to be domestic in character.
+
 [^AUTOREPLACEDs311aiiiENDREPLACE]: s 31(1)(a)(iii)
 
 
@@ -290,6 +295,7 @@ There is an exclusive right to perform the work in public. [^AUTOREPLACEDs311aii
 ### Infringement - Communicate to the Public
 
 There is an exclusive right to communicate the work to the public. [^AUTOREPLACEDCAss311aivands311biiiENDREPLACE] This right was introduced by the _Copyright Amendment (Digital Agenda) Act 2000_ (Cth), replacing and extending the former "broadcasting" right.
+
 [^AUTOREPLACEDCAss311aivands311biiiENDREPLACE]: _CA_ ss 31(1)(a)(iv) and s 31(1)(b)(iii)
 
 
@@ -297,6 +303,7 @@ There is an exclusive right to communicate the work to the public. [^AUTOREPLACE
 
 
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
+
 [^AUTOREPLACEDCAs226ENDREPLACE]: _CA_ s 22(6)
 
 
@@ -308,6 +315,7 @@ There is an exclusive right to make an adaptation of the work. [^AUTOREPLACEDCAs
 
 
 [^AUTOREPLACEDCAs311aviENDREPLACE]: _CA_ s 31(1)(a)(vi)
+
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
 
 
@@ -471,6 +479,7 @@ Substantial part is assessed in respect to the work as a whole [^AUTOREPLACEDLad
 
 
 [^AUTOREPLACEDLadbrokevWilliamHill19641WLR273ENDREPLACE]: _Ladbroke v William Hill_ [1964] 1 WLR 273
+
 [^AUTOREPLACEDIceTVPtyLimitedvNineNetworkAustraliaPtyLimited2009HCA14ENDREPLACE]: _ IceTV Pty Limited v Nine Network Australia Pty Limited_ [2009] HCA 14
 
 
@@ -550,6 +559,7 @@ The piece taken was qualitatively important to the original – it could be desc
 ## Indirect Infringement
 
 The main forms of indirect infringement involve infringing copies. These include importing for the purposes of trade without the license of the copyright owner; [^AUTOREPLACEDCAss37and102ENDREPLACE] selling or hiring out or otherwise made the subject of trade;[^AUTOREPLACEDCAss38and103ENDREPLACE] and renting.
+
 [^AUTOREPLACEDCAss37and102ENDREPLACE]: _CA_ ss 37 and 102
 
 [^AUTOREPLACEDCAss38and103ENDREPLACE]: _CA_ ss 38 and 103
@@ -606,6 +616,7 @@ Parallel importation is where an overseas supplier who has legally acquired copi
 **Video overview by Jordan Gregory on[Section 44C and Parallel Importation](https://www.youtube.com/watch?v=5NtqSfnjTxc).**
 
 However, parallel importation of books is now allowed in certain circumstances.[^AUTOREPLACEDCAss44Aand112AENDREPLACE] These circumstances include:
+
 [^AUTOREPLACEDCAss44Aand112AENDREPLACE]: _CA_ ss 44A and 112A
 
 
