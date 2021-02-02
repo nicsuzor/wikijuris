@@ -18,7 +18,7 @@ grand_parent: Australian IP Law
 Unlike other IP rights, copyright protection lasts for an exceptionally long period. Once a work comes into existence, copyright protection begins automatically. For most types of works, copyright lasts throughout the lifetime of the creator **plus** an additional 70 years.
 
 | Type of copyright work | Length of copyright protection |
-|+++++++++++++|++++++++++++|
+|-------|------|
 | Literary, dramatic, musical or artistic works where the author is known | Life of the author plus 70 years |
 | Literary, dramatic, musical or artistic works where the author is unknown (anonymous or pseudonymous works) | 70 years after the work is first published |
 | Literary, dramatic, musical or artistic works where there is more than one author (“joint authors”) | Life of the author who dies last plus 70 years |
