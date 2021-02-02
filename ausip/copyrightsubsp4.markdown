@@ -95,7 +95,7 @@ Virtual Cop was in reality very similar to a traditional movie; two protagonist 
   * The important distinction is that the video game is capable of producing the video imagery and the soundtrack, and hence that video and soundtrack was 'embodied' in the game.
 
 
-**Video overview by Caitlin Low on [Cinematography films](https://www.youtube.com/watch?v=C_8Wl-pdDJY).**
+**Video overview by Caitlin Low on [Cinematograph films](https://www.youtube.com/watch?v=C_8Wl-pdDJY).**
 
 
 
