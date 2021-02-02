@@ -33,10 +33,10 @@ Section 197 provides that future copyright can be assigned. Future copyright ref
 
 For example, when musicians become members of the Australasian Performing Rights Association (APRA), they grant an assignment to APRA the performance rights in all their present and future musical works. This enables APRA to collect performing rights licence fees on the musicians' behalf.
 
-An assignment __must be in writing__ and signed by the assignor to be effective. [^AUTOREPLACED_CA_ s 196(3) ENDREPLACE]
+An assignment __must be in writing__ and signed by the assignor to be effective.[^CA196_3]
 
 
-[^AUTOREPLACED_CA_ s 196(3) ENDREPLACE]: _CA_ s 196(3)
+[^CA196_3]: _CA_ s 196(3)
 
 When copyright is assigned, the assignee acquires full rights with respect to the copyright interest assigned - for example, they may licence the interest, assign it to someone else, or sue another person for copyright infringement. The assignor retains no special rights in relation to the work and may even be sued for infringement by the assignee.
 
@@ -50,11 +50,12 @@ A license is a permission to use copyright material in ways that would otherwise
 **Video overview by Kylie Pappalardo on[Copyright Licences](https://www.youtube.com/watch?v=nJ7mRfcNZQI).**
 
 
-An exclusive license is "a licence in writing, signed by or on behalf of the owner or prospective owner of copyright, authorising the licensee, to the exclusion of all other persons, to do an act that … the owner of the copyright would, but for the licence, have the exclusive right to do". [^AUTOREPLACED _CA_ s 10(1) ENDREPLACE] s 10(1) Exclusive licences give the licensee the power to sublicense and the title to sue for infringement. [^AUTOREPLACED_CA_ s 119ENDREPLACE]
+An exclusive license is "a licence in writing, signed by or on behalf of the owner or prospective owner of copyright, authorising the licensee, to the exclusion of all other persons, to do an act that … the owner of the copyright would, but for the licence, have the exclusive right to do". [^CA_10_1] s 10(1) Exclusive licences give the licensee the power to sublicense and the title to sue for infringement. [^CA_119]
 
 
-[^AUTOREPLACED _CA_ s 10(1) ENDREPLACE]:  _CA_
-[^AUTOREPLACED_CA_ s 119ENDREPLACE]: _CA_ s 119
+[^CA_10_1]:  _CA_
+
+[^CA_119]: _CA_ s 119
 
 
 In the instance there is a non-exclusive licence, others may have rights to use or make use of the copyright work.
@@ -63,25 +64,25 @@ A license is the product. Where use of a product would necessarily infringe copy
 
 Often the licence is inside the box the software comes in – Shrinkwrap license. Or as a pre-requisite to a download – Clickwrap license.
 
-Gratuitous licences may be revoked at any time. [^AUTOREPLACED_Trumpet Winsock v Ozemail_ [1996] 560 FCA 1ENDREPLACE]
+Gratuitous licences may be revoked at any time. [^Trumpet]
 
-[^AUTOREPLACED_Trumpet Winsock v Ozemail_ [1996] 560 FCA 1ENDREPLACE]: _Trumpet Winsock v Ozemail_ [1996] 560 FCA 1
+[^Trumpet]: _Trumpet Winsock v Ozemail_ [1996] 560 FCA 1
 
 
 ### Implied licenses
 
-Licenses can be implied from the circumstances. A newspaper editor has an implied licence to publish letters to the editor. This is always subject to directions to the contrary. An implied license also exists to use commissioned copyright material for the purposes contemplated. [^AUTOREPLACED_Beck v Montana Constructions Pty Ltd_ (1963) WN (NSW) 1578ENDREPLACE]
+Licenses can be implied from the circumstances. A newspaper editor has an implied licence to publish letters to the editor. This is always subject to directions to the contrary. An implied license also exists to use commissioned copyright material for the purposes contemplated.
 
+<div markdown="block" class="box  case">
+##### _Beck v Montana Constructions Pty Ltd_ (1963) WN (NSW) 1578
 
-[^AUTOREPLACED_Beck v Montana Constructions Pty Ltd_ (1963) WN (NSW) 1578ENDREPLACE]: _Beck v Montana Constructions Pty Ltd_ (1963) WN (NSW) 1578
-
- [1964-5] NSWR 229; (1963) WN (NSW) 1578__
-
-In the case of _Beck v Montana Constructions Pty Ltd_ [^AUTOREPLACED(1963) WN (NSW) 1578ENDREPLACE] a firm of architects was commissioned to draw plans for a block of units. When the owners sold the land they gave the purchaser the plans. The purchaser decided to build in accordance with the plans but not to retain the architect. The other architect who was retained produced plans which were a substantial reproduction of the first architect’s plans. The original architects sued the purchaser and its architect for infringement of the copyright in the sketch plans.
-[^AUTOREPLACED(1963) WN (NSW) 1578ENDREPLACE]: (1963) WN (NSW) 1578
+In the case of _Beck v Montana Constructions Pty Ltd_ [^Beck] a firm of architects was commissioned to draw plans for a block of units. When the owners sold the land they gave the purchaser the plans. The purchaser decided to build in accordance with the plans but not to retain the architect. The other architect who was retained produced plans which were a substantial reproduction of the first architect’s plans. The original architects sued the purchaser and its architect for infringement of the copyright in the sketch plans.
+[^Beck]:  [1964-5] NSWR 229; (1963) WN (NSW) 1578
 
 
 It was held that there was an implied licence in favour of the purchaser to use the plans in respect of the same land.
+
+</div>
 
 ### Creative Commons Licensing
 
@@ -91,7 +92,8 @@ Creative Commons licensing can be applied by any person to their work, and can b
 
 There are four conditions that can be applied to a Creative Commons license.
 
-^ Right ^ Description ^
+| Right | Description |
+|------|-----|
 | Attribution (BY) | Licensees may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author or licensor the credits (attribution) in the manner specified by these. |
 | Share-alike (SA) | Licensees may distribute derivative works only under a license identical ("not more restrictive") to the license that governs the original work. |
 | Non-Commercial (NC) | Licensees may copy, distribute, display, and perform the work and make derivative works and remixes based on it only for non-commercial purposes. |
@@ -104,5 +106,5 @@ There are four conditions that can be applied to a Creative Commons license.
 
 A statutory licence involves the copyright owner making the copyright work available for use (to a specific audience) without requiring permission. The copyright owner is then entitled to be compensated for the use of their work.
 
-In December 2017 the statutory licensing scheme in Australia was simplified. The previous educational statutory licences in Parts VA and VB of the _Copyright Act 1968_ (Cth) was replaced by one simplified statutory licence. [^AUTOREPLACED_CA_ ss 113N - 113UENDREPLACE] The statutory licence will be discussed in more detail in the Chapter on Copyright Limitations and Exceptions.
-[^AUTOREPLACED_CA_ ss 113N - 113UENDREPLACE]: _CA_ ss 113N - 113U
+In December 2017 the statutory licensing scheme in Australia was simplified. The previous educational statutory licences in Parts VA and VB of the _Copyright Act 1968_ (Cth) was replaced by one simplified statutory licence. [^CA113NU] The statutory licence will be discussed in more detail in the Chapter on Copyright Limitations and Exceptions.
+[^CA113NU]: _CA_ ss 113N - 113U
