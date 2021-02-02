@@ -194,3 +194,6 @@ There are six basic issues that must be considered in approaching copyright and 
 6. Related Rights  - This asks whether there are any related rights associated with the copyright. For example moral rights, anti-circumvention and designs.
 
 Each of these issues will be discussed in detail in the following chapters.
+
+
+{: .no_toc }
