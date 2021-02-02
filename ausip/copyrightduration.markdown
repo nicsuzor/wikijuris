@@ -20,11 +20,17 @@ Unlike other IP rights, copyright protection lasts for an exceptionally long per
 | Type of copyright work | Length of copyright protection |
 |-------|------|
 | Literary, dramatic, musical or artistic works where the author is known | Life of the author plus 70 years |
-| Literary, dramatic, musical or artistic works where the author is unknown (anonymous or pseudonymous works) | 70 years after the work is first published |
-| Literary, dramatic, musical or artistic works where there is more than one author (“joint authors”) | Life of the author who dies last plus 70 years |
+| Works where the author is unknown (anonymous or pseudonymous works) | 70 years after the work is first published |
+| Works where the author is unknown which were not published within 50 years   | Year made + 70 years |
+| Works where there is more than one author | Life of the author who dies last plus 70 years |
 | Sound recordings and cinematograph films | 70 years after the recording or film is first published (i.e. made publicly available) |
+| Unpublished sound recordings and films | 70 years after they were made |
 | TV and radio broadcasts | 50 years after the broadcast is first made |
 
+
+For more information on the new duration provisions see the Commonwealth [guide to copyright duration](materials/duration-provisions-table-may-2018-1.pdf) (PDF).[^durationguide]
+
+[^durationguide]: Available at https://www.communications.gov.au/copyright/duration-copyright, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0))
 
 ## Extension of the copyright term
 
@@ -89,15 +95,12 @@ work is first made public before the end of 50 years after the year in which the
 
 However, if the work is first made public before 1 January 2019 and the identity of the author is not generally known before the end of 70 years after the year in which the work was first made public, the copyright will expire at the end of that 70 year period. If the work is never made public, the work will be protected by copyright for 70 years after the year in which the work is made.
 
-For more information on the new duration provisions see the Commonwealth [guide to copyright duration](materials/duration-provisions-table-may-2018-1.pdf) (PDF).[^durationguide]
-
-[^durationguide]: Available at https://www.communications.gov.au/copyright/duration-copyright, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0))
 
 ## Finding the Balance
 
-Governments, academics and advocacy groups both domestically and internationally have explored what the most appropriate balance may be with respect to the duration of copyright.
+Governments, academics and advocacy groups both domestically and internationally have explored what the most appropriate balance may be with respect to the duration of copyright. Some copyright works continue to be exploited for many years after their creation. But there is a great deal of material that is protected for a long time after it ceases to be economically valuable. Many commerical productions have a shelf life of only a few years. Because copyright applies automatically, copyright also protects a very large amount of material that was never intended to be commercially licensed or exploited -- like letters and emails, for example. It is difficult to develop a set of simple rules that optimally protect the interests of creators and producers without imposing undue burdens on the public interest in accessing knowledge and culture, or the ability of future creators to learn from, adapt, and rework existing materials.
 
-An economic study of copyright found that a term of approximately 25 years was appropriate to provide rights holders the opportunity to "generate revenue comparable to what they would receive in perpetuity…without imposing onerous costs on consumers". The suggested term of 25 years was considered to be "sufficient to incentivise creative effort".[^LandesPosnerIndefinitelyRenewableCopyright] Another study was undertaken into copyright protection using data from the US copyright register to measured the costs that is paid by the public when copyright protection is increased.[^AUTOREPLACEDPollockR2007ForeverMinusaDaySomeTheoryandEmpiricsofOptimalCopyright24SeptemberMPRAPaperNo5024MunichPersonalResearchPapersinEconomicsArchiveMunichENDREPLACE] This study suggested a copyright term of approximately 15 years after the creation of the work was sufficient and factored in the benefits of copyright for rights holders and costs of the system on the public.
+An economic study of copyright found that a term of approximately 25 years was likely to be appropriate to provide rights holders the opportunity to "generate revenue comparable to what they would receive in perpetuity…without imposing onerous costs on consumers". The suggested term of 25 years was considered to be "sufficient to incentivise creative effort" in most cases.[^LandesPosnerIndefinitelyRenewableCopyright] Another study was undertaken into copyright protection using data from the US copyright register to measured the costs that is paid by the public when copyright protection is increased.[^AUTOREPLACEDPollockR2007ForeverMinusaDaySomeTheoryandEmpiricsofOptimalCopyright24SeptemberMPRAPaperNo5024MunichPersonalResearchPapersinEconomicsArchiveMunichENDREPLACE] This study suggested a copyright term of approximately 15 years after the creation of the work was sufficient and factored in the benefits of copyright for rights holders and costs of the system on the public.
 
 [^LandesPosnerIndefinitelyRenewableCopyright]: Landes, W. and Posner, R. 2002, Indefinitely Renewable Copyright, John M Olin Law & Economics Working Paper No 154, University of Chicago, Chicago
 
