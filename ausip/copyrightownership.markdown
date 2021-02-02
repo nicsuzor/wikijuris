@@ -63,7 +63,7 @@ Where a creator is working under a contract of employment, the rule is that the 
 
 
 
-**Video overview by Rachel Choi on[Distinguishing Employees and Independent Contractors](https://vimeo.com/122047180).**
+**Video overview by Rachel Choi on [Distinguishing Employees and Independent Contractors](https://vimeo.com/122047180).**
 
 
 In determining whether the work is created in the course of employment, it can be helpful to ask: "Whether on the one hand the employee is employed as part of the business and his work is an integral part of the business, or whether his work is not integrated into the business but is only accessory to it, or, […] the work is done by him in business on his own account." [^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]
@@ -124,10 +124,7 @@ With respect to the taking of photographs, "private or domestic purpose" is defi
 Under s 35(5), if the person who commissions the relevant artistic works makes known to the author, either expressly or impliedly at the time of making the agreement commissioning the work, the purpose for which the work is required, then the author can restrain the person from using the work for other purposes.  
 
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED198264FLR145ENDREPLACE]
-
-
-[^AUTOREPLACED198264FLR145ENDREPLACE]: (1982) 64 FLR 145
+_Blackwell v Wadsworth_  (1982) 64 FLR 145
 
 The plaintiff artist was commissioned to make a drawing of a hotel.  Two years later, ads in the paper for the sale of the hotel included a reproduction of the drawing.  The plaintiff sued for infringement of copyright.
 
@@ -144,10 +141,7 @@ This definition does not mean that all jointly produced works result in joint au
 
 
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED1938Ch106ENDREPLACE]
-
-
-[^AUTOREPLACED1938Ch106ENDREPLACE]: [1938] Ch 106
+_Donoghue v Allied Newspapers Ltd_ [1938] Ch 106
 
 Held, where a person communicates an idea to an author and the author clothes the idea in the form of an article or articles, the copyright is owned by the author.
 </div>
@@ -237,6 +231,8 @@ Section 132A applies these same presumptions with respect to the criminal provis
 
 The term “crown copyright” refers to Government (or “Crown”) owned copyrights.
 
+**Video overview by Kylie Pappalardo on [Crown Copyright](https://www.youtube.com/watch?v=EqxyEZwLGUI).**
+
 These include:
 
 * works made by or under the direction or control of the Crown; [^AUTOREPLACEDCAs176ENDREPLACE]
@@ -258,10 +254,8 @@ The duration of Crown copyright is 50 years.
 
 The Copyright Law Review Committee (CLRC) recommended the abolition of special privileges for the Crown in their report, Crown Copyright (2005), but the Australian Government did not implement these recommendations.
 
-__ [^AUTOREPLACED2007FCAC80ENDREPLACE]
-
-
-[^AUTOREPLACED2007FCAC80ENDREPLACE]: [2007] FCAC 80
+<div markdown="block" class="box  case">
+_Copyright Agency Limited v State of NSW_ [2007] FCAC 80
 
 In the case of [Copyright Agency Limited v State of NSW](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2007/80.html) the Copyright Tribunal heard a claim by the Copyright Agency Limited (CAL), whose members include surveyors, for orders under ss 183(5) and 183(A) of the _Copyright Act 1968_ (Cth) in respect of a number of surveyors' plans and the State of New South Wales' 'dealings' in respect of them. Following the determination of the Tribunal, questions of law were referred to the Full Federal Court.
 
@@ -271,5 +265,4 @@ Finkelstein J on Crown copyright:
 
 >“As regards to work made by the Crown, we are necessarily dealing with a fiction. Generally for copyright purposes a work is made by its author. What s 176 contemplates is that, in certain circumstances, the act of the author in making a work is to be attributed to the Crown. An attribution of this kind is a concept well known in the law”.
 
-
-**Video overview by Kylie Pappalardo on [Crown Copyright](https://www.youtube.com/watch?v=EqxyEZwLGUI).**
+</div>
