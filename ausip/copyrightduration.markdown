@@ -89,7 +89,9 @@ work is first made public before the end of 50 years after the year in which the
 
 However, if the work is first made public before 1 January 2019 and the identity of the author is not generally known before the end of 70 years after the year in which the work was first made public, the copyright will expire at the end of that 70 year period. If the work is never made public, the work will be protected by copyright for 70 years after the year in which the work is made.
 
-Content adapted from the information sheet created by staff of the University of Sydney available for use under a CC0 Creative Commons waiver and fallback licence (CC0 1.0). No attribution is required. For more information on the new duration provisions see [QUT's Copyright Guide Duration](https://www.library.qut.edu.au/copyrightguide/generalinfor/howlongdoesc.jsp).
+For more information on the new duration provisions see the Commonwealth [guide to copyright duration](materials/duration-provisions-table-may-2018-1.pdf) (PDF).[^durationguide]
+
+[^durationguide]: Available at https://www.communications.gov.au/copyright/duration-copyright, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0))
 
 ## Finding the Balance
 

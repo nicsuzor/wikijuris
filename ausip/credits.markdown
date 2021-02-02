@@ -25,12 +25,6 @@ Academic contributions:
 * Amanda Scardamaglia (Swinburne)
 * Jay Sanderson (USC)
 
-Student contributions:
-
-  * Natalie Cameron
-  * Alice Chalk
-  * Marcus De Witt-Ryall
-
 Cover design: [Yerai Ibarria](https://www.fiverr.com/yeraiibarria)
 
 Thanks to edits from:
@@ -50,3 +44,5 @@ The textbook also includes material from:
 * http://itlaw.wikia.com/wiki/The_IT_Law_Wiki  (CC BY SA)
 * http://www.teachingcopyright.org/curriculum/hs  (CC BY)
 * http://pad.p2pu.org/p/school-of-open-resources
+
+Staff of the University of Sydney available for use under a CC0 Creative Commons waiver and fallback licence (CC0 1.0).
