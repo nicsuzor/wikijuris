@@ -64,21 +64,16 @@ Copyright protects **expression** fixed in material form. It does not protect id
 **Video overview by Kylie Pappalardo on [the Idea / Expression Dichotomy](https://www.youtube.com/watch?v=DRjx7kWXAoA&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=4).**
 
 
-* The idea expression dichotomy was considered in the leading case of _Skybase Nominees Pty Ltd v Fortuity Pty Ltd_. [^AUTOREPLACED199636IPR529ENDREPLACE]
-
-
-[^AUTOREPLACED199636IPR529ENDREPLACE]:  (1996) 36 IPR 529
-
-
 <div markdown="block" class="box  case">
+##### _Skybase Nominees Pty Ltd v Fortuity Pty Ltd (1996) 36 IPR 529_
 
+
+
+>"There is a tension in policy between the monopoly rights which are conferred upon the owner of copyright in a literary, dramatic, musical or artistic work on the one hand, and the freedom to express ideas or discuss facts on the other. While there will be an infringement of the copyright of an owner in a literary, dramatic, musical or artistic work where there is a reproduction of that work or a substantial part of it, the fact that another work deals with the same ideas or discusses matters of fact also raised in the work in respect of which copyright is said to subsist will not, of itself, constitute an infringement. Were it otherwise the copyright laws would be an impediment to free speech, rather than an encouragement of original expression". (Hill J)
 [^AUTOREPLACED199636IPR529at531ENDREPLACE]
 
 
 [^AUTOREPLACED199636IPR529at531ENDREPLACE]:  (1996) 36 IPR 529 at 531
-
-
->"There is a tension in policy between the monopoly rights which are conferred upon the owner of copyright in a literary, dramatic, musical or artistic work on the one hand, and the freedom to express ideas or discuss facts on the other. While there will be an infringement of the copyright of an owner in a literary, dramatic, musical or artistic work where there is a reproduction of that work or a substantial part of it, the fact that another work deals with the same ideas or discusses matters of fact also raised in the work in respect of which copyright is said to subsist will not, of itself, constitute an infringement. Were it otherwise the copyright laws would be an impediment to free speech, rather than an encouragement of original expression". (Hill J)
 
 </div>
 
@@ -102,12 +97,11 @@ A literary work includes tables, compilations, expressed in words, figures or sy
 A literary work is a work which is expressed in print or writing, irrespective of whether the quality or style is high.
 
 <div markdown="block" class="box  case">
- [^AUTOREPLACED19162Ch601ENDREPLACE]
+##### University of London Press v University Tutorial Press Ltd [1916] 2 Ch 601
 
+In the case of University of London Press v University Tutorial Press Ltd[^AUTOREPLACED19162Ch601ENDREPLACE] it was held that exam papers were literary works.  
 
 [^AUTOREPLACED19162Ch601ENDREPLACE]: [1916] 2 Ch 601
-
-In the case of University of London Press v University Tutorial Press Ltd it was held that exam papers were literary works.  
 
 Peterson J said at 608:
 
@@ -118,7 +112,7 @@ This case is discussed further under 'Originality' (below).
 
 Examples of literary works include:
 
-* Football pool coupons; [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR27ENDREPLACE]
+* Football pool coupons;[^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR27ENDREPLACE]
 
 
 [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR27ENDREPLACE]: _Ladbroke (Football) Ltd v William Hill (Football) Ltd_ [1964] 1 WLR 27
@@ -149,13 +143,15 @@ Copyright does not normally subsist in titles and names. Generally, titles and s
 
 **Video overview by Kylie Pappalardo on [Copyright in Headlines, Titles and Names.](https://www.youtube.com/watch?v=rwKiQzl1Hw4&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=6)**
 
-The cases of _WH Allen & Co. v Brown Watson Ltd_ and _McWilliam’s Wines Pty Ltd v McDonald’s System of Australia Pty Ltd_ considered passing off and copyright law.
-
-<div markdown="block" class="box  case">
-[^AUTOREPLACED1965RPC191ENDREPLACE]
-
+The cases of _WH Allen & Co. v Brown Watson Ltd_[^AUTOREPLACED1965RPC191ENDREPLACE] and _McWilliam’s Wines Pty Ltd v McDonald’s System of Australia Pty Ltd_[^AUTOREPLACED1980FCA159ENDREPLACE] considered passing off and copyright law.
 
 [^AUTOREPLACED1965RPC191ENDREPLACE]: [1965] RPC 191
+
+<div markdown="block" class="box  case">
+
+##### _WH Allen & Co. v Brown Watson Ltd_ [1965] RPC 191
+
+
 
 Held, there was passing off where the defendant's published a book entitled, “Frank Harris: My Life and Adventures”.
 
@@ -163,8 +159,8 @@ There was already a reputation in the book written by Frank Harris entitled, "My
 </div>
 
 <div markdown="block" class="box  case">
-[^AUTOREPLACED1980FCA159ENDREPLACE]
 
+##### _McWilliam’s Wines Pty Ltd v McDonald’s System of Australia Pty Ltd_ [1980] FCA 159
 
 [^AUTOREPLACED1980FCA159ENDREPLACE]: [1980] FCA 159
 
@@ -175,10 +171,11 @@ In the case of [McWilliam’s Wines Pty Ltd v McDonald’s System of Australia P
 </div>
 
 <div markdown="block" class="box  case">
- [^AUTOREPLACED1982Ch119ENDREPLACE]
 
+##### Exxon Corporation v Exxon Insurance Consultants International Ltd [1982] Ch. 119
 
 [^AUTOREPLACED1982Ch119ENDREPLACE]: [1982] Ch. 119
+
 
 The oil company adopted the name "Exxon" after considerable research and expense.  The defendant company, with no connection, adopted the name.  Exxon sought an injunction.
 
@@ -186,7 +183,7 @@ Held, although the name was original, it was not sufficiently substantial for co
 </div>
 
 <div markdown="block" class="box  case">
- [^AUTOREPLACEDUKPC68ENDREPLACE]
+##### _Francis, Day & Hunter Ltd v Twentieth Century Fox Corp_[^AUTOREPLACEDUKPC68ENDREPLACE]
 
 
 [^AUTOREPLACEDUKPC68ENDREPLACE]: UKPC 68
@@ -197,7 +194,7 @@ Held, a name alone cannot possess copyright unless it is sufficiently original a
 </div>
 
 <div markdown="block" class="box  case">
- [^AUTOREPLACED2010FCA984ENDREPLACE]
+##### Fairfax Media Publications v Reed International Books [2010] FCA 984
 
 
 [^AUTOREPLACED2010FCA984ENDREPLACE]: [2010] FCA 984
@@ -212,13 +209,18 @@ Held, while it is possible that a particular headline or title could be a litera
 >"Headlines generally are, like titles, simply too insubstantial and too short to qualify for copyright protection as literary works. The function of the headline is as a title to the article as well as a brief statement of its subject, in a compressed form comparable in length to a book title or the like. It is, generally, too trivial to be a literary work, much as a logo was held to be too trivial to be an artistic work, even if skill and labour has been expended on creation". (Bennett J, [44])
 
 However, "[i]t may be that evidence directed to a particular headline, or a title of so extensive and of such a significant character, could be sufficient to warrant a finding of copyright protection". ([46])
+</div>
 
-##### The Newspaper Licensing Agency Ltd & Ors v Meltwater Holding BV & Ors [2010] EWHC 3099 (Ch)
+
+<div markdown="block" class="box  case">
+
+##### _The Newspaper Licensing Agency Ltd & Ors v Meltwater Holding BV & Ors_ [2010] EWHC 3099 (Ch)
+
 >"The evidence in the present case (incidentally much fuller than that before Bennett J in Fairfax…) is that headlines involve considerable skill in devising and they are specifically designed to entice by informing the reader of the content of the article in an entertaining manner" (Proudman J, [70])
 
 "In my opinion headlines are capable of being literary works, whether independently or as part of the articles to which they relate. Some of the headlines in the Daily Mail with which I have been provided are certainly independent literary works". (Proudman J, [71])
 
-The decision was upheld on appeal. [^AUTOREPLACEDTheNewspaperLicensingAgencyLtdOrsvMeltwaterHoldingBVOrs2011EWCACiv890ENDREPLACE]
+The decision was upheld on appeal.[^AUTOREPLACEDTheNewspaperLicensingAgencyLtdOrsvMeltwaterHoldingBVOrs2011EWCACiv890ENDREPLACE]
 
 
 [^AUTOREPLACEDTheNewspaperLicensingAgencyLtdOrsvMeltwaterHoldingBVOrs2011EWCACiv890ENDREPLACE]: _The Newspaper Licensing Agency Ltd & Ors v Meltwater Holding BV & Ors_ [2011] EWCA Civ 890
@@ -244,8 +246,9 @@ In the case of [Computer Edge Pty Ltd v Apple Computer Inc](http://classic.austl
 
 This case was pre the 1984 amendments to the _Act_. These amendments provided that copyright subsists regardless of the code, language or notation used.
 
+<div markdown="block" class="box  case">
 
-##### Autodesk v Dyason (No 2) [1993] HCA 6- Liability for reverse engineering computer programs
+##### _Autodesk v Dyason (No 2)_ [1993] HCA 6 - Liability for reverse engineering computer programs
 
 **Video overview by Zoe Cannan on [Autodesk v Dyason (No 2)](https://www.youtube.com/watch?v=MolI2YH3l84)**
 
@@ -255,7 +258,7 @@ It was held that the defendant had infringed copyright in the "Autocad" by repro
 </div>
 
 <div markdown="block" class="box  case">
- [^AUTOREPLACED1999HCA49ENDREPLACE]
+##### Data Access Corp v Powerflex Services Pty Ltd [1999] HCA 49
 
 
 [^AUTOREPLACED1999HCA49ENDREPLACE]: [1999] HCA 49
@@ -278,10 +281,8 @@ The essential character of a dramatic work is that it is intended to be represen
 **Video overview by Brandon Hoffler on [Dramatic Works](https://www.youtube.com/watch?v=D9OxidyITdw)**
 
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED1989RPC469ENDREPLACE]
 
-
-[^AUTOREPLACED1989RPC469ENDREPLACE]: [1989] RPC 469
+#####  _Green v Broadcasting Corp. of New Zealand_ [1989] RPC 469
 
 A dramatic work must be capable of being performed.
 
@@ -292,10 +293,8 @@ It was held that the repetitive elements alone did not constitute a dramatic wor
 </div>
 
 <div markdown="block" class="box  case">
- [^AUTOREPLACED199948IPR333ENDREPLACE]
+##### Nine Network Australia Pty Ltd v ABC [1999]48 IPR 333
 
-
-[^AUTOREPLACED199948IPR333ENDREPLACE]: [1999]48 IPR 333
 
 In the case of [Nine Network Australia Pty v ABC](http://classic.austlii.edu.au/au/cases/cth/FCA/1999/1864.html), the Nine Network had paid $450,000 towards the Council of the City of Sydney’s fireworks display to welcome the new millennium.  The Nine Network tried to restrain the ABC from broadcasting in Australia anything featuring the fireworks, the procession of lanterns on Sydney Harbour and decorations on the Harbour Bridge.
 
@@ -324,7 +323,7 @@ Artistic work includes paintings, sculptures, drawings, engravings or photograph
 
 **Copyright in Paintings**
 
-The case of _Merchandising Corp of America v Harpbond_ [^AUTOREPLACED1983FSR32ENDREPLACE] outlines the copyright which subsists in paintings.
+The case of _Merchandising Corp of America v Harpbond_[^AUTOREPLACED1983FSR32ENDREPLACE] outlines the copyright which subsists in paintings.
 [^AUTOREPLACED1983FSR32ENDREPLACE]: [1983] FSR 32
 
 
@@ -334,7 +333,7 @@ Held, although there was no statutory definition of "painting", it is a word in 
 
 #### Copyright in Drawings
 
-Drawing is defined as including "a diagram, map, chart or plan". [^AUTOREPLACEDCAs101ENDREPLACE] Architects' plans are considered artistic works. [^AUTOREPLACEDAncherMortlockMurraryWoolleyPtyLtdvHookerHomesPtyLtdENDREPLACE]
+Drawing is defined as including "a diagram, map, chart or plan".[^AUTOREPLACEDCAs101ENDREPLACE] Architects' plans are considered artistic works. [^AUTOREPLACEDAncherMortlockMurraryWoolleyPtyLtdvHookerHomesPtyLtdENDREPLACE]
 
 
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
@@ -349,10 +348,7 @@ Drawing is defined as including "a diagram, map, chart or plan". [^AUTOREPLACEDC
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
 <div markdown="block" class="box  case">
-__[^AUTOREPLACED1997FSR718ENDREPLACE]
-
-
-[^AUTOREPLACED1997FSR718ENDREPLACE]: [1997] FSR 718
+#####  _Metix v Maughan_[1997] FSR 718
 
 "A sculpture is a three-dimensional work made by an artist's hand".
 
@@ -370,19 +366,13 @@ Building includes a structure of any kind. [^AUTOREPLACEDCAs101ENDREPLACE]
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED1980FLR240ENDREPLACE]
-
-
-[^AUTOREPLACED1980FLR240ENDREPLACE]:  (1980) FLR 240
+#####  _Half Court Tennis Pty Ltd v Seymour_  (1980) FLR 240
 
 Held, a half-tennis court was a building.
 </div>
 
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED199841IPR649ENDREPLACE]
-
-
-[^AUTOREPLACED199841IPR649ENDREPLACE]:  (1998) 41 IPR 649
+#####  _Darwin Fibreglass Pty Ltd v Kruhse Enterprises Pty Ltd_  (1998) 41 IPR 649
 
 Held, a fibreglass swimming pool was held to be a structure – particularly as the pools are as large as some small buildings and have a relatively long life.
 
@@ -402,20 +392,14 @@ The two elements (artistic and craftsmanship) must be united in the same person.
 
 **Video overview by Joseph Auclair on[artistic craftsmanship and design protection](https://www.youtube.com/watch?v=rwYoDjYoFE4)**
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED1963VR719ENDREPLACE]
-
-
-[^AUTOREPLACED1963VR719ENDREPLACE]: [1963] VR 719
+#####  _Cuisenaire v Reed_ [1963] VR 719
 
 The issue was whether copyright subsisted in the Cuisenaire set of variously coloured tubes used for the purpose of teaching primary school children arithmetic as a work of artistic craftsmanship.
 
 Held, no copyright subsisted as a work of artistic craftsmanship as cutting up pieces did not constitute craftsmanship and it wasn’t a work of artistry.
 </div>
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED1976AC64ENDREPLACE]
-
-
-[^AUTOREPLACED1976AC64ENDREPLACE]: [1976] AC 64
+#####  _George Hensher Ltd v Restawhile Upholstery (Lancs.) Ltd_ [1976] AC 64
 
 The issue was whether copyright subsisted in a prototype of a furniture suite for manufacture as a work of artistic craftsmanship.  It consisted of pieces of wood with canvas attached (no drawing).  The design was "boat shaped" with a flimsy appearance.
 
@@ -433,10 +417,8 @@ A work of artistic craftsmanship may be mass produced. Factory based products ca
 
 [^AUTOREPLACED199886FCR154ENDREPLACE]:  (1998) 86 FCR 154
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED199886FCR154ENDREPLACE]
+#####  _Coogi Australia Pty Ltd v Hysport International Pty Ltd_  (1998) 86 FCR 154
 
-
-[^AUTOREPLACED199886FCR154ENDREPLACE]:  (1998) 86 FCR 154
 
 In this case, the plaintiff designed and manufactured a distinctive machine-knitted fabric and garments – highly textured surface, complex, abstract, multi-coloured design.
 
@@ -454,10 +436,7 @@ But: "The level of aesthetic appeal required for a work of artistic craftsmanshi
 
 </div>
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED2007HCA17ENDREPLACE]
-
-
-[^AUTOREPLACED2007HCA17ENDREPLACE]: [2007] HCA 17
+#####  _Burge v Swarbrick_ [2007] HCA 17
 
 The case of [Burge v Swarbrick](http://classic.austlii.edu.au/au/cases/cth/HCA/2007/17.html) considered the copyright/design overlap.
 
@@ -485,10 +464,7 @@ In copyright, the term "originality" does not mean "novel" or new. Instead, "ori
 **Video overview by Kylie Pappalardo on [Originality](https://www.youtube.com/watch?v=52-IJvRzNq8&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=3).**
 
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED19162Ch601ENDREPLACE]
-
-
-[^AUTOREPLACED19162Ch601ENDREPLACE]: [1916] 2 Ch 601
+#####  _University of London Press Ltd v University Tutorial Press Ltd_ [1916] 2 Ch 601
 
 
 **Video overview by Christine Apurel on [University of London Press v University Tutorial Press](https://www.youtube.com/watch?v=FfQjfmFt-_8).**
@@ -503,10 +479,7 @@ Held: copyright subsisted in the papers as original literary works – originali
 
 
 <div markdown="block" class="box  case">
-__ [^AUTOREPLACED2010FCA507ENDREPLACE]
-
-
-[^AUTOREPLACED2010FCA507ENDREPLACE]: [2010] FCA 507
+#####  _Budget Eyewear Australia v Specsavers_ [2010] FCA 507
 
 **Video overview by Emma Taylor on [Budget Eyewear Australia v Specsavers](https://www.youtube.com/watch?v=n5rWzSkzUpc).**
 
@@ -535,7 +508,7 @@ In Australia, a compilation will be protected by copyright as an original litera
 
 **Major Cases**
 <div markdown="block" class="box  case">
-__ (US)
+#####  _Feist Publications Inc v Rural Telephone Service Co Inc._ (US)
 
 US position: original works must possess "some minimal degree of creativity"
 
@@ -546,13 +519,9 @@ Held, a "white pages" telephone book, an alphabetical listing of all telephone s
 Feist was not followed in Australia.
 </div>
 
- [^AUTOREPLACED2002FCAFC112ENDREPLACE]
-
-
-[^AUTOREPLACED2002FCAFC112ENDREPLACE]: [2002] FCAFC 112
+##### Desktop Marketing Systems Pty Ltd v Telstra Corp Ltd [2002] FCAFC 112
 
 In the case of [Desktop Marketing Systems Pty Ltd v Telstra Corp Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2002/112.html) Telstra published the Yellow Pages and the White Pages. Desktop Marketing produced and sold phone directories in CD-ROMs of varying levels of sophistication with White and Yellow pages listings, which could be searched in different ways whether by name, address, postcode, industry and the like. The data used to produce the CD-ROMS was taken from Telstra’s phone books and rekeyed by a team of workers in the Philippines. Desktop Marketing also used Telstra’s headings, though it did add its own software to do the searching.
-
 
 Held, copyright subsisted in Telstra’s White Pages and Yellow Pages directories, and that copyright had been infringed.
 
@@ -561,7 +530,6 @@ Factual compilations may be protected merely on the basis that substantial labou
 The court noted that it was open to Desktop Marketing to obtain all the facts contained in the Telstra directories by its own independent inquiry, and produce its own compilation of the results. As long as there had been no copying of Telstra’s product by Desktop Marketing, there would be no copyright infringement.  
 
   * See Lindgren J at 472-478 and Sackville J at 539.
-
 
 Full Federal Court held that a compilation would attract copyright protection if:
 
@@ -573,13 +541,11 @@ Full Federal Court held that a compilation would attract copyright protection if
 Clearly Telstra incurred significant labour and expense in collecting, verifying, and collating the directories. The Full Court considered that this labour interest ("sweat of the brow") ought to be protected against misappropriation.
 
 
-* **Important:** While Desktop Marketing has not been explicitly overruled, it must now be treated with caution.
+**Important:** While Desktop Marketing has not been explicitly overruled, it must now be treated with caution.
 
 
-__ [^AUTOREPLACED2009239CLR458ENDREPLACE]
+#####  _IceTV Pty Limited v Nine Network Australia Pty Limited_  (2009) 239 CLR 458
 
-
-[^AUTOREPLACED2009239CLR458ENDREPLACE]:  (2009) 239 CLR 458
 
 In the case of [IceTV Pty Limited v Nine Network Australia Pty Limited](http://classic.austlii.edu.au/au/cases/cth/HCA/2009/14.html) Channel 9 created a Weekly Schedule of television programmes to be broadcast each week. They alleged that each Weekly Schedule was a compilation, and therefore a literary work under the _Copyright Act_, and that IceTV had infringed copyright by taking part of the time and title information from the Aggregated Guides (guides produced by third party Aggregators, authorised by Nine and to whom Nine provides the Weekly Schedule) and including it in their own (electronic) guide, the "IceGuide".
 
@@ -630,11 +596,7 @@ An important obiter remark was made by Gummow, Hayne and Heydon JJ immediately f
 >
 > It is by no means apparent that the law even before the 1911 Act was to any different effect to that for which the Digital Alliance contents. It may be that the reasoning in Desktop Marketing with respect to compilations is out of line with the understanding of copyright law over many years. These reasons explain the need to treat with some caution the emphasis in Desktop Marketing upon "labour and expense" per se and upon misappropriation. However, in the light of the admission of Ice that the Weekly Schedule was an original literary work, this is not an appropriate occasion to take any further the subject of originality in copyright works.”
 
-
-__ [^AUTOREPLACED2010FCAFC149ENDREPLACE]
-
-
-[^AUTOREPLACED2010FCAFC149ENDREPLACE]: [2010] FCAFC 149
+#####  _Telstra v Phone Directories_ [2010] FCAFC 149
 
 In the case of [Telstra v Phone Directories](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2010/149.html), the question again arose as to whether copyright subsists in Telstra's White Pages and Yellow Pages directories.
 
@@ -671,10 +633,7 @@ There is still some uncertainty as to what degree of "independent intellectual e
 
 * "The level of intellectual effort necessary to produce an original literary work is not required to rise to the level of “creativity" or “inventiveness”. In determining whether a literary work is original, the focus of consideration is not upon creativity or novelty, but upon the origin of the work in some intellectual effort of the author.” (Keane CJ, [58])
 
-__ [^AUTOREPLACED2010189FCR109ENDREPLACE]
-
-
-[^AUTOREPLACED2010189FCR109ENDREPLACE]:  (2010) 189 FCR 109
+#####  _Fairfax Media Publications v Reeds International Books_  (2010) 189 FCR 109
 
 Fairfax, publisher of the Australian Financial Review, alleged that Reed had infringed copyright by copying AFR headlines as part of its media monitoring service.
 
