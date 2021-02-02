@@ -64,7 +64,7 @@ A license is the product. Where use of a product would necessarily infringe copy
 
 Often the licence is inside the box the software comes in – Shrinkwrap license. Or as a pre-requisite to a download – Clickwrap license.
 
-Gratuitous licences may be revoked at any time. [^Trumpet]
+Gratuitous licences may be revoked at any time.[^Trumpet]
 
 [^Trumpet]: _Trumpet Winsock v Ozemail_ [1996] 560 FCA 1
 
@@ -77,6 +77,7 @@ Licenses can be implied from the circumstances. A newspaper editor has an implie
 ##### _Beck v Montana Constructions Pty Ltd_ (1963) WN (NSW) 1578
 
 In the case of _Beck v Montana Constructions Pty Ltd_ [^Beck] a firm of architects was commissioned to draw plans for a block of units. When the owners sold the land they gave the purchaser the plans. The purchaser decided to build in accordance with the plans but not to retain the architect. The other architect who was retained produced plans which were a substantial reproduction of the first architect’s plans. The original architects sued the purchaser and its architect for infringement of the copyright in the sketch plans.
+
 [^Beck]:  [1964-5] NSWR 229; (1963) WN (NSW) 1578
 
 

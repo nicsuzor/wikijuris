@@ -124,7 +124,7 @@ With respect to the taking of photographs, "private or domestic purpose" is defi
 Under s 35(5), if the person who commissions the relevant artistic works makes known to the author, either expressly or impliedly at the time of making the agreement commissioning the work, the purpose for which the work is required, then the author can restrain the person from using the work for other purposes.  
 
 <div markdown="block" class="box  case">
-_Blackwell v Wadsworth_  (1982) 64 FLR 145
+##### _Blackwell v Wadsworth_  (1982) 64 FLR 145
 
 The plaintiff artist was commissioned to make a drawing of a hotel.  Two years later, ads in the paper for the sale of the hotel included a reproduction of the drawing.  The plaintiff sued for infringement of copyright.
 
@@ -141,7 +141,7 @@ This definition does not mean that all jointly produced works result in joint au
 
 
 <div markdown="block" class="box  case">
-_Donoghue v Allied Newspapers Ltd_ [1938] Ch 106
+##### _Donoghue v Allied Newspapers Ltd_ [1938] Ch 106
 
 Held, where a person communicates an idea to an author and the author clothes the idea in the form of an article or articles, the copyright is owned by the author.
 </div>
@@ -255,7 +255,7 @@ The duration of Crown copyright is 50 years.
 The Copyright Law Review Committee (CLRC) recommended the abolition of special privileges for the Crown in their report, Crown Copyright (2005), but the Australian Government did not implement these recommendations.
 
 <div markdown="block" class="box  case">
-_Copyright Agency Limited v State of NSW_ [2007] FCAC 80
+##### _Copyright Agency Limited v State of NSW_ [2007] FCAC 80
 
 In the case of [Copyright Agency Limited v State of NSW](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2007/80.html) the Copyright Tribunal heard a claim by the Copyright Agency Limited (CAL), whose members include surveyors, for orders under ss 183(5) and 183(A) of the _Copyright Act 1968_ (Cth) in respect of a number of surveyors' plans and the State of New South Wales' 'dealings' in respect of them. Following the determination of the Tribunal, questions of law were referred to the Full Federal Court.
 

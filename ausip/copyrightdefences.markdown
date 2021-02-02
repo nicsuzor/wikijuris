@@ -17,7 +17,7 @@ grand_parent: Australian IP Law
 1. Table of Contents
 {:toc}
 
-Copyright law does not permit unauthorized use of copyrighted works. However, owners of copyright do not get total control over how their works can be reused. There are exceptions to copyright infringment that are designed to promote education, critique, and creativity. Under Australian law, the use of copyrighted works without the permission of the owner is permitted if the use falls under the “fair dealing” exceptions.
+Copyright law does not permit unauthorized use of copyrighted works. However, owners of copyright do not get total control over how their works can be reused. There are exceptions to copyright infringement that are designed to promote education, critique, and creativity. Under Australian law, the use of copyrighted works without the permission of the owner is permitted if the use falls under the “fair dealing” exceptions.
 
 To fall within a fair dealing exception, the use must be for one of the stated purposes and it must be fair. The acceptable purposes are:
 
@@ -52,7 +52,8 @@ Each of these will be discussed below.
 
 The _Copyright Act 1968_ (Cth) has statutory defences, situations in which the use of copyright works will not amount to copyright infringement. These are known as the fair dealing provisions. A fair dealing with a Pt III work or adaptation or a Pt IV audio-visual item (that is, a sound recording, film, sound broadcast or television broadcast) does not infringe copyright if done for one (or more) of the purposes as outlined in the table below.  
 
-^Defence  ^Subject Matter  ^Section of the Act|
+| Defence  | Subject Matter  | Section of the Act|
+|------|------|-------|
 | Research or Study |Works and audio-visual items  |Sections 40 and 103C |
 | Criticism or Review |Works and audio-visual items  |Sections 41 and 103A |
 | Parody or Satire |Works and audio-visual items  |Sections 41A and 103AA |
