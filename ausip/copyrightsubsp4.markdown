@@ -38,7 +38,8 @@ The content protected by Part IV is known as "subject matter other than works" o
 
 For these subject matter, there is no requirement of originality. Rights are granted to the "makers" of these subject matter. The terminology for the creator is different in Part III and IV - the creators of Part III works are called "authors" and the creators of Part IV subject matter are called "makers".
 
-Copyright in Part IV subject matter is "in addition to, and independent of" any copyright subsisting in the work under Part III. [^AUTOREPLACEDCAs1131ENDREPLACE] Thus, a single item may have many layers of copyright. For example, a recording of a song will have copyright protection in the underlying musical work (the musical notation), literary work (the lyrics), as well as copyright in the actual sound recording.
+Copyright in Part IV subject matter is "in addition to, and independent of" any copyright subsisting in the work under Part III.[^AUTOREPLACEDCAs1131ENDREPLACE] Thus, a single item may have many layers of copyright. For example, a recording of a song will have copyright protection in the underlying musical work (the musical notation), literary work (the lyrics), as well as copyright in the actual sound recording.
+
 [^AUTOREPLACEDCAs1131ENDREPLACE]: _CA_ s 113(1)
 
 
@@ -53,6 +54,7 @@ Copyright in sound recordings subsists by virtue of s 89 of the _Copyright Act_.
 
 
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
+
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
 
 
@@ -118,7 +120,8 @@ There are three relevant definitions in s 10 of the _Act_:
 A key aspect of the concept of broadcasting, which is apparent in the definition of "broadcast", is that it is "to the public".
 
 
-In the case of[Telstra Corp Ltd v Australasian Performing Right Association Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/1997/41.html)[^AUTOREPLACED1997191CLR140ENDREPLACE] APRA argued that when Telstra played music on hold to subscribers, it was broadcasting that music to the public.
+In the case of [Telstra Corp Ltd v Australasian Performing Right Association Ltd](http://classic.austlii.edu.au/au/cases/cth/HCA/1997/41.html)[^AUTOREPLACED1997191CLR140ENDREPLACE] APRA argued that when Telstra played music on hold to subscribers, it was broadcasting that music to the public.
+
 [^AUTOREPLACED1997191CLR140ENDREPLACE]:  (1997) 191 CLR 140
 
 It was held that music on hold played to individual callers was considered to be played "to the public".

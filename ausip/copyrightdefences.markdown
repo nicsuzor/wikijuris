@@ -163,6 +163,7 @@ In other cases, it is deemed to be a fair dealing to reproduce only a "reasonabl
 
 
 [^AUTOREPLACEDCAs405ENDREPLACE]: _CA_ s 40(5)
+
 [^AUTOREPLACEDCAs102ENDREPLACE]: _CA_ s 10(2)
 
 [^AUTOREPLACEDCAs102ENDREPLACE]: _CA_ s 10(2)
@@ -272,21 +273,26 @@ There is no fair dealing counterpart in relation to the use of audio-visual item
 
 ### Judicial Proceedings
 
-A general exception from infringement of copyright in sound recordings, films, broadcasts and published editions applies for acts done in the course of judicial proceedings or the reporting of such proceedings [^AUTOREPLACEDCAs104aENDREPLACE] or in the course of obtaining professional advice from a lawyer, patent attorney or trade marks attorney. [^AUTOREPLACEDCAs104bandcENDREPLACE] The _Act_ provides that any act done in relation to a literary, dramatic, musical or artistic work for the purpose of a judicial proceeding or the report of a judicial proceeding is exempted from copyright infringement. [^AUTOREPLACEDCAs431ENDREPLACE][^AUTOREPLACEDCAs104aENDREPLACE]: _CA_ s 104(a)
+A general exception from infringement of copyright in sound recordings, films, broadcasts and published editions applies for acts done in the course of judicial proceedings or the reporting of such proceedings [^AUTOREPLACEDCAs104aENDREPLACE] or in the course of obtaining professional advice from a lawyer, patent attorney or trade marks attorney. [^AUTOREPLACEDCAs104bandcENDREPLACE] The _Act_ provides that any act done in relation to a literary, dramatic, musical or artistic work for the purpose of a judicial proceeding or the report of a judicial proceeding is exempted from copyright infringement. [^AUTOREPLACEDCAs431ENDREPLACE]
+
+[^AUTOREPLACEDCAs104aENDREPLACE]: _CA_ s 104(a)
 
 
 [^AUTOREPLACEDCAs431ENDREPLACE]: _CA_ s 43(1)
+
 [^AUTOREPLACEDCAs104bandcENDREPLACE]: _CA_ s 104(b) and (c)
 
 
 ### Parody or Satire
 
 The provisions of the _Act_ apply where a person or organisation can demonstrate that their use of copyright material (both works and audio-visual subject matter) is a fair dealing for parody or satire. [^AUTOREPLACEDCAss41Aand103AAENDREPLACE] The _Act_ does not include a definition of ‘parody’ or ‘satire’ or require sufficient acknowledgment of the work to be made.
+
 [^AUTOREPLACEDCAss41Aand103AAENDREPLACE]: _CA_ ss 41A and 103AA
 
 Defences relating to parody can be found in other jurisdictions, including the US and member countries of the European Union. The defence for satire may be unprecedented.
 
 The case of _TCN Channel Nine Pty Ltd v Network Ten Ltd_ (_Panel case_)[^AUTOREPLACEDTCNChannelNinePtyLtdvNetworkTenLtd2001FCA108NetworkTenPtyLtdvTCNChannelNinePtyLtd2004218CLR273ENDREPLACE] involved parody and satire, however, the case was finalised before defence was introduced in Australian law. Whether this defence would have made a different is a point of debate.
+
 [^AUTOREPLACEDTCNChannelNinePtyLtdvNetworkTenLtd2001FCA108NetworkTenPtyLtdvTCNChannelNinePtyLtd2004218CLR273ENDREPLACE]: TCN Channel Nine Pty Ltd v Network Ten Ltd [2001] FCA 108; Network Ten Pty Ltd v TCN Channel Nine Pty Ltd (2004) 218 CLR 273
 
 
@@ -602,6 +608,7 @@ The performance of a literary, dramatic or musical work or playing a sound recor
 
 
 [^AUTOREPLACEDCAs28ENDREPLACE]: _CA_ s 28
+
 [^AUTOREPLACEDCAs46seealsos1061inrespectofsoundrecordingsENDREPLACE]: _CA_ s 46 – see also s 106(1) in respect of sound recordings)
 
 
@@ -614,6 +621,7 @@ Copyright in an artistic work is not infringed if the work is included in a film
 
 
 [^AUTOREPLACEDCAs67ENDREPLACE]: _CA_ s 67
+
 [^AUTOREPLACEDCAs45ENDREPLACE]: _CA_ s 45
 
 
