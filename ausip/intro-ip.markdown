@@ -99,7 +99,8 @@ For designers to get protection, a design must be registered before any manufact
 
 In addition to the four main categories of IP discussed above, there are also a few other rules and sui generis laws for particular types of subject matter. These include rights such as plant breeders rights, circuit designs, and geographical indicators. The table below sets out the key Australian sources for intellectual property law.
 
-^Intellectual Property Area        ^Rights               ^Source of Law in Australia |
+| Intellectual Property Area | Rights | Source of Law in Australia |
+|-------|------|------|
 | Copyright | to copy and distribute creative works and productions | _Copyright Act 1968_ (Cth)|
 | Trade marks | to use words and symbols to identify your goods and services in trade | _Trade Marks Act 1995_ (Cth) |
 | Patents | to commercially exploit an invention | _Patent Act 1990_ (Cth) |
@@ -156,7 +157,8 @@ The natural rights justification is still contested today.
 
 Intellectual property was not always central to international trade. As technology and trade developed so did the need to incorporate intellectual property into trade agreements and ensure there were international standards for dealing with intellectual property related matters when engaging in international trade. Below is a short timeline of the history of international intellectual property regulation. The timeline outlines when intellectual property and trade became intertwined.
 
-^Year    ^Agreement     ^Effect |
+| Year  |  Agreement  | Effect |
+|-------|------|------|
 | 1873 | The impetus for international protection | Creators refused to attend the International Exhibition of Inventions in Vienna, Austria, because they were afraid their ideas would be stolen and exploited in other countries.|
 | 1883 | The Paris Convention | _The Paris Convention for the Protection of Intellectual Property_ is the first major international treaty designed to help the people of one country obtain intellectual property protection in another country. It applies mainly to patents, but also covers trade marks and industrial designs. It was first agreed on in 20 March 1883. It has now been incorporated into the _TRIPS_ Agreement.|
 | 1886 | The Berne Convention | _The Berne Convention for the Protection of Literary and Artistic Works_ aims to give creators the right to control and receive payment for their creative works on an international level. This agreement applies to copyright.|
@@ -192,4 +194,4 @@ There are also a number of bilateral intellectual property law agreements. These
 
 - _Trade in Services Agreement_ (_TISA_)
 
-One controversial aspect of trade agreements is the use of investor-state dispute settlement (ISDS) clauses. In the case of many treaties, if there is a dispute between the parties, _TRIPS_ can be used to enforce the standards of trade. However, in instances where an ISDS is included in contracts, individual investors can bring arbitration proceeding against a nation. This process can be very costly and may involve significant delay.
+One controversial aspect of trade agreements is the use of investor-state dispute settlement (ISDS) clauses. In the case of many treaties, if there is a dispute between the parties, _TRIPS_ can be used to enforce the standards of trade. However, in instances where an ISDS is included in contracts, individual investors can bring arbitration proceeding against a nation. This process can be very costly and may take a long time to resolve.
