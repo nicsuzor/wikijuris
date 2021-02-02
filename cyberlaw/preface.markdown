@@ -4,6 +4,7 @@ title: About this textbook
 nav_order: 1
 parent: Governing the Internet
 has_children: true
+has_toc: false
 ---
 
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/preface.markdown){: .btn .btn-outline }
