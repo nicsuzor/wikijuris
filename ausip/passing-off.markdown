@@ -229,13 +229,12 @@ Held:  On appeal from the Federal Court to the Full Federal Court  it was held t
 
 A misrepresentation in passing off refers to conduct on the part of the trader which relies on the reputation or goodwill of the plaintiff usually by misrepresenting some sort of connection with the plaintiff’s business, goods or services and results in consumers coming to an erroneous conclusion about or being confused about a connection between the goods/services of that traders and those of another trader.
 
-It is necessary to show that the defendant's conduct caused customers to be deceived. The misrepresentation must be capable of causing deception or foreseeable cause deception.[^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE] The misrepresentation may be express or implied, but it will usually be implied. Whether or not there has been a misrepresentation is ultimately question of fact for the court to determine. It is a matter of impression and there is no determinative factor that the court will necessarily turn to answer the question.[^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE]
+It is necessary to show that the defendant's conduct caused customers to be deceived. The misrepresentation must be capable of causing deception or foreseeable cause deception.[^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE] The misrepresentation may be express or implied, but it will usually be implied. Whether or not there has been a misrepresentation is ultimately question of fact for the court to determine. It is a matter of impression and there is no determinative factor that the court will necessarily turn to answer the question.[^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE] The existence of a misrepresentation is gauged by the court’s objective assessment of its impact on consumers.
 
 
 [^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE]: *AG Spalding v Gamage* (1915) 32 RPC 273
 
-[^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE]: *Interlego Ag v Croner Trading Pty Ltd* (1992) 39 FCR 348
-. The existence of a misrepresentation is gauged by the court’s objective assessment of its impact on consumers.
+[^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE]: *Interlego Ag v Croner Trading Pty Ltd* (1992) 39 FCR 348.
 
 ### Possible Forms of Misrepresentation
 
@@ -552,7 +551,8 @@ Passing off protects reputation and the legitimate rights and business interests
 
 ##### Passing off, trade marks, and consumer law
 Passing off operates similarly to trade mark infringement in some ways, but trademark infringement is easier to prove. Where trademark infringement does not apply, passing off may provide a remedy. Section 29 of the Australian Consumer law can also provide a remedy in some cases. Section 29 prohibits 'false or misleading representations about goods or services', and includes prohibitions on false or misleading representations that a person, goods, or services are sponsored, approved, or affiliated with a brand or person.
-</box>
+
+</div>
 
 <div markdown="block" class="box  case">
 ##### _Parkdale v Puxu_ (1982) 149 CLR 191
