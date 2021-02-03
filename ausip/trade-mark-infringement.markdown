@@ -308,7 +308,8 @@ According to the _TMA_ s 120(2) and (3), there is no infringement where the trad
 
 Defences to trade mark infringement are found in s 122 of the _TMA_. The table below outlines each of these.
 
-^ Section ^ Defence ^
+| Section | Defence |
+|-------|-------|
 | s 122(1)(a)(i) | The person uses in good faith the person’s name or the name of the person’s place of business. |
 | s 122(1)(b)(i) | The person uses a sign in good faith to indicate the kind, quality, quantity, intended purpose, value, geographical origin, or some other characteristic, of goods or services (descriptively – not used much as often wont be using as a TM). |
 | s 122(1)(c) | The person uses the trade mark in good faith to indicate the intended purpose of goods (in particular as accessories or spare parts) or services: Can use a TM to show goods (e.g. spare parts or peripherals) are compatible with another trader’s goods; Ensures TM does not provide TM owners with an extensive monopoly. |
