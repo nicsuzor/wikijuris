@@ -1,0 +1,47 @@
+======MacRobertson Miller Airline Services v Commr of State Taxation (WA) (1975) 133 CLR 125======
+
+{{tag>"case law" HCA}}
+
+**Court**: High Court of Australia
+
+**Judges**: Barwick CJ, Stephen and Jacobs JJ
+
+**Date decided**: 10 December 1975
+
+=====Background=====
+The Stamp Act 1921 (WA) imposed duties on agreements or memos of agreements under hand. The Supreme Court found that an airline ticket issued by MacRobertson Miller was dutiable as a memorandum of a completed agreement. The appellant argued that the ticket was not an agreement or memo of an agreement, on the grounds that the offer is made by presenting the ticket to the airline, and acceptance occurs at that moment.
+
+The ticket included clauses such as:
+>2. The Companies reserve the right at any time to abandon any flight or, whether the scheduled flight on which the passenger or goods were booked takes place or not to cancel any ticket or booking of any passenger or goods or to carry the passenger for portion only of any booked flight. In the event of a flight being abandoned or altered by the Companies wholly or in part or a ticket or booking being cancelled by the Companies wholly or in part, the passenger shall be entitled only to a refund of so much of the passage money as shall be porportionate to the part of his flight so cancelled or abandoned and the Companies shall not under any circumstances be under any further or other liability to the passenger for failure to carry him at the booked or scheduled time or at all.
+
+>5. The Companies are not common carriers, and reserve the right to refuse to carry any passenger, baggage or goods without assigning any reason therefor.
+
+The terms and conditions in this case were clearly identified on the inside back cover of the ticket. Because this was a matter between an Airline and the State Commissioner of Taxation, arguments would not have been pressed about whether the passenger had adequate notice of the terms, or what rights the potential passenger would acquire, if any, through the ticket.
+
+=====Reasons: Barwick CJ=====
+Chief Justice Barwick held that it was "clear that the issuing airline operator does not by the terms of the ticket assume or offer to assume any obligation to carry the intending passenger."((132-3))
+>The case is not, in my opinion, one in which an obligation is assumed or an offer of an obligation made from or upon which obligations, exemptions or limitations are stipulated. The exemption of the ticket in this case fully occupies the whole area of possible obligation, leaving no room for the existence of a contract of carriage.((133))
+
+His Honour did not accept that the ticket created any obligations on the carrier; instead, it was a mere receipt for the pre-payment of a fare which may or may not be performed.((134))
+>Having regard to the known continguencies of airline operation it would be incongruous to infer the making of a promise to carry from the mere payment of the fare and its acknowledgment by the issue of a ticket. The ticket, apart from any specific terms it might contain, would not be regarded as entitling its holder to a place on a particular flight. It should be regarded as doing no more than denominate the carriage which, if performed, will earn the prepaid fare. If, as in the present case, the ticket contains terms of carriage, these will, given the performance of the denominated carriage, regulate the relationship of the parties during and in connexion with such carriage and thus their respective rights in relation thereto.((134))
+(It is not clear, on this analysis, on what basis the Airline may claim to have earned the fare if the ticket-holder does not show up, if there is no contract - but Barwick CJ accepts that this will be the case.)
+
+Chief Justice Barwick concluded that
+>although the terms of the ticket in this case with their express and extensive limitations and exclusions preclude the existence of an antecedent contract of carriage, it is my opinion that, in any case, without the presence of these express provisions and in the absence of an express provision to carry, the ticket would not represent an agreement or a memorandum of agreement to satisfy the relevant portion of the schedule to the Stamp Act.((135))
+
+=====Stephen J=====
+Justice Stephen held that this case, unlick //[[Shoe Lane Parking]]// was "just such a case as that for which the conventional analysis was devised" - that is, "to regard the ticket as the offer, the contract being made upon acceptance of that offer by the passenger, usually by conduct."((137)) This was not a case  where there was "no opportunity either of considering the terms of the proffered contract or of declining to enter into it on the terms which are offered."((137)) Justice Stephen recognised that "the economics of mass transportation in fact lead to an absence of much real choice on the passenger's part whether or not to accept conditions sought to be imposed," but discounted this as the passenger "at least retains the ability to learn of those conditions and to refuse to travel by the intended means if he sees fit."((137))
+
+Relying on [[Parker v South Eastern Railway Co]], [[Hood v. Anchor Line (Henderson Brothers) Ltd]], and [[Shoe Lane Parking]], Stephen J held that there must be some opportunity to reject the terms of the offer on the ticket, before acceptance occurs.((138)) Therefore, the ticket in this case could not represent a concluded contract. Instead, acceptance "occurs after that event, either when the passenger has by actual conduct intimated his acceptance of the offer, for instance by immediately boarding the vehicle in question, or, absent any such conduct, when a reasonable time has passed during which the passenger has had an opportunity of reading the conditions appearing on the ticket and has not then rejected the offer and demanded the return of his fare."((139))
+
+Justice Stephen did not decide whether the terms on the ticket relieved the appellant from performance to such a degree that there was no contract formed before transportation commenced.((140)) It was sufficient "to conclude that at date of issue the ticket was not an agreement or any memorandum of agreement."((140))
+
+=====Reasons: Jacobs J=====
+Justice Jacobs, like Stephen J, held that the ticket was an offer to be accepted or rejected at some later time by the passenger:((144))
+>It is well accepted that, although an intending passenger requests a ticket and might thereby be regarded as making an offer, in fact the carrier "makes an offer by tendering the ticket, and the contract is formed only by acceptance of the ticket immediately after payment of the fare. This is the view taken, though not always explicitly stated, in the line, by this time numerous, of authorities on such cases. Thus detailed analysis of the process justifies the summary view of lay common sense, which surely is that the party offering terms to be accepted is the railway company or other public undertaker((142-3, citing Pollock's Principles of Contract, 13th ed. (1950), p. 41))
+
+His Honour further held that "the ticket is an offer capable of acceptance by the promisee on the executory contract of carriage and, after that acceptance, will be an offer to the proposed passenger capable of acceptance by him by presentation of that ticket. But in neither case is it the actual agreement of carriage or a memorandum of that agreement."((146)) His Honour concluded that "although a passenger by possession of a ticket or by embarking on the travel may accept the offer constituted by the ticket and be a contracting party to a contract of carriage, it is not a contract of carriage which is in writing by virtue of the ticket; it is a contract which may arise only by presentation of the ticket."
+
+Justice Jacobs continued, however, to reason, as did Barwick CJ, that Clause 2, being so wide in scope as to exempt the airline from performance, meant that "any enforceable promise to carry which might on the present assumption be implied between airline and passenger from the issue of the ticket is negatived."((148)) His Honour continued:
+>The ticket may be cancelled by the company at any time and all that will then happen will be that the passenger shall be entitled to a refund, and the company shall not under any circumstances be under any further liability to the passenger. If there could be extracted otherwise from the document an agreement between the appellant and the passenger it would, by such a clause, be made nugatory. The appellant undertakes no executory obligation which creates rights in an obligee. The ticket contains the provision that no claim for refund of the fare will be considered if the passenger is not ready at the aerodrome or other place of departure fifteen minutes before the stated or advertised time of departure (cl. 3). This provision would be valid if the consideration was the mere issue of the ticket but it is difficult to see how otherwise it would be valid in view of the insertion of cl. 2. If the ticket itself is the consideration then this is a further ground for the conclusion earlier expressed that a ticket as such is no more than a voucher.((148))
+

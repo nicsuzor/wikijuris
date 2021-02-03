@@ -1,0 +1,14 @@
+
+1. [[workshop01|Regulating the internet]]
+2. [[jurisdiction|Jurisdiction]]
+3. [[intermediaries_general|Intermediary liability]]
+4. [[workshop04|defamation]]
+5. [[workshop05|copyright authorisation]]
+6. [[workshop06|copyright safe harbours]]
+7. [[workshop07|Policy writing workshop]]
+8. [[workshop08|The domain name system]]
+9. [[workshop09|Content regulation]]
+10. [[workshop10|Access to computers]]
+11. No workshops this week. 
+12. [[workshop12|Privacy and Surveillance]]
+13. [[workshop13|Private power]]

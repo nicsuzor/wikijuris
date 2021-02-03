@@ -1,0 +1,69 @@
+======IceTV Pty Limited v Nine Network Australia Pty Limited [2009] HCA 14======
+
+{{tag>"case law" copyright compilations originality}}
+
+**Court**: High Court of Australia
+
+**Judges**: French CJ, Gummow, Hayne, Heydon, Crennan and Kiefel JJ
+
+**Date decided**: 22 April 2009
+
+
+====== Facts ======
+
+
+The appeal to the High Court arose from proceedings brought by the Nine Network in the Federal Court of Australia for infringement of copyright in their Weekly Schedule of television programmes to be broadcast each week. They alleged that each Weekly Schedule was a compilation, and therefore a literary work under the Copyright Act 1968, and that IceTV had infringed copyright by taking part of the time and title information from the Aggregated Guides (guides produced by third party Aggregators, authorised by Nine and to whom Nine provides the Weekly Schedule) and including it in their own (electronic) guide, the “IceGuide”. Nine alleged that this constituted a reproduction of a substantial part of the copyright work. IceTV denied that they had reproduced in a material form a substantial part of any Weekly Schedule and denied that reproduction from any Aggregated Guide was a reproduction of any Weekly Schedule.
+
+French CJ, Crennan and Kiefel JJ summarised the approach of the lower courts as follows (at pp 2-3):
+
+>Accordingly, both the primary judge (Bennett J) and the Full Court (Black CJ, Lindgren and Sackville JJ) dealt with this matter on the basis that the subsistence of copyright in the Weekly Schedules was admitted. The dispute was treated below as one to be resolved, first, by a determination of whether the time and title information which was reproduced constitutes a “substantial part” of the Weekly Schedules, and secondly, by consideration of the “indirect reproduction” issue. Both the primary judge and the Full Court essentially approached the question of whether IceTV had reproduced a substantial part of any Weekly Schedule by identifying the “skill and labour” which was expended on creating the Weekly Schedules, then asking whether IceTV has “appropriated” Nine’s skill and labour. The primary judge and the Full Court reached opposite conclusions on the point essentially because of different approaches to identifying the relevant skill and labour in question: the primary judge considered that skill and labour in making programming decisions was not relevant and that there was not a reproduction of a substantial part; the Full Court considered that this skill and labour was relevant and that there was a reproduction of a substantial part.
+
+====== French CJ, Crennan and Kiefel JJ ======
+
+
+French CJ, Crennan and Kiefel JJ gave a joint judgment. They considered that the Weekly Schedules contain both “information” (the time and title information) and “creative” material (such as the synopses of programmes). In relation to the expression of time and title information, they considered that this is not a form of expression that requires particular mental effort or exertion and that the way in which the information can be conveyed is very limited (at p16). They stated at pp 16-17:
+
+>The authors of the Weekly Schedule (or the Nine Database) had little, if any, choice in the particular form of expression adopted, as that expression was essentially dictated by the nature of the information. The expression lacks the requisite originality (in the sense explained) for the part to constitute a substantial part.
+
+>Counsel for Nine sought to place importance upon the production not only of time and title information in respect of each programme, but also of the chronological arrangement of the time and title information for various programmes. Whether a selection or arrangement of elements constitutes a substantial part of a work depends on the degree of originality of that selection or arrangement. In this case, a chronological arrangement of times at which programmes will be broadcast is obvious and prosaic, and plainly lacks the requisite originality.
+
+>These considerations lead to the conclusion that the part of the Weekly Schedule (or the Nine Database) alleged to have been reproduced was not a substantial part.
+
+Although the judges did not address the issue of whether Nine’s Weekly Schedule compilation ought to attract copyright protection in the first place (though see pp 17-18 for a brief reference), at least in so far as it only compiled facts or information in a logical way, they did hold that that protection would not extend to the use of mere facts from the compilation.
+
+
+French CJ, Crennan and Kiefel J also state at p20 (in obiter):
+
+>Rewarding skill and labour in respect of compilations without any real consideration of the productive effort directed to coming up with a particular form of expression of information can lead to error. The error is of a kind which might enable copyright law to be employed to achieve anti-competitive behaviour of a sort not contemplated by the balance struck in the Act between the rights of authors and then entitlements of the reading public.
+
+
+
+====== Gummow, Hayne and Heydon JJ ======
+
+
+Justices Gummow, Hayne and Heydon also delivered a joint judgment. In their judgment, they accepted the submission by IceTV that the originality of the Weekly Schedule “lay not in the provision of time and title information, but in the selection and presentation of that information together with additional programme information and synopses, to produce a composite whole” (p56). Accordingly, like French CJ and Crennan and Kiefel JJ, they found that IceTV had not reproduced a substantial part of Nine’s original copyright work.
+
+Gummow Hayne and Heydon JJ stated (at pp 57-58):
+
+>The issue requiring the comparison between what was taken and the whole of the work in suit may be distorted by a mediation, inspired by //Desktop Marketing//, upon the protection given by the Act against misappropriation of any investment of skill and labour by the author. In the present case, the temptation then is to classify the slivers [of information] each as original literary works…
+
+>…The proposition that the Court should look to “the interest” which the copyright protects invites processes of reasoning to which there applies the warning by Judge Learned Hand in Nichols v Universal Pictures Corporation. This is to the effect that the more remote the level of abstraction of the “interest”, the greater the risk of protecting the “ideas” of the author rather than their fixed expression. That risk appears to have been realised in the reasoning of the Full Court.
+
+>The Full Court approached the issue of substantiality at too high a level of abstraction, and in doing so tipped the balance too far against the interest of viewers of digital free to air television in the dissemination by means of new technology of programme listings.
+
+It is also interesting to read the Justices’ assessment (at pp 61-65) of just how IceTV compiled their IceGuide, using primarily “prediction” of time and title information and only relying on Nine’s schedules to confirm their predictions, but I won’t cover that in detail here.
+
+Significantly in this case, all judges referred disfavourably to the statement made by Lord Reid in //[[cases:ladbroke_football_ltd_v_william_hill_football_ltd_1964_1_wlr_273|Ladbroke (Football) Ltd v William Hill (Football) Ltd]]// that “what is worth copying is prima facie worth protecting”. Gummow, Hayne and Heydon JJ called this formula “deceptively simplistic” (p27). All judges referred to the need to balance the protectionist aspects of copyright law with the need to maintain a robust public domain. Furthermore, at p50, Gummow, Hayne and Heydon JJ discuss in obiter “a reason to treat the decision in //Desktop Marketing// with particular care…”
+
+An important obiter remark was made by Gummow, Hayne and Heydon JJ immediately following their conclusion (pp 65-66):
+
+>One final point should be made. This concerns the submission by the Digital Alliance that this Court consider the Full Court’s decision in //Desktop Marketing// and, to the contrary of //Desktop Marketing//, affirm that there must be some “creative spark” or exercise of “skill and judgment” before a work is sufficiently “original” for the subsistence of copyright.
+
+>It is by no means apparent that the law even before the 1911 act was to any different effect to that for which the Digital Alliance contents. It may be that the reasoning in //Desktop Marketing// with respect to compilations is out of line with the understanding of copyright law over many years. These reasons explain the need to treat with some caution the emphasis in Desktop Marketing upon “labour and expense” per se and upon misappropriation. However, in the light of the admission of Ice that the Weekly Schedule was an original literary work, this is not an appropriate occasion to take any further the subject of originality in copyright works.
+
+
+
+====== Decision ======
+
+
+The Court allowed the appeal with costs.

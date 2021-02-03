@@ -1,0 +1,35 @@
+{{tag>"case law" incorporation terms misrepresentation "incorporation by signature"}}
+
+======Jaques v Lloyd D George & Partners Ltd [1968] 1 WLR 625======
+
+
+**Court**: Court of Appeal
+
+**Judges**: Lord Denning MR, Edmund Davies LJ, Cairns J
+
+**Date decided**: 19, 20 February 1968 
+
+=====Background=====
+Jaques wanted to sell his business, and engaged Lloyd D George & Partners as agents. Jaques was told, before the contract was signed, that “[i]f we find a suitable purchaser and the sale goes through, you will pay us £250.” The conditions on the particulars of sale included the clause “I hereby instruct you to use your best endeavours to sell the above in accordance with the terms appearing below”, and the term “(3) Should you be instrumental in introducing a person willing to sign a document capable of becoming a contract to purchase at a price, which at any stage of the negotiations has been agreed by me, I agree to pay you a commission of £250 or 71/2 per cent. of the selling price, whichever is the greater.” Jaques did not read the clauses, and their effect or existence were not explained to him.
+
+When the eventual sale fell through, Jaques claimed against Lloyd to return the deposit to the would be-purchaser. The primary judge held that Lloyd were entitled to keep the deposit on the wording of the contract. Jaques appealed to the Court of Appeal.
+
+=====Reasons: Lord Denning MR=====
+Lord Denning began by stating:
+
+>We have had many cases on commission claimed by estate agents. The common understanding of mankind is that commission is only payable by the vendor when the property is sold. It is payable out of the purchase-money. But some agents have sought, by their printed form, to get commission even though the property has not been sold or the purchase-money received. At first it was "when a binding contract is signed." Next it was if they introduce a person "ready, able and willing to purchase." Then they missed out "able" and wanted commission if they only got a "prospective" purchaser or a "willing" purchaser who was unable to purchase. Now we have got to the widest clause that I have yet seen. "Should you be instrumental in introducing a person willing to sign a document capable of becoming a contract to purchase." Can an estate agent insert such a clause and get away with it? I think not.((629.))
+
+Lord Denning regarded the clause in question as “wholly unreasonable and totally uncertain.”((629.)) His Lordship held that
+
+>[t]he principles which in my opinion are applicable are these: When an estate agent is employed to find a purchaser for a business or a house, the ordinary understanding of mankind is that the commission is payable out of the purchase price when the matter is concluded. If the agent seeks to depart from that ordinary and well-understood term, then he must make it perfectly plain to his client. He must bring it home to him such as to make sure he agrees to it. When his representative produces a printed form and puts it before the client to sign, he should explain its effect to him, making it clear that it goes beyond the usual understanding in these matters. In the absence of such explanation, a client is entitled to assume that the form contains nothing unreasonable or oppressive. If he does not read it and the form is found afterwards to contain a term which is wholly unreasonable and totally uncertain, as this is, then the estate agent cannot enforce it against the innocent vendor. Applying this principle, I think that the clause in this case was wholly unreasonable and totally uncertain. It can and should be rejected, leaving the agent to his commission on the usual basis, namely, if the sale goes through, he gets his commission.
+Lord Denning also considered the statement of Scrutton LJ in [[L'Estrange v F Graucob Ltd [1934] 2 KB 394|L'Estrange v F Graucob Ltd]] that “in the absence of fraud … or, //I will add, misrepresentation//, the party signing it is bound.”((630, quoting [1934] 2 K.B. 394, 403, emphasis added by Lord Denning.))
+
+Lord Denning held that the clause was totally uncertain and of no effect. However, he would also have considered that the misrepresentation rendered the term and it could therefore be avoided, had the case been pleaded in that way.((630))
+
+=====Reasons: Edmund Davies LJ=====
+
+Lord Justice Edmund Davies concurred with the Master of the Rolls, but arrived at the conclusion by finding misrepresentation, in accordance with the exceptions to the rule in [[L'Estrange v F Graucob Ltd [1934] 2 KB 394|L'Estrange v F Graucob Ltd]].((634.))
+
+=====Reasons: Cairns J=====
+
+Justice Cairns held that “[i]n the clause relied upon in this case,” he could “find no clear meaning at all.”((634.)) His Honour did not consider that the rule in [[L'Estrange v F Graucob Ltd [1934] 2 KB 394|L'Estrange v F Graucob Ltd]] had any bearing on the outcome as no plea of misrepresentation had been advanced.((635.))

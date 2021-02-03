@@ -1,0 +1,12 @@
+======Bankway Properties Ltd v Pensfold-Dunsford [2001] 1 WLR 1369======
+
+{{tag>"case law" contract incorporation unusual onerous signed}}
+
+**Court**: [[EWCA]]
+
+**Judges**: Pill and Arden LJJ
+
+**Date decided**: 10 April 2001
+
+>I take first Mr Knafler's alternative submission and the question whether the defendants are bound by clause 8(b)(iii). The  [[Interfoto Picture Library Ltd v Stiletto Visual Programmes Ltd [1989] QB 433|Interfoto Picture Library]] case shows that a condition may not be enforceable or validly incorporated into a contract where the condition is onerous. However, the starting point here must be that, since the defendants signed the agreement containing clause 8(b)(iii), they are bound by it. It is not in my judgment clear that the  Interfoto   doctrine applies to a contract which a party signs, but I need not express a view on that point because, in my judgment, while clause 8(b)(iii) was an onerous and unusual clause, Miss Padley is right in her submission that the landlord did all that it needed to do when it drew the defendants' attention to the rent review clause in the letter dated 15 February 1994. If they did not like the clause when they subsequently saw it, it was open to them to refuse to sign the agreement.((1379, [41], Arden LJ))
+

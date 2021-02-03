@@ -1,0 +1,67 @@
+# Workshop 01: Introduction to internet regulation
+
+## What do I need to do?
+
+1. Sign-up for a week to upload your 'teach-the-class' video: https://goo.gl/v3rh1G 
+
+2. Read the materials prescribed below
+
+3. Watch: 9 videos on YouTube: https://www.youtube.com/playlist?list=PL6zgvy7Uc6fWc-168NDf9edSA1yaporTh 
+
+4. Read and improve our open textbook: http://wikijuris.net/cyberlaw/regulation 
+
+5. Post your answers to the questions below to the online discussion board (on Blackboard)
+
+### Prescribed reading
+
+* John Perry Barlow, “Declaration of the Independence of Cyberspace” (1996) https://homes.eff.org/~barlow/Declaration-Final.html 
+
+* Lawrence Lessig, Code 2.0 (2006), pp 121–26 http://codev2.cc/download+remix/Lessig-Codev2.pdf 
+
+* Skim Read: Scott Ewing, Emily van der Nagel, and Julian Thomas, ‘CCi Digital Futures 2014: The Internet in Australia’ http://researchbank.swinburne.edu.au/vital/access/manager/Repository/swin:41844
+
+### Optional reading
+
+* Textbook, Ch 1, [1.10]-[1.8], [1.260]-[1.290], [1.300]-[1.350]
+
+* Jack Goldsmith & Tim Wu, ‘Digital Borders’, Legal Affairs (Jan. 2006) <http://www.legalaffairs.org/issues/January-February-2006/feature_goldsmith_janfeb06.msp> 
+
+* David R Johnson & David Post, “Law and Borders--The Rise of Law in Cyberspace,” (1995) 48 Stanford Law Review 1367. 
+
+* Lawrence Lessig, ‘The Law of the Horse: What Cyberlaw Might Teach’ (1999) 113 Harvard Law Review 501 <http://www.lessig.org/content/articles/works/finalhls.pdf>.
+
+### Discussion questions
+
+Help us understand this week's content. Make a post to the discussion board (on Blackboard)  board on one of the following topics:
+
+* This week's material probably uses some technical terms that are unfamiliar. Look up a definition or explanation of one of these terms and post it.
+
+* We often talk about the massive amount of content on the internet. Find a good infographic or video that contextualises just how much content is shared or consumed every day online, and share this with us.
+
+* What are the big, pressing issues of internet regulation at the moment? Share a news story or overview of one of these with us.
+
+* Some of you have experience recording videos. Post a tip about the software, hardware, or process that can help others with their teach-the-class videos.
+
+### Introduction to the unit
+
+* assessment and structure
+* open textbook (and rewards!)
+* teaching staff: Nicolas Suzor and Kylie Pappalardo
+
+### Exercise 1: Key terms and concepts
+
+1. What did you make of John Perry Barlow's Declaration of the Independence of Cyberspace? Do you accept the argument that Governments shouldn't interfere with how the internet is governed? Explain why.
+
+2. Some people believe that internet access is a human right. Do you think it is? How important is the internet to daily life in modern society?
+
+3. How well has Barlow's claim that the internet is unregulable stood up over the last twenty years?
+
+
+### Exercise 2: Internet trivia
+
+Your table is competing for all the Chupa Chups in the room. Good luck!
+
+
+### Exercise 3:  Regulating the internet
+
+Your table is a practice group representing {Facebook, an anti-abuse advocacy group, or a civil libertarian organisation}. You are twenty minutes away from a negotiation meeting, mediated by the Australian Department of Online Law Enforcement. The Australian Government is very keen to do something to reduce the amount of hate speech, particularly gender-based hate speech, on the internet. Prepare your list of talking points for the meeting.

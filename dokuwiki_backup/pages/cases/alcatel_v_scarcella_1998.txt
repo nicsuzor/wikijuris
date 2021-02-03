@@ -1,0 +1,24 @@
+======Alcatel Australia Ltd v Scarcella (1998) 44 NSWLR 349======
+
+{{tag>"case law" contract lease implied duty "good faith"}}
+
+**Court**: [[New South Wales Court of Appeal]]
+
+**Judges**: Sheller JA, Powell JA, Beazley JA
+
+**Date decided**: 16 July 1998
+
+
+There was a covenant in a building lease to keep the building in “good and substantial repair”.((351.)) Windeyer J, at first instance, found that the phrase had both a qualitative (good) and quantitative (substantial) meaning.((354.)) The appellant argued that the phrase meant “substantially good repair”.((356.)) The Court of Appeal upheld Windeyer J's interpretation.((356.))
+
+The landlord urged ('sooled') the council to issue orders for the upgrade of the building to meet fire standards to the tenant, and then refused to co-operate with the tenant in appealing those orders (only the owner had standing). The result was that the tenant would be obliged to carry out improvement to the landlord's building. The tenant claimed that it was not obliged to carry out the improvements because the landlord had pressured the council to impose stricter requirements, in breach of an implied duty of good faith or cooperation.
+=====Good Faith: Sheller JA=====
+Sheller JA relied upon //[[Renard Constructions (ME) Pty Ltd v Minister for Public Works (1992) 26 NSWLR 234]]// and //[[Hughes Aircraft Systems International v Airservices Australia (1997) 146 ALR 1]]//. His Honour also extracted the relevant good faith obligations from the [[United States Uniform Commercial Code]] and considered the development in Australia of the doctrine following those two cases. Quoting from Sir Anthony Mason's Cambridge lecture, Sheller JA appeared to suggest that the content of the duty of good faith could be found in the doctrines of contract law – a general duty to cooperate (loyalty to the contract) and a limit on unconscionable behaviour already exist.((367-8.)) His Honour noted that:
+>If a contract confers power on a contracting party in terms wider than necessary for the protection of the legitimate interests of that party, the courts may interpret the power as not extending to the action proposed by the party in whom the power is vested or, alternatively, conclude that the powers are being exercised in a capricious or arbitrary manner or for an extraneous purpose, which is another was of saying the same thing. Thus, a vendor may not be allowed to exercise a contractual power where it would be unconscionable in the circumstances to do so: Pierce Bell Sales Pty Ltd v Frazer (1973) 130 CLR
+575 at 587.
+
+Sheller JA concluded that, following //Renard// and //Hughes//, a duty of good faith could be implied in NSW:
+>The decisions in Renard Constructions and Hughes Bros mean that in New South Wales a duty of good faith, both in performing obligations and exercising rights, may by implication be imposed upon parties as part of a contract. There is no reason why such a duty should not be implied as part of this lease. But it remains to decide whether the implication of that duty has any consequence in the resolution of the dispute the subject of this appeal.((369.))
+
+Because the tenant had not demonstrated that the requirements of the fire order were unreasonable, Sheller JA held that there could be no breach of the duty if it existed:
+>The result is that, in my opinion, the grounds of appeal relied on whether expressed as a requirement of an implied term in the contract or as allegations of unconscionable conduct by the respondents fail. In a commercial context it cannot be said, in my opinion, that a property owner acts unconscionably or in breach of an implied term of good faith in a lease of the property by taking steps to ensure that the requirements for fire safety advised by an expert fire engineer should be put in place. It was the duty of the council to ensure that adequate provision for fire safety was made in the building (s 317D of the Local Government Act 1919) and the contractual duty of the appellant to observe and perform the requirements of the council, if lawful, and to do and execute or cause to be done and executed such works as were required by the council. The respondents had a legitimate interest in ensuring that the building was properly protected. If the respondents felt that the council requirements were insufficient, as it had been advised, I can see no reason why they should not press for more stringent requirements.((369-70.))

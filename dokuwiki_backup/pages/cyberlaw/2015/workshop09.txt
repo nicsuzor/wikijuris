@@ -1,0 +1,70 @@
+# Workshop 09: Online content classification and censorship
+
+## What do I need to do?
+
+* Watch: https://www.youtube.com/playlist?list=PLa0bKPnUKQryx2wDyLIRY9PrGljQObQxk
+* Read and contribute: Open textbook, Ch 9: [[:cyberlaw:content]]
+* Read: Irene Graham, Australia's Internet Censorship System <http://libertus.net/censor/netcensor.html>
+* Skim and understand: Broadcasting Services Act 1992 (Cth), Schedule 5
+<http://www.austlii.edu.au/au/legis/cth/consol_act/bsa1992214/sch5.html>
+* Skim and understand: Broadcasting Services Act 1992 (Cth), Schedule 7
+<http://www.austlii.edu.au/au/legis/cth/consol_act/bsa1992214/sch7.html>
+* Read: Telecommunications Act 1997 (Cth), s 313
+<http://www.austlii.edu.au/au/legis/cth/consol_act/ta1997214/s313.html>
+* Read: Communications Alliance, “Content Services Code of Practice” (2008) <http://www.commsalliance.com.au/Documents/all/codes/content_services>
+* Optional reading: Textbook, Ch 3, paragraphs [3.10]-[3.200]
+
+
+## Teach the class topics
+
+1. Explain the different classification ratings for content in Australia.
+
+1. Provide an illustrated overview of how the complaints-based system works under Schedule 7.
+
+1. Explain the procedure through which the ACMA can replace an established Industry Code of Practice with its own industry standard
+
+2. Explain the operation of Sch 5 for internationally hosted content. What happens with when internationally-hosted content is determined to be prohibited by the ACMA under Schedule 5? (What do service providers / filter vendors do?)
+
+3. Explain what the Internet Watch Foundation's watch list is, and how s 313 of the Telecommunications Act is used to require internet service providers to block child abuse material.
+
+4. Explain how s 313 is used by Government agencies to block websites
+
+4. Explain the role of the Classification Board in complaints about online content in Australia.
+
+5. Explain the recommendations of the recent [Inquiry into the use of s 313](http://www.aph.gov.au/Parliamentary_Business/Committees/House/Infrastructure_and_Communications/Inquiry_into_the_use_of_section_313_of_the_Telecommunications_Act_to_disrupt_the_operation_of_illegal_online_services)
+
+5. Explain the previous Labor Government's proposal to require ISPs to block websites containing offensive content
+
+
+## Discussion questions
+
+1. What are the goals of internet content regulation? 
+2. How effective is the current co-regulatory model at achieving these goals?
+3. What material is currently being voluntarily blocked by Australian ISPs? What oversight mechanisms exist for this scheme?
+4. In early 2013, it was revealed that ASIC and other federal agencies had required ISPs to block access to over 250,000 sites through the power in s 313 of the Telecommunications Act 1997 (Cth). How is the public interest in enforcing criminal laws balanced against the public interest in freedom of expression and transparency in content regulation?
+
+## Workshop activities
+
+
+### Past exam
+<WRAP help round>
+To help you prepare for the exam, we will mark your answers to this past exam question at the end of Week 10. You must work in groups of at least 4 people. Please email your answer to Nic [n.suzor@qut.edu.au](mailto:n.suzor@qut.edu.au) before Sunday 27 September. 
+
+If you are having trouble finding a group, please post to the discussion board. If you still cannot find a group, you may help us improve [this document](http://piratepad.net/TzNBgauX1R) to fill out a collaborative answer.
+
+You should create a shared document using [Google Docs](http://docs.google.com) or [Pirate Pad](http://piratepad.net/).
+</WRAP>
+
+MugBook is an immensely popular social media web service. It is available in 200 or so countries around the world, and is used by approximately 500 million individuals and businesses.
+
+Mugbook allows people to create profiles, which can display photographs, text and other media that others can download and view. They can also use the service to store files privately and in a way in which those files cannot readily be viewed by others. Making changes to a user’s profile, or accessing stored files requires knowledge of that user’s password. Organisations (including businesses) can also create Mugbook profiles, upon which they can make product announcements, communicate with their customers and receive comments and feedback from customers.
+
+Julie Ann is a well known advocate for reducing the world's dependence on fossil fuels in the generation of electricity who has a MugBook profile. Julie Ann lives in Brisbane, Australia.
+
+Graham Garner, who works for a global coal mining business, is based in New York City in the United States. Graham has created a company profile on MugBook called, ‘Has Julie Ann lied to you?’ The profile contains, among other similar accusations, the following words: ‘those who allege that fossil fuels are to blame for climate change are liars and cheats’. In addition to this material Graham has posted, other people who use Mugbook have also posted comments to this MugBook site. Some of the comments posted by others are also highly inflammatory and possibly defamatory of Julie Ann. Among other things, those comments include the following postings: ‘Julie Ann is a corrupt cow and is in the pocket of the green movement’; and ‘Julie Ann eats little children’.
+
+Graham has also set up a second MugBook site, which contains material that promotes, incites and instructs in respect of violence against fossil fuel activists. <del>You may assume that the material is classified as '​Refused Classification'​ under the National Classification Code administered by the Australian Government Classification Board</del>. Julie Ann is concerned about this Mugbook site.
+
+Julie Ann has her own MugBook profile, upon which she stores and displays photos of her friends and family and the social events she takes part in. Graham has hacked into Julie Ann’s MugBook profile, and copied all of the material there, including a file that contains Julie Ann’s health and other personal records.
+
+Julie Ann has come to you for advice. Advise Julie Ann. This week, focus only on the defamation issues.

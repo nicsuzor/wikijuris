@@ -1,0 +1,70 @@
+====== Oceanic Sun Line Special Shipping Co Inc v Fay (1988) 165 CLR 197 ======
+
+{{tag>"case law" contract incorporation "exclusion clauses" ticket jurisdiction}}
+
+**Court**: High Court of Australia
+
+**Judges**: Wilson, Brennan, Deane, Toohey and Gaudron JJ
+
+**Date decided**: 30 June 1988
+
+**Note:** This note only considers contract formation and incorporation of terms. This case is also important for its discussion of [[forum non conveniens]], but I haven't included this discussion.
+
+=====Background=====
+
+Fay bought a Greek Island cruise in Australia; he received an exchange order, which was redeemable for a ticket on boarding. 
+
+The brochue that Fay was issued (but did not read) before he purchased the cruise mentioned that the contract would be
+>"governed by the terms and conditions printed on the Passenger Ticket Contract which may be inspected at any Sun Line office"
+
+The ticket contained a direction to read the Conditions, printed on pages 1-4 of the ticket, "especially as regards limitation of liability, adjustment of fares, etc". 
+
+Wilson and Toohey JJ describe the ticket:((205))
+
+> The passage ticket and contract is a document of several pages. It has on its face the words "Passage Ticket and Contract" together with the injunction "Each passenger should carefully examine this ticket, particularly the Conditions printed on pages 1, 2, 3 and 4 of its inside covers especially as regards limitation of liability, adjustment of fare rates etc". The ticket itself is a simple document, roughly comparable in form and content to the exchange order. There are very detailed "general conditions" asserting that the terms and conditions referred to in "this ticket" and set forth on pp 1-4, "to which passenger expressly agrees", apply to and govern the relations between the passenger on the one hand and the carrier, master, vessel, owner, officers and crew and agents on the other. There is a notice: "The passenger's attention is particularly directed to the terms and limitations of this contract." The general conditions contain many references to "this passage contract". Clause 12(a) provides various exemptions from liability in respect of bodily injury and cl 12(f) limits any amount recoverable to US$5,000. Clause 13 reads in part:
+>
+>> "Notwithstanding anything to the contrary contained herein, any action against the Carrier must be brought only before the courts of Athens Greece to the jurisdiction of which the Passenger submits himself formally excluding the jurisdiction of all and other court or courts of any other country or countries which court or courts otherwise would have been competent to deal with such action."
+>
+>Clause 16 contains this "acknowledgment":
+>>"The passenger admits having read this passage contract and agrees that its provisions constitute the complete agreement between the Carrier and said Passenger."
+
+Importantly, the exchange order reserved to Sunline the right to cancel any cruise. Sunline argued that this line rendered Sunline's consideration illusory, and therefore the contract was not formed in Australia, and that the terms of the ticket formed part of the contract. Sunline argued in the alternative that the case should be heard in Greece.
+
+The various reasons suggest that it would be an inequitable result if it were found that there was no contract formed in Australia. This would mean that holiday-makers would have no certainty in dealing with foreign cruise operators - that they might book a cruise, fly to Europe in expectation, and have no protection for that expectation. The finding that the exchange order constitutes a valid binding contract provides a great deal of protection for people in this situation.
+
+
+
+=====Reasons: Wilson and Toohey JJ======
+
+Wilson and Toohey JJ held that the contract was complete before Fay left Australia (distinguishing [[MacRobertson Miller Airline Services v Commr of State Taxation (WA) (1975) 133 CLR 125]] on the basis that the exchange order which entitled Fay to a ticket and a berth formed a contract of carriage). Accordingly, the ticket itself did not form part of the contract, being issued after the contract was completed:((208))
+
+>Nothing said on the exchange order operated to include, as part of the contract, terms and conditions on a ticket not provided to the respondent until after he had paid his fare in Sydney and had arrived in Greece to begin his Sun Line cruise
+
+Wilson and Toohey JJ found it unreasonable to conclude that a person who prepays a cruise, receives an exchange order, and leaves Australia to go to Greece would, upon arriving at the dock, have no remedy if the operator refused to complete the contract and issue a ticket. The contract must therefore be completed in Australia.
+
+
+=====Reasons: Brennan J======
+
+Brennan J held that the consideration was not illusory:
+> The exemption indorsed on the exchange order is not so wide as to preclude the existence of any contractual obligation on the part of the defendant when the exchange order was issued. To the contrary, the exchange order contains promises to refund the fare if the cruise is cancelled and to exchange the exchange order for a "Sun Line ticket when boarding vessel" if the cruise is to proceed. So far as appears from the terms of the exchange order, if the cruise proceeds, the passenger is contractually entitled on presentation of the exchange order to a ticket entitling him to be carried. The defendant reserves no right to cancel any ticket or booking or to refuse to carry the passenger named in the exchange order if the booked cruise proceeds.((226-7))
+
+Brennan J then held that the contract that was formed in Australia was the contract of carriage, and not merely an agreement to agree:
+>It can hardly have been the parties' intention at the time when the passenger pays his fare that the ticket to be given him on boarding should be a mere offer of carriage. Much less could it have been their intention that the offer might contain exemption clauses which were unknown to the passenger when the original contract was made. The arrangements contemplated at the time of the issue of the exchange order for exchanging that document for a ticket cannot reasonably support the hypothesis that when issued the ticket might be a mere offer containing exemption clauses which should bind the plaintiff only upon subsequent acceptance. Apart from the insufficiency of opportunity for the passenger who is boarding a vessel to read the conditions printed on the ticket and to elect whether to accept them, the election could be made only after travelling to Greece and obtaining the ticket, and the terms of the exchange order would require a passenger who then elected to decline the offer to forfeit the fare already paid. The better analysis of the transaction is that the defendant was bound to issue a ticket in exchange for the exchange order in performance of a contract of carriage already made, but the defendant was given no right to introduce new conditions of carriage by printing them on the ticket. The payment of the fare may rightly be regarded as the price of an option to acquire a ticket, but the option was not to acquire a mere piece of paper. It was an option to acquire a voucher or certificate of entitlement to be carried on terms already agreed — not on terms which the parties had yet to agree on.((227-8))
+
+Accordingly, "[i]t was too late after the original contract was made to add conditions which were not incorporated in it."((228)) His Honour concluded that
+>If a passenger signs and thereby binds himself to the terms of a contract of carriage containing a clause exempting the carrier from liability for loss arising out of the carriage, it is immaterial that the passenger did not trouble to discover the contents of the contract. But where an exemption clause is contained in a ticket or other document intended by the carrier to contain the terms of carriage, yet the other party is not in fact aware when the contract is made that an exemption clause is intended to be a term of the contract, the carrier cannot rely on that clause unless, at the time of the contract, the carrier had done all that was reasonably necessary to bring the exemption clause to the passenger's notice((228-9))
+
+Justice Brennan did appear to support the principle in [[Thornton v Shoe Lane Parking Ltd [1971] 2 QB 163]] that "In differing circumstances, different steps may be needed to bring an exemption clause to a passenger's notice, especially if the clause is an unusual one."((229)) However, in the instant case, the defendant did not take reasonable steps to bring the foreign jurisdiction clause to Fay's notice at the time the contract was formed.
+
+
+=====Reasons: Deane J=====
+
+Justice Deane, on the question of whether the exclusive jurisdiction clause was incorporated, agreed with Wilson and Toohey JJ "that the only contract between the appellant and the respondent was concluded in New South Wales and contained no such clause."((256))
+
+
+
+=====Reasons: Gaudron J=====
+
+Justice Gaudron considered that the whether or not the exclusive jurisdiction clause or contractual limitation of liability clause were incorporated was not determinative of the issue at hand ("A foreign jurisdiction clause in a contract does not operate to exclude the forum court's jurisdiction, but may constitute a ground for that court to refuse to exercise that jurisdiction".((259))) Having held that New South Wales was not a clearly inappropriate forum to determine the rights and liabilities of the parties, Gaudron J did not need to conclude whether or not the contract was formed in Sydney or Greece. Justice Gaudron concluded that:
+
+>the question whether the parties have agreed upon limitation of liability in accordance with cl 12 of the passenger ticket may fall for decision by application of the law of New South Wales, whether or not the law of New South Wales is the proper law of the contract. At this stage it suffices to say that, in my view, questions as to the formation of contract, including questions as to the existence of a contract or its terms, and questions as to validity, are not necessarily or invariably to be decided by the proper law, or what would be the proper law if a contract had come into existence((266))

@@ -1,0 +1,35 @@
+======Vodafone Pacific Ltd & v Mobile Innovations Ltd [2004] NSWCA 15 (unreported, 20 February 2004)======
+
+{{tag>"case law" "good faith" contract}}
+
+**Court**: [[New South Wales Court of Appeal]]
+
+**Judges**: Sheller, Giles, Ipp JJA 
+
+**Date decided**: 20 February 2004
+
+
+Vodafone was a carrier, and Mobile innovations resold Vodafone services. Pursuant to the contract, Vodafone was required to determine the number of new subscribers it would provide to Mobile to manage:
+>cl 18.4: Vodafone will have the sole discretion to determine, from time to time, the target level in respect of the number of connections of New Subscribers. The target level will be determined by Vodafone in conjunction with the determination of the Business Plan referred to in Clause 21.(([83].))
+
+One of the questions before the court was whether there was a duty of good faith implied in the contract, and whether Vodafone breached its duty of good faith by setting the target level too low for Mobile to avoid stagnation and failure. On the facts, Giles JA interpolated that the trial judge had not found that Vodafone had acted capriciously or arbitrarily.(([132]))
+
+Giles JA delivered the judgment of the court, Sheller and Ipp JJA concurring.
+
+=====Good faith: Giles JA=====
+Giles JA considered whether a term of good faith had been implied by law. Relying on [[Alcatel Australia Ltd v Scarcella]] and [[Burger King Corporation v Hungry Jack's Pty Ltd]], Giles JA noted that “an obligation of good faith and reasonableness in the performance of a contractual obligation or the exercise of a contractual power may be implied as a matter of law as a legal incident of a commercial contract.”(([189].))
+
+Giles JA noted that there was no duty of good faith in all commercial contracts, but was prepared to assume that one could exist in this particular contract, an assumption which would be dispelled by showing a contrary intention of the parties:
+>I do not think the law has yet gone so far as to say that commercial contracts are a class of contracts carrying the implied terms as a legal incident, and the width and indeterminancy of the class of contracts would make it a large step. However, I am content to assume, expressly without deciding, that unless excluded by express provision or because inconsistent with the terms of the contract, Vodafone was under an implied obligation to act in good faith and reasonably in exercising its powers under the ASP Agreement, specifically the power of determining target levels in cl 18.4. Whether the assumption might be justified by commercial contracts already carrying the implied term or now being found to have that status does not matter. I consider that the present case can be decided by addressing whether the implication of the term as a matter of law, as to the power conferred by cl 18.4 of the ASP Agreement, is precluded by expression of a contrary intent. (([191].)) 
+
+Giles JA considered that because the power in cl 18.4 was expressed in terms of being a “sole discretion” of Vodafone, it was more unlikely to be subject to a constraint of good faith:
+>The power in cl 18.4 was emphatically described as a sole discretion. Since there was only one Vodafone (whichever of the entities it was), the point of "sole" lay in the exclusion of any constraint upon Vodafone. Its exercise was excluded from the dispute resolution procedure, with the further emphasis that "Vodafone's decision will be conclusive and binding on the parties" (cl 32.6) and the emphasis again that it could be exercised in any manner Vodafone saw fit (cl 41). These words in the ASP Agreement can not be passed over, and they weigh against the implied obligation of good faith and reasonableness in the exercise of the power. (([195].))
+
+Examining the circumstances, Giles JA considered that the contract “could only work if, should it be necessary, one party or the other had the whip hand as to the acquisition of subscribers.”(([195].)) Noting that there were other, less absolute grants of power in the contract, His Honour concluded that
+>Vodafone was given control over the acquisition activities of Mobile - which, after all, was its agent - and could exercise the control in accordance with its own interests rather than those of Mobile. (([195].))
+
+Accordingly, the implied obligation was excluded:
+>Without more, in my opinion, the implication of the obligation to act in good faith and reasonably in exercising the power of determining target levels in cl 18.4 was excluded. To this may be added cl 24.1(a), by which "To the full extent permitted by Law and other than as expressly set out in this Agreement the parties exclude all implied terms ... ". (([198].))
+
+Giles JA also considered that the implied duty of good faith was an implied term, and not a natural construction of the language of the contract.(([206].)) It would therefore be excluded by cl 24.1(a).(([207].))
+

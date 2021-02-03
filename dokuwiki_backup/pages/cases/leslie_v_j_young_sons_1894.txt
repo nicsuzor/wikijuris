@@ -1,0 +1,35 @@
+{{tag>"case law"}}
+======Leslie v J Young & Sons [1894] AC 335======
+
+**Court**: House of Lords
+
+**Judges**: Lord Herschell, LC; Lord Watson, Lord Ashburne, Lord Shand
+
+**Date decided**: 07 June 1894
+
+Leslie published 'Leslie's Time Tables and Diary', which contained railway times centered around Perth. 
+>The information in these time-tables was of course derived by the pursuer from sources which were as open to the defenders as to himself, and he does not and cannot calim any right to the information as such; he can only claim copyright in them, if they are the result in some respect or other of independnet work in his part, and if advantage has been substantially taken by the defenders of that independent labour.(([1894] AC 335, 340.))
+
+The House of Lords considered that Leslie obtained no copyright in the tables:
+>The mere publication in any particular order of the time-tables which are to be found in railway guides and the publications of the different railway companies could not be claimed as a subject-matter of copyright. Proceedings could not be taken against a person who merely published that information which it was open to all the world to publish and to obtain from the same source.(([1894] AC 335, 340 (Lord Herschell LC).))
+
+However, four pages of the diary, which contained "an abridgement of informaiton of a very useful character" relating to excursion tours did attract copyright protection:
+>a compilation of this kind may contain several independent features of different merit, of differing advantage to the public, and likely to operate to a different extent in promoting the sale of the work. It may be that one part of a work of this kind, though containing only a few pages, may be the very thing that the presence or absence of which would most largely promote or retard the sale of the work. Therefore, although these pages are but few, it seems to me that nevertheless they may be properly treated as an independent work and protected by the copyright law. If that be the proper conclusion, it seems to me impossible for your Lordships to resist the further conclusion that there has been in this case a piracy, a substantial appropriation of the pursuer's work by the defenders, and that there is therefore a right to an interdict on the part of the pursuer."(([1894] AC 335, 342 (Lord Herschell LC).))
+
+Lord Watson agreed, holding that he was
+>not prepared to say that every line or even every page of a compilation such as this carries with it a right to protection as copyright; I should be very sorry to affirm that to be universally true; but it appears to me that, in copying these tourist and excursion tables, the respondents have taken the bulk of that portion of the work which carries such a right. If there are any parts of this work which really involve such merit as to entitle them to the protection of copyright, I think that these are chiefly to be found in the pages which have been appropriated by the respondents without a single alteration.(([1894] AC 335, 343-4 (Lord Watson).))
+
+Lord Watson concluded:
+>I do not think that there can be any doubt that a work of this kind, shewing that a considerable amount of  original trouble was taken in bringing all the infroamtion together in the form of an abstract for the use of a particular locality, is entitled to protection.(([1894] AC 335, 344 (Lord Watson).))
+
+Lord Ashbourne agreed, noting that the excursion tables are
+>clearly entitled to protection. They are a substantial part of the book: they contain a great deal of very useful information - the result of careful work and accurate compilation - and I can myself well believe that a great many purchasers would be influenced in making their purchases by the existence of those pages and of those pages alone, not needing the other information which was very accessible and easily obtainable.(([1894] AC 335, 344 (Lord Ashbourne).))
+
+Lord Shand concurred, noting that there was not "either such labour or such ingenuity" shown in the omission of certain stations or the centerring of the timetables on Perth to "properly make them the subject-matter of a copyright."(([1894] AC 335, 345 (Lord Shand).))
+
+Regarding the excursion tables, Lord Shand held that
+>there has not aonly been a selection, but also a condensation and an arrangement which would be of very considerable value ot the travelling public. It is clear that those have been simply copied, word for word, in the publication which is complained of; and I cannot doubt that that forms a material part of the pursuer's book, and that he is entitled to the remedy which he asks for it."(([1894] AC 335, 345-6 (Lord Shand).))
+
+
+=====Commentary=====
+This case was decided before the requirement of originality was introduced in the Copyright Act 1911 (UK). There is some confusion evident about the proper role of substantialiy, but it is an example of courts before 1911 looking for independent authorship before a work would be protected by copyright.

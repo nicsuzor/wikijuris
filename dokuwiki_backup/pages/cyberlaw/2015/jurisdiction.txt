@@ -1,0 +1,126 @@
+# Week 2: Jurisdiction
+
+## What do I need to do?
+
+1. Read the materials prescribed below
+
+3. Watch: 6 videos on YouTube: https://www.youtube.com/playlist?list=PL6zgvy7Uc6fVO1BO2dBIIxvXKLWabrwkK
+
+4. Read and improve our open textbook: http://wikijuris.net/cyberlaw/jurisdiction
+
+5. Post your answers to the questions below to the online discussion board (on Blackboard)
+
+## Prescribed reading:
+
+* Dow Jones and Company v Gutnick [2002] HCA 56; 210 CLR 575 <http://www.austlii.edu.au/au/cases/cth/HCA/2002/56.html>.
+
+* Lecture notes / open textbook: [[:cyberlaw:jurisdiction]]
+
+## Recommended reading
+
+* Textbook, Chapter 2
+
+## Teach-the-class video topics
+
+Post in the discussion forum in blackboard to reserve your topic from the list below:
+
+* Explain the tests for 'forum non conveniens' - when will Australian courts refuse to hear a matter?
+
+* Explain the main facts and holdings of Dow Jones v Gutnick.
+
+* Explain the main facts and holdings of Macquarie Bank v Berg.
+
+* Explain the lex loci delicti rule.
+
+* Explain the different ways in which a person may be taken to have subjected themselves to the physical jurisdiction of a court.
+
+* Explain the concepts of 'choice of law' and 'choice of forum' (and the difference between them).
+
+* Explain what 'long arm' jurisdiction is. What sort of Australian statutes apply extraterritorially?
+
+* "In cyberspace, the First Amendment is a local ordinance." Explain the concern that some people have about how speech may be harmed or how we may end up 'zoning' the internet.
+
+* Johnson says: "If everyone believes that "real law" from "real sovereigns" is the only law that matters, ... we'll be stuck with the chaotic nonsense of jurisdictional whack-a-mole". Explain these concerns about conflict of laws online.
+
+* Explain what substituted service in initiating proceedings means, and when courts have permitted defendants to be served using social media. (Make sure you don't confuse the difference between jurisdiction and service!)
+
+
+## Discussion questions
+
+1. One of the significant benefits of the internet is that it allows borderless communication between individuals anywhere in the world. How can countries uphold their distinct local values online when they conflict with the values of people in other jurisdictions?
+
+2. What can be done to prevent people from flaunting Australian laws by hosting websites overseas, out of the reach of Australian courts?
+
+3. To what extent should Australian courts enforce the laws of foreign countries that conflict with Australian laws? For example, if a person in Australia were hosting a website that sold Nazi memorabilia to those in France and Germany, amongst others, should they be allowed to do so?
+
+4. Should a foreign website be subject to Australian laws just because it happens to be accessible here? Or is something more required?
+
+5. Should states make sure that their laws do not apply extraterritorialy? If so, what could be done to ensure this? 
+
+6. Why did the US decide to introduce in rem jurisdiction in domain name disputes? Would it be a suitable solution for Australia?
+
+## Workshop exercises
+
+### Exercise 1
+
+Australian record company AussieMusic finds out that their new movie that has not been publicly released yet is available for streaming on www.watch-for-free.ru. AussieMusic tried from several different Australian IP addresses and every time managed to watch the full movie. They approach you for advice about whether they can do anything about it.
+
+* What private international law (PIL) questions arise in this case?
+* What additional information you would need in order to better answer these PIL questions?
+
+Assume that the website is in English language, owned by some Russian company and has been accessed by at least 100 Australian consumers. Would Australian courts have 
+
+* personal jurisdiction? 
+* Subject matter jurisdiction? 
+* In rem jurisdiction?
+
+Would your reply differ if the case concerned a movie with defamatory material?
+
+In case the Australian court managed to establish jurisdiction in this cross-border copyright infringement case:
+
+* Can the plaintiff request taking down the content from the Russian website entirely? 
+* Have you heard of any other measures ensuring that the content cannot be accessed at least by Australian users?
+* Would you encourage measures ensuring that a single country court could stop the entire world-wide copyright infringement?
+
+
+## Exercise 2
+
+Read Dow Jones and Company v Gutnick [2002] HCA 56; 210 CLR 575 <http://www.austlii.edu.au/au/cases/cth/HCA/2002/56.html>. 
+
+#### Exercise 2, part (a)
+
+Justice Callinan explained his reasons for dismissing Dow Jones' appeal (at [200]):
+
+>I agree with the respondent's submission that what the appellant seeks to do, is to impose upon Australian residents for the purposes of this and many other cases, an American legal hegemony in relation to Internet publications. The consequence, if the appellant's submission were to be accepted would be to confer upon one country, and one notably more benevolent to the commercial and other media than this one, an effective domain over the law of defamation, to the financial advantage of publishers in the United States, and the serious disadvantage of those unfortunate enough to be reputationally damaged outside the United States. A further consequence might be to place commercial publishers in this country at a disadvantage to commercial publishers in the United States.
+
+Explain what Callinan J was concerned about when he worried about "an American legal hegemony in relation to Internet publications".
+
+#### Exercise 2, part (b)
+
+The majority judgement dismissed the appeal, noting that:
+
+> …the spectre which Dow Jones sought to conjure up in the present appeal, of a publisher forced to consider every article it publishes on the World Wide Web against the defamation laws of every country from Afghanistan to Zimbabwe is seen to be unreal when it is recalled that in all except the most unusual of cases, identifying the person about whom material is to be published will readily identify the defamation law to which that person may resort.
+
+This was a very controversial case. Mitch Kapoor warns of the trend for local courts to assert jurisdiction over internet publications:
+
+>In some countries, legal principles of free speech protect freedom of expression in traditional media such as the printed word. But once communication moves to new digital media and across crosses international borders, such legal protections fall away. As John Perry Barlow, the co-founder of EFF puts it: ``In Cyberspace, the First Amendment is a local ordinance.'' There is no international legal authority which protects free expression on trans-national networks. Article 19 of the Universal Declaration of Human Rights calls for the protection of free expression in all media, but the declaration falls far short of being binding.
+
+Why would people outside of Australia be so concerned about this judgment? Looking back over the last fifteen years, how has the Gutnick decision stood up? 
+
+## Exercise 3
+
+You're a very busy and important civil litigator specialising in technology law, and there are a line of people outside of your office with various complaints. It's time to triage. For each of these, you need to quickly identify (a) what is the category of law that the dispute concerns; (b) whether Australian courts are likely to have jurisdiction to hear the dispute; (c) what methods of enforcement might be available; (d) are you going to take the case, and what will you do?
+
+1. Someone broke into James' Apple iCloud account and got access to some intimate videos he and his partner had recorded. The videos are now all over YouTube. He wants YouTube to remove his sex tape.
+
+2. The Zimbabwe Times has published an article about Malcolm, an Australian politician, that suggests that he is corrupt, and that firms can gain access to him by donating to his reelection fund. The article is read by informed leftists all around the world. He demands satisfaction.
+
+3. An Australian discussion forum has a thread about the quality of university lectures. Some dissatisfied students have complained about Tony, a university lecturer, claiming that they think he is biased, obnoxious, and boring. He is upset and worried that his boss might see the posts and that this might have a negative impact on his next performance review.
+
+4. An Australian company has suffered an attack from a malicious cracker that they think lives in New Zealand. They have taken some confidential business information and are now apparently offering it for sale on The Silk Road. The company wants to stop the dissemination of the trade secrets.
+
+5. Florence is upset that her ex, Odis, has uploaded some private photos he took of her while they were together to a US-based photo host. The photos have been reblogged thousands of times on Tumblr. She's mortified.
+
+
+
+

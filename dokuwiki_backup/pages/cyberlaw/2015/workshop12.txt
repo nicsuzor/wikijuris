@@ -1,0 +1,58 @@
+# Week 12: Privacy and surveillance
+
+## What do I need to do?
+
+1. Watch these videos (guest lectures by Rita Matulionyte): https://www.youtube.com/playlist?list=PLa0bKPnUKQryYyQ70PUI_UnUI3Hk8S1Rb
+2. Read: ABC law report: social media and privacy http://www.abc.net.au/radionational/programs/lawreport/social-media-and-privacy/3857894
+3. Read: SMH, Experts fear a European 'right to be forgotten' online ruling may be duplicated in Australia
+http://www.smh.com.au/technology/technology-news/experts-fear-a-european-right-to-be-forgotten-online-ruling-may-be-duplicated-in-australia-20141110-11jyra.html#ixzz3n6xcbCYl 
+4. Read: Data retention laws pass Federal Parliament as Coalition and Labor vote together, http://www.abc.net.au/news/2015-03-26/data-retention-laws-pass-federal-parliament/6351278
+5. Read: Your Guide to the Data Retention Debate, http://www.crikey.com.au/2015/03/18/your-guide-to-the-data-retention-debate-what-it-is-and-why-it%E2%80%99s-bad/ 
+
+6. Read: ACMA, Spam Act 2003: A Practical Guide for Business (2004)  http://www.acma.gov.au/webwr/consumer_info/spam/spam_overview_for%20_business.pdf
+7. Read: OAIC, Australian Privacy Principles Fact Sheet 17 (2014) http://www.oaic.gov.au/images/documents/privacy/privacy-resources/privacy-fact-sheets/privacy-fact-sheet-17-australian-privacy-principles_2.pdf
+8. Optional reading: Textbook Ch 10
+9. Skim and understand: Privacy act, Schedule 1 (Australian Privacy Principles): http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/sch1.html
+10. Skim and understand: APP Guidelines: http://www.oaic.gov.au/images/documents/privacy/applying-privacy-law/app-guidelines/APP_guidelines_complete_version_1_April_2015.pdf
+
+
+## Teach the class video topics
+
+Post in the Discussion Forum (on Blackboard) to reserve your topic.
+
+1. Explain the main operating principles of the SPAM Act;
+2. Explain the operation of APP 8 and its relevance for cloud service providers operating in Australia;
+3. Provide an overview about what we know about PRISM focusing on how the communications of Australians are potentially subject to surveillance by the NSA and other Five Eyes members;
+4. Explain the main operating principles of Australia's data retention laws;
+5. Explain the role of 'consent' in the Australian Privacy Principles -- in particular, explain the ways that consent may be obtained to collect and disseminate personal information;
+6. Explain APP 2. Do Australians have a right to transact anonymously online? Under what circumstances can websites require people to register with their real names?
+7. Explain APP 12. In practical terms, how can Australians obtain the information that private organisations hold about them? To what types of online services would this principle apply?
+8. Explain how mandatory data breach requirements would work. (Note that Labor has proposed Bills that would introduce such a requirement.)
+9. Explain the role of the Office of the Australian Information Commissioner in regulating the unauthorised disclosure of personal information.
+10. Explain how public key encryption can be used to secure email and other communications.
+11. Explain how TOR works and how people can use it to better secure their web browsing.
+
+## Discussion topics
+
+1. How do you feel about the Federal government knowing virtually everything about your financial, health, and relationship life?  How do you feel about Facebook (and their advertising partners) knowing the same information?
+
+2. How do you feel about the US government (in conjunction with the Australian) knowing what you write in personal correspondence?
+
+3. How much would you have to be paid to disclose your creditworthiness to a person in the street? How much are you actually paid to disclose this? 
+
+4. Do we need a Right to be Forgotten in Australia?
+
+5. Data retention laws: has a compromise been reached?
+
+
+## Workshop questions
+
+Peter Lee runs a small Chinese restaurant in Newcastle, called Chinatown. His annual turnover is AUD 2,7mln. Peter Lee has introduced a lottery game. His customers are asked to fill in a customer satisfaction survey. Every month one of the customers wins a prize, a travel voucher coupon, from a Chinese travel agency China Dragon, a company registered in and operating from China.  In the questionnaire customers are requested to indicate their name, marital status, profession and income range, postal address, email and a telephone number. The questionnaire does not mention for which purpose this data will be used. 
+
+Peter Lee has a contract with China Dragon where Peter Lee committed to transfer them all filled-in questionnaires. In turn, China Dragon committed to give one travel voucher for every monthly winner. In the contract China Dragon is obliged to use the personal information they receive in compliance with the Australian Privacy Act 1988. 
+
+One of the customers Alina Bates who filled in the questionnaire started receiving constant communication from the China Dragon about their services, both per post and per email. She complained with the OAIC arguing that Peter Lee and China Dragon have misused her personal information.
+
+Advice Peter Lee and China Dragon. Is there is anything they could do to avoid the violation of Australian Privacy laws?
+
+

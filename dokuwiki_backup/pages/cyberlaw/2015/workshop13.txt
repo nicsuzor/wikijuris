@@ -1,0 +1,20 @@
+# Week 13: Private power, freedom of speech, and review
+
+## What do I need to do?
+
+1. Watch: https://www.youtube.com/playlist?list=PLa0bKPnUKQrxjtMhP6kl2MbtmjNLAvZ8N
+2. Read: [[:cyberlaw:private_power]]
+2. Review. Before class, email any questions you have about the content of this subject (or the upcoming exam) to Nic [n.suzor@qut.edu.au](mailto:n.suzor@qut.edu.au).
+
+## Teach-the-class topics
+
+This week, our teach-the-class topics include several key issues from other weeks. Please post on Blackboard to reserve your topic.
+
+1. Explain the main operating principles of new s 115A introduced by Copyright Amendment (Online Infringement) Act 2015 (Cth)
+2. Explain the US Supreme Court's decision in MGM Studios Inc., v. Grokster Ltd. 545 U.S. 913 (2005). In particular, explain the test for 'inducement' liability.
+3. Explain the ratio and key facts of De Garis v Neville Jeffress Pidler Pty Ltd (1990) 18 IPR 292. In particular, explain why intermediaries cannot rely on the fair dealing defences when copying on behalf of their users in Australian law.
+4. Explain the 'Sony rule' (substantial non-infringing uses) from the US Supreme Court's decision in Sony Corp. of America v. Universal City Studios, Inc. 464 U.S. 417 (1984).
+5. Explain the ratio and key facts of Universal Music Australia Pty Ltd v Sharman License Holdings Ltd [2005] FCA 1242.
+6. Explain how the Notice and Takedown regime operates in rr 20G - 20M of the Copyright Regulations http://www.austlii.edu.au/au/legis/cth/consol_reg/cr1969242/
+7. Explain the Viacom v Google litigation. What did Google do in order to (presumably) qualify for the safe harbours?
+8. Explain the meaning of the “rights or legitimate interests” test in the UDRP

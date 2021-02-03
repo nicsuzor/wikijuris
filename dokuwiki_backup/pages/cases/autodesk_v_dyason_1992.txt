@@ -1,0 +1,60 @@
+{{tag>"case law" "computer program" "hardware program" "indirect copying"}}
+
+====== Autodesk v Dyason (1992) 173 CLR 330 ======
+
+
+**Court**: High Court of Australia
+
+**Judges**:
+
+**Date decided**:
+
+====Facts====
+
+Autodesk created and distributed the AutoCAD package, which included a hardware dongle to avoid piracy. Widget C is a program distributed with the AutoCAD package, which periodically challenges the hardware lock. If the hardware lock returns the correct response, AutoCAD was allowed to continue to run. Dyason, using an oscilloscope to examine the responses of the AutoCAD lock, programmed an EPROM to return the same sequence and marketed a replacement hardware lock known as the Auto Key lock.
+
+Autodesk alleged that the Auto Key Lock infringed its copyright in the literary work known as AutoCAD, which was in part contained in the hardware lock. The respondents denied that any part of the AutoCAD program is contained in the AutoCAD lock or that the AutoCAD lock contains any computer program at all. Further, they denied that the Auto Key Lock is a reproduction in a material form of the AutoCAD program or any part of it. It was common ground that AutoCAD and Widget C were computer programs for the purposes of the Copyright Act.
+
+This case was an appeal from the full court of the Federal Court of Appeal, which reversed the decision at first instance by Northrop J in the Federal Court, who found for Autodesk mainly on the basis that both the Auto Key lock and the AutoCAD lock performed the same function.
+
+ 
+
+====Is the hardware dongle a 'computer program' for the purposes of the Copyright Act?====
+
+The AutoCAD lock consisted of a simple 8 bit shift register and a XOR gate. Upon receiving a signal from Widget C, the lock would shift left one place and the newly empty rightmost bit is set to the XOR of the sixth and seventh bit. Finally, the sixth bit is output back to Widget C for verification. Using an oscilloscope, the respondent saw that the output of the hardware lock was in actuality a simple 127 bit repeating sequence, and stored that sequence in an EPROM, to return the sequence expected by Widget C at the appropriate time.
+
+Section 10(1) of the amended Copyright Act defines a "computer program" as meaning "an expression, in any language, code or notation, of a set of instructions intended ... to cause a device having digital information processing capabilities to perform a particular function". At first instance, Northrop J concluded that both the AutoCAD lock and the Auto Key lock were devices "having digital information processing capabilities to perform a particular function". He next considered that Auto Key lock was a reproduction of the computer program constituted by the AutoCAD lock, because the "whole of the function of the AutoCAD lock has been reproduced in a material form by the Auto-Key lock" and upheld the appellant's claim of infringement.
+
+In this case, Dawson J, with whom the rest of the court agreed, upheld the decision upon appeal of the Full Court of the Federal Court of Appeal, which found that Northrop J's reasoning was flawed, on the basis that if the AutoCAD lock was a computer program, the mere fact that they produce the same output does not constitute reproduction, as the way in which the output is produced is wholly different. Dawson J emphasised the distinction between ideas, systems or functions, which are not the subject of copyright, and the expressions of such ideas, which are protected by copyright. Further, where "the expression of an idea is inseparable from its function, it forms part of the idea and is not entitled to the protection of copyright". Hence, the Auto Key lock could not infringe any copyright that may exist in the AutoCAD lock, if it is a computer program.
+
+Further, Dawson J doubted that the AutoCAD lock was, in fact, a computer program, not on the grounds that it is hardware, but on the grounds that it was excessively simple, and did not comprise an expression of a `set of instructions'. He likened it to the simplicity of a light switch, which although served a function, could not be considered a 'set of instructions' to turn on a light.
+
+Note that the Copyright Amendment (Digital Agenda) Act 2000 (Cth) changed the definition of 'computer program' to '... a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result'.
+
+ 
+
+====Does the Auto Key Lock infringe copyright in the computer program Widget C?====
+
+Dawson J was of the opinion that the two lower courts had considered too deeply the question of whether the two hardware devices were computer programs, holding that it is not necessary that the reproduction of a substantial part of a computer program should itself be a computer program within the Act. The evidence showed that the source of Widget C contained exactly the same table of 127 bits in decimal form as the 127 bit sequence in binary form in the Auto Key lock. "The Auto Key lock reproduces that look-up table in the EPROM which it uses. The EPROM contains a set of digits which is identical with the set of digits produced by the look-up table when read as Widget C reads it. In effect, both Widget C and the Auto Key lock contain the same look-up table".
+
+The fact that the respondent copied the table indirectly was of no consequence; Copyright may be infringed by copying something which is a copy of the copyright work. The look-up table was definitely copied from the output of the Auto Key lock, and was not the result of independent calculations on behalf of the appellant.
+
+The look-up table does not have to constitute a literary work in itself. It is "sufficient that it forms a substantial part of a computer program which is a literary work in itself". The question of what actually defines a 'substantial part' was not considered, and formed part of the basis of the case to re-consider in [[Autodesk v Dyason (1993)]].
+
+Mason CJ, Brennan and Deane JJ, further added that the reference to 'an expression, in any language, code or notation' in the Copyright Act should not be taken to refer only to code, and that the "stored set of instructions in anon-sensate form such as electrical impulses is itself protected on the basis that copyright actually subsists in any expression or description of it which can theoretically be made in language, code or notation".
+
+ 
+
+====Decision and subsequent application for rehearing====
+
+On the ground that the Auto Key lock infringed copyright in Widget C, the appeal was allowed. The respondents subsequently applied for a rehearing on the basis that they had no opportunity to contest the finding of infringement of copyright in Widget C (Autodesk v Dyason (1993)). The appeal was dismissed and the law stated was upheld.
+
+ 
+
+====Summary of important principles, per Mason C.J. in Autodesk v Dyason (1993) (Quick Fix!)====
+
+In the application for rehearing, Mason C.J. conveniently summarised the important principles in this case:
+
+> The decision in Autodesk confirmed two fundamental principles. First, the definition of a 'computer program' by reference to "an expression ... of a set of instructions" should be understood as conferring protection upon the set of instructions itself - which must be identified with some precision - but as doing so in a way which is adapted to the nature of copyright. Thus, the protection of computer programs is to conform to the dominant principle of copyright law that protection is given not for ideas, but only for the form of expression. ... However, as the judgment of Mason C.J., Brennan and Deane JJ. makes clear, this distinction must not be applied too strictly. A distinction needs to be drawn between the relevant set of instructions and the form of storage or representations of the instructions, so that the person who reproduces a set of instructions in a different form - such as by turning source code into object code - does not escape infringement. The object of protection is the computer program, not just the particular form of storage or representation chosen by the author.
+
+> The second fundamental proposition confirmed in Autodesk derives from the first. Functionality is not the proper object of copyright protection. As Dawson J. stated in Autodesk, the purpose or function of a utilitarian work is its idea, while the method of arriving at that purpose or function is the expression of the idea.

@@ -1,0 +1,100 @@
+# LWB482 / LWN117 Internet Law, Semester 2 / 2015 @ Queensland University of Technology
+
+This unit examines legal issues relating to the Internet. As the Internet becomes more vital to business, government, and social life, difficult legal and policy questions arise as to its governance. This unit will consider the application of existing legal principles to cyberspace, as well as newly developed sui generis principles and legal regulatory regimes. Knowledge of these legal issues is of increasing importance in many areas of legal practice, industry and to society more generally. This unit will address the most pressing practical legal issues that arise when people and businesses interact online, and examine the theoretical principles that are likely to underpin public and private regulatory efforts in the future. To this end the unit will encourage you to think critically about the ways in which cyberspace is experienced and regulated differently to offline space, and also the ways in which existing legal principles can map relatively easily to online activity. 
+
+## Timetable
+
+  * Week 1: [[workshop01|Regulating the internet]]
+  * Week 2: [[jurisdiction]]
+  * Week 3: [[intermediaries_general]] (Movie night: The Pirate Bay: Away from Keyboard, Wednesday 5 August, 6.30pm)
+  * Week 4: [[workshop04|Intermediary liability: defamation]]
+  * Week 5: [[workshop05|Intermediary liability: copyright authorisation]]
+  * Week 6: [[workshop06|Intermediary liability: copyright safe harbours]]
+  * Week 7: [[workshop07|Policy writing workshop]] – assignment preparation (Assignment due Friday 4 September)
+  * Week 8: [[workshop08|The domain name system]] (Movie night: Citizenfour, Wednesday 9 September, 6.30pm)
+  * Week 9: [[workshop09|Content regulation]]
+  * Week 10: [[workshop10|Access to computers and computer crimes]]
+  * Week 11: [ No workshops this week. ]
+  * Week 12: [[workshop12|Privacy and Surveillance]]
+  * Week 13: [[workshop13|Private power and its limits]]
+
+## Unit coordinators
+
+* Nicolas Suzor: n.suzor@qut.edu.au. Consultation: 11am-1pm Mondays, or by appointment.
+* Kylie Pappalardo: k.pappalardo@qut.edu.au Consultation: by appointment.
+
+## Resources
+
+* Lecture videos are available on our YouTube channel: [Australian Internet Law](https://www.youtube.com/playlist?list=PL6zgvy7Uc6fUv8a49UBfWuX_YDkK5gHBS).
+
+* Class wiki and open textbook in progress: http://wikijuris.net/  
+
+* Optional: If you prefer all your resources in one place, consider buying the recommended textbook: Fitzgerald, Fitzgerald, Clark, Lim & Middleton, Internet & E-Commerce Law, Business and Policy (2011) (Thomson). 
+
+* All class resources are available on Blackboard or in our Dropbox folder (https://goo.gl/WvWcdJ).
+
+## What do I have to do each week?
+
+1. Read: We will post links to assigned readings for each week on Blackboard.
+2. Watch: Each week, we will post the lecture content in several short video clips on YouTube.
+3. Prepare: You will need to prepare a rough answer to the workshop questions each week.
+4. Workshop (Internals): Each week, we run a two-hour workshop for internal students:
+* LWB482 Undergraduate students: Monday 9-11am, QUT GP S408
+* LWN099 Postgraduate students: Tuesday 6-8pm, QUT GP Q216
+5. Discussion board (externals): For those who cannot make it to class, we will moderate the online discussion board (on Blackboard) to help you work through the practical questions each week.
+6. Student videos: The learning approach we use requires you to teach other some of the content each week. Each week, you should watch the videos created by other students and provide them with some helpful feedback. These will be posted in the Discussion board on Blackboard.
+7. Contribute your notes to the Open Textbook: we are building a free textbook together. Each week, we invite you to add your notes to the collaborative wiki: http://wikijuris.net/
+
+## Assessment
+
+There are three items of assessment: a teach-the-class video exercise (20%), a policy submission (40%), and a memo of advice take-home exam (40%).
+
+### Assessment 1: Teach-the-class video (20%)
+
+One per semester, you will have to create a short video to teach us about a topic relevant to that week's unit content. You will have 3 minutes to explain your topic. 
+
+In order to submit your video, you must upload it to YouTube and set the privacy settings to either ('public' or 'unlisted'). You must then paste the link, together with a 200-250 word overview, to the Blackboard discussion board. 
+
+Videos are due by the Friday of each week. You must submit a completed video by this date to have it marked. However, you will have a week to revise your video in response to any feedback you receive before we actually mark it. Your final video should be uploaded to the 'Assignments' page on blackboard by the following Friday.
+
+You may work in groups if you wish – but each group member must upload a separate video, and each of these must be on a separate topic.
+
+More info: https://www.youtube.com/watch?v=CCcamUeIn78 
+
+### Assessment 2: policy submission
+
+This is a research assignment. You will write a submission to Government on a topical issue. You will be expected to support your position with respect to the relevant secondary academic literature. 
+
+* Format: 2,5000 words, including an executive summary
+* Due date: Friday 7 September
+* Referencing: AGLCv3. A bibliography is required and not included in the word limit.
+* Submission: electronic submission to Blackboard only.
+
+### Assessment 3: take-home exam
+
+You will answer a practical legal question based on a complex fact scenario. All unit content is admissible.
+
+* Format: 2,500 words, including an executive summary
+* Question released: Friday 30 October
+* Due date: Friday 6 November
+* Submission: electronic submission to Blackboard only.
+
+## Open textbook
+
+This year, we are working together to create a set of free and open resources to teach the world about Australian internet law. We're doing this for three key reasons: (1) having to teach a topic is an incredibly powerful way to learn, and this is an opportunity for us all to produce real and useful new knowledge; (2) we are building a connected community of learners who provide useful guidance and feedback on each others' work; (3) we are starting to fix the problem with textbooks that are too expensive and often not suited for what students really need.
+
+The goal is to create a useful, concise university level textbook that is free to the world to edit and improve.
+
+To do this, I'm asking all of you to help each week by fleshing out the collaborative notes on our wiki. We'll work together to make sure that this set of notes is both accurate and comprehensive. Eventually, we'll be able to pull this together to form a complete textbook. I'll also be asking everyone to upload their 'teach-the-class' videos to the wiki, along with a short textual overview. Participation is not mandatory, but there are real benefits for you – particularly, the teaching staff will go through these notes and make sure that they are accurate and can be relied upon.
+
+There is a formal textbook available if you prefer. This is particularly useful if you find you're struggling to see how material fits together or need a more comprehensive overview.
+
+Access the wiki here: http://wikijuris.net/, and see here for a video with more information: https://youtu.be/hpDMNZ6DyVQ 
+
+## Movie nights
+
+A few times per semester, we run casual movie nights. We'd like to invite you along to watch some interesting documentaries and have a chat about the content. We'll provide snacks and drinks. 
+
+## Other resources
+
+You might like to join the QUT IP facebook page, where we share current issues in IP & Internet law:  https://www.facebook.com/groups/311780765675030/ 

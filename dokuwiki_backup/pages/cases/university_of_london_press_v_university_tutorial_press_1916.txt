@@ -1,0 +1,20 @@
+{{tag>"case law" copyright originality subsistence "exam scripts"}}
+
+======University of London Press Ltd v University Tutorial Press Ltd [1916] 2 Ch 601======
+
+**Court**: Chancery Division
+
+**Judges**: Peterson J
+
+**Date decided**: 26 July 1916
+
+Examiners were hired to create exam scripts for the University of London. 
+
+Peterson J held that the papers were original literary works:
+
+>Assuming that they are ``literary work'’, the question then is whether they are original. The word ``original'’ does not in this connection mean that the work must be the expression of original or inventive thought. Copyright Acts are not concerned with the originality of ideas, but with the expression of thought, and, in the case of ``literary work'’, with the expression of thought in print or writing. The originality which is required relates to the expression of the thought. But the Act does not require that the expression must be in an original or novel form, but that the work must not be copied from another work — that it should originate from the author. In the present case it was not suggested that any of the papers were copied. Professor Lodge and Mr Jackson proved that they had thought out the questions which they set, and that they made notes or memoranda for future questions and drew on those notes for the purposes of the questions which they set. The papers which they prepared originated from themselves, and were, within the meaning of the Act, original. It was said, however, that they drew upon the stock of knowledge common to mathematicians, and that the time spent in producing the questions was small. These cannot be tests for determining whether copyright exist. If an author, for purposes of copyright, must not draw on the stock of knowledge which is common to himself and others who are students of the same branch of learning, only those historians who discovered fresh historical facts could acquire copyright for their works. If time expended is to be the test, the rapidity of an author like Lord Byron in producing a short poem might be an impediment in the way of acquiring copyright, and, the completer his mastery of his subject, the smaller would be the prospect of the author's success in maintaining his claim to copyright. Some of the questions, it was urged, are questions in book work, that is to say, questions set for the purpose of seeing whether the student has read and understood the books prescribed by the syllabus. But the questions set are not copied from the book; they are questions prepared by the examiner for the purpose of testing the student's acquaintance with the book, and in any case it was admitted that the papers involved selection, judgment, and experience. This objection has not, in my opinion, any substance; if it had, it would only apply to some of the questions in the elementary papers, and would have little, if any, bearing on the paper on advanced mathematics. Then it was said that the questions in the elementary papers were of common type, but this only means that somewhat similar questions have been asked by the other examiners. I suppose that most elementary books on mathematics may be said to be of a common type, but that fact would not give impunity to a predatory infringer. The book and the papers alike originate from the author and are not copied by him from another book or other papers. The objections with which I have dealt do not appear to me to have any substance, and, after all, there remains the rough practical test that what is worth copying is prima facie worth protecting. In my judgment, then, the papers set by Professor Lodge and Mr Jackson are "original literary work" and proper subject for copyright under the Act of 1911.(([1916] 2 Ch 601, 609-10.))
+
+=====Commentary=====
+The dicta "that what is worth copying is prima facie worth protecting" has come under significant attack in Australia and the UK. Most recently it was criticsed by the majority in The Panel (although endorsed by Callinan J in dissent).
+
+

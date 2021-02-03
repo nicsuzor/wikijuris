@@ -1,0 +1,103 @@
+# Workshop 05: Copyright Authorisation
+
+## What do I need to do?
+
+(1) Watch 4 videos (+ teach the class videos): https://www.youtube.com/playlist?list=PLa0bKPnUKQrzFJBdj3k58iT48pSQrXhmQ
+
+(2) Read the lecture notes and open textbook: [[cyberlaw:intermediaries_copyright|http://wikijuris.net/cyberlaw/intermediaries_copyright]]
+
+(3) Prepare for the workshop or post your answers to the workshop questions on the discussion board
+
+(4) Recommended readings:
+  * Ben Grubb, ‘Australian senate passes controversial anti-piracy, website blocking laws’, The Sydney Morning Herald (22 June 2015) http://www.smh.com.au/digital-life/digital-life-news/australian-senate-passes-controversial-antipiracy-websiteblocking-laws-20150622-ghuorh.html
+  * Will Ockenden, ‘Foxtel set to launch legal action ‘in coming months’ to block websites like The Pirate Bay in Australia’, ABC (4 August 2015) http://www.abc.net.au/news/2015-08-04/foxtel-launches-legal-case-to-block-piracy-websites/6670780
+  * QUT IP law and Innovation Research Group, Submission to Senate Standing Committee on Legal and Constitutional Affairs on the Copyright Amendment (Online Infringement) Bill 2015 (16 April 2015) http://nic.suzor.net/wp-content/uploads/2015/04/2015-QUT-IPILR-Website-Blocking-LACA.pdf 
+
+(5) Completely optional further readings (for students who would like more context about authorisation liability):
+
+  * Rebecca Giblin, The uncertainties, baby: Hidden perils of Australia's authorisation law' (2009) 20 Australian Intellectual Property Journal 148
+  * Jane Ginsburg and Sam Ricketson, 'Inducers and Authorisers: A Comparison of the US Supreme Court's Grokster Decision and the Australian Federal Court's KaZaa Ruling' (2006) 11(1) Media and Arts Review 1
+  * David Lindsay, 'ISP Liability for End-User Copyright Infringements: The High Court Decision in Roadshow Films v iiNet' (2012) 62(4) Telecommunication Journal of Australia 53
+
+
+## Teach the Class topics
+
+(1) Explain (in brief) the primary facts and holdings from __one__ of the following cases: (don't cover the safe harbour aspect, if applicable - we'll cover that next week!)
+
+* University of New South Wales v Moorhouse (1975) 6 ALR 193
+* Cooper v Universal Music Australia Pty Ltd (2006) 237 ALR 714
+* A & M Records, Inc. v. Napster, Inc. 239 F. 3d 1004 (9th Cir. 2001)
+* De Garis v Neville Jeffress Pidler Pty Ltd (1990) 18 IPR 292
+* CCH Canadian Ltd v Law Society of Upper Canada [2004] 1 S.C.R. 339
+* National Rugby League Investments Pty Ltd v Singtel Optus Pty Ltd [2012] FCAFC 59
+* In re Aimster 334 F.3d 643 (7th Cir. 2003)
+
+(2) Explain the definition of “authorise” and whether the dictionary synonyms all mean the same thing
+
+(3) Explain how the BitTorrent protocol works. Who can exercise control over what people share over the network?
+
+(4) Explain how Usenet works. Who can exercise control over what people share over the network?
+
+
+
+## Workshop questions
+
+### Debate and discussion: Roadshow Films v iiNet
+
+In class, we will consider the policy arguments on either side of the iiNet case (rights holders vs. ISPs).
+
+In particular, consider the following questions:
+  * Is the definition for “authorise” and the test in s. 101(1A) clear? What are the problems with this doctrine?
+  * What does “power to prevent” mean?
+  * How does iiNet differ from the intermediaries in UNSW v Moorhouse and A&M Records v Napster?
+  * Can you envisage a situation where iiNet might be held liable for authorisation?
+  * How might the test in s. 101(1A) apply to BitTorrent providers or to intermediaries that run cyberlockers?
+
+### Quiz.
+
+### Group Work - Past Exam Question (2011)
+
+Siobhan runs a prominent political commentary blog called iDemocracy. Siobhan makes a modest living as a professional blogger, deriving most of her income from advertisements on her blog – about $40,000 per year. As a professional blogger, Siobhan's profit  increases directly as the popularity of her blog increases. Siobhan's blog is hosted on a server provided by Elephant Pty Ltd, an Australian company who provide the physical computer hardware and internet connections for customers to host their own websites. Elephant operate the server hardware and blogging software, but exercise no control over the content that its users post online. Elephant's servers are located in a data centre in Brisbane owned by TelNet, a 'carrier' for the purposes of the Telecommunications Act 1997 (Cth). Elephant charges Siobhan based on the amount of data she uses, and Elephant's profit also increases modestly with the popularity of Siobhan's blog. Due to the popularity of her blog, Elephant provides hosting to Siobhan at a discount rate, in exchange for prominent advertising for Elephant's hosting services on Siobhan's blog. Elephant's standard terms of service prohibit Siobhan from using her hosting to engage in any criminal activity, host any illegal content, or infringe any third party rights. The contractual terms provide that Elephant may terminate Siobhan's hosting contract if it reasonably believes that Siobhan has breached the agreement. The terms also provide that Elephant will not modify, remove, or otherwise interfere with the content that Siobhan posts online, although it has a technical ability to do so.
+
+In a recent blog post, Siobhan posted a video of herself discussing the recent Occupy Wall Street and related Australian protests. In the video, Siobhan makes some very disparaging remarks about a prominent Brisbane business figure, Jane Lichtenstein, alleging that Jane had received an enormous bonus as CEO of a local property development company while at the same time refusing to pay the overdue accounts of its independent contractors. Siobhan adds that she had always thought that Jane conducted herself dishonestly and “seems like a very shifty, probably corrupt, operator”.
+
+In the same video, Siobhan uses backing music that includes a copyright sound recording owned by the band “The One Percenters” which glorifies the shrewd business practices of investment bankers who were able to profit from the recent global financial crisis. The music is used solely as background in the outro of the video clip, without any associated commentary by Siobhan.
+Recently, Siobhan has started making live streams from her blog in a format like a talkback radio show. The blog software allows Siobhan to connect to the administrative interface with a webcam and stream live to any viewers who tune in. Elephant's software adds an advertising ribbon at the bottom of the video which displays advertisements for Elephant and third parties, and the revenue is split evenly between Elephant and Siobhan. The streams are not archived – listeners must tune in at the designated time in order to hear the show. On the show, Siobhan usually uses backing music made available under open licences, where the copyright owner has explicitly given permission for its use. In a recent show, however, Siobhan again used the copyright sound recording owned by “The One Percenters” without first obtaining permission. 
+
+Jane has contacted Elephant complaining of Siobhan's recent video blog post and demands that Elephant remove the video. Jane alleges that there is no substance to Siobhan's claim that her company has not paid its overdue accounts, although Jane acknowledges that she has recently been paid a substantial bonus. Elephant has seen the material Siobhan has posted about Jane, but has no way to identify whether or not Siobhan is correct in her claims. Elephant replied to Jane explaining that it was not responsible for the content hosted by users of its services and that Jane should contact Siobhan directly if she has a complaint. Jane has twice attempted to contact Siobhan directly, but has received no response. 
+
+The band “The One Percenters” have also complained to Elephant about Siobhan's apparent copyright infringement in the video blog and the live video stream. The band complained through Elephant's copyright complaints address, a special email address set up by Elephant to respond to notice and takedown requests. The band sent two emails to this address. The first email was in the following terms:
+
+>“The One Percenters owns copyright in the sound recording used at 7 minutes 35 seconds in the video available in the blog post at <http://idemocracy.com.au/2011/CorruptBusinesses/>. Siobhan has not been granted permission to use this material and we demand that it be removed immediately.”
+
+The second email read:
+
+>“Last Wednesday, Siobhan broadcast a live video stream from the address <http://idemocracy.com.au/live> that included a copyright song owned by the One-Percenters and used without permission. We demand that Elephant take all steps necessary to prevent Siobhan from infringing our copyright in the future.”
+
+Elephant, a mid-sized hosting company, receives thousands of copyright complaints every week and, unfortunately, the first email was misidentified as spam and automatically deleted by the system. Elephant estimates that it probably loses or never gets around to dealing with about 20 per cent of complaints made to its complaints line, but considers this is not a problem because copyright owners generally send a follow up email if they do not receive a prompt response. Indeed, in this case, The One Percenters resent a duplicate of their first email after one week, which Elephant received.
+
+Elephant responded to the (resent) first email by simply stating that it had no control over the content posted on iDemocracy and that any copyright complaints should be addressed directly to Siobhan. In its response to the second email, Elephant explained to The One Percenters that it had no way of verifying their claims and that, again, the band should contact Siobhan directly with any complaints. Elephant further explained that it would only take action to terminate Siobhan's account if required to do so by a court.
+
+Elephant's usual practice is to remove infringing content that it hosts when it is notified by the copyright owner, and it has terminated the accounts of problematic users in the past. The decision to terminate is made by the managing director, Eric, when he feels it is appropriate to do so. Elephant's managing director has had informal conversations with Siobhan in the past about the content on her blog. In one email a few months ago after receiving three complaints from other copyright owners, Eric stated:
+
+>“We've received a few complaints about your use of copyright material in your blog posts. I know most of the content you post is legitimate, so there's no real issue as long as the volume of complaints stays relatively low. Besides, I know the odd controversial post is good for traffic ;)”
+
+Advise Elephant as to their potential liability to both Jane and The One Percenters.
+
+[ 20 Marks ]
+
+**Note: for the purposes of this workshop, only consider the copyright issues.**
+
+
+
+### Discussion: The ongoing role of internet intermediaries
+
+This discussion focuses on the liability of intermediaries for direct infringement and the cases of De Garis v Neville Jeffress, Singtel Optus v National Rugby League Investments, and CCH Canadian.
+
+Consider the following questions:
+  * Do you think it is important that intermediaries be able to act for users?
+  * What do you think about the way that the court in the CCH case broadened the fair dealing exception? How does it compare to the approach to exceptions in Australia and the United States? What approach do you prefer and why?
+  * Can we rely on intermediaries to make determinations about whether material will infringe or fall within an exception? (This applies to both direct infringement and determinations about underlying infringement for authorisation cases). What are the risks? How do intermediaries like You Tube deal with this problem?
+
+
+
