@@ -133,7 +133,7 @@ Unlike infringement under Part IV, reproduction does not require direct copying,
 
 * 2. **Objective similarity **– there must be a sufficient degree of objective similarity between the plaintiff’s and the defendant’s work (that is, the defendant must have produced a work which closely resembles the plaintiff's work).
 
-**Video overview by Kylie Pappalardo on[Infringement by Reproduction of Works](https://www.youtube.com/watch?v=byNA3vW7aHE&index=3&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on [Infringement by Reproduction of Works](https://www.youtube.com/watch?v=byNA3vW7aHE&index=3&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
 **Deemed Reproductions**
@@ -197,9 +197,9 @@ In the case of _Francis Day & Hunter v. Bron_ the plaintiff sued alleging the de
 * Held, similarities probably coincidental, and there was no evidence that the defendant had copied or heard the song. The Plaintiff was unable to infer that there was sufficient knowledge and memory for conscious or subconscious copying.
 
 
-**Video overview by Olivia Steele on[Subconscious Copying in _Francis Day & Hunter v Bron_](https://www.youtube.com/watch?v=38YzweuP6c8).**
+**Video overview by Olivia Steele on [Subconscious Copying in _Francis Day & Hunter v Bron_](https://www.youtube.com/watch?v=38YzweuP6c8).**
 
-**Video overview by John Herbet on[Francis Day & Hunter v Bron](https://www.youtube.com/watch?v=sPY7xTNV_LQ).**
+**Video overview by John Herbet on [Francis Day & Hunter v Bron](https://www.youtube.com/watch?v=sPY7xTNV_LQ).**
 
 
 
@@ -208,9 +208,9 @@ In the case of _Francis Day & Hunter v. Bron_ the plaintiff sued alleging the de
 The test for reproduction requires both a causal connection and objective similarity. Literal copying of expressive elements is relatively straightforward. The courts have a difficult task in determining whether a copier has taken copyright expression or the underlying unprotected ideas. It is difficult to express a general rule as to when copying of non-literal elements will infringe.
 
 
-**Video overview by Greg Travers on[Objective Similarity](https://www.youtube.com/watch?v=r3gosX2iBOE).**
+**Video overview by Greg Travers on [Objective Similarity](https://www.youtube.com/watch?v=r3gosX2iBOE).**
 
-**Video overview by Jack Howe on[Originality](https://www.wevideo.com/hub# media/ci/343207597?timelineId=335936108).**
+**Video overview by Jack Howe on [Originality](https://www.wevideo.com/hub# media/ci/343207597?timelineId=335936108).**
 
 
 
@@ -277,7 +277,7 @@ There is an exclusive right to publish the work [^AUTOREPLACEDCAss311aiiand311bi
 
 It is not an infringement of the right to republish something that has already been made public. It may however, be an infringement of the reproduction right. It is also an infringement to communicate the work without permission or legal excuse. This will be discussed below in the 'Infringement - Communicate to the Public' section of this chapter.
 
-**Video overview by Kylie Pappalardo on[Direct Infringement](https://www.youtube.com/watch?v=aIdpYgL-NBc).**
+**Video overview by Kylie Pappalardo on [Direct Infringement](https://www.youtube.com/watch?v=aIdpYgL-NBc).**
 
 
 ### Infringement - Perform the Work in Public
@@ -288,7 +288,7 @@ There is an exclusive right to perform the work in public. [^AUTOREPLACEDs311aii
 
 
 
-**Video overview by Tom Gardner on[Telstra v APRA](https://www.youtube.com/watch?v=WRUtG398Ygw).**
+**Video overview by Tom Gardner on [Telstra v APRA](https://www.youtube.com/watch?v=WRUtG398Ygw).**
 
 
 ### Infringement - Communicate to the Public
@@ -330,10 +330,10 @@ Where Part IV copyright is concerned, direct infringement is a much more restric
 
 [^AUTOREPLACEDCBSRecordsAustraliaLtdvTelmakTeleproductsAustPtyLtd19879IPR440ENDREPLACE]: _CBS Records Australia Ltd v Telmak Teleproducts (Aust) Pty Ltd_ (1987) 9 IPR 440
 
-**Video overview by Kylie Pappalardo on[Direct infringement of Part IV subject matter](https://www.youtube.com/watch?v=o6pxhU0nyVg&index=5&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo  [Direct infringement of Part IV subject matter](https://www.youtube.com/watch?v=o6pxhU0nyVg&index=5&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
-**Video overview by Thomas Ryan on[The Difference Between 'Copy' and 'Reproduce'](https://youtu.be/rnFkvgm1f0c).**
+**Video overview by Thomas Ryan on [The Difference Between 'Copy' and 'Reproduce'](https://youtu.be/rnFkvgm1f0c).**
 
 
 
@@ -612,7 +612,7 @@ Held, the importing company had infringed the applicant’s copyright - managing
 
 Parallel importation is where an overseas supplier who has legally acquired copies of the works, imports these works into Australia without a license of the copyright holder.  
 
-**Video overview by Jordan Gregory on[Section 44C and Parallel Importation](https://www.youtube.com/watch?v=5NtqSfnjTxc).**
+**Video overview by Jordan Gregory on [Section 44C and Parallel Importation](https://www.youtube.com/watch?v=5NtqSfnjTxc).**
 
 However, parallel importation of books is now allowed in certain circumstances.[^AUTOREPLACEDCAss44Aand112AENDREPLACE] These circumstances include:
 

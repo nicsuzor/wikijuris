@@ -250,7 +250,7 @@ The new disability access provisions ensure more equitable access to copyright m
 
 [^AUTOREPLACEDCAss113Eand113FENDREPLACE]: _CA_ ss 113E and 113F
 
-For more information on the changes to Australia's Disability Access see[QUT's Copyright Guide](https://www.library.qut.edu.au/copyrightguide/documents/2017Amendments_Disability_provisions_20171206.pdf).
+For more information on the changes to Australia's Disability Access see [QUT's Copyright Guide](https://www.library.qut.edu.au/copyrightguide/documents/2017Amendments_Disability_provisions_20171206.pdf).
 
 
 
@@ -429,9 +429,9 @@ Optus cannot rely on the "private and domestic use" defence of s111: "There is n
 In addition to allowing private users of copyright to make recordings (as discussed above in time shifting), there is also a provision which allows private users to format shift. Format shifting involves reproducing copyright content in a different format without attracting copyright infringement. An example of this would be reproducing a copy of a CD onto an iPod or other listening device.   
 
 
-**Video overview by Lindsay Mengel on[Format Shifting](https://www.youtube.com/watch?v=6HUG9PIokvY).**
+**Video overview by Lindsay Mengel on [Format Shifting](https://www.youtube.com/watch?v=6HUG9PIokvY).**
 
-**Video overview by Lachlan McCormick on[Format Shifting](https://www.youtube.com/watch?v=VTpMtSzNjC8).**
+**Video overview by Lachlan McCormick on [Format Shifting](https://www.youtube.com/watch?v=VTpMtSzNjC8).**
 
 
 

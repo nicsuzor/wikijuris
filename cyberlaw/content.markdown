@@ -23,7 +23,7 @@ Australia has a co-regulatory content regulation scheme. Telecommunications prov
 
 ## Content classification in Australia
 
-**Video Overview of Australia's classification Ratings by[Emily Rees](https://www.youtube.com/watch?v=GAZ3Bev5lb0)**
+**Video Overview of Australia's classification Ratings by [Emily Rees](https://www.youtube.com/watch?v=GAZ3Bev5lb0)**
 
 The National Classification Code provides a statement of purpose that classification decisions are to give effect, as far as possible, to the following principles:
 (a)	adults should be able to read, hear and see what they want;
@@ -199,7 +199,7 @@ Queensland extended the definition of ‘intimate’ images to include original 
 [^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds4CriminalCodeAct1899Qlds207AAUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Bill 2018 (Qld) s 4; Criminal Code Act 1899 (Qld) s 207A.
 
 
-The State also introduced three new misdemeanours into their Criminal Code[6] to broaden the scope of conduct which is captured under the offence. These include distributing intimate images,[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds5CriminalCodeAct1899Qlds223AUTOREPLACED] observing or recording breaches of privacy,[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds6CriminalCodeAct1899Qlds227AAUTOREPLACED] and distributing prohibited visual recordings.[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds7CriminalCodeAct1899Qlds227BAUTOREPLACED]
+The State also introduced three new misdemeanours into their Criminal Code to broaden the scope of conduct which is captured under the offence. These include distributing intimate images,[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds5CriminalCodeAct1899Qlds223AUTOREPLACED] observing or recording breaches of privacy,[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds6CriminalCodeAct1899Qlds227AAUTOREPLACED] and distributing prohibited visual recordings.[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds7CriminalCodeAct1899Qlds227BAUTOREPLACED]
 
 
 [^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds5CriminalCodeAct1899Qlds223AUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Bill 2018 (Qld) s 5; Criminal Code Act 1899 (Qld) s 223.

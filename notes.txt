@@ -1,0 +1,6 @@
+Notes:
+
+
+perl -0777 -pi -e 's/\][\r?\n\s]*(\[\^AUTOREPLACED[^\]+?\]:.*?\n)(.*)/]$2\n\n$1;' cyberlaw/*.markdown ausip/*.markdown
+
+perl -0777 -pi -e 's/\][\r?\n\s]*(\[\^AUTOREPLACED[^\]]+?\]:.*?\n)(.*?\n)/]$2\n\n$1/g;' cyberlaw/*.markdown ausip/*.markdown
