@@ -135,42 +135,48 @@ To establish this type of infringement the trade mark must be well-known in Aust
 
 To determine if a trade mark is well-known in Australia, must take account of the extent to which the trade mark is known within the relevant sector of the public, whether as a result of the promotion of the trade mark or for any other reason. Must be significant brand with interests in many different categories or an international company.  If their reputation is not large enough, if they are really a niche trader and it is unlikely a consumer would think they produced a product in a completely different category, then this is unlikely to apply.  The onus is on the trade mark owner.
 
-Examples of well-known trade marks:[^AUTOREPLACED2000FCA1538ENDREPLACE]
+### Examples of well-known trade marks
 
-
-[^AUTOREPLACED2000FCA1538ENDREPLACE]: [2000] FCA 1538
+<div markdown="block" class="box  case">
+##### _Nintendo Co Ltd v Care_ [2000] FCA 1538
 
 In *[Nintendo Co Ltd v Care](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1538.html)* – the Nintendo trademark in 'Super Mario' allowed the company to prevent a person from dressing up as Mario when wrestling.[^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]
 
 
 [^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]: *Nintendo Co Ltd v Care* [2000] FCA 1538[^AUTOREPLACED2001FCA1502ENDREPLACE]
 
+</div>
 
-[^AUTOREPLACED2001FCA1502ENDREPLACE]: [2001] FCA 1502
+<div markdown="block" class="box  case">
+##### _Virgin Enterprises Limited v Klapsas_ [2001] FCA 1502
 
 In *[Virgin Enterprises Limited v Klapsas](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2001/1502.html)* – Virgin obtained judgement against people trying to sell Virgin limousines or Virgin rentals. The court stressed the large investments made by Virgin in marketing and promoting the brand globally was such that if the defendant ran a Virgin ad, it was likely customers would be confused.[^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]
 
 
 [^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]: *Virgin Enterprises Limited v Klapsas* [2001] FCA 1502[^AUTOREPLACED2000FCA1842ENDREPLACE]
 
+</div>
 
-[^AUTOREPLACED2000FCA1842ENDREPLACE]: [2000] FCA 1842
+<div markdown="block" class="box  case">
+##### _San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd_ [2000] FCA 1842
 
 In *[San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1842.html)* - there was a serious question to be tried as to whether the use of SAN REMO on coffee machines infringed the (potentially) well-known trade mark for 'San Remo' pasta. Note this decision was made with some reluctance.[^AUTOREPLACEDSanRemoMacaroniCompanyPtyLtdvSanRemoGourmetCoffeePtyLtd2000FCA1842ENDREPLACE]
 
 
 [^AUTOREPLACEDSanRemoMacaroniCompanyPtyLtdvSanRemoGourmetCoffeePtyLtd2000FCA1842ENDREPLACE]: *San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd* [2000] FCA 1842
 
+</div>
 
 Whether goods are unrelated or not closely related is a question of degree. The less ‘unrelated’ the goods or services are, the more likely that trade mark infringement will be made out.  For example, PUMA for use on beer or CADBURY for use with respect to motorcycles. The use must indicate a connection with the owner.[^AUTOREPLACED1999FCA1721ENDREPLACE]
 
-
-[^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
+<div markdown="block" class="box  case">
+##### _Coca-Cola Co v All-Fect Distributors Ltd_ [1999] FCA 1721
 
 In *[Coca-Cola Co v All-Fect Distributors Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/1721.html)*,[^AUTOREPLACED1999FCA1721ENDREPLACE] the court held that cola lollies would not give rise to consumers questioning whether there was a connection between Coca-Cola and the lollies.  
 
 [^AUTOREPLACED1999FCA1721ENDREPLACE]: [1999] FCA 1721
 
+</div>
 
 This connection can arise:
 
@@ -201,47 +207,45 @@ Not all use constitutes trade mark infringement. A person will only infringe a t
 [^AUTOREPLACEDTMAs7ENDREPLACE]: _TMA_ s 7
 
 
-A registered trade mark is likely to amount to use as a mark if the manner in which it has been employed does not serve some other purpose – it is a descriptive term, it serves some functional requirement or to communicate some other message. Ordinarily, the use of an invented word or words will amount to use as a trade mark but not always – even an invented word or words used out of context can be taken by consumers as suggestive of some quality other than commercial origin or descriptive to some degree.[^AUTOREPLACED1963HCA66ENDREPLACE]
+A registered trade mark is likely to amount to use as a mark if the manner in which it has been employed does not serve some other purpose – it is a descriptive term, it serves some functional requirement or to communicate some other message. Ordinarily, the use of an invented word or words will amount to use as a trade mark but not always – even an invented word or words used out of context can be taken by consumers as suggestive of some quality other than commercial origin or descriptive to some degree.
 
+<div markdown="block" class="box  case">
+##### _Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd_ [1963] HCA 66
 
-[^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66
+>[T]he purpose and the only purpose that can be seen in the appearance of the little man on the screen is that which unites the quickly moving series of pictures as a whole, namely the purpose of conveying by a combination of pictures and words a particular message about the qualities of Shell petrol.  This fact makes it … quite certain that no viewer would ever pick out any of the individual scenes … and say to himself: “There I see something that the Shell people are showing me as being a mark by which I may know that any petrol in relation to which I see it used is theirs.  And one may fairly affirm with even greater confidence that the viewer would never infer from the films that every one of the forms which the oil drop figure takes appears there as being a mark which has been chosen to serve the specific purpose of branding petrol in reference to its origin.
 
-Kitto J in *Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd* held:[^AUTOREPLACED1963HCA66ENDREPLACE]
+</div>
+<div markdown="block" class="box  case">
+##### _Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd_ [1991] FCA 310
 
-
-[^AUTOREPLACED1963HCA66ENDREPLACE]: [1963] HCA 66
-
->[T]he purpose and the only purpose that can be seen in the appearance of the little man on the screen is that which unites the quickly moving series of pictures as a whole, namely the purpose of conveying by a combination of pictures and words a particular message about the qualities of Shell petrol.  This fact makes it … quite certain that no viewer would ever pick out any of the individual scenes … and say to himself: “There I see something that the Shell people are showing me as being a mark by which I may know that any petrol in relation to which I see it used is theirs.  And one may fairly affirm with even greater confidence that the viewer would never infer from the films that every one of the forms which the oil drop figure takes appears there as being a mark which has been chosen to serve the specific purpose of branding petrol in reference to its origin.[^AUTOREPLACED1991FCA310ENDREPLACE]
-
-
-[^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
-
-In *[Johnson & Johnson Australia Pty Ltd v Sterling Pharmaceuticals Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1991/310.html)*,[^AUTOREPLACED1991FCA310ENDREPLACE] it was held that Johnson & Johnson had only used 'caplets' in a descriptive sense as to shape and dosage and not as indicative of origin or identity.
+Held that Johnson & Johnson had only used 'caplets' in a descriptive sense as to shape and dosage and not as indicative of origin or identity.
 
 [^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
 
+**Video overview by Annabel Burton on [Use as a Trade Mark and Johnson & Johnson](https://www.youtube.com/watch?v=fO5T1o9Yl9E)**
 
+</div>
 
-**Video overview by Annabel Burton on [Use as a Trade Mark and Johnson & Johnson](https://www.youtube.com/watch?v=fO5T1o9Yl9E)**[^AUTOREPLACED199634IPR282ENDREPLACE]
+<div markdown="block" class="box  case">
+##### _Top Heavy v Killin_ (1996) 34 IPR 282
 
-
-[^AUTOREPLACED199634IPR282ENDREPLACE]:  (1996) 34 IPR 282
-
-In *Top Heavy v Killin*,[^AUTOREPLACED199634IPR282ENDREPLACE] the words 'Chill out' were not indications of the provenance of the T-shirts. The message which the mark conveyed in general terms is an exhortation to the reader to relax. Coca-Cola could thus not assert trade mark infringement.
+The words 'Chill out' were not indications of the provenance of the T-shirts. The message which the mark conveyed in general terms is an exhortation to the reader to relax. Coca-Cola could thus not assert trade mark infringement.
 
 [^AUTOREPLACED199634IPR282ENDREPLACE]:  (1996) 34 IPR 282[^AUTOREPLACED1956HCA41ENDREPLACE]
 
+</div>
+<div markdown="block" class="box  case">
+##### _Mark Foy’s Ltd v Davies Co-op Co Ltd_ [1956] HCA 41
+
+Justice Williams held that the trade mark 'Tub Happy' was capable of registration. He said:
 
 [^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
-
-In *[Mark Foy’s Ltd v Davies Co-op Co Ltd](http://www7.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1956/41.html)*,[^AUTOREPLACED1956HCA41ENDREPLACE] Williams J held that the trade mark 'Tub Happy' was capable of registration. He said:
-
-[^AUTOREPLACED1956HCA41ENDREPLACE]: [1956] HCA 41
-
 
 >‘Any reference that the words 'Tub Happy' have to the character or quality of articles of clothing is very remote.  They are in the nature of a coined phrase.  Inanimate objects including articles of clothing cannot have the character or quality of happiness whether they are in a tub or not.’
 
 Since 'Tub Happy' was not being used to describe the qualities of the product (washability, freshness, cheapness), it could be registered as a trade mark.
+
+</div>
 
 ### Substantial Identity and Deceptive Similarity
 
