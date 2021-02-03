@@ -55,10 +55,7 @@ This element is based on a requirement of secrecy. Should the information enter 
 
 [^AUTOREPLACEDGeevDayENDREPLACE]: Gee v Day
 
-Information can be disclosed if recipient is under an obligation of confidence.[^AUTOREPLACEDNDAENDREPLACE]
-
-
-[^AUTOREPLACEDNDAENDREPLACE]: NDA
+Information can be disclosed if recipient is under an obligation of confidence (usually a Non-Disclosure Agreement or NDA).
 
 <div markdown="block" class="box  case">
 ##### _Ansell Rubber Co v Allied Rubber Industries_ [1967] VR 37
