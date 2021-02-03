@@ -21,7 +21,7 @@ Not all uses of registered trade marks will be infringements. Uses which merely 
 
 [^AUTOREPLACEDShellCoAustLtdvEssoStandardOilAustLtd1963HCA66ENDREPLACE]: _Shell Co (Aust) Ltd v Esso Standard Oil (Aust) Ltd_ [1963] HCA 66
 
-**The below video by Nicolas Suzor provides an overview of [The Trademark Infringement Framework](https://www.youtube.com/watch?v=figyb5V4Q2o&list=PLa0bKPnUKQrxD942qJoDGW_7qbB6O6a7B&index=1).**
+**This video by Nicolas Suzor provides an overview of [The Trademark Infringement Framework](https://www.youtube.com/watch?v=figyb5V4Q2o&list=PLa0bKPnUKQrxD942qJoDGW_7qbB6O6a7B&index=1).**
 
 
 
