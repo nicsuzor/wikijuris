@@ -87,7 +87,7 @@ Infringement may occur when an alleged infringing mark is used in the same class
 [^AUTOREPLACEDTMAs1201ENDREPLACE]: _TMA_ s120(1)
 
 
-For more information read Amanda Scardamaglia's *The Coca-Cola Company v Pepsico Inc & Ors* VID 876/2010[‘Storm in a Contour Bottle? – The Coca-Cola Company v Pepsico Inc & Ors VID 876/2010’, Fortnightly Review of IP & Media Law, Edition 18 (11 November 2010)](https://researchbank.swinburne.edu.au/file/c341d5be-acec-4403-bd61-60add0b15243/1/PDF%20%28Published%20version%29.pdf) Licensed for reuse under a Creative Commons Attribution-NonCommercial 2.5 Licence).
+For more information read Amanda Scardamaglia, [‘Storm in a Contour Bottle?’](https://researchbank.swinburne.edu.au/file/c341d5be-acec-4403-bd61-60add0b15243/1/PDF%20%28Published%20version%29.pdf) (11 November 2010) _Fortnightly Review of IP & Media Law_, Edition 18.
 
 ### Same Description/Closely Related Goods or Services
 
