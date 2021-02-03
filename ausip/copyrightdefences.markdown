@@ -67,7 +67,7 @@ The fair dealing provisions intend to mark out areas of free use of copyright ma
 
 
 
-**Video overview of Dan Winters on[The Difference Between Fair Use and Fair Dealing](https://www.youtube.com/watch?v=Ea2AGBjf_98).**
+**Video overview of Dan Winters on [The Difference Between Fair Use and Fair Dealing](https://www.youtube.com/watch?v=Ea2AGBjf_98).**
 
 
 ## What is 'Fair'?

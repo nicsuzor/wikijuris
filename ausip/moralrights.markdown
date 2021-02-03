@@ -131,14 +131,14 @@ The _Act_ sets out a number of factors to be taken into account in working out w
   * if there are two or more authors, their views about the failure to attribute or derogatory treatment.
 
 
-**Video overview by Madeline Menzies-Miha on[Moral Rights and Reasonableness](https://www.youtube.com/watch?v=gycmrJ_AOhk)**
+**Video overview by Madeline Menzies-Miha on [Moral Rights and Reasonableness](https://www.youtube.com/watch?v=gycmrJ_AOhk)**
 
 
 
 
 
 
-**Video overview by Courtney Steffens on[Moral Rights and Reasonableness](https://www.youtube.com/watch?v=mlfjVQYif3s)**  
+**Video overview by Courtney Steffens on [Moral Rights and Reasonableness](https://www.youtube.com/watch?v=mlfjVQYif3s)**  
 
 
 

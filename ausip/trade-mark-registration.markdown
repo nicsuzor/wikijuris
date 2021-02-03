@@ -61,7 +61,7 @@ Trade marks are geographic. Australian trade marks only apply in Australia and U
 
 Trade marks are also considered a form of personal property. This allows the owner to license the mark to other people and companies. This can be very effective when using one brand on another product such as using the superman logos on bed sheets.
 
-**Video overview by Dan Hunter on[The Benefits and Requirements of Registration](https://www.youtube.com/watch?v=HHX3ul97eXU&index=4&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty)**
+**Video overview by Dan Hunter on [The Benefits and Requirements of Registration](https://www.youtube.com/watch?v=HHX3ul97eXU&index=4&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty)**
 
 
 ## Entitlement to Apply for Registration

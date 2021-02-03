@@ -113,7 +113,7 @@ The meaning of manner of manufacture has been debated by the Australian High Cou
 >the correct inquiry to determine manner of manufacture is 'not into the meaning of a word so much as the breadth of the concept which the law has developed by its consideration of the text and purpose of the _Statute of Monopolies_.
 
 
-**Video overview by Natalie McIntosh on[Manner of Manufacture](https://www.youtube.com/watch?v=NAU_p4ZDCsc).**
+**Video overview by Natalie McIntosh on [Manner of Manufacture](https://www.youtube.com/watch?v=NAU_p4ZDCsc).**
 
 The _Patents Act 1990_ (Cth) incorporates the guidelines for manner of manufacture within s 18. Pursuant to s18 of the _Act_ an invention is to be a manner of manufacture within the meaning of s 6 of the _Statute of Monopolies_.
 
@@ -297,7 +297,7 @@ An inventor who discloses his/her invention to the public before the priority da
 
 [^AUTOREPLACEDPAs24ENDREPLACE]: _PA_ s 24
 
-**Video overview by Jacob Corbett on[Novelty in patents and the reverse infringement test](https://www.youtube.com/watch?v=KdTOAoZmveg).**
+**Video overview by Jacob Corbett on [Novelty in patents and the reverse infringement test](https://www.youtube.com/watch?v=KdTOAoZmveg).**
 
 ### Disregarding Certain Types of Public Information
 
@@ -338,9 +338,9 @@ According to ss 18(1)(b)(ii) and 7(2) of the _Act_, there will be an inventive s
 
 [^AUTOREPLACEDMeyersTaylorPtyLtdvVicarrIndustriesLtd1977137CLR28249AickenJENDREPLACE]: Meyers Taylor Pty Ltd v Vicarr Industries Ltd (1977) 137 CLR 28, 249 (Aicken J
 
-**Video overview by Shiva Abassi  on[Inventive Step](https://www.youtube.com/watch?v=Pvi38hb98hY).**
+**Video overview by Shiva Abassi  on [Inventive Step](https://www.youtube.com/watch?v=Pvi38hb98hY).**
 
-**Video overview by Emily Sakzewski on[Inventive Step](https://www.youtube.com/watch?v=3fdADIrxx6Q).**
+**Video overview by Emily Sakzewski on [Inventive Step](https://www.youtube.com/watch?v=3fdADIrxx6Q).**
 
 A 'person skilled in the relevant art' is a hypothetical “non-inventive” person who possesses “ordinary skill” who works in the art or science of the invention. [^AUTOREPLACEDHLundbeckASvAlphapharmPtyLtd2009177FCR151190173perBennettJENDREPLACE] This can be a team of researchers. [^AUTOREPLACEDAktiebolagetHsslevAlphapharmPty2002212CLR41142630ENDREPLACE]
 
@@ -350,8 +350,8 @@ A 'person skilled in the relevant art' is a hypothetical “non-inventive” per
 [^AUTOREPLACEDAktiebolagetHsslevAlphapharmPty2002212CLR41142630ENDREPLACE]: Aktiebolaget Hässle v Alphapharm Pty (2002) 212 CLR 411, 426 [30]
 
 
-**Video overview by Carrick Brough on[A person skilled in the art](https://www.youtube.com/watch?v=ViORhY1J6Z4).**
-**Video overview by Nathan Dowrick on[A person skilled in the art](https://www.youtube.com/watch?v=s1ER6lusqV0).**
+**Video overview by Carrick Brough on [A person skilled in the art](https://www.youtube.com/watch?v=ViORhY1J6Z4).**
+**Video overview by Nathan Dowrick on [A person skilled in the art](https://www.youtube.com/watch?v=s1ER6lusqV0).**
 
 Common general knowledge is the body of knowledge known or used by all those in the relevant trade, which forms the background knowledge and experience of those working in that field. Not simply information that could be found – must be information that is generally accepted and assimilated by the relevant technical community. It is the knowledge the person skilled in the relevant art has in the back of their mind when considering whether the invention is not obvious. [^AUTOREPLACEDMinnesotaMiningManufacturingCoand3MAustraliaPtyLtdvBeiersdorf198029ALR29ENDREPLACE]
 
@@ -408,7 +408,7 @@ Secret use and public use are mutually exclusive - i.e. secret use will not affe
 
 [^AUTOREPLACEDAzukoPtyLtdvOldDiggerPtyLtd200152IPR75ENDREPLACE]: _Azuko Pty Ltd v Old Digger Pty Ltd_ (2001) 52 IPR 75
 
-**Video overview by Zoe Busch on[Secret Use](https://www.youtube.com/watch?v=1tWUkFVaW58).**
+**Video overview by Zoe Busch on [Secret Use](https://www.youtube.com/watch?v=1tWUkFVaW58).**
 
 Pursuant to s 9 of the _Act_ the following acts are not considered to be secret use of the invention:
 
@@ -428,7 +428,7 @@ __*Azuko Pty Ltd v Old Digger Pty Ltd* (2001) 52 IPR 75__
 * Facts: Concerned a hammer used in mining for exploratory drilling. A friend of the inventor, who had tested the hammers inventor, ordered a number from the inventor. However, the inventor had not accepted the order. It also decided that the manufacture of 15 to 20 hammers was reasonable in order to conduct trials to determine their commercial viability.
 * Held Has the patentee obtained a commercial benefit before the priority date? One instance is sufficient, no matter how close to the priority date it occurs. Rationale: Prevents a patentee gaining a longer monopoly than the statutory period. Production of 15 – 20 hammers in condition for commercial sale and order having been received for 5-6 cannot be considered a matter of trial and experiment, this indicates trial and experiment had been concluded earlier and commercial product had commenced since.  Lack of evidence as to any trials or experiments on hammers, so inference drawn is that this wasn’t occurring.
 
-**Video overview by Sam D'Arro on[Secret use in Azuko Pty Ltd v Old Differ](https://www.youtube.com/watch?v=fmxgvofZOks?small).**
+**Video overview by Sam D'Arro on [Secret use in Azuko Pty Ltd v Old Differ](https://www.youtube.com/watch?v=fmxgvofZOks?small).**
 
 
 **Video overview by Diana Chiknaikin on [Azuko Pty Ltd v Old Digger](https://www.youtube.com/watch?v=6kMRDqoBBqU?small).**
@@ -573,7 +573,7 @@ The patent application process is complicated and involves many steps which are 
 
 [^AUTOREPLACEDPAs121ENDREPLACE]: _PA_ s 121
 
-For more information see[IP Australia’s Patent Application Guide](https://www.ipaustralia.gov.au/sites/g/files/net856/f/patent_application_guide.pdf)
+For more information see [IP Australia’s Patent Application Guide](https://www.ipaustralia.gov.au/sites/g/files/net856/f/patent_application_guide.pdf)
 
 **Video by Kimberley Dorrian on [How to Obtain a Standard Patent](https://goanimate.com/videos/0f_ER1g2iPds?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent).**
 

@@ -78,7 +78,7 @@ The exclusive rights of copyright holders are set out in the table below:
 
 Unauthorised use of the copyright owner's work may amount to infringement.
 
-**Video overview by Kylie Pappalardo on[Exclusive Rights in Copyright](https://www.youtube.com/watch?v=--ArNTM5x2g&index=1&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
+**Video overview by Kylie Pappalardo on [Exclusive Rights in Copyright](https://www.youtube.com/watch?v=--ArNTM5x2g&index=1&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
 ## Part III Original works
@@ -110,7 +110,7 @@ It is an infringement of copyright to do or authorise any of the exclusive right
 
         * to communicate the work to the public.
 
-        
+
 [^AUTOREPLACEDCAs311aENDREPLACE]: _CA_ s 31(1)(a)
 
 [^AUTOREPLACEDCAs311bENDREPLACE]: _CA_ s 31(1)(b)

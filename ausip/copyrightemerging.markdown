@@ -58,7 +58,7 @@ The amendment expands the scope of Australia's online copyright infringement sch
 
 According to the Australian Digital Alliance, the new provision poses concerns as, "the government has removed important public interest protections from the legislation, dangerously lowering the bar set by the scheme, and putting legitimate sites and the legitimate activities of the public at risk".
 
-For more information on the amendment see[Government Drops Public Interest Safeguards from Website Blocking](http://www.digital.org.au/media/government-drops-public-interest-safeguards-website-blocking).
+For more information on the amendment see [Government Drops Public Interest Safeguards from Website Blocking](http://www.digital.org.au/media/government-drops-public-interest-safeguards-website-blocking).
 
 ## Copyright in Databases and Compilations
 
@@ -90,7 +90,7 @@ A VPN can be used to reroute an IP address to 'trick' servers into thinking the 
 
 The legality of VPN's under Australian law is a prominent issue.  
 
-**Video overview by Mitch Hughes on[Geoblocking and Netflix](https://www.youtube.com/watch?v=rk0aeKMCRFs).**
+**Video overview by Mitch Hughes on [Geoblocking and Netflix](https://www.youtube.com/watch?v=rk0aeKMCRFs).**
 
 ## Let's Play Videos
 

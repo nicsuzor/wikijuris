@@ -395,7 +395,7 @@ The two elements (artistic and craftsmanship) must be united in the same person.
 
 [^AUTOREPLACEDBurkeMargotBurkeLtdvSpicersDressDesigns1936Ch400ENDREPLACE]: _Burke & Margot Burke Ltd v Spicers Dress Designs_ [1936] Ch 400
 
-**Video overview by Joseph Auclair on[artistic craftsmanship and design protection](https://www.youtube.com/watch?v=rwYoDjYoFE4)**
+**Video overview by Joseph Auclair on [artistic craftsmanship and design protection](https://www.youtube.com/watch?v=rwYoDjYoFE4)**
 <div markdown="block" class="box  case">
 #####  _Cuisenaire v Reed_ [1963] VR 719
 

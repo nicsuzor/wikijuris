@@ -47,7 +47,7 @@ When copyright is assigned, the assignee acquires full rights with respect to th
 
 A license is a permission to use copyright material in ways that would otherwise infringe. The license can be limited by contract.
 
-**Video overview by Kylie Pappalardo on[Copyright Licences](https://www.youtube.com/watch?v=nJ7mRfcNZQI).**
+**Video overview by Kylie Pappalardo on [Copyright Licences](https://www.youtube.com/watch?v=nJ7mRfcNZQI).**
 
 
 An exclusive license is "a licence in writing, signed by or on behalf of the owner or prospective owner of copyright, authorising the licensee, to the exclusion of all other persons, to do an act that … the owner of the copyright would, but for the licence, have the exclusive right to do". [^CA_10_1] s 10(1) Exclusive licences give the licensee the power to sublicense and the title to sue for infringement. [^CA_119]
@@ -101,7 +101,7 @@ There are four conditions that can be applied to a Creative Commons license.
 | No Derivative Works (ND) | Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it. |
 
 
-**Video overview by Rachel Varshney on[Creative Commons Licensing](https://www.youtube.com/watch?v=BzR6gVzFSjo).**
+**Video overview by Rachel Varshney on [Creative Commons Licensing](https://www.youtube.com/watch?v=BzR6gVzFSjo).**
 
 ### Statutory Licences
 

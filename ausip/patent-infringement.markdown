@@ -51,7 +51,7 @@ There can be joint inventors of a patent. [^AUTOREPLACEDs31ENDREPLACE] Joint inv
 
 
 
-**Video overview by Taylor Lennox on[When the rights to an invention will be owned by an employer](https://www.youtube.com/watch?v=mF5DzTcqB4k).**
+**Video overview by Taylor Lennox on [When the rights to an invention will be owned by an employer](https://www.youtube.com/watch?v=mF5DzTcqB4k).**
 
 
 
@@ -102,7 +102,7 @@ A licensee may terminate the licence agreement even if it is still in force at t
 
 
 
-**Video overview by David Taylor on[Commercialisation and licensing of inventions](https://www.youtube.com/watch?v=EUUHq8PsKSQ).**
+**Video overview by David Taylor on [Commercialisation and licensing of inventions](https://www.youtube.com/watch?v=EUUHq8PsKSQ).**
 
 
 __*Regency Media Pty Ltd v MPEG LA, L.L.C.* [2014] FCAFC 183__
@@ -237,7 +237,7 @@ Section 119B applies to obtaining regulatory approval of non-pharmaceuticals (eg
 
 Section 119C of the _Act_ was introduced with the Raising the Bar amendments. This section outlines experimental use of the patent.
 
-**Video overview by Sophie Williams on[Experimental use](https://voice.adobe.com/a/erG6B).**
+**Video overview by Sophie Williams on [Experimental use](https://voice.adobe.com/a/erG6B).**
 
 
 #### Section 119 C
@@ -284,7 +284,7 @@ A counterclaim for revocation of the patent can be brought by the alleged infrin
 
 
 
-**Video overview by Jack Longley on[Section 19 Certificates of Validity](https://www.youtube.com/watch?v=7Z9mED6DEYE).**
+**Video overview by Jack Longley on [Section 19 Certificates of Validity](https://www.youtube.com/watch?v=7Z9mED6DEYE).**
 
 
 ## Unjustified Threats
@@ -342,4 +342,4 @@ Since 2004 there have been other amendments made to the _Patents Act 1990_ (Cth)
 
 #### Access to Medicine
 
-**Video overview by Tess Van Geelan on[The Doha Declaration and global access to medicines](https://www.youtube.com/watch?v=1niAYHEPmmY).**
+**Video overview by Tess Van Geelan on [The Doha Declaration and global access to medicines](https://www.youtube.com/watch?v=1niAYHEPmmY).**
