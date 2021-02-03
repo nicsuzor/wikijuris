@@ -320,14 +320,9 @@ Defences to trade mark infringement are found in s 122 of the _TMA_. The table b
 | s 122(1)(g) | The trade mark will not be infringed if its use falls within a limitation or condition imposed on the registration of the mark. |
 
 
-** Video overview by Craig Sherritt on [The Comparative Advertising Defence](https://www.youtube.com/watch?v=mKiifGrx1V8)**
-
-
-
+**Video overview by Craig Sherritt on [The Comparative Advertising Defence](https://www.youtube.com/watch?v=mKiifGrx1V8)**
 
 **Video overview by Natalie Cruickshanks on [Trade Mark Spare Parts Defence](http://voice.adobe.com/v/NHDUraYrgxQ)**
-
-
 
 **Video overview by Andrew Avenell on [The s 122(1)(c) Spare Parts and Accessories Defence](https://www.youtube.com/watch?v=wPJNLX_5fNc)**
 
