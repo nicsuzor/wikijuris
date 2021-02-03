@@ -186,33 +186,38 @@ Justice Lindgren noted that "another... way of formulating this question is to a
 
 The FCAFC held that "'debase' is a strong term which requires much more than an opinion, even an expert opinion, that the adaptation is musically inferior".
 
-__*Buffet v Fersing* (1962) D Jur 570 (Fr)__
+<div markdown="block" class="box  case">
+##### _Buffet v Fersing_ (1962) D Jur 570 (Fr)
 
 Bernard Buffet had painted six panels of a refrigerator, and signed only one panel. Fersing bought the refrigerator at a charity auction and resold the panels individually for a profit. Buffet was able to recover damages for infringement of his moral right of integrity because Fersing had mutilated his expression, which was intended to stand as a whole.
 
-__*Huston v Societe de l'Exploitation de la Cinquieme Chaine* (1991) 149 Revue Internationale du Droit d'Auteur 197 (Cour de cassation)__
+</div>
+<div markdown="block" class="box  case">
+##### _Huston v Societe de l'Exploitation de la Cinquieme Chaine_ (1991) 149 Revue Internationale du Droit d'Auteur 197 (Cour de cassation)
 
 The estate of John Huston successfully sought an injunction against a French television broadcaster to prevent the broadcast of a colourised version of Huston's black and white film 'Asphalt Jungle'.
 - An earlier suit brought in the US failed.
-- Material distortion of his work prejudicial to honour or reputation.[^AUTOREPLACED198870CPR2d105ENDREPLACE]
+- Material distortion of his work prejudicial to honour or reputation.
 
-
-[^AUTOREPLACED198870CPR2d105ENDREPLACE]:  (1988) 70 CPR (2d) 105
+</div>
+<div markdown="block" class="box  case">
+##### _Snow v The Eaton Centre Limited_ (1988) 70 CPR (2d) 105
 
 A Canadian shopping centre had bought a sculpture of 60 flying geese from the plaintiff. When the shopping centre tied Christmas ribbons around the necks of the geese, Snow applied for an injunction.
 The Ontario High Court ordered that the ribbons be removed, holding that the treatment of the sculpture was prejudicial to Snow's honour or reputation.
-Snow said it was prejudicial to his honour – reducing it to crass advertisement of Christmas.[^AUTOREPLACED1993EMLR144ENDREPLACE]
+Snow said it was prejudicial to his honour – reducing it to crass advertisement of Christmas.
+</div>
+<div markdown="block" class="box  case">
+##### _Morrison Leahy Music Limited and another v Lightbond Limited_ [1993] E.M.L.R. 144.
 
-
-[^AUTOREPLACED1993EMLR144ENDREPLACE]: [1993] E.M.L.R. 144.
-
-In 1993, George Michael was granted a preliminary injunction preventing the release of a medley of a number of George Michael's songs. The Court of Appeal in London found that it was arguable that the remix record could constitute derogatory treatment of George Michael's works.[^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]
-
-
-[^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]: [2003] EWCh 1274 (ch) [150]
+In 1993, George Michael was granted a preliminary injunction preventing the release of a medley of a number of George Michael's songs. The Court of Appeal in London found that it was arguable that the remix record could constitute derogatory treatment of George Michael's works.
+</div>
+<div markdown="block" class="box  case">
+##### _Confetti Records v Warner Music_ [2003] EWCh 1274 (ch) [150]
 
 In 2003, the UK High Court found that there was no infringement of moral rights when rap lyrics were recorded over the top of a remix of an original song, at least without any expert evidence as to what the lyrics actually meant.
 
+</div>
 ## Remedies
 
 There are three main remedies available for breach of moral rights. These include:
