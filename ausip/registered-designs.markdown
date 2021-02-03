@@ -253,17 +253,23 @@ Corresponding design “means visual features of shape or configuration which, w
 [^AUTOREPLACEDCopyrightAct1968Cths74ENDREPLACE]: _Copyright Act 1968_ (Cth) s 74
 
 
-__*Coogi v Hysport* (1998) 157 ALR 247__
+<div markdown="block" class="box  case">
+##### _Coogi v Hysport_ (1998) 157 ALR 247
 
 The first production run of a knitted fabric was a work of artistic craftsmanship.  Produced by refining a mechanical process in line with aesthetic decisions. Could show reproduction of a substantial part of the fabric by showing that another fabric had “the essential 'look'” of the original. Objective similarity not made out on the facts.
 
-__*Muscat v Le* [2003] FCA 1540__
+</div>
+
+<div markdown="block" class="box  case">
+##### _Muscat v Le_ [2003] FCA 1540
 
 Sample pants were not works of artistic craftsmanship:
 
 >“The sample garments were not created as works of art. They came into existence for the purpose of determining how the design would look and to enable Ms Muscat to decide whether any changes should be made before production commenced. In any event, the sample garments are not works of craftsmanship and Ms Muscat never intended them to be”. (Finkelstein J, [49])
 
 Copyright did subsist in the patterns. Right to prohibit manufacture lost under 1996 Act (and 2003). Pattern was indirectly copied when the defendant created their own patterns from the pants. Copyright infringement under 1996 Act. 'Plan to plan' copyright protection is now also lost under the 2003 Act.
+
+</div>
 
 ### Plan-to-Plan and Advertising Exception
 
@@ -272,9 +278,14 @@ It is not an infringement of copyright in an artistic work to reproduce if repro
 
 [^AUTOREPLACEDCAs77AENDREPLACE]: _CA_ s 77A
 
-__Burge v Swarbrick (2007) HCA 17__
+
+</div>
+<div markdown="block" class="box  case">
+##### _Burge v Swarbrick_ (2007) HCA 17
 
 Naval architect hand-built life size prototype ('plug') for fibreglass moulds. Held - not a work of artistic craftsmanship. Matters of visual and aesthetic appeal were secondary to function. Therefore s 77 removed copyright protection.
+
+</div>
 
 ## IP in the Fashion Industry
 

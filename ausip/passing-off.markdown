@@ -115,7 +115,8 @@ The plaintiff’s reputation must be assessed at the date of the commencement of
 
 This may include trade names, the get-up of goods, the title of goods, aspect of packaging, descriptive material, advertising formats, slogans, jingles, characters in a television campaigns, mastheads of newspapers. A Plaintiff’s reputation may be established not only in a trade mark or trade name or in a distinctive description but in any other material or activity which has become associated or identified in the minds of the public, or a sufficient section of the public.
 
-__*Reckitt & Colman Products Ltd v Borden Inc* (1990) 17 IPR 1__
+<div markdown="block" class="box  case">
+##### _Reckitt & Colman Products Ltd v Borden Inc_ (1990) 17 IPR 1
 
 Facts: Since 1956 Reckitt & Colman sold lemon juice under the name JIF. The product was sold in a plastic squeeze container in the size, shape and colour resembling a lemon. The word JIF was embossed on the side of the container. Attached to the top of the lemon was a green triangular label with the word JIF prominently displayed. Reckitt & Colman had packaged its JIF lemon juice in this way since 1956. The Defendant (who had previously sold bottled lemon juice under the trade mark ReaLemon) sought to repackage its product in a lemon shaped container similar to that used by Reckitt & Colman. It had developed three prototypes of the lemon shaped containers, which they were considering adopting as their new packaging. Upon discovering the first prototype, Reckitt & Colman brought an action for passing off against the Defendant. Upon discovering the second and third prototype, Reckitt & Colman commenced another action.
 
@@ -129,7 +130,7 @@ The appeal was dismissed by the House of Lords, which agreed with the decision o
 
 **Video overview by Jess Walker on [Reckitt & Colman Products Ltd v Borden Inc](https://www.youtube.com/watch?v=7GheuARYYEU)**
 
-
+</div>
 
 
 ### Trade Indicia - Acquiring Secondary Meaning
@@ -149,17 +150,23 @@ For example in *Reckitt & Colman*, the court accepted that the shape of a lemon 
 * 'Pure and simple’ for vegetable oil.
 * ‘Plantland’ for a plant nursery.
 
-__*Advocaat Case: Erven Warnink v J Townsend & Sons* [1979] AC 731__
+
+<div markdown="block" class="box  case">
+##### _Advocaat Case: Erven Warnink v J Townsend & Sons_ [1979] AC 731
 
 Facts:  Plaintiff and other Dutch companies manufactured and marketed 'advocaat' in the UK for some time (Dutch standards required brandewijn, egg yolks, sugar). Substantial reputation and goodwill. Defendants marketed 'Keeling's Old English Advocaat' (egg powder and sherry). Not able to be mistaken for the Dutch product.
 
 Held that the name 'advocaat' had become distinctive of a certain style. Defendants misrepresented the nature of their product to consumers.
 
-__*J Bollinger v Costa Brava Wine Co.(The Spanish Champagne Case)* [1960] Ch 262__
+</div>
+
+<div markdown="block" class="box  case">
+##### _J Bollinger v Costa Brava Wine Co.(The Spanish Champagne Case)_ [1960] Ch 262
 
 Facts: 150 growers would have been entitled to use the description 'champagne'.
 
 Held: Name was distinctive of both place of origin and quality.
+</div>
 
 #### Reputation established in the relevant jurisdiction
 The reputation must be established in the jurisdiction, but note that there is no requirement that the trader has actually traded in the jurisdiction, or even that their goods have been sold in the jurisdiction. Rather, reputation can be established by showing that people in the jurisdiction would be aware of the plaintiff’s reputation[^AUTOREPLACEDConAgraENDREPLACE]  For sufficient reputation to be found there must also be a substantial number of persons in the jurisdiction who are aware of the plaintiff’s goods/services.[^AUTOREPLACEDConAgraperGummowJENDREPLACE]
@@ -171,11 +178,13 @@ The reputation must be established in the jurisdiction, but note that there is n
 [^AUTOREPLACEDConAgraperGummowJENDREPLACE]: *ConAgra* per Gummow J
 
 
-__*Con Agra Inc v McCain Goods (Aust) Pty Ltd* [1992] FCA 159__
+<div markdown="block" class="box  case">
+##### _Con Agra Inc v McCain Goods (Aust) Pty Ltd_ [1992] FCA 159
 
 Facts: McCain copied the name “Healthy Choice” from a product seen in US.
 
 Held: Trader must have a reputation in the jurisdiction. No need to show actual trade, but reputation must be established with reference to a substantial number of local consumers. Necessary reputation not established.
+</div>
 
 ### Proving Reputation
 
@@ -206,11 +215,14 @@ Again, while such evidence is admissible the probity varies and often courts hav
 
 The court's recognition of the value and impact of indirect advertising techniques makes it easier for owners of well-known brands overseas, that are not sold or directly marketed in Australia, to establish brand reputation in this country. This recognition will make it increasingly difficult for Australians to copy profitable overseas products and to defend such imitations successfully on the basis that the product was not yet officially launched in Australia, and therefore that the reputation was not yet established in this jurisdiction.
 
-__*Hansen v Bickfords* (Monster Energy Drink)__
+
+<div markdown="block" class="box  case">
+##### _Hansen v Bickfords_ (Monster Energy Drink)
 
 Facts: Hansen marketed and sold the Monster Energy drink in a number of countries around the globe. The drink was not launched in Australia yet because H was attempting to first familiarise Australia with the product before launch. It was doing this through indirect marketing - sponsoring athletes, athletic competitions, clothing, merchandise etc. B, a manufacturer and distributor of beverages in Australia, decided to expand into energy drinks and their own Australian version of the Monster Energy drink. The two drinks had the same name, contained the same ingredients, and came in a can of the same size marked with the same colours. In response to these actions, Hansen brought proceedings seeking an injunction and damages, on the grounds that by selling their Monster Energy drink in Australia, Bickfords had engaged in passing off, among other things. The main issue was whether Hansen had a sufficient reputation in Australia in the MONSTER ENERGY mark, at the relevant date, in relation to energy drinks.
 
 Held:  On appeal from the Federal Court to the Full Federal Court  it was held that in a passing-off claim, it is necessary to demonstrate that a significant or substantial proportion of persons within a *relevant market,* as opposed to the *target market,* were misled. He emphasised that this was the case, even if the relevant market was smaller than the target market. Justice Finkelstein was the most vocal on the issue of indirect advertising. On this subject he noted, that on the facts it was open to the primary judge to infer that the indirect advertising employed by Hansen could establish reputation as well as, if not better than, direct advertising and that in the first instance greater weight should have be given to the indirect marketing campaign undertaken by Hansen to establish its reputation. The case was remitted back to the trial judge but was settled before the hearing.
+</div>
 
 
 ## Element 2: Misrepresentation
@@ -234,7 +246,8 @@ It is necessary to show that the defendant's conduct caused customers to be dece
 5. The defendant’s product shares some exclusive quality with that of the plaintiff, such as where the defendants’ goods are represented as being made in a particular way or in a particular place when they are not, but the plaintiff’s are.
 
 
-__*Cadbury Schweppes Pty Ltd v Pub Squash Co Pty Ltd* [1980] 2 NSWLR 851 (PC)__
+<div markdown="block" class="box  case">
+##### _Cadbury Schweppes Pty Ltd v Pub Squash Co Pty Ltd_ [1980] 2 NSWLR 851 (PC)
 
 Cadbury Schweppes (Solo):  Advertising campaign on TV and radio.  Themes of manliness and nostalgia for hotel squash. Campaign had considerable impact. Sold in bottles and cans.
 Pub Squash: Advertisements with intentionally similar themes of manliness and nostalgia.  Similar sized can, colours and image.
@@ -251,21 +264,29 @@ Scope of protection:
 [^AUTOREPLACEDat863CD44ENDREPLACE]: at 863 C-D [44]
 
 
-__*Philips v Remington* (2000) 100 FCR 90__
+</div>
 
+<div markdown="block" class="box  case">
+##### _Philips v Remington_ (2000) 100 FCR 90
 Facts: Philips sold the only triple headed rotary electric shaver on the market. Philips registered trade marks were two-dimensional device marks depicting an equilateral triangular shape containing three circular shaving heads. Remington introduced a shaver of similar design.
 
 Held: An action in passing was not successful. Passing off does not ground a monopoly on products, that is the realm of patent law. Patent has appropriate restraints on the monopoly, passing off does not and are indefinite so it is not appropriate that they function to restrict competition in this way.  Remington absolutely copied but this could not be protected under passing off.
 
 
 
-__*Lego System Aktieselskab v Lego M Lemelstrich Ltd* (1983) 9 FSR 155__
+</div>
+
+<div markdown="block" class="box  case">
+##### _Lego System Aktieselskab v Lego M Lemelstrich Ltd_ (1983) 9 FSR 155
 
 Facts: Loss of opportunity for business expansion. Defendant legitimately sold garden equipment under the name 'LEGO' in Israel.
 
 Held: EWHC found that LEGO's reputation extended beyond toys and was a 'household word'.  No intention to extend to gardening equipment was necessary. Substantial number of consumers would be deceived.
 
-__*Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd* (1996) 66 FCR 451__
+</div>
+
+<div markdown="block" class="box  case">
+##### _Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd_ (1996) 66 FCR 451
 
 Facts: The Simpsons' producers had acquired substantial goodwill and reputation in Australia in the characters, names and images of The Simpsons, including "Duff Beer". Duff's dictionary meaning not descriptive of beer, but had acquired a powerful secondary meaning associated with The Simpsons. The breweries’ use of "Duff Beer" was sufficient to create associations between the product and The Simpsons in consumers' minds. The breweries, in using the name "Duff Beer", made use of an element which belonged to the reputation and goodwill of The Simpsons. The breweries intended to exploit the association between their product and The Simpsons - not an element of passing off, but can assist an applicant's case. Extensive licensing by the producers in Australia of T-shirts, caps and other merchandise depicting images from the series, including Duff Beer.
 
@@ -275,7 +296,10 @@ Tamberlin J at 466-467:
 
 >"Their intention was to “sail as close as possible to the wind” in order to “cash in” on the reputation of The Simpsons without stepping over the line of passing off or deceit. The breweries knew that they were able by use of the name “Duff” alone to evoke the powerful association without using names or images. I do not think that the changes in can colour or the “tidying up” of the way “Duff” was written was effective to eliminate the association. Accordingly, I consider this knowledge is important evidence to support the inference that the goal of creating and exploiting the powerful association with The Simpsons had been achieved".
 
-__*Mars Australia Pty Ltd v Sweet Rewards Pty Ltd* (2009) 81 IPR 354__
+</div>
+
+<div markdown="block" class="box  case">
+##### _Mars Australia Pty Ltd v Sweet Rewards Pty Ltd_ (2009) 81 IPR 354
 
 There was no evidence of intention to deceive or imitate by using the name MALT BALLS in relation to a product similar to MALTEASERS. Difference in names, and the appearance of those names, was decisive. Red floating balls conventional in the confectionary industry.  No passing off – upheld on appeal.
 
@@ -288,10 +312,14 @@ Perram J at 362 [32]:
 
 
 
-__*Henderson v Radio Corp* (1960) 60 SR (NSW) 576__
+</div>
+
+<div markdown="block" class="box  case">
+##### _Henderson v Radio Corp_ (1960) 60 SR (NSW) 576
 
 Facts: Image of the Hendersons used as a cover for a compilation entitled 'Strictly for Dance'.
 Held: NSW SC found that consumers could be misled to thinking that the Hendersons had approved or recommended the record. Misrepresentation amounted to passing off.  There was no need for a common field of activity.
+</div>
 
 ### Fraud is Not an Essential Element
 
@@ -384,6 +412,7 @@ On the other hand, where goods are expensive, disclaimers are likely to be more 
 Tamberlin J in *Twentieth Century Fox v South Australian Brewing*:
 
 > "In considering cases involving associations between a name and a product there must always be room for differences in each case arising from variations in the target market; the nature and strength of the associations conveyed by the use of the name; the way in which the product is distributed; and the way in which the use of the name is calculated to attract the market. These considerations make it unsafe to treat any particular decision as a precedent. Of course, some general guidance can be derived from particular decisions, but there is no formula to the effect that the use of any particular words of disclaimer such as “unauthorised” or that disavowal in the form of an express statement of disassociation will always serve to dispel such association in the marketplace".
+
 </div>
 
 ## Remedies
@@ -450,6 +479,7 @@ The elements of passing off for character merchandising and celebrity endorsemen
 Korean-made toys looked sufficiently like the characters in the  television program ‘Sesame Street’ such that persons (especially children) would be misled into believing that the toys were produced and sold with the approval of the CTW (the owner and producer of the television program and the characters and who licensed the right to  reproduce the characters as soft toys).
 
 </div>
+
 <div markdown="block" class="box  case">
 ##### _Hogan v Koala Dundee Pty Ltd_ [1988] FCA 333
 
@@ -458,6 +488,7 @@ The inventor of a sufficiently famous fictional character having certain visual 
 >‘The essence of the wrong done … is not in truth the misrepresentation that there is a licensing or sponsoring agreement between the applicant and the respondent; it is .... namely the wrongful appropriation of a reputation or, more widely, wrongful association of goods with an image properly belonging to the applicant.’
 
 </div>
+
 <div markdown="block" class="box  case">
 ##### _Pacific Dunlop Ltd v Hogan_ [1989] FCA 185
 
@@ -470,11 +501,13 @@ Burchett J said:
 >"The consumer is moved by a desire to wear something belonging in some sense to Crocodile Dundee (who is perceived as a persona, almost an avatar, of Mr Hogan). The arousal of that feeling by Mr Hogan himself could not be regarded as misleading, for then the value he promises the product will have is not in its leather, but in its association with himself. When, however, an advertisement he did not authorise makes the same suggestion, it is misleading; for the product sold by that advertisement really lacks the one feature the advertisement attributes to it".
 
 </div>
+
 <div markdown="block" class="box  case">
 ##### _Twentieth Century Fox Corporation v The South Australian Brewing Co_ [1996] FCA 1484
 Per Tamberlin J:
 
 > "There is no necessity to demonstrate that the viewer or consumer must think in specific terms of permission or allowance in order to constitute deceptive conduct. The intentional use of the name “Duff Beer” which produces the false association is sufficient …"
+
 </div>
 
 ### Examples of Celebrity Endorsements
@@ -485,6 +518,7 @@ Per Tamberlin J:
 The defendant’s use of the image of two well-known ballroom dancers on a record cover gave the impression that the Hendersons had sponsored or authorised the use of their image.
 
 </div>
+
 <div markdown="block" class="box  case">
 ##### _Gary Honey v Australian Airlines Ltd and House of Tabor Inc_ [1988] FCA 177
 Northrop J said:

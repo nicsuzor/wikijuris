@@ -139,17 +139,23 @@ The Courts Decision: The process of mixing the known chemicals together – the 
 
 In relation to computer software, copyright protects against the reproduction of a computer program in material form, but does not prevent independent creation. Patent protection for computer software provides protection against independent creation and for the means by which a result is obtained.
 
-__*IBM v Commissioner of Patents* (1991) 22 IPR 417__
+
+<div markdown="block" class="box  case">
+##### _IBM v Commissioner of Patents_ (1991) 22 IPR 417
 
 Facts: invention was a method of creating an improved (smoother) curve on a computer screen. This implemented an algorithm that could be manually calculated, the application of which resulted in a smoother curve.
 
 Held:  producing an improved curve image is commercially useful in the field of computer graphics – a smoother curve allows better graphics and more accurate portrayal of information. It is more than just a mathematical algorithm or pleasant image. It is the application of a mathematical algorithm to produce a commercial valuable and useful result. Therefore is the proper subject matter of a patent.
 
-__*CCOM Pty Ltd v Jiejing Pty Ltd* [1994] FCA 902__
+</div>
+
+<div markdown="block" class="box  case">
+##### _CCOM Pty Ltd v Jiejing Pty Ltd_ [1994] FCA 902
 
 Facts: Chinese language word processor. Based on an algorithm. Involved using ordinary English keyboard but placing parts of common Chinese characters on keys.
 
 Held: This is patentable subject matter.  Computer software can be protected by patent.
+</div>
 
 ### Patentable Subject Matter: Business Methods
 
@@ -161,25 +167,33 @@ The development of technology and innovative business practices lead to question
 **Video overview by Stephen Kuhn on [Business Method Patents](https://www.youtube.com/watch?v=_Pmqa_nldKE?small).**
 
 
-__*State Street Bank & Trust Co. v Signature Financial Group Inc* (1998) (‘State Street’) - United States Case__
+<div markdown="block" class="box  case">
+##### _State Street Bank & Trust Co. v Signature Financial Group Inc_ (1998) (‘State Street’) - United States Case
 
 Facts : The invention was a machine-implemented data processing system that used a mathematical algorithm to implement a financial investment structure. This allowed an investment fund to be monitored with its only output being information produced by the end of the day report. Essentially the program did what humans could do by hand but made this much faster and automated the process.
 
 Held: The Court held that the invention was patentable subject matter as there is no business method exclusion from the scope of patentable subject-matter.
 
-__*Welcome Real-Time v Catuity* (2001) FCA 445 (Heerey J)__
+</div>
+
+<div markdown="block" class="box  case">
+##### _Welcome Real-Time v Catuity_ (2001) FCA 445 (Heerey J)
 
 Facts: Patent for a method of operating a customer loyalty scheme by configuring a smart card.
 
 Held: In terms of the business methods exception, this case found the State Street decision ‘persuasive’ ([129]), i.e. the case appears to agree there is no business method exception against patentability.
 
-__*Grant v Commissioner of Patents* (2006) 154 FCR 62__
+</div>
+
+<div markdown="block" class="box  case">
+##### _Grant v Commissioner of Patents_ (2006) 154 FCR 62
 
 Facts:  Involved a method of structuring a financial transaction with the aim of protecting an individual’s assets - a person creates a trust, the person makes a gift of money to the trust, the trust makes a loan of money to the person, the trust secures the loan by taking a charge over an asset held by the person. This thus gave priority in the person's bankruptcy.
 
 Held: the physicality requirement was introduced - the invention must involve a physical effect in the sense of a concrete effect or phenomenon or manifestation or transformation ([30], [32], [47]). The method here had no concrete, tangible, physical or observable effect - it was a mere scheme, an abstract idea, mere intellectual information (30], [32], [33], [47]). Therefore, it was not patentable subject matter.
 
 The court observed that a method merely because a method is a business method does not prevent it from being patentable subject matter ([26]). However, things such as legal advice, schemes, arguments and the like are not manners of manufacture ([34]).
+</div>
 
 
 ### Patentable Subject Matter: Biotechnology
@@ -189,8 +203,9 @@ Biotechnology is another area which is controversial within the patent landscape
 
 [^AUTOREPLACED447US3031980ENDREPLACE]: 447 US 303 (1980)
 
-
-__*Diamond v Chakrabarty* 447 US 303 (1980) - United States Case__
+</div>
+<div markdown="block" class="box  case">
+##### _Diamond v Chakrabarty_ 447 US 303 (1980) - United States Case
 
 Facts: The invention was a bacterium capable of breaking down crude oil, useful in treating oil spills. The process involved inserting non-native elements into the genome of a strain of naturally occurring bacteria and allowed it to be produced in commercial quantities. The naturally occurring bacteria did not occur in enough quantity to make it commercially viable.
 
@@ -199,6 +214,7 @@ Held: patentable subject matter is broad and includes 'anything under the sun th
 Burger CJ:
 > “Judged in this light, the respondent‘s micro-organism plainly qualifies as patentable subject matter. His claim is ... to a non-naturally occurring manufacture or composition of matter - a product of human ingenuity.”
 
+</div>
 
 
 
@@ -231,15 +247,16 @@ One of the most contentious areas within patent law is the patentability of gene
 [^AUTOREPLACED2015HCA35ENDREPLACE]: [2015] HCA 35
 
 
-__*D’Arcy v Myriad Genetics Inc*__
+<div markdown="block" class="box  case">
+##### _D’Arcy v Myriad Genetics Inc_
 
 Facts:  This case concerns a product, namely nucleic acid sequences (DNA or RNA) that have been isolated from the cell nucleus of a BRCA1 human gene.  BRCA1 – breast and ovarian cancer disposing gene. Mutations indicate a predisposition to breast or ovarian cancer. The purpose of a cancer screening test is to compare a health genetic sequence to a patient’s sequence to make a diagnosis. This process costs approximately $3,000 in US, comparatively this process is free in AU). In order to diagnose the gene has to first be chemically isolated by separating it from the cellular environment in which it naturally exists.
 
 Held: isolation of genes not patentable
 
-
 **Video overview by Nicholas Chinon [D'Arcy v Myriad Genetics](https://www.youtube.com/watch?v=WOc-qXrC-TM).**
 
+</div>
 
 ## Requirement 2: Novelty
 
@@ -365,7 +382,9 @@ Sections 18(1A)(b)(ii), 7(4): An invention is taken to involve an innovative ste
 
 [^AUTOREPLACEDPAs74ENDREPLACE]: _PA_ s 7(4)
 
-; [2009] FCAFC 81__
+</div>
+<div markdown="block" class="box  case">
+##### _Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd_ [2009] FCAFC 81__
 
 Facts: Concerned improved flexible roadside posts. Utilised sheet spring steel to overcome the problems of resilience and durability in existing flexible roadside posts. Stopped them from just cracking and breaking when hit. * Held: Innovation patents were designed for patenting improvements. The poles were patentable. The court held that the process to identify inventive step is to:
 
@@ -376,6 +395,7 @@ Facts: Concerned improved flexible roadside posts. Utilised sheet spring steel t
 The question of whether an invention makes a substantial contribution as claimed has not been explained in greater detail. It is a factual enquiry that requires the perspective of a person skilled in the art having regard to relevant common general knowledge. It is decided on a case by case basis.
 
 **Video overview by Daniel G on [Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd](https://www.youtube.com/watch?v=1h4P4FvVCw8?small).**
+</div>
 
 ## Requirement 4: Usefulness
 
@@ -423,9 +443,10 @@ There is a new 12 months grace period in respect of secret use.[^AUTOREPLACEDPAs
 
 
 
-__*Azuko Pty Ltd v Old Digger Pty Ltd* (2001) 52 IPR 75__
+<div markdown="block" class="box  case">
+##### _Azuko Pty Ltd v Old Digger Pty Ltd_ (2001) 52 IPR 75
 
-* Facts: Concerned a hammer used in mining for exploratory drilling. A friend of the inventor, who had tested the hammers inventor, ordered a number from the inventor. However, the inventor had not accepted the order. It also decided that the manufacture of 15 to 20 hammers was reasonable in order to conduct trials to determine their commercial viability.
+  * Facts: Concerned a hammer used in mining for exploratory drilling. A friend of the inventor, who had tested the hammers inventor, ordered a number from the inventor. However, the inventor had not accepted the order. It also decided that the manufacture of 15 to 20 hammers was reasonable in order to conduct trials to determine their commercial viability.
 * Held Has the patentee obtained a commercial benefit before the priority date? One instance is sufficient, no matter how close to the priority date it occurs. Rationale: Prevents a patentee gaining a longer monopoly than the statutory period. Production of 15 – 20 hammers in condition for commercial sale and order having been received for 5-6 cannot be considered a matter of trial and experiment, this indicates trial and experiment had been concluded earlier and commercial product had commenced since.  Lack of evidence as to any trials or experiments on hammers, so inference drawn is that this wasn’t occurring.
 
 **Video overview by Sam D'Arro on [Secret use in Azuko Pty Ltd v Old Differ](https://www.youtube.com/watch?v=fmxgvofZOks?small).**
@@ -433,6 +454,7 @@ __*Azuko Pty Ltd v Old Digger Pty Ltd* (2001) 52 IPR 75__
 
 **Video overview by Diana Chiknaikin on [Azuko Pty Ltd v Old Digger](https://www.youtube.com/watch?v=6kMRDqoBBqU?small).**
 
+</div>
 
 
 ## Patent Applications: Description and Claim Requirements
@@ -577,33 +599,9 @@ For more information see [IP Australia’s Patent Application Guide](https://www
 
 **Video by Kimberley Dorrian on [How to Obtain a Standard Patent](https://goanimate.com/videos/0f_ER1g2iPds?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent).**
 
-### Innovation Patent
-Only a formalities check is conducted prior to grant of the patent.[^AUTOREPLACEDPAs52ENDREPLACE] The patentee must comply with the specification disclosure requirements in s 40. The patent can only be enforced once it is certified, which requires a substantive examination.[^AUTOREPLACEDPAs101EENDREPLACE] If an innovation patent is examined and found to be invalid, it is revoked.[^AUTOREPLACEDPAs138ENDREPLACE]
-
-
-[^AUTOREPLACEDPAs52ENDREPLACE]: _PA_ s 52
-
-[^AUTOREPLACEDPAs101EENDREPLACE]: _PA_ s 101E
-
-[^AUTOREPLACEDPAs138ENDREPLACE]: _PA_ s 138
-
-
 ## Ownership: employees and employers
 
 **Video overview by Matthew Egerton-Vernon on [When an Employer Will Own The Invention of an Employee](https://www.youtube.com/watch?v=aLZLfS2vHRs).**
-
-## Converting Patent Applications
-
-### Converting an Innovation Patent Application
-
-An innovation patent application can be converted to either a provisional application or a standard patent application. In terms of a provisional patent application, an innovation patent can be converted so long as the request to convert is made between the filing date of the innovation patent application and the earliest of these dates: the application acceptance or 12 months from the filing date.
-
-In terms of converting the innovation patent into a standard patent the request to convert must be made before the innovation patent has been accepted.
-
-### Converting a Standard Patent Application
-
-A standard patent application can be converted to either a provisional application or an innovation patent application. In terms of a provisional application, the request to convert must be made between the filing date and the earliest of these dates: 12 months from the filing date, before the application is accepted or three weeks before its publication.
-In terms of an innovation patent, the request to convert must be made before the standard patent has been accepted.
 
 ## International Patents
 

@@ -105,10 +105,13 @@ A licensee may terminate the licence agreement even if it is still in force at t
 **Video overview by David Taylor on [Commercialisation and licensing of inventions](https://www.youtube.com/watch?v=EUUHq8PsKSQ).**
 
 
-__*Regency Media Pty Ltd v MPEG LA, L.L.C.* [2014] FCAFC 183__
+
+<div markdown="block" class="box  case">
+##### _Regency Media Pty Ltd v MPEG LA, L.L.C._ [2014] FCAFC 183
 
 * Facts: Single licence agreement for multiple patents. Can you terminate for single patent that has expired where the other patents have not expired?
 * Answer is no – must be termination of the whole agreement.
+</div>
 
 
 Licence may be exclusive, sole or non-exclusive.
@@ -185,14 +188,16 @@ The pith and marrow refers to the 'essence and substance' of the invention.[^AUT
 [^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]:  _Catnic Components Ltd v Hill & Smith Ltd_ [1982] RPC 183, 243; _Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd_ (2005) 67 IPR 230, 245
 
 
+<div markdown="block" class="box  case">
+##### _Catnic Components Ltd v Hill & Smith Ltd_ (No 1) (1982) RPC 183
 
-__*Catnic Components Ltd v Hill & Smith Ltd* (No 1) (1982) RPC 183__
+Facts: Patent for steel lintels for use in spanning the spaces above window and door openings. Specification required a bar to “extend vertically”. Hill created a virtually identical invention that had a bar that extended upwards 6 degrees from being vertical. The device worked entirely in the same way as Catnic's invention. Created invention that worked in entirely same way as patentee’s invention but was 6 degrees from vertical.
 
-  * Facts: Patent for steel lintels for use in spanning the spaces above window and door openings. Specification required a bar to “extend vertically”. Hill created a virtually identical invention that had a bar that extended upwards 6 degrees from being vertical. The device worked entirely in the same way as Catnic's invention. Created invention that worked in entirely same way as patentee’s invention but was 6 degrees from vertical.
-  * Held: This was taken to be infringement.
+Held: This was taken to be infringement.
 
 > "[A] patent specification is a unilateral statement by the patentee, in words of his own choosing, … by which he informs them what he claims to be the essential features of the new product or process… that constitute the so-called “pith and marrow” of the claim. A patent specification should be given a purposive construction rather than a purely literal one… The question in each case is: whether persons with practical knowledge [in the relevant field] would understand that strict compliance with a particular descriptive word or phrase appearing in a claim was intended by the patentee to be an essential requirement of the invention so that any variant would fall outside the monopoly claimed, even though it could have no material effect upon the way the invention worked. The question, of course, does not arise where the variant would in fact have a material effect upon the way the invention worked."
 
+</div>
 
 ## Contributory Infringement
 
@@ -342,4 +347,4 @@ Since 2004 there have been other amendments made to the _Patents Act 1990_ (Cth)
 
 #### Access to Medicine
 
-**Video overview by Tess Van Geelan on [The Doha Declaration and global access to medicines](https://www.youtube.com/watch?v=1niAYHEPmmY).**
+**Video overview by Tess Van Geelen on [The Doha Declaration and global access to medicines](https://www.youtube.com/watch?v=1niAYHEPmmY).**

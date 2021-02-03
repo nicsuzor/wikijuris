@@ -60,7 +60,8 @@ Information can be disclosed if recipient is under an obligation of confidence.[
 
 [^AUTOREPLACEDNDAENDREPLACE]: NDA
 
-__*Ansell Rubber Co v Allied Rubber Industries* [1967] VR 37__
+<div markdown="block" class="box  case">
+##### _Ansell Rubber Co v Allied Rubber Industries_ [1967] VR 37
 
 Trade secret case. The machine was patented but improvements were not.
 Have regard to:
@@ -72,21 +73,30 @@ Have regard to:
   * the ease or difficulty with which the information could be properly acquired or duplicated by others.
 
 
-__*Argyll v Argyll*  [1967] Ch 30__
+</div>
+
+<div markdown="block" class="box  case">
+##### _Argyll v Argyll_ [1967] Ch 30
+
+
 
 Duchess of Argyll obtained an injunction to prevent disclosure of marital secrets by her ex-husband.
 
 >“Secrets […] relating to her private life, personal affairs or private conduct, communicated to the first defendant in confidence during the subsistence of his marriage to the plaintiff and not hitherto made public property.”
 
 
-__*Commonwealth v Fairfax* (1980) 147 CLR 39__
+</div>
+<div markdown="block" class="box  case">
+##### _Commonwealth v Fairfax_ (1980) 147 CLR 39
 
 Leaked information was embarrassing to Cth Government. Once the information was published, it lost its character of confidentiality.
 
 > “The sales of the book already made, including those made to Indonesia and the United States, the countries most likely to be affected by its contents, and the publication of the first instalment in the two newspapers, indicate that the detriment which the plaintiff apprehends will not be avoided by the grant of an injunction. In other circumstances the circulation of about 100 copies of a book may not be enough to disentitle the possessor of confidential information from protection by injunction, but in this case it is likely that what is in the book will become known to an ever-widening group of people here and overseas, including foreign governments”. (54, Mason J)
 
 
-__*AG v Guardian (No 2) (Spycatcher)*__
+</div>
+<div markdown="block" class="box  case">
+##### _AG v Guardian (No 2) (Spycatcher)_
 
   * Former MI5 agent moved to Tasmania to escape UK law and write a book revealing some MI5 secrets.
   * British could not enforce UK legislation here.
@@ -97,6 +107,7 @@ __*AG v Guardian (No 2) (Spycatcher)*__
 **Video overview by Sam Turner on [Spycatcher, Breach of Confidence](youtube>BvzZ64A5ApU?small)**
 
 **Video overview by Cam McCall on [Spycatcher, Breach of Confidence](youtube>IsXFAwNLBfU?small)**
+</div>
 
 ### Element 2: Circumstances give rise to an obligation of confidence
 
@@ -110,22 +121,27 @@ An obligation of confidence may also be present in situations where:
 * Surreptitiously obtained information.
 
 
-__*Coco v A N Clark (Engineers)*  [1969] RPC 41__
+<div markdown="block" class="box  case">
+##### _Coco v A N Clark (Engineers)_ [1969] RPC 41
 
 This cases asked whether a reasonable person in the position of the recipient would have recognised that the information was given in confidence (Megarry J). The information was provided in the course of contractual negotiations around a new moped engine. It was held that the circumstances imposed an obligation of confidence, however the information was not sufficiently novel.
+</div>
 
-
-__*AG v Guardian (No 2) (Spycatcher)*__
+<div markdown="block" class="box  case">
+##### _AG v Guardian (No 2) (Spycatcher)_
 
 Duty not limited to relationships:
 > "also to include certain situations, beloved of law teachers, where an obviously confidential document is wafted by an electric fan out of a window into a crowded street, or when an obviously confidential document, such as a private diary, is dropped in a public place, and is then picked up by a passer-by” (Lord Goff, in obiter)
 
 
 
-__*Douglas v Hello!* [2005] EWCA Civ 595__
+</div>
+<div markdown="block" class="box  case">
+##### _Douglas v Hello!_ [2005] EWCA Civ 595
+
 
 In this case, Douglas' negotiated to commercialise the photography rights at their wedding. The wedding had the quality of confidence. The photographs were taken by a surreptitious gatecrasher. It was held that the circumstances satisfied the equitable obligation.
-
+</div>
 
 ### Element 3 - Actual or Threatened Use
 
@@ -155,17 +171,23 @@ There are three main reasons that may be evoked under a just cause or excuse def
 **Video overview by Paris Hamrey on [Breach of Confidence and the Public Interest](youtube>mNtOkrBr4IQ?small)**
 
 
-__*Corrs Pavey Whiting and Byrne v Collector of Customs* (Vic) (1987) 10 IPR 53__
+<div markdown="block" class="box  case">
+##### _Corrs Pavey Whiting and Byrne v Collector of Customs_ (Vic) (1987) 10 IPR 53
+
 
 The applicant represented patentee; sought documents under FOI relating to importation of patented drug.
 Customs declined, citing breach of confidence.
 Gummow J, dissenting, discussed the existence public interest test, suggesting that it was better thought of as equity barring the plaintiff on the basis of unclean hands; and no quality of confidence in equity for information that shows crimes, wrong or misdeeds of public importance.
 
 
-__*Naomi Campbell v Mirror News* (2004)__
+</div>
+
+<div markdown="block" class="box  case">
+##### _Naomi Campbell v Mirror News_ (2004)
 
 Campbell's attendance at Narcotics Anonymous may have had the necessary degree of confidentiality (doubted on appeal).
 Confidence was lost by Campbell's deliberate courting of the media and an anti-drug reputation. (Public interest test).
+</div>
 
 
 ## Remedies
