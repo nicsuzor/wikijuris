@@ -279,7 +279,6 @@ It is not an infringement of copyright in an artistic work to reproduce if repro
 [^AUTOREPLACEDCAs77AENDREPLACE]: _CA_ s 77A
 
 
-</div>
 <div markdown="block" class="box  case">
 ##### _Burge v Swarbrick_ (2007) HCA 17
 
