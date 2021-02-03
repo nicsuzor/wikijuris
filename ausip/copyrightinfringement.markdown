@@ -92,9 +92,6 @@ It is an infringement of copyright to do or authorise any of the exclusive right
 
     * For literary, dramatic and musical works: [^AUTOREPLACEDCAs311aENDREPLACE]
 
-
-[^AUTOREPLACEDCAs311aENDREPLACE]: _CA_ s 31(1)(a)
-
         * to reproduce the work in a material form;
 
         * to publish the work;
@@ -107,18 +104,20 @@ It is an infringement of copyright to do or authorise any of the exclusive right
 
     * For artistic works: [^AUTOREPLACEDCAs311bENDREPLACE]
 
-
-[^AUTOREPLACEDCAs311bENDREPLACE]: _CA_ s 31(1)(b)
-
         * to reproduce the work in a material form;
 
         * to publish the work;
 
         * to communicate the work to the public.
 
+        
+[^AUTOREPLACEDCAs311aENDREPLACE]: _CA_ s 31(1)(a)
+
+[^AUTOREPLACEDCAs311bENDREPLACE]: _CA_ s 31(1)(b)
+
 ### Infringement - Reproduce the Work in a Material Form
 
-There is an exclusive right to reproduce the work in material form. [^AUTOREPLACEDCAss311aiand311biENDREPLACE] Reproduction involves some element of copying; it does not include cases where the author or compiler produces a substantially similar result by independent work without copying.  [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE] 
+There is an exclusive right to reproduce the work in material form. [^AUTOREPLACEDCAss311aiand311biENDREPLACE] Reproduction involves some element of copying; it does not include cases where the author or compiler produces a substantially similar result by independent work without copying.  [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]
 
 
 [^AUTOREPLACEDCAss311aiand311biENDREPLACE]: _CA_ ss 31(1)(a)(i) and 31(1)(b)(i)
