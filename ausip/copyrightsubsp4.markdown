@@ -19,19 +19,19 @@ The _Copyright Act 1968_ (Cth) (_CA_) introduced new categories of subject matte
 
 The content protected by Part IV is known as "subject matter other than works" or, more succinctly, "other subject matter" This subject matter includes:
 
-* Sound recordings; [^AUTOREPLACEDCAs89ENDREPLACE]
+* Sound recordings;[^AUTOREPLACEDCAs89ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs89ENDREPLACE]: _CA_ s 89
-* Cinematograph films; [^AUTOREPLACEDCAs90ENDREPLACE]
+* Cinematograph films;[^AUTOREPLACEDCAs90ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs90ENDREPLACE]: _CA_ s 90
-* Television and sound broadcasts; [^AUTOREPLACEDCAs91ENDREPLACE] and
+* Television and sound broadcasts;[^AUTOREPLACEDCAs91ENDREPLACE] and
 
 
 [^AUTOREPLACEDCAs91ENDREPLACE]: _CA_ s 91
-* Published editions of works. [^AUTOREPLACEDCAs92ENDREPLACE]
+* Published editions of works.[^AUTOREPLACEDCAs92ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs92ENDREPLACE]: _CA_ s 92
@@ -50,7 +50,7 @@ Copyright in Part IV subject matter is "in addition to, and independent of" any 
 
 ## Sound Recordings
 
-Copyright in sound recordings subsists by virtue of s 89 of the _Copyright Act_. "Sound recording" is defined in s 10 as "the aggregate of the sounds embodied in a record". [^AUTOREPLACEDCAs10ENDREPLACE] "Record", in turn, is defined to mean "a disc, tape, paper or other device in which sounds are embodied". [^AUTOREPLACEDCAs10ENDREPLACE] This definition is designed to be technology neutral and covers CDs, DVDs, electronic files etc.
+Copyright in sound recordings subsists by virtue of s 89 of the _Copyright Act_. "Sound recording" is defined in s 10 as "the aggregate of the sounds embodied in a record".[^AUTOREPLACEDCAs10ENDREPLACE] "Record", in turn, is defined to mean "a disc, tape, paper or other device in which sounds are embodied".[^AUTOREPLACEDCAs10ENDREPLACE] This definition is designed to be technology neutral and covers CDs, DVDs, electronic files etc.
 
 
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
@@ -71,7 +71,7 @@ Section 90 of the _Act_ provides for the subsistence of copyright in cinematogra
 
 (b) of being embodied in another article or thing by the use of which it can be so shown;
 
-This includes the aggregate of the sounds embodied in a sound track associated with such visual images". [^AUTOREPLACEDs101ENDREPLACE]
+This includes the aggregate of the sounds embodied in a sound track associated with such visual images".[^AUTOREPLACEDs101ENDREPLACE]
 
 
 [^AUTOREPLACEDs101ENDREPLACE]: s 10(1)
@@ -161,7 +161,7 @@ Section 92 of the _Copyright Act_ provides that "copyright subsists in a publish
 
 The published edition copyright protects the layout and formatting of printed pages. For example, the precise layout and formatting of newspaper pages will attract separate copyright protection than the underlying literary and artistic works forming the actual newspaper articles.
 
-This type of protection was only introduced with the _Copyright Act 1968_, as such, there is no copyright protection afforded to published editions of books published before 1968. [^AUTOREPLACEDCAs224ENDREPLACE]
+This type of protection was only introduced with the _Copyright Act 1968_, as such, there is no copyright protection afforded to published editions of books published before 1968.[^AUTOREPLACEDCAs224ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs224ENDREPLACE]: _CA_ s 224

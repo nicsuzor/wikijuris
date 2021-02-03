@@ -19,7 +19,7 @@ grand_parent: Australian IP Law
 
 In this section, you will learn when copyright subsists in various types of material.
 
-Copyright protection in the _Copyright Act 1968_ (Cth), (_CA_) is split between original works (Part III) and "subject matter other than works" (Part IV). Original works include literary, dramatic, musical or artistic works. Subject matter other than works includes sound recordings, films, broadcasts and published editions. [^AUTOREPLACEDCAs10ENDREPLACE]
+Copyright protection in the _Copyright Act 1968_ (Cth), (_CA_) is split between original works (Part III) and "subject matter other than works" (Part IV). Original works include literary, dramatic, musical or artistic works. Subject matter other than works includes sound recordings, films, broadcasts and published editions.[^AUTOREPLACEDCAs10ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
@@ -38,7 +38,7 @@ Each of these conditions will be discussed in this chapter.
 
 ## Material Form
 
-An idea becomes a work when it is "first reduced to writing or to some other material form". [^AUTOREPLACEDCAs221ENDREPLACE] The term "writing" means a mode of representing or reproducing words, figures or symbols in a visible form, and “written" has a corresponding meaning. [^AUTOREPLACEDCAs101ENDREPLACE] The term "material form", in relation to a work or an adaptation of a work, includes any form (whether visible or not), of storage of the work or adaptation, or a substantial part of the work or adaptation, (whether or not the work or adaptation, or a substantial part of the work or adaptation, can be reproduced). Material form includes writing in any tangible medium, analogue or digital storage on any electronic or other medium. [^AUTOREPLACEDSeeStarMicronicsPtyLtdvFiveStarComputersPtyLtdhttpclassicaustliieduauaucasescthFCA1990387html199018IPR225ENDREPLACE] [^AUTOREPLACEDCAs101ENDREPLACE] Material form does not include ephemeral manifestations, projections, speech or live music.
+An idea becomes a work when it is "first reduced to writing or to some other material form".[^AUTOREPLACEDCAs221ENDREPLACE] The term "writing" means a mode of representing or reproducing words, figures or symbols in a visible form, and “written" has a corresponding meaning.[^AUTOREPLACEDCAs101ENDREPLACE] The term "material form", in relation to a work or an adaptation of a work, includes any form (whether visible or not), of storage of the work or adaptation, or a substantial part of the work or adaptation, (whether or not the work or adaptation, or a substantial part of the work or adaptation, can be reproduced). Material form includes writing in any tangible medium, analogue or digital storage on any electronic or other medium.[^AUTOREPLACEDSeeStarMicronicsPtyLtdvFiveStarComputersPtyLtdhttpclassicaustliieduauaucasescthFCA1990387html199018IPR225ENDREPLACE][^AUTOREPLACEDCAs101ENDREPLACE] Material form does not include ephemeral manifestations, projections, speech or live music.
 
 [^AUTOREPLACEDCAs221ENDREPLACE]: _CA_ s 22(1)
 
@@ -70,8 +70,7 @@ Copyright protects **expression** fixed in material form. It does not protect id
 
 
 
->"There is a tension in policy between the monopoly rights which are conferred upon the owner of copyright in a literary, dramatic, musical or artistic work on the one hand, and the freedom to express ideas or discuss facts on the other. While there will be an infringement of the copyright of an owner in a literary, dramatic, musical or artistic work where there is a reproduction of that work or a substantial part of it, the fact that another work deals with the same ideas or discusses matters of fact also raised in the work in respect of which copyright is said to subsist will not, of itself, constitute an infringement. Were it otherwise the copyright laws would be an impediment to free speech, rather than an encouragement of original expression". (Hill J)
-[^AUTOREPLACED199636IPR529at531ENDREPLACE]
+>"There is a tension in policy between the monopoly rights which are conferred upon the owner of copyright in a literary, dramatic, musical or artistic work on the one hand, and the freedom to express ideas or discuss facts on the other. While there will be an infringement of the copyright of an owner in a literary, dramatic, musical or artistic work where there is a reproduction of that work or a substantial part of it, the fact that another work deals with the same ideas or discusses matters of fact also raised in the work in respect of which copyright is said to subsist will not, of itself, constitute an infringement. Were it otherwise the copyright laws would be an impediment to free speech, rather than an encouragement of original expression". (Hill J)[^AUTOREPLACED199636IPR529at531ENDREPLACE]
 
 
 [^AUTOREPLACED199636IPR529at531ENDREPLACE]:  (1996) 36 IPR 529 at 531
@@ -90,7 +89,7 @@ Each of these types of works will be considered below.
 
 ### Literary Work
 
-A literary work includes tables, compilations, expressed in words, figures or symbols (whether or not in a visible form), and computer programs or compilations of computer programs. [^AUTOREPLACEDCAs10ENDREPLACE]
+A literary work includes tables, compilations, expressed in words, figures or symbols (whether or not in a visible form), and computer programs or compilations of computer programs.[^AUTOREPLACEDCAs10ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
@@ -118,22 +117,22 @@ Examples of literary works include:
 
 [^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR27ENDREPLACE]: _Ladbroke (Football) Ltd v William Hill (Football) Ltd_ [1964] 1 WLR 27
 
-* A racing programme; [^AUTOREPLACEDMandervOBrien1934SASR87ENDREPLACE]
+* A racing programme;[^AUTOREPLACEDMandervOBrien1934SASR87ENDREPLACE]
 
 
 [^AUTOREPLACEDMandervOBrien1934SASR87ENDREPLACE]: _Mander v O’Brien_ (1934) SASR 87
 
-* Chronological lists of football matches; [^AUTOREPLACEDFootballLeagueLtdvLittlewoodsPoolsLtd1959Ch637ENDREPLACE]
+* Chronological lists of football matches;[^AUTOREPLACEDFootballLeagueLtdvLittlewoodsPoolsLtd1959Ch637ENDREPLACE]
 
 
 [^AUTOREPLACEDFootballLeagueLtdvLittlewoodsPoolsLtd1959Ch637ENDREPLACE]: _Football League Ltd v. Littlewoods Pools Ltd_ [1959] Ch 637
 
-* Lists of bingo numbers; [^AUTOREPLACEDMirrorNewspapersLtdvQueenslandNewspapersLtd1982QdR305ENDREPLACE] and
+* Lists of bingo numbers;[^AUTOREPLACEDMirrorNewspapersLtdvQueenslandNewspapersLtd1982QdR305ENDREPLACE] and
 
 
 [^AUTOREPLACEDMirrorNewspapersLtdvQueenslandNewspapersLtd1982QdR305ENDREPLACE]: _Mirror Newspapers Ltd v Queensland Newspapers Ltd_ [1982] Qd R 305
 
-* Accounting forms. [^AUTOREPLACEDKalamazooAustPtyLtdvCompactBusinessSystemsPtyLtd19855IPR213ENDREPLACE]
+* Accounting forms.[^AUTOREPLACEDKalamazooAustPtyLtdvCompactBusinessSystemsPtyLtd19855IPR213ENDREPLACE]
 
 
 [^AUTOREPLACEDKalamazooAustPtyLtdvCompactBusinessSystemsPtyLtd19855IPR213ENDREPLACE]: _Kalamazoo (Aust.) Pty Ltd v Compact Business Systems Pty Ltd_ (1985) 5 IPR 213
@@ -271,7 +270,7 @@ It was held that there was no infringement of copyright except for the use of a 
 
 ### Dramatic Work
 
-Dramatic work includes choreographic shows, scenarios or scripts for a cinematograph films. [^AUTOREPLACEDCAs101ENDREPLACE] Dramatic work does not include a cinematograph film this form of expression is distinct from the scenario or script for a cinematograph film.
+Dramatic work includes choreographic shows, scenarios or scripts for a cinematograph films.[^AUTOREPLACEDCAs101ENDREPLACE] Dramatic work does not include a cinematograph film this form of expression is distinct from the scenario or script for a cinematograph film.
 
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
@@ -319,7 +318,7 @@ Lyrics to musical works are also covered under "literary works".
 
 ### Artistic Work
 
-Artistic work includes paintings, sculptures, drawings, engravings or photographs, buildings or a models of a buildings [^AUTOREPLACEDCAs101ENDREPLACE] The artistic quality of the work is not a consideration, copyright will subsist in these creations regardless of quality. Artistic work also includes artistic craftsmanship. The definition of artistic works does not apply to a circuit layout within the meaning of the *Circuit Layouts Act 1989* (Cth).
+Artistic work includes paintings, sculptures, drawings, engravings or photographs, buildings or a models of a buildings[^AUTOREPLACEDCAs101ENDREPLACE] The artistic quality of the work is not a consideration, copyright will subsist in these creations regardless of quality. Artistic work also includes artistic craftsmanship. The definition of artistic works does not apply to a circuit layout within the meaning of the *Circuit Layouts Act 1989* (Cth).
 
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
 
@@ -337,7 +336,7 @@ Held, although there was no statutory definition of "painting", it is a word in 
 
 #### Copyright in Drawings
 
-Drawing is defined as including "a diagram, map, chart or plan".[^AUTOREPLACEDCAs101ENDREPLACE] Architects' plans are considered artistic works. [^AUTOREPLACEDAncherMortlockMurraryWoolleyPtyLtdvHookerHomesPtyLtdENDREPLACE]
+Drawing is defined as including "a diagram, map, chart or plan".[^AUTOREPLACEDCAs101ENDREPLACE] Architects' plans are considered artistic works.[^AUTOREPLACEDAncherMortlockMurraryWoolleyPtyLtdvHookerHomesPtyLtdENDREPLACE]
 
 
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
@@ -347,7 +346,7 @@ Drawing is defined as including "a diagram, map, chart or plan".[^AUTOREPLACEDCA
 
 #### Copyright in Sculptures
 
-'Sculpture' includes a cast or model made for purposes of sculpture. [^AUTOREPLACEDCAs101ENDREPLACE]
+'Sculpture' includes a cast or model made for purposes of sculpture.[^AUTOREPLACEDCAs101ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
@@ -365,7 +364,7 @@ Held: Industrial moulds to make twin cartridges like double-barrelled syringes w
 
 #### Copyright in Buildings
 
-Building includes a structure of any kind. [^AUTOREPLACEDCAs101ENDREPLACE]
+Building includes a structure of any kind.[^AUTOREPLACEDCAs101ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs101ENDREPLACE]: _CA_ s 10(1)
@@ -390,7 +389,7 @@ The term "artistic craftsmanship" is not defined in the _Act_. This is the only 
 
 The traditional test is whether the author in making the article had the main object of creating an article which will have a substantial appeal to the aesthetic tastes of those who observe them.
 
-The two elements (artistic and craftsmanship) must be united in the same person. [^AUTOREPLACEDBurkeMargotBurkeLtdvSpicersDressDesigns1936Ch400ENDREPLACE]
+The two elements (artistic and craftsmanship) must be united in the same person.[^AUTOREPLACEDBurkeMargotBurkeLtdvSpicersDressDesigns1936Ch400ENDREPLACE]
 
 
 [^AUTOREPLACEDBurkeMargotBurkeLtdvSpicersDressDesigns1936Ch400ENDREPLACE]: _Burke & Margot Burke Ltd v Spicers Dress Designs_ [1936] Ch 400
@@ -417,7 +416,7 @@ Lord Morris: "although the intention of the author may provide an indication as 
 Lord Reid: "An item will have aesthetic appeal if a substantial section of the public genuinely admires and values it for its appearance and gets pleasure or satisfaction, whether emotional or intellectual from looking at it, even though others may think it meaningless or vulgar".
 </div>
 
-A work of artistic craftsmanship may be mass produced. Factory based products can be works of artistic craftsmanship – they need not be handmade, although the author must use a highly sophisticated machine with creative skill, knowledge, and pride in workmanship. A work of artistic craftsmanship need not be the product of a single person. This was considered in the case of _Coogi Australia Pty Ltd v Hysport International Pty Ltd_. [^AUTOREPLACED199886FCR154ENDREPLACE]
+A work of artistic craftsmanship may be mass produced. Factory based products can be works of artistic craftsmanship – they need not be handmade, although the author must use a highly sophisticated machine with creative skill, knowledge, and pride in workmanship. A work of artistic craftsmanship need not be the product of a single person. This was considered in the case of _Coogi Australia Pty Ltd v Hysport International Pty Ltd_.[^AUTOREPLACED199886FCR154ENDREPLACE]
 
 
 [^AUTOREPLACED199886FCR154ENDREPLACE]:  (1998) 86 FCR 154
@@ -656,33 +655,33 @@ Following IceTV, it is important to identify an author and the independent intel
 
 ### Unpublished Works
 
-For unpublished works, the author must be a qualified person at the time it was made. [^AUTOREPLACEDCAs321ENDREPLACE]
+For unpublished works, the author must be a qualified person at the time it was made.[^AUTOREPLACEDCAs321ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs321ENDREPLACE]: _CA_ s 32(1)
 
-* If the making of the work extends over a period, the author must be a qualified person for a substantial part of that period [^AUTOREPLACEDCAs321ENDREPLACE]
+* If the making of the work extends over a period, the author must be a qualified person for a substantial part of that period[^AUTOREPLACEDCAs321ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs321ENDREPLACE]: _CA_ s 32(1)
 
-* A qualified person is an Australian citizen, an Australian protected person, or a person resident in Australia. [^AUTOREPLACEDCAs324ENDREPLACE]
+* A qualified person is an Australian citizen, an Australian protected person, or a person resident in Australia.[^AUTOREPLACEDCAs324ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs324ENDREPLACE]: _CA_ s 32(4)
 
 ### Published Works
 
-In terms of published works, the work must meet a specific criteria. [^AUTOREPLACEDCAs322ENDREPLACE]
+In terms of published works, the work must meet a specific criteria.[^AUTOREPLACEDCAs322ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs322ENDREPLACE]: _CA_ s 32(2)
 
-The work must be first published in Australia or the author must be a qualified person when the work was first published. A qualified person is an Australian citizen, an Australian protected person, or a person resident in Australia, [^AUTOREPLACEDCAs324ENDREPLACE]
+The work must be first published in Australia or the author must be a qualified person when the work was first published. A qualified person is an Australian citizen, an Australian protected person, or a person resident in Australia,[^AUTOREPLACEDCAs324ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs324ENDREPLACE]: _CA_ s 32(4)
-A work is deemed to have been published if reproductions have been supplied to the public. [^AUTOREPLACEDCAs291aENDREPLACE]
+A work is deemed to have been published if reproductions have been supplied to the public.[^AUTOREPLACEDCAs291aENDREPLACE]
 
 
 [^AUTOREPLACEDCAs291aENDREPLACE]: _CA_ s 29(1)(a)
@@ -690,7 +689,7 @@ A work is deemed to have been published if reproductions have been supplied to t
 
 ### International Reciprocity (Principle of National Treatment)
 
-In practice, works first published internationally will be treated in the same way as Australian works. This applies only to countries who are a signatory to the _Berne Convention_, (Berne Convention countries). [^AUTOREPLACEDCopyrightInternationalProtectionRegulations1969reg4ENDREPLACE]
+In practice, works first published internationally will be treated in the same way as Australian works. This applies only to countries who are a signatory to the _Berne Convention_, (Berne Convention countries).[^AUTOREPLACEDCopyrightInternationalProtectionRegulations1969reg4ENDREPLACE]
 
 
 [^AUTOREPLACEDCopyrightInternationalProtectionRegulations1969reg4ENDREPLACE]: _Copyright (International Protection) Regulations 1969_ reg 4

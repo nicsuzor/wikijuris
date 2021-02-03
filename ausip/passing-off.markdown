@@ -30,7 +30,7 @@ Business reputation can be protected in a number of ways:
 * Tort of injurious falsehood
 * Misrepresentation (misleading & deceptive conduct)
 
-The core of passing off is trying to stop another trader from linking their product to that of another trader if it causes or is likely to cause the other trader's business some damage. [^AUTOREPLACEDConAgraIncvMcCainFoodsAustPtyLtd199223IPR193at233ENDREPLACE] Passing off seeks to stop a person from associating themselves with the trader and taking some of their goodwill for themselves, either overtly or covertly, by implication or directly.
+The core of passing off is trying to stop another trader from linking their product to that of another trader if it causes or is likely to cause the other trader's business some damage.[^AUTOREPLACEDConAgraIncvMcCainFoodsAustPtyLtd199223IPR193at233ENDREPLACE] Passing off seeks to stop a person from associating themselves with the trader and taking some of their goodwill for themselves, either overtly or covertly, by implication or directly.
 
 [^AUTOREPLACEDConAgraIncvMcCainFoodsAustPtyLtd199223IPR193at233ENDREPLACE]: *ConAgra Inc v McCain Foods (Aust) Pty Ltd* (1992) 23 IPR 193 at 233
 
@@ -217,7 +217,7 @@ Held:  On appeal from the Federal Court to the Full Federal Court  it was held t
 
 A misrepresentation in passing off refers to conduct on the part of the trader which relies on the reputation or goodwill of the plaintiff usually by misrepresenting some sort of connection with the plaintiff’s business, goods or services and results in consumers coming to an erroneous conclusion about or being confused about a connection between the goods/services of that traders and those of another trader.
 
-It is necessary to show that the defendant's conduct caused customers to be deceived. The misrepresentation must be capable of causing deception or foreseeable cause deception. [^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE] The misrepresentation may be express or implied, but it will usually be implied. Whether or not there has been a misrepresentation is ultimately question of fact for the court to determine. It is a matter of impression and there is no determinative factor that the court will necessarily turn to answer the question.[^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE]
+It is necessary to show that the defendant's conduct caused customers to be deceived. The misrepresentation must be capable of causing deception or foreseeable cause deception.[^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE] The misrepresentation may be express or implied, but it will usually be implied. Whether or not there has been a misrepresentation is ultimately question of fact for the court to determine. It is a matter of impression and there is no determinative factor that the court will necessarily turn to answer the question.[^AUTOREPLACEDInterlegoAgvCronerTradingPtyLtd199239FCR348ENDREPLACE]
 
 
 [^AUTOREPLACEDAGSpaldingvGamage191532RPC273ENDREPLACE]: *AG Spalding v Gamage* (1915) 32 RPC 273
@@ -344,7 +344,7 @@ Survey evidence will not be admissible to establish whether potential consumers 
 
 ## Element 3: Damage
 
-There is no requirement that actual damage be shown, only a *likelihood of damage* - a real and tangible risk of damage. [^AUTOREPLACEDHendersonvRadioCorporationENDREPLACE] Moreover, damage must only really be established if the plaintiff wants more than nominal damages or an injunction – ie where the plaintiff is seeking damages or an account of profits.  Where the first two elements have been established in an action for passing off, damage will often be presumed. Damage must be by reason of an erroneous belief engendered by the defendant’s misrepresentation that the source of the defendant’s goods or services is the same as the source of those offered by the plaintiff.
+There is no requirement that actual damage be shown, only a *likelihood of damage* - a real and tangible risk of damage.[^AUTOREPLACEDHendersonvRadioCorporationENDREPLACE] Moreover, damage must only really be established if the plaintiff wants more than nominal damages or an injunction – ie where the plaintiff is seeking damages or an account of profits.  Where the first two elements have been established in an action for passing off, damage will often be presumed. Damage must be by reason of an erroneous belief engendered by the defendant’s misrepresentation that the source of the defendant’s goods or services is the same as the source of those offered by the plaintiff.
 
 [^AUTOREPLACEDHendersonvRadioCorporationENDREPLACE]: *Henderson v Radio Corporation*
 

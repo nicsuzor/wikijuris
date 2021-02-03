@@ -42,7 +42,7 @@ The following video provides a brief overview of the copyright duration, also kn
 
 **Video overview by Kylie Pappalardo on [Copyright Duration](https://www.youtube.com/watch?v=cCA_Ab0kZa4).** **Note this video does not include the updated provisions as of 2019**
 
-Since the requirements of the _AUSFTA_ were introduced, the duration of copyright for published literary, dramatic, musical, and artistic works is 70 years after the death of the author. [^AUTOREPLACEDCAs33ENDREPLACE] Works that are classified as sound recordings and cinematograph films are protected by copyright for 70 years from the year of publication. [^AUTOREPLACEDCAs93ENDREPLACE] The remainder of the copyright duration provisions are for terms less than 70 years. For Crown copyright works, the duration is 50 years from the date of creation. Similarly, copyright protection in broadcasts lasts for 50 years from the year the broadcast was first made. [^AUTOREPLACEDCAs95ENDREPLACE] Lastly, the duration of copyright protection in published editions is 25 years from year of first publication. [^AUTOREPLACEDCAs96CthENDREPLACE]
+Since the requirements of the _AUSFTA_ were introduced, the duration of copyright for published literary, dramatic, musical, and artistic works is 70 years after the death of the author.[^AUTOREPLACEDCAs33ENDREPLACE] Works that are classified as sound recordings and cinematograph films are protected by copyright for 70 years from the year of publication.[^AUTOREPLACEDCAs93ENDREPLACE] The remainder of the copyright duration provisions are for terms less than 70 years. For Crown copyright works, the duration is 50 years from the date of creation. Similarly, copyright protection in broadcasts lasts for 50 years from the year the broadcast was first made.[^AUTOREPLACEDCAs95ENDREPLACE] Lastly, the duration of copyright protection in published editions is 25 years from year of first publication.[^AUTOREPLACEDCAs96CthENDREPLACE]
 
 
 [^AUTOREPLACEDCAs33ENDREPLACE]: _CA_ s 33
@@ -75,7 +75,7 @@ For copyright material first made public before 1 January 2019 the copyright con
 
 For copyright material never made public, and material first made public on or after 1 January 2019 the new duration provisions are:
 
-  * If the subject matter other than works is first made public before the end of 50 years after the calendar year in which the material was made, the copyright continues to subsist until 70 years after the calendar year in which the material was first made public. [^AUTOREPLACEDCAs933ENDREPLACE]
+  * If the subject matter other than works is first made public before the end of 50 years after the calendar year in which the material was made, the copyright continues to subsist until 70 years after the calendar year in which the material was first made public.[^AUTOREPLACEDCAs933ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs933ENDREPLACE]: _CA_ s 93(3)

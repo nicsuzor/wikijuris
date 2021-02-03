@@ -17,7 +17,7 @@ grand_parent: Australian IP Law
 ## Ownership and Exploitation
 
 ### Exclusive Rights of Patentee
-The patentee has the right to ‘exploit’ the invention. [^AUTOREPLACEDs131ENDREPLACE] 'Exploit' is defined in Schedule 1 to mean:
+The patentee has the right to ‘exploit’ the invention.[^AUTOREPLACEDs131ENDREPLACE] 'Exploit' is defined in Schedule 1 to mean:
 
 
 [^AUTOREPLACEDs131ENDREPLACE]: s 13(1)
@@ -25,20 +25,20 @@ The patentee has the right to ‘exploit’ the invention. [^AUTOREPLACEDs131END
 * In relation to a product: ‘to make, use, sell or otherwise dispose of the product’ or offer to do so, or ‘import it or keep it for the purpose’ of doing so;
 * In relation to a process/method: to use the process.
 
-The rights granted to a patentee are considered personal property. [^AUTOREPLACEDs132ENDREPLACE]
+The rights granted to a patentee are considered personal property.[^AUTOREPLACEDs132ENDREPLACE]
 
 
 [^AUTOREPLACEDs132ENDREPLACE]: s 13(2)
 
 ### Ownership
-Ownership, within s6 of the *Statute of Monopolies* traditionally referred to the ‘first and true inventor’, which included the person who first introduced the invention into the realm. [^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE] This definition of ownership is not the case today. Pursuant to the _Patents Act 1990_ (Cth), an inventor has a right to apply for a patent, but a person can also acquire rights to an invention. Rights can be acquires through the course of employment or by purchasing the right. [^AUTOREPLACEDs15ENDREPLACE] Mere importation is no longer sufficient to apply for a patent.
+Ownership, within s6 of the *Statute of Monopolies* traditionally referred to the ‘first and true inventor’, which included the person who first introduced the invention into the realm.[^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE] This definition of ownership is not the case today. Pursuant to the _Patents Act 1990_ (Cth), an inventor has a right to apply for a patent, but a person can also acquire rights to an invention. Rights can be acquires through the course of employment or by purchasing the right.[^AUTOREPLACEDs15ENDREPLACE] Mere importation is no longer sufficient to apply for a patent.
 
 [^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE]: E_dgeberry v Stephens* (1693)_ 2 Salk 447
 
 [^AUTOREPLACEDs15ENDREPLACE]: s 15
 
 
-There can be joint inventors of a patent. [^AUTOREPLACEDs31ENDREPLACE] Joint inventors take the patent as tenants in common [^AUTOREPLACEDs161aENDREPLACE] Each is entitled to work the invention without accounting to the others [^AUTOREPLACEDs161bENDREPLACE] However, all joint inventors must consent to the grant of a licence or assignment of an interest. (s 16(1)(c) )) The  Commissioner of Patents will be engaged to resolve instances of dispute between co-owners of a patent. [^AUTOREPLACEDs17ENDREPLACE]
+There can be joint inventors of a patent.[^AUTOREPLACEDs31ENDREPLACE] Joint inventors take the patent as tenants in common[^AUTOREPLACEDs161aENDREPLACE] Each is entitled to work the invention without accounting to the others[^AUTOREPLACEDs161bENDREPLACE] However, all joint inventors must consent to the grant of a licence or assignment of an interest. (s 16(1)(c) )) The  Commissioner of Patents will be engaged to resolve instances of dispute between co-owners of a patent.[^AUTOREPLACEDs17ENDREPLACE]
 
 
 [^AUTOREPLACEDs31ENDREPLACE]: s 31
@@ -56,12 +56,12 @@ There can be joint inventors of a patent. [^AUTOREPLACEDs31ENDREPLACE] Joint inv
 
 
 ### Employee Inventions
-Ownership of employee inventions vests in employers where there is an express term in the employment contract. Any express term should not be so wide as to constitute a restraint of trade. [^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE] In _Electrolux_, an adaptor to fit a bag to a vacuum cleaner was invented by a storekeeper and the terms of his employment had nothing to do with inventing in relation to vacuum cleaners.
+Ownership of employee inventions vests in employers where there is an express term in the employment contract. Any express term should not be so wide as to constitute a restraint of trade.[^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE] In _Electrolux_, an adaptor to fit a bag to a vacuum cleaner was invented by a storekeeper and the terms of his employment had nothing to do with inventing in relation to vacuum cleaners.
 
 [^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE]: _Electrolux Ltd v Hudson_ [1977] FSR 312
 
 
-Ownership can also vest in employers by way of implied terms. Where employees are engaged to use their inventive faculty, they will be considered to be doing work they are paid to do. In these instances, the benefits to the employer include the rights to invention. [^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE]
+Ownership can also vest in employers by way of implied terms. Where employees are engaged to use their inventive faculty, they will be considered to be doing work they are paid to do. In these instances, the benefits to the employer include the rights to invention.[^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE]
 
 
 [^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE]: _UWA v Gray_ (2009) 82 IPR 206
@@ -69,7 +69,7 @@ Ownership can also vest in employers by way of implied terms. Where employees ar
 ## Ownership and Exploitation: Assignment and Licensing
 
 ### Assignment
-Patents are considered personal property. [^AUTOREPLACEDs132ENDREPLACE] The rights conferred to a patent owner/s are the exclusive rights to exploit the invention.[^AUTOREPLACEDs13ENDREPLACE] Patents can be bought, sold, traded, assigned or licensed. An assignment must be in writing signed by or on behalf of the assignor and assignee. [^AUTOREPLACEDs141ENDREPLACE] A patent may be assigned for a place in, or part of, the patent area. [^AUTOREPLACEDs142ENDREPLACE] The patent right can be divided up geographically (e.g. in different states in Australia).
+Patents are considered personal property.[^AUTOREPLACEDs132ENDREPLACE] The rights conferred to a patent owner/s are the exclusive rights to exploit the invention.[^AUTOREPLACEDs13ENDREPLACE] Patents can be bought, sold, traded, assigned or licensed. An assignment must be in writing signed by or on behalf of the assignor and assignee.[^AUTOREPLACEDs141ENDREPLACE] A patent may be assigned for a place in, or part of, the patent area.[^AUTOREPLACEDs142ENDREPLACE] The patent right can be divided up geographically (e.g. in different states in Australia).
 
 [^AUTOREPLACEDs132ENDREPLACE]: s 13(2)
 
@@ -80,7 +80,7 @@ Patents are considered personal property. [^AUTOREPLACEDs132ENDREPLACE] The righ
 [^AUTOREPLACEDs142ENDREPLACE]: s 14(2
 
 
-There is a possibility of unregistered equitable interests in a patent. [^AUTOREPLACEDStackvBrisbaneCityCouncil199635IPR297at299ss1893and196biiENDREPLACE] Pursuant to s 189(3), in some instances, "equities in relation to a patent may be enforced against the patentee except to the prejudice of a purchaser in good faith for value".
+There is a possibility of unregistered equitable interests in a patent.[^AUTOREPLACEDStackvBrisbaneCityCouncil199635IPR297at299ss1893and196biiENDREPLACE] Pursuant to s 189(3), in some instances, "equities in relation to a patent may be enforced against the patentee except to the prejudice of a purchaser in good faith for value".
 
 [^AUTOREPLACEDStackvBrisbaneCityCouncil199635IPR297at299ss1893and196biiENDREPLACE]: _Stack v Brisbane City Council_ (1996) 35 IPR 297 at 299; ss 189(3) and 196(b)(ii
 
@@ -88,14 +88,14 @@ There is a possibility of unregistered equitable interests in a patent. [^AUTORE
 The assignment sale of patent right gives the  assignee rights to the patent. Once complete, the assignee owns the patent and the assignor has no residual rights. The details of the assignment must be recorded on the patent register.  
 
 ### Licenses
-License provide permissions for others to make use of the patent.  For patents owned jointly, all co-owners must consent the grant of a licence. [^AUTOREPLACEDs161cENDREPLACE] Licences do not need to be in writing (but should be for evidentiary reasons)). Licences should be registered. [^AUTOREPLACEDss187195196ENDREPLACE] Licences can be contractually supported by consideration and for a particular term or can be bear licences determined by will of the licensor.
+License provide permissions for others to make use of the patent.  For patents owned jointly, all co-owners must consent the grant of a licence.[^AUTOREPLACEDs161cENDREPLACE] Licences do not need to be in writing (but should be for evidentiary reasons)). Licences should be registered.[^AUTOREPLACEDss187195196ENDREPLACE] Licences can be contractually supported by consideration and for a particular term or can be bear licences determined by will of the licensor.
 
 [^AUTOREPLACEDs161cENDREPLACE]: s 16(1)(c)
 
 [^AUTOREPLACEDss187195196ENDREPLACE]: ss 187, 195, 196
 
 
-A licensee may terminate the licence agreement even if it is still in force at the time the patent expires. [^AUTOREPLACEDs145ENDREPLACE]
+A licensee may terminate the licence agreement even if it is still in force at the time the patent expires.[^AUTOREPLACEDs145ENDREPLACE]
 
 
 [^AUTOREPLACEDs145ENDREPLACE]: s 145
@@ -119,14 +119,14 @@ Licence may be exclusive, sole or non-exclusive.
 
 There can also be implied licences, for example a purchaser's right to use a patented product, or a purchaser's right to repair a patented product. Such uses will not breach the patent.
 
-Compulsory licences also exist under the _Act_. A court application is required to evoke compulsory licenses. These arise where a patentee has failed to exploit the patent in the patent territory. [^AUTOREPLACEDss1332135and144ENDREPLACE]
+Compulsory licences also exist under the _Act_. A court application is required to evoke compulsory licenses. These arise where a patentee has failed to exploit the patent in the patent territory.[^AUTOREPLACEDss1332135and144ENDREPLACE]
 
 
 [^AUTOREPLACEDss1332135and144ENDREPLACE]: ss 133(2), 135 and 144
 
 **Exclusive Licences**
 
-An exclusive licensee may commence infringement proceedings. [^AUTOREPLACEDs1201ENDREPLACE] The licensee must join the patentee as a party as co-plaintiff (joint legal representation) or as a defendant. [^AUTOREPLACEDs1202ENDREPLACE]
+An exclusive licensee may commence infringement proceedings.[^AUTOREPLACEDs1201ENDREPLACE] The licensee must join the patentee as a party as co-plaintiff (joint legal representation) or as a defendant.[^AUTOREPLACEDs1202ENDREPLACE]
 
 
 [^AUTOREPLACEDs1201ENDREPLACE]: s 120(1)
@@ -134,24 +134,24 @@ An exclusive licensee may commence infringement proceedings. [^AUTOREPLACEDs1201
 [^AUTOREPLACEDs1202ENDREPLACE]: s 120(2)
 
 
-An exclusive licensee means a licensee under a licence granted by the patentee and conferring on the licensee, or on the licensee and persons authorised by the licensee, the right to exploit the patented invention throughout the patent area to the exclusion of the patentee and all other persons. [^AUTOREPLACEDExparteBritishNylonSpinners1963109CLR336ENDREPLACE]
+An exclusive licensee means a licensee under a licence granted by the patentee and conferring on the licensee, or on the licensee and persons authorised by the licensee, the right to exploit the patented invention throughout the patent area to the exclusion of the patentee and all other persons.[^AUTOREPLACEDExparteBritishNylonSpinners1963109CLR336ENDREPLACE]
 
 
 [^AUTOREPLACEDExparteBritishNylonSpinners1963109CLR336ENDREPLACE]: *Ex parte British Nylon Spinners* (1963) 109 CLR 336
 
-Multiple exclusive licenses for patents in respect of different uses of the invention are not permitted. [^AUTOREPLACEDBristolMyersSquibbCompanyvApotexPtyLtdNo52013FCA1114425439perYatesJENDREPLACE]
+Multiple exclusive licenses for patents in respect of different uses of the invention are not permitted.[^AUTOREPLACEDBristolMyersSquibbCompanyvApotexPtyLtdNo52013FCA1114425439perYatesJENDREPLACE]
 
 
 [^AUTOREPLACEDBristolMyersSquibbCompanyvApotexPtyLtdNo52013FCA1114425439perYatesJENDREPLACE]: *Bristol-Myers Squibb Company v Apotex Pty Ltd (No 5)* [2013] FCA 1114, [425]-[439] per Yates J
 
 ## Infringement
 
-Patent infringement proceedings are outlined in s120 of the _Act_. Proceedings can be commenced by a patentee or exclusive licensee, although an exclusive licensee must join the patentee as a defendant or plaintiff. [^AUTOREPLACEDs1202ENDREPLACE]) 'Infringement' is not defined by the _Act_ however is considered to occur when a person exercises one of the exclusive rights of the patentee without their consent. The concepts of knowledge and intent are not elements of patent infringement. Infringement depends purely on whether a person other than the patentee, licensee or someone authorised is exploiting the exclusive rights of the patentee.
+Patent infringement proceedings are outlined in s120 of the _Act_. Proceedings can be commenced by a patentee or exclusive licensee, although an exclusive licensee must join the patentee as a defendant or plaintiff.[^AUTOREPLACEDs1202ENDREPLACE]) 'Infringement' is not defined by the _Act_ however is considered to occur when a person exercises one of the exclusive rights of the patentee without their consent. The concepts of knowledge and intent are not elements of patent infringement. Infringement depends purely on whether a person other than the patentee, licensee or someone authorised is exploiting the exclusive rights of the patentee.
 
 
 [^AUTOREPLACEDs1202ENDREPLACE]: s120(2
 
-As noted previously, the exclusive rights of the patentee are to exploit the invention; including using, selling or making the invention [^AUTOREPLACEDs13Sch1ENDREPLACE]. These exclusive rights commence on publication of the complete specification. [^AUTOREPLACEDs571ENDREPLACE] Infringement proceedings can only be commenced once the patent is granted. [^AUTOREPLACEDs573ENDREPLACE]
+As noted previously, the exclusive rights of the patentee are to exploit the invention; including using, selling or making the invention[^AUTOREPLACEDs13Sch1ENDREPLACE]. These exclusive rights commence on publication of the complete specification.[^AUTOREPLACEDs571ENDREPLACE] Infringement proceedings can only be commenced once the patent is granted.[^AUTOREPLACEDs573ENDREPLACE]
 
 
 [^AUTOREPLACEDs13Sch1ENDREPLACE]: s 13, Sch 1
@@ -161,23 +161,23 @@ As noted previously, the exclusive rights of the patentee are to exploit the inv
 [^AUTOREPLACEDs573ENDREPLACE]: s 57(3)
 
 
-Proceedings must be started within the later of 3 years of the patent being granted, or 6 years from the date of the infringing act.  [^AUTOREPLACEDs1204ENDREPLACE]
+Proceedings must be started within the later of 3 years of the patent being granted, or 6 years from the date of the infringing act.[^AUTOREPLACEDs1204ENDREPLACE]
 
 
 [^AUTOREPLACEDs1204ENDREPLACE]: s 120(4)
 
 ### Test for Infringement
 
-A literal interpretation of the patent claims will not always suffice. [^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]
+A literal interpretation of the patent claims will not always suffice.[^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]
 This is known as the 'pith and marrow' (purposive) approach.
-The test for infringement is whether all essential integers (elements) of the patent have been taken - this is a question of fact. [^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE][^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]: *Populin v HB Nominees Pty Ltd*
+The test for infringement is whether all essential integers (elements) of the patent have been taken - this is a question of fact.[^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE][^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]: *Populin v HB Nominees Pty Ltd*
 
 
 [^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE]: *Rodi & Wienenberger AG v Henry Showell Ltd*
 
 #### Pith and Marrow  
 
-The pith and marrow refers to the 'essence and substance' of the invention. [^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE] Whilst this phrase is rarely used in modern patent law cases, the phrase is intended to refer to the "novel features only that [the patentee] claims to be essential", these are the essential integers of the patent claim. [^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]
+The pith and marrow refers to the 'essence and substance' of the invention.[^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE] Whilst this phrase is rarely used in modern patent law cases, the phrase is intended to refer to the "novel features only that [the patentee] claims to be essential", these are the essential integers of the patent claim.[^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]
 
 
 [^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE]: _Clark v Adie_ (1875) 10 Ch App 667
@@ -208,7 +208,7 @@ Section 117 of the _Act_ outlines the doctrine of contributory infringement.
 	* (b)  if the product is not a staple commercial product any use of the product, if the supplier had reason to believe that the person would put it to that use; or
 	* (c)  in any case the use of the product in accordance with any instructions for the use of the product, or any inducement to use the product, given to the person by the supplier or contained in an advertisement published by or with the authority of the supplier.
 
-The mere completion of supply of the patentable product amounts to infringement. It is immaterial whether the product is put to an infringing use. [^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]
+The mere completion of supply of the patentable product amounts to infringement. It is immaterial whether the product is put to an infringing use.[^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]
 
 
 [^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]: _Collins v Northern Territory_ (2007) 161 FCR 549, [61] French J; _Generic Health Pty Ltd v Otsuka Pharmaceutical Co Ltd_ (2013) 296 ALR 50, [140]
@@ -257,14 +257,14 @@ Focuses on the invention, patent, or infringement of the patent – doesn’t ex
 ### Remedies for Infringement
 Remedies for infringement are contained in ss 122 and 123.  A court may grant an injunction (on any terms the court deems fit) or, at the option of the plaintiff, either damages or an account of profits.
 
-The court may order infringing articles to be delivered up for destruction or issues Anton Piller orders (to preserve evidence). The court may "refuse to award damages, or to make an order for an account of profits, in respect of an infringement of a patent" if the infringement is considered an innocent infringement. [^AUTOREPLACEDs1231ENDREPLACE]
+The court may order infringing articles to be delivered up for destruction or issues Anton Piller orders (to preserve evidence). The court may "refuse to award damages, or to make an order for an account of profits, in respect of an infringement of a patent" if the infringement is considered an innocent infringement.[^AUTOREPLACEDs1231ENDREPLACE]
 
 
 [^AUTOREPLACEDs1231ENDREPLACE]: s 123(1)
 
 ### Other Remedies
 
-A non-infringment declaration can be awarded. [^AUTOREPLACEDss125127ENDREPLACE] These remedies can only be sought in respect of specified granted patents or certified innovation patents. [^AUTOREPLACEDs1252ENDREPLACE] The patentee must be joined as a respondent to these proceedings. [^AUTOREPLACEDs1253ENDREPLACE] The applicant must first notify the patentee with full written particulars of the use or proposed use, and patentee must fail to admit that the use would not infringe before bringing non-infringement declaration (designed to prevent non-essential litigation). [^AUTOREPLACEDs126ENDREPLACE] A potential defendant can approach the court to seek a declaration if their actions don’t infringe a registered patent.
+A non-infringment declaration can be awarded.[^AUTOREPLACEDss125127ENDREPLACE] These remedies can only be sought in respect of specified granted patents or certified innovation patents.[^AUTOREPLACEDs1252ENDREPLACE] The patentee must be joined as a respondent to these proceedings.[^AUTOREPLACEDs1253ENDREPLACE] The applicant must first notify the patentee with full written particulars of the use or proposed use, and patentee must fail to admit that the use would not infringe before bringing non-infringement declaration (designed to prevent non-essential litigation).[^AUTOREPLACEDs126ENDREPLACE] A potential defendant can approach the court to seek a declaration if their actions don’t infringe a registered patent.
 
 [^AUTOREPLACEDss125127ENDREPLACE]: ss 125-127
 
@@ -275,7 +275,7 @@ A non-infringment declaration can be awarded. [^AUTOREPLACEDss125127ENDREPLACE] 
 [^AUTOREPLACEDs126ENDREPLACE]: s 126
 
 
-A counterclaim for revocation of the patent can be brought by the alleged infringer. [^AUTOREPLACEDs121ENDREPLACE]  A respondent may allege a patent is not valid and ask for revocation of the patent. This is available since the validity of patent is not guaranteed. [^AUTOREPLACEDs20ENDREPLACE] A patentee whose claims survive a challenge to their validity in litigation may apply for a certificate of validity pursuant to s 19. The certificate outlines that the claim has been challenged and survive. This can be used in the future – and provides a judge further opportunity to grant an order for costs.
+A counterclaim for revocation of the patent can be brought by the alleged infringer.[^AUTOREPLACEDs121ENDREPLACE]  A respondent may allege a patent is not valid and ask for revocation of the patent. This is available since the validity of patent is not guaranteed.[^AUTOREPLACEDs20ENDREPLACE] A patentee whose claims survive a challenge to their validity in litigation may apply for a certificate of validity pursuant to s 19. The certificate outlines that the claim has been challenged and survive. This can be used in the future – and provides a judge further opportunity to grant an order for costs.
 
 
 [^AUTOREPLACEDs121ENDREPLACE]: s 121
@@ -294,7 +294,7 @@ The provisions dealing with unjustified threats are contained in Part 3, Chapter
 * (b) an injunction against the continuance of the threats;
 * (c) the recovery of any damages sustained by the applicant as a result of the threats.
 
-However, mere notification of the existence of a patent or a patent application is not a threat for the purposes of s128. [^AUTOREPLACEDs131ENDREPLACE]
+However, mere notification of the existence of a patent or a patent application is not a threat for the purposes of s128.[^AUTOREPLACEDs131ENDREPLACE]
 
 
 [^AUTOREPLACEDs131ENDREPLACE]: s131

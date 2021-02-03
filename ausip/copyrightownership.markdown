@@ -31,7 +31,7 @@ A copyright owner has exclusive rights in their work. This means that if anybody
 
 ## Ownership of Original (Part III) Works
 
-For Part III works, the general rule is that the author of the work is the first owner of copyright. [^AUTOREPLACEDCAs352ENDREPLACE] Copyright ownership can be modified by contract, and in practice it is often done so. For example, authors of books may transfer copyright ownership of their book to their publisher in the publishing contract, or a recording artists may transfer copyright in the songs they write to their record company. A transfer of copyright ownership is called an "assignment". This practice means that the creator (author) of a copyright work and the owner of a copyright work may in fact be different people.
+For Part III works, the general rule is that the author of the work is the first owner of copyright.[^AUTOREPLACEDCAs352ENDREPLACE] Copyright ownership can be modified by contract, and in practice it is often done so. For example, authors of books may transfer copyright ownership of their book to their publisher in the publishing contract, or a recording artists may transfer copyright in the songs they write to their record company. A transfer of copyright ownership is called an "assignment". This practice means that the creator (author) of a copyright work and the owner of a copyright work may in fact be different people.
 
 [^AUTOREPLACEDCAs352ENDREPLACE]: _CA_ s 35(2)
 
@@ -54,7 +54,7 @@ Each of these will be considered in turn.
 
 ### Work Produced in the Course of Employment
 
-Where a creator is working under a contract of employment, the rule is that the employer owns copyright of works produced in the course of employment. [^AUTOREPLACEDCAs356ENDREPLACE] The creator must be working under a contract *of* service, as distinguished from a contract *for* services. In other words, they must be an employee and not an independent contractor.  Additionally, a person employed as a consultant retains copyright in the work he/she produces, subject to contrary express agreement. [^AUTOREPLACEDOceanroutesAustraliaPtyLtdvMCLamond1984AIPC90ENDREPLACE]
+Where a creator is working under a contract of employment, the rule is that the employer owns copyright of works produced in the course of employment.[^AUTOREPLACEDCAs356ENDREPLACE] The creator must be working under a contract *of* service, as distinguished from a contract *for* services. In other words, they must be an employee and not an independent contractor.  Additionally, a person employed as a consultant retains copyright in the work he/she produces, subject to contrary express agreement.[^AUTOREPLACEDOceanroutesAustraliaPtyLtdvMCLamond1984AIPC90ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs356ENDREPLACE]: _CA_ s 35(6)
@@ -66,13 +66,13 @@ Where a creator is working under a contract of employment, the rule is that the 
 **Video overview by Rachel Choi on [Distinguishing Employees and Independent Contractors](https://vimeo.com/122047180).**
 
 
-In determining whether the work is created in the course of employment, it can be helpful to ask: "Whether on the one hand the employee is employed as part of the business and his work is an integral part of the business, or whether his work is not integrated into the business but is only accessory to it, or, […] the work is done by him in business on his own account." [^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]
+In determining whether the work is created in the course of employment, it can be helpful to ask: "Whether on the one hand the employee is employed as part of the business and his work is an integral part of the business, or whether his work is not integrated into the business but is only accessory to it, or, […] the work is done by him in business on his own account."[^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]
 
 
 [^AUTOREPLACEDMrDiljeetTitusvMrAlfredAAdebare1302006DLT130DelhiHighCourtENDREPLACE]: _Mr Diljeet Titus v Mr. Alfred A Adebare_ 130 (2006) DLT 130 (Delhi High Court)
 
 <div markdown="block" class="box  case">
-##### Beloff v Pressdram Ltd [^AUTOREPLACED1973FSR33ENDREPLACE]
+##### Beloff v Pressdram Ltd[^AUTOREPLACED1973FSR33ENDREPLACE]
 
 
 [^AUTOREPLACED1973FSR33ENDREPLACE]: [1973] FSR 33
@@ -95,7 +95,7 @@ Journalists are the owners of copyright in the articles they produce within the 
 
 For these purposes, the journalist will not need permission from their employer. A facsimile copy is generally an exact copy made, for example, by a photocopying or fax machine.
 
-The proprietor of the newspaper or magazine (the journalist's employer) is the owner of copyright for any other purpose. [^AUTOREPLACEDCAs354ENDREPLACE]
+The proprietor of the newspaper or magazine (the journalist's employer) is the owner of copyright for any other purpose.[^AUTOREPLACEDCAs354ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs354ENDREPLACE]: _CA_ s 35(4)
@@ -103,7 +103,7 @@ The proprietor of the newspaper or magazine (the journalist's employer) is the o
 
 ### Commissioned Artistic Works
 
-In the following cases, the person who commissioned the work, rather than the person who created the works, owns copyright in it: [^AUTOREPLACEDCAs355ENDREPLACE]
+In the following cases, the person who commissioned the work, rather than the person who created the works, owns copyright in it:[^AUTOREPLACEDCAs355ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs355ENDREPLACE]: _CA_ s 35(5)
@@ -112,7 +112,7 @@ In the following cases, the person who commissioned the work, rather than the pe
 
 * the painting or drawing of a portrait; and
 
-* the making of an engraving. [^AUTOREPLACEDCAs355ENDREPLACE]
+* the making of an engraving.[^AUTOREPLACEDCAs355ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs355ENDREPLACE]: _CA_ s 35(5)
@@ -165,13 +165,13 @@ Ownership of copyright in sound recordings is governed by s 97 of the _Act_. Thi
 
 Section 22(3) provides that a sound recording, other than a sound recording of a live performance, shall be deemed to have been made at the time when the first record embodying the recording was produced. It also provides that the maker of the sound recording is the person who owned that record at that time.  Usually, this will be the recording company.
 
-For recordings of live performances, the sound recording is owned jointly by the person who made the recording and the performer/s who performed the performance. [^AUTOREPLACEDCAs223AENDREPLACE] This arrangement can be modified by contract, such as the performer's employment contract.
+For recordings of live performances, the sound recording is owned jointly by the person who made the recording and the performer/s who performed the performance.[^AUTOREPLACEDCAs223AENDREPLACE] This arrangement can be modified by contract, such as the performer's employment contract.
 
 [^AUTOREPLACEDCAs223AENDREPLACE]: _CA_ s 22(3A)
 
 
 
-Pursuant to s 97, where a person commissions a sound recording for valuable consideration, then the person who commissioned the recording is the copyright owner, subject to any agreement to the contrary. [^AUTOREPLACEDCAENDREPLACE]
+Pursuant to s 97, where a person commissions a sound recording for valuable consideration, then the person who commissioned the recording is the copyright owner, subject to any agreement to the contrary.[^AUTOREPLACEDCAENDREPLACE]
 
 
 [^AUTOREPLACEDCAENDREPLACE]: _CA_
@@ -180,7 +180,7 @@ Pursuant to s 97, where a person commissions a sound recording for valuable cons
 
 ### Cinematographic Films
 
-The first owner of copyright in a cinematograph film is the maker of the film. [^AUTOREPLACEDCAs982ENDREPLACE]
+The first owner of copyright in a cinematograph film is the maker of the film.[^AUTOREPLACEDCAs982ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs982ENDREPLACE]: _CA_ s 98(2)
@@ -200,24 +200,24 @@ Section 22(5) provides that a broadcast is taken to have been made by the person
 
 ### Published Editions of Works
 
-The owner of copyright in a published edition is the publisher. [^AUTOREPLACEDCAs100ENDREPLACE]
+The owner of copyright in a published edition is the publisher.[^AUTOREPLACEDCAs100ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs100ENDREPLACE]: _CA_ s 100
 
 ## Proof of Ownership
 
-In a copyright case, unless ownership is put in issue, copyright is presumed to subsist and the plaintiff is presumed to be the owner. [^AUTOREPLACEDCAs126ENDREPLACE]
+In a copyright case, unless ownership is put in issue, copyright is presumed to subsist and the plaintiff is presumed to be the owner.[^AUTOREPLACEDCAs126ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs126ENDREPLACE]: _CA_ s 126
 
-Labels or marks indicating the year and place of the publication or the making of a work are admissible as prima facie evidence of copyright subsistence [^AUTOREPLACEDCAss126Aand126BENDREPLACE]
+Labels or marks indicating the year and place of the publication or the making of a work are admissible as prima facie evidence of copyright subsistence[^AUTOREPLACEDCAss126Aand126BENDREPLACE]
 
 
 [^AUTOREPLACEDCAss126Aand126BENDREPLACE]: _CA_ ss 126A and 126B
 
-The name appearing on a work is presumed to be the author and first owner of the work.[^AUTOREPLACEDCAs127ENDREPLACE] If s 127 does not apply, then the name of the publisher appearing on a work published in the last 70 years is presumed to be the owner. [^AUTOREPLACEDCAs128ENDREPLACE]
+The name appearing on a work is presumed to be the author and first owner of the work.[^AUTOREPLACEDCAs127ENDREPLACE] If s 127 does not apply, then the name of the publisher appearing on a work published in the last 70 years is presumed to be the owner.[^AUTOREPLACEDCAs128ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs127ENDREPLACE]: _CA_ s 127
@@ -235,17 +235,17 @@ The term “crown copyright” refers to Government (or “Crown”) owned copyr
 
 These include:
 
-* works made by or under the direction or control of the Crown; [^AUTOREPLACEDCAs176ENDREPLACE]
+* works made by or under the direction or control of the Crown;[^AUTOREPLACEDCAs176ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs176ENDREPLACE]: _CA_ s 176
 
-* works first published by the Crown; [^AUTOREPLACEDCAs177ENDREPLACE] and
+* works first published by the Crown;[^AUTOREPLACEDCAs177ENDREPLACE] and
 
 
 [^AUTOREPLACEDCAs177ENDREPLACE]: _CA_ s 177
 
-* sound recording and films made by, or under the direction or control of the Crown. [^AUTOREPLACEDCAs178ENDREPLACE]
+* sound recording and films made by, or under the direction or control of the Crown.[^AUTOREPLACEDCAs178ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs178ENDREPLACE]: _CA_ s 178

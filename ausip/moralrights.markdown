@@ -45,7 +45,7 @@ As noted above, the moral rights were extended in 2004 to include performers.
 
 ### Right of Attribution
 
-The right of attribution requires that an author must be identified where attributable acts are done in respect of the work [^AUTOREPLACEDCAs193ENDREPLACE]. The right of attribution is also applied to performers. [^AUTOREPLACEDCAs195ABAENDREPLACE]
+The right of attribution requires that an author must be identified where attributable acts are done in respect of the work[^AUTOREPLACEDCAs193ENDREPLACE]. The right of attribution is also applied to performers.[^AUTOREPLACEDCAs195ABAENDREPLACE]
 
 
 [^AUTOREPLACEDCAs193ENDREPLACE]: _CA_ s 193
@@ -60,12 +60,12 @@ Creators of copyright material have the right to be attributed when the work is:
   * for films: copied, exhibited, communicated.
   * For performances: communicated, staged, or copied.
 
-If a creator has not stated the way in which he or she wishes to be identified, any clear and reasonably prominent form of identification may be used. [^AUTOREPLACEDCAss195195ABCENDREPLACE]
+If a creator has not stated the way in which he or she wishes to be identified, any clear and reasonably prominent form of identification may be used.[^AUTOREPLACEDCAss195195ABCENDREPLACE]
 
 
 [^AUTOREPLACEDCAss195195ABCENDREPLACE]: _CA_ ss 195, 195ABC
 
-Attribution must be clear and reasonably prominent. [^AUTOREPLACEDCAs195AA195ABDENDREPLACE]
+Attribution must be clear and reasonably prominent.[^AUTOREPLACEDCAs195AA195ABDENDREPLACE]
 
 
 [^AUTOREPLACEDCAs195AA195ABDENDREPLACE]: _CA_ s 195AA, 195ABD
@@ -73,14 +73,14 @@ Attribution must be clear and reasonably prominent. [^AUTOREPLACEDCAs195AA195ABD
 It is not necessary to attribute the creator if:
 
   * the creator has consented in writing not to be identified; or
-  * it is reasonable in all the circumstances not to identify the author. [^AUTOREPLACEDCAss195AR195AXDENDREPLACE]
+  * it is reasonable in all the circumstances not to identify the author.[^AUTOREPLACEDCAss195AR195AXDENDREPLACE]
 
 
 [^AUTOREPLACEDCAss195AR195AXDENDREPLACE]: _CA_ ss 195AR, 195AXD
 
 ### Right against False Attribution
 
-Authors of literary, dramatic, musical and artistic works and films and performers have the right not to have the authorship of their works falsely attributed. [^AUTOREPLACEDCAss195AC195AHAENDREPLACE]
+Authors of literary, dramatic, musical and artistic works and films and performers have the right not to have the authorship of their works falsely attributed.[^AUTOREPLACEDCAss195AC195AHAENDREPLACE]
 
 
 [^AUTOREPLACEDCAss195AC195AHAENDREPLACE]: _CA_ ss 195AC, 195AHA
@@ -96,7 +96,7 @@ It is also an infringement of this right to knowingly deal with or communicate a
 
 ### Right of Integrity
 
-The right of integrity is the right not to have your work subjected to derogatory treatment. [^AUTOREPLACEDCAss195AJ195ALBENDREPLACE]
+The right of integrity is the right not to have your work subjected to derogatory treatment.[^AUTOREPLACEDCAss195AJ195ALBENDREPLACE]
 
 
 [^AUTOREPLACEDCAss195AJ195ALBENDREPLACE]: _CA_ ss 195AJ-195ALB
@@ -105,7 +105,7 @@ Derogatory treatment means doing anything that results in a material distortion 
 
 It is not clear to what extent the test for whether a derogatory treatment is prejudicial to the author’s honour or reputation takes into account the author’s subjective view, as opposed to an objective test. To date, there have been no cases in Australia to clarify what this might mean.
 
-It is not an infringement if the derogatory treatment or other action was reasonable. [^AUTOREPLACEDCAss195ASand195AXEENDREPLACE]
+It is not an infringement if the derogatory treatment or other action was reasonable.[^AUTOREPLACEDCAss195ASand195AXEENDREPLACE]
 
 
 [^AUTOREPLACEDCAss195ASand195AXEENDREPLACE]: _CA_ ss 195AS and 195AXE
@@ -153,9 +153,7 @@ Moral rights cannot be assigned. Even after the economic components of copyright
 
 As the moral rights are relatively new, no significant body of case law has been developed in Australia.
 
-Moral rights are loosely derived from the French system of droit moral. The French authorities are not directly relevant, but may serve as an illustration of the types of treatments which may be found to be derogatory in Australia.
-
- [^AUTOREPLACED2012FMCA2ENDREPLACE]
+Moral rights are loosely derived from the French system of droit moral. The French authorities are not directly relevant, but may serve as an illustration of the types of treatments which may be found to be derogatory in Australia.[^AUTOREPLACED2012FMCA2ENDREPLACE]
 
 
 [^AUTOREPLACED2012FMCA2ENDREPLACE]: [2012] FMCA 2
@@ -170,9 +168,7 @@ The Federal Magistrates Court held that the new recording infringed Perez's righ
         - It created a false association that Perez had endorsed or deliberately associated himself with Fernandez; and
         - It caused Perez “anger and distress” (a subjective factor) and the false association was likely to be concerning for similar artists, who go to great lengths to control the people they are associated with (an objective factor).
     - It was also likely to be prejudicial to an audience who were more familiar with Perez's work, because it mocked Perez and sought to promote Fernandez at Perez's expense.
-Fernandez's use was not reasonable in the circumstances.
-
- [^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]
+Fernandez's use was not reasonable in the circumstances.[^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]
 
 
 [^AUTOREPLACED199671FCR37CarminaBuranacase1997FCA531ENDREPLACE]:  (1996) 71 FCR 37 (Carmina Burana case), [1997] FCA 531
@@ -198,25 +194,19 @@ __*Huston v Societe de l'Exploitation de la Cinquieme Chaine* (1991) 149 Revue I
 
 The estate of John Huston successfully sought an injunction against a French television broadcaster to prevent the broadcast of a colourised version of Huston's black and white film 'Asphalt Jungle'.
 - An earlier suit brought in the US failed.
-- Material distortion of his work prejudicial to honour or reputation.
-
- [^AUTOREPLACED198870CPR2d105ENDREPLACE]
+- Material distortion of his work prejudicial to honour or reputation.[^AUTOREPLACED198870CPR2d105ENDREPLACE]
 
 
 [^AUTOREPLACED198870CPR2d105ENDREPLACE]:  (1988) 70 CPR (2d) 105
 
 A Canadian shopping centre had bought a sculpture of 60 flying geese from the plaintiff. When the shopping centre tied Christmas ribbons around the necks of the geese, Snow applied for an injunction.
 The Ontario High Court ordered that the ribbons be removed, holding that the treatment of the sculpture was prejudicial to Snow's honour or reputation.
-Snow said it was prejudicial to his honour – reducing it to crass advertisement of Christmas.
-
- [^AUTOREPLACED1993EMLR144ENDREPLACE]
+Snow said it was prejudicial to his honour – reducing it to crass advertisement of Christmas.[^AUTOREPLACED1993EMLR144ENDREPLACE]
 
 
 [^AUTOREPLACED1993EMLR144ENDREPLACE]: [1993] E.M.L.R. 144.
 
-In 1993, George Michael was granted a preliminary injunction preventing the release of a medley of a number of George Michael's songs. The Court of Appeal in London found that it was arguable that the remix record could constitute derogatory treatment of George Michael's works.
-
- [^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]
+In 1993, George Michael was granted a preliminary injunction preventing the release of a medley of a number of George Michael's songs. The Court of Appeal in London found that it was arguable that the remix record could constitute derogatory treatment of George Michael's works.[^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]
 
 
 [^AUTOREPLACED2003EWCh1274ch150ENDREPLACE]: [2003] EWCh 1274 (ch) [150]
