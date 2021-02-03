@@ -479,7 +479,6 @@ Further, the following claims can also be made in _TMA_ s 120(2) infringement ca
 
 **Video overview by Ayaka Nakashima Edwards on [Genericide](https://www.youtube.com/watch?v=Z6Xm3tNJ7xc)**
 
-
 Note that the Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018 amended sections 129 and 130 of the Act, relating to applications for relief from unjustified threats of infringement, and counterclaims for infringement. It also inserted s130A, which provides that mere notification of a registered trade mark is not a threat.
 
 
