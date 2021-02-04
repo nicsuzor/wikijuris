@@ -173,19 +173,19 @@ Proceedings must be started within the later of 3 years of the patent being gran
 
 A literal interpretation of the patent claims will not always suffice.[^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]
 This is known as the 'pith and marrow' (purposive) approach.
-The test for infringement is whether all essential integers (elements) of the patent have been taken - this is a question of fact.[^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE][^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]: *Populin v HB Nominees Pty Ltd*
+The test for infringement is whether all essential integers (elements) of the patent have been taken - this is a question of fact.[^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE]
 
+[^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]: *Populin v HB Nominees Pty Ltd*
 
 [^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE]: *Rodi & Wienenberger AG v Henry Showell Ltd*
 
 #### Pith and Marrow  
 
-The pith and marrow refers to the 'essence and substance' of the invention.[^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE] Whilst this phrase is rarely used in modern patent law cases, the phrase is intended to refer to the "novel features only that [the patentee] claims to be essential", these are the essential integers of the patent claim.[^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]
-
+The pith and marrow refers to the 'essence and substance' of the invention.[^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE] Whilst this phrase is rarely used in modern patent law cases, the phrase is intended to refer to the "novel features only that [the patentee] claims to be essential", these are the essential integers of the patent claim.[^Catnic]
 
 [^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE]: _Clark v Adie_ (1875) 10 Ch App 667
 
-[^AUTOREPLACEDCatnicComponentsLtdvHillSmithLtd1982RPC183243FreseniusMedicalCareAustraliaPtyLtdvGambroPtyLtd200567IPR230245ENDREPLACE]:  _Catnic Components Ltd v Hill & Smith Ltd_ [1982] RPC 183, 243; _Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd_ (2005) 67 IPR 230, 245
+[^Catnic]:  _Catnic Components Ltd v Hill & Smith Ltd_ [1982] RPC 183, 243; _Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd_ (2005) 67 IPR 230, 245.
 
 
 <div markdown="block" class="box  case">
@@ -280,7 +280,7 @@ A non-infringment declaration can be awarded.[^AUTOREPLACEDss125127ENDREPLACE] T
 [^AUTOREPLACEDs126ENDREPLACE]: s 126
 
 
-A counterclaim for revocation of the patent can be brought by the alleged infringer.[^AUTOREPLACEDs121ENDREPLACE]  A respondent may allege a patent is not valid and ask for revocation of the patent. This is available since the validity of patent is not guaranteed.[^AUTOREPLACEDs20ENDREPLACE] A patentee whose claims survive a challenge to their validity in litigation may apply for a certificate of validity pursuant to s 19. The certificate outlines that the claim has been challenged and survive. This can be used in the future – and provides a judge further opportunity to grant an order for costs.
+A counterclaim for revocation of the patent can be brought by the alleged infringer.[^AUTOREPLACEDs121ENDREPLACE] A respondent may allege a patent is not valid and ask for revocation of the patent. This is available since the validity of patent is not guaranteed.[^AUTOREPLACEDs20ENDREPLACE] A patentee whose claims survive a challenge to their validity in litigation may apply for a certificate of validity pursuant to s 19. The certificate outlines that the claim has been challenged and survive. This can be used in the future – and provides a judge further opportunity to grant an order for costs.
 
 
 [^AUTOREPLACEDs121ENDREPLACE]: s 121
@@ -306,10 +306,12 @@ However, mere notification of the existence of a patent or a patent application 
 
 The objective of these provisions is to prevent patentees making unjustified threats, where person has not infringed a patent.  A threat of litigation may be made via letters, orally, gossip, adverts or other means. The alleged infringer should be free of unjustified threats.
 
-*U and I Global Trading (Australia) Pty Limited v Tasman – Warajay Pty Limited* (1995) 32 IPR 494 (Cooper J):
+<div markdown="block" class="box  case">
+##### _U and I Global Trading (Australia) Pty Limited v Tasman – Warajay Pty Limited_ (1995) 32 IPR 494 (Cooper J):
 
 * Whether the language used would convey to any reasonable person that the author of the letter… intended to bring proceedings for infringement against a person said to be threatened. It is not necessary that there be direct words that action could be taken.
 * Threat may be implied from the circumstances of communication.
+</div>
 
 To avoid being named as a respondent to an unjustified threats proceedings:
 
@@ -330,7 +332,9 @@ _The Agreement on Trade-Related Aspects of Intellectual Property Rights_ (_TRIPS
 
 TRIPS also set out the basic criteria for patentability. Pursuant to Article 27 Patentable subject matter is considered to be:
 
+<div markdown="block" class="box quote">
 “…Products or processes, in all fields of technology, provided that they are new, involve an inventive step and are capable of industrial application.”
+</div>
 
 In 2005 Australia entered intro a bilateral trade agreement with the US, _The Australia-US Free Trade Agreement_ (_AUSFTA_), which also required a number of significant changes to Australia’s IP laws including patent legislation.
 
