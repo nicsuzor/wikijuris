@@ -89,28 +89,20 @@ UPOV has a range of videos espousing the benefits of PBR[^AUTOREPLACEDhttpswwwup
 
 To be protected, a plant variety must have a breeder and be new, distinct, uniform and stable as defined by the UPOV Convention:
 
-|Breeder|A breeder is a person who has bred, or discovered and developed, a plant variety, or their employer or contractor who has commissioned the work, and their respective successors in title[^AUTOREPLACEDArt1ivUPOV1991ENDREPLACE].|
+| Breeder |A breeder is a person who has bred, or discovered and developed, a plant variety, or their employer or contractor who has commissioned the work, and their respective successors in title[^AUTOREPLACEDArt1ivUPOV1991ENDREPLACE].|
+| New |A variety is generally considered new if it has not been sold (with the breeder’s consent) for a period specified in national law[^AUTOREPLACEDArt61UPOV1991ENDREPLACE].|
+| Distinct |A variety is distinct if it is clearly distinguishable by one or more characteristics which can be clearly described from any other variety whose existence is a matter of common knowledge at the time of application[^AUTOREPLACEDArt7UPOV1991ENDREPLACE].|
+| Uniform |The requirement that the variety be uniform means that a variety must be sufficiently consistent in those characteristics that make it distinct[^AUTOREPLACEDArt8UPOV1991ENDREPLACE].|
+| Stable |A variety must remain true to description after repeated propagation or reproduction[^AUTOREPLACEDArt9UPOV1991ENDREPLACE].|
+
+
 
 
 [^AUTOREPLACEDArt1ivUPOV1991ENDREPLACE]: Art. 1(iv), _UPOV_ 1991
-|New|A variety is generally considered new if it has not been sold (with the breeder’s consent) for a period specified in national law[^AUTOREPLACEDArt61UPOV1991ENDREPLACE].|
-
-
 [^AUTOREPLACEDArt61UPOV1991ENDREPLACE]: Art. 6(1), _UPOV_ 1991
-|Distinct|A variety is distinct if it is clearly distinguishable by one or more characteristics which can be clearly described from any other variety whose existence is a matter of common knowledge at the time of application[^AUTOREPLACEDArt7UPOV1991ENDREPLACE].|
-
-
 [^AUTOREPLACEDArt7UPOV1991ENDREPLACE]: Art. 7, _UPOV_ 1991
-|Uniform|The requirement that the variety be uniform means that a variety must be sufficiently consistent in those characteristics that make it distinct[^AUTOREPLACEDArt8UPOV1991ENDREPLACE].|
-
-
 [^AUTOREPLACEDArt8UPOV1991ENDREPLACE]: Art. 8, _UPOV_ 1991
-|Stable|A variety must remain true to description after repeated propagation or reproduction[^AUTOREPLACEDArt9UPOV1991ENDREPLACE].|
-
-
 [^AUTOREPLACEDArt9UPOV1991ENDREPLACE]: Art. 9, _UPOV_ 1991
-
-
 Plant varieties must also have a variety denomination in accordance with Article 20, _UPOV_ 1991.
 An important feature of the PBR system is the way in which the interests of breeders, growers, and researchers have been accommodated through exceptions or limitations to the scope of the breeder’s right.
 
