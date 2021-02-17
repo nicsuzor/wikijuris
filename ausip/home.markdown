@@ -5,8 +5,6 @@ nav_order: 0
 has_children: true
 has_toc: true
 redirect_from:
-- /ausip/
-- /ausip
 - /ausip/index
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/home.markdown){: .btn .btn-outline }
