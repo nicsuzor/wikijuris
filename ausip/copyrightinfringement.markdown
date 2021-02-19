@@ -74,7 +74,7 @@ The exclusive rights of copyright holders are set out in the table below:
 | Broadcasts | make a film or sound recording of the broadcast, or a copy of such a film or recording: s 87 ||| Communicate or rebroadcast to the public: s 87 | |
 | Published editions | Facsimiled copy: s 88 | | | | |
 
-* See ss 31(1)(c) and (d) and 31(4)-(7) for specific rights for commercial rental arrangements for Part III works.The exclusive rights of copyright owners are outlined in the below table.
+* See ss 31(1)(c) and (d) and 31(4)-(7) for specific rights for commercial rental arrangements for Part III works. The exclusive rights of copyright owners are outlined in the below table.
 
 Unauthorised use of the copyright owner's work may amount to infringement.
 
@@ -210,14 +210,9 @@ The test for reproduction requires both a causal connection and objective simila
 
 **Video overview by Greg Travers on [Objective Similarity](https://www.youtube.com/watch?v=r3gosX2iBOE).**
 
-**Video overview by Jack Howe on [Originality](https://www.wevideo.com/hub# media/ci/343207597?timelineId=335936108).**
 
-
-
-##### Zeccola v Universal City Studios Inc[^AUTOREPLACED198246ALR189ENDREPLACE]
-
-
-[^AUTOREPLACED198246ALR189ENDREPLACE]:  (1982) 46 ALR 189
+<div markdown="block" class="box  case">
+##### *Zeccola v Universal City Studios Inc* (1982) 46 ALR 189
 
 In the case of [Zeccola v Universal City Studios Inc](http://classic.austlii.edu.au/au/cases/cth/FCA/1982/241.html) Universal owned copyright in film Jaws, screenplay Jaws, and novel Jaws.  Zeccola made a film about man eating sharks called Great White.  Universal sued for copyright infringement.  
 
@@ -227,10 +222,11 @@ As to whether Zeccola had infringed copyright in the novel and screenplay, the p
 
 There is no copyright in the central idea: the idea of a shark terrorising a community cannot be protected. However, in this case, there was significant overlap in situations, characters, and location (even though the dialogue was different). The Full Federal Court wasn’t as certain, but did not find fault with the primary judge’s opinion.
 
-##### Telstra Corp Ltd v Royal & Sun Alliance Insurance Ltd[^AUTOREPLACED200357IPR453ENDREPLACE]
+</div>
 
+<div markdown="block" class="box  case">
 
-[^AUTOREPLACED200357IPR453ENDREPLACE]:  (2003) 57 IPR 453
+##### *Telstra Corp Ltd v Royal & Sun Alliance Insurance Ltd* (2003) 57 IPR 453
 
 In the case of [Telstra Corp Ltd v Royal & Sun Alliance Insurance Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/2003/786.html) Shannons car insurance ran a parody advertisement appropriating the format, story, and character of Telstra's Goggomobil advertisements.
 
@@ -244,25 +240,24 @@ The court found that:
 
 
 
-##### Baigent v Random House Group Ltd[^AUTOREPLACED2007AllERD456MarENDREPLACE])
-
-
-[^AUTOREPLACED2007AllERD456MarENDREPLACE]: [2007] All ER (D) 456 (Mar
+</div>
+<div markdown="block" class="box  case">
+##### *Baigent v Random House Group Ltd* [2007] All ER (D) 456 (Mar
 
 Authors and publishers of "The Holy Blood and the Holy Grail" alleged that Dan Brown had copied the “central theme” of the book in “The Da Vinci Code”. The “central theme” was argued to be a series of claims including that Jesus was of royal blood and Mary Magdalene carried his child.
 
 It was held that Brown had taken ideas, but not expression from HBHG. Therefore, there could be no copyright infringement.
 
-##### EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd[^AUTOREPLACED2011FCAFC47ENDREPLACE]
-
-
-[^AUTOREPLACED2011FCAFC47ENDREPLACE]: [2011] FCAFC 47
+</div>
+<div markdown="block" class="box  case">
+##### *EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd* [2011] FCAFC 47
 
 In the case of [EMI Songs Australia Pty Ltd v Larrikin Music Publishing Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2011/47.html) it was held that the flute riff in Men at Work's song "Down Under" reproduced two bars of the old song “Kookaburra sits in the old gum tree”
 
 >"There are limited features of similarity between Kookaburra and Down Under in terms of key, harmony, tempo and rhythm. Kookaburra was written in a major key. The relevant bars in the Impugned Recordings appear as part of an overall work in a minor key. The harmony in Kookaburra arises both from its character as a round, and the implied harmonies suggested by casting its melody in a specific key. The versions of Down Under in the Impugned Recordings have a highly distinctive harmony, arising from the voice of Mr Hay, singing very different lyrics, and the mix of instruments. While, as a result, the bars in question in the Impugned Recordings may, in some sense, sound different from Kookaburra, the melody is nevertheless clearly recognisable. Dr Ford described the change in underlying harmony as “a bit like shining a different light" on the relevant melodic phrase. Although, as the primary judge observed, that might differentiate the listener’s impressions of the same notes in the two works, I do not consider that it meaningfully detracts from the objective similarity between the works”. ([90])
 
 
+</div>
 
 ### Infringement - Publish the Work
 
@@ -420,16 +415,17 @@ Pursuant to s 87 of the _Act_ television and sound broadcasts are protected. Thi
 
 * re-broadcast or communicate to the public.
 
-##### Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")[^AUTOREPLACED2002FCAFC146ENDREPLACE]
-
-
-[^AUTOREPLACED2002FCAFC146ENDREPLACE]: [2002] FCAFC 146
+</div>
+<div markdown="block" class="box  case">
+##### *Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")* [2002] FCAFC 146
 
 In the case of [Network Ten Pty Ltd v TCN Channel Nine Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCAFC/2002/146.html) Ten’s show broadcast clips taken from other networks.  Nine sued under right to re-broadcast.
 
 The Full Federal Court held that any unauthorised rebroadcasting of a broadcast would be an infringement of copyright (subject to any defence of fair dealing that Ten might have had).
 
 The case was appealed to the High Court. It was held that copyright is only infringed if you rebroadcast the program, or a substantial part of the program.  Otherwise broadcast makers would get much more protection than other copyright owners.
+
+</div>
 
 ### Published Editions of Works
 
@@ -438,15 +434,15 @@ Section 88 of the _Act_ protects published editions of works by providing the co
 
 [^AUTOREPLACEDCAs88ENDREPLACE]: _CA_ s 88
 
-##### Nationwide News Pty Ltd v Copyright Agency Limited[^AUTOREPLACED1996FCA257ENDREPLACE]
 
-
-[^AUTOREPLACED1996FCA257ENDREPLACE]: 1996] FCA 257
+<div markdown="block" class="box  case">
+##### *Nationwide News Pty Ltd v Copyright Agency Limited* [1996] FCA 257
 
 The appellants owned the majority of Australian newspapers and a significant proportion of magazines.  The respondent, Copyright Agency Limited (CAL), was a collecting society representing copyright owners of literary, dramatic and artistic works.  Separate from its statutory functions as a collecting society, CAL entered into voluntary licenses with educational institutions for the copying of articles from newspapers and magazines, passing royalties back to the authors.  The appellants claimed that this infringed their rights in the published edition.
 
 It was held that the newspaper and magazine owners had rights to published editions, but that infringement must copy a substantial part of the published edition as a whole. More relevant when the aim of copying is to utilise the "typography, layout or presentation of the published edition". As the intention was to copy the articles (which are owned by the authors), and not the presentation, there was no infringement.
 
+</div>
 
 ## Substantial Part
 
@@ -461,35 +457,27 @@ An infringing act need not be done in relation to the whole of the work or other
 
 Quality is the most important factor, not quantity:
 
-"Whether a part is substantial must be decided by its quality rather than its quantity. The reproduction of a part which by itself has no originality will not normally be a substantial part of the copyright and therefore will not be protected".[^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]
+"Whether a part is substantial must be decided by its quality rather than its quantity. The reproduction of a part which by itself has no originality will not normally be a substantial part of the copyright and therefore will not be protected".[^Ladbroke]
 
 
-[^AUTOREPLACEDLadbrokeFootballLtdvWilliamHillFootballLtd19641WLR273ENDREPLACE]: _Ladbroke (Football) Ltd v William Hill (Football) Ltd_ [1964] 1 WLR 273
+[^Ladbroke]: *Ladbroke (Football) Ltd v William Hill (Football) Ltd* [1964] 1 WLR 273
 
-##### Folsom v Marsh[^AUTOREPLACED9FedCas342348Mass1841USENDREPLACE]
-
-
-[^AUTOREPLACED9FedCas342348Mass1841USENDREPLACE]: 9 Fed Cas 342, 348 (Mass 1841) (US)
+<div markdown="block" class="box  case">
+##### *Folsom v Marsh* 9 Fed Cas 342, 348 (Mass 1841) (US)
 
 >"It is certainly not necessary, to constitute an invasion of copyright, that the whole of the work should be copied, or even a large portion of it, in form or in substance. If so much is taken, that the value of the original is sensibly diminished, or the labors of the original author are substantially to an injurious extent appropriated by another, that is sufficient, in point of law, to constitute a piracy pro tanto … Neither does it necessarily depend upon the quantity taken … [i]t is often affected by other considerations, the value of the materials taken, and the importance of it to the sale of the original work … In short, we must often, in deciding questions of this sort, look to the nature and objects of the selections made, the quantity and value of the materials used, and the degree in which the use may prejudice the sale, or diminish the profits, or supersede the objects, of the original work."
 
+</div>
 
-Substantial part is assessed in respect to the work as a whole[^AUTOREPLACEDLadbrokevWilliamHill19641WLR273ENDREPLACE] and by reference to originality of the part taken.[^AUTOREPLACEDIceTVPtyLimitedvNineNetworkAustraliaPtyLimited2009HCA14ENDREPLACE]
-
-
-[^AUTOREPLACEDLadbrokevWilliamHill19641WLR273ENDREPLACE]: _Ladbroke v William Hill_ [1964] 1 WLR 273
-
-[^AUTOREPLACEDIceTVPtyLimitedvNineNetworkAustraliaPtyLimited2009HCA14ENDREPLACE]: _ IceTV Pty Limited v Nine Network Australia Pty Limited_ [2009] HCA 14
+Substantial part is assessed in respect to the work as a whole[^Ladbroke] and by reference to originality of the part taken.[^IceTV]
 
 
+[^IceTV]: _ IceTV Pty Limited v Nine Network Australia Pty Limited_ [2009] HCA 14
 
 
+<div markdown="block" class="box  case">
 
-
-##### IceTV Pty Limited v Nine Network Australia Pty Limited__[^AUTOREPLACED2009HCA1422April2009ENDREPLACE]
-
-
-[^AUTOREPLACED2009HCA1422April2009ENDREPLACE]: [2009] HCA 14 (22 April 2009)
+##### *IceTV Pty Limited v Nine Network Australia Pty Limited* [2009] HCA 14 (22 April 2009)
 
 In the High Court Case of [IceTV Pty Limited v Nine Network Australia Pty Limited](http://classic.austlii.edu.au/au/cases/cth/HCA/2009/14.html) Channel 9 created a Weekly Schedule of television programmes to be broadcast each week. They alleged that each Weekly Schedule was a compilation, and therefore a literary work under the* Copyright Act 1968*, and that IceTV had infringed copyright by taking part of the time and title information from the Aggregated Guides (guides produced by third party Aggregators, authorised by Nine and to whom Nine provides the Weekly Schedule) and including it in their own (electronic) guide, the "IceGuide". Nine alleged that this constituted a reproduction of a substantial part of the copyright work. IceTV denied that they had reproduced in a material form a substantial part of any Weekly Schedule and denied that reproduction from any Aggregated Guide was a reproduction of any Weekly Schedule.
 
@@ -501,22 +489,29 @@ Time and title information lacked the requisite originality: "… the expression
 
 >"in assessing the quality of the time and title information, as components of the Weekly Schedule, baldly stated matters of fact or intention are inseparable from and co-extensive with their expression. It is difficult to discern the expression of thought in statements of which programmes will be broadcast and when this will occur. If the facts be divorced from the other elements constituting the compilation in suit, as is the case with the use by IceTV of the time and title information, then it is difficult to treat the IceGuide as the reproduction of a substantial part of the Weekly Schedule in the qualitative sense required by the case law". ( Gummow, Hayne, Heydon JJ)
 
-##### Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")__
 
-Substantiality is a question of fact and degree.
+</div>
 
->"Questions of quality … as well as quantity arise both in respect of Pt IV copyrights and those copyrights in original works to which Pt III applies." (McHugh ACJ, Gummow and Hayne JJ) "Because substantiality is a question of fact, there is no precise test. A number of rough guides were used in* The Panel*: is it an 'essential part'? A 'highlight'? The 'heart' of the copyright work? A particularly 'memorable' part?  "an important ingredient"? "central to the programme in which it appeared"?
+Substantiality is always a question of fact and degree.
 
-Compared segments which 'insignificant' or 'trivial, inconsequential or insignificant'
+Because substantiality is a question of fact, there is no precise test. A number of rough guides were used in *The Panel*: is it an 'essential part'? A 'highlight'? The 'heart' of the copyright work? A particularly 'memorable' part?  "an important ingredient"? "central to the programme in which it appeared"? Those segments were more likely to constitute a substantial part of the source material than segments which were 'insignificant' or 'trivial, inconsequential or insignificant'.
 
-Always a matter of fact and degree!
+<div markdown="block" class="box  case">
 
-Examples:[^AUTOREPLACEDTCNChannelNinePtyLimitedvNetworkTenPtyLimitedNo22005FCAFC53ENDREPLACE]
+##### *Network Ten Pty Ltd v TCN Channel Nine Pty Ltd ("The Panel")*
+
+>"Questions of quality … as well as quantity arise both in respect of Pt IV copyrights and those copyrights in original works to which Pt III applies." (McHugh ACJ, Gummow and Hayne JJ)
+
+</div>
 
 
-[^AUTOREPLACEDTCNChannelNinePtyLimitedvNetworkTenPtyLimitedNo22005FCAFC53ENDREPLACE]: *TCN Channel Nine Pty Limited v Network Ten Pty Limited (No 2)* [2005] FCAFC 53
 
-The Inaugural Allan Border Medal Dinner: Ten copied 10 seconds of the programme.
+Examples:
+
+
+[^Panel2005FCAFC]: *TCN Channel Nine Pty Limited v Network Ten Pty Limited (No 2)* [2005] FCAFC 53
+
+The Inaugural Allan Border Medal Dinner: Ten copied 10 seconds of the programme.[^Panel2005FCAFC]
 
 >"The programme centred upon the dinner and presentation of the inaugural Allan Border Medal for the Australian cricket player of the year. The extract was of Glen McGrath’s reaction to the announcement that he was the winner of the award, his displayed emotion and the congratulations from his surrounding team mates. The cameras were trained on the winner to capture that moment. The cameras then followed Mr McGrath as he moved towards the stage. The excerpt was plainly a material and important part of the programme. The evidence of Mr Burns was that the announcement of Glen McGrath as the Australian cricketer of the year was 'the highlight of the dinner'". (Finkelstein J)
 >
@@ -541,10 +536,9 @@ Not a substantial part:
 
 Ten appealed to the High Court, but special leave was denied. Justices Kirby and McHugh reiterated that the identification of whether a substantial part has been taken is a question of "fact and degree".
 
-##### EMI Songs Australia Pty Limited v Larrikin Music Publishing Pty Limited[^AUTOREPLACED2011FCAFC47ENDREPLACE]
 
-
-[^AUTOREPLACED2011FCAFC47ENDREPLACE]: [2011] FCAFC 47
+<div markdown="block" class="box  case">
+##### *EMI Songs Australia Pty Limited v Larrikin Music Publishing Pty Limited* [2011] FCAFC 47
 
 A two-bar flute riff in Men at Work's Down Under was held to be a substantial part of the old tune "Kookaburra sits in the old gum tree".
 
@@ -554,6 +548,8 @@ The "the reproduction of the melody of Kookaburra ... is a reproduction of that 
 >"It is ... true that there is only a limited similarity of notes. Only five of the ninety-three bars in the ... Recording contain notes in the flute phrases that are similar to any part of Kookaburra. … However, in assessing objective similarity, quantity is secondary to quality. When one compares the relevant bars … there is a very close similarity, if not a complete identity. While the appearances of phrases … may be sparse in the overall context of the Impugned Recordings, the flute is the dominant musical element when the phrases do appear". ([93], Emmett J)
 
 The piece taken was qualitatively important to the original – it could be described as its 'signature', although that description is not determinative.
+
+</div>
 
 ## Indirect Infringement
 
@@ -599,14 +595,15 @@ It is an infringement of copyright in any work in which copyright subsists to im
 
 [^AUTOREPLACEDCAss37and102ENDREPLACE]: _CA_ ss 37 and 102
 
-##### Milpurrurru v Indofurn Pty Ltd[^AUTOREPLACED1994FCA975ENDREPLACE]
 
-
-[^AUTOREPLACED1994FCA975ENDREPLACE]: [1994] FCA 975
+<div markdown="block" class="box  case">
+##### *Milpurrurru v Indofurn Pty Ltd* [1994] FCA 975
 
 A company imported carpets from Vietnam which reproduced Aboriginal artworks made by the applicant.
 
 Held, the importing company had infringed the applicant’s copyright - managing director either knew or should have known (one director’s knowledge was sufficient).
+
+</div>
 
 ### Parallel Importation
 
@@ -648,11 +645,15 @@ However, parallel importation of books is now allowed in certain circumstances.[
 
 * Amendments dealing with the seizure of imported copies of copyright material make it easier for copyright owners to use the Notice of Objection scheme and are consistent with the Trade Marks Notice of Objection scheme under the Trade Marks Amendment Act 2006.
 
-__Interstate Parcel Express Co Pty Ltd v Time-Life International (Nederlands) B.V.__
+
+<div markdown="block" class="box  case">
+##### *Interstate Parcel Express Co Pty Ltd v Time-Life International (Nederlands) B.V.*
 
 Time Inc., which owned copyright in Australia and US, granted to Time-Life an exclusive license to distribute the books in countries outside US and Canada.  Rather than buy from Time-Life Angus and Robertson imported copies cheaply from the US.  Time-Life sought an injunction to restrain sale of the books.
 
 Held, infringement by importation.
+
+</div>
 
 ### Sale of Infringing Articles
 
@@ -661,11 +662,12 @@ Copyright in a work is infringed by a person who sells or hires an article if th
 
 [^AUTOREPLACEDCAss38and103ENDREPLACE]: _CA_ ss 38 and 103
 
-##### Raben Footwear Pty Ltd v Polygram Records Inc__[^AUTOREPLACED1997FCA370ENDREPLACE]
 
-
-[^AUTOREPLACED1997FCA370ENDREPLACE]: [1997] FCA 370
+<div markdown="block" class="box  case">
+##### *Raben Footwear Pty Ltd v Polygram Records Inc* [1997] FCA 370
 
 Raben imported 1000 copies of a Cher CD from Germany.  Polygram sued for infringement of copyright.  Raben argued that he had no knowledge – Raben had asked the supplier about licensing for the CDs and received a guarded reply.
 
 Held, Raben had infringed copyright – supplier’s response ought reasonably have led the defendant to assume the true position and therefore reasonably knew that making the CD in Australia would have constituted an infringement of copyright.
+
+</div>

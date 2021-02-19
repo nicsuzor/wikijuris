@@ -62,14 +62,14 @@ Damages cannot be obtained from an innocent infringer – that is, damages are n
 
 [^AUTOREPLACEDCAs1153ENDREPLACE]: _CA_ s 115(3)
 
-__[^AUTOREPLACED198010IPR345ENDREPLACE]
-
-
-[^AUTOREPLACED198010IPR345ENDREPLACE]: (1980) 10 IPR 345
+<div markdown="block" class="box  case">
+##### *Kiama Constructions v MC Casella Building Co Pty Ltd* (1980) 10 IPR 345
 
 * The plaintiff builder drew up a plan for a couple to build a house on a block of land.  The couple made a pencil sketch of the plan and showed the defendant builder.  The defendant builder suggested a draftsman should draw up more detailed plans.
 
 * Held, infringement of copyright, but that the defendant builder was an innocent infringer and was not liable to pay damages – the builder was unaware the couple did not own copyright in the plans.
+
+</div>
 
 ### Additional Damages
 
@@ -93,14 +93,14 @@ In these instances the court has regard to:
     * (iv)  all other relevant matters.
 
 
-__Milpurrurru v Indofurn Pty Ltd__[^AUTOREPLACED1994FCA1544ENDREPLACE]
-
-
-[^AUTOREPLACED1994FCA1544ENDREPLACE]: [1994] FCA 1544
+    <div markdown="block" class="box  case">
+##### *Milpurrurru v Indofurn Pty Ltd* [1994] FCA 1544
 
 The case of [Milpurrurru v Indofurn Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1994/1544.html) involved the artwork of eight Aboriginal artists which had been reproduced without their permission on carpets manufactured overseas and imported into Australia by the defendants.
 
 The Court held that copyright had been infringed. Further, the Court assessed additional dames in the sum of $70,000, having regards to the cultural harm and personal distress caused.
+
+</div>
 
 ### Account of Profits
 
