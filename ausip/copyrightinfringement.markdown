@@ -61,14 +61,14 @@ Intent is not an element of copyright infringement, so it is possible to infring
 
 The exclusive rights of copyright holders are set out in the table below:
 
-^ Part III Works ^ Reproduce ^ Publish ^ Perform in Public ^ Communicate to the public (generally electronic, s 10(1)) ^ Adapt (defined s 10) |
-^  ||||||
+| Part III Works | Reproduce | Publish | Perform in Public | Communicate to the public (generally electronic, s 10(1)) | Adapt (defined s 10) |
+|-----|-----|-----|-----|-----|-----|
 | Literary works | s 31(1)(a) | s 31(1)(a)| s 31(1)(a)| s 31(1)(a)| s 31(1)(a)|
 | Dramatic works | s 31(1)(a) | s 31(1)(a)| s 31(1)(a)| s 31(1)(a)| s 31(1)(a)|
 | Musical works | s 31(1)(a) | s 31(1)(a)| s 31(1)(a)| s 31(1)(a)| s 31(1)(a)|
 | Artistic works | s 31(1)(b) | s 31(1)(b)|  | s 31(1)(b)| |
-| ||||| |
-^ Part IV Subject Matter (other than works) ^ Copy ^ Play in public ^^ Communicate ^ Commercial rentals ^ |
+|-----|-----|-----|-----|-----|-----|
+| Part IV Subject Matter (other than works) | Copy | Play in public || Communicate | Commercial rentals | |
 | Sound recordings | s 85 | Heard in public: s 85 || Communicate the recording to the public: s 85 | Right to enter into: s 85 |
 | Cinematograph films | s 86 | Seen/heard in public: s 86 || Communicate the film to the public s 86 | |
 | Broadcasts | make a film or sound recording of the broadcast, or a copy of such a film or recording: s 87 ||| Communicate or rebroadcast to the public: s 87 | |
