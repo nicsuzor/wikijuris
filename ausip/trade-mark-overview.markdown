@@ -34,8 +34,6 @@ As noted above, trade mark law is governed by the _Trade Marks Act 1995_ (Cth) (
 
 [^AUTOREPLACEDTMAs20ENDREPLACE]: _TMA_ s 20
 
-
-
 **Video overview by Dan Hunter on [The Need for the Trade Mark Law System](https://youtu.be/G073FK1BzAU?list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
 
 ## Rationale for Protection
@@ -107,17 +105,13 @@ These elements will be outlined in more detail below.
 
 **Video overview by Dan Hunter on [The Definition of a Trade Mark](https://www.youtube.com/watch?v=LjKF7UrbCDI&index=2&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
 
-
 ### A Sign
 
 A sign includes the following or any combination of the following, namely: letter, word, name, signature, numeral, device, brand, heading, label, ticket, aspect of packaging, shape, colour, sound or scent.[^AUTOREPLACEDTMAs6ENDREPLACE]
 
-
 [^AUTOREPLACEDTMAs6ENDREPLACE]: _TMA_ s 6
 
-
 ### Used or Intended to be Used to Distinguish
-
 
 Use ‘as a trade mark’ is use of the mark as a *badge of origin* whether the trade mark would have been understood by consumers as being used to *indicate a connection* in the course of trade between the goods or services and the person using it.
 
@@ -147,21 +141,18 @@ There are four types of trade marks which can be registered:
 
 1.  **Standard trade mark**: A sign used, or intended to be used, to distinguish goods or services dealt with or provided in the course of trade, from goods or services dealt with or provided by any other person.[^AUTOREPLACEDTMAs17ENDREPLACE]
 
+2.  **Collective trade mark**: A sign used by members of an association to distinguish goods or services provided by persons who are not members of that association. For example, *Industry Super Funds*
+
+3.  **Defensive trade mark**: Protects well-known marks where a trade mark has been used to such an extent for goods or services that its use on other goods or services is likely to mislead the public.  A defensive trade mark is not subject to use requirements.  For example *Holden*, *Coke*, *Levi's*. See video by Luke Chandler on [Defensive Trade Marks](https://www.youtube.com/watch?v=xfb8qqBdzp0)
+
+4.  **Certification trade mark**: A sign distinguishing goods or services in respect of origin, material, mode of manufacture, accuracy or some other characteristics.  For example *Woolmark*, *Heart Foundation Tick*, *Fresh Care*. See video by Ethan McCann on [Certification Marks](https://www.youtube.com/watch?v=XhrvRSXeq2U)
+
 
 [^AUTOREPLACEDTMAs17ENDREPLACE]: _TMA_ s 17
 
-2.  **Collective trade mark**: A sign used by members of an association to distinguish goods or services provided by persons who are not members of that association. For example, *Industry Super Funds*
-
-3.  **Defensive trade mark**: Protects well-known marks where a trade mark has been used to such an extent for goods or services that its use on other goods or services is likely to mislead the public.  A defensive trade mark is not subject to use requirements.  For example *Holden*, *Coke*, *Levi's*.
-
-4.  **Certification trade mark**: A sign distinguishing goods or services in respect of origin, material, mode of manufacture, accuracy or some other characteristics.  For example *Woolmark*, *Heart Foundation Tick*, *Fresh Care*.
-
-**Video overview by Luke Chandler on [Defensive Trade Marks](https://www.youtube.com/watch?v=xfb8qqBdzp0)**
-
-**Video overview by Ethan McCann on [Certification Marks](https://www.youtube.com/watch?v=XhrvRSXeq2U)**
-
-
 ## Non-Traditional Trade Marks
+
+Trade Marks come in many different forms. Section 7 of the TMA defines "sign" to include any letter, word, name, signature, numeral, device, brand, heading, label, ticket, aspect of packaging, shape, colour, sound or scent, or any combination of those.
 
 ### Aspect of Packaging, Shape
 
@@ -169,9 +160,7 @@ An aspect of packaging or part of a product may constitute a trade mark. For exa
 
 [^AUTOREPLACED199813IPR69ENDREPLACE]:  (1998) 13 IPR 69
 
-
 A shape may include the entirety of the goods. If the shape of the goods is not essential and is separate from the function of the goods, the shape can be registered as a trade mark. However, a shape cannot be registered if it is entirely functional.[^AUTOREPLACEDKoninklijkePhilipsElectronicsNVvRemingtonProductsAustraliaPtyLtd1999FCA816ENDREPLACE]
-
 
 [^AUTOREPLACEDKoninklijkePhilipsElectronicsNVvRemingtonProductsAustraliaPtyLtd1999FCA816ENDREPLACE]: *Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd* [1999] FCA 816
 
@@ -179,16 +168,13 @@ In *Kenman Kandy Australia Pty Ltd v Registrar of Trade Marks*,[^AUTOREPLACED200
 
 [^AUTOREPLACED2002FCAFC273ENDREPLACE]: [2002] FCAFC 273
 
-
 However, in *[Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1999/816.html)*,[^AUTOREPLACED1999FCA816ENDREPLACE] the design of a triple-headed rotary shaver could not be registered as a trade mark since the configuration of the three heads was the best design and did not add anything extra to distinguish the product.
 
 [^AUTOREPLACED1999FCA816ENDREPLACE]: [1999] FCA 816
 
-
 ### Colour
 
 Colour is an important element to brands. The colour often acts as a visual symbol provoking memories and attachment. Colour is expressly listed as able to constitute a sign.[^AUTOREPLACEDTMAs6ENDREPLACE]
-
 
 [^AUTOREPLACEDTMAs6ENDREPLACE]: _TMA_ s 6
 
@@ -215,14 +201,7 @@ In *[Philmac Pty Limited v The Registrar of Trade Marks](http://www.austlii.edu.
 
 [^AUTOREPLACED1967HCA42ENDREPLACE]: [1967] HCA 42
 
-
-
-
 **Video overview by Paula Harrison on [Colours](https://www.youtube.com/watch?v=X0tXFWezfwA)**
-
-
-
-
 
 ### Sound
 
@@ -233,7 +212,6 @@ Much like other types of trade marks, in order to register the sound mark the so
 To be distinct it must provide an audible identifier that sets the product out as being unique (as opposed to common functional sound).
 
 **Video overview by Darren Brown on [Registering Sounds](https://www.youtube.com/watch?v=UHJfTerLjoA)**
-
 
 ### Registering Scents
 
@@ -250,6 +228,5 @@ Scents also must be adequately described in writing or graphically represented i
 There is no requirement to provide a sample of the scent when applying for trade mark registration, however it can be requested at the point the registration application is reviewed.
 
 **Video overview by Luana Maeyke on [Scent Marks](https://www.youtube.com/watch?v=foAqYOABIXk)**
-
 
 **Video overview by Rica Ehlers on [Scent Marks](https://www.youtube.com/watch?v=1lbiM5du5fg)**

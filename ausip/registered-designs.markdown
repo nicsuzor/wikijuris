@@ -44,8 +44,6 @@ A visual feature “includes the shape, configuration, pattern and ornamentation
 
 **Video overview by Amara Boustead on [What a 'Product' is in Design Law](https://www.youtube.com/watch?v=kT-0YI5sBYQ)**
 
-**Video overview by Sophia Shen on [What a 'Product' is in Design Law](https://www.youtube.com/watch?v=aBpcUmKsW2A)**
-
 
 ## Registration of Designs
 

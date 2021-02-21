@@ -52,13 +52,11 @@ A final injunction will be made to ensure a particular course of action is taken
 
 ### Damages
 
-Pursuant to the_ Act_, damages is an available remedy and can be awarded in certain circumstances.[^AUTOREPLACEDCAs1152ENDREPLACE]
-
+Damages can be awarded as a remedy where appropriate.[^AUTOREPLACEDCAs1152ENDREPLACE]
 
 [^AUTOREPLACEDCAs1152ENDREPLACE]: _CA_ s 115(2)
 
 Damages cannot be obtained from an innocent infringer – that is, damages are not available if, at the time of the infringement, the defendant was not aware, and had no reasonable grounds for suspecting, that the act constituting the infringement was an infringement of the copyright.[^AUTOREPLACEDCAs1153ENDREPLACE]
-
 
 [^AUTOREPLACEDCAs1153ENDREPLACE]: _CA_ s 115(3)
 
@@ -93,7 +91,9 @@ In these instances the court has regard to:
     * (iv)  all other relevant matters.
 
 
-    <div markdown="block" class="box  case">
+
+<div markdown="block" class="box  case">
+
 ##### *Milpurrurru v Indofurn Pty Ltd* [1994] FCA 1544
 
 The case of [Milpurrurru v Indofurn Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1994/1544.html) involved the artwork of eight Aboriginal artists which had been reproduced without their permission on carpets manufactured overseas and imported into Australia by the defendants.

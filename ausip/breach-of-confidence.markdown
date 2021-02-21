@@ -32,7 +32,7 @@ As an equitable doctrine it is not as easy to enforce as contractual agreements.
 - Non-contractual remedy to protect development of ideas / patentable information; and
 - As a quasi-privacy right.
 
-**Video overview by Benjamin Odman on [Breach of Confidence and Personal Privacy](youtube>5FD8I7RUtKs)**
+**Video overview by Benjamin Odman on [Breach of Confidence and Personal Privacy]https://youtu.be/5FD8I7RUtKs)**
 
 ### Elements
 
@@ -101,9 +101,9 @@ Leaked information was embarrassing to Cth Government. Once the information was 
   * Injunction to prevent further publication not available.
 
 
-**Video overview by Sam Turner on [Spycatcher, Breach of Confidence](youtube>BvzZ64A5ApU?small)**
+**Video overview by Sam Turner on [Spycatcher, Breach of Confidence]https://youtu.be/BvzZ64A5ApU?small)**
 
-**Video overview by Cam McCall on [Spycatcher, Breach of Confidence](youtube>IsXFAwNLBfU?small)**
+**Video overview by Cam McCall on [Spycatcher, Breach of Confidence]https://youtu.be/IsXFAwNLBfU?small)**
 </div>
 
 ### Element 2: Circumstances give rise to an obligation of confidence
@@ -165,7 +165,7 @@ There are three main reasons that may be evoked under a just cause or excuse def
 
 
 
-**Video overview by Paris Hamrey on [Breach of Confidence and the Public Interest](youtube>mNtOkrBr4IQ?small)**
+**Video overview by Paris Hamrey on [Breach of Confidence and the Public Interest]https://youtu.be/mNtOkrBr4IQ?small)**
 
 
 <div markdown="block" class="box  case">

@@ -47,18 +47,9 @@ Section 120 of the _TMA_ sets out the three ways in which a trade mark can be in
 
 1. A person uses, as a trade mark, a sign that is substantially identical with, or deceptively similar to, the registered trade mark in relation to goods or services in respect of which the trade mark is registered.[^AUTOREPLACEDTMAs1201ENDREPLACE]
 
-
-[^AUTOREPLACEDTMAs1201ENDREPLACE]: _TMA_ s 120(1)
-
 2. A person uses, as a trade mark, a sign that is substantially identical with, or deceptively similar to, the registered trade mark in relation to goods of the same description or services that are closely related to  registered goods; or services of the same description or goods that are closely related to registered services.[^AUTOREPLACEDTMAs1202ENDREPLACE]
 
-
-[^AUTOREPLACEDTMAs1202ENDREPLACE]: _TMA_ s 120(2)
-
 3. A person uses, as a trade mark, a sign that is substantially identical with, or deceptively similar to a registered trade mark that is well-known in Australia, in relation to:[^AUTOREPLACEDTMAs1203ENDREPLACE]
-
-
-[^AUTOREPLACEDTMAs1203ENDREPLACE]:  _TMA_ s 120(3)
 
   * The goods or services are not of the same description or not closely related; and
 
@@ -66,6 +57,10 @@ Section 120 of the _TMA_ sets out the three ways in which a trade mark can be in
 
   * The interest of the registered owner are likely to be adversely affected.
 
+
+[^AUTOREPLACEDTMAs1201ENDREPLACE]: _TMA_ s 120(1)
+[^AUTOREPLACEDTMAs1203ENDREPLACE]:  _TMA_ s 120(3)
+[^AUTOREPLACEDTMAs1202ENDREPLACE]: _TMA_ s 120(2)
 
 In relation to well-known trade marks, take into account the extent to which the trade mark is known within the relevant sector of the public, whether as a result of the promotion of the trade mark or for any other reason.[^AUTOREPLACEDTMAs1204ENDREPLACE]
 
@@ -111,7 +106,7 @@ In *[E & J Gallo Winery v Lion Nathan Australia Pty Limited](http://www.austlii.
 
 [^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645
 
-In *[Musidor BV v Tansing (t/as Apple Music House)](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1993/645.html),[^AUTOREPLACED1993FCA645ENDREPLACE]* concerned Musidor selling Rolling Stones bootlegs. Musidor made it plain in its advertising and get-up that the source of the origin of the goods was not authorised. Held, the disclaimer was effective to show that the goods were not related. It was held that no infringement occurred.
+*[Musidor BV v Tansing (t/as Apple Music House)](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1993/645.html),[^AUTOREPLACED1993FCA645ENDREPLACE]* concerned Musidor selling Rolling Stones bootlegs. Musidor made it plain in its advertising and get-up that the source of the origin of the goods was not authorised. Held, the disclaimer was effective to show that the goods were not related. It was held that no infringement occurred.
 
 
 [^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645[^AUTOREPLACED1996FCA1484ENDREPLACE]
@@ -119,7 +114,7 @@ In *[Musidor BV v Tansing (t/as Apple Music House)](http://www.austlii.edu.au/cg
 
 [^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
 
-In *[Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1996/1484.html)*,[^AUTOREPLACED1996FCA1484ENDREPLACE] 'Duff' beer which disclaimed any association with The Simpsons was still held to amount to infringement. The disclaimer was too simplistic in approach. The beer was an express reference to The Simpsons and therefore the disclaimer was not effective.
+In *[Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1996/1484.html)*,[^AUTOREPLACED1996FCA1484ENDREPLACE] 'Duff' beer, which disclaimed any association with The Simpsons, was still held to amount to infringement. The disclaimer was too simplistic in approach. The beer was an express reference to The Simpsons and therefore the disclaimer was not effective.
 
 
 [^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
@@ -140,20 +135,20 @@ To determine if a trade mark is well-known in Australia, must take account of th
 <div markdown="block" class="box  case">
 ##### _Nintendo Co Ltd v Care_ [2000] FCA 1538
 
-In *[Nintendo Co Ltd v Care](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1538.html)* – the Nintendo trademark in 'Super Mario' allowed the company to prevent a person from dressing up as Mario when wrestling.[^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]
+Nintendo's trademark in 'Super Mario' allowed the company to prevent a person from dressing up as 'Da Super Mario' when wrestling.[^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]
 
 
-[^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]: *Nintendo Co Ltd v Care* [2000] FCA 1538[^AUTOREPLACED2001FCA1502ENDREPLACE]
+[^AUTOREPLACEDNintendoCoLtdvCare2000FCA1538ENDREPLACE]: *Nintendo Co Ltd v Care* [2000] FCA 1538 http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2000/1538.html
 
 </div>
 
 <div markdown="block" class="box  case">
 ##### _Virgin Enterprises Limited v Klapsas_ [2001] FCA 1502
 
-In *[Virgin Enterprises Limited v Klapsas](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2001/1502.html)* – Virgin obtained judgement against people trying to sell Virgin limousines or Virgin rentals. The court stressed the large investments made by Virgin in marketing and promoting the brand globally was such that if the defendant ran a Virgin ad, it was likely customers would be confused.[^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]
+Virgin obtained judgement against people trying to sell Virgin limousines or Virgin rentals. The court stressed the large investments made by Virgin in marketing and promoting the brand globally was such that if the defendant ran a Virgin ad, it was likely customers would be confused.[^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]
 
 
-[^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]: *Virgin Enterprises Limited v Klapsas* [2001] FCA 1502[^AUTOREPLACED2000FCA1842ENDREPLACE]
+[^AUTOREPLACEDVirginEnterprisesLimitedvKlapsas2001FCA1502ENDREPLACE]: *Virgin Enterprises Limited v Klapsas* [2001] FCA 1502 http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2001/1502.html
 
 </div>
 
@@ -314,21 +309,20 @@ Defences to trade mark infringement are found in s 122 of the _TMA_. The table b
 
 | Section | Defence |
 |-------|-------|
-| s 122(1)(a)(i) | The person uses in good faith the person’s name or the name of the person’s place of business. |
+| s 122(1)(a)(i) | The person uses in good faith the person’s name or the name of the person’s place of business.
+Video overview by Shelby McGreachan on [The Good Faith Use of Own Name](https://www.youtube.com/watch?v=xqxoZgsN2Cw).
+|
 | s 122(1)(b)(i) | The person uses a sign in good faith to indicate the kind, quality, quantity, intended purpose, value, geographical origin, or some other characteristic, of goods or services (descriptively – not used much as often wont be using as a TM). |
-| s 122(1)(c) | The person uses the trade mark in good faith to indicate the intended purpose of goods (in particular as accessories or spare parts) or services: Can use a TM to show goods (e.g. spare parts or peripherals) are compatible with another trader’s goods; Ensures TM does not provide TM owners with an extensive monopoly. |
-| s 122(1)(d) | The person uses the trade mark for the purposes of comparative advertising; Traders can use other people’s marks to compare their products to another trader’s; Use to distinguish from the competition (E.g. say my brand is better than Apple); Encourages competition and genuine comparative advertising between the two. |
-| s 122(1)(e) | The person exercises a right to use a trade mark given to the person under this Act. (E.g. if two conflicting registrations). |
+| s 122(1)(c) | The person uses the trade mark in good faith to indicate the intended purpose of goods (in particular as accessories or spare parts) or services.  This ensures businesses can use a TM to show that their goods (e.g. spare parts or peripherals) are compatible with another trader’s goods. It is designed to ensure TM does not provide TM owners with an overly-extensive monopoly.
+Video overview by Andrew Avenell on [The s 122(1)(c) Spare Parts and Accessories Defence](https://www.youtube.com/watch?v=wPJNLX_5fNc)
+ |
+| s 122(1)(d) | The person uses the trade mark for the purposes of comparative advertising; Traders can use other people’s marks to compare their products to another trader’s. Allows use in order to distinguish from the competition, and encourages competition and genuine comparative advertising between the two.
+Video overview by Craig Sherritt on [The Comparative Advertising Defence](https://www.youtube.com/watch?v=mKiifGrx1V8) |
+| s 122(1)(e) | The person exercises a right to use a trade mark given to the person under this Act. |
 | s 122(1)(f) | A trade mark will not be infringed where the court is of the opinion that the person would obtain registration of the trade mark in his or her name if the person were to apply for it. |
 | s 122(1)(fa) | A trade mark will not be infringed where the person uses a trade mark that is substantially identical with or deceptively similar, the first-mentioned trade mark; and the court is of the opinion that the person would obtain registration of the substantially identical or deceptively similar trade mark in his or her name if the person were to apply for it. |
 | s 122(1)(g) | The trade mark will not be infringed if its use falls within a limitation or condition imposed on the registration of the mark. |
 
-
-**Video overview by Craig Sherritt on [The Comparative Advertising Defence](https://www.youtube.com/watch?v=mKiifGrx1V8)**
-
-**Video overview by Natalie Cruickshanks on [Trade Mark Spare Parts Defence](http://voice.adobe.com/v/NHDUraYrgxQ)**
-
-**Video overview by Andrew Avenell on [The s 122(1)(c) Spare Parts and Accessories Defence](https://www.youtube.com/watch?v=wPJNLX_5fNc)**
 
 
 
@@ -341,33 +335,18 @@ In the above sections, 'good faith' means an absence of ulterior motive.[^AUTORE
    Use of the trade mark cannot be calculated to divert business from the registered trade mark owner or to confuse customers as to the origin of goods.
 
 
-**Video overview by Abigail Hill on [The Good Faith Defence in s 122 (1)(b)](https://www.youtube.com/watch?v=vqDWy9e7XAs)**
-
-
-**Video overview by Shelby McGreachan on [The Good Faith Use of Own Name](https://www.youtube.com/watch?v=xqxoZgsN2Cw)**
-
-
 
 ### Consent
 
-A person who uses a registered trade mark in relation to goods that are similar to goods in respect of which the trade mark is registered does not infringe the trade mark if the trade mark has been applied to, or in relation to, the goods by, or with the consent of, the registered trade mark owner.[^AUTOREPLACEDTMAs122AENDREPLACE]
+A person who uses a registered trade mark in relation to goods that are similar to goods in respect of which the trade mark is registered does not infringe the trade mark if the trade mark has been applied to, or in relation to, the goods by, or with the consent of, the registered trade mark owner.[^AUTOREPLACEDTMAs122AENDREPLACE] Because it only excuses uses in relation to similar goods, this defence does not apply to _TMA_ s 120(3). This provision is particularly important in relation to imported goods and second hand goods, and helps to ensure that owners cannot exercise a bigger monopoly than intended under the Act.
 
 
 [^AUTOREPLACEDTMAs122AENDREPLACE]: _TMA_ s 122A
 
-Because of the requirement of similar goods, this defence does not apply to _TMA_ s 120(3).
 
-This provision helps to protect uses in relation to imported goods or second hand goods. It is specifically included to allow parallel importing and second hand markets. It ensures that owners cannot exercise a bigger monopoly than intended under the Act.
-
-A similar provision applies to services. A person who uses a registered trade mark for services that are similar to services in respect of which the trade mark is registered does not infringe the registered mark if it has been applied in relation to the services by, or with the consent of, the registered owner.[^AUTOREPLACEDTMAs123ENDREPLACE]
-
+A similar provision applies to services. A person who uses a registered trade mark for services that are similar to services in respect of which the trade mark is registered does not infringe the registered mark if it has been applied in relation to the services by, or with the consent of, the registered owner.[^AUTOREPLACEDTMAs123ENDREPLACE] Note that prior to amendments as a result of the _Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018_, the consent provision for goods was s123. The 2018 amendments inserted s122A and amended s123. The effect of the defence is largely the same prior to and after 2018.
 
 [^AUTOREPLACEDTMAs123ENDREPLACE]: _TMA_ s 123
-
-Note that prior to amendments as a result of the Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018, the consent provision for goods was s123. The 2018 amendments inserted s122A and amended s123. The effect of the defence is largely the same prior to and after 2018.
-
-**Video overview by Alex Trezise on [former Section 123 of the Trade Marks Act](https://www.youtube.com/watch?v=UyGxR4a9z3I)**
-
 
 
 ### Prior Use
@@ -398,8 +377,6 @@ Under s 88(1), if one of these grounds is satisfied, the court can cancel the re
 
 **Video overview by Nicolas Suzor on [Grounds for Rejection, Opposition or Rectification](https://www.youtube.com/watch?v=au3mOq9Abrg&list=PLa0bKPnUKQrzadmRvIQclmAWk9Wmg1a0P&index=6)**
 
-
-
 In spite of s 120, if a disclaimer has been registered in respect of a part of a registered trade mark, a person does not infringe the trade mark by using that part of the trade mark.[^AUTOREPLACEDTMAs1222ENDREPLACE]
 
 
@@ -409,18 +386,9 @@ In spite of s 120, if a disclaimer has been registered in respect of a part of a
 **Video overview by Corrine Leach on [Section 88 of the Trade Marks Act](https://www.youtube.com/watch?v=PLKbSmhihUs)**
 
 
-
-
-
-**Video overview by Jessica Hine on [Section 88 of the Trade Marks Act](https://www.youtube.com/watch?v=7S5xyWwKB5M)**
-
-
-
-
 ## Cross Claims to Trade Mark Infringement
 
 If trade mark infringement under _TMA_ s 120(1), (2) or (3) is claimed, the defendant can make the following cross-claims:
-
 
 * That the trade mark is not substantially identical with or deceptively similar to the registered trade mark;
 
@@ -430,56 +398,35 @@ If trade mark infringement under _TMA_ s 120(1), (2) or (3) is claimed, the defe
 
 * Consent;[^AUTOREPLACEDTMAs123ENDREPLACE]
 
-
-[^AUTOREPLACEDTMAs123ENDREPLACE]: _TMA_ s 123
-
 * Prior Use;[^AUTOREPLACEDTMAs124ENDREPLACE]
-
-
-[^AUTOREPLACEDTMAs124ENDREPLACE]: _TMA_ s 124
 
 * The plaintiff’s trade mark is not valid – cross claim for rectification or removal;[^AUTOREPLACEDTMAs88ENDREPLACE]
 
-
-[^AUTOREPLACEDTMAs88ENDREPLACE]: _TMA_ s 88
-
-* The plaintiff's registered trade mark is generic;[^AUTOREPLACEDTMAs87ENDREPLACE]
-
-
-[^AUTOREPLACEDTMAs87ENDREPLACE]: _TMA_ s 87
+* The plaintiff's registered trade mark is generic;[^AUTOREPLACEDTMAs87ENDREPLACE] (See video by Ayaka Nakashima Edwards on [Genericide](https://www.youtube.com/watch?v=Z6Xm3tNJ7xc))
 
 * The plaintiff's mark contravened a limitation or condition;[^AUTOREPLACEDTMAs86ENDREPLACE] and  
 
-
-[^AUTOREPLACEDTMAs86ENDREPLACE]: _TMA_ s 86
-
 * Removal for non-use.[^AUTOREPLACEDTMAs92ENDREPLACE]
-
-
-[^AUTOREPLACEDTMAs92ENDREPLACE]: _TMA_ s 92
-
 
 Further, the following claims can also be made in _TMA_ s 120(2) infringement cases:
 
-  * The defendant's use of the mark is not likely to deceive or cause confusion.[^AUTOREPLACEDTMAs10ENDREPLACE]
+* The defendant's use of the mark is not likely to deceive or cause confusion.[^AUTOREPLACEDTMAs10ENDREPLACE]
+
+* The defendant's use of the mark is not in relation to goods or services of the same description or goods or services that are closely related to the goods or services for which the mark is registered with respect to.
 
 
-[^AUTOREPLACEDTMAs10ENDREPLACE]: _TMA_ s 10
-  * The defendant's use of the mark is not n relation to goods or services of the same description or goods or services that are closely related to the goods or services for which the mark is registered with respect to.
+  [^AUTOREPLACEDTMAs123ENDREPLACE]: _TMA_ s 123
+  [^AUTOREPLACEDTMAs124ENDREPLACE]: _TMA_ s 124
+  [^AUTOREPLACEDTMAs88ENDREPLACE]: _TMA_ s 88
+  [^AUTOREPLACEDTMAs87ENDREPLACE]: _TMA_ s 87
+  [^AUTOREPLACEDTMAs10ENDREPLACE]: _TMA_ s 10
+  [^AUTOREPLACEDTMAs86ENDREPLACE]: _TMA_ s 86
+  [^AUTOREPLACEDTMAs92ENDREPLACE]: _TMA_ s 92
 
 
 **Velcro's advertisement explains [The Dangers of Genericide for an Established Brand](https://www.youtube.com/watch?v=rRi8LptvFZY)**
 
-
-
-
-**Video overview by Stephanie Derrington on [Genericide](https://www.youtube.com/watch?v=Z92wy-deVG0)**
-
-
-
-**Video overview by Ayaka Nakashima Edwards on [Genericide](https://www.youtube.com/watch?v=Z6Xm3tNJ7xc)**
-
-Note that the Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018 amended sections 129 and 130 of the Act, relating to applications for relief from unjustified threats of infringement, and counterclaims for infringement. It also inserted s130A, which provides that mere notification of a registered trade mark is not a threat.
+Note that the *Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018* amended sections 129 and 130 of the Act, relating to applications for relief from unjustified threats of infringement, and counterclaims for infringement. It also inserted s130A, which provides that mere notification of a registered trade mark is not a threat.
 
 
 ## Remedies

@@ -307,9 +307,6 @@ Perram J at 362 [32]:
 > "Because the principal component in the Maltesers get-up is the word “Maltesers”, it is highly unlikely that any ordinary consumer of chocolate confectionary could mistake something which is not called a Malteser for a Malteser. In that sense, Mars is a victim of its own success. The fact that the Delfi jars carry the name “Malt Balls” and use slightly different visual features is sufficiently clear to distinguish them from the Maltesers products".
 
 
-**Video overview by Caroline Burrows on [Mars Australia Pty Ltd v Sweet Rewards Pty Ltd](https://www.youtube.com/watch?v=1A4IGR7x0EU)**
-
-
 
 </div>
 
