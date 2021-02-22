@@ -2,7 +2,7 @@
 layout: default
 title: crcrown
 nav_order: 25
-parent: copyright
+parent: Copyright
 grand_parent: Australian IP Law
 ---
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/crowncopyright.markdown){: .btn .btn-outline }

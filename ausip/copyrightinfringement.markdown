@@ -67,8 +67,9 @@ The exclusive rights of copyright holders are set out in the table below:
 | Dramatic works | s 31(1)(a) | s 31(1)(a)| s 31(1)(a)| s 31(1)(a)| s 31(1)(a)|
 | Musical works | s 31(1)(a) | s 31(1)(a)| s 31(1)(a)| s 31(1)(a)| s 31(1)(a)|
 | Artistic works | s 31(1)(b) | s 31(1)(b)|  | s 31(1)(b)| |
-|-----|-----|-----|-----|-----|-----|
+
 | Part IV Subject Matter (other than works) | Copy | Play in public || Communicate | Commercial rentals | |
+|-----|-----|-----|-----|-----|-----|
 | Sound recordings | s 85 | Heard in public: s 85 || Communicate the recording to the public: s 85 | Right to enter into: s 85 |
 | Cinematograph films | s 86 | Seen/heard in public: s 86 || Communicate the film to the public s 86 | |
 | Broadcasts | make a film or sound recording of the broadcast, or a copy of such a film or recording: s 87 ||| Communicate or rebroadcast to the public: s 87 | |
@@ -129,37 +130,20 @@ Unlike infringement under Part IV, reproduction does not require direct copying,
 
 [^AUTOREPLACEDSWHartCovEdwardsHotWaterSystems1985159CLR466472FrancisDayHuntervBron1963Ch587614ENDREPLACE]: *SW Hart & Co. v Edwards Hot Water Systems* (1985) 159 CLR 466, 472; *Francis Day & Hunter v Bron* [1963] Ch 587, 614
 
-* 1. ** Causal connection** – the defendant’s work must be derived directly or indirectly from the plaintiff’s copyright work (that is, there must be some causal connection between the two works); and
+1. **Causal connection** – the defendant’s work must be derived directly or indirectly from the plaintiff’s copyright work (that is, there must be some causal connection between the two works); and
 
-* 2. **Objective similarity **– there must be a sufficient degree of objective similarity between the plaintiff’s and the defendant’s work (that is, the defendant must have produced a work which closely resembles the plaintiff's work).
+2. **Objective similarity**– there must be a sufficient degree of objective similarity between the plaintiff’s and the defendant’s work (that is, the defendant must have produced a work which closely resembles the plaintiff's work).
 
 **Video overview by Kylie Pappalardo on [Infringement by Reproduction of Works](https://www.youtube.com/watch?v=byNA3vW7aHE&index=3&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
-**Deemed Reproductions**
+#### Deemed Reproductions
 
-A literary, dramatic or musical work is deemed to have been reproduced in a material form if a sound recording or film is made of the work[^AUTOREPLACEDCAs211ENDREPLACE] Copyright in an artistic work in two-dimensional form will be infringed by its reproduction in a three dimensional form and vice versa.[^AUTOREPLACEDCAs213ENDREPLACE]
+A literary, dramatic or musical work is deemed to have been reproduced in a material form if a sound recording or film is made of the work[^AUTOREPLACEDCAs211ENDREPLACE] Copyright in an artistic work in two-dimensional form will be infringed by its reproduction in a three dimensional form and vice versa.[^AUTOREPLACEDCAs213ENDREPLACE] The simpler and more commonplace the design is, the more closely the defendant’s plans must follow the plaintiff’s.[^AUTOREPLACEDDixonInvestmentsPtyLtdvHall1990FCA477ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs211ENDREPLACE]: _CA_ s 21(1)
-
 [^AUTOREPLACEDCAs213ENDREPLACE]: _CA_ s 21(3)
-
-
-A lot of cases of copyright infringement concern project homes.  When dealing with a work, such as a project home design, which is by its nature very simple and commonplace, it will be more difficult to prove infringement.
-
-* _Ancher, Mortlock, Murray & Woolley Pty Ltd v Hooker Homes Pty Ltd_[^AUTOREPLACED197120FLR481ENDREPLACE]
-
-
-[^AUTOREPLACED197120FLR481ENDREPLACE]:  (1971) 20 FLR 481
-* _Ownit Homes Pty Ltd v D. and F. Mancuso Investments Pty Ltd_[^AUTOREPLACED1987AIPC90426ENDREPLACE]
-
-
-[^AUTOREPLACED1987AIPC90426ENDREPLACE]: [1987] AIPC 90-426
-
-The simpler and more commonplace the design is, the more closely the defendant’s plans must follow the plaintiff’s.[^AUTOREPLACEDDixonInvestmentsPtyLtdvHall1990FCA477ENDREPLACE]
-
-
 [^AUTOREPLACEDDixonInvestmentsPtyLtdvHall1990FCA477ENDREPLACE]: _Dixon Investments Pty Ltd v Hall_ [1990] FCA 477
 
 The copyright in a building or a model of a building is not infringed by the making of a painting, drawing, engraving or photograph of the building or model or by the inclusion of the building or model in a cinematograph film or in a television broadcast.[^AUTOREPLACEDCAs66ENDREPLACE]

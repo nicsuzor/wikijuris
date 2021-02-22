@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Copyright Limitations and Exceptions
-nav_order: 26
+nav_order: 27
 parent: Copyright
 grand_parent: Australian IP Law
 ---
@@ -480,7 +480,7 @@ The limits to the exceptions are:
 Private copies of music are permitted to be made only if:[^AUTOREPLACEDCAs109ENDREPLACE]
 
 
-[^AUTOREPLACEDCAs109ENDREPLACE]: _CA_ s 109
+[^AUTOREPLACEDCAs109ENDREPLACE]: _CA_ s 109A
 
 * the owner of a copy (the earlier copy ) of a sound recording makes another copy (the later copy ) of the sound recording using the earlier copy; and
 

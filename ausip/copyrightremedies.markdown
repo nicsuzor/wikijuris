@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Remedies for Infringement of Copyright
-nav_order: 27
+nav_order: 28
 parent: Copyright
 grand_parent: Australian IP Law
 ---

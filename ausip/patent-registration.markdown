@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Patent Registration
-nav_order: 64
+nav_order: 62
 parent: Patent
 grand_parent: Australian IP Law
 ---
