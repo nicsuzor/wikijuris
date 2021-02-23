@@ -169,24 +169,20 @@ Proceedings must be started within the later of 3 years of the patent being gran
 
 [^AUTOREPLACEDs1204ENDREPLACE]: s 120(4)
 
-### Test for Infringement
+### Test for Infringement - the Pith and Marrow  
 
-A literal interpretation of the patent claims will not always suffice.[^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]
+A literal interpretation of the patent claims will not always suffice.[^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE] The test for infringement is whether all essential integers (elements) of the patent have been taken - this is a question of fact.[^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE]
 This is known as the 'pith and marrow' (purposive) approach.
-The test for infringement is whether all essential integers (elements) of the patent have been taken - this is a question of fact.[^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE]
 
 [^AUTOREPLACEDPopulinvHBNomineesPtyLtdENDREPLACE]: *Populin v HB Nominees Pty Ltd*
 
 [^AUTOREPLACEDRodiWienenbergerAGvHenryShowellLtdENDREPLACE]: *Rodi & Wienenberger AG v Henry Showell Ltd*
-
-#### Pith and Marrow  
 
 The pith and marrow refers to the 'essence and substance' of the invention.[^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE] Whilst this phrase is rarely used in modern patent law cases, the phrase is intended to refer to the "novel features only that [the patentee] claims to be essential", these are the essential integers of the patent claim.[^Catnic]
 
 [^AUTOREPLACEDClarkvAdie187510ChApp667ENDREPLACE]: _Clark v Adie_ (1875) 10 Ch App 667
 
 [^Catnic]:  _Catnic Components Ltd v Hill & Smith Ltd_ [1982] RPC 183, 243; _Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd_ (2005) 67 IPR 230, 245.
-
 
 <div markdown="block" class="box  case">
 ##### _Catnic Components Ltd v Hill & Smith Ltd_ (No 1) (1982) RPC 183
@@ -209,17 +205,19 @@ Section 117 of the _Act_ outlines the doctrine of contributory infringement.
 * Section 117(1)  If the use of a product by a person would infringe a patent, the supply of that product by one person to another is an infringement of the patent by the supplier unless the supplier is the patentee or licensee of the patent.
 
 * Section 117(2)  A reference in subsection (1) to the use of a product by a person is a reference to:
-	* (a)  if the product is capable of only one reasonable use, having regard to its nature or design that use; or
-	* (b)  if the product is not a staple commercial product any use of the product, if the supplier had reason to believe that the person would put it to that use; or
-	* (c)  in any case the use of the product in accordance with any instructions for the use of the product, or any inducement to use the product, given to the person by the supplier or contained in an advertisement published by or with the authority of the supplier.
+
+a. if the product is capable of only one reasonable use, having regard to its nature or design that use; or
+
+b. if the product is not a staple commercial product any use of the product, if the supplier had reason to believe that the person would put it to that use; or
+
+c. in any case the use of the product in accordance with any instructions for the use of the product, or any inducement to use the product, given to the person by the supplier or contained in an advertisement published by or with the authority of the supplier.
 
 The mere completion of supply of the patentable product amounts to infringement. It is immaterial whether the product is put to an infringing use.[^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]
-
 
 [^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]: _Collins v Northern Territory_ (2007) 161 FCR 549, [61] French J; _Generic Health Pty Ltd v Otsuka Pharmaceutical Co Ltd_ (2013) 296 ALR 50, [140]
 
 
-In *Apotex Pty Ltd v Sanofi-Aventis Australia Pty Ltd & Ors* [2013] HCA 50, this defence was raised by could not be made out.
+In *Apotex Pty Ltd v Sanofi-Aventis Australia Pty Ltd & Ors* [2013] HCA 50, this defence was raised but could not be made out.
 
 ## Defences and Exemptions to Infringement
 
@@ -244,18 +242,21 @@ Section 119C of the _Act_ was introduced with the Raising the Bar amendments. Th
 
 **Video overview by Sophie Williams on [Experimental use](https://voice.adobe.com/a/erG6B).**
 
+<div markdown="block" class="box legislation">
+##### Section 119 C
 
-#### Section 119 C
+1. a person may do an act that would otherwise amount to an infringement of the patent, if the act is done for experimental purposes relating to the subject matter of the invention (scientific research, unfortunately this experimental use exemption is narrow and doesn’t relieve may concerns raised).
 
-* (1) a person may do an act that would otherwise amount to an infringement of the patent, if the act is done for experimental purposes relating to the subject matter of the invention (scientific research, unfortunately this experimental use exemption is narrow and doesn’t relieve may concerns raised).
-* (2) “Experimental purposes relating to the subject matter of the invention” include, but are not limited to:
-	* (a) determining the properties of the invention
-	* (b) determining the scope of a claim relating to the invention
-	* (c) improving or modifying the invention
-	* (d) determining the validity of the patent or of a claim relating to the invention
-	* (e) determining whether the patent for the invention would be, or has been, infringed by the doing of an act.
+2. “Experimental purposes relating to the subject matter of the invention” include, but are not limited to:
+	a. determining the properties of the invention
+	b. determining the scope of a claim relating to the invention
+	c. improving or modifying the invention
+	d. determining the validity of the patent or of a claim relating to the invention
+	e. determining whether the patent for the invention would be, or has been, infringed by the doing of an act.
 
-Focuses on the invention, patent, or infringement of the patent – doesn’t extend to using patented invention to discover things not relating to the patent. E.g. if patent is syringe, can only use to see how it works, or to see if patent is valid, cannot use it for experimental purposes to see if you can find a new cure for a disease.
+</div>
+
+Experimental use focuses on the invention, patent, or infringement of the patent – it doesn’t extend to using a patented invention to discover things that do not relate to the patent. For example, if patent is a new type of syringe, you can only use it without licence to see how it works, or to see if the patent is valid; you cannot use it for experimental purposes to see if you can find a new cure for a disease.
 
 ## Remedies
 
