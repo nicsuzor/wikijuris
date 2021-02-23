@@ -74,7 +74,6 @@ There are also twos area where there is scope to exclude inventions from patenta
 [^AUTOREPLACEDTRIPSart273ENDREPLACE]: _TRIPS_ art 27(3)
 
 
-
 ### "Invention"
 
 The opening words of s 18 (1): “an invention is a patentable invention for the purposes of a standard patent if the invention…”
@@ -103,23 +102,24 @@ The meaning of manner of manufacture has been debated by the Australian High Cou
 
 The _Patents Act 1990_ (Cth) incorporates the guidelines for manner of manufacture within s 18. Pursuant to s18 of the _Act_ an invention is to be a manner of manufacture within the meaning of s 6 of the _Statute of Monopolies_.
 
-__
-
-Facts: Appeal to High Court from a rejection by the Deputy Commissioner.  The patent in question was a process involving a method of mixing known chemicals together and applying the mix to crops (alfalfa) in specific quantities to eliminate weeds, but not the crops. The method of producing a weedicide is not a patent for a product, it is a patent for the process of creating that product.  The application had been rejected because the the method was considered to be merely a new use of a known substance and did not result in the creation of a physical or tangible ‘vendible product’.  Vendible product concept comes from cases before *NRDC*.
+<div markdown="block" class="box  case">
+##### _National Research Development Corporation v Commissioner of Patents_ (NRDC) (1959) 102 CLR 252
+Facts: Appeal to High Court from a rejection by the Deputy Commissioner.  The patent in question was a process involving a method of mixing known chemicals together and applying the mix to crops (alfalfa) in specific quantities to eliminate weeds, but not the crops. A patent over the method of producing a weedicide is not a patent for a product, it is a patent for the process of creating that product. The application had been rejected because the method was considered to be merely a new use of a known substance and did not result in the creation of a physical or tangible ‘vendible product’.  Vendible product concept comes from cases before *NRDC*.
 
 General principles outlined by the case:
 
-The term, ‘manner of manufacture’, is a dynamic concept whose meaning has evolved over time since it first appeared in Statute of Monopolies. Has common law meaning,  and is not interpreted literally.
+* The term, ‘manner of manufacture’, is a dynamic concept whose meaning has evolved over time since it first appeared in Statute of Monopolies. Has common law meaning,  and is not interpreted literally.
 
-Patentable subject matter is broad and flexible.  The principles are to be applied flexibly as technological developments and inventions are excitingly unpredictable.The concept of patentability must accommodate inventions not yet envisaged.
+* Patentable subject matter is broad and flexible.  The principles are to be applied flexibly as technological developments and inventions are excitingly unpredictable. The concept of patentability must accommodate inventions not yet envisaged.
 
-Must  be a vendible product - a product means every end produced; 'vendible' means an artificially produced state of affairs. This is very broad. A process is a vendible product where it offers an advantage to the useful arts in material form, as opposed to fine arts (which are protected by copyright).
+* Invention must be a vendible product - a product means every end produced; 'vendible' means an artificially produced state of affairs. This is very broad. A process is a vendible product where it offers an advantage to the useful arts in material form, as opposed to fine arts (which are protected by copyright).
 
-Must be of economic significance - i.e. its value to the country must be in the field of an economic endeavour. It must have an industrial, commercial or trading character.
+* Must be of economic significance - i.e. its value to the country must be in the field of an economic endeavour. It must have an industrial, commercial or trading character.
 
-Cannot be a mere discovery, idea, scientific theory or law of nature.
+* Cannot be a mere discovery, idea, scientific theory or law of nature.
 
-The Courts Decision: The process of mixing the known chemicals together – the effects of which were not known before in the context of alfalfa and weeds that commonly hinder its growth, the process was patentable subject matter.  It’s a new process, vendible product (new end produced – alfalfa output in the absence of weeds).
+**The Courts Decision**: The process of mixing the known chemicals together to produce new effects was a 'manner of manufacture' and valid subject matter for a patent. While the chemicals were not new, the effects of mixing them not known before in the context of alfalfa and the weeds that commonly hinder its growth. The invention was a new process that produced a vendible product (alfalfa output in the absence of weeds).
+</div>
 
 ### Patentable Subject Matter: Computer Software
 
@@ -189,7 +189,6 @@ Biotechnology is another area which is controversial within the patent landscape
 
 [^AUTOREPLACED447US3031980ENDREPLACE]: 447 US 303 (1980)
 
-</div>
 <div markdown="block" class="box  case">
 ##### _Diamond v Chakrabarty_ 447 US 303 (1980) - United States Case
 
@@ -202,18 +201,14 @@ Burger CJ:
 
 </div>
 
-
-
-
 ### Patentable Subject Matter: Treating the Human Body
 
 The way in which medical technology can be used to treat humans has long been a contentious issue. The treatment of the human body has been considered to be patentable subject matter. This issue was considered in the case of _Apotex Pty Ltd v Sanofi-Aventis_[^AUTOREPLACED2013HCA50ENDREPLACE] where the court was asked to considered whether methods of medical treatment were excluded from scope of patentable subject matter. The court held that they were not excluded.
 
 [^AUTOREPLACED2013HCA50ENDREPLACE]: [2013] HCA 50
 
-
-
-*Apotex Pty Ltd v Sanofi-Aventis* [2013] HCA 50  
+<div markdown="block" class="box  case">
+##### _Apotex Pty Ltd v Sanofi-Aventis_ [2013] HCA 50  
 
 The 4:1 majority of this case confirms that methods of medical treatment are patentable.
 
@@ -222,7 +217,7 @@ Facts: The patent was titled 'pharmaceutical for the treatment of skin disorders
 Issue:  Are methods of medical treatment for some reason excluded from scope of patentable subject matter?
 
 Held: Patent at issue is valid – no exception for methods of medical treatment. For policy reasons, some earlier courts said should not be patentable so they are more available to people – however counter-argument for incentive principle. The court held that the patent had not infringed because s117 (contributory infringement by supply of products) could not be made out.
-
+</div>
 
 **Video overview by Thalia Ho on [Swiss style claims' on application of pharmaceuticals](https://www.youtube.com/watch?v=IhG4TZOprH4).**
 
@@ -248,7 +243,6 @@ Held: isolation of genes not patentable
 
 In order to be patentable the invention must be new. This requires the invention to have not been disclosed to the public before the priority date. The invention is compared to the prior art base, which consists of prior art information that is publicly available in a document or through doing an act, or in two or more related documents or acts anywhere in the world.[^AUTOREPLACEDPAs71ENDREPLACE]
 
-
 [^AUTOREPLACEDPAs71ENDREPLACE]: _PA_ s 7(1)
 
 Novelty is required by ss 18(1)(b)(i), 18(1A)(b)(i) and 7(1) of the _Act_.
@@ -258,7 +252,6 @@ Novelty is required by ss 18(1)(b)(i), 18(1A)(b)(i) and 7(1) of the _Act_.
 **Video overview by Jess Smith on [Novelty](https://www.youtube.com/watch?v=K5mZI8syVcA).**
 
 The concepts of priority date and prior art base will be considered in turn.  
-
 
 ### Priority Date
 
@@ -274,18 +267,15 @@ Historically, the prior art base was confined to documents and acts that were ma
 
 [^AUTOREPLACEDPatentsAct1952CthENDREPLACE]:  _Patents Act 1952_ Cth
 
-
 **Video overview by Tracey Bryan on [Prior Art Base](https://www.youtube.com/watch?v=QaJdiagcO_o).**
 
 One of the key ways to determine if a patent has been anticipated by content within the prior art base is to apply the reverse infringement test. The reverse infringement test was established in _Meyers Taylor Pty Ltd v Vicarr Industries Ltd_.[^AUTOREPLACED1977137CLR228ENDREPLACE]His Honour Aickin J stated at 235:
-
-
-[^AUTOREPLACED1977137CLR228ENDREPLACE]:  (1977) 137 CLR 228
 
  > “The basic test for anticipation… is the same as that for infringement… whether the alleged anticipation would, if the patent were valid, constitute an infringement.”
 
 The prior art must disclose all the essential features of the invention as claimed.[^Nicaro517] It is not permissible to “mosaic” the prior art information to invalidate a patent.[^Minesota] However, reading together different publications is permissible where it is plain there is incorporation by reference, for example because an invention may involve putting things that exist together in a new way that hasn’t been done before.[^Nicaro]
 
+[^AUTOREPLACED1977137CLR228ENDREPLACE]:  (1977) 137 CLR 228
 
 [^Nicaro517]: _Nicaro Holdings Pty Ltd v Martin Engineering Co* (1990)_ 91 ALR 513 at 517
 
@@ -293,10 +283,7 @@ The prior art must disclose all the essential features of the invention as claim
 
 [^Nicaro]: _Nicaro Holdings Pty Ltd v Martin Engineering (1990)_ 91 ALR 513
 
-
-
 An inventor who discloses his/her invention to the public before the priority date will anticipate his or her own invention. This may result in the invention lacking novelty. However, disclosure of an invention to a person who is subject to an obligation of confidence will not destroy novelty.  There is also a grace period where an applicant can file a complete patent application within 12 months of the disclosure and still be granted a patent.[^pa24]
-
 
 [^pa24]: _PA_ s 24
 
@@ -330,7 +317,6 @@ A patent must involve an inventive step. According to ss 18(1)(b)(ii) and 7(2) o
 
 [^Aktie]: Aktiebolaget Hässle v Alphapharm Pty Ltd (2002) 212 CLR 411, 426 [30]
 
-
 [^Meyers]: Meyers Taylor Pty Ltd v Vicarr Industries Ltd (1977) 137 CLR 28, 249 (Aicken J
 
 **Video overview by Shiva Abassi  on [Inventive Step](https://www.youtube.com/watch?v=Pvi38hb98hY).**
@@ -338,7 +324,6 @@ A patent must involve an inventive step. According to ss 18(1)(b)(ii) and 7(2) o
 **Video overview by Emily Sakzewski on [Inventive Step](https://www.youtube.com/watch?v=3fdADIrxx6Q).**
 
 A 'person skilled in the relevant art' is a hypothetical “non-inventive” person who possesses “ordinary skill” who works in the art or science of the invention.[^Lundbeck] This can be a team of researchers.[^Aktie30]
-
 
 [^Lundbeck]: H Lundbeck A/S v Alphapharm Pty Ltd (2009) 177 FCR 151, 190, [173] per Bennett J
 
@@ -384,9 +369,9 @@ As a result of the Raising the Bar Amendments,  ss 18(1)(c) and 18(1A)(c) were a
 <div markdown="block" class="box tip">
 ##### The Raising the Bar Amendments in 2012 changed the law
 
-Prior to 2012 amendments, the term useful was not as clearly defined as it is today. When reading older cases, keep in mind that the tests for patentability are now slightly more stringent. Before 2012, an invention was required to operate as claimed or produce the claimed result if the steps are followed by a person skilled in the art. Patentability did not depend on whether the end product is commercially viable.[^Rehm]
+Prior to 2012 amendments, the term useful was not as clearly defined as it is today. When reading older cases, keep in mind that the tests for patentability are now slightly more stringent. Before 2012, an invention was required to operate as claimed or produce the claimed result if the steps are followed by a person skilled in the art. Patentability did not depend on whether the end product was commercially viable.[^Rehm]
 
-The Raising the Bar Amendments bring Australian law in line with that of the US. In the US there is no requirement for ‘specific, substantial and credible use’ to be considered, as these grounds will not be examined. These grounds may however be raised in post-grant challenges to a patent’s validity.
+The Raising the Bar Amendments bring Australian law mostly in line with that of the US. Note however that in the US there is no requirement for ‘specific, substantial and credible use’ to be considered at registration, as these grounds will not be examined before a patent is granted. These grounds may however be raised in post-grant challenges to a patent’s validity.
 
 [^Rehm]: _Rehm Pty Ltd v Websters Security System (International) Pty Ltd_ (1988) 11 IPR 289, 307-8; _Rescare Ltd v Anaesthetic Supplies_ (1992) 25 IPR 119, 142
 </div>
@@ -394,31 +379,34 @@ The Raising the Bar Amendments bring Australian law in line with that of the US.
 ## Requirement 5: Prohibition on Secret Use
 
 Patents must not be secretly used. This prohibits a patentee from effectively extending the patent term by making commercial use of the invention before the priority date. Patent protection provides a twenty-year monopoly to patent holders, before the invention falls into the public domain. It thus forces a patentee to choose between patent or trade secret protection.
+
 Secret use and public use are mutually exclusive - i.e. secret use will not affect novelty, and it is thus a separate area of invalidity.[^AUTOREPLACEDAzukoPtyLtdvOldDiggerPtyLtd200152IPR75ENDREPLACE]
 
-
-[^AUTOREPLACEDAzukoPtyLtdvOldDiggerPtyLtd200152IPR75ENDREPLACE]: _ Azuko Pty Ltd v Old Digger Pty Ltd_ (2001) 52 IPR 75
+[^AUTOREPLACEDAzukoPtyLtdvOldDiggerPtyLtd200152IPR75ENDREPLACE]: _Azuko Pty Ltd v Old Digger Pty Ltd_ (2001) 52 IPR 75
 
 **Video overview by Zoe Busch on [Secret Use](https://www.youtube.com/watch?v=1tWUkFVaW58).**
 
 Pursuant to s 9 of the _Act_ the following acts are not considered to be secret use of the invention:
 
-•	Use for the purpose of reasonable trial or experiment only;
-•	Use occurring solely in the course of a confidential disclosure of the invention;
-•	Any other use for any purpose other than the purpose of trade or commerce; and
-•	Any use of the invention by or on behalf of the Commonwealth, a State, or a Territory.
+*	Use for the purpose of reasonable trial or experiment only;
+
+*	Use occurring solely in the course of a confidential disclosure of the invention;
+
+*	Any other use for any purpose other than the purpose of trade or commerce; and
+
+*	Any use of the invention by or on behalf of the Commonwealth, a State, or a Territory.
 
 There is a new 12 months grace period in respect of secret use.[^AUTOREPLACEDPAs9ENDREPLACE] The grace period provisions in s 24 apply to any secret use of the invention made within 12 months of filing a complete application (as opposed to a provisional application). In other words, secret use will be treated in the same way as public use as far as the grace period is concerned.
 
 [^AUTOREPLACEDPAs9ENDREPLACE]: _PA_ s 9
 
 
-
 <div markdown="block" class="box  case">
 ##### _Azuko Pty Ltd v Old Digger Pty Ltd_ (2001) 52 IPR 75
 
-  * Facts: Concerned a hammer used in mining for exploratory drilling. A friend of the inventor, who had tested the hammers inventor, ordered a number from the inventor. However, the inventor had not accepted the order. It also decided that the manufacture of 15 to 20 hammers was reasonable in order to conduct trials to determine their commercial viability.
-* Held Has the patentee obtained a commercial benefit before the priority date? One instance is sufficient, no matter how close to the priority date it occurs. Rationale: Prevents a patentee gaining a longer monopoly than the statutory period. Production of 15 – 20 hammers in condition for commercial sale and order having been received for 5-6 cannot be considered a matter of trial and experiment, this indicates trial and experiment had been concluded earlier and commercial product had commenced since.  Lack of evidence as to any trials or experiments on hammers, so inference drawn is that this wasn’t occurring.
+**Facts:** Concerned a hammer used in mining for exploratory drilling. A friend of the inventor, who had tested the hammers inventor, ordered a number from the inventor. However, the inventor had not accepted the order. It also decided that the manufacture of 15 to 20 hammers was reasonable in order to conduct trials to determine their commercial viability.
+
+**Held:** Has the patentee obtained a commercial benefit before the priority date? One instance is sufficient, no matter how close to the priority date it occurs. Rationale: Prevents a patentee gaining a longer monopoly than the statutory period. Production of 15 – 20 hammers in condition for commercial sale and order having been received for 5-6 cannot be considered a matter of trial and experiment, this indicates trial and experiment had been concluded earlier and commercial product had commenced since.  Lack of evidence as to any trials or experiments on hammers, so inference drawn is that this wasn’t occurring.
 
 **Video overview by Sam D'Arro on [Secret use in Azuko Pty Ltd v Old Differ](https://www.youtube.com/watch?v=fmxgvofZOks).**
 
@@ -484,9 +472,7 @@ Principles in constructing claims:
 
 ## Patent Application Process
 
-The patent application process is complicated and involves many steps which are drawn out over a period of time. The following section will outline the process involved with both standard patents and innovation patents.
-
-### Standard Patent
+The patent application process is complicated and involves many steps which are drawn out over a period of time.
 
 1. Optional - provisional application filed:
 
@@ -494,63 +480,33 @@ The patent application process is complicated and involves many steps which are 
 
 	* If a provisional application is filed a complete application within 12 months of filing provisional application.[^AUTOREPLACEDPAs38ENDREPLACE]
 
-
-[^AUTOREPLACEDPAs38ENDREPLACE]: _PA_ s 38
-
 2.  Complete application filed:
 
 	* The filing date becomes the date of the patent;[^AUTOREPLACEDPAs65ENDREPLACE]
 
-
-[^AUTOREPLACEDPAs65ENDREPLACE]: _PA_ s 65
-
 	* Once the completed application has been filed time starts running;[^AUTOREPLACEDPAss67and68ENDREPLACE]
 
-
-[^AUTOREPLACEDPAss67and68ENDREPLACE]: _PA_ ss 67 and 68
-
 	* At this point the patent becomes open to public inspection ('OPI') 18 months after the priority date.[^AUTOREPLACEDPAs55Reg412ENDREPLACE]
-
-
-[^AUTOREPLACEDPAs55Reg412ENDREPLACE]: _PA_ s 55; Reg 4.12
 
 3. Examination
 
 	* Application must request an examination within 5 years of lodging a complete application;[^AUTOREPLACEDPAs44Reg315ENDREPLACE]
 
-
-[^AUTOREPLACEDPAs44Reg315ENDREPLACE]: _PA_ s 44, Reg 3.15
-
 	* Applicant has 21 months to address examiners objections;
 
 	* Re-examination can occur at the Registrars discretion.[^AUTOREPLACEDPAs97ENDREPLACE]
-
-
-[^AUTOREPLACEDPAs97ENDREPLACE]: _PA_ s 97
 
 4. Acceptance and publication
 
 	* Can appeal to the Federal court if rejected;[^AUTOREPLACEDPAs51ENDREPLACE]
 
-
-[^AUTOREPLACEDPAs51ENDREPLACE]: _PA_ s 51
-
 	* Once accepted, becomes open to public inspection;[^AUTOREPLACEDPAs55ENDREPLACE]
 
-
-[^AUTOREPLACEDPAs55ENDREPLACE]: _PA_ s 55
-
 	* The application has the same rights he or she would have if a patent had been granted on the day the specification becomes open to public inspection.[^AUTOREPLACEDPAs57ENDREPLACE]
-
-
-[^AUTOREPLACEDPAs57ENDREPLACE]: _PA_ s 57
 
 5. Opposition
 
 	* The validity of a patent is not guaranteed;[^AUTOREPLACEDPAs20ENDREPLACE]
-
-
-[^AUTOREPLACEDPAs20ENDREPLACE]: _PA_ s 20
 
 	* Opposition to the grant of a patent can occur on the grounds set out in s 59.
 
@@ -558,15 +514,24 @@ The patent application process is complicated and involves many steps which are 
 
 	* Infringement proceedings can be brought;[^AUTOREPLACEDPAs120ENDREPLACE]
 
-
-[^AUTOREPLACEDPAs120ENDREPLACE]: _PA_ s 120
-
 	* Defendant can bring a counter-claim for revocation of the patent.[^AUTOREPLACEDPAs121ENDREPLACE]
 
-
-[^AUTOREPLACEDPAs121ENDREPLACE]: _PA_ s 121
-
 For more information see [IP Australia’s Patent Application Guide](https://www.ipaustralia.gov.au/sites/g/files/net856/f/patent_application_guide.pdf)
+
+
+  [^AUTOREPLACEDPAs20ENDREPLACE]: _PA_ s 20
+  [^AUTOREPLACEDPAs65ENDREPLACE]: _PA_ s 65
+  [^AUTOREPLACEDPAss67and68ENDREPLACE]: _PA_ ss 67 and 68
+  [^AUTOREPLACEDPAs55Reg412ENDREPLACE]: _PA_ s 55; Reg 4.12
+  [^AUTOREPLACEDPAs97ENDREPLACE]: _PA_ s 97
+  [^AUTOREPLACEDPAs51ENDREPLACE]: _PA_ s 51
+  [^AUTOREPLACEDPAs44Reg315ENDREPLACE]: _PA_ s 44, Reg 3.15
+  [^AUTOREPLACEDPAs55ENDREPLACE]: _PA_ s 55
+  [^AUTOREPLACEDPAs57ENDREPLACE]: _PA_ s 57
+  [^AUTOREPLACEDPAs120ENDREPLACE]: _PA_ s 120
+  [^AUTOREPLACEDPAs38ENDREPLACE]: _PA_ s 38
+  [^AUTOREPLACEDPAs121ENDREPLACE]: _PA_ s 121
+
 
 **Video by Kimberley Dorrian on [How to Obtain a Standard Patent](https://goanimate.com/videos/0f_ER1g2iPds?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent).**
 
@@ -582,14 +547,16 @@ Australian patents only provide protection to the invention within Australia. Th
 
 A patent for an invention gives a monopoly within the territory of the country which grants it. Outside that territory, it has no force or effect. A patentee can apply to have a patent outside the territory.
 
-__*Norbert Steinhardt and Son Ltd v Meth*__
+<div markdown="block" class="box  case">
+##### _Norbert Steinhardt and Son Ltd v Meth_ (1961) 105 CLR 440
 
-In the case of *Norbert Steinhardt and Son Ltd v Meth* Fullagar J stated:[^AUTOREPLACED1961105CLR440443444ENDREPLACE]
+In the case of _Norbert Steinhardt and Son Ltd v Meth_ Fullagar J stated:[^AUTOREPLACED1961105CLR440443444ENDREPLACE]
 
+>The English Patents Act relates exclusively to English patents, and the infringements which it makes unlawful are infringements of English patents only. In the same way, the Australian Patents Act relates exclusively to Australian patents, and the infringements, which it makes unlawful, are infringements of Australian patents only. If, therefore, an Australian patentee sues in Australia for an infringement alleged to have been committed in England, and it is asked whether the act complained of was actionable in England, the answer must be: No. For his Australian patent gives him no monopoly in England, and what the defendant has done in England is perfectly lawful according to English law.
 
 [^AUTOREPLACED1961105CLR440443444ENDREPLACE]: (1961) 105 CLR 440, 443-444
 
->The English Patents Act relates exclusively to English patents, and the infringements which it makes unlawful are infringements of English patents only. In the same way, the Australian Patents Act relates exclusively to Australian patents, and the infringements, which it makes unlawful, are infringements of Australian patents only. If, therefore, an Australian patentee sues in Australia for an infringement alleged to have been committed in England, and it is asked whether the act complained of was actionable in England, the answer must be: No. For his Australian patent gives him no monopoly in England, and what the defendant has done in England is perfectly lawful according to English law.
+</div>
 
 ### Patent Protection Overseas
 
