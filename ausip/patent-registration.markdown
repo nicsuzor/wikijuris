@@ -50,19 +50,16 @@ There are a few categories of subject matter that are considered not patentable.
 
 1. Human beings and biological processes;[^AUTOREPLACEDReLuminisPtyLtdFertilitiescentrumAB200462IPR420ENDREPLACE]
 
-[^AUTOREPLACEDReLuminisPtyLtdFertilitiescentrumAB200462IPR420ENDREPLACE]: __Re Luminis Pty Ltd & Fertilitiescentrum AB__(2004) 62 IPR 420
-
 2. Plants and animals;[^AUTOREPLACEDPAs183ENDREPLACE]
-
-[^AUTOREPLACEDPAs183ENDREPLACE]: _PA_ s 18(3)
 
 3. Products that would be contrary to law;[^pa501a] and
 
+4. Mere mixtures.[^Wrigley]
+
+
+[^AUTOREPLACEDPAs183ENDREPLACE]: _PA_ s 18(3)
 [^pa501a]: _PA_ s 50(1)(a)
-
-3. Mere mixtures.[^Wrigley]
-
-
+[^AUTOREPLACEDReLuminisPtyLtdFertilitiescentrumAB200462IPR420ENDREPLACE]: __Re Luminis Pty Ltd & Fertilitiescentrum AB__(2004) 62 IPR 420
 [^Wrigley]: See _WM Wrigley Jr Co v Cadbury Schweppes Pty Ltd_ (2005) 66 IRP 298 [315]
 
 According to s 18 of the _Act_ (2): Human beings, and the biological processes for their generation, are not patentable inventions. This means that generally, methods of in vitro fertilisation are excluded from patentability.
@@ -315,13 +312,13 @@ This is enlivened, for example, when scientists working at Universities wanting 
 
 This provision also applies where:
 
-•	The patentee shows, uses or publishes at a recognised exhibition or publication at such an event. The specifics of this are found in the regulations;
+*	The patentee shows, uses or publishes at a recognised exhibition or publication at such an event. The specifics of this are found in the regulations;
 
-•	Publication or reading of a paper written by inventor before a learned society;
+*	Publication or reading of a paper written by inventor before a learned society;
 
-•	Working the invention in public for purpose of reasonable trial where type of invention makes it reasonably necessary for the working to be in public. For example, testing a rail car has to be done in public, cannot do so in enclosed environment; and
+*	Working the invention in public for purpose of reasonable trial where type of invention makes it reasonably necessary for the working to be in public. For example, testing a rail car has to be done in public, cannot do so in enclosed environment; and
 
-•	Information made publicly available without the consent of patentee.
+*	Information made publicly available without the consent of patentee.
 
 The specifics relating to this provision can be found in the _Patents Regulations 1991_.
 
@@ -355,16 +352,9 @@ Common general knowledge is the body of knowledge known or used by all those in 
 
 [^AUTOREPLACEDMinnesotaMiningManufacturingCoand3MAustraliaPtyLtdvBeiersdorf198029ALR29ENDREPLACE]: _Minnesota Mining & Manufacturing Co and 3M Australia Pty Ltd v Beiersdorf (1980)_ 29 ALR 29
 
-### Innovative Step
 
-Sections 18(1A)(b)(ii), 7(4): An invention is taken to involve an innovative step when compared to prior art base unless a person skilled in the relevant art in the light of the common general knowledge before the priority date of the claim would consider the invention only varied from the prior art information in ways that make no substantial contribution to the working of the invention.[^AUTOREPLACEDPAs74ENDREPLACE]
-
-
-[^AUTOREPLACEDPAs74ENDREPLACE]: _PA_ s 7(4)
-
-</div>
 <div markdown="block" class="box  case">
-##### _Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd_ [2009] FCAFC 81__
+##### _Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd_ [2009] FCAFC 81
 
 Facts: Concerned improved flexible roadside posts. Utilised sheet spring steel to overcome the problems of resilience and durability in existing flexible roadside posts. Stopped them from just cracking and breaking when hit. * Held: Innovation patents were designed for patenting improvements. The poles were patentable. The court held that the process to identify inventive step is to:
 
@@ -379,17 +369,8 @@ The question of whether an invention makes a substantial contribution as claimed
 
 ## Requirement 4: Usefulness
 
-### Pre-Raising the Bar Amendments
-
-Prior to the 2012 amendments, the term useful was not as clearly defined as it is today. Although usefulness is still a requirement of patentability, the new legislation requires other factors to be considered.
-Pursuant to ss 18(1)(c) and 18(1A)(c) (which still apply post-Raising the Bar) an invention must operate as claimed or produce the claimed result if the steps are followed by a person skilled in the art. It does not depend on whether the end product is commercially viable.[^AUTOREPLACEDRehmPtyLtdvWebstersSecuritySystemInternationalPtyLtd198811IPR2893078RescareLtdvAnaestheticSupplies199225IPR119142ENDREPLACE]
-
-
-[^AUTOREPLACEDRehmPtyLtdvWebstersSecuritySystemInternationalPtyLtd198811IPR2893078RescareLtdvAnaestheticSupplies199225IPR119142ENDREPLACE]: _Rehm Pty Ltd v Websters Security System (International) Pty Ltd_ (1988) 11 IPR 289, 307-8; _Rescare Ltd v Anaesthetic Supplies_ (1992) 25 IPR 119, 142
-
-
-### Post-Raising the Bar Amendments - Additional Definition
-
+An invention must be 'useful' to be eligible for a patent.[^PA181C]
+Pursuant to s 18(1)(c) (which still apply post-Raising the Bar) an invention must operate as claimed or produce the claimed result if the steps are followed by a person skilled in the art.
 As a result of the Raising the Bar Amendments,  ss 18(1)(c) and 18(1A)(c) were added which inserted a new definition of 'useful' in s 7A.
 
 7A Meaning of useful:
@@ -398,7 +379,17 @@ As a result of the Raising the Bar Amendments,  ss 18(1)(c) and 18(1A)(c) were a
   * (2)  The disclosure in the complete specification must be sufficient for that specific, substantial and credible use to be appreciated by a person skilled in the relevant art.
   * (3)  Subsection (1) does not otherwise affect the meaning of the word useful in this _Act_.
 
-The Raising the Bar Amendments bring Australian law in line with that of the US. In the US there is no requirement for ‘specific, substantial and credible use’ to be considered, as these grounds will not be examined. These grounds may however, may be raised in post-grant challenges to a patent’s validity.
+[^PA181C]: s 18(1)(c)
+
+<div markdown="block" class="box tip">
+##### The Raising the Bar Amendments in 2012 changed the law
+
+Prior to 2012 amendments, the term useful was not as clearly defined as it is today. When reading older cases, keep in mind that the tests for patentability are now slightly more stringent. Before 2012, an invention was required to operate as claimed or produce the claimed result if the steps are followed by a person skilled in the art. Patentability did not depend on whether the end product is commercially viable.[^Rehm]
+
+The Raising the Bar Amendments bring Australian law in line with that of the US. In the US there is no requirement for ‘specific, substantial and credible use’ to be considered, as these grounds will not be examined. These grounds may however be raised in post-grant challenges to a patent’s validity.
+
+[^Rehm]: _Rehm Pty Ltd v Websters Security System (International) Pty Ltd_ (1988) 11 IPR 289, 307-8; _Rescare Ltd v Anaesthetic Supplies_ (1992) 25 IPR 119, 142
+</div>
 
 ## Requirement 5: Prohibition on Secret Use
 
