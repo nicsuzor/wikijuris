@@ -84,7 +84,7 @@ The duration of an innovative patent is for the period of eight years from the d
 
 [^PA68]: _Patents Act 1990_ (Cth) s 68
 
-**Video overview by Maddison D on [The Difference Between a Standard Patent and an Innovation Patent](https://www.youtube.com/watch?v=G77xPOYJZng?small).**
+**Video overview by Maddison D on [The Difference Between a Standard Patent and an Innovation Patent](https://www.youtube.com/watch?v=G77xPOYJZng).**
 
 ## IP Australia's [Quick guide to innovation versus standard patents](https://www.ipaustralia.gov.au/patents/understanding-patents/types-patents) (CC-BY 4.0)
 

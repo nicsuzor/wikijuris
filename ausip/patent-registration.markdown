@@ -19,25 +19,20 @@ In order to register a patent the invention must meet a strict criteria. This ch
 
 ## Definitions
 
-^ Term ^ Definition ^
+| Term | Definition |
+|------|------|
 | Priority date | The date at which the novelty and inventiveness of the invention are assessed against the prior art base - usually the date the patent application is filed.[^AUTOREPLACEDPAs43ENDREPLACE] |
-
-
-[^AUTOREPLACEDPAs43ENDREPLACE]: _PA_ s 43
 | Prior art base | Publicly available information that describes the state of the art (state of existing known technology - latest and greatest) |
 | Novel | Has not been disclosed publicly in a document or used in the public in a way observable by members of the public, or two or more documents or acts which together disclose the invention.[^AUTOREPLACEDPAs7ENDREPLACE] |
-
-
-[^AUTOREPLACEDPAs7ENDREPLACE]: _PA_ s 7
 | Inventive | Not obvious to a person skilled in the relevant art (or field of technology) |
 | Patent area | Australia and the Australian continental shelf.[^AUTOREPLACEDSch1ENDREPLACE] |
-
-
-[^AUTOREPLACEDSch1ENDREPLACE]: Sch 1
 | Complete specification | is made open to public inspection ('OPI') 18 months after filing.[^AUTOREPLACEDPAss5455ENDREPLACE] |
 
 
+[^AUTOREPLACEDPAs43ENDREPLACE]: _PA_ s 43
 [^AUTOREPLACEDPAss5455ENDREPLACE]: _PA_ ss 54-55
+[^AUTOREPLACEDPAs7ENDREPLACE]: _PA_ s 7
+[^AUTOREPLACEDSch1ENDREPLACE]: Sch 1
 
 ## The Requirements of Patentability
 
@@ -45,9 +40,7 @@ In order to be patentable, an invention is required to meet the specifications f
 
 [^AUTOREPLACEDPAs7ENDREPLACE]: _PA_ s 7
 
-
-Patents are examined by IP Australia to decide whether the inventions are worthy of a patent. IP Australia bases their decision on the above specifications.[^AUTOREPLACEDPAs18ENDREPLACE]
-
+Before they are fully registered, Patents are examined by IP Australia to decide whether the inventions are eligible for a patent. IP Australia bases their decision on the above specifications.[^AUTOREPLACEDPAs18ENDREPLACE]
 
 [^AUTOREPLACEDPAs18ENDREPLACE]: _PA_ s 18
 
@@ -57,28 +50,24 @@ There are a few categories of subject matter that are considered not patentable.
 
 1. Human beings and biological processes;[^AUTOREPLACEDReLuminisPtyLtdFertilitiescentrumAB200462IPR420ENDREPLACE]
 
-
 [^AUTOREPLACEDReLuminisPtyLtdFertilitiescentrumAB200462IPR420ENDREPLACE]: __Re Luminis Pty Ltd & Fertilitiescentrum AB__(2004) 62 IPR 420
 
 2. Plants and animals;[^AUTOREPLACEDPAs183ENDREPLACE]
 
-
 [^AUTOREPLACEDPAs183ENDREPLACE]: _PA_ s 18(3)
 
-3. Products that would be contrary to law;[^AUTOREPLACEDPAs501aENDREPLACE] and
+3. Products that would be contrary to law;[^pa501a] and
+
+[^pa501a]: _PA_ s 50(1)(a)
+
+3. Mere mixtures.[^Wrigley]
 
 
-[^AUTOREPLACEDPAs501aENDREPLACE]: _PA_ s 50(1)(a)
-
-3. Mere mixtures.[^AUTOREPLACEDSeeWMWrigleyJrCovCadburySchweppesPtyLtd200566IRP298315ENDREPLACE]
-
-
-[^AUTOREPLACEDSeeWMWrigleyJrCovCadburySchweppesPtyLtd200566IRP298315ENDREPLACE]: See _WM Wrigley Jr Co v Cadbury Schweppes Pty Ltd_ (2005) 66 IRP 298 [315]
+[^Wrigley]: See _WM Wrigley Jr Co v Cadbury Schweppes Pty Ltd_ (2005) 66 IRP 298 [315]
 
 According to s 18 of the _Act_ (2): Human beings, and the biological processes for their generation, are not patentable inventions. This means that generally, methods of in vitro fertilisation are excluded from patentability.
 
 According to s 18 of the _Act_ (3): For the purposes of an innovation patent, plants and animals, and the biological processes for the generation of plants and animals, are not patentable inventions.
-
 
 There are also twos area where there is scope to exclude inventions from patentability found in the _TRIPS_ Agreement. First _TRIPS_ excludes inventions to "...protect human, animal or plant life, or health, or to avoid serious prejudice to the environment".[^AUTOREPLACEDTRIPSart272ENDREPLACE] The second area allows for exclusions with respect to medical treatments, plants and animals.[^AUTOREPLACEDTRIPSart273ENDREPLACE]
 
@@ -94,10 +83,10 @@ There are also twos area where there is scope to exclude inventions from patenta
 The opening words of s 18 (1): “an invention is a patentable invention for the purposes of a standard patent if the invention…”
 ‘Invention’ is defined in Schedule 1: ‘[I]nvention means any manner of new manufacture the subject of letters patent and grant of privilege within s 6 of the Statute of Monopolies, and includes an alleged invention.’
 
-The word 'new' does not appear in s 18, only in the definition of invention. In s 18, an invention is considered patentable if it is a manner of manufacture, but according to the definitions in Schedule 1, the invention must be a manner of “new” manufacture. Despite the wording, this difference does not create an additional element of patentability. Instead, the wording of s 18 is considered to override any discrepancy and there is no need to incorporate the 'new' aspect of manner of manufacture.[^AUTOREPLACEDLockwoodSecurityProductsPtyLtdvDoricProductsPtyLtdNo22007235CLR173211ENDREPLACE].
+The word 'new' does not appear in s 18, only in the definition of invention. In s 18, an invention is considered patentable if it is a manner of manufacture, but according to the definitions in Schedule 1, the invention must be a manner of “new” manufacture. Despite the wording, this difference does not create an additional element of patentability. Instead, the wording of s 18 is considered to override any discrepancy and there is no need to incorporate the 'new' aspect of manner of manufacture.[^Lockwood].
 
 
-[^AUTOREPLACEDLockwoodSecurityProductsPtyLtdvDoricProductsPtyLtdNo22007235CLR173211ENDREPLACE]: Lockwood Security Products Pty Ltd v Doric Products Pty Ltd (No 2)(2007) 235 CLR 173, 211
+[^Lockwood]: Lockwood Security Products Pty Ltd v Doric Products Pty Ltd (No 2)(2007) 235 CLR 173, 211
 
 ## Requirement 1: Manner of Manufacture (Patentable Subject Matter)
 
@@ -164,7 +153,7 @@ The development of technology and innovative business practices lead to question
 
 [^AUTOREPLACEDGrantvCommissionerofPatents2006154FCR62ENDREPLACE]: _Grant v Commissioner of Patents (2006) 154 FCR 62_
 
-**Video overview by Stephen Kuhn on [Business Method Patents](https://www.youtube.com/watch?v=_Pmqa_nldKE?small).**
+**Video overview by Stephen Kuhn on [Business Method Patents](https://www.youtube.com/watch?v=_Pmqa_nldKE).**
 
 
 <div markdown="block" class="box  case">
@@ -238,7 +227,7 @@ Issue:  Are methods of medical treatment for some reason excluded from scope of 
 Held: Patent at issue is valid – no exception for methods of medical treatment. For policy reasons, some earlier courts said should not be patentable so they are more available to people – however counter-argument for incentive principle. The court held that the patent had not infringed because s117 (contributory infringement by supply of products) could not be made out.
 
 
-**Video overview by Thalia Ho on [Swiss style claims' on application of pharmaceuticals](https://www.youtube.com/watch?v=IhG4TZOprH4?small).**
+**Video overview by Thalia Ho on [Swiss style claims' on application of pharmaceuticals](https://www.youtube.com/watch?v=IhG4TZOprH4).**
 
 ### Patentable Subject Matter: Genes
 
@@ -298,21 +287,21 @@ One of the key ways to determine if a patent has been anticipated by content wit
 
  > “The basic test for anticipation… is the same as that for infringement… whether the alleged anticipation would, if the patent were valid, constitute an infringement.”
 
-The prior art must disclose all the essential features of the invention as claimed.[^AUTOREPLACEDNicaroHoldingsPtyLtdvMartinEngineeringCo199091ALR513at517ENDREPLACE] It is not permissible to “mosaic” the prior art information to invalidate a patent.[^AUTOREPLACEDMinnesotaMiningManufacturingCovBeiersdorf1980144CLR253ENDREPLACE] However, reading together different publications is permissible where it is plain there is incorporation by reference, for example because an invention may involve putting things that exist together in a new way that hasn’t been done before.[^AUTOREPLACEDNicaroHoldingsPtyLtdvMartinEngineering199091ALR513ENDREPLACE]
+The prior art must disclose all the essential features of the invention as claimed.[^Nicaro517] It is not permissible to “mosaic” the prior art information to invalidate a patent.[^Minesota] However, reading together different publications is permissible where it is plain there is incorporation by reference, for example because an invention may involve putting things that exist together in a new way that hasn’t been done before.[^Nicaro]
 
 
-[^AUTOREPLACEDNicaroHoldingsPtyLtdvMartinEngineeringCo199091ALR513at517ENDREPLACE]: _Nicaro Holdings Pty Ltd v Martin Engineering Co* (1990)_ 91 ALR 513 at 517
+[^Nicaro517]: _Nicaro Holdings Pty Ltd v Martin Engineering Co* (1990)_ 91 ALR 513 at 517
 
-[^AUTOREPLACEDMinnesotaMiningManufacturingCovBeiersdorf1980144CLR253ENDREPLACE]: _Minnesota Mining & Manufacturing Co v Beiersdorf (1980)_ 144 CLR 253
+[^Minesota]: _Minnesota Mining & Manufacturing Co v Beiersdorf (1980)_ 144 CLR 253
 
-[^AUTOREPLACEDNicaroHoldingsPtyLtdvMartinEngineering199091ALR513ENDREPLACE]: _Nicaro Holdings Pty Ltd v Martin Engineering (1990)_ 91 ALR 513
-
-
-
-An inventor who discloses his/her invention to the public before the priority date will anticipate his or her own invention. This may result in the invention lacking novelty. However, disclosure of an invention to a person who is subject to an obligation of confidence will not destroy novelty.  There is also a grace period where an applicant can file a complete patent application within 12 months of the disclosure and still be granted a patent.[^AUTOREPLACEDPAs24ENDREPLACE]
+[^Nicaro]: _Nicaro Holdings Pty Ltd v Martin Engineering (1990)_ 91 ALR 513
 
 
-[^AUTOREPLACEDPAs24ENDREPLACE]: _PA_ s 24
+
+An inventor who discloses his/her invention to the public before the priority date will anticipate his or her own invention. This may result in the invention lacking novelty. However, disclosure of an invention to a person who is subject to an obligation of confidence will not destroy novelty.  There is also a grace period where an applicant can file a complete patent application within 12 months of the disclosure and still be granted a patent.[^pa24]
+
+
+[^pa24]: _PA_ s 24
 
 **Video overview by Jacob Corbett on [Novelty in patents and the reverse infringement test](https://www.youtube.com/watch?v=KdTOAoZmveg).**
 
@@ -336,36 +325,27 @@ This provision also applies where:
 
 The specifics relating to this provision can be found in the _Patents Regulations 1991_.
 
-## Requirement 3: Inventive step (Standard Patents) or Innovative Step (Innovation Patents)
-An applicant can choose to apply for either a Standard Patent or an Innovation Patent.
+## Requirement 3: Inventive step
 
-**Video overview by Marcus de Witt-Ryall on [Innovative vs Inventive steps](https://www.youtube.com/watch?v=m781AZkfQdM?small).**
+A patent must involve an inventive step. According to ss 18(1)(b)(ii) and 7(2) of the _Act_, this means that the invention would not have been *obvious* to a person skilled in the relevant art in the light of the common general knowledge as it existed before the priority date. The threshold for this test is relatively low - ‘if it would not have been obvious’.
 
-**Video overview by Rebecca Mync on [Inventive Step vs Innovative Step](https://www.youtube.com/watch?v=UUi0f_H5Kao).**  
+“Obvious” has the ordinary English meaning of “very plain”.[^Aktie] A “scintilla of inventiveness” (very small amount) is sufficient to support an inventive step.[^Meyers] It is necessary to guard against the use of hindsight - an invention always seems more obvious when you know about it.
 
-### Inventive Step
-
-
-According to ss 18(1)(b)(ii) and 7(2) of the _Act_, there will be an inventive step unless the invention would have been obvious to a person skilled in the relevant art in the light of the common general knowledge as it existed before the priority date. The threshold for this test is relatively low - ‘if it would not have been obvious’.
-
-“Obvious” has the ordinary English meaning of “very plain”.[^AUTOREPLACEDAktiebolagetHsslevAlphapharmPtyLtd2002212CLR41142630ENDREPLACE] A “scintilla of inventiveness” (very small amount) is sufficient to support an inventive step.[^AUTOREPLACEDMeyersTaylorPtyLtdvVicarrIndustriesLtd1977137CLR28249AickenJENDREPLACE] It is necessary to guard against the use of hindsight - an invention always seems more obvious when you know about it.
-
-[^AUTOREPLACEDAktiebolagetHsslevAlphapharmPtyLtd2002212CLR41142630ENDREPLACE]: Aktiebolaget Hässle v Alphapharm Pty Ltd (2002) 212 CLR 411, 426 [30]
+[^Aktie]: Aktiebolaget Hässle v Alphapharm Pty Ltd (2002) 212 CLR 411, 426 [30]
 
 
-[^AUTOREPLACEDMeyersTaylorPtyLtdvVicarrIndustriesLtd1977137CLR28249AickenJENDREPLACE]: Meyers Taylor Pty Ltd v Vicarr Industries Ltd (1977) 137 CLR 28, 249 (Aicken J
+[^Meyers]: Meyers Taylor Pty Ltd v Vicarr Industries Ltd (1977) 137 CLR 28, 249 (Aicken J
 
 **Video overview by Shiva Abassi  on [Inventive Step](https://www.youtube.com/watch?v=Pvi38hb98hY).**
 
 **Video overview by Emily Sakzewski on [Inventive Step](https://www.youtube.com/watch?v=3fdADIrxx6Q).**
 
-A 'person skilled in the relevant art' is a hypothetical “non-inventive” person who possesses “ordinary skill” who works in the art or science of the invention.[^AUTOREPLACEDHLundbeckASvAlphapharmPtyLtd2009177FCR151190173perBennettJENDREPLACE] This can be a team of researchers.[^AUTOREPLACEDAktiebolagetHsslevAlphapharmPty2002212CLR41142630ENDREPLACE]
+A 'person skilled in the relevant art' is a hypothetical “non-inventive” person who possesses “ordinary skill” who works in the art or science of the invention.[^Lundbeck] This can be a team of researchers.[^Aktie30]
 
 
-[^AUTOREPLACEDHLundbeckASvAlphapharmPtyLtd2009177FCR151190173perBennettJENDREPLACE]: H Lundbeck A/S v Alphapharm Pty Ltd (2009) 177 FCR 151, 190, [173] per Bennett J
+[^Lundbeck]: H Lundbeck A/S v Alphapharm Pty Ltd (2009) 177 FCR 151, 190, [173] per Bennett J
 
-[^AUTOREPLACEDAktiebolagetHsslevAlphapharmPty2002212CLR41142630ENDREPLACE]: Aktiebolaget Hässle v Alphapharm Pty (2002) 212 CLR 411, 426 [30]
-
+[^Aktie30]: Aktiebolaget Hässle v Alphapharm Pty (2002) 212 CLR 411, 426 [30]
 
 **Video overview by Carrick Brough on [A person skilled in the art](https://www.youtube.com/watch?v=ViORhY1J6Z4).**
 **Video overview by Nathan Dowrick on [A person skilled in the art](https://www.youtube.com/watch?v=s1ER6lusqV0).**
@@ -394,7 +374,7 @@ Facts: Concerned improved flexible roadside posts. Utilised sheet spring steel t
 
 The question of whether an invention makes a substantial contribution as claimed has not been explained in greater detail. It is a factual enquiry that requires the perspective of a person skilled in the art having regard to relevant common general knowledge. It is decided on a case by case basis.
 
-**Video overview by Daniel G on [Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd](https://www.youtube.com/watch?v=1h4P4FvVCw8?small).**
+**Video overview by Daniel G on [Dura-Post (Aust) Pty Ltd v Delnorth Pty Ltd](https://www.youtube.com/watch?v=1h4P4FvVCw8).**
 </div>
 
 ## Requirement 4: Usefulness
@@ -426,7 +406,7 @@ Patents must not be secretly used. This prohibits a patentee from effectively ex
 Secret use and public use are mutually exclusive - i.e. secret use will not affect novelty, and it is thus a separate area of invalidity.[^AUTOREPLACEDAzukoPtyLtdvOldDiggerPtyLtd200152IPR75ENDREPLACE]
 
 
-[^AUTOREPLACEDAzukoPtyLtdvOldDiggerPtyLtd200152IPR75ENDREPLACE]: _Azuko Pty Ltd v Old Digger Pty Ltd_ (2001) 52 IPR 75
+[^AUTOREPLACEDAzukoPtyLtdvOldDiggerPtyLtd200152IPR75ENDREPLACE]: _ Azuko Pty Ltd v Old Digger Pty Ltd_ (2001) 52 IPR 75
 
 **Video overview by Zoe Busch on [Secret Use](https://www.youtube.com/watch?v=1tWUkFVaW58).**
 
@@ -449,10 +429,10 @@ There is a new 12 months grace period in respect of secret use.[^AUTOREPLACEDPAs
   * Facts: Concerned a hammer used in mining for exploratory drilling. A friend of the inventor, who had tested the hammers inventor, ordered a number from the inventor. However, the inventor had not accepted the order. It also decided that the manufacture of 15 to 20 hammers was reasonable in order to conduct trials to determine their commercial viability.
 * Held Has the patentee obtained a commercial benefit before the priority date? One instance is sufficient, no matter how close to the priority date it occurs. Rationale: Prevents a patentee gaining a longer monopoly than the statutory period. Production of 15 – 20 hammers in condition for commercial sale and order having been received for 5-6 cannot be considered a matter of trial and experiment, this indicates trial and experiment had been concluded earlier and commercial product had commenced since.  Lack of evidence as to any trials or experiments on hammers, so inference drawn is that this wasn’t occurring.
 
-**Video overview by Sam D'Arro on [Secret use in Azuko Pty Ltd v Old Differ](https://www.youtube.com/watch?v=fmxgvofZOks?small).**
+**Video overview by Sam D'Arro on [Secret use in Azuko Pty Ltd v Old Differ](https://www.youtube.com/watch?v=fmxgvofZOks).**
 
 
-**Video overview by Diana Chiknaikin on [Azuko Pty Ltd v Old Digger](https://www.youtube.com/watch?v=6kMRDqoBBqU?small).**
+**Video overview by Diana Chiknaikin on [Azuko Pty Ltd v Old Digger](https://www.youtube.com/watch?v=6kMRDqoBBqU).**
 
 </div>
 
