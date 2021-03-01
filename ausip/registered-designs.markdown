@@ -23,6 +23,10 @@ To qualify for registration, a design must have a commercial application or use,
 For designers to get protection, a design must be registered before any manufacturing starts. One-off artistic designs for things like fashion, art, and furniture will often be automatically covered by copyright law and do not require design registration unless they are mass produced (50 or more items). Once a design is mass-produced or once the owner registers for design protection, copyright in the artist design is lost.
 </div>
 
+<div markdown="block" class="box warning">
+**The law might change soon.** The [Designs Amendment (Advisory Council on Intellectual Property Response) Bill 2020](https://www.legislation.gov.au/Details/C2020B00170) has passed the Senate and is currently before the House of Representatives. It will introduce a 12-month grace period, which means designers will no longer lose their ability to protect their products if they do not register before they commence production or publish their plans. The Bill also includes [some other changes](https://www.ipaustralia.gov.au/about-us/legislation/designs-amendment-advisory-council-intellectual-property-response-bill-2020) to the [Designs Act](https://www.legislation.gov.au/Series/C2004A01232)
+</div>
+
 
 **Video overview by Nicolas Suzor on [Registered Designs](https://www.youtube.com/watch?v=AcbQ6B8I00g&list=PLa0bKPnUKQrygyeH-viiW_85BrcICvAve&index=1).**
 

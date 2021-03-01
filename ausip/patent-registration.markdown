@@ -219,8 +219,6 @@ Issue:  Are methods of medical treatment for some reason excluded from scope of 
 Held: Patent at issue is valid – no exception for methods of medical treatment. For policy reasons, some earlier courts said should not be patentable so they are more available to people – however counter-argument for incentive principle. The court held that the patent had not infringed because s117 (contributory infringement by supply of products) could not be made out.
 </div>
 
-**Video overview by Thalia Ho on [Swiss style claims' on application of pharmaceuticals](https://www.youtube.com/watch?v=IhG4TZOprH4).**
-
 ### Patentable Subject Matter: Genes
 
 One of the most contentious areas within patent law is the patentability of genes or the process of isolating genes. In the seminal case of _D’Arcy v Myriad Genetics Inc_[^AUTOREPLACED2015HCA35ENDREPLACE] the court was asked to consider whether the process of chemically isolating genes amounted to patentable subject matter. The court held that this process was not patentable subject matter.
@@ -532,12 +530,6 @@ For more information see [IP Australia’s Patent Application Guide](https://www
   [^AUTOREPLACEDPAs38ENDREPLACE]: _PA_ s 38
   [^AUTOREPLACEDPAs121ENDREPLACE]: _PA_ s 121
 
-
-**Video by Kimberley Dorrian on [How to Obtain a Standard Patent](https://goanimate.com/videos/0f_ER1g2iPds?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent).**
-
-## Ownership: employees and employers
-
-**Video overview by Matthew Egerton-Vernon on [When an Employer Will Own The Invention of an Employee](https://www.youtube.com/watch?v=aLZLfS2vHRs).**
 
 ## International Patents
 

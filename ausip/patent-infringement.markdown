@@ -8,7 +8,7 @@ grand_parent: Australian IP Law
 [Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/patent-infringement.markdown){: .btn .btn-outline }
 
 
-# Patent Infringement
+# Patent Ownership, exploitation, and infringement
 {: .no_toc }
 
 1. Table of Contents
@@ -18,7 +18,6 @@ grand_parent: Australian IP Law
 
 ### Exclusive Rights of Patentee
 The patentee has the right to ‘exploit’ the invention.[^AUTOREPLACEDs131ENDREPLACE] 'Exploit' is defined in Schedule 1 to mean:
-
 
 [^AUTOREPLACEDs131ENDREPLACE]: s 13(1)
 
@@ -31,6 +30,7 @@ The rights granted to a patentee are considered personal property.[^AUTOREPLACED
 [^AUTOREPLACEDs132ENDREPLACE]: s 13(2)
 
 ### Ownership
+
 Ownership, within s6 of the *Statute of Monopolies* traditionally referred to the ‘first and true inventor’, which included the person who first introduced the invention into the realm.[^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE] This definition of ownership is not the case today. Pursuant to the _Patents Act 1990_ (Cth), an inventor has a right to apply for a patent, but a person can also acquire rights to an invention. Rights can be acquires through the course of employment or by purchasing the right.[^AUTOREPLACEDs15ENDREPLACE] Mere importation is no longer sufficient to apply for a patent.
 
 [^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE]: E_dgeberry v Stephens* (1693)_ 2 Salk 447
@@ -51,11 +51,10 @@ There can be joint inventors of a patent.[^AUTOREPLACEDs31ENDREPLACE] Joint inve
 
 
 
+### Who owns inventions by employees?
+
 **Video overview by Taylor Lennox on [When the rights to an invention will be owned by an employer](https://www.youtube.com/watch?v=mF5DzTcqB4k).**
 
-
-
-### Employee Inventions
 Ownership of employee inventions vests in employers where there is an express term in the employment contract. Any express term should not be so wide as to constitute a restraint of trade.[^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE] In _Electrolux_, an adaptor to fit a bag to a vacuum cleaner was invented by a storekeeper and the terms of his employment had nothing to do with inventing in relation to vacuum cleaners.
 
 [^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE]: _Electrolux Ltd v Hudson_ [1977] FSR 312
@@ -206,11 +205,11 @@ Section 117 of the _Act_ outlines the doctrine of contributory infringement.
 
 * Section 117(2)  A reference in subsection (1) to the use of a product by a person is a reference to:
 
-a. if the product is capable of only one reasonable use, having regard to its nature or design that use; or
+  - a. if the product is capable of only one reasonable use, having regard to its nature or design that use; or
 
-b. if the product is not a staple commercial product any use of the product, if the supplier had reason to believe that the person would put it to that use; or
+  - b. if the product is not a staple commercial product any use of the product, if the supplier had reason to believe that the person would put it to that use; or
 
-c. in any case the use of the product in accordance with any instructions for the use of the product, or any inducement to use the product, given to the person by the supplier or contained in an advertisement published by or with the authority of the supplier.
+  - c. in any case the use of the product in accordance with any instructions for the use of the product, or any inducement to use the product, given to the person by the supplier or contained in an advertisement published by or with the authority of the supplier.
 
 The mere completion of supply of the patentable product amounts to infringement. It is immaterial whether the product is put to an infringing use.[^AUTOREPLACEDCollinsvNorthernTerritory2007161FCR54961FrenchJGenericHealthPtyLtdvOtsukaPharmaceuticalCoLtd2013296ALR50140ENDREPLACE]
 
@@ -248,11 +247,11 @@ Section 119C of the _Act_ was introduced with the Raising the Bar amendments. Th
 1. a person may do an act that would otherwise amount to an infringement of the patent, if the act is done for experimental purposes relating to the subject matter of the invention (scientific research, unfortunately this experimental use exemption is narrow and doesn’t relieve may concerns raised).
 
 2. “Experimental purposes relating to the subject matter of the invention” include, but are not limited to:
-	a. determining the properties of the invention
-	b. determining the scope of a claim relating to the invention
-	c. improving or modifying the invention
-	d. determining the validity of the patent or of a claim relating to the invention
-	e. determining whether the patent for the invention would be, or has been, infringed by the doing of an act.
+  - a. determining the properties of the invention
+  - b. determining the scope of a claim relating to the invention
+  - c. improving or modifying the invention
+  - d. determining the validity of the patent or of a claim relating to the invention
+  - e. determining whether the patent for the invention would be, or has been, infringed by the doing of an act.
 
 </div>
 
@@ -288,11 +287,6 @@ A counterclaim for revocation of the patent can be brought by the alleged infrin
 
 [^AUTOREPLACEDs20ENDREPLACE]: s 20
 
-
-
-**Video overview by Jack Longley on [Section 19 Certificates of Validity](https://www.youtube.com/watch?v=7Z9mED6DEYE).**
-
-
 ## Unjustified Threats
 The provisions dealing with unjustified threats are contained in Part 3, Chapter 11 of the _Act_.  Section 128 allows a person to apply to the Court for:
 
@@ -301,7 +295,6 @@ The provisions dealing with unjustified threats are contained in Part 3, Chapter
 * (c) the recovery of any damages sustained by the applicant as a result of the threats.
 
 However, mere notification of the existence of a patent or a patent application is not a threat for the purposes of s128.[^AUTOREPLACEDs131ENDREPLACE]
-
 
 [^AUTOREPLACEDs131ENDREPLACE]: s131
 
