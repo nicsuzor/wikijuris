@@ -309,15 +309,12 @@ Defences to trade mark infringement are found in s 122 of the _TMA_. The table b
 
 | Section | Defence |
 |-------|-------|
-| s 122(1)(a)(i) | The person uses in good faith the person’s name or the name of the person’s place of business.
-Video overview by Shelby McGreachan on [The Good Faith Use of Own Name](https://www.youtube.com/watch?v=xqxoZgsN2Cw).
-|
+| s 122(1)(a)(i) | The person uses in good faith the person’s name or the name of the person’s place of business. See video overview by Shelby McGreachan on [The Good Faith Use of Own Name](https://www.youtube.com/watch?v=xqxoZgsN2Cw). |
 | s 122(1)(b)(i) | The person uses a sign in good faith to indicate the kind, quality, quantity, intended purpose, value, geographical origin, or some other characteristic, of goods or services (descriptively – not used much as often wont be using as a TM). |
 | s 122(1)(c) | The person uses the trade mark in good faith to indicate the intended purpose of goods (in particular as accessories or spare parts) or services.  This ensures businesses can use a TM to show that their goods (e.g. spare parts or peripherals) are compatible with another trader’s goods. It is designed to ensure TM does not provide TM owners with an overly-extensive monopoly.
-Video overview by Andrew Avenell on [The s 122(1)(c) Spare Parts and Accessories Defence](https://www.youtube.com/watch?v=wPJNLX_5fNc)
- |
+Video overview by Andrew Avenell on [The s 122(1)(c) Spare Parts and Accessories Defence](https://www.youtube.com/watch?v=wPJNLX_5fNc)  |
 | s 122(1)(d) | The person uses the trade mark for the purposes of comparative advertising; Traders can use other people’s marks to compare their products to another trader’s. Allows use in order to distinguish from the competition, and encourages competition and genuine comparative advertising between the two.
-Video overview by Craig Sherritt on [The Comparative Advertising Defence](https://www.youtube.com/watch?v=mKiifGrx1V8) |
+See video overview by Craig Sherritt on [The Comparative Advertising Defence](https://www.youtube.com/watch?v=mKiifGrx1V8) |
 | s 122(1)(e) | The person exercises a right to use a trade mark given to the person under this Act. |
 | s 122(1)(f) | A trade mark will not be infringed where the court is of the opinion that the person would obtain registration of the trade mark in his or her name if the person were to apply for it. |
 | s 122(1)(fa) | A trade mark will not be infringed where the person uses a trade mark that is substantially identical with or deceptively similar, the first-mentioned trade mark; and the court is of the opinion that the person would obtain registration of the substantially identical or deceptively similar trade mark in his or her name if the person were to apply for it. |
