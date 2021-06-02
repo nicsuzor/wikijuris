@@ -143,6 +143,12 @@ Facts: Chinese language word processor. Based on an algorithm. Involved using or
 Held: This is patentable subject matter.  Computer software can be protected by patent.
 </div>
 
+<div markdown="block" class="box  case">
+#### _Commissioner of Patents v Rokt_ [2020] FCAFC 86
+Ordinary algorithms that just 'computerize' another task are not patentable.
+**Video overview by Henry Bakker on [Commissioner of Patents v Rokt](https://youtu.be/Y40OKAkwWTA)**
+</div>
+
 ### Patentable Subject Matter: Business Methods
 
 The development of technology and innovative business practices lead to question of whether business methods could be considered patentable subject matter. This was a very controversial area of patent law. The current position appears to be that the invention must produce a physical effect in the sense of a concrete effect or phenomenon or manifestation or transformation.[^AUTOREPLACEDGrantvCommissionerofPatents2006154FCR62ENDREPLACE]
