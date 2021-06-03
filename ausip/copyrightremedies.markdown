@@ -26,6 +26,7 @@ There are a number of remedies available to copyright owners which include civil
 
 [^AUTOREPLACEDCAs1152ENDREPLACE]: _CA_ s 115(2)
 
+**See [video by Lynsey Donaldson on the different types of damages available in copyright](https://www.youtube.com/watch?v=AcF3yEUrYVM).**
 
 ## Civil Remedies
 
