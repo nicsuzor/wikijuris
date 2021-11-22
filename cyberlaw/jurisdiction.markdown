@@ -165,8 +165,6 @@ As explained above, parties to a contract may select the legal system that will 
 
 ### Torts Law
 
-**Video Overview by [Georgia Ardouin](https://www.youtube.com/watch?v=wmmPNNfBs4U)**
-
 As explained above, the _lex loci delicti rule_ applies to torts law. Double actionability rule: the events are actionable both under the law of the forum and under the law of the place where the events took place. Australian courts are generally very reluctant to apply foreign law. See forum non-convenience doctrine below.
 
 **_Dow Jones & Company Inc v Gutnick_**
