@@ -108,14 +108,14 @@ The second claim that Barlow makes in his Declaration is that state governments 
 
 >"We believe that from ethics, enlightened self-interest, and the commonweal, our governance will emerge."
 
-Barlow's argument is that the rules and social norms created by online communities to govern themselves will be better than anything imposed by territorial states. This was expressed by Johnson and Post in a famous 1995 article as a general principle that there is “no geographically localized set of constituents with a strong and more legitimate claim to regulate [online activities]” than the members of the communities themselves.[^johsonpost] In addition to arguing that online communities should be able to govern for themselves, Barlow and Johnson and Post asserted that if territorial governments try to impose their own laws on a borderless internet, users will never be able to work out what set of rules they are subject to. The consequence of governments attempting to prevent online communities from regulating themselves, according to Post, would be:
+Barlow's argument is that the rules and social norms created by online communities to govern themselves will be better than anything imposed by territorial states. This was expressed by Johnson and Post in a famous 1995 article as a general principle that there is “no geographically localized set of constituents with a strong and more legitimate claim to regulate [online activities]” than the members of the communities themselves.[^johsonpost1375] In addition to arguing that online communities should be able to govern for themselves, Barlow and Johnson and Post asserted that if territorial governments try to impose their own laws on a borderless internet, users will never be able to work out what set of rules they are subject to. The consequence of governments attempting to prevent online communities from regulating themselves, according to Post, would be:
 
 
-> “... the chaotic nonsense of Jurisdictional Whack-a-Mole".[^johsonpost1375]
+> “... the chaotic nonsense of Jurisdictional Whack-a-Mole".[^johsonpost913]
 
 [^johsonpost1375]: David Johnson and David Post, ‘Law and Borders--The Rise of Law in Cyberspace’ (1995) 48 Stanford Law Review 1367, 1375
 
-[^johnsonpost]: Post, 'Governing Cyberspace: Law' (2008) http://www.academia.edu/2720975/Governing_Cyberspace_Law
+[^johnsonpost913]: Post, 'Governing Cyberspace: Law' (2008) http://www.academia.edu/2720975/Governing_Cyberspace_Law
 
 
 As we will see in the [Jurisdiction chapter](jurisdiction), the legitimacy of any one nation claiming jurisdiction over transnational communications is still a vexed issue. As the Australian High Court noted in the _Dow Jones v Gutnick_[^gutnick] case, nation states purport to have a responsibility to protect their citizens' interests online, and certainly a desire to regulate online content and behaviour.
