@@ -23,8 +23,6 @@ This Chapter introduces you to the concept of jurisdiction in the internet conte
 
 ## What Is Jurisdiction?
 
-**An introduction from [Megan Patten](https://www.youtube.com/watch?v=yegdr8Q5MdY)**
-
 The application of rules of jurisdiction to the internet is a challenging issue for courts around the globe. Western democratic understandings of jurisdiction have evolved in relation to the geographical boundaries of countries.[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201157ffAUTOREPLACED] Western democracies assert **[sovereign](https://www.youtube.com/watch?v=VMC9u7PZZCo)** power, which is based on the will of their people, to govern persons and things within their territory free from external interference. A nation state's jurisdiction does not usually extend beyond its geographical boundaries.[^AUTOREPLACEDCyberLawCentreInternetJurisdictionWhatIsJurisdictionwwwcyberlawcentreorggenl203212Jurisdictionv1pptxAUTOREPLACED] However, now that people routinely use the internet and other emerging technologies to interact across jurisdictional boundaries, courts have been grappling with complex legal questions of which state may and should properly exercise jurisdiction over parties to online activities.
 
 [^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201157ffAUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 57 ff
