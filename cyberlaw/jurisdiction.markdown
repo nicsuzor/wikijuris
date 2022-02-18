@@ -23,8 +23,6 @@ This Chapter introduces you to the concept of jurisdiction in the internet conte
 
 ## What Is Jurisdiction?
 
-**An introduction from [Megan Patten](https://www.youtube.com/watch?v=yegdr8Q5MdY)**
-
 The application of rules of jurisdiction to the internet is a challenging issue for courts around the globe. Western democratic understandings of jurisdiction have evolved in relation to the geographical boundaries of countries.[^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201157ffAUTOREPLACED] Western democracies assert **[sovereign](https://www.youtube.com/watch?v=VMC9u7PZZCo)** power, which is based on the will of their people, to govern persons and things within their territory free from external interference. A nation state's jurisdiction does not usually extend beyond its geographical boundaries.[^AUTOREPLACEDCyberLawCentreInternetJurisdictionWhatIsJurisdictionwwwcyberlawcentreorggenl203212Jurisdictionv1pptxAUTOREPLACED] However, now that people routinely use the internet and other emerging technologies to interact across jurisdictional boundaries, courts have been grappling with complex legal questions of which state may and should properly exercise jurisdiction over parties to online activities.
 
 [^AUTOREPLACEDBrianFitzgeraldetal_InternetandEcommerceLawBusinessandPolicy_ThomsonReutersProfessionalAustraliaLimited201157ffAUTOREPLACED]: Brian Fitzgerald et al, _Internet and E-commerce Law, Business and Policy_ (Thomson Reuters (Professional) Australia Limited, 2011) 57 ff
@@ -167,8 +165,6 @@ As explained above, parties to a contract may select the legal system that will 
 
 ### Torts Law
 
-**Video Overview by [Georgia Ardouin](https://www.youtube.com/watch?v=wmmPNNfBs4U)**
-
 As explained above, the _lex loci delicti rule_ applies to torts law. Double actionability rule: the events are actionable both under the law of the forum and under the law of the place where the events took place. Australian courts are generally very reluctant to apply foreign law. See forum non-convenience doctrine below.
 
 **_Dow Jones & Company Inc v Gutnick_**
@@ -229,7 +225,8 @@ Facts that a court can take into consideration when apply the Voth test follow:[
 
 ### Substituted Service via Social Media
 
-**[Rhiannon Butcher](https://www.youtube.com/watch?v=jWyJWHoiTjM) and [Andrew Avenell](https://www.youtube.com/watch?v=AF5Bc8OQTlU) explain substituted service via social media**
+**[Rhiannon Butcher](https://www.youtube.com/watch?v=jWyJWHoiTjM) explains substituted service via social media**
+
 
 [http://www.austlii.edu.au/au/legis/qld/consol_reg/ucpr1999305/s116.html](Rule 116) of the _Uniform Civil Procedure Rules 1999_ (Qld) enables the court to order that substituted service is will be taken to have occurred when normal service is impractical and another acceptable method of service is used. In order for a plaintiff to be successful in obtaining an order allowing substituted service of court documents via social media, the plaintiff will need to establish:
   * that there is a practical impossibility of normal service in the circumstances; and
