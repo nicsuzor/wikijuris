@@ -1,6 +1,6 @@
 ---
 layout: default
-title: crcrown
+title: Crown Copyright
 nav_order: 25
 parent: Copyright
 grand_parent: Australian IP Law
@@ -41,4 +41,6 @@ Held, that the New South Wales Government did not own copyright in the surveyors
 
 Finkelstein J on Crown copyright:
 
-  * "As regards to work made by the Crown, we are necessarily dealing with a fiction. Generally for copyright purposes a work is made by its author. What s 176 contemplates is that, in certain circumstances, the act of the author in making a work is to be attributed to the Crown. An attribution of this kind is a concept well known in the law."
+> "As regards to work made by the Crown, we are necessarily dealing with a fiction. Generally for copyright purposes a work is made by its author. What s 176 contemplates is that, in certain circumstances, the act of the author in making a work is to be attributed to the Crown. An attribution of this kind is a concept well known in the law."
+
+
