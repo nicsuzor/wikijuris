@@ -18,13 +18,13 @@ This chapter will explain what intellectual property law is, the areas of law co
 
 ## What is Intellectual Property?
 
-Intellectual Property (IP) is a unique kind of legal ‘property’. Unlike physical property, which can be seen and touched, intellectual property is also known as ‘intangible property’ because it does not always take physical form. Intellectual property rights aim to protect the intellectual and creative efforts of individuals and organisations.
+Intellectual Property (IP) is a unique kind of legal ‘property’. Unlike physical property, which can be seen and touched, intellectual property is also known as ‘intangible property’ because it does not take physical form. Intellectual property rights aim to protect the intellectual and creative efforts of individuals and organisations.
 
 IP plays an important role in fostering and rewarding originality, innovation and creativity in our economy. The legal system for protecting IP helps to identify and acknowledge ownership rights in creations. These ownership rights add economic value to creations and help to provide competitive advantage in the market. For example, these rights allow an IP owner to charge a fee to someone who wants to use or copy their creation or invention.
 
 ### IP does not protect ideas
 
-It is important to note that intellectual property does not protect an idea or a concept.
+It is important to note that intellectual property does not protect an idea, fact or a concept.
 
 It is only when an idea is developed into a form of expression or into an invention that it becomes intellectual property. The law protects the way in which the idea is expressed, or a tangible invention that embodies the idea, rather than the idea itself.
 
@@ -62,28 +62,32 @@ The term ‘copyright’ refers to the legal rights vested in the creators and p
 
 The main objective of copyright is to promote creativity and provide incentives to people who invest their time and talent in creating works of cultural and economic significance.
 
-Copyright law does not make any judgments about the aesthetic or cultural quality of a work. Thus, a ‘literary work’ simply refers to something in writing – a book, for example, does not need to qualify as high literature to receive copyright protection. An instruction manual for a new computer may receive protection as a literary work.
+Copyright law does not make any judgments about the aesthetic or cultural quality of a work. Thus, a ‘literary work’ simply refers to something in writing – a book, for example, does not need to qualify as high literature to receive copyright protection. For instance, an instruction manual for a new computer may receive protection as a literary work.
 
 Over time, copyright has evolved in its scope and application. It also covers computer programs, radio and TV broadcasts, cinematographic films (i.e. movies) and sound recordings.
 
 #### Patents
 
-A patent is a legal right granted to protect new and useful inventions. An invention might be a product (such as a machine), a process (such as a method for extracting one chemical from another), or a new technical solution to an existing problem. Some software inventions may also be protected by a patent.
+A patent is a grant of exclusive rights to 'exploit' a new and useful invention. An invention might be a product (such as a machine), a process (such as a method for extracting one chemical from another), or a new technical solution to an existing problem. Some software inventions may also be protected by a patent.
 
-The objective of patent law is to recognise inventors for their inventions and encourage development of new technologies in every field.
+Patents are a form of registered intellectual property rights. Unlike copyright, patent rights to not automatically vest upon creation (or in this case, invention), only upon registration.
+
+The objective of patent law is to recognise inventors for their inventions and encourage development and dissemination of new technologies in every field.
 
 #### Trademarks
 
-A ‘trademark’, as the name suggests, is a unique mark with which a trade or business can identify itself in the market. We commonly think of these marks as ‘logos’. A trademark helps a business to distinguish its goods and/or services from competitors in a marketplace. A trademark may consist of a letter, number, word, phrase, sound, smell, shape, logo, picture, movement, aspect of packaging, or a combination of these. While it is possible to acquire a trademark over something like a colour or smell, it is extremely rare.
+A ‘trademark’, as the name suggests, is a mark with which a trade or business can identify itself in the market. A trademark helps a business to distinguish its goods and/or services from competitors in a marketplace. We commonly think of these marks as ‘logos’ but the kinds of things which can be registered as a trade mark is much broader. A trademark may consist of a letter, number, word, phrase, sound, smell, shape, logo, picture, movement, aspect of packaging, or a combination of these. While it is possible to acquire a trademark over something like a colour or smell, it is extremely rare.
 
 Once registered, a trademark gives the owner a legal right to:
 
-* use the trademark in relation to its goods or services, permit others to use the mark, or sell the mark
-* stop competitors from using a same or confusingly similar trademark.
+* stop competitors from using a same or deceptively similar trademark in relation to the same or similar goods or services
+* permit others to use the mark, or sell the mark
 
 <div markdown="block" class="box tip">
 The meaning and function of a ‘trademark’ is different from that of a ‘company name’, ‘business name’ and a ‘domain name’ or URL. A business may choose to adopt the same trademark as its company name, however, registering a business name or a domain name would not give the owner the right to stop others from adopting a same or similar company or business name.
 </div>
+
+Not all marks, trade dress or other branding is registered. Unregistered trade marks and indicia may have protection under the law of passing off.
 
 #### Designs
 
@@ -92,7 +96,7 @@ A design right aims to protect the outward appearance or aesthetic appeal of a p
 To qualify for registration, a design must have a commercial application or use, and must be new and distinctive compared to what has gone before. Once registered, the law gives the owner the sole right to commercially use, license or sell the design. Design registration lasts for 5 years, with the opportunity to renew registration up to 10 years.
 
 <div markdown="block" class="box tip">
-For designers to get protection, a design must be registered before any manufacturing starts. One-off artistic designs for things like fashion, art, and furniture will often be automatically covered by copyright law and do not require design registration unless they are mass produced (50 or more items). Once a design is mass-produced or once the owner registers for design protection, copyright in the artist design is lost.
+For designers to get protection, a design must be registered before any manufacturing starts (subject to certain grace periods). One-off artistic designs for things like fashion, art, and furniture will often be automatically covered by copyright law and do not require design registration unless they are mass produced (50 or more items). Once a design is mass-produced or once the owner registers for design protection, copyright in the artist design is lost.
 </div>
 
 ### Sources of IP law
@@ -107,14 +111,15 @@ In addition to the four main categories of IP discussed above, there are also a 
 | Design | to apply a shape or pattern to a creation | _Design Act 2003_ (Cth) |
 | Plant Breeders' Rights | to commercialise and control new plant materials | _Plant Breeder's Rights Act 1994_ (Cth) |
 | Circuit designs | to copy, exploit, and create circuitry in accordance with the layout | _Circuit Layouts Act 1989_ (Cth) |
-| Geographical Indicators | | |
+| Geographical Indicators | | _Trade Marks Act 1995_ (Cth)_ _Wine Australia Act 2013_ (Cth)|
 | Trade secrets | | Common law (Breach of Confidence) |
+
 
 
 
 ## Why do we have Intellectual Property?
 
-Intellectual property law, and especially copyright and patent law, is thought to have a predominantly instrumental function. It provides creators of new work (whether it is inventors of patents or authors and publishers alike), with certain incentives in order to encourage the creation of new expression. It does this by granting creators control over certain uses of their creations for specified periods of time, limiting who may exploit, or make use of the creations. Each specific area of intellectual property law confers exclusive rights to the creator or owner. The exclusive rights vary between the types of intellectual property law, however, the concept of exclusive use of the creations remains the same.
+Intellectual property law, and especially copyright and patent law, is thought to have a predominantly instrumental function. It provides creators of new work (whether it is inventors of patents or authors and publishers alike), with certain incentives in order to encourage the creation of new expression and inventions. It does this by granting creators control over certain uses of their creations for specified periods of time, limiting who may exploit, or make use of the creations. Each specific area of intellectual property law confers exclusive rights to the creator or owner. The exclusive rights vary between the types of intellectual property law, however, the concept of exclusive use of the creations remains the same.
 
 There are several views concerning the purpose of intellectual property law. One view is that intellectual property encourages creativity and innovation by allowing creators to profit from their work. This view is most notable in the area of copyright and is reflected in the wording of many copyright laws. For example, the "Copyright Clause" of the _United States Constitution_ states that Congress may grant authors copyright protection for their works for a limited time in order to "promote the progress of science and useful arts".[^AUTOREPLACEDUSConstitutionArticle1Section8Clause8ENDREPLACE] Similarly, the stated purpose of the _Statute of Anne_, the first copyright statute in England, was to "encourage learning".[^AUTOREPLACED8AnneChapter191710ENDREPLACE] Another view is that intellectual property law ensures that creators are paid fairly for their effort. A third view suggests that a creative work is an expression of the personality of its creator and should be protected from being used without the creator's permission.
 
@@ -171,7 +176,7 @@ Intellectual property was not always central to international trade. As technolo
 | 1995 | _TRIPS_ | The _Agreement on Trade-Related Aspects of Intellectual Property Rights_ (_TRIPS_) is an international legal agreement between all the member nations of the _WTO_. It sets down minimum standards for the protection of intellectual property.|
 | 2001 | The Doha Declaration | The Doha Development Round commences in 2001. The Doha Declaration on the _TRIPS_ Agreement and Public Health is adopted by the WTO Ministerial Conference on 14 November 2001.|
 | 2004/2005 | _Australia-US Free Trade Agreement_ (_AUSFTA_)| On 18 May 2004, the _Australia – United States Free Trade Agreement_ (_AUSFTA_) is signed.  This is a preferential trade agreement between Australia and the United States modelled on the _North American Free Trade Agreement_ (_NAFTA_). The Agreement came into effect on 1 January 2005.|
-| 2013 and beyond | The Trans-Pacific Partnership Agreement | The _Trans-Pacific Partnership Agreement_ (_TPP_) was negotiated between twelve countries that border the Pacific Ocean: Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, the United States and Vietnam. These countries represent approximately 40% of the world's economic output, making the _TPP_ the largest trade agreement in history. However, before negotiations were finalised, on 23 January 2017, when US President Donald Trump took office, he signed a presidential memorandum to withdraw the United States from _TPP_ negotiations. While other _TPP_ countries, including Australia, have stated that they plan to continue _TPP_ negotiations, the future of the agreement looks uncertain without US involvement.|
+| 2013 and beyond | The Trans-Pacific Partnership Agreement | The _Trans-Pacific Partnership Agreement_ (_TPP_) was negotiated between twelve countries that border the Pacific Ocean: Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, the United States and Vietnam. These countries represent approximately 40% of the world's economic output, making the _TPP_ the largest trade agreement in history. However, before negotiations were finalised, on 23 January 2017, when US President Donald Trump took office, he signed a presidential memorandum to withdraw the United States from _TPP_ negotiations. Other _TPP_ countries, including Australia, continued negotiations, resulting in the _Comprehensive and Progressive Agreement for Trans-Pacific Partnership_.|
 
 Intellectual property law has been relatively harmonised worldwide. There are a number of agreements regarding intellectual property law in general, and more specific agreements that apply to certain areas of intellectual property. The [World Intellectual Property Organisation](https://www.wipo.int/about-wipo/en/) (WIPO) is an international agency, established in 1967 which administers treaties such as the _Paris Convention on the Protection of Industrial Property 1883_ and the _Berne Convention for the Protection of Literary and Artistic Works 1886_, _WIPO Performances and Phonograms Treaty_ and _WIPO Copyright Treaty_. It is WIPO's obligation to administer intellectual property matters and there are approximately 22 intellectual property treaties under its administration. Whilst WIPO administers the treaties, it does not have the requisite power to ensure compliance of the treaties. As a result of this, the _World Trade Organisation Agreement_ was enacted, specifically the part that deals with intellectual property, the _Trade Related Aspects of Intellectual Property Rights 1994_ (_TRIPS_).
 
@@ -189,7 +194,7 @@ There are also a number of bilateral intellectual property law agreements. These
 
 - _Anti-Counterfeiting Trade Agreement_ (_ACTA_)
 
-- _Trans-Pacific Partnership_ (_TPP_)
+- _Comprehensive and Progressive Agreement for Trans-Pacific Partnership_ (_CPTPP_)
 
 - _Trans-Atlantic Trade and Investment Partnership_ (_TTIP_)
 
