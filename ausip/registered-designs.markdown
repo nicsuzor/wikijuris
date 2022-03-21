@@ -24,7 +24,7 @@ For designers to get protection, a design must be registered before any manufact
 </div>
 
 <div markdown="block" class="box warning">
-**The law might change soon.** The [Designs Amendment (Advisory Council on Intellectual Property Response) Bill 2020](https://www.legislation.gov.au/Details/C2020B00170) has passed the Senate and is currently before the House of Representatives. It will introduce a 12-month grace period, which means designers will no longer lose their ability to protect their products if they do not register before they commence production or publish their plans. The Bill also includes [some other changes](https://www.ipaustralia.gov.au/about-us/legislation/designs-amendment-advisory-council-intellectual-property-response-bill-2020) to the [Designs Act](https://www.legislation.gov.au/Series/C2004A01232)
+**The _Designs Act 2003 (Cth)_ was recently amended.** The Designs Amendment (Advisory Council on Intellectual Property Response) Act 2020 received Royal Assent on 10 September 2021. It introduce a 12-month grace period, which means designers will no longer lose their ability to protect their products if they do not register before they commence production or publish their plans. The amending Act also removed the option for designers to publish a design without registration. 
 </div>
 
 
@@ -81,16 +81,7 @@ The owner of a design is entitled to apply for its registration.[^AUTOREPLACEDDA
 
 [^AUTOREPLACEDDAss2439and40ENDREPLACE]: _DA_ ss 24, 39 and 40
 
-
-### Request for Registration or Publication
-
-Applicants must request either registration or publication.[^AUTOREPLACEDDAs35ENDREPLACE]
-
-
-[^AUTOREPLACEDDAs35ENDREPLACE]: _DA_ s 35
-
-Publication is an alternative to registration. It does not give the design protection, but prevents subsequent registration of the same design by a third party. It may entitle the applicant to rely on copyright protection. The application will be checked to see if it satisfies the minimum requirements.[^AUTOREPLACEDDAss3940ENDREPLACE]
-
+The application will be checked to see if it satisfies the minimum requirements.[^AUTOREPLACEDDAss3940ENDREPLACE]
 
 [^AUTOREPLACEDDAss3940ENDREPLACE]: _DA_ ss 39 - 40
 
