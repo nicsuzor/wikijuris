@@ -89,7 +89,7 @@ Each of these types of works will be considered below.
 
 ### Literary Work
 
-A literary work includes tables, compilations, expressed in words, figures or symbols (whether or not in a visible form), and computer programs or compilations of computer programs.[^AUTOREPLACEDCAs10ENDREPLACE]
+A literary work includes tables and compilations, expressed in words, figures or symbols (whether or not in a visible form), and computer programs or compilations of computer programs.[^AUTOREPLACEDCAs10ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs10ENDREPLACE]: _CA_ s 10
@@ -463,7 +463,7 @@ The designer in this case was motivated by engineering imperatives, and was not 
 
 ## Originality
 
-In copyright, the term "originality" does not mean "novel" or new. Instead, "original" means to originate from the author, in the sense that it is the result of his or her skill, labour or judgment, and is not copied from another author. It is possible that two authors will independently produced a similar work both attracting copyright, and neither infringing copyright.
+In copyright, the term "originality" does not mean "novel" or new. Instead, "original" means to originate from the author, in the sense that it is the result of his or her skill, labour or judgment, and is not copied from another author. It is possible that two authors will independently produce a similar work both attracting copyright, and neither infringing copyright.
 
 **Video overview by Kylie Pappalardo on [Originality](https://www.youtube.com/watch?v=52-IJvRzNq8&list=PLL6gyWv948RU57yYR5ruBZ9tF7pZ_aEra&index=3).**
 
@@ -677,7 +677,7 @@ In terms of published works, the work must meet a specific criteria.[^AUTOREPLAC
 
 [^AUTOREPLACEDCAs322ENDREPLACE]: _CA_ s 32(2)
 
-The work must be first published in Australia or the author must be a qualified person when the work was first published. A qualified person is an Australian citizen, an Australian protected person, or a person resident in Australia,[^AUTOREPLACEDCAs324ENDREPLACE]
+The work must be first published in Australia or the author must be a qualified person when the work was first published. A qualified person is an Australian citizen or a person resident in Australia,[^AUTOREPLACEDCAs324ENDREPLACE]
 
 
 [^AUTOREPLACEDCAs324ENDREPLACE]: _CA_ s 32(4)
