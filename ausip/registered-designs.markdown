@@ -232,7 +232,7 @@ Pursuant to the _Copyright Act 1968_ (Cth), where a design is or has been regist
 
 ### Copyright Lost Where There is an Unregistered Corresponding Design
 
-Pursuant to the _Copyright Act 1968_ (Cth) where a design has been applied industrially, it is not an infringement of an artistic work to reproduce the work by embodying that, or any other corresponding design in a product.[^AUTOREPLACEDCAs77ENDREPLACE] 'Applied industrially' is a question of fact, although a design will definitely be industrially applied if there is more than 50 articles (*Copyright Regulations 1969* (Cth) r 17). This is the presumption set out in the *Copyright Regulations 1969* (Cth). Once this has occurred, the design is considered to be a mass produced industrial application and the right holder looses their ability to be protected by copyright protection. Creators who intend to mass-produce their designs should apply for design protection.
+Pursuant to the _Copyright Act 1968_ (Cth) where a design has been applied industrially, it is not an infringement of an artistic work to reproduce the work by embodying that, or any other corresponding design in a product.[^AUTOREPLACEDCAs77ENDREPLACE] 'Applied industrially' is a question of fact, although a design will definitely be industrially applied if there is more than 50 articles (*Copyright Regulations 2017* (Cth) r 12). This is the presumption set out in the *Copyright Regulations 2017* (Cth). Once this has occurred, the design is considered to be a mass produced industrial application and the right holder looses their ability to be protected by copyright protection. Creators who intend to mass-produce their designs should apply for design protection.
 
 
 [^AUTOREPLACEDCAs77ENDREPLACE]: _CA_ s 77
