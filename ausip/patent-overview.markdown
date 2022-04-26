@@ -76,11 +76,11 @@ The extended period of protection only protects the pharmaceutical substance its
 
 ## Innovation Patents
 
-Innovation patents are currently being phased out, and should generally no longer be filed.
+Innovation patents have been phased out, and can no longer be filed. While new innovation patents will not be granted, existing innovation patents continue until their expiry.
 
-An innovation patent is suitable for inventions with short market life. An innovative patent requires an innovative step, which involved a lesser degree of inventiveness compared to the standard patent. An innovative step is one where the invention is different from existing technology and provides a substantial contribution to the working of the invention. The innovation patent seeks to protect incremental advances in technology as opposed to ground-breaking technology (which would be covered under a standard patent).  
+A innovation patent was suitable for inventions of incremental advancement with short market life. An innovative patent required an innovative step, which involved a lesser degree of inventiveness compared to the standard patent. An innovative step is one where the invention is different from existing technology and provides a substantial contribution to the working of the invention. 
 
-The duration of an innovative patent is for the period of eight years from the date of the patent.[^PA68] Innovative patents can be granted within one month of filing, as there is no requirement for examination.
+The duration of an innovative patent is for the period of eight years from the date of the patent.[^PA68] Innovative patents could be granted within one month of filing, as there is no requirement for examination.
 
 [^PA68]: _Patents Act 1990_ (Cth) s 68
 
@@ -126,7 +126,7 @@ The object of patent law is to encourage invention and disseminate new knowledge
 * Not an excluded category of subject matter
 * Novel (not publicly available)
 * Inventive step (for standard patents) - not obvious to a person skilled in the art
-* Innovative step (for innovation patents) - makes a substantial contribution to the working of an invention, according to a person skilled in the art
+* Innovative step (which applied for the now phased-out innovation patents) - makes a substantial contribution to the working of an invention, according to a person skilled in the art
 * Useful - must work according to specification (does not require commercial viability)
 * No secret use - i.e. no commercial use of the invention, although testing is allowed.
 * Invention must be disclosed in the patent application.
