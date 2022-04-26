@@ -38,7 +38,7 @@ Ownership, within s6 of the *Statute of Monopolies* traditionally referred to th
 [^AUTOREPLACEDs15ENDREPLACE]: s 15
 
 
-There can be joint inventors of a patent.[^AUTOREPLACEDs31ENDREPLACE] Joint inventors take the patent as tenants in common[^AUTOREPLACEDs161aENDREPLACE] Each is entitled to work the invention without accounting to the others[^AUTOREPLACEDs161bENDREPLACE] However, all joint inventors must consent to the grant of a licence or assignment of an interest. (s 16(1)(c) )) The  Commissioner of Patents will be engaged to resolve instances of dispute between co-owners of a patent.[^AUTOREPLACEDs17ENDREPLACE]
+There can be joint owners of a patent.[^AUTOREPLACEDs31ENDREPLACE] Joint owners take the patent as tenants in common[^AUTOREPLACEDs161aENDREPLACE] Each is entitled to work the invention without accounting to the others[^AUTOREPLACEDs161bENDREPLACE] However, all joint owners must consent to the grant of a licence or assignment of an interest. (s 16(1)(c) )) The  Commissioner of Patents will be engaged to resolve instances of dispute between co-owners of a patent.[^AUTOREPLACEDs17ENDREPLACE]
 
 
 [^AUTOREPLACEDs31ENDREPLACE]: s 31
