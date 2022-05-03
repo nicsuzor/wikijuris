@@ -16,24 +16,24 @@ grand_parent: Australian IP Law
 
 ## Registration Process
 
-Trade mark applications is a relatively simply process. Applications can be made online and do not always require legal assistance. The below video provides an overview of the registration process.
+Trade mark registration is a relatively simply process. Applications can be made online and do not always require legal assistance. The below video provides an overview of the registration process.
 
 **Video overview by Dan Hunter on [Registration of Trade Marks](https://www.youtube.com/watch?v=NGTemMKgHaI&index=3&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty).**
 
 There are five stages in the application process.
 
-The first stage is completing the application which can be filled out either online or by paper. The application is in a prescribed form.[^AUTOREPLACEDTMAs27ENDREPLACE] In order to complete the application, the applicant needs to set out the sign and class which the sign will operate in. In order to determine the particular class the mark is to be registered in, the applicant will need to consider the 45 classes and choose the one which best suits the purpose of the sign. Once the application is complete the applicant will pay the required fee and attend to filing.
+The first stage is completing the application which can be filled out either online or by paper. The application is in a prescribed form.[^AUTOREPLACEDTMAs27ENDREPLACE] In order to complete the application, the applicant needs to set out the sign, list the goods and/or services for which they are seeking registration and the relevant goods/services classes. In order to determine the particular class the mark is to be registered in, the applicant will need to consider the 45 classes. Once the application is complete the applicant will pay the required fee and attend to filing.
 
 [^AUTOREPLACEDTMAs27ENDREPLACE]: _TMA_ s 27
 
 
-The second stage of the process is the examination. The examiner reviews the application and determines whether there are any reasons why the trade mark should not be registered. There are two main reasons a mark may not be registered. First, if another person already has a mark registered in the same class which is deceptively similar to the mark being sought for registration. Second, if the mark is scandalous, such as a profanity. There are a number of other potential reasons a trade mark may not be registered. These will be discussed below in this chapter.
+The second stage of the process is the examination. The examiner reviews the application and determines whether there are any reasons why the trade mark should not be registered. There are a number of reasons a trade mark may not be registered. These will be discussed below in this chapter.
 
-The third stage involves the outcome of the application; the decision. The application will be either accepted or rejected. If the application is accepted the trade mark is then published for opposition.
+The third stage involves the outcome of the application; the decision. The application will be either accepted or rejected. If the application is accepted, the trade mark is then published for opposition.
 
-The fourth stage is the opposition.  The trade mark is published in the journal of the Trade Mark Office for the purpose of the public, especially other traders to oppose the trade mark if they believe they are effected. This may involve other trade mark holders opposing on the basis of a number of reasons including deceptive similarity. The opposition period is two months. If the trade mark is opposed there will be a hearing. If there is no opposition at the end of the two month period or if the opposition is dismissed the registration will be formalised.
+The fourth stage is the opposition.  The trade mark is published in the journal of the Trade Mark Office for the purpose of the public, especially other traders, to oppose the trade mark if they believe they will be affected by the registration. This may involve other trade mark holders opposing on the basis of a number of reasons including substantial identity/deceptive similarity. The opposition period is two months. If the trade mark is opposed there will be a hearing. If there is no opposition at the end of the two month period or if the opposition is dismissed the registration will be formalised.
 
-The final stage is registration. The registrar must register the trade mark.[^AUTOREPLACEDTMAs68ENDREPLACE] The trade mark will be afforded 10 years of protection from the date of filing of the application. As noted in the previous chapter, this period of protection can be extended indefinitely.    
+The final stage is registration. If there are no grounds for refusal or successful opposition, the registrar must register the trade mark.[^AUTOREPLACEDTMAs68ENDREPLACE] The trade mark will be afforded 10 years of protection from the date of filing of the application. As noted in the previous chapter, this period of protection can be extended indefinitely.    
 
 [^AUTOREPLACEDTMAs68ENDREPLACE]: _TMA_ s 68
 
@@ -55,11 +55,11 @@ Registered trade marks are registered for a period of 10 years initially and can
 
 Trade marks are not domain names or business names or company names. They are signs that are applied to a product or service to distinguish a product or service from something else. The difference is that whilst names are significantly important, they are not trade marks. Unlike names, trade marks denote the origins of a product or service.  
 
-There are 45 goods and services classes within trade marks which refer to the different sorts of goods. These classes divide up the trade mark system so that you can have the same trade mark word in different classes.
+There are 45 goods and services classes used in trade mark registration systems. 
 
-Trade marks are geographic. Australian trade marks only apply in Australia and US trade marks only apply in the US. An example of this is Burger King and Hungry Jacks.  Whilst Burger King owns Hungry Jacks in Australia, the trade mark for Burger King was already owned by another company in relation to burgers in Australia and as such, Burger King chose a new brand for their Australian chains. Burger King has since taken over the trade mark of Burger King in Australia, however due to the positive reputation of Hungry Jacks, Burger King has not changed the brand of Hungry Jacks in Australia.
+Trade marks are geographically bound. For example, trade marks registered in Australia only apply in Australia and US trade marks only apply in the US. An example of this is Burger King and Hungry Jacks.  Whilst Burger King owns Hungry Jacks in Australia, the trade mark for Burger King was already owned by another company in relation to burgers in Australia and as such, Burger King chose a new brand for their Australian chains. Burger King has since taken over the trade mark of Burger King in Australia. However, due to the positive reputation of Hungry Jacks, Burger King has not changed the brand of Hungry Jacks in Australia.
 
-Trade marks are also considered a form of personal property. This allows the owner to license the mark to other people and companies. This can be very effective when using one brand on another product such as using the superman logos on bed sheets.
+Trade marks are also considered a form of personal property. This allows the owner to license the mark to other people and companies. This can be very effective when using one brand on another product such as using the Superman logos on bed sheets.
 
 **Video overview by Dan Hunter on [The Benefits and Requirements of Registration](https://www.youtube.com/watch?v=HHX3ul97eXU&index=4&list=PLL6gyWv948RXOCr_kz-bb-fNBHGonz7Ty)**
 
