@@ -136,7 +136,7 @@ A trade mark cannot be registered if it contains or consists of a prescribed sig
 
 ### Graphically Represented
 
-A trade mark cannot be registered where it cannot be described in writing and/or drawing. A trade mark must not be solely graphically represented.[^AUTOREPLACEDTMAs40ENDREPLACE] See [Trade Marks Office Manual of Practice and Procedure Part 21](http://www.ipaustralia.gov.au/pdfs/trademarkmanual/trade_marks_examiners_manual.htm).
+A trade mark cannot be registered where it cannot be described in writing and/or drawing. A trade mark must be capable of being graphically represented.[^AUTOREPLACEDTMAs40ENDREPLACE] See [Trade Marks Office Manual of Practice and Procedure Part 21](http://www.ipaustralia.gov.au/pdfs/trademarkmanual/trade_marks_examiners_manual.htm).
 
 [^AUTOREPLACEDTMAs40ENDREPLACE]: _TMA_ s 40
 
