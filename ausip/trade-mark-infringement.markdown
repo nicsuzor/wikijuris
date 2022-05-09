@@ -114,7 +114,7 @@ In *[E & J Gallo Winery v Lion Nathan Australia Pty Limited](http://www.austlii.
 
 [^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
 
-In *[Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1996/1484.html)*,[^AUTOREPLACED1996FCA1484ENDREPLACE] 'Duff' beer, which disclaimed any association with The Simpsons, was still held to amount to infringement. The disclaimer was too simplistic in approach. The beer was an express reference to The Simpsons and therefore the disclaimer was not effective.
+In *[Twentieth Century Fox Film Corporation v South Australian Brewing Co Ltd](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1996/1484.html)*,[^AUTOREPLACED1996FCA1484ENDREPLACE] 'Duff' beer, which took certain steps to disclaim association with The Simpsons, was still held to amount to infringement. Steps taken to dissociate the product from The Simpsons included the use of different get-up to the beer can depicted in the TV show, no express references to The Simpsons on the packaging, requests to retailers not to use The Simpson imagery with the product. However, there was no express disclaimer on the can. The court noted "a notable lack of any attempt to drive this message home to the "consuming public"." The beer was an express reference to The Simpsons and therefore the "disclaimers" were not effective.
 
 
 [^AUTOREPLACED1996FCA1484ENDREPLACE]: [1996] FCA 1484
