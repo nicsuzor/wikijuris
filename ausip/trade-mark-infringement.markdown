@@ -128,7 +128,7 @@ Trade mark infringement may occur where the defendant is using a  mark as a trad
 
 To establish this type of infringement the trade mark must be well-known in Australia; the person must use as a trade mark a sign that is substantially identical with, or deceptively similar to, the trade mark in relation to or not closely related goods or services; because the trade mark is well-known, the sign must be likely to be taken as indicating a connection between the unrelated goods or services and the registered owner of the trade mark; and for that reason, the interests of the registered owner are likely to be adversely affected.
 
-To determine if a trade mark is well-known in Australia, must take account of the extent to which the trade mark is known within the relevant sector of the public, whether as a result of the promotion of the trade mark or for any other reason. Must be significant brand with interests in many different categories or an international company.  If their reputation is not large enough, if they are really a niche trader and it is unlikely a consumer would think they produced a product in a completely different category, then this is unlikely to apply.  The onus is on the trade mark owner.
+To determine if a trade mark is well-known in Australia, one must take account of the extent to which the trade mark is known within the relevant sector of the public, whether as a result of the promotion of the trade mark or for any other reason. Generally, the mark will need to be a significant brand with interests in many different categories or an international company.  If the reputation is not significant enough (i.e. if the business is really a niche trader and it is unlikely a consumer would think they produced a product in a completely different category), then this section is unlikely to apply.  The onus is on the trade mark owner to establish that it is a well-known mark.
 
 ### Examples of well-known trade marks
 
@@ -162,7 +162,7 @@ In *[San Remo Macaroni Company Pty Ltd v San Remo Gourmet Coffee Pty Ltd](http:/
 
 </div>
 
-Whether goods are unrelated or not closely related is a question of degree. The less ‘unrelated’ the goods or services are, the more likely that trade mark infringement will be made out.  For example, PUMA for use on beer or CADBURY for use with respect to motorcycles. The use must indicate a connection with the owner.[^AUTOREPLACED1999FCA1721ENDREPLACE]
+Whether goods are unrelated or not closely related is a question of degree. The less ‘unrelated’ the goods or services are, the more likely that trade mark infringement will be made out.  The use must indicate a connection with the owner.[^AUTOREPLACED1999FCA1721ENDREPLACE]
 
 <div markdown="block" class="box  case">
 ##### _Coca-Cola Co v All-Fect Distributors Ltd_ [1999] FCA 1721
@@ -192,7 +192,7 @@ Finally, the owner's interests must be adversely affected. Usually it is quite e
 
 ### Use
 
-Not all use constitutes trade mark infringement. A person will only infringe a trade mark if they ‘use’ a protected mark as a trade mark – a defendant must use a protected mark or very similar mark in the course of trade as an attempt to distinguish their goods or services for another.[^AUTOREPLACEDShellCompanyofAustraliaLtdvEssoStandardOilAustraliaLtd1963109CLR407ENDREPLACE] An infringement will not be made out if a mark is used but not used to distinguish.  The alleged infringing trade mark must be used or intended to be used as a trade mark in the course of trade – to distinguish one person’s goods/services from another.[^AUTOREPLACEDTMAs17ENDREPLACE] The trade mark must be used or intended to be used physically in relation to goods or services.[^AUTOREPLACEDTMAs7ENDREPLACE]
+Not all use constitutes trade mark infringement. A person will only infringe a trade mark if they ‘use’ a protected mark as a trade mark – a defendant must use a protected mark or very similar mark in the course of trade as an attempt to distinguish their goods or services from others.[^AUTOREPLACEDShellCompanyofAustraliaLtdvEssoStandardOilAustraliaLtd1963109CLR407ENDREPLACE] An infringement will not be made out if a mark is used but not used to distinguish.  The alleged infringing trade mark must be used or intended to be used as a trade mark in the course of trade – to distinguish one person’s goods/services from another.[^AUTOREPLACEDTMAs17ENDREPLACE] The trade mark must be used or intended to be used upon, or in physical or other relation to, the goods or services.[^AUTOREPLACEDTMAs7ENDREPLACE]
 
 
 [^AUTOREPLACEDShellCompanyofAustraliaLtdvEssoStandardOilAustraliaLtd1963109CLR407ENDREPLACE]: *Shell Company of Australia Ltd v Esso Standard Oil (Australia) Ltd* (1963) 109 CLR 407
