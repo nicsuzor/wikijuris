@@ -106,7 +106,7 @@ In *[E & J Gallo Winery v Lion Nathan Australia Pty Limited](http://www.austlii.
 
 [^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645
 
-*[Musidor BV v Tansing (t/as Apple Music House)](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1993/645.html),[^AUTOREPLACED1993FCA645ENDREPLACE]* concerned Musidor selling Rolling Stones bootlegs. Musidor made it plain in its advertising and get-up that the source of the origin of the goods was not authorised. Held, the disclaimer was effective to show that the goods were not related. It was held that no infringement occurred.
+*[Musidor BV v Tansing (t/as Apple Music House)](http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/1993/645.html),[^AUTOREPLACED1993FCA645ENDREPLACE]* concerned the applicant selling Rolling Stones bootlegs. The applicant made it plain in its advertising and get-up that the source of the origin of the goods was not authorised by the Rolling Stones band. The packaging of the discs expressly disclaimed a connection, stating that the recording "has not been authorised by the Rolling Stones group or their record company". Held, the applicant was not using the words "Rolling Stone" as a trade mark. In other words, the applicant was not using the words to "indicate the source or commercial origin of the goods". It was held that no infringement occurred.
 
 
 [^AUTOREPLACED1993FCA645ENDREPLACE]: [1993] FCA 645[^AUTOREPLACED1996FCA1484ENDREPLACE]
