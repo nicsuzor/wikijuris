@@ -328,19 +328,20 @@ In the above sections, 'good faith' means an absence of ulterior motive.[^AUTORE
 [^AUTOREPLACEDAngovesPtyLtdvJohnson198243ALR349ENDREPLACE]: *Angoves Pty Ltd v Johnson* (1982) 43 ALR 349
 
 [^AUTOREPLACEDGeoffreyIncvLuik199738IPR555ENDREPLACE]: *Geoffrey Inc v Luik*  (1997) 38 IPR 555
-   Use of the trade mark cannot be calculated to divert business from the registered trade mark owner or to confuse customers as to the origin of goods.
 
 
+### Exhaustion / Consent
 
-### Consent
+Under section 122A, a person who uses a registered trade mark in relation to goods that are similar to goods in respect of which the trade mark is registered does not infringe the trade mark if: 
+  * before the time of use, the person had made reasonable inquiries in relation to the trade mark; and
+  * at the time of use, a reasonable person after making such inquiries, would have concluded that the trade mark had been applied to, or in relation to, the goods by, or with the consent of, the registered trade mark owner (or other persons listed in section 122A(1)(c)).[^AUTOREPLACEDTMAs122AENDREPLACE] Because it only excuses uses in relation to similar goods, the exhaustion defence in section 122A does not apply to _TMA_ s 120(3). This provision is particularly important in relation to imported goods and second hand goods, and helps to ensure that owners cannot exercise a wider monopoly than intended under the Act.
 
-A person who uses a registered trade mark in relation to goods that are similar to goods in respect of which the trade mark is registered does not infringe the trade mark if the trade mark has been applied to, or in relation to, the goods by, or with the consent of, the registered trade mark owner.[^AUTOREPLACEDTMAs122AENDREPLACE] Because it only excuses uses in relation to similar goods, this defence does not apply to _TMA_ s 120(3). This provision is particularly important in relation to imported goods and second hand goods, and helps to ensure that owners cannot exercise a bigger monopoly than intended under the Act.
-
+Note that prior to amendments as a result of the _Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018_, the consent provision for goods was s123. The 2018 amendments inserted s122A and amended s123. The effect of the defence is largely the same prior to and after 2018.
 
 [^AUTOREPLACEDTMAs122AENDREPLACE]: _TMA_ s 122A
 
 
-A similar provision applies to services. A person who uses a registered trade mark for services that are similar to services in respect of which the trade mark is registered does not infringe the registered mark if it has been applied in relation to the services by, or with the consent of, the registered owner.[^AUTOREPLACEDTMAs123ENDREPLACE] Note that prior to amendments as a result of the _Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018_, the consent provision for goods was s123. The 2018 amendments inserted s122A and amended s123. The effect of the defence is largely the same prior to and after 2018.
+A similar provision applies to services (section 123). A person who uses a registered trade mark for services that are similar to services in respect of which the trade mark is registered does not infringe the registered mark if it has been applied in relation to the services by, or with the consent of, the registered owner.[^AUTOREPLACEDTMAs123ENDREPLACE] 
 
 [^AUTOREPLACEDTMAs123ENDREPLACE]: _TMA_ s 123
 
