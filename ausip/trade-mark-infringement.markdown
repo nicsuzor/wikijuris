@@ -353,9 +353,9 @@ If a person has used a sign that is deceptively similar or substantially identic
 [^AUTOREPLACEDTMAs124ENDREPLACE]: _TMA_ s 124
 
 
-Registration of a trade mark is not necessary. But if you don’t register a trade mark, other people might be able to (in some circumstances), especially if you don’t object, register your mark or a deceptively similar or substantially identical mark for the same or similar categories.  If this happens defence of prior concurrent use will apply so that the person who was using the mark before the date the registered trade mark was filed, they can continue to use.
+It is not mandatory to register a sign as a trade mark before using the sign. However, if you don’t register a trade mark, in some circumstances other people might be able to register your mark or a deceptively similar or substantially identical mark for the same or similar categories (especially if you don’t object).  It is in these types of situations that the defence of prior concurrent use under section 124 will apply, so that the person who was using the mark before the date the registered trade mark was filed can continue to use.
 
-There are limitations on the prior use provision. This includes instances where a person is trading under a particular name but only in business. The person may be allowed to keep using where the reputation exists. For instance, if the reputation exists only in Brisbane Australia, the mark can't be used to expand the business beyond.
+There are limitations on the prior use provision. This includes instances where a person is trading under a particular name but only in a particular geographical region. The person may be allowed to keep using the name where the reputation exists. For instance, if the reputation exists only in Brisbane Australia, the prior use defence would not allow expanded use of the name beyond that area.
 
 ## Rectification
 
