@@ -329,6 +329,11 @@ In the above sections, 'good faith' means an absence of ulterior motive.[^AUTORE
 
 [^AUTOREPLACEDGeoffreyIncvLuik199738IPR555ENDREPLACE]: *Geoffrey Inc v Luik*  (1997) 38 IPR 555
 
+In spite of s 120, if a disclaimer has been registered in respect of a part of a registered trade mark, a person does not infringe the trade mark by using that part of the trade mark.[^AUTOREPLACEDTMAs1222ENDREPLACE]
+
+
+[^AUTOREPLACEDTMAs1222ENDREPLACE]: _TMA_ s 122(2)
+
 
 ### Exhaustion / Consent
 
@@ -374,12 +379,6 @@ Under s 88(1), if one of these grounds is satisfied, the court can cancel the re
 
 **Video overview by Nicolas Suzor on [Grounds for Rejection, Opposition or Rectification](https://www.youtube.com/watch?v=au3mOq9Abrg&list=PLa0bKPnUKQrzadmRvIQclmAWk9Wmg1a0P&index=6)**
 
-In spite of s 120, if a disclaimer has been registered in respect of a part of a registered trade mark, a person does not infringe the trade mark by using that part of the trade mark.[^AUTOREPLACEDTMAs1222ENDREPLACE]
-
-
-[^AUTOREPLACEDTMAs1222ENDREPLACE]: _TMA_ s 122(2)
-
-
 **Video overview by Corrine Leach on [Section 88 of the Trade Marks Act](https://www.youtube.com/watch?v=PLKbSmhihUs)**
 
 
@@ -389,7 +388,7 @@ If trade mark infringement under _TMA_ s 120(1), (2) or (3) is claimed, the defe
 
 * That the trade mark is not substantially identical with or deceptively similar to the registered trade mark;
 
-* That there has been no use as a trade mark – E.g. *The Panadol Case*, *The Esso Man Case*;  
+* That there has been no use as a trade mark – E.g. *The Panadol Case*, *TShell v Esso*;  
 
 * A defence to infringement found in s 122 of the _TMA_;  
 
@@ -430,4 +429,4 @@ Note that the *Intellectual Property Laws Amendment (Productivity Commission Res
 
 There are a number of remedies available in trade mark infringement cases. Section 126 of the _TMA_ provides a right to an injunction on any conditions the Court thinks fit, an election between damages (if harm) or an account of profits (if enriched by use of the trade mark) and additional damages where appropriate.
 
-Where there has been trade mark infringement and the defendant has applied to remove the trade mark under _TMA_ s 92 and the court finds that the trade mark has not been used during the critical period in good faith by the registered owner and there are grounds for removing the trade mark the court may not grant relief to the plaintiff by way of damages or an account of profits in respect of any trade mark infringement that has occurred during the critical period (_TMA_ s 127).
+Where there has been trade mark infringement and the defendant has applied to remove the trade mark under _TMA_ s 92, the court finds that the trade mark has not been used during the critical period in good faith by the registered owner and there are grounds for removing the trade mark, then the court may not grant relief to the plaintiff by way of damages or an account of profits in respect of any trade mark infringement that has occurred during the critical period (_TMA_ s 127).
