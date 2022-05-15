@@ -505,13 +505,8 @@ A trade mark can be opposed by an interested third party within two months of th
 
 **Video overview by Lucy Jorgensen on [Opposing a Trade Mark Application](https://www.youtube.com/watch?v=pIoK2kPldBE)**
 
-
-
-**Video overview by Louis Jennings on [Opposition on Grounds of a False Geographical Indication] (https://www.youtube.com/watch?v=UGSDPbr3Ju8)**
-
-
+**Video overview by Louis Jennings on [Opposition on Grounds of False Geographical Indication] (https://www.youtube.com/watch?v=UGSDPbr3Ju8)**
 
 **Video overview by Reily B on [Opposition on Grounds that Applicant Has no Intention to Use](https://www.youtube.com/watch?v=k0tdCHq9ZcQ)**
-
 
 **Video overview by tcava3 on [Opposition on Grounds that Applicant Has no Intention to Use](https://www.youtube.com/watch?v=a4FP1A47MKs)**
