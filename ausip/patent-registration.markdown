@@ -259,11 +259,11 @@ The concepts of priority date and prior art base will be considered in turn.
 
 ### Priority Date
 
-The priority date is the date at which the novelty and inventiveness of the invention are assessed against the prior art base. A priority date is established by the earliest of filing either: a complete application or a provisional application.
+The priority date is the date at which the novelty and inventiveness of the invention are assessed against the prior art base. The priority date is defined in section 43(2), and is generally the date that the patent specification is filed.
 
-Filing a provisional application creates an earlier priority date, by filing a simplified version of the patent specification, with the complete application required to be filed within 12 months. If this does not occur, the provisional application will lapse and another application cannot be made, as the provisional application will destroy novelty of the subsequent application. A provisional application may be desirable where a competitor is working on a similar invention and you want to get a patent first.
+Filing a provisional application creates an earlier priority date, by filing a simplified version of the patent specification, with the complete application required to be filed within 12 months. If this does not occur, the provisional application will lapse and another application cannot be made. A provisional application may be desirable where a competitor is working on a similar invention and you want to get a patent first. A priory date will be the date that the provisional application is filed, so long as it discloses the invention in the claim in a manner that is clear enough and complete enough for the invention to be performed by a person skilled in the relevant art (section 43(2A)(b), reg. 3.13C).
 
-A foreign application's an be made wither provisional or complete via The Paris Convention or the PCT. This will be discussed below in Patent Protection Overseas.
+A foreign application can be made either provisional or complete via The Paris Convention or the PCT. This will be discussed below in Patent Protection Overseas.
 
 ### Prior Art Base
 
