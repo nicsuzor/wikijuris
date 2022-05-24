@@ -60,7 +60,7 @@ Ownership of employee inventions vests in employers where there is an express te
 [^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE]: _Electrolux Ltd v Hudson_ [1977] FSR 312
 
 
-Ownership can also vest in employers by way of implied terms. Where employees are engaged to use their inventive faculty, they will be considered to be doing work they are paid to do. In these instances, the benefits to the employer include the rights to invention.[^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE]
+Ownership can also vest in employers by way of implied terms. Where employees are engaged to use their inventive faculty, they will be considered to be doing work they are paid to do. In these instances, the benefits to the employer include the rights to invention.[^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE] In _UWA v Gray_, the University of WA claimed that there was an implied term in Gray's employment contract which gave the university proprietary rights in inventions created by Gray. Gray's express duties under the employment contract were to undertake, organise and stimulate research. The Court held that the contract did not contain an implied "duty to invent".
 
 
 [^AUTOREPLACEDUWAvGray200982IPR206ENDREPLACE]: _UWA v Gray_ (2009) 82 IPR 206
