@@ -31,14 +31,14 @@ The rights granted to a patentee are considered personal property.[^AUTOREPLACED
 
 ### Ownership
 
-Ownership, within s6 of the *Statute of Monopolies* traditionally referred to the ‘first and true inventor’, which included the person who first introduced the invention into the realm.[^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE] This definition of ownership is not the case today. Pursuant to the _Patents Act 1990_ (Cth), an inventor has a right to apply for a patent, but a person can also acquire rights to an invention. Rights can be acquires through the course of employment or by purchasing the right.[^AUTOREPLACEDs15ENDREPLACE] Mere importation is no longer sufficient to apply for a patent.
+Ownership, within s6 of the *Statute of Monopolies* traditionally referred to the ‘first and true inventor’, which included the person who first introduced the invention into the realm.[^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE] This definition of ownership is not the case today. Pursuant to the _Patents Act 1990_ (Cth), an inventor has a right to apply for a patent, but a person can also acquire rights to an invention. Rights can be acquired through the course of employment or by purchasing the right.[^AUTOREPLACEDs15ENDREPLACE] Mere importation is no longer sufficient to apply for a patent.
 
 [^AUTOREPLACEDEdgeberryvStephens16932Salk447ENDREPLACE]: E_dgeberry v Stephens* (1693)_ 2 Salk 447
 
 [^AUTOREPLACEDs15ENDREPLACE]: s 15
 
 
-There can be joint owners of a patent.[^AUTOREPLACEDs31ENDREPLACE] Joint owners take the patent as tenants in common[^AUTOREPLACEDs161aENDREPLACE] Each is entitled to work the invention without accounting to the others[^AUTOREPLACEDs161bENDREPLACE] However, all joint owners must consent to the grant of a licence or assignment of an interest. (s 16(1)(c) )) The  Commissioner of Patents will be engaged to resolve instances of dispute between co-owners of a patent.[^AUTOREPLACEDs17ENDREPLACE]
+There can be joint owners of a patent.[^AUTOREPLACEDs31ENDREPLACE] Joint owners take the patent as tenants in common[^AUTOREPLACEDs161aENDREPLACE] Each is entitled to work the invention without accounting to the others[^AUTOREPLACEDs161bENDREPLACE] However, all joint owners must consent to the grant of a licence or assignment of an interest. (s 16(1)(c))) The  Commissioner of Patents will be engaged to resolve instances of dispute between co-owners of a patent.[^AUTOREPLACEDs17ENDREPLACE]
 
 
 [^AUTOREPLACEDs31ENDREPLACE]: s 31
@@ -55,7 +55,7 @@ There can be joint owners of a patent.[^AUTOREPLACEDs31ENDREPLACE] Joint owners 
 
 **Video overview by Taylor Lennox on [When the rights to an invention will be owned by an employer](https://www.youtube.com/watch?v=mF5DzTcqB4k).**
 
-Ownership of employee inventions vests in employers where there is an express term in the employment contract. Any express term should not be so wide as to constitute a restraint of trade.[^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE] In _Electrolux_, an adaptor to fit a bag to a vacuum cleaner was invented by a storekeeper and the terms of his employment had nothing to do with inventing in relation to vacuum cleaners.
+Ownership of employee inventions vests in employers where there is an express term in the employment contract. Any express term should not be so wide as to constitute a restraint of trade.[^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE] For example, in _Electrolux_, an adaptor to fit a bag to a vacuum cleaner was invented by a storekeeper and the terms of his employment had nothing to do with inventing in relation to vacuum cleaners. The storekeeper's employment contract did contain a clause under which he agreed to assign his IP rights, but the provision was too broad to be enforceable as it constituted an unreasonable restraint of trade.
 
 [^AUTOREPLACEDElectroluxLtdvHudson1977FSR312ENDREPLACE]: _Electrolux Ltd v Hudson_ [1977] FSR 312
 
