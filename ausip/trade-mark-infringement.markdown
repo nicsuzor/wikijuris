@@ -67,13 +67,6 @@ In relation to well-known trade marks, take into account the extent to which the
 
 [^AUTOREPLACEDTMAs1204ENDREPLACE]: _TMA_ s 120(4)
 
-**Video overview by Ria on [The Different Forms of Infringement in s 120](https://www.youtube.com/watch?v=lc1ZpqIBMRs)**
-
-
-
-
-**Video overview by Rohan Davies on [The Different Forms of Infringement under s 120](https://www.youtube.com/watch?v=lZuPa7udlMo)**
-
 
 ### Same Goods/Services
 
