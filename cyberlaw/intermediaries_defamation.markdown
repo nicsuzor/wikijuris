@@ -66,9 +66,9 @@ For publication on the internet, uniform defamation legislation now provides tha
 
 Following the reforms to defamation law which came into effect on 1 July 2021, claims must also meet the "serious harm" threshold. This means that plaintiffs need to establish that any defamatory publication (from 1 July 2021) causes, or is likely to cause, serious harm to their reputation.
 
-Section 10A(1) of the _Defamation Act 2005_ provides that "it is an element (the serious harm element) of a cause of action for defamation that the publication of defamatory matter about a person has caused, or is likely to cause, serious harm to the reputation.
+Section 10A(1) of the _Defamation Act 2005_ provides that "it is an element (the serious harm element) of a cause of action for defamation that the publication of defamatory matter about a person has caused, or is likely to cause, serious harm to the reputation."
 
-In the first court decision (in the NSW Supreme Court) on the threshold, Sackar J noted that the Australian provisions was the same in all material respects to the UK equivalent. The leading UK case on the matter is _Lachaux v Independent Print Ltd an ors.
+In the first court decision (in the NSW Supreme Court) on the threshold, Sackar J noted that the Australian provisions was the same in all material respects to the UK equivalent. The leading UK case on the matter is _Lachaux v Independent Print Ltd an ors__.
 
 In that case, the UK Supreme Court set out a number of factors relevant to evaluating whether there is serious harm. One factor is the extent of publication. The court considered the serious harm may be inferred where a statement has a strong defamatory imputation and has been shared with a wide audience. The absence of action was also held to be relevant. The serious harm threshold was not met where the plaintiff took no action to obtain removal of an online article for a year after he learnt of its publication. 
 
