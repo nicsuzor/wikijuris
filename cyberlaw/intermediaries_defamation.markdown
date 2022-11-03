@@ -26,7 +26,7 @@ Defamation law is concerned with harm to a person's reputation (to "de-fame" som
 
 Defamation law is regulated by the states. Uniform legislation has now been enacted across Australian states and territories to ensure consistency across Australian jurisdictions. This legislation came into effect from 1 January 2006.
 
-There are three elements of a defamation action: (1) defamatory matter (2) that is referable to the plaintiff and (3) which is published.
+There are three elements of a defamation action: (1) defamatory matter (2) that is referable to the plaintiff (3) which is published and (4) meets the serious harm threshold.
 
 ### Element 1: Defamatory Matter
 
@@ -61,6 +61,17 @@ In defamation law, every republication or repetition is treated as a fresh publi
 
 
 For publication on the internet, uniform defamation legislation now provides that the applicable law is that from the jurisdiction in which the harm occasioned by the publication as a whole has the closest connection. Usually, the jurisdiction with the closest connection to the harm will be that in which the plaintiff lives or runs their business, because that will be the jurisdiction in which their reputation is the strongest and therefore most severely damaged by the defamatory imputations. See further the Chapter on [jurisdiction].
+
+### Element 4: Serious Harm Threshold
+
+Following the reforms to defamation law which came into effect on 1 July 2021, claims must also meet the "serious harm" threshold. This means that plaintiffs need to establish that any defamatory publication (from 1 July 2021) causes, or is likely to cause, serious harm to their reputation.
+
+Section 10A(1) of the _Defamation Act 2005_ provides that "it is an element (the serious harm element) of a cause of action for defamation that the publication of defamatory matter about a person has caused, or is likely to cause, serious harm to the reputation.
+
+In the first court decision (in the NSW Supreme Court) on the threshold, Sackar J noted that the Australian provisions was the same in all material respects to the UK equivalent. The leading UK case on the matter is _Lachaux v Independent Print Ltd an ors.
+
+In that case, the UK Supreme Court set out a number of factors relevant to evaluating whether there is serious harm. One factor is the extent of publication. The court considered the serious harm may be inferred where a statement has a strong defamatory imputation and has been shared with a wide audience. The absence of action was also held to be relevant. The serious harm threshold was not met where the plaintiff took no action to obtain removal of an online article for a year after he learnt of its publication. 
+
 
 ## Defences to Defamation
 
