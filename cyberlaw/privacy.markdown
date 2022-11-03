@@ -332,12 +332,6 @@ The financial penalties for breaching the SPAM Act are steep and indexed to the 
 [Refer - _Crimes Act 1914_(Cth) s 4AA(1); _Spam Act 2003_(Cth) s 25]
 
 
-## Privacy Protection in China
-
-
-## Privacy Protection in Hong Kong
-
-
 ## Privacy Protection in India
 
 ### Constitution
