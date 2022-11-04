@@ -135,13 +135,13 @@ All safe harbours require that the CSP “must adopt and reasonably implement a 
 
 ### Category C Safe Harbour: Notice & Takedown Procedure
 
-Copyright Regulations 1969 (Cth) prescribe more detail for the notice & takedown procedure.
+Copyright Regulations 2017 (Cth) prescribe more detail for the notice & takedown procedure.
 
-* r 20I: Copyright owner may send a notice of claimed infringement to the CSP's designated representative (must be in the specified form)
-* r 20J(1): “If a carriage service provider receives a notice of claimed infringement ... the carriage service provider must expeditiously remove, or disable access to, the copyright material specified in the notice and residing on its system or network.”
-* As soon as practicable, the CSP must inform the user (r 20J(2)).
-* r 20K provides the user 3 months to lodge a counter-notice in the prescribed form. The CSP must send the counter-notice to the copyright owner.
-* r 20M: Upon receiving a counter-notice, the CSP must restore the content, unless the copyright owner files for injunctive relief
+* r 24: Copyright owner may send a notice of claimed infringement to the CSP's designated representative (must be in the specified form)
+* r 25(1): “If a carriage service provider receives a notice of claimed infringement ... the carriage service provider must expeditiously remove, or disable access to, the copyright material specified in the notice and residing on its system or network.”
+* As soon as practicable, the CSP must inform the user (r 25(2)).
+* r 26: provides the user 3 months to lodge a counter-notice in the prescribed form. The CSP must send the counter-notice to the copyright owner.
+* r 28: Upon receiving a counter-notice, the CSP must restore the content, unless the copyright owner files for injunctive relief
 
 
 
