@@ -335,15 +335,19 @@ The Federal Court must also take into account any other relevant matters before 
 <div markdown="block"  class="box legislation">
 
 
-(1)  The owner of a copyright may apply to the Federal Court of Australia to grant an injunction that requires a carriage service provider to take such steps as the Court considers reasonable to disable access to an online location outside Australia that:
+
+  (1)  The owner of a copyright may apply to the Federal Court of Australia to grant an injunction that requires a carriage service provider to take such steps as the Court considers reasonable to disable access to an online location outside Australia that:
      (a)  infringes, or facilitates an infringement, of the copyright; and
      (b)  has the primary purpose or the primary effect of infringing, or facilitating an infringement, of copyright (whether or not in Australia).
-(2)  The application under subsection (1) may also request that the injunction require an online search engine provider (other than a provider that is covered by a declaration under subsection (8B)) to take such steps as the Court considers reasonable so as not to provide a search result that refers users to the online location.
+
+  (2)  The application under subsection (1) may also request that the injunction require an online search engine provider (other than a provider that is covered by a declaration under subsection (8B)) to take such steps as the Court considers reasonable so as not to provide a search result that refers users to the online location.
 Granting the injunction
-(2A)  The Court may grant the injunction in the terms, and subject to the conditions, that the Court considers appropriate.
+
+  (2A)  The Court may grant the injunction in the terms, and subject to the conditions, that the Court considers appropriate.
 ...
 
-(5)  In determining whether to grant the injunction, the Court may take the following matters into account:
+
+  (5)  In determining whether to grant the injunction, the Court may take the following matters into account:
      (a)  the flagrancy of the infringement, or the flagrancy of the facilitation of the infringement, as referred to in paragraph (1)(b);
      (b)  whether the online location makes available or contains directories, indexes or categories of the means to infringe, or facilitate an infringement of, copyright;
      (c)  whether the owner or operator of the online location demonstrates a disregard for copyright generally;
