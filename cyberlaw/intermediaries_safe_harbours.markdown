@@ -334,28 +334,32 @@ The Federal Court must also take into account any other relevant matters before 
 
 <div markdown="block"  class="box legislation">
 
-(1)  The Federal Court of Australia may, on application by the owner of a copyright, grant an injunction referred to in subsection (2) if the Court is satisfied that:
-  * (a)  a carriage service provider provides access to an online location outside Australia; and
-  * (b)  the online location infringes, or facilitates an infringement of, the copyright; and
-  * (c)  the primary purpose of the online location is to infringe, or to facilitate the infringement of, copyright (whether or not in Australia).
 
-(2)  The injunction is to require the carriage service provider to take reasonable steps to disable access to the online location.
-
+(1)  The owner of a copyright may apply to the Federal Court of Australia to grant an injunction that requires a carriage service provider to take such steps as the Court considers reasonable to disable access to an online location outside Australia that:
+     (a)  infringes, or facilitates an infringement, of the copyright; and
+     (b)  has the primary purpose or the primary effect of infringing, or facilitating an infringement, of copyright (whether or not in Australia).
+(2)  The application under subsection (1) may also request that the injunction require an online search engine provider (other than a provider that is covered by a declaration under subsection (8B)) to take such steps as the Court considers reasonable so as not to provide a search result that refers users to the online location.
+Granting the injunction
+(2A)  The Court may grant the injunction in the terms, and subject to the conditions, that the Court considers appropriate.
 ...
 
- (5)  In determining whether to grant the injunction, the Court may take the following matters into account:
-
-  * (a)  the flagrancy of the infringement, or the flagrancy of the facilitation of the infringement, as referred to in paragraph (1)(c);
-  * (b)  whether the online location makes available or contains directories, indexes or categories of the means to infringe, or facilitate an infringement of, copyright;
-  * (c)  whether the owner or operator of the online location demonstrates a disregard for copyright generally;
-  * (d)  whether access to the online location has been disabled by orders from any court of another country or territory on the ground of or related to copyright infringement;
-  * (e)  whether disabling access to the online location is a proportionate response in the circumstances;
-  * (f)  the impact on any person, or class of persons, likely to be affected by the grant of the injunction;
-  * (g)  whether it is in the public interest to disable access to the online location;
-  * (h)  whether the owner of the copyright complied with subsection (4);
-  * (i)  any other remedies available under this Act;
-  * (j)  any other matter prescribed by the regulations;
-  * (k)  any other relevant matter.
+(5)  In determining whether to grant the injunction, the Court may take the following matters into account:
+     (a)  the flagrancy of the infringement, or the flagrancy of the facilitation of the infringement, as referred to in paragraph (1)(b);
+     (b)  whether the online location makes available or contains directories, indexes or categories of the means to infringe, or facilitate an infringement of, copyright;
+     (c)  whether the owner or operator of the online location demonstrates a disregard for copyright generally;
+     (d)  whether access to the online location has been disabled by orders from any court of another country or territory on the ground of or related to copyright infringement;
+     (e)  whether disabling access to the online location is a proportionate response in the circumstances;
+     (ea)  if the application under subsection (1) also sought for the injunction to apply against an online search engine provider—whether not providing search results that refer users to the online location is a proportionate response in the circumstances;
+     (f)  the impact on any person, or class of persons, likely to be affected by the grant of the injunction;
+     (g)  whether it is in the public interest to disable access to the online location;
+     (ga)  if the application under subsection (1) also sought for the injunction to apply against an online search engine provider—whether it is in the public interest not to provide search results that refer users to the online location;
+     (h)  whether the owner of the copyright complied with subsection (4);
+     (i)  any other remedies available under this Act;
+     (j)  any other matter prescribed by the regulations;
+     (k)  any other relevant matter.
+Presumption that the online location is outside Australia
+ 
+  (5A)  For the purposes of the proceedings, the online location is presumed to be outside Australia, unless the contrary is established.
 
 </div>
 
