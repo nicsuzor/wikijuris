@@ -405,7 +405,7 @@ The forum user (the second respondent) posted the comments because of Silberberg
 The messages were reasonably likely, in all the circumstances, to offend and insult Dr Silberberg or other Jews.
 Their posting contravened s.18C of the Racial Discrimination Act 1975 (Cth).
 The BCA had knowledge of the presence of one of the offensive postings in the forum and failed to remove it.
-Not proven that the BCA failed to remove it because of the Jewish race or ethnicity of Dr Silberberg, as required by the RDA.
+Not proven that the BCA failed to remove it because of the race or ethnicity of Dr Silberberg, as required by the RDA.
 The case against the BCA was dismissed.
 
 </div>
