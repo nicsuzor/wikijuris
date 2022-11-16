@@ -402,7 +402,7 @@ In sum, the forum user had unlawfully racially discriminated against Silberberg.
 Held (per Gyles J):
 The forum postings conveyed the anti-Semitic imputations alleged by Silberberg.
 The forum user (the second respondent) posted the comments because of Silberberg's Jewish background.
-The messages were reasonably likely, in all the circumstances, to offend and insult Dr Silberberg or other Jews.
+The messages were reasonably likely, in all the circumstances, to offend and insult Dr Silberberg or other Jewish people.
 Their posting contravened s.18C of the Racial Discrimination Act 1975 (Cth).
 The BCA had knowledge of the presence of one of the offensive postings in the forum and failed to remove it.
 Not proven that the BCA failed to remove it because of the race or ethnicity of Dr Silberberg, as required by the RDA.
