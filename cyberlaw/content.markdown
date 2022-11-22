@@ -15,7 +15,9 @@ nav_order: 90
 
 **Video Overview of Online Content Regulation in Australia by [Nicolas Suzor](https://www.youtube.com/watch?v=MXx8E2jnyGg)**
 
-Australia has a co-regulatory content regulation scheme. Telecommunications providers work together to develop industry codes of practice. These industry codes are overseen by the Australian Communications and Media Authority (ACMA) under the _Broadcasting Services Act 1992_ (Cth) Schedules 5 and 7. Schedule 5 applies to material hosted outside of Australia, and Schedule 7 applies to material hosted inside Australia. Australia also has an Office of the eSafety Commissioner, who has powers to investigate and address complaints about internet content. The Communications Alliance is the industry body that represents ISPs and Content Hosts.
+Australia has a co-regulatory content regulation scheme. 
+
+The _Online Safety Act 2021_ (Cth) requires that industry bodies or associations develop industry codes to regulate certain types of harmful online material. The Act provides for the eSafety Commissioner to register the codes.
 
 * [Code for Industry Co-Regulation in Areas of Mobile and Internet Content](http://www.acma.gov.au/~/media/Content%20Classification/Regulation/pdf/Internet%20Industry%20Codes%20of%20Practice%202005.PDF) (2005)
 
