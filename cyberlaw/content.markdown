@@ -219,9 +219,9 @@ Most major social media sites now have policies against image-based abuse in the
 
 **Lauren Trickey explains [how to make a complaint to the eSafety Commissioner](https://youtu.be/2aTxXyZsYgw)**
 
-The [eSafety Commissioner](https://www.esafety.gov.au/) is a statutory office established by the Enhancing Online Safety Act 2015 (Cth) to promote and enhance online safety. The Commissioner can receive reports for cyber-bulling, image-based abuse or offensive and illegal content.
+The [eSafety Commissioner](https://www.esafety.gov.au/) is a statutory office which was first established by the Enhancing Online Safety Act 2015 (Cth) to promote and enhance online safety. The powers of the Commissioner were later enhanced in the _Online Safety Act 2021_ (Cth). The Commissioner can receive reports for cyber-bulling, image-based abuse or offensive and illegal content.
 
-Cyberbullying complaints can be made by an Australian child or parent, guardian or person authorised by the child. Cyberbullying refers to online material intended to seriously threaten, intimidate, harass or humiliate an Australian child.
+Complaints about cyberbullying of a child can be made by an Australian child or parent, guardian or person authorised by the child. Cyberbullying refers to online material intended to seriously threaten, intimidate, harass or humiliate an Australian child. The 2021 amendments introduced the world's first legal scheme dealing with cyberbullying of adults. 
 
 Image based-abuse complaints can be made by the person in the intimate image, a person authorised to make a report or a parent or guardian of a child or a person who does not have capacity. The Commissioner can only assist if the image is hosted in Australia or if the person in the image or the person who posted the image resides in Australia. Image based-abuse occurs where a person has shared or threatened to share an intimate image of another person, without their consent.
 
