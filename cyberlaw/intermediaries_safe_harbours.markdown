@@ -83,67 +83,66 @@ s 116AG(2):  For infringements of copyright that occur in the course of carrying
 
 S 116AG then goes on to list the relief that a successful copyright owner is entitled to:
 
-* Injunction “requiring the carriage service provider to take reasonable steps to disable access to an online location outside Australia” (Category A);
+* Injunction “requiring the service provider to take reasonable steps to disable access to an online location outside Australia” (Category A);
 
-* Injunction “requiring the carriage service provider to terminate a specified account.” (All categories)
+* Injunction “requiring the service provider to terminate a specified account.” (All categories)
 
-* Injunction “requiring the carriage service provider to remove or disable access to infringing copyright material, or to a reference to infringing copyright material;” (Categories B, C, D)
+* Injunction “requiring the service provider to remove or disable access to infringing copyright material, or to a reference to infringing copyright material;” (Categories B, C, D)
 
 * “some other less burdensome but comparably effective non-monetary order if necessary.” (Categories B, C, D).
 
 
 ## Conditions for Safe Harbour Protection
 
-As explained in this **video overview by [Nic Suzor](https://www.youtube.com/watch?v=HsNBRbywcto)**, each safe harbour requires the CSP to follow certain conditions in s 116AH(1).
+As explained in this **video overview by [Nic Suzor](https://www.youtube.com/watch?v=HsNBRbywcto)**, each safe harbour requires the service provider to follow certain conditions in s 116AH(1).
 
 ### 'Repeat Infringer' Policy
 
-All safe harbours require that the CSP “must adopt and reasonably implement a policy that provides for termination, in appropriate circumstances, of the accounts of repeat infringers.” The operation of this obligation is somewhat uncertain. It is not yet clear what 'appropriate circumstances' are, or even when someone becomes a "repeat infringer"
+All safe harbours require that the service provider “must adopt and reasonably implement a policy that provides for termination, in appropriate circumstances, of the accounts of repeat infringers.” The operation of this obligation is somewhat uncertain. It is not yet clear what 'appropriate circumstances' are, or even when someone becomes a "repeat infringer".
 
 ### Conditions: Category A
 
->“Any transmission of copyright material in carrying out this activity must be initiated by or at the direction of a person other than the carriage service provider.”
+>“Any transmission of copyright material in carrying out this activity must be initiated by or at the direction of a person other than the service provider.”
 >
->“The carriage service provider must not make substantive modifications to copyright material transmitted. This does not apply to modifications made as part of a technical process.”
+>“The cservice provider must not make substantive modifications to copyright material transmitted. This does not apply to modifications made as part of a technical process.”
 
 
 ### Conditions: Category B
 
->“If the copyright material that is cached is subject to conditions on user access at the originating site, the carriage service provider must ensure that access to a significant part of the cached copyright material is permitted only to users who have met those conditions.”
+>“If the copyright material that is cached is subject to conditions on user access at the originating site, the service provider must ensure that access to a significant part of the cached copyright material is permitted only to users who have met those conditions.”
 >
->“If there is a relevant industry code in force--the carriage service provider must comply with the relevant provisions of that code relating to:
+>“If there is a relevant industry code in force--the service provider must comply with the relevant provisions of that code relating to:
 >(a) updating the cached copyright material; and
 >(b) not interfering with technology used at the originating site to obtain information about the use of the copyright material.”
 >
 >“The service provider must expeditiously remove or disable access to cached copyright material upon notification in the prescribed form that the material has been removed or access to it has been disabled at the originating site.”
 >
->“The carriage service provider must not make substantive modifications to the cached copyright material as it is transmitted to subsequent users. This does not apply to modifications made as part of a technical process.”
+>“The service provider must not make substantive modifications to the cached copyright material as it is transmitted to subsequent users. This does not apply to modifications made as part of a technical process.”
 
 
 ### Conditions: Categories C & D
 
->“The carriage service provider must not receive a financial benefit that is directly attributable to the infringing activity if the carriage service provider has the right and ability to control the activity.”
+>“The service provider must not receive a financial benefit that is directly attributable to the infringing activity if the service provider has the right and ability to control the activity.”
 >
->“The carriage service provider must expeditiously remove or disable access to copyright material residing on its system or network upon receipt of a notice in the prescribed form that the material has been found to be infringing by a court.”
+>“The service provider must expeditiously remove or disable access to copyright material residing on its system or network upon receipt of a notice in the prescribed form that the material has been found to be infringing by a court.”
 >
->“The carriage service provider must act expeditiously to remove or disable access to copyright material residing on its system or network if the carriage service provider:
+>“The service provider must act expeditiously to remove or disable access to copyright material residing on its system or network if the service provider:
 >
 >(a) becomes aware that the material is infringing; or
 >(b) becomes aware of facts or circumstances that make it apparent that the material is likely to be infringing.”
 >
->“The carriage service provider must comply with the prescribed procedure in relation to removing or disabling access [to copyright material \| a reference] residing on its system or network.”
+>“The service provider must comply with the prescribed procedure in relation to removing or disabling access [to copyright material \| a reference] residing on its system or network.”
 
 
 ### Category C Safe Harbour: Notice & Takedown Procedure
 
-Copyright Regulations 2017 (Cth) prescribe more detail for the notice & takedown procedure.
+_Copyright Regulations 2017_ (Cth) prescribe more detail for the notice & takedown procedure.
 
-* r 24: Copyright owner may send a notice of claimed infringement to the CSP's designated representative (must be in the specified form)
-* r 25(1): “If a carriage service provider receives a notice of claimed infringement ... the carriage service provider must expeditiously remove, or disable access to, the copyright material specified in the notice and residing on its system or network.”
-* As soon as practicable, the CSP must inform the user (r 25(2)).
-* r 26: provides the user 3 months to lodge a counter-notice in the prescribed form. The CSP must send the counter-notice to the copyright owner.
-* r 28: Upon receiving a counter-notice, the CSP must restore the content, unless the copyright owner files for injunctive relief
-
+* r 24: Copyright owner (or exclusive licensee) may send a notice of claimed infringement to the service's designated representative (must be in the specified form)
+* r 25(1): “If a service provider receives a notice of claimed infringement ... the service provider must expeditiously remove, or disable access to, the copyright material specified in the notice and residing on its system or network.”
+* As soon as practicable, the service provider must inform the user (r 25(2)).
+* r 26: provides the user 3 months to lodge a counter-notice in the prescribed form. The service provider must send the counter-notice to the copyright owner.
+* r 28: Upon receiving a counter-notice, the service provider must restore the content, unless the copyright owner files for injunctive relief
 
 
 <div markdown="block"  class="box case">
@@ -291,15 +290,17 @@ An appeal was begun, but the week before the parties were to appear in the 2nd U
 
 </div>
 
-## Broadcasting Services Act Sch 5, Cl 91
+## Online Safety Act 2021 (Cth), s 235
 
 **Video Overview by Nic Suzor: [Other Australian Safe Harbours](https://www.youtube.com/watch?v=p6iNf63Xs0Y)**
 
-Schedule 5, Clause 91(1) of the _Broadcasting Services Act 1992_ provides that a law of a State or Territory, or a rule of common law or equity, has no effect to the extent to which it:
-  * (a)  subjects, or would have the effect (whether direct or indirect) of subjecting, an internet content host to liability (whether criminal or civil) in respect of hosting particular internet content in a case where the host was not aware of the nature of the internet content; or
-  * (b)  requires, or would have the effect (whether direct or indirect) of requiring, an internet content host to monitor, make inquiries about, or keep records of, internet content hosted by the host; or
-  * (c)  subjects, or would have the effect (whether direct or indirect) of subjecting, an internet service provider to liability (whether criminal or civil) in respect of carrying particular internet content in a case where the service provider was not aware of the nature of the internet content; or
-  * (d)  requires, or would have the effect (whether direct or indirect) of requiring, an internet service provider to monitor, make inquiries about, or keep records of, internet content carried by the provider.
+Section 235 of the _Online Safety Act 2021_ provides that a law of a State or Territory, or a rule of common law or equity, has no effect to the extent to which it:
+  * (a)  subjects, or would have the effect (whether direct or indirect) of subjecting, an Australian hosting service provider to liability (whether criminal or civil) in respect of hosting particular online content in a case where the host was not aware of the nature of the online content; or
+  * (b)  requires, or would have the effect (whether direct or indirect) of requiring, an Australian hosting service provider to monitor, make inquiries about, or keep records of, online content hosted by the host; or
+  * (c)  subjects, or would have the effect (whether direct or indirect) of subjecting, an internet service provider to liability (whether criminal or civil) in respect of carrying particular online content in a case where the service provider was not aware of the nature of the online content; or
+  * (d)  requires, or would have the effect (whether direct or indirect) of requiring, an internet service provider to monitor, make inquiries about, or keep records of, online content carried by the provider.
+
+This provision used to be contained in the _Broadcasting Services Act_, schedule 5, clause 91. 
 
 Although on its face the clause seems to protect intermediaries against liability for content available on their services but provied by third parties, its application in practice is limited. As protection under the clause depends largely on whether the intermediary has actual knowledge of the content, protection is lost where the intermediary is given notice of the content. Rights holders can easily stop intermediaries relying on this clause by providing written notice to intermediaries before instituting legal action.
 
