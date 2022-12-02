@@ -48,11 +48,11 @@ There are four safe harbours that apply to different types of activity:
 
 >“providing facilities or services for transmitting, routing or providing connections for copyright material, or the intermediate and transient storage of copyright material in the course of transmission, routing or provision of connections.”
 
-This is the safe harbour that applies to ISPs and others who route traffic on behalf of users.
+This is the safe harbour that applies to eligible service providers and others who route traffic on behalf of users.
 
 **Category B Activity: Caching (s 116AD)**
 
->“caching copyright material through an automatic process. The carriage service provider must not manually select the copyright material for caching.”
+>“caching copyright material through an automatic process. The service provider must not manually select the copyright material for caching.”
 
 Public material that is very popular is often automatically cached (copied) by ISPs. Caching means that instead of retrieving the material from the external server every time, the ISP can serve up a local copy of the material – much faster and cheaper.
 
@@ -66,7 +66,7 @@ This is the safe harbour for hosting content – for example, ISPs who provide w
 
 >“referring users to an online location using information location tools or technology.”
 
-This safe harbour applies to search engines.
+This safe harbour applies to search engine services.
 
 ### Limited Immunity
 
