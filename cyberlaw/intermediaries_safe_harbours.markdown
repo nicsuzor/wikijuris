@@ -17,19 +17,20 @@ parent: Governing the Internet
 
 ## Chapter Overview
 
-This Chapter provides a brief history of the development of safe harbour protections in the United States (US) and Australia. It then outlines the four main copyright safe harbours in Australia, which are in the _Copyright Act 1968_ (Cth) and only apply to Carriage Service Providers (CSPs), rather than Internet Service Providers (ISPs) as in the US. The Chapter explains that each safe harbour has particular conditions, and that Australian safe harbours provide limited immunity for CSPs. It concludes by outlining other Australian safe harbours and some US case law, and discussing the future of copyright safe harbours.
+This Chapter provides a brief history of the development of safe harbour protections in the United States (US) and Australia. It then outlines the four main copyright safe harbours in Australia, which are in the _Copyright Act 1968_ (Cth) and only apply to Carriage Service Providers (CSPs) and certain cultural institutions and organisations assisting persons with a disability. In contrast, the US scheme applies more broadly to online service providers. The Chapter explains that each safe harbour has particular conditions, and that Australian safe harbours provide limited immunity for the eligible service providers. It concludes by outlining other Australian safe harbours and some US case law.
 
 ## A Legislative Bargain
 
 **Video Overview by [Nic Suzor](https://www.youtube.com/watch?v=VkP4EOQL2j4)**
 
-In the late 1990s, internet service providers and other intermediaries expressed concern about potential secondary liability for copyright infringement. At the same time, copyright owners were lobbying for increased protection in the online context. The result, in 1998, was the compromise position established by the Digital Millenium Copyright Act 1998 (US) (DMCA). The DMCA was widely supported by the copyright industries; it amended some provisions to ensure application in the online environment, strengthened penalties for infringement, and introduced new rights to prevent tampering with technological locks on content. It included some trade-offs: copyright owners received additional rights, but service providers (certain intermediaries) were immunised from liability under the so-called 'safe harbours'.
+In the late 1990s, internet service providers and other intermediaries expressed concern about potential secondary liability for copyright infringement. At the same time, copyright owners were lobbying for increased protection in the online context. The result, in 1998, was the compromise position established by the Digital Millenium Copyright Act 1998 (US) (DMCA). The DMCA was widely supported by the copyright industries. It amended some provisions to ensure application in the online environment, strengthened penalties for infringement, and introduced new rights to prevent tampering with technological locks on content. It included some trade-offs: copyright owners received additional rights, but service providers (certain intermediaries) were immunised from liability under the so-called 'safe harbours'.
 
-Essentially, the copyright safe harbours provide that online service providers (Internet Service Providers AND content hosts) are not liable for monetary damages for the infringing acts of their users, as long as they meet certain conditions. The relevant provisions are in 17 USC § 512[^AUTOREPLACEDhttpwwwlawcornelleduuscode17512htmlAUTOREPLACED]
+Essentially, the copyright safe harbours provide that online service providers (internet service providers AND content hosts) are not liable for monetary damages for the infringing acts of their users, as long as they meet certain conditions. The relevant provisions are in 17 USC § 512[^AUTOREPLACEDhttpwwwlawcornelleduuscode17512htmlAUTOREPLACED]
 
 
 [^AUTOREPLACEDhttpwwwlawcornelleduuscode17512htmlAUTOREPLACED]: http://www.law.cornell.edu/uscode/17/512.html
-. Intermediaries might still be liable, but the only remedy available is limited injunctive relief. In exchange, they undertake obligations to respond to notice & takedown requests. It is important to note that these obligations are optional. A service provider only needs to meet the conditions in the safe harbours if it wishes to be able to rely on them.
+
+Intermediaries might still be liable, but the only remedy available is limited injunctive relief. In exchange, they undertake obligations to respond to notice and takedown requests. It is important to note that these obligations are optional. A service provider only needs to meet the conditions in the safe harbours if it wishes to be able to rely on them.
 
 ## Australian Safe Harbours
 
@@ -37,7 +38,7 @@ Australia was obliged to implement DMCA-style legislation (known as TRIPS+) as a
 
 ### Only ISPs (and some other institutions) can rely on the Safe Harbours
 
-The Australian Safe Harbours, unlike those in the US DMCA, primarily apply to 'Carriage Service Providers' (CSP). This is defined in [Telecommunications Act 1997 (Cth) s 87](http://www.austlii.edu.au/au/legis/cth/consol_act/ta1997214/s87.html). Essentially, a CSP is an ISP. What this means, crucially, is that the Australian safe harbours do not apply to content hosts.
+The Australian Safe Harbours, unlike those in the US DMCA, were initially only applicable to 'Carriage Service Providers' (CSP). This is defined in [Telecommunications Act 1997 (Cth) s 87](http://www.austlii.edu.au/au/legis/cth/consol_act/ta1997214/s87.html). Essentially, a CSP is an ISP. What this means, crucially, is that the Australian safe harbours do not apply to content hosts.
 
 The safe harbours were [amended recently](http://www5.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s116aba.html) to also cover organisations assisting persons with a disability, libraries, archives, key cultural institutions, and educational institutions. The Government declined to extend them to content hosts and other online service providers.
 
