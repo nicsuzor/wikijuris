@@ -317,9 +317,11 @@ While the wording of the section may appear to provide an important defence to I
 <div markdown="block"  class="box error">
 
 
-# Website blocking: Section 115A of the Copyright Act
+# Site blocking & De-indexing Orders: Section 115A of the Copyright Act
 
-**Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=3hWe0YJ_hds)**
+**Video Overview by [Kylie Pappalardo](https://www.youtube.com/watch?v=3hWe0YJ_hds)** 
+  
+Note that this video overview is of the original provision, which covered site blocking but not de-indexing.
 
 Section [115A](http://www5.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s115a.html) of the _Copyright Act 1968_ (Cth) was inserted by a 2015 amendment to the Copyright Act. The section enables a copyright owner to obtain an injunction to require a carriage service provider to block access to infringing websites and other internet resources.
 
