@@ -110,7 +110,7 @@ Under s 124, the Commissioner also has the power to issue notice to search engin
 
 The _Online Safety Act_ provides for to Minister for Communications to make a determination (a form of legislative instrument) setting out basic online safety expectations.
 
-The first determination was made in 2022. The _Online Safety (Basic Online Safety Expectations) Determination 2022_ specifies the basic online safety expectations for a social media service and other services that allow end users to access material using a carriage service or using a carriage service or a service that delivers material by means of a carriage service.
+The first determination was made in 2022. The _Online Safety (Basic Online Safety Expectations) Determination 2022_ specifies the basic online safety expectations for a social media service and other services that allow end users to access material using a carriage service or a service that delivers material by means of a carriage service.
 
 Under s 49, the Commissioner may require the relevant providers to submit periodic reports on how they are meeting the expectations set out in the determination. The Commissioner may also publish statements about the provider’s compliance or non-compliance with the expectations on its website.
 
