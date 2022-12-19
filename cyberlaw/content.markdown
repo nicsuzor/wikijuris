@@ -106,7 +106,7 @@ With respect to class 2 material which falls within the R 18+ or category 1 rest
 
 Under s 124, the Commissioner also has the power to issue notice to search engine providers requiring the provider to cease providing links to class 1 materials (a ‘link deletion notice’) in certain circumstances. Under s 128, the Commissioner may issue notice to an app distribution service provider to cease enabling end users in Australia to download an app that facilitates the posting of class 1 material (an ‘app removal notice’) in certain circumstances.
 
-## Basic online safety expectations
+## Basic Online Safety Expectations
 
 The _Online Safety Act_ provides for to Minister for Communications to make a determination (a form of legislative instrument) setting out basic online safety expectations.
 
@@ -114,7 +114,7 @@ The first determination was made in 2022. The _Online Safety (Basic Online Safet
 
 Under s 49, the Commissioner may require the relevant providers to submit periodic reports on how they are meeting the expectations set out in the determination. The Commissioner may also publish statements about the provider’s compliance or non-compliance with the expectations on its website.
 
-# Section 313 of the of the Telecommunications Act 1997 (Cth)
+# Section 313 of the Telecommunications Act 1997 (Cth)
 
 
 **Video Overview by Kaava Watson:[Section 313](https://www.youtube.com/watch?v=DgSMz2GRVB4)**
@@ -146,7 +146,7 @@ Specifically, s 474.17 of the Criminal Code sets out an offence for the use of a
 
 Section 75 of the _Online Safety Act_ prohibits the posting, or threatened posting, of an intimate image of another person without their consent. The prohibition applies where the person in the image or person posting the image are ordinarily resident in Australia. An ‘intimate image’ is defined to include images that depict genital or anal areas, a female, transgender or intersex person’s breasts, private activities such as showering, using the toiler or engaging in a sexual act not ordinarily done in public.
 
-There is also a complaints-based system in the _Online Safety Act_, whereby the eSafety Commissioner may issue a removal notice or another civil remedy upon receipt of a victim’s complaint.[^AUTOREPLACEDEnhancingOnlineSafetyNonConsensualSharingofIntimateImagesAct2018Cthsch1s24OnlineSafetyAct2021Cthss3277-79FAUTOREPLACED]
+There is also a complaints-based system in the _Online Safety Act_, whereby the eSafety Commissioner may issue a removal notice or another civil remedy upon receipt of a victim’s complaint.
 
 
 [^AUTOREPLACEDEnhancingOnlineSafetyNonConsensualSharingofIntimateImagesAct2018Cthsch2s4CriminalCodeAct1995Cths47417AAUTOREPLACED]: Enhancing Online Safety (Non-Consensual Sharing of Intimate Images) Act 2018 (Cth) sch 2 s 4; Criminal Code Act 1995 (Cth) s 474.17A.
