@@ -200,7 +200,7 @@ For each type of material an online form can be completed on the eSafety website
 
 **See overview by Georgie Vine about the [Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](https://www.youtube.com/watch?v=a8qDarI5mCM)**
 
-The _[Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](https://www.legislation.gov.au/Details/C2019A00038)_ creates new offences under the C_riminal Code Act 1995_ (Cth), effective from 6 April 2019. 
+The _[Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](https://www.legislation.gov.au/Details/C2019A00038)_ creates new offences under the _Criminal Code Act 1995_ (Cth), effective from 6 April 2019. 
 
 These new provisions require content (social media) websites and hosting providers to remove abhorrent violent material as soon as reasonably possible, and to refer it to the Australian Federal Police. 
 
