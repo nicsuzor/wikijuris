@@ -174,7 +174,7 @@ The State also introduced three new misdemeanours into their Criminal Code to br
 
 
 
-**Angelina Kardum: (How the major social media platforms deal with image-based abuse](https://www.youtube.com/watch?v=Y-RbaE73B7M&feature=youtu.be)**
+**Angelina Kardum explains: [How the major social media platforms deal with image-based abuse](https://www.youtube.com/watch?v=Y-RbaE73B7M&feature=youtu.be)**
 
 Most major social media sites now have policies against image-based abuse in their community guidelines or standards. Victims of image-based abuse can make a report directly to the site on which their intimate image was shared. This report is then assessed against the site's community guidelines or standards and if it appears to be in violation of the community guidelines or standards, the image is generally removed within 24 hours. Whilst major social media services have taken positive steps towards tackling image-based abuse, such as developing reporting and take-down mechanisms, these mechanisms have their shortcomings. The two main issues with the current approaches taken by social media services are the delays associated with the assessment of reports and the heavy reliance on self-reporting.
 
