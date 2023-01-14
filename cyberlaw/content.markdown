@@ -17,9 +17,13 @@ nav_order: 90
 Australia has a co-regulatory content regulation scheme. Under a co-regulation model, an industry body (such as the Communications Alliance) usually develops a code of practice, which is then made binding on industry participants through a legislative mechanism. Co-regulation is a common form of regulation in Australian media law.
 
 The _Online Safety Act 2021_ (Cth) sets out an expectation that industry bodies or associations will develop industry codes to regulate certain types of harmful online material. The Act provides for the eSafety Commissioner to register the codes if certain conditions are met. These include, among other things, that the Commissioner was consulted on the code and the Commissioner is satisfied that:
+
 •	The code was developed by a body or association that represents a particular section of the online industry, and the code deals with one or more matters relating to the online activities of those participants.
+
 •	To the extent to which the code deals with one or more matters of substantial relevance to the community—the code provides appropriate community safeguards for that matter or those matters.
+
 •	To the extent to which the code deals with one or more matters that are not of substantial relevance to the community—the code deals with that matter or those matters in an appropriate manner.
+
 •	The body or association published a draft of the code and invited members of the public and industry participations to make submissions, and gave consideration to any submissions that were received.
 
 The Commissioner may also request that a particular body or association which represents a section of the online industry develop an industry code dealing with one or more specified matters relating to the online activities of those industry participants. In April 2022, the Commissioner issued such a request, seeking the development of codes relating to ‘class 1’ material by six industry associations. The associations submitted draft codes in November 2022.
@@ -29,8 +33,6 @@ Watch the following videos for background on online content regulation prior to 
 * **Video Overview of Online Content Regulation in Australia by [Nicolas Suzor](https://www.youtube.com/watch?v=MXx8E2jnyGg)**
 
 * [Code for Industry Co-Regulation in Areas of Mobile and Internet Content](http://www.acma.gov.au/~/media/Content%20Classification/Regulation/pdf/Internet%20Industry%20Codes%20of%20Practice%202005.PDF) (2005)
-
-* [Content Services Code of Practice](http://www.acma.gov.au/webwr/aba/contentreg/codes/internet/documents/content_services_code_2008.pdf) (2008)
 
 ## Content classification in Australia
 
