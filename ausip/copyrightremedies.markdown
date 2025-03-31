@@ -99,7 +99,7 @@ In these instances the court has regard to:
 
 The case of [Milpurrurru v Indofurn Pty Ltd](http://classic.austlii.edu.au/au/cases/cth/FCA/1994/1544.html) involved the artwork of eight Aboriginal artists which had been reproduced without their permission on carpets manufactured overseas and imported into Australia by the defendants.
 
-The Court held that copyright had been infringed. Further, the Court assessed additional dames in the sum of $70,000, having regards to the cultural harm and personal distress caused.
+The Court held that copyright had been infringed. Further, the Court assessed additional damages in the sum of $70,000, having regards to the cultural harm and personal distress caused.
 
 </div>
 
