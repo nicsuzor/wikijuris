@@ -283,7 +283,7 @@ The provisions of the _Act_ apply where a person or organisation can demonstrate
 
 Defences relating to parody can be found in other jurisdictions, including the US and member countries of the European Union. The defence for satire may be unprecedented.
 
-The case of _TCN Channel Nine Pty Ltd v Network Ten Ltd_ (_Panel case_)[^AUTOREPLACEDTCNChannelNinePtyLtdvNetworkTenLtd2001FCA108NetworkTenPtyLtdvTCNChannelNinePtyLtd2004218CLR273ENDREPLACE] involved parody and satire, however, the case was finalised before defence was introduced in Australian law. Whether this defence would have made a different is a point of debate.
+The case of _TCN Channel Nine Pty Ltd v Network Ten Ltd_ (_Panel case_)[^AUTOREPLACEDTCNChannelNinePtyLtdvNetworkTenLtd2001FCA108NetworkTenPtyLtdvTCNChannelNinePtyLtd2004218CLR273ENDREPLACE] involved parody and satire, however, the case was finalised before defence was introduced in Australian law. Whether this defence would have made a difference is a point of debate.
 
 [^AUTOREPLACEDTCNChannelNinePtyLtdvNetworkTenLtd2001FCA108NetworkTenPtyLtdvTCNChannelNinePtyLtd2004218CLR273ENDREPLACE]: TCN Channel Nine Pty Ltd v Network Ten Ltd [2001] FCA 108; Network Ten Pty Ltd v TCN Channel Nine Pty Ltd (2004) 218 CLR 273
 
