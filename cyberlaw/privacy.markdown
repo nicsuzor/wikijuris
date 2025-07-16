@@ -277,15 +277,19 @@ This Act imposes obligations on telecoms providers inc to provide assistance to 
   * safeguarding national security.
 
 ### Exceptions to the Privacy Act ###
-Most Australian government agencies are covered by the Privacy Act including AFP, Border and Crim Trac
-But some are not covered:
+
+The *Privacy Act 1988* (Cth) applies to most Australian government agencies, including the Australian Federal Police, Australian Border Force, and CrimTrac. However, certain intelligence and national security agencies are **excluded** from the Act:
+
   * Office of National Assessments
-  * ASIO
-  * ASIS
-  * ASD
+  * Australian Security Intelligence Organisation (ASIO)
+  * Australian Secret Intelligence Service (ASIS)
+  * Australian Signals Directorate (ASD)
   * Defence Intelligence Organisation
-  * Australian Geospatial Intelligence Org
-Instead, the Inspector General of Intelligence and Security provides oversight of these agencies’ activities & reviews activities for legality and propriety
+  * Australian Geospatial-Intelligence Organisation
+  * Australian Commission for Law Enforcement Integrity
+  * Australian Criminal Intelligence Commission
+
+For these excluded organisations, the Inspector General of Intelligence and Security provides oversight and review of these agencies' activities, ensuring their operations remain within legal bounds and maintain propriety
 
 ### Data Retention ###
 
