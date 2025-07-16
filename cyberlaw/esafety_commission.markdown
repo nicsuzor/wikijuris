@@ -26,3 +26,21 @@ Parliament stated their intentions that they expect “each social media service
 [^safety5]: _Enhancing Online Safety for Children Act 2015_, s 41.  
 [^safety22]: _Enhancing Online Safety for Children Act 2015_, s 41.  
 [^safety20]: _Enhancing Online Safety for Children Act 2015_, s 41.  
+
+## Online Safety Act 2021 and Statutory Review
+
+The _Enhancing Online Safety for Children Act 2015_ was subsequently replaced by the _Online Safety Act 2021_ (Cth), which expanded the eSafety Commissioner's powers beyond protecting children to include all Australians. The 2021 Act broadened the regulatory framework to address a wider range of online harms including adult cyber-abuse, non-consensual sharing of intimate images, and seriously harmful online content.
+
+### Statutory Review of the Online Safety Act
+
+The Online Safety Act 2021 (Cth) includes a statutory requirement for review within three years of commencement. The Issues Paper for this review was released in April 2024, with public consultation closing on 21 June 2024.
+
+The review examines five key areas:
+
+1. Australia's regulatory approach to online systems, services and processes
+2. Protection of individuals experiencing online harms
+3. Penalties, investigative and information gathering powers
+4. Global strategies for addressing online harms
+5. Regulating digital environments amid technological change
+
+This review process provides an opportunity to assess the Act's effectiveness in addressing evolving online safety challenges and ensure the regulatory framework remains fit for purpose.  
