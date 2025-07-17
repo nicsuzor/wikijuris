@@ -14,6 +14,30 @@ nav_order: 90
 {:toc}
 
 
+## Historical development of content regulation
+
+**Video Overview of Online Content Regulation in Australia by [Nicolas Suzor](https://www.youtube.com/watch?v=MXx8E2jnyGg)**
+
+The evolution of content regulation in Australia has been marked by several key developments:
+
+* **1992**: The _Broadcasting Services Act 1992_ established the first framework for content regulation in Australia, aimed at protecting public interests whilst balancing the freedoms of the broadcasting sector.
+
+* **1997**: The Australian Broadcasting Authority (ABA) investigated online content regulation and introduced 47 legislative principles for a National Framework, establishing the groundwork for industry codes of practice and the Platform for Internet Content Selection (PICS).
+
+* **1999**: Schedule 5 of the _Broadcasting Services Act 1992_ introduced a self-regulatory scheme with the ABA (later ACMA) as the enforcement agency. The scheme focused on ISP regulation through industry codes and complaints mechanisms.
+
+* **2007**: The National Filter Scheme (NetAlert Program) was introduced to provide internet safety education and filtering technology, though it was axed in 2008 due to low adoption rates and technical limitations.
+
+* **2008**: The Content Services Code 2008 provided clearer guidelines for content/hosting service providers and established self-regulatory content assessment regimes.
+
+* **2015**: The _Enhancing Online Safety for Children Act 2015_ established the Office of the Children's eSafety Commissioner, later expanded in 2017 to cover broader online safety issues including image-based abuse and domestic violence.
+
+* **2021**: The _Online Safety Act 2021_ replaced previous frameworks with a comprehensive regulatory scheme administered by the eSafety Commissioner.
+
+For more detailed information on earlier regulatory approaches, see the [Code for Industry Co-Regulation in Areas of Mobile and Internet Content](http://www.acma.gov.au/~/media/Content%20Classification/Regulation/pdf/Internet%20Industry%20Codes%20of%20Practice%202005.PDF) (2005).
+
+## Current regulatory framework
+
 Australia has a co-regulatory content regulation scheme. Under a co-regulation model, an industry body (such as the Communications Alliance) usually develops a code of practice, which is then made binding on industry participants through a legislative mechanism. Co-regulation is a common form of regulation in Australian media law.
 
 The _Online Safety Act 2021_ (Cth) sets out an expectation that industry bodies or associations will develop industry codes to regulate certain types of harmful online material. The Act provides for the eSafety Commissioner to register the codes if certain conditions are met. These include, among other things, that the Commissioner was consulted on the code and the Commissioner is satisfied that:
