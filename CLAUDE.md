@@ -13,13 +13,13 @@ We need to edit suggestions that come in, convert them to Markdown, ensure they 
 - **Task**: Process Word docs from `./incoming/` → edit → integrate → commit
 
 ## Workflow
-1. Read document from `./incoming/`
-2. Convert to Markdown
-3. Edit per guidelines below
-4. Find appropriate placement in textbook
+1. Read document from `./incoming/$NAME.docx`
+2. Use a tool to convert from docx to Markdown and save to `./incoming/working/$NAME-converted.md`
+3. Find appropriate placement in textbook (`./cyberlaw/`)
+4. Edit per guidelines below and update saved draft in `./incoming/working/$NAME.md`
 5. Merge into source file
 6. Git commit with descriptive message
-7. Archive processed file
+7. Archive original document by moving file to `./processed`
 
 ## Editorial Guidelines
 

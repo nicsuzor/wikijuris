@@ -275,7 +275,7 @@ Most Australian jurisdictions have criminal offences covering non-consensual sha
 
 The *Online Safety Act 2021* (Cth) empowers the eSafety Commissioner to issue removal notices to online service providers hosting intimate imagery, including deepfakes. Providers must remove content within 24 hours of notice, with penalties for non-compliance. As noted by scholars, 'detection without removal offers little solace to those exploited by deepfake pornography'.[^DeepfakeTong]
 
-The limitations of civil enforcement mechanisms are illustrated by *Anthony Rondondo v eSafety Commissioner* (2023), where contempt proceedings were required after non-compliance with a removal notice. Rondondo was ordered to pay $25,000 plus costs.[^DeepfakeRondondo] The case highlights the gap between civil remedies and criminal enforcement - Rondondo was subsequently arrested for distributing deepfake images of school students and teachers, demonstrating the need for stronger criminal sanctions.
+The limitations of civil enforcement mechanisms are illustrated by *Anthony Rondondo v eSafety Commissioner* (2023), where contempt proceedings were required after non-compliance with a removal notice. Rondondo was ordered to pay $25,000 plus costs.[^DeepfakeRondondo] This apparently did not serve as a deterrent; Rondondo was subsequently arrested for distributing deepfake images of school students and teachers.
 
 #### Criminal Code Amendment (Deepfake Sexual Material) Bill 2024
 
