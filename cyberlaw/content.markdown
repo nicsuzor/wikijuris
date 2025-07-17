@@ -326,6 +326,26 @@ a) material can be accessed using an internet carriage service supplied by an in
 b) Commissioner is satisfied that the material that promotes, instructs, incites or depicts abhorrent violent conduct; and
 c) Commissioner is satisfied that the availability of the material online is likely to cause significant harm to the Australian community.
 
+## Disguised Content and Evasion Techniques
+
+Despite content regulation efforts, some individuals and organisations have used coercive and nefarious tactics to share prohibited imagery and videos online, especially aimed at those most vulnerable, children. Disguised content refers to harmful content that seeks to evade online content regulation or filtering mechanisms.
+
+### TikTok, YouTube and 'Splicing'
+
+In January 2021, users of TikTok, one of the world's most popular social media sites, were exposed to a viral video containing a graphic depiction of bodily mutilation and the recorded death of an individual. Although TikTok strictly prohibits content of this nature, the video was able to be shared globally due to the original poster 'splicing' the clip of the violent crime behind a video of a girl dancing — allowing the upload to 'trick' the application's artificial intelligence algorithm into thinking that it was a normal video.
+
+In 2019, parents became aware of a similar issue when YouTube hosted popular videos that at first showed children's content such as Peppa Pig that were found to be spliced with videos of a disfigured humanoid character called 'Momo' repeating inappropriate phrases and showing videos of cartoon characters being tortured. Another example involving YouTube involved children being exposed to spliced videos that gave explicit instructions on how to inflict self-harm.
+
+Other manners of disguising content have begun to emerge. In August 2024, a new trend arose that involved nefarious creators uploading videos where the first few seconds appear relatively normal and fun before they begin to video themselves exposing themselves on camera or showing disturbing content.
+
+### Disguised Content and the Online Safety Act
+
+In Australia the primary instrument that instructs online content regulation is the _Online Safety Act 2021_ (Cth). This Act works to classify online content in conjunction with the National Classification Code into class 1 material and class 2 material under section 106 and 107. The Act utilises these classification systems as a way of directing enforcement, with sections 109-128 stipulating that the publication of harmful material against the regulations of the Act be followed by orders of deletion or the removal of content or platforms in extreme circumstances. However, these measures have been criticised for focusing too heavily on content removal rather than prevention of publication.
+
+Disguised content is often class 1 material. Due to creators evading the regulatory algorithms on platforms like YouTube, these videos remain online until a substantial number of reports are made, and the videos are manually reviewed or flagged as class 1 material, by which point these videos have been widely circulated, causing harm. Exacerbating this issue is that the current laws are limited by geographical jurisdiction and therefore cannot effectively govern 'cloud computing' or the uploading or creation of disguised content from locations outside of Australia particularly with the more prevalent use of proxy servers such as VPNs that can hide the location of a poster.
+
+Another issue around enforcement is that creators and uploaders of disguised content often are anonymous, undetectable and in viral circumstances, numerous due to re-uploads. This is also problematic for enforcing the new _Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act_ 2019 (Cth) provisions that criminalises the acts of uploading harmful material.
+
 ## Case Study: eSafety Commissioner v X Corp [2024] FCA 499
 
 The recent case of _eSafety Commissioner v X Corp_ [2024] FCA 499 tested the powers and limits of the _Online Safety Act_ in relation to the Commissioner's powers under section 109.
