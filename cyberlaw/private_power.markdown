@@ -74,3 +74,53 @@ This represents a key tension between the right of freedom of expression, and th
 The United Nations Guiding Principles on Business and Human Rights explains that business have a responsibility to respond to human rights abuses with which they are involved. Civil society groups are increasingly seeking to get intermediaries to cooperate. Using the language of ‘responsibility’, they’re trying to drive change in the policies of platforms.
 
 This proceeds both in terms of seeking more transparency and accountability when platforms censor information or hand over personal details on behalf of governments, and also when platforms remove, or refuse to remove, content that violates their terms of service. Across many of these services, people are also increasingly looking for technical ways to achieve regulation (see, for example, Twitter's block lists).
+
+## Platform Governance and Content Moderation
+
+### What is Platform Governance?
+
+"Governance" refers to the system of rules, policies, practices and standards that manages how an organisation operates and the use of mechanisms to hold organisations and individuals to account. Thus, "platform governance" refers to the management of platforms, such as social media, their users and stakeholders, using a range of rules, policies, practices and standards to govern the use, operation and purpose of the platform.
+
+#### Self-Regulation Model of Platform Governance
+
+There are many different models of platform governance, however, the most common type is the self-regulation model. Many online platforms hold an extreme amount of discretion as to how to govern their platforms and whilst there have been recent improvements in content moderation, self-regulation is still the prominent form of platform governance.
+
+### Responsibilities of Platforms in Content Management
+
+Online platforms have a responsibility to manage the content available to its users. Content moderation ensures that user-generated content meets standards and guidelines through monitoring and reviewing. Content moderation is a form of platform governance, and its goal is to enforce community guidelines and terms of service. There are various strategies that platforms use to govern the content including: human moderation and automated moderation.
+
+#### Human Moderation
+
+Human content moderation is a form of manual moderation. This typically involves the manual monitoring of user generated content to ensure that the content conforms to the platform's guidelines. User-generated content that does not conform to the law, guidelines or platform specifications is removed through human intervention to improve user satisfaction and protect users from illegal or harmful content.
+
+Manual human moderation has many benefits including the ability to understand context behind content, which improves content-specific judgements within full-scale datasets. However, its major downfall occurs in its cost and time effectiveness. Human moderation is unable to manage content to the same scale at the same price as automated moderation.
+
+#### Automated Moderation
+
+Automated moderation includes any form of automated response to user-generated content submitted to a platform. Automated moderation includes tools like algorithms and artificial intelligence (AI) to ensure that content meets platform guidelines. The use of AI in automated moderation allows user-generated content to be reviewed against platform data and determine an appropriate cause of action -- the AI itself is able to learn from these outcomes and develops more accurate moderation. The benefits of automated moderation are centred around the time and cost benefits. Automated moderation can make almost instantaneous decisions about content, ensuring it meets regulations. This creates a cheaper alternative to paying humans to moderate the same amount of content, it also allows the platform to grow.
+
+### Government Regulations on Platform Policies
+
+While many platforms approached platform governance with self-regulation at the forefront, government legislation and rules can also form part of the governance associated with content available online. In 2021, the Australian federal Government introduced the _Online Safety Act 2021_ (Cth). Further regulations came into force with the _Online Safety (Basic Online Safety Expectation) Determination 2022_ (Cth).
+
+#### Online Safety Act - Online Content Scheme
+
+The _Online Safety Act_ is aimed at keeping consumers safe when accessing online materials or using platforms in addition to removing and reporting harmful content. The _Online Safety Act_ established an Online Content Scheme. The Scheme is designed to ensure the aims of the Act are maintained and enforced through various measures.
+
+The Online Content Scheme allows users to make formal complaints to eSafety about content that may be harmful, offensive and illegal. The Scheme also empowers eSafety to access and review the complaints.
+
+The _Online Safety Act_ part 9 has a classification system for content that may be illegal or restricted. Legal tools are available to keep Australian platform users safe, including:
+
+* For class 1 material -- involvement of the Australian Federal Police, and
+* For class 2 material -- an order for the removal or a restricted access system of the content.
+
+The _Online Safety Act_ can also empower eSafety to order the removal of extremely harmful and illegal content from platforms, even when it is not hosted within Australia. Extremely harmful and illegal content includes:
+
+* Child sexual abuse material,
+* Detailed instruction or promotion of crime or violence,
+* Gratuitous, exploitative and offensive depictions of violence or sexual violence, and/or
+* Material that advocates carrying out a terrorist act.
+
+#### Online Safety Expectations
+
+The _Online Safety (Basic Online Safety Expectation) Determination 2022_ (Cth) set out a range of expectations that online platforms are expected to conform to, aimed at increasing transparency and accountability of online service providers, and guaranteeing that platforms have adequate processes in place to minimise and mitigate harmful content.
