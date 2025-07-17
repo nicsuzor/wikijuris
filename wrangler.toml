@@ -1,0 +1,18 @@
+account_id = "7f3e801a63603396808afdbc0cdc3c16"
+name = "wikijurisn"
+type = "webpack"
+site = { bucket = "./_site" }
+compatibility_date = "2023-02-08"
+
+[env.dev]
+name = "dev"
+workers_dev = true
+vars = { ENVIRONMENT = "dev" }
+
+[env.live]
+name = "live"
+vars = { ENVIRONMENT = "live" }
+routes = [
+  "nic.suzor.net/*",
+    "www.nic.suzor.net/*"
+    ]
