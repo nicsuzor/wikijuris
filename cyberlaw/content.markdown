@@ -176,9 +176,46 @@ The State also introduced three new misdemeanours into their Criminal Code to br
 
 
 
+## Social context and prevalence
+
+### Key statistics
+
+The prevalence of image-based abuse was highlighted in a study conducted by the eSafety Commissioner in 2017 that found that 1 in 10 individuals experienced image-based abuse, with females aged between 15 to 17 years being most at risk. The report also found:
+
+- 6 in 10 victims knew the perpetrator;
+- The perpetrator was a friend that they knew offline (29%), an ex-partner (13%), a current partner (12%) or a family member (10%); and
+- Image-based abuse is more likely to occur on Facebook (53%).
+
+### Factors affecting reporting
+
+The eSafety Commissioner is empowered to investigate and make decisions regarding image-based abuse but this requires victims to report it. Studies have estimated that only 35% of cases of image-based abuse are reported. The factors influencing a victim not reporting can include:
+
+- Negative stigma;
+- Psychological barriers including victim blaming, humiliation and embarrassment;
+- An unawareness of the severity of the incident;
+- A fear of exacerbating or making it worse including attention to image-based abuse;
+- Lack of confidence in law enforcement; and
+- Unaware of the support services available.
+
+### Social prevention and response
+
+Considering the social context of image-based abuse, there have been several actions taken by the Australian Government and other bodies to raise awareness and better educate individuals:
+
+1. The Office of the eSafety Commissioner has developed a professional learning program for teachers and facilitators titled 'Online Harmful Sexual Behaviours, Misinformation and Emerging Technology'. Its goal is to equip individuals with the necessary skills to identify and respond to incidences of image-based abuse and the role that coercion plays.
+
+2. In 2020, the NSW Government launched a campaign to help prevent image-based abuse and educate individuals on the topic including information on where to seek help. This was largely due to the number of reports between 2019 to 2020, namely a 172% increase. The campaign also offered counselling to individuals and the removal of the content.
+
+3. In 2022, the Australian Government responded to the report from the Senate titled 'Phenomenon colloquially referred to as 'revenge porn''. The statement supported most of the recommendations proposed including that all police officers undertake mandatory training around image-based abuse.
+
 **Angelina Kardum explains: [How the major social media platforms deal with image-based abuse](https://www.youtube.com/watch?v=Y-RbaE73B7M&feature=youtu.be)**
 
 Most major social media sites now have policies against image-based abuse in their community guidelines or standards. Victims of image-based abuse can make a report directly to the site on which their intimate image was shared. This report is then assessed against the site's community guidelines or standards and if it appears to be in violation of the community guidelines or standards, the image is generally removed within 24 hours. Whilst major social media services have taken positive steps towards tackling image-based abuse, such as developing reporting and take-down mechanisms, these mechanisms have their shortcomings. The two main issues with the current approaches taken by social media services are the delays associated with the assessment of reports and the heavy reliance on self-reporting.
+
+The responses from online service providers to the issue of image-based abuse include:
+
+1. In February 2015, Reddit updated its private policy to prohibit the publication of image-based abuse;
+2. In March 2015, Twitter (now known as 'X') announced that they would immediately remove any link image-based abuse upon request; and
+3. In June/July 2015, Google and Microsoft announced they would remove links upon request.
 
 # The Office of the e-Safety Commissioner
 
