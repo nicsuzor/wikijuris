@@ -182,20 +182,20 @@ The State also introduced three new misdemeanours into their Criminal Code to br
 
 The prevalence of image-based abuse was highlighted in a study conducted by the eSafety Commissioner in 2017 that found that 1 in 10 individuals experienced image-based abuse, with females aged between 15 to 17 years being most at risk. The report also found:
 
-- 6 in 10 victims knew the perpetrator;
-- The perpetrator was a friend that they knew offline (29%), an ex-partner (13%), a current partner (12%) or a family member (10%); and
-- Image-based abuse is more likely to occur on Facebook (53%).
+* 6 in 10 victims knew the perpetrator;
+* The perpetrator was a friend that they knew offline (29%), an ex-partner (13%), a current partner (12%) or a family member (10%); and
+* Image-based abuse is more likely to occur on Facebook (53%).
 
 ### Factors affecting reporting
 
 The eSafety Commissioner is empowered to investigate and make decisions regarding image-based abuse but this requires victims to report it. Studies have estimated that only 35% of cases of image-based abuse are reported. The factors influencing a victim not reporting can include:
 
-- Negative stigma;
-- Psychological barriers including victim blaming, humiliation and embarrassment;
-- An unawareness of the severity of the incident;
-- A fear of exacerbating or making it worse including attention to image-based abuse;
-- Lack of confidence in law enforcement; and
-- Unaware of the support services available.
+* Negative stigma;
+* Psychological barriers including victim blaming, humiliation and embarrassment;
+* An unawareness of the severity of the incident;
+* A fear of exacerbating or making it worse including attention to image-based abuse;
+* Lack of confidence in law enforcement; and
+* Unaware of the support services available.
 
 ### Social prevention and response
 
@@ -228,6 +228,23 @@ The Commissioner can receive reports for cyber-bulling, image-based abuse or off
 Under s 30, complaints about cyberbullying of a child can be made by an Australian child or parent, guardian or person authorised by the child. An adult person can also make a complaint if they believe they were the target of cyberbullying material as a child, so long as the complaint is made within a reasonable time after they became aware and 6 months after they reached 18 years old. Cyberbullying refers to online material intended to seriously threaten, intimidate, harass or humiliate an Australian child. 
 
 The 2021 amendments introduced the world's first legal scheme dealing with cyberbullying of adults. Under s 36, an Australian adult may make a complaint to the Commissioner about cyber-abuse material. Cyber-abuse material is material an ordinary reasonable person would conclude is likely intended to have an effect of causing serious harm to a particular Australian adult; and an ordinary reasonable person in the position of the Australian adult would regard the material as being, in all the circumstances, menacing, harassing or offensive.
+
+## Cyberbullying and hate speech
+
+Young children and adolescents are being increasingly impacted by the high use of electronic devices and social media, resulting in bullying, exclusion and intimidation of young people.
+
+Cyberbullying involves bullying online. It occurs where a perpetrator intentionally acts violently towards a victim repeatedly over a long period of time through a variety of social media platforms such as Facebook, Instagram, Snapchat or other online forums, often anonymously. It falls under the umbrella term 'cyber hate', which encompasses many types of harmful behaviours including hate speech, harassment, and discrimination targeting individuals based on their personal characteristics or identity.
+
+A [study](https://www.esafety.gov.au/research/digital-lives-of-aussie-teens) by the eSafety Commissioner was completed in 2020. 44% of Australian young people reported having a negative online experience in the last 6 months, and 15% had received threats or abuse online.
+
+### Adult Cyber Abuse Scheme
+
+Part 7 of the _Online Safety Act 2021_ (Cth) establishes an Adult Cyber Abuse Scheme, the first in the world. This scheme provides the eSafety Commissioner with the power to issue service providers with a formal notice to remove harmful content targeting an Australian adult within 24 hours. The provider could incur civil penalties and fines if they fail to remove the harmful content. Section 162 of the _Online Safety Act_ gives the Commissioner the powers to seek these penalties. However, there is a high threshold to be satisfied before the eSafety Commissioner has the authority to act:
+
+* Section 7(1)(c) requires that the material was "intended to have an effect of causing serious harm"; and
+* Section 7(1)(d) requires that "an ordinary reasonable person in the position of the Australian adult would regard the material as being, in all the circumstances, menacing, harassing or offensive."
+
+There is question about what surpasses the threshold and what is of a 'serious' nature as the harm can be subjective and arbitrary.
 
 As outlined above, image based-abuse complaints can be made to the Commissioner. Pursuant to s 32, complaints can be made by the person in the intimate image, a person authorised to make a report or a parent or guardian of a child or a person who does not have capacity. 
 
