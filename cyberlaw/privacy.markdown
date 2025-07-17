@@ -249,6 +249,59 @@ If an entity becomes aware of data breach, it must inform the federal Privacy Co
 
 The data breach notification scheme commences on 22 February 2018
 
+### Potential 2024 reforms to the Privacy Act
+
+#### 2022 Privacy Act Review Report
+
+In 2022, the Attorney-General's Department of the Commonwealth of Australia released its Privacy Act Review Report (2022 Report). This followed the 2019 release of the Australian Competition and Consumer Commission's Digital Platforms Inquiry final report and a two-year review of the efficacy and appropriateness of the Privacy Act 1988 (Cth) in the modern digital age.
+
+The vulnerability of personal information (particularly data breaches) was highlighted as a key motivation for the 2022 Report, alongside significant privacy reforms that have taken place or are taking place abroad.
+
+**Key insights**
+
+(a) Submissions to the Attorney-General's Department sought to retain the principles basis of the Act but supplement them with further detail. To this end, the 2022 Report proposed a **new 'fair and reasonable' test** alongside more detailed rules and mechanisms, such as more detailed guidance from the Office of the Australian Information Commissioner (OAIC), specific legislated requirements and expansion of the Australian Privacy Principles (APPs). The 2022 Report also suggested amending the object of the Act to be for the protections of personal information due to the public interest in doing so.
+
+(b) Stakeholders were unclear as to what constituted protected 'personal information' under the Act. The 2022 Report proposed amendments to **clarify that 'personal information'** includes both technical and inferred information which concerns a "reasonably identifiable individual". This clarification will avoid uncertainty as to whether individual data points (such as IP addresses and cookies) are included in the definition of 'personal information' as was exposed in *Privacy Commissioner v Telstra Corporation Limited* [2017] FCAFC 4. It also proposed **extending protections to de-identified 'personal information'**, as it can be re-identified.
+
+(c) Some submissions requested that current exemptions were removed or narrowed (including journalism, political, small business and employee record exemptions). Others were vehemently against the removal of those exemptions. In a balancing exercise, the 2022 Report proposed changes to meet changes in community expectations: **small business should no longer be exempt**; private sector employee information should be protected; and **political and journalism exemptions should be narrowed**.
+
+(d) Stakeholders expressed strong support for increased protections for personal information under the Act. Accordingly, the 2022 Report proposed:
+- better quality privacy collection notices and consents;
+- a new 'fair and reasonable' test to underscore the APPs;
+- requirements for entities to undertake a **Privacy Impact Assessment** before beginning any activity which may have a significant impact on individual privacy;
+- additional privacy **protections for children**;
+- introduction of OAIC guidelines for what constitutes reasonable steps to destroy unneeded personal information;
+- enhancements to the Notifiable Data Breach scheme so that any harm caused by a breach can be minimised quickly and effectively;
+- **regulation of targeted advertising** (whether the person is identified or not);
+- **further individual rights and control over their own personal information**, modelled on the General Data Protection Regulation of the European Union; and
+- a new concept of 'controllers' and 'processors' in the Act.
+
+(e) Submissions highlighted the need for effective enforcement so as to encourage compliance with the Act and for pathways for recourse where privacy invasions fall outside the scope of the Act. The 2022 Report proposed: **new powers for the Information Commissioner** and further civil penalties regarding public inquiries, investigations and determinations; a review of the feasibility of industry funding models for the OAIC; the **introduction of a statutory tort** for serious invasions of privacy, especially for privacy invasions that fall outside the purview of the Act; and reducing the regulatory burden by streamlining privacy obligations, reducing duplication, and producing a privacy law design guide to ensure future legislative harmony.
+
+In total, the 2022 Report made 116 proposals to the Australian Government to overhaul Australia's privacy laws to ensure they meet the demands of the modern digital age.
+
+#### 2023 Government response to the Privacy Act Review Report
+
+In 2023, the Government released its response to the 2022 Report and ultimately made a commitment to introduce legislation to enhance protections for the personal information of Australians. Out of the 116 proposals of the 2022 Report, the Government agreed to 38 proposals, agreed in-principle to 68 proposals (subject to further stakeholder engagement), and noted 10 proposals (without agreeing or agreeing in principle to legislative change).
+
+Most pertinently, the Government:
+
+(a) *Agreed in principle* to the introduction of a **new 'fair and reasonable' test** for the handling of personal information.
+
+(b) *Agreed in principle* to amendments to clarify the **concept of 'personal information'** and to the introductions of the concept of de-identification. However, the Government only *noted* the proposal to introduce specific protections for **de-identified information**.
+
+(c) *Agreed in principle* that the **small business exemption** should be removed, with further consultation with small businesses. Whilst the Government *agreed* to the narrowing of the **journalism exemption**, it only *noted* the narrowing of the **political exemption**.
+
+(d) *Agreed in principle* that non-government entities complete **Privacy Impact Assessments** and to the inclusion of **further protections for children**. The Government also *agreed in principle* to the regulation of **direct and targeted advertising** (defining both terms and fair and reasonable targeting), but whilst the unqualified right to opt-out of direct marketing was *agreed in principle*, that same right for targeted advertising was only *noted*.
+
+(e) *Agreed* to new civil penalty provisions and **additional powers** for the Information Commissioner to conduct investigations and to conduct public inquiries and reviews. The Government also *agreed in principle* to further investigation into an OAIC **industry funding model**.
+
+The Government Response to the 'ambitious' 2022 Report has been described as "cautious and measured".[^PattoPWC] The Government laid out its plan to prepare draft legislation for the less contentious recommendations and leave the more contentious recommendations for further stakeholder consultation and analysis prior to implementation.
+
+In May 2024, the Attorney-General's Department announced that the Government planned to introduce draft legislation implementing the less contentious recommendations in August 2024. The first tranche of reforms to the Privacy Act 1988 (Cth), the Privacy and Other Legislation Amendment Bill 2024 was introduced by the Government on 12 September 2024. It passed the Senate with minor changes on 29 November 2024.
+
+[^PattoPWC]: James Patto and Annie Zhang, '2023 Government Response to the Privacy Act Review Report' (2023) PWC Australia.
+
 ## Government Surveillance
 
 Surveillance is the monitoring of behaviour, activities, or other changing information, usually of people for the purposes of influencing/managing/directing/protecting them (Lyon 2007). For a glossary of commonly-used terms in surveillance studies, have a look at [this open access book edited by Guy McHendry](https://surveillancestudies.pressbooks.com/).
