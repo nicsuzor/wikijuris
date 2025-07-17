@@ -468,6 +468,46 @@ In Australia, the narrow definition of a TPM, which focuses on whether the prima
 
 Following the Australia--United States Free Trade Agreement (AUSFTA), which introduces a broader definition of TPMs through its reference to "effective technological measures" (ETMs) in Article 17.4.7, there has been pressure to expand the definition of TPM in Australia. However, the narrow standard that emphasises preventing infringement remains in force. In 2015, the Attorney General rejected recommendations to amend the _Copyright Amendment (Online Infringement) Bill_ to outlaw mod chips that bypass region coding. Instead, the Bill only outlawed mod chips whose sole purpose is to overcome anti-piracy technology. This legislative decision highlights Australia's continued divergence from other countries' stricter approaches, reaffirming its focus on the primary intent of these devices when considering intermediary liability.
 
+## AI and Copyright
+
+### Overview
+
+Artificial intelligence is a type of technology that simulates human behaviour and creativity to perform tasks, mimicking human intelligence. Examples of Artificial intelligence include the following:
+
+| Type of Artificial Intelligence | Function | Examples |
+|--------------------------------|----------|----------|
+| Generative AI | Generates content through analysing existing data and patterns to create complex material. | ChatGPT and Microsoft Copilot |
+| Machine Learning | Improves accuracy of decision-making processes by analysing datasets, requiring human input | Facial recognition in smartphone technology |
+| Deep Learning | Advanced form of machine learning, utilising neural networks when analysing data to make independent decisions in the absence of human input | Chatbots and virtual assistants |
+
+### Source code as a copyright work
+
+Under the *Copyright Act 1968* (Cth), computer programs are recognised as literary work.[^1] A computer program is defined as 'a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result'.[^2] Under this definition, the source code of artificial intelligence technology is a literary work where the other subsistence criteria are met.[^3]
+
+### A 'Qualified Person'
+
+For copyright to subsist in relation to work under the *Copyright Act 1968* (Cth) the work must be authored by a qualified person, being 'an Australian citizen or a person resident in Australia'.[^4] This disqualifies artificial intelligence from holding the status of an author.
+
+### Originality
+
+Where a human being uses an AI tool or program to create or enhance the creation of an original work, the issue will turn to originality, where the test formulated in *IceTV Pty Ltd v Nine Network Australia Pty Ltd* is relevant.[^5] Is the work the product of sufficient independent intellectual effort of a literary nature?
+
+> "Where a literary work is brought into such existence by the efforts of more than one individual, it will be a question of fact and degree which one or more of them have expended sufficient effort of a literary nature to be considered an author of that work within the meaning of the Act" (French CJ, Crennan and Kiefel JJ, [99]).
+
+### Copyright infringement litigation
+
+Generative artificial intelligence collects information from a variety of sources to train its model, which has consequently led to frequent occurrences of GenAI being trained on copyrighted works. This has led to much litigation surrounding copyright infringement, as exemplified by US cases such as [Image Generator Litigation](https://imagegeneratorlitigation.com/) and [Github Copilot litigation](https://githubcopilotlitigation.com/).
+
+[^1]: *Copyright Act 1968* (Cth), s. 10.
+
+[^2]: *Copyright Act 1968* (Cth), s. 10.
+
+[^3]: Acohs Pty Ltd v Ucorp Pty Ltd 273 ALR 725.
+
+[^4]: *Copyright Act 1968* (Cth), s. 32.
+
+[^5]: IceTV Pty Ltd v Nine Network Australia Pty Ltd (2009) 239 CLR 458.
+
 ## The ACCC's news bargaining code
 
 
