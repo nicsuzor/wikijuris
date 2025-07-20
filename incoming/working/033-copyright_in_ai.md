@@ -2,35 +2,6 @@
 
 **Overview**
 
-Artificial intelligence is a type of technology that simulates human
-behaviour and creativity to perform tasks, mimicking human intelligence.
-Examples of Artificial intelligence include the following:
-
-  ------------------------------------------------------------------------
-  **Type of Artificial      **Function**             **Examples**
-  Intelligence**                                     
-  ------------------------- ------------------------ ---------------------
-  Generative AI             Generates content        ChatGPT and Microsoft
-                            through analysing        Copilot
-                            existing data and        
-                            patterns to create       
-                            complex material.        
-
-  Machine Learning          Improves accuracy of     Facial recognition in
-                            decision-making          smartphone technology
-                            processes by analysing   
-                            datasets, requiring      
-                            human input              
-
-  Deep Learning             Advanced form of machine Chatbots and virtual
-                            learning, utilising      assistants
-                            neural networks when     
-                            analysing data to make   
-                            independent decisions in 
-                            the absence of human     
-                            input                    
-  ------------------------------------------------------------------------
-
 **Source code as a copyright work**
 
 Under the *Copyright Act 1968* (Cth), computer programs are recognised

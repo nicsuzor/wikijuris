@@ -129,15 +129,29 @@ a communication passing over a telecommunications system.
 
 ### 474.17   Using a carriage service to menace, harass or cause offence
 
-# Queensland Legislation
+# Cyberstalking: Technology-Facilitated Abuse
 
 **Video: Sarah Lawrence explains [how Section 359B of Queensland's Criminal Code regulates cyberstalking](https://www.youtube.com/watch?v=SeEPjsLyGso)**
 
-Incidents of cyberstalking are recognised under the definition of unlawful stalking in Section 359b of Queensland’s Criminal Code. Through the inclusion of subsection (c)(ii) unlawful stalking extends to contact through the use of telephone, mail, fax, email or through any technology.
+**Editor's note**: needs edit for duplication and flow.
+
+In Queensland, legislation specifically refers to the use of technology, such as computer and smartphone devices, emails, text messaging, and social media platforms, with respect to stalking offences (s 359B, _Criminal Code Act 1899_ (Qld)). Incidents of cyberstalking are recognised under the definition of unlawful stalking in Section 359b of Queensland’s Criminal Code. Through the inclusion of subsection (c)(ii) unlawful stalking extends to contact through the use of telephone, mail, fax, email or through any technology.
 
 Cyberstalking includes email stalking, phone stalking and computer stalking. Both email and phone are expressly stated in section 359B of the Criminal Code as methods of contact for unlawful stalking. Computer stalking, while not expressly stated in the provision, would likely be covered by the phrase ‘any technology’ and therefore would still be caught by the stalking offence.
 
 A major controversy surrounding the stalking offence is the that the victim must have suffered a real apprehension or fear of violence, however, cyberstalking is unlikely to meet this threshold due to its virtual and non-physical nature. In addition, the prosecution of cyberstalking is difficult and victims must turn to other avenues to find relief. The current and most realistic remedies for victims would be to approach social media services to have material removed, or to report the behaviour to the eSafety commissioner.
+
+Cyberstalking, also referred to as adult cyber abuse, is a form of technology-facilitated abuse that utilises technology, smart devices, and online platforms or services to intimidate or cause a person to reasonably fear for their safety or that of others. It can begin with excessive attention or privacy invasion, but often it involves more harmful intentions like intimidating, humiliating, manipulating, or damaging someone's reputation. Cyberstalking is often accompanied by offline stalking and it can lead to physical danger.
+
+One example is using GPS tracking devices to monitor a person's movements or location, such as Bluetooth tiles or Apple AirTags, which are ordinarily used to keep track of luggage or keys. These devices are being used as they are small enough to not be noticed when they are placed on a person or in their bag or car by the person stalking them. In June 2024 the NSW Crime Commission released a report that one in four people who purchased a GPS tracking device since the beginning of 2023 were also known to have a history of domestic violence.
+
+Other studies have found that the use of tracking apps in mobile devices, such as smartphones which have geolocation software or GPS, are being more commonly used for the purpose of cyberstalking, as this kind of software or app often comes preloaded on the person's phone, such as the 'FindMy' app on Apple devices.
+
+#### NSW Legislation
+
+In New South Wales, cyberstalking offences are provided for under section 13 of the _Crimes (Domestic and Personal Violence) Act 2007_ (NSW) (CDVP), as they are often found to relate to "stalking or intimidation with the intent to cause fear of physical or mental harm", and section 7 of the _Online Safety Act 2021_ (Cth) (OSA). An offence under section 13 of the CDVP may also need to satisfy the provisions or definitions under the OSA to succeed in court.
+
+
 
 # Private Law: Electronic Contracts
 

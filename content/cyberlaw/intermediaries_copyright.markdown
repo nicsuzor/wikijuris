@@ -444,6 +444,8 @@ The liability of technological intermediaries in copyright law has historically 
 
 ### Hardware Developers as Intermediaries: Mod Chips
 
+**Editor's note:** Need to check whether this would be better as a link to the IP text.
+
 Many gaming consoles are embedded with a technology called digital rights management (DRM). DRM is a form of encodement that controls and restricts who can access copyrighted material and how many copies can be made. This system is designed according to the copyright owner's authorisation. Mod chips are small hardware devices designed to bypass these DRM systems, allowing users to access copyrighted material they wouldn't normally have access to. The design and capabilities of mod chips essentially strips devices of their DRM systems, which is often utilised by those wishing to infringe copyright and distribute pirated games.
 
 Initially, mod chips were marketed for legitimate purposes, such as allowing users access to non-region-specific games or legally imported titles that weren't yet available in their country. However, the widespread commercial success of mod chips is arguably due to their ability to bypass copyright protections, raising concerns about their legality under copyright law. According to section 116A of the _Copyright Act 1968_ (Cth), the primary function of a device determines its legality. If its main purpose is to facilitate copyright infringement, it is likely to be classified as an illegal circumvention device.

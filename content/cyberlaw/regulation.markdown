@@ -198,6 +198,8 @@ Computing devices today have significant computing power. Decentralised networks
 
 ### Governance of Decentralised Networks
 
+**Editor's note**: This should be in a section on blockchain.
+
 #### Decentralised Autonomous Organizations (DAOs)
 
 DAOs are a prime example of decentralised governance. They use blockchain technology and smart contracts to automate decision-making processes, allowing for democratic participation without the need for a central authority. Members of a DAO can vote on proposals and changes, ensuring that governance is transparent and community-driven based in the geographical location. This enhances compliance with local laws.

@@ -597,6 +597,8 @@ While seemingly broad, [commentary](https://www.theguardian.com/australia-news/2
 
 ### Children's online privacy and sharenting
 
+**Editor's note**: needs edit -- not sure about the neologism.
+
 Many children have digital footprints before they take their first steps, leading to concerns around privacy breaches and the exacerbation of privacy risks by the "sharing" practices of parents and guardians online. The term "sharenting" refers to a parent/guardian sharing photos, videos, personal stories, and other updates about the child's daily activities, such as eating, sleeping, bathing, and playing. Sharenting invokes a tension between the child's interest in privacy and autonomy over their digital identity, and the parent/guardian's right to freedom of speech and to have control over the upbringing of their children.
 
 #### Risks associated with sharenting
@@ -724,6 +726,8 @@ Social media platforms are also part of the DAI, with some allowing inactive pro
 
 ### Digital Assets and the Law
 
+**Editor's note**: check overlap on discussion on digital goods and discusion on EULAs.
+
 Digital assets are described as 'any digital file on a person's electronic device as well as any online accounts and memberships'. These assets include (but are not limited to) email accounts, social media accounts, digital photos, digital videos, cryptocurrency and online subscription accounts. Digital assets, to be identified clearly, can be categorised into different kinds of value. Nonetheless, the asset can be categorised into more than one value.
 
 Digital assets can have financial, sentimental, social and intellectual value. Digital assets with financial value include bank accounts and cryptocurrency. These assets have a definite monetary value. Digital assets with sentimental value do not have monetary value, but rather sentimental in nature such as photographs and videos. Digital assets with social value include social media platforms where users have curated their accounts which allows them to connect with new people and portray their lives. Digital assets with intellectual value include emails, blogs, social media posts (written and visual material) that is published material. However, an asset with intellectual value may become a liability if the published material is defamatory to another individual. A deceased person cannot be sued; however, an estate of a deceased person can be sued if their published material is libel.
@@ -739,6 +743,8 @@ The NSWLRC conducted two surveys to understand how digital assets should be deal
 The results can be found [here](https://lawreform.nsw.gov.au/documents/Publications/Other-Publications/Research-Reports/RR15.pdf).
 
 ## Digital Products and Consumer Rights
+
+**Editor's note**: This section needs revision to terminology -- 'digital product' is not a defined term. These 'products' and the licences to use them or the platforms in which they are available may be treated as goods or services, and the distinction sometimes matters.
 
 ### What is a Digital Product?
 
