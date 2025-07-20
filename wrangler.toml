@@ -1,0 +1,17 @@
+account_id = "7f3e801a63603396808afdbc0cdc3c16"
+name = "wikijuris"
+
+compatibility_date = "2025-07-01"
+assets = { directory = "./public" }
+
+[env.dev]
+name = "dev"
+workers_dev = true
+vars = { ENVIRONMENT = "dev" }
+
+[env.live]
+name = "live"
+vars = { ENVIRONMENT = "live" }
+routes = [
+  "wikijuris.net/*"
+    ]

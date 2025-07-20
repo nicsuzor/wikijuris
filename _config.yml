@@ -32,6 +32,9 @@ url: "https://wikijuris.net" # the base hostname & protocol for your site, e.g. 
 twitter_username: nicsuzor
 github_username:  nicsuzor
 
+source: content
+destination: public
+
 permalink: pretty
 # Build settings
 

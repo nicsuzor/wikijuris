@@ -19,3 +19,8 @@ We would love your help writing these books! Please take a look at the individua
 If you have any questions, please contact Nic at n.suzor@qut.edu.au.
 
 **Licence grant**: The main condition of participating is that you must agree to license any of your contributions under a Creative Commons Attribution-ShareAlike licence. This enables any person to copy, modify, and distribute this book (including commercially). Importantly, however, it will always be ‘open’: anyone who distributes material based on this book must do so under the same licence.
+
+## Site developement instructions
+To preview the site: `bundle exec jekyll serve`
+To build: `bundle exec jekyll build`
+To push dev to cloudflate: `wrangler deploy -e dev`

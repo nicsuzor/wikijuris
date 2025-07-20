@@ -1,0 +1,18 @@
+{
+	"name": "square-sunset-aba7",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev",
+		"test": "vitest",
+		"cf-typegen": "wrangler types"
+	},
+	"devDependencies": {
+		"wrangler": "^4.25.0"
+	},
+	"dependencies": {
+		"@cloudflare/kv-asset-handler": "^0.4.0"
+	}
+}
