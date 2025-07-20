@@ -24,3 +24,4 @@ If you have any questions, please contact Nic at n.suzor@qut.edu.au.
 To preview the site: `bundle exec jekyll serve`
 To build: `bundle exec jekyll build`
 To push dev to cloudflate: `wrangler deploy -e dev`
+To push live version: `wrangler deploy -e wikijuris`

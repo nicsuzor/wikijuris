@@ -13,5 +13,5 @@ vars = { ENVIRONMENT = "dev" }
 name = "wikijuris"
 vars = { ENVIRONMENT = "live" }
 routes = [
-  "wikijuris.net/*"
-    ]
+  { pattern = "wikijuris.net", custom_domain = true }
+]
