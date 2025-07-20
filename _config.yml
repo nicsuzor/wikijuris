@@ -52,6 +52,8 @@ kramdown:
 ga_tracking: UA-12958374-1
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
+include:
+  - content/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -60,17 +62,20 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - incoming/
+  - dokuwiki_backup/
+  - cases/
 
 
 # Footer content

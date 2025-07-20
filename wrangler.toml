@@ -9,8 +9,8 @@ name = "dev"
 workers_dev = true
 vars = { ENVIRONMENT = "dev" }
 
-[env.live]
-name = "live"
+[env.wikijuris]
+name = "wikijuris"
 vars = { ENVIRONMENT = "live" }
 routes = [
   "wikijuris.net/*"

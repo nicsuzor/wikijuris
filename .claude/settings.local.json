@@ -5,7 +5,12 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(mv:*)",
-      "Bash(textutil:*)"
+      "Bash(textutil:*)",
+      "Bash(rm:*)",
+      "Bash(bundle exec jekyll:*)",
+      "Bash(bundle exec:*)",
+      "Bash(wrangler deploy:*)",
+      "WebFetch(domain:developers.cloudflare.com)"
     ],
     "deny": []
   }
