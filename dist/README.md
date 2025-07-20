@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "dev" generated at 2025-07-20T11:02:35.569Z.

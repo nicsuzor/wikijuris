@@ -49,9 +49,6 @@ whitelist:
 kramdown:
   toc_levels: 1..3
 
-ga_tracking: UA-12958374-1
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-
 include:
   - content/
   
@@ -100,3 +97,16 @@ gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/nicsuzor/wikijuris/" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+## Theme settings
+callouts_level: quiet # or loud
+callouts:
+  note:
+    title: Editor's note
+    color: purple
+  case:
+    title:
+    color: blue
+  help:
+    title: Please help!
+    color: green
