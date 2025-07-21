@@ -34,7 +34,7 @@ The evolution of content regulation in Australia has been marked by several key 
 
 * **2021**: The _Online Safety Act 2021_ replaced previous frameworks with a comprehensive regulatory scheme administered by the eSafety Commissioner.
 
-For more detailed information on earlier regulatory approaches, see the [Code for Industry Co-Regulation in Areas of Mobile and Internet Content](http://www.acma.gov.au/~/media/Content%20Classification/Regulation/pdf/Internet%20Industry%20Codes%20of%20Practice%202005.PDF) (2005).
+For more detailed information on earlier regulatory approaches, see the Code for Industry Co-Regulation in Areas of Mobile and Internet Content (2005).
 
 ## Current regulatory framework
 
@@ -50,13 +50,14 @@ The _Online Safety Act 2021_ (Cth) sets out an expectation that industry bodies 
 
 •	The body or association published a draft of the code and invited members of the public and industry participations to make submissions, and gave consideration to any submissions that were received.
 
-The Commissioner may also request that a particular body or association which represents a section of the online industry develop an industry code dealing with one or more specified matters relating to the online activities of those industry participants. In April 2022, the Commissioner issued such a request, seeking the development of codes relating to ‘class 1’ material by six industry associations. The associations submitted draft codes in November 2022.
+The Commissioner may also request that a particular body or association which represents a section of the online industry develop an industry code dealing with one or more specified matters relating to the online activities of those industry participants. In April 2022, the Commissioner issued such a request, seeking the development of codes relating to 'class 1' material by six industry associations. The associations submitted draft codes in November 2022. All six draft codes were rejected in February 2023 as they did not meet the standards for registration. The Commissioner believed that they did not provide appropriate community safeguards. Following resubmission, five of the draft codes were registered in June 2023.
+
+See the [Online Content Scheme - Regulatory Guidance](https://www.esafety.gov.au/sites/default/files/2023-12/Online-Content-Scheme-Regulatory-Guidance-Updated-December-2023.pdf?v=1725078691925) for further information.
 
 Watch the following videos for background on online content regulation prior to the 2021 changes:
 
 * **Video Overview of Online Content Regulation in Australia by [Nicolas Suzor](https://www.youtube.com/watch?v=MXx8E2jnyGg)**
 
-* [Code for Industry Co-Regulation in Areas of Mobile and Internet Content](http://www.acma.gov.au/~/media/Content%20Classification/Regulation/pdf/Internet%20Industry%20Codes%20of%20Practice%202005.PDF) (2005)
 
 ## Content classification in Australia
 
@@ -490,7 +491,7 @@ This approach emphasises proactive obligations on platforms rather than reactive
 
 ### Deepfakes and Non-consensual Sexual Imagery
 
-A deepfake is a technique of image manipulation where artificial intelligence and deep learning is leveraged to manipulate a person's characteristics, including physical appearance and voice, to create images or videos that appear authentic. While manipulated media is not new, deepfake technology has lowered the technical barriers to creating convincing fabrications, raising significant legal and ethical concerns.
+A deepfake is a technique of image manipulation where artificial intelligence and deep learning is leveraged to manipulate a person's characteristics, including physical appearance and voice, to create images or content that appear authentic. While manipulated media is not new, deepfake technology has lowered the technical barriers to creating convincing fabrications, raising significant legal and ethical concerns.
 
 The primary legal concerns with deepfakes relate to their use in creating non-consensual sexual imagery, political disinformation, fraud, and harassment. This section focuses on the legal frameworks addressing non-consensual sexual deepfakes, which constitute a form of image-based sexual abuse.
 

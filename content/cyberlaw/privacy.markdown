@@ -33,7 +33,7 @@ The UDHR was adopted in the General Assembly as Resolution 217 on 10 December 19
 
 '(2) Everyone has the right to the protection of the law against such interference or attacks’
 
-[There are a total of 172 parties to the ICCPR.](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-4&chapter=4&clang=_en)
+[There are a total of 174 parties to the ICCPR.](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-4&chapter=4&clang=_en)
 
 **Article 16, Convention on the Rights of the Child**
 
@@ -90,6 +90,8 @@ The GDPR formalizes 6 legal basis for personal data collection under Art 6(1). T
   * Protection of vital interests of data subject
   * Performance for public interest
   * Legitimate interests pursued by the controller or by a third party
+
+As well as formalising these legal bases for personal data collection, the GDPR also formalises legal bases for the removal of personal data across the European Union, which includes the right to erasure.
 
 ##### Consent requirement
 
@@ -192,7 +194,7 @@ Various areas of law have evolved to protect aspects of an individual's space an
 
 Until about 100 years ago, there was no formal legal notion of privacy in common law countries. But in 1890, a seminal US article from Warren and Brandeis called for a 'right to privacy', conceptualised as a 'right to be left alone' to be established in law.
 
-In Australia, there is speculation as to whether whether a right to privacy or a tort of invasion of privacy exists in common law.
+In Australia, there is speculation as to whether a right to privacy or a tort of invasion of privacy exists in common law.
 
 An early case, _Victoria Park Racing_, seemed to suggest that there was no such common law right in Australia.
 
@@ -672,8 +674,10 @@ Messages are SPAM if they are sent without the prior consent of the recipient. A
 
 To avoid contravening the SPAM Act, electronic messages should only be sent with the consent of the recipient, must contain clear and accurate identification of the sender and how they can be contacted, and should include an unsubscribe facility.
 
-The financial penalties for breaching the SPAM Act are steep and indexed to the Commonwealth penalty unit ($210 from July 1, 2017).  A single day's contravention may result in a penalty of up to $420,000 (2,000x), and repeated breaches of the Act may give rise to penalties of up to $2.1 million (10,000x).
+The financial penalties for breaching the SPAM Act are steep and indexed to the Commonwealth penalty unit ($313 from July 1, 2023).  A single day's contravention may result in a penalty of up to $626,000 (2,000x), and repeated breaches of the Act may give rise to penalties of up to $3.13 million (10,000x).
 [Refer - _Crimes Act 1914_(Cth) s 4AA(1); _Spam Act 2003_(Cth) s 25]
+
+After an investigation by the Australian Communications and Media Authority (ACMA) found Pizza Hut sent 5,941,109 text and email messages between January 2023 and May 2023 to customers who had not withdrawn consent or not consented to receive those messages. The investigation also found that during that period they had sent 4,364,971 messages without providing an option for customers to unsubscribe. ACMA had previously issued 15 compliance alerts to Pizza Hut, with Pizza Hut eventually paying over $2 million for breaching the Spam Act 2003 (Cth).
 
 
 ## Privacy Protection in India

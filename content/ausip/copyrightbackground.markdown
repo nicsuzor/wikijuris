@@ -30,7 +30,7 @@ Copyright protects the way that something is expressed, not the idea behind it. 
 
 ### Copyright is automatic.
 
-Copyright arises automatically, upon creation, as soon as something is fixed in material form (written down, typed, recorded, etc.).  There is no need to register for copyright protection, and there is no need to use the © symbol next to the protected work. For most works, copyright protection lasts for the lifetime of the author, plus an additional 70 years.
+Copyright arises automatically, upon creation, as soon as something is fixed in material form (written down, typed, recorded, etc.).  There is no need to register for copyright protection, and there is no need to use the © symbol next to the protected work. For most works, copyright protection lasts for the lifetime of the author, plus an additional 70 years. After this expiration period of 70 years, the material will enter into the public domain and is free to use legally.
 
 ### In general, the creator is the first owner of copyright.
 
