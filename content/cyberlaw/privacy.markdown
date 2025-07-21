@@ -33,7 +33,7 @@ The UDHR was adopted in the General Assembly as Resolution 217 on 10 December 19
 
 '(2) Everyone has the right to the protection of the law against such interference or attacks’
 
-[There are a total of 172 parties to the ICCPR.](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-4&chapter=4&clang=_en)
+[There are a total of 174 parties to the ICCPR.](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-4&chapter=4&clang=_en)
 
 **Article 16, Convention on the Rights of the Child**
 
@@ -192,7 +192,7 @@ Various areas of law have evolved to protect aspects of an individual's space an
 
 Until about 100 years ago, there was no formal legal notion of privacy in common law countries. But in 1890, a seminal US article from Warren and Brandeis called for a 'right to privacy', conceptualised as a 'right to be left alone' to be established in law.
 
-In Australia, there is speculation as to whether whether a right to privacy or a tort of invasion of privacy exists in common law.
+In Australia, there is speculation as to whether a right to privacy or a tort of invasion of privacy exists in common law.
 
 An early case, _Victoria Park Racing_, seemed to suggest that there was no such common law right in Australia.
 

@@ -24,7 +24,9 @@ IP plays an important role in fostering and rewarding originality, innovation an
 
 ### IP does not protect ideas
 
-It is important to note that intellectual property does not protect an idea, fact or a concept.
+It is important to note that intellectual property does not protect an idea, fact or a concept.[^icetv]
+
+[^icetv]: IceTV Pty Ltd v Nine Network Australia Pty Ltd (2009) 239 CLR 458 [102]-[105] (Gummow, Hayne and Heydon JJ).
 
 It is only when an idea is developed into a form of expression or into an invention that it becomes intellectual property. The law protects the way in which the idea is expressed, or a tangible invention that embodies the idea, rather than the idea itself.
 

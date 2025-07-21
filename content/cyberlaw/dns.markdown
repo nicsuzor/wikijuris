@@ -14,7 +14,7 @@ nav_order: 80
 
 ## Domain Names
 
-DNS stands for Domain Name System ("DNS"). The DNS translates a domain name, which is the text that you type into a web browser to get to the website of your choice such as facebook.com, google.com or qut.edu.au, to its corresponding IP address, which is the unique series of numbers assigned to each device on the Internet. For example, one of facebook.com's IP address is '173.252.120.6'. Since domain name are relatively simple and comprise largely easy-to-remember words, the Domain Name System plays an important role in making the internet more accessible to users.
+DNS stands for Domain Name System ('DNS'). The DNS translates a domain name, which is the text you type into a web browser to access a website, such as facebook.com, google.com, or qut.edu.au, into its corresponding IP address. This IP address is a unique series of numbers assigned to each device on the Internet. For example, one of facebook.com's IPv4 addresses is '173.252.120.6'. There are two versions of IP addresses in use: IPv4 and IPv6. IPv4 addresses, like the one mentioned above, consist of four groups of numbers separated by periods. However, with the growing number of devices connected to the internet, the IPv4 address space is becoming exhausted. To address this, IPv6 was introduced, which uses a longer, more complex address format, such as '2401:db00:21:7007::1000'. Since domain names are relatively simple and consist of easy-to-remember words, the Domain Name System plays a crucial role in making the internet more accessible to users by converting these user-friendly domain names into the numerical IP addresses that computers use to identify each other on the network.
 
 ### The Domain Name Structure
 
