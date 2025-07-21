@@ -10,7 +10,8 @@
       "Bash(bundle exec jekyll:*)",
       "Bash(bundle exec:*)",
       "Bash(wrangler deploy:*)",
-      "WebFetch(domain:developers.cloudflare.com)"
+      "WebFetch(domain:developers.cloudflare.com)",
+      "Bash(find:*)"
     ],
     "deny": []
   }
