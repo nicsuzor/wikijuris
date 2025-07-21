@@ -358,7 +358,7 @@ c) Commissioner is satisfied that the availability of the material online is lik
 
 ## Disguised Content and Evasion Techniques
 
-{: .note }
+{: .ed }
 Needs review for fit and accuracy. I don't think 'disguised content' or 'splicing' are known phrases, and evasion isn't as simple as this section suggests -- nic.
 
 Despite content regulation efforts, some individuals and organisations have used coercive and nefarious tactics to share prohibited imagery and videos online, especially aimed at those most vulnerable, children. Disguised content refers to harmful content that seeks to evade online content regulation or filtering mechanisms.

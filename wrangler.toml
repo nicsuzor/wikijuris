@@ -10,7 +10,7 @@ directory = "public"
 name = "dev"
 workers_dev = true
 routes = [
-  { pattern = "alpha.wikijuris.net", custom_domain = true }
+  { pattern = "beta.wikijuris.net", custom_domain = true }
 ]
 
 [env.wiki]
@@ -18,5 +18,4 @@ name = "wiki"
 workers_dev = true
 routes = [
   { pattern = "wikijuris.net", custom_domain = true },
-  { pattern = "beta.wikijuris.net", custom_domain = true }
 ]
