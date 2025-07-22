@@ -1,16 +1,23 @@
 ---
 layout: default
 title: Credits
-parent: About this textbook
-nav_order: 2
-grand_parent: Governing the Internet
+parent: Governing the Internet
+nav_order: 130
 ---
 
 # Authors
 {: .no_toc }
 
+## Editors
 
-Please add your details below so that we can properly acknowledge your work.
+Current editorial team:
+* [Nicolas Suzor](https://nic.suzor.net) (QUT)
+* [Kylie Pappalardo](https://staff.qut.edu.au/staff/k.pappalardo/) (QUT)
+* [Marie Hadley](https://mariehadley.com/) (UoN)
+* Sheridan Clark (UoN)
+
+
+## Academic authors
 
 This work includes material by:
 
@@ -21,10 +28,12 @@ This work includes material by:
 * [Vicki Huang](https://www.deakin.edu.au/about-deakin/people/vicki-huang) (Deakin)
 * Rita Matulionyte (Newcastle)
 * [Angela Daly](https://angeladaly.com/) (Strathclyde)
-* Alice Witt (QUT)
-* Wikipedia (CC BY-SA)
+* Alice Witt (Deakin)
 
-We are very grateful for contributions from students, including:
+## Contributors
+
+We are very grateful for contributions from students and members of the public, including:
+
 * Joseph Langlois
 * Claire Barry
 * Larissa Barwell
@@ -86,6 +95,11 @@ We are very grateful for contributions from students, including:
 * Ed Green
 * Emily Guiver
 * Katherine Karan
+
+The textbook also includes material from:
+
+* Wikipedia (CC BY-SA)
+* http://itlaw.wikia.com/wiki/The_IT_Law_Wiki  (CC BY SA)
 
 ### Image credits
 

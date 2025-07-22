@@ -5,6 +5,7 @@ We are writing a collaborative textbook about IP and Internet Law.
 - Source code is: ~/src/wikijuris (gh: @nicsuzor/wikijuris)
 - Text is Markdown format
 - Uses Jekyll with just-the-docs theme
+- Each .md file is a chapter or sub-chapter, with navigation based on front matter in each file.
 
 ## Project Overview
 

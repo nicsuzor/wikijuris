@@ -1,6 +1,6 @@
 ---
 layout: default
-title: credits
+title: Credits
 nav_order: 99
 parent: Australian IP Law
 ---
@@ -45,4 +45,4 @@ The textbook also includes material from:
 * http://www.teachingcopyright.org/curriculum/hs  (CC BY)
 * http://pad.p2pu.org/p/school-of-open-resources
 
-Staff of the University of Sydney available for use under a CC0 Creative Commons waiver and fallback licence (CC0 1.0).
+Staff of the University of Sydney material available for use under a CC0 Creative Commons waiver and fallback licence (CC0 1.0).
