@@ -4,7 +4,7 @@ title: Registered Designs
 nav_order: 40
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/registered_designs.markdown){: .btn .btn-outline }
+
 
 
 # Registered Designs

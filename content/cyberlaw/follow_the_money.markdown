@@ -5,7 +5,7 @@ parent: Content Regulation
 grand_parent: Governing the Internet
 nav_order: 95
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/follow_the_money.markdown){: .btn .btn-outline }
+
 
 ## 'Follow the Money'
 

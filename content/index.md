@@ -1,9 +1,10 @@
 ---
  # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
+has_toc: false
 ---
-
+{: .no_toc }
 We are creating collaborative, free, open textbooks.
 
 # [Governing the internet: a collaborative, open course and textbook](cyberlaw/home)

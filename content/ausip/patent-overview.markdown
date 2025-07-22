@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/patent-overview.markdown){: .btn .btn-outline }
+
 
 
 # Patent Overview: an introduction to the patent system

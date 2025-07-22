@@ -6,7 +6,7 @@ parent: Australian IP Law
 has_children: true
 has_toc: false
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/copyrightbackground.markdown){: .btn .btn-outline }
+
 
 
 

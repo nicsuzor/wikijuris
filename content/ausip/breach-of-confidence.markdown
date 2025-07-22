@@ -4,7 +4,7 @@ title: Breach of Confidence
 nav_order: 30
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/breach-of-confidence.markdown){: .btn .btn-outline }
+
 
 
 

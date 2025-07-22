@@ -4,7 +4,7 @@ title: Computer Access and Computer Crimes
 nav_order: 100
 parent: Governing the Internet
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/crime.markdown){: .btn .btn-outline }
+
 
 
 # Computer Access and Computer Crimes

@@ -7,7 +7,7 @@ has_children: true
 has_toc: false
 ---
 
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/preface.markdown){: .btn .btn-outline }
+
 
 # Preface: About This Textbook: Four Main Themes and How You Can Help
 {: .no_toc }

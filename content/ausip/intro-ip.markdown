@@ -4,7 +4,7 @@ title: Introduction to Intellectual Property
 nav_order: 5
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/intro-ip.markdown){: .btn .btn-outline }
+
 
 
 # Introduction to Intellectual Property

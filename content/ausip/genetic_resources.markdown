@@ -4,7 +4,7 @@ title: Genetic Resources
 nav_order: 81
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/genetic_resources.markdown){: .btn .btn-outline }
+
 
 
 

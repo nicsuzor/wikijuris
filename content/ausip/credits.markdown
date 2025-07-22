@@ -4,7 +4,7 @@ title: credits
 nav_order: 99
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/credits.markdown){: .btn .btn-outline }
+
 
 
 

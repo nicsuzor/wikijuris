@@ -6,7 +6,7 @@ parent: Governing the Internet
 ---
 
 
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/privacy.markdown){: .btn .btn-outline }
+
 
 Help needed! Please contribute your notes to help us finish this page.
 

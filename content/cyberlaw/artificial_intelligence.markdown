@@ -4,7 +4,7 @@ title: Artificial Intelligence
 nav_order: 105
 parent: Governing the Internet
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/artificial_intelligence.markdown){: .btn .btn-outline }
+
 
 # Artificial Intelligence
 {: .no_toc }

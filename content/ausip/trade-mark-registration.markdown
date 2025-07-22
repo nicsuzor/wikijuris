@@ -5,7 +5,7 @@ nav_order: 51
 parent: Trade Mark
 grand_parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/trade-mark-registration.markdown){: .btn .btn-outline }
+
 
 
 # Trade Mark Registration

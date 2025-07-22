@@ -6,7 +6,7 @@ parent: Governing the Internet
 ---
 
 
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_safe_harbours.markdown){: .btn .btn-outline }
+
 
 
 # Copyright Safe Harbours

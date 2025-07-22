@@ -5,7 +5,7 @@ nav_order: 40
 parent: Governing the Internet
 ---
 
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_defamation.markdown){: .btn .btn-outline }
+
 
 # Intermediary Liability for Defamation
 {: .no_toc }

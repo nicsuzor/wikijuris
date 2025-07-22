@@ -4,7 +4,7 @@ title:  Intermediary Liability for Trade Mark Infringement, passing off, and mis
 parent: Governing the Internet
 nav_order: 70
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/cyberlaw/intermediaries_tm.markdown){: .btn .btn-outline }
+
 
 
 # Intermediary Liability for Trade Mark Infringement, passing off, and misleading and deceptive conduct

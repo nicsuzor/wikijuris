@@ -4,7 +4,7 @@ title: Plant Breeders' Rights
 nav_order: 71
 parent: Australian IP Law
 ---
-[Edit this page](https://github.com/nicsuzor/wikijuris/blob/master/ausip/plant_breeders_rights.markdown){: .btn .btn-outline }
+
 
 
 # Plant Breeders Rights
