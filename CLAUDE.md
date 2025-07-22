@@ -113,7 +113,7 @@ We are writing a collaborative textbook about IP and Internet Law.
 
 - Medium-neutral AGLC style
 - Hyperlink document names and pinpoints where possible
-- Footnotes: `[^ref_name]` in text, `[^ref_name]: citation` at section end
+- Footnotes: `[^ref_name]` in text, `[^ref_name]: citation` at section end. Use a tiny abbreviation instead of numbers for the reference.
 
 ### Structure
 
