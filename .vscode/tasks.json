@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "type": "shell",
+      "command": "bundle exec jekyll build",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "deploy:dev",
+      "type": "shell",
+      "command": "wrangler deploy -e dev",
+      "problemMatcher": []
+    }
+  ]
+}
