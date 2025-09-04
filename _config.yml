@@ -95,11 +95,18 @@ callouts:
     title:
     color: blue
     opacity: 0.1
+  quote:
+    color: blue
+    opacity: 0.15
   warning:
     title: Warning
     color: red
-    opacity: 0.6
+    opacity: 0.4
   help:
     title: Please help!
     color: green
-    opacity: 0.4
+    opacity: 0.2
+  todo:
+    title: "to do:" 
+    color: green
+    opacity: 0.2

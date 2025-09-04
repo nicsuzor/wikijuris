@@ -25,3 +25,10 @@ To preview the site: `bundle exec jekyll serve`
 To build: `bundle exec jekyll build`
 To push dev to cloudflate: `wrangler deploy -e dev`
 To push live version: `wrangler deploy -e wikijuris`
+
+### requirements: install ruby
+
+- Install Ruby and rbenv: `sudo apt install rbenv && rbenv install 3.3.4 && rbenv global 3.3.4 && ruby -v`
+- Install bundler (from project root): `gem install bundler && rbenv rehash`
+- Install: `bundle install`
+

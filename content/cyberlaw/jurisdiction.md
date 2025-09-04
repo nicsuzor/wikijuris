@@ -234,31 +234,35 @@ Facts that a court can take into consideration when apply the Voth test follow:[
 
 In summary, a court must determine whether that the defendant is the personality behind the social media account.
 
-## Case Study: The Issues of Jurisdiction, Choice of Law, Choice of Forum and Recognition and Enforcement
-
-Imagine that defamatory information was published about you by someone from Australia on a US website, badpeople.com, which is hosted in a server in Vanuatu. 2,000 users from around the world have accessed the defamatory information, including 50 users in Australia. The questions that you need to ask are as follows:
-
-  * **Jurisdiction:** Which court/s have jurisdiction over the website? Is it Australia where the person about whom defamatory content was published resides, the United States on which website the content was hosted or Vanuatu where the server hosting the content was situated? Do you need to consider any other jurisdictions? Is there subject matter and personal jurisdiction?
- * **Choice of Law:** Once you have established that a court has jurisdiction over parties to a matter and the subject matter, you need to determine whether the laws of that state or another state should be applied to the matter. Which country's laws apply to adjudicate the matter?
- * **Choice of Forum:** Even if you determine that a court has personal jurisdiction and subject matter jurisdiction, and that a country's laws will apply to the matter, you still need to determine whether the court is the most appropriate forum to exercise jurisdiction.
- * **Recognition and Enforcement:** Can a decision of a foreign court be recognised and enforced in different countries?
-
 ## Global Enforcement
 
 {: .warning }
-This section is incomplete.
+> **Warning**: This section is incomplete. Please help edit it if you can!
+
+{: .todo }
+> Add _X v Twitter Inc_ [[2017] NSWSC 1300](<https://www.austlii.edu.au/au/cases/nsw/NSWSC/2017/1300.html>) (28 September 2017)
 
 ### Reasonable Steps and the Comity of Nations
 
 {: .example }
-_eSafety Commissioner v X Corp_ [2024] FCA 499
+> **_eSafety Commissioner v X Corp_ [[2024] FCA 499](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca0499)**
+>
+> Courts might read down statutory powers to avoid interfering in foreign jurisdictions where the law is not explicit. In this case, the court had to determine whether global blocking was a 'reasonable step' under the Online Safety Act.
+>
+> {: .quote }
+> > [50] If given the reach contended for by the Commissioner, the removal notice would govern (and subject to punitive consequences under Australian law) the activities of a foreign corporation in the United States (where X Corp’s corporate decision-making occurs) and every country where its servers are located; an it would likewise govern the relationships between that corporation and its users everywhere in the world. The Commissioner, exercising her power under s 109, would be deciding what users of social media services throughout the world were allowed to see on those services. The content to which access may be denied by a removal notice is not limited to Australian content. In so far as the notice prevented content being available to users in other parts of the world, at least in the circumstances of the present case, it would be a clear case of a national law purporting to apply to “persons or matters over which, according to the comity of nations, the jurisdiction properly belongs to some other sovereign or State”. Those “persons or matters” can be described as the relationships of a foreign corporation with users of its services who are outside (and have no connection with) Australia. What X Corp is to be permitted to show to users in a particular country is something that the “comity of nations” would ordinarily regard as the province of that country’s government.
+> >
+> > [51] The potential consequences for orderly and amicable relations between nations, if a notice with the breadth contended for were enforced, are obvious. Most likely, the notice would be ignored or disparaged in other countries. (The parties on this application tendered reports by experts on US law, who were agreed that a US court would not enforce any injunction granted in this case to require X Corp to take down the 65 URLs.)
+> >
+> > [52] Section 23(2) of the OS Act extends the operation of its provisions to “acts, omissions, matters and things outside Australia”. It confirms that X Corp is in breach of the removal notice if it fails to take some “reasonable step” notwithstanding that the act or omission constituting that failure occurs overseas. However, s 23(2) does not control the meaning of “all reasonable steps”. A clear expression of intention would be necessary to support a conclusion that Parliament intended to empower the Commissioner to issue removal notices with the effect for which she contends.
+> >
+> > [53] The result is that, read in context and in the light of normal principles of statutory construction, the “reasonable steps” required by a removal notice issued under s 109 do not include the steps which the Commissioner seeks to compel X Corp to take in the present case.
 
-Courts might read down statutory powers to avoid interfering in foreign jurisdictions where the law is not explicit. In this case, the court had to determine whether global blocking was a 'reasonable step' under the Online Safety Act.
+## Case Study: The Issues of Jurisdiction, Choice of Law, Choice of Forum and Recognition and Enforcement
 
-> [50] If given the reach contended for by the Commissioner, the removal notice would govern (and subject to punitive consequences under Australian law) the activities of a foreign corporation in the United States (where X Corp’s corporate decision-making occurs) and every country where its servers are located; an it would likewise govern the relationships between that corporation and its users everywhere in the world. The Commissioner, exercising her power under s 109, would be deciding what users of social media services throughout the world were allowed to see on those services. The content to which access may be denied by a removal notice is not limited to Australian content. In so far as the notice prevented content being available to users in other parts of the world, at least in the circumstances of the present case, it would be a clear case of a national law purporting to apply to “persons or matters over which, according to the comity of nations, the jurisdiction properly belongs to some other sovereign or State”. Those “persons or matters” can be described as the relationships of a foreign corporation with users of its services who are outside (and have no connection with) Australia. What X Corp is to be permitted to show to users in a particular country is something that the “comity of nations” would ordinarily regard as the province of that country’s government.
->
-> [51] The potential consequences for orderly and amicable relations between nations, if a notice with the breadth contended for were enforced, are obvious. Most likely, the notice would be ignored or disparaged in other countries. (The parties on this application tendered reports by experts on US law, who were agreed that a US court would not enforce any injunction granted in this case to require X Corp to take down the 65 URLs.)
->
-> [52] Section 23(2) of the OS Act extends the operation of its provisions to “acts, omissions, matters and things outside Australia”. It confirms that X Corp is in breach of the removal notice if it fails to take some “reasonable step” notwithstanding that the act or omission constituting that failure occurs overseas. However, s 23(2) does not control the meaning of “all reasonable steps”. A clear expression of intention would be necessary to support a conclusion that Parliament intended to empower the Commissioner to issue removal notices with the effect for which she contends.
->
-> [53] The result is that, read in context and in the light of normal principles of statutory construction, the “reasonable steps” required by a removal notice issued under s 109 do not include the steps which the Commissioner seeks to compel X Corp to take in the present case.
+Imagine that defamatory information was published about you by someone from Australia on a US website, badpeople.com, which is hosted in a server in Vanuatu. 2,000 users from around the world have accessed the defamatory information, including 50 users in Australia. The questions that you need to ask are as follows:
+
+* **Jurisdiction:** Which court/s have jurisdiction over the website? Is it Australia where the person about whom defamatory content was published resides, the United States on which website the content was hosted or Vanuatu where the server hosting the content was situated? Do you need to consider any other jurisdictions? Is there subject matter and personal jurisdiction?
+* **Choice of Law:** Once you have established that a court has jurisdiction over parties to a matter and the subject matter, you need to determine whether the laws of that state or another state should be applied to the matter. Which country's laws apply to adjudicate the matter?
+* **Choice of Forum:** Even if you determine that a court has personal jurisdiction and subject matter jurisdiction, and that a country's laws will apply to the matter, you still need to determine whether the court is the most appropriate forum to exercise jurisdiction.
+* **Recognition and Enforcement:** Can a decision of a foreign court be recognised and enforced in different countries?

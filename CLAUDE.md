@@ -102,10 +102,9 @@ We are writing a collaborative textbook about IP and Internet Law.
 
 ## Formatting Standards
 
-### Content Blocks and Boxes
+### Content Boxes: block IAL
 
-Use blocks to separate out material that is not part of the main text in the following templates:
-
+Use block inline attribute list (block IAL) formatting to separate out material that is not part of the main text in the following templates:
 
 - `{: .ed}` - Editorial notes (temporary)
 - `{: .example}` - Case studies, examples, case notes
@@ -118,6 +117,19 @@ e.g. for incomplete sections and stubs:
 ```markdown
 {: .warning}
 This section is incomplete. Please help out by filling in some details.
+```
+
+Quotes within examples should be nested in a separate IAL block:
+
+```markdown
+{: .example }
+> **_eSafety Commissioner v X Corp_ [[2024] FCA 499](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca0499)**
+>
+> Courts might read down statutory powers to avoid interfering in foreign jurisdictions where the law is not explicit. In this case, the court had to determine whether global blocking was a 'reasonable step' under the Online Safety Act.
+>
+> {: .quote }
+> > [50] If given the reach contended for by the Commissioner, the removal notice would govern (and subject to punitive consequences under Australian law) the activities of a foreign corporation in the United States (where X Corp’s corporate decision-making occurs) and every country where its servers are located; an it would likewise govern the relationships between that corporation and its users everywhere in the world. The Commissioner, exercising her power under s 109, would be deciding what users of social media services throughout the world were allowed to see on those services. The content to which access may be denied by a removal notice is not limited to Australian content. In so far as the notice prevented content being available to users in other parts of the world, at least in the circumstances of the present case, it would be a clear case of a national law purporting to apply to “persons or matters over which, according to the comity of nations, the jurisdiction properly belongs to some other sovereign or State”. Those “persons or matters” can be described as the relationships of a foreign corporation with users of its services who are outside (and have no connection with) Australia. What X Corp is to be permitted to show to users in a particular country is something that the “comity of nations” would ordinarily regard as the province of that country’s government.
+> >
 ```
 
 ### Citations
