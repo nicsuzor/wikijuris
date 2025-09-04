@@ -102,12 +102,23 @@ We are writing a collaborative textbook about IP and Internet Law.
 
 ## Formatting Standards
 
-### Content Blocks
+### Content Blocks and Boxes
+
+Use blocks to separate out material that is not part of the main text in the following templates:
+
+
 - `{: .ed}` - Editorial notes (temporary)
 - `{: .example}` - Case studies, examples, case notes
 - `{: .note}` - Reader notes
 - `{: .warning}` - Potentially incorrect/incomplete info
 - `{: .help}` - Content requests
+
+e.g. for incomplete sections and stubs:
+
+```markdown
+{: .warning}
+This section is incomplete. Please help out by filling in some details.
+```
 
 ### Citations
 
