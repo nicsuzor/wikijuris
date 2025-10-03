@@ -4,7 +4,7 @@
 This is the project-specific configuration for WikiJuris.
 
 1. **Project-Specific** (this file) - Overrides all other configurations
-2. **Global** (`/writing/docs/agent/INSTRUCTIONS.md`) - Repository-wide preferences
+2. **Global** (`/writing/docs/agents/INSTRUCTIONS.md`) - Repository-wide preferences
 3. **Base** (`/writing/bot/agents/*.md`) - Core agent definitions
 
 ## WikiJuris-Specific Instructions
