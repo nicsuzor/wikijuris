@@ -10,7 +10,7 @@
 		"cf-typegen": "wrangler types"
 	},
 	"devDependencies": {
-		"wrangler": "^4.25.0"
+		"wrangler": "^4.59.1"
 	},
 	"dependencies": {
 		"@cloudflare/kv-asset-handler": "^0.4.0"
