@@ -101,7 +101,9 @@ There are four conditions that can be applied to a Creative Commons license.
 | No Derivative Works (ND) | Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it. |
 
 
-**Video overview by Rachel Varshney on [Creative Commons Licensing](https://www.youtube.com/watch?v=BzR6gVzFSjo).**
+{: .help }
+> Video unavailable. Please help by creating a new video on Creative Commons Licensing.
+
 
 ### Statutory Licences
 

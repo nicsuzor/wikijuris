@@ -250,7 +250,9 @@ This case was pre the 1984 amendments to the _Act_. These amendments provided th
 
 ##### _Autodesk v Dyason (No 2)_ [1993] HCA 6 - Liability for reverse engineering computer programs
 
-**Video overview by Zoe Cannan on [Autodesk v Dyason (No 2)](https://www.youtube.com/watch?v=MolI2YH3l84)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Autodesk v Dyason (No 2).
+
 
 In the case of [Autodesk Inc v Dyason](http://classic.austlii.edu.au/au/cases/cth/HCA/1993/6.html), the plaintiff owned copyright in a drafting program used by architects and engineers called "Autocad".  It was sold with an electronic device, the “Autolock”, to attach to the computer. The program would not run without the “Autolock”, preventing its use on more than one computer at any one time.  The defendant cracked the code and produced a device called “Autokey”, which performed the same function as the “Autolock”.
 
@@ -458,7 +460,9 @@ The High Court overturned the ruling, holding that the plug was not a work of ar
 The designer in this case was motivated by engineering imperatives, and was not acting as an artist-craftsperson when he created the plug. The utilitarian requirements of aerodynamics and speed influenced and, at times, dictated the design choices.
 </div>
 
-**Video overview by Shonagh Hunter on [Burge v Swarbrick](https://www.youtube.com/watch?v=Pj0oHFWNJKU).**
+{: .help }
+> Video unavailable. Please help by creating a new video on Burge v Swarbrick.
+
 
 
 ## Originality
@@ -471,7 +475,9 @@ In copyright, the term "originality" does not mean "novel" or new. Instead, "ori
 #####  _University of London Press Ltd v University Tutorial Press Ltd_ [1916] 2 Ch 601
 
 
-**Video overview by Christine Apurel on [University of London Press v University Tutorial Press](https://www.youtube.com/watch?v=FfQjfmFt-_8).**
+{: .help }
+> Video unavailable. Please help by creating a new video on University of London Press v University Tutorial Press.
+
 
 Examiners were hired to create exam scripts for the University of London. A condition of appointment for examiners was that copyright in the papers belonged to the University.  The University subsequently assigned copyright to the plaintiff publisher.  The defendant publisher then published exams with answers and comments.  The plaintiff publisher sued for infringement of copyright.
 
@@ -485,7 +491,9 @@ Held: copyright subsisted in the papers as original literary works – originali
 <div markdown="block" class="box  case">
 #####  _Budget Eyewear Australia v Specsavers_ [2010] FCA 507
 
-**Video overview by Emma Taylor on [Budget Eyewear Australia v Specsavers](https://www.youtube.com/watch?v=n5rWzSkzUpc).**
+{: .help }
+> Video unavailable. Please help by creating a new video on Budget Eyewear Australia v Specsavers.
+
 
 In the case of [Budget Eyewear Australia v Specsavers](http://classic.austlii.edu.au/au/cases/cth/FCA/2010/507.html) the court found that there was an arguable case that the manner in which a concept was expressed in an advertisement was original because "[i]t is necessary for the creator of the advertisement to choose words and expressions carefully and to put those words and phrases together in a particular considered way. Expressions such as ‘if your glasses are not all they are cracked up to be, don’t worry, we’ll come to the rescue’ may involve ordinary words, as does much literary language, but the fact that the words are commonplace does not mean that the way in which they are put together cannot have a degree of originality." ([17])
 

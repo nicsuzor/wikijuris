@@ -183,9 +183,6 @@ In the case of _Francis Day & Hunter v. Bron_ the plaintiff sued alleging the de
 
 **Video overview by Olivia Steele on [Subconscious Copying in _Francis Day & Hunter v Bron_](https://www.youtube.com/watch?v=38YzweuP6c8).**
 
-**Video overview by John Herbet on [Francis Day & Hunter v Bron](https://www.youtube.com/watch?v=sPY7xTNV_LQ).**
-
-
 
 #### Element 2 - Objective Similarity
 
@@ -312,7 +309,8 @@ Where Part IV copyright is concerned, direct infringement is a much more restric
 **Video overview by Kylie Pappalardo  [Direct infringement of Part IV subject matter](https://www.youtube.com/watch?v=o6pxhU0nyVg&index=5&list=PLa0bKPnUKQrw1CBByMd8vjV-wK53r3qos).**
 
 
-**Video overview by Thomas Ryan on [The Difference Between 'Copy' and 'Reproduce'](https://youtu.be/rnFkvgm1f0c).**
+{: .help }
+> Video unavailable. Please help by creating a new video on The Difference Between 'Copy' and 'Reproduce'.
 
 
 

@@ -149,7 +149,9 @@ _Copyright Regulations 2017_ (Cth) prescribe more detail for the notice & takedo
 
 #####   Example of the Category A Safe Harbour: Roadshow v iiNet
 
-**Sophie Murdock explains [Roadshow v iiNet](https://www.youtube.com/watch?v=h4iBhgAUV8Q)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Roadshow v iiNet.
+
 
 The FCAFC held that iiNet could not rely on the safe harbours, had it been liable for authorising copyright infringement. The Court unanimously held that iiNet could not rely on the safe harbour provisions. The three judges each gave separate reasons, however there were common threads throughout their arguments. Each judge focussed on item 1 condition 1 of s 116AH(1) of the Copyright Act, and while they acknowledged that iiNet was in Category A, they did not discuss the requirements for safe harbour in Category A.
 
@@ -226,7 +228,9 @@ Aimster locked itself out of any knowledge by encrypting the network. 7th Circui
 
 ##### Ellison v Robertson, 357 F.3d 1072 (9th Cir. 2004)
 
-**Video Overview of Ellison v Robertson by [Chris Pham](https://www.youtube.com/watch?v=z3YgPFQudVk)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Chris Pham.
+
 
 AOL had a repeat infringer policy, but had changed its designated email address for complaints. AOL never received Ellison's complaints, and never bounced back the wrongly addressed email messages. There was therefore a triable question of fact as to whether AOL had 'reasonably implemented' its repeat infringer policy.
 

@@ -429,7 +429,9 @@ Optus cannot rely on the "private and domestic use" defence of s111: "There is n
 In addition to allowing private users of copyright to make recordings (as discussed above in time shifting), there is also a provision which allows private users to format shift. Format shifting involves reproducing copyright content in a different format without attracting copyright infringement. An example of this would be reproducing a copy of a CD onto an iPod or other listening device.   
 
 
-**Video overview by Lindsay Mengel on [Format Shifting](https://www.youtube.com/watch?v=6HUG9PIokvY).**
+{: .help }
+> Video unavailable. Please help by creating a new video on Format Shifting.
+
 
 **Video overview by Lachlan McCormick on [Format Shifting](https://www.youtube.com/watch?v=VTpMtSzNjC8).**
 

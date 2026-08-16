@@ -233,7 +233,9 @@ In *Gazal Apparel Pty Ltd v Fine Lines Extraordinary Apparel Pty Ltd*,[^AUTOREPL
 
 
 
-**Video overview by Jessica Bell [Distinctiveness](https://www.youtube.com/watch?v=hqiqW8_BbLM)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Distinctiveness.
+
 
 #### Distinctiveness of Non-Traditional Trade Marks
 
@@ -321,7 +323,9 @@ In *[Scotch Whisky Association v De Witt](http://www.austlii.edu.au/cgi-bin/view
 
 
 
-**Video overview by Trent Stephens on [Section 43 Deceptive and Confusing Marks](https://www.youtube.com/watch?v=gkxyzAzEzKc)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Section 43 Deceptive and Confusing Marks.
+
 
 
 

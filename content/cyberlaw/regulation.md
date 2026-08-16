@@ -52,10 +52,14 @@ The fact that content, including messages, can take any path between the two end
 
 Some networks are easier to regulate than others. More decentralised networks, such as 'peer-to-peer' (P2P) file sharing technologies, are more difficult to regulate in part because of the sheer number of largely anonymous end-users who might be sharing content. As we will discuss in the Liability of Intermediaries chapter, parties alleging some kind of infringement often chose to sue intermediaries, rather than end-users. Targeting an intermediary, such as an ISP, can be very effective because of the 'customer/server' nature of their networks (i.e. the ISP, or server, largely contractually agrees to provide internet access to end-users, or its customers).
 
-One way of avoiding regulation online is through the use of a Virtual Private Network **[('VPN')](https://www.youtube.com/watch?v=prhQKAJG8nA)**. A VPN creates an encrypted 'tunnel' from an entry point in one jurisdiction to an exit point in another. By using a VPN, a user can appear to be located in another jurisdiction. This means a user can potentially avoid jurisdiction-based filtering or blocking, such as geo-blocking of online content, and attempt to better conceal their real location and other personal information.
+{: .help }
+> Video unavailable. Please help by creating a new video on ('VPN').
 
 
-Watch: **[Mitch Huges](https://www.youtube.com/watch?v=rk0aeKMCRFs)** explains how, before Netflix was available in Australia, many Australians used VPNs to access overseas Netflix content and ultimately bypass industry agreements that require geographic market segmentation of content.
+
+{: .help }
+> Video unavailable. Please help by creating a new video on Mitch Huges.
+
 
 
 
@@ -161,7 +165,7 @@ Importantly, Lessig's modalities are never really independent, as they all inter
 
 ## Case Study: YouTube's ContentID System
 
-Copyright infringement is another example of the interplay between the different modalities of regulation. In the late 1990s, the copyright industries' answer to the problem P2P file sharing network Napster posed was to turn to the courts. The courts eventually held that Napster was liable for copyright infringement, and the service was shut down. When that did not stop filesharing, the industries turned to marketing to try to create strong social norms against copying -- **[you wouldn't steal a car, right?](https://www.youtube.com/watch?v=HmZm8vNHBSU)** Over the last decade, working with YouTube and others, rightsholders have been able to develop new technologies to detect potential copyright infringement and deal with it automatically. YouTube's ContentID, for example, automatically detects when a person uses copyright music in their video, and copyright owners are presented with an easy choice to block access to the video, remove the soundtrack, leave it alone, or run ads alongside it. This has been a massively important tool for rightsholders. Finally, there have been some market innovations over the last few decades as well. Eventually, iTunes emerged to satisfy some of the demand music fans had to be able to get access to digital downloads in a cheap and easy way. Spotify and now Apple Music have gone further - providing fans with all-you-can-eat subscription so that they can enjoy the abundance that Napster brought, legally.
+Copyright infringement is another example of the interplay between the different modalities of regulation. In the late 1990s, the copyright industries' answer to the problem P2P file sharing network Napster posed was to turn to the courts. The courts eventually held that Napster was liable for copyright infringement, and the service was shut down. When that did not stop filesharing, the industries turned to marketing to try to create strong social norms against copying -- **[you wouldn't steal a car, right?](https://www.youtube.com/watch?v=PLzy-IJg4_4)** Over the last decade, working with YouTube and others, rightsholders have been able to develop new technologies to detect potential copyright infringement and deal with it automatically. YouTube's ContentID, for example, automatically detects when a person uses copyright music in their video, and copyright owners are presented with an easy choice to block access to the video, remove the soundtrack, leave it alone, or run ads alongside it. This has been a massively important tool for rightsholders. Finally, there have been some market innovations over the last few decades as well. Eventually, iTunes emerged to satisfy some of the demand music fans had to be able to get access to digital downloads in a cheap and easy way. Spotify and now Apple Music have gone further - providing fans with all-you-can-eat subscription so that they can enjoy the abundance that Napster brought, legally.
 
 If you define 'regulation' as a concerted effort to influence or control the way another person behaves, there are many different ways of achieving that goal. **Lessig's point is not that governments and state-based law do not matter in the internet age, rather that law is only one of the ways to regulate.** This means that when we are thinking about internet regulation, we need to be aware of the ways in which behaviour can be altered, and the limits of any given modality.
 
@@ -181,7 +185,9 @@ There are a number of challenges to enforcing law on the internet. The first is 
 
 ### Example: Cloudflare's decision to drop hosting for the Daily Stormer neo-Nazi site
 
-**Overview video by Hazza: [The Downfall of the Daily Stormer](https://www.youtube.com/watch?v=vf-INXgNpwM)**
+{: .help }
+> Video unavailable. Please help by creating a new video on The Downfall of the Daily Stormer.
+
 
 The neo-Nazi website, Daily Stormer, is a good example of how online content can be regulated by Internet intermediaries. Cloudflare, a content delivery network, provides many advantages to websites on their servers. One of Cloudflare's main selling points is its security capabilities against online attacks, especially against a Distributed Denial of Service attack. It is for this very reason that so many websites seek protection from the company, including the Daily Stormer, one of the largest neo-Nazi websites. After the administrators of the Daily Stormer made hateful comments regarding a woman's murder in the Charlottesville rally in 2017, Cloudflare terminated protection of the website after significant criticism from the public. It was a decision that Matthew Prince, Cloudflare’s CEO, struggled to make, being a firm believer in freedom of speech on the Internet. The tipping point for the decision was the team behind the website claiming that Cloudflare were secretly supporters of the site's hateful ideology, which was something the company could not stand for. The Daily Stormer has suffered dramatic losses in traffic and membership, and shows how Internet intermediaries can regulate online content, even if that regulation is only imperfect.
 

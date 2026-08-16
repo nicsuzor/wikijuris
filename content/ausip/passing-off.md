@@ -451,7 +451,9 @@ Character merchandising = using the reputation of a well-known fictitious charac
 Celebrity endorsements = Using a celebrity to endorse and contribute to the popularity of a particular product (that may or may not be connected to the particular celebrity).
 
 
-**Video overview by Billy Young on [Character Merchandising](https://www.youtube.com/watch?v=y4pT18IEf2s)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Character Merchandising.
+
 
 
 

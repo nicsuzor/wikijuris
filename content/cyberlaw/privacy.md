@@ -16,7 +16,9 @@ Help needed! Please contribute your notes to help us finish this page.
 1. Table of Contents
 {:toc}
 
-**Rita Matulionyte [Explains How Online Technologies Affect Our Privacy](https://www.youtube.com/watch?v=67BPeCTpu10)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Explains How Online Technologies Affect Our Privacy.
+
 
 ## International Law
 **Article 12, 1948 Universal Declaration on Human Rights (UDHR)**
@@ -206,7 +208,9 @@ So far, no such case has come up to the Australian High Court but there have bee
 
 ### Privacy Act 1988 (Cth) and the Australian Privacy Principles
 
-**Rita Matulionyte [Explains the Legal Protections for Privacy in Australia](https://www.youtube.com/watch?v=dGTkYs8jT3o)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Explains the Legal Protections for Privacy in Australia.
+
 
 The _Privacy Act 1988_ (Cth) protects information privacy - that is, it prescribes what 'personal information' organisations and federal government agencies can collect about Australians, how that information can be collected and how it must be stored, the circumstances in which the information can be used and disclosed, and what Australian citizens must be told about the information collected about them. Personal information includes things like name, address, phone number, occupation, and sensitive information like health information. Other, state-level information privacy legislation also exists, which usually applies to state government agencies e.g. _Information Privacy Act 2009_ (QLD).
 
@@ -214,7 +218,9 @@ Personal privacy in Australia is protected in a _de facto_ way, through a myriad
 
 ## The Privacy Act
 
-**Rita Matulionyte [Provides an Introduction to the Privacy Act](https://www.youtube.com/watch?v=34AAdrbr050)** and **Video Overview by Michael Thomson [Explains the Role of the OAIC](https://www.youtube.com/watch?v=D-pebFkJn4o)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Provides an Introduction to the Privacy Act.
+
 
 The _Privacy Act 1988_ (Cth) contains 13 Australian Privacy Principles (APPs) in Schedule 1. These principles apply to "APP entities".
 
@@ -228,7 +234,9 @@ Sections 65 and 66 of the Privacy Act provide that entities must cooperate with 
 
 ## The Australian Privacy Principles
 
-**Rita Matulionyte [Explains the APPs](https://www.youtube.com/watch?v=H3-R_ymAAFY)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Explains the APPs.
+
 
 #### APP 1 — Open and transparent management of personal information
 Ensures that APP entities manage personal information in an open and transparent way. This includes having a clearly expressed and up to date APP privacy policy.
@@ -254,7 +262,9 @@ An organisation may only use or disclose personal information for direct marketi
 #### APP 8 — Cross-border disclosure of personal information
 Outlines the steps an APP entity must take to protect personal information before it is disclosed overseas.
 
-**Video Overview of [APP 8](https://www.youtube.com/watch?v=0S6yURu809M)**
+{: .help }
+> Video unavailable. Please help by creating a new video on APP 8.
+
 
 #### APP 9 — Adoption, use or disclosure of government related identifiers
 Outlines the limited circumstances when an organisation may adopt a government related identifier of an individual as its own identifier, or use or disclose a government related identifier of an individual.
@@ -268,7 +278,9 @@ An APP entity must take reasonable steps to protect personal information it hold
 #### APP 12 — Access to personal information
 Outlines an APP entity’s obligations when an individual requests to be given access to personal information held about them by the entity. This includes a requirement to provide access unless a specific exception applies.
 
-**Video Overview of [APP 12](https://www.youtube.com/watch?v=dGB_J8cGjXk)**
+{: .help }
+> Video unavailable. Please help by creating a new video on APP 12.
+
 
 #### APP 13 — Correction of personal information
 Outlines an APP entity’s obligations in relation to correcting the personal information it holds about individuals.
@@ -559,7 +571,9 @@ Cryptographic encryption requires three critical components:
 
 3. **The receiver of the encrypted data holds the corresponding private key**. The private key is kept secret and is used to decrypt the received data that has been encrypted using the public key.
 
-**Ryan Glister [Explains TOR](https://www.youtube.com/watch?v=oUPAleiqvQI)** and **Sooraj Sidhu [Explains Public Key Encryption](https://www.youtube.com/watch?v=71mSYkuGZtk)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Explains TOR.
+
 
 ### Regulation
 

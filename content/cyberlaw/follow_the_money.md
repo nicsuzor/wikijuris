@@ -18,7 +18,9 @@ Public and private actors are increasingly seeking to regulate user behaviour by
 
 **Case study: How Payment Intermediaries Attempted to Shut Down WikiLeaks**
 
-**Video Overview by [Shana Webster](https://www.youtube.com/watch?v=PX4GMHz3QTA)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Shana Webster.
+
 
 In 2010, WikiLeaks partnered with multiple leading newspapers around the globe (such as the Guardian and New York Times) to publish over 250,000 cables between the US Department of State and US Embassies worldwide. These disclosures included highly sensitive information, such as identifying that the American Special Forces had been operating inside Pakistan. As the publication of the information is legal in the US, the Government could not prevent the release. Instead, the State wrote to WikiLeaks, imploring them to cooperate. The letter was strategically penned so as to insinuate illegal operations by WikiLeaks. It alleged that the anonymous source who released the information had broken the law, and so long as WikiLeaks held the material, the violation was ongoing. When WikiLeaks failed to cooperate, the State leaked the letter to the media.
 

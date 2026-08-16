@@ -72,7 +72,9 @@ There are specific rights that are valid during the extended term of the patent.
 
 The extended period of protection only protects the pharmaceutical substance itself.
 
-**Video overview by Fern Doyle on [Requirements For Extension of Time for Pharmaceutical Patents](https://www.youtube.com/watch?v=XA_QFCUoIJA).**
+{: .help }
+> Video unavailable. Please help by creating a new video on Requirements For Extension of Time for Pharmaceutical Patents.
+
 
 ## Innovation Patents
 

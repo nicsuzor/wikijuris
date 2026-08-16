@@ -46,7 +46,9 @@ A visual feature “includes the shape, configuration, pattern and ornamentation
 
 
 
-**Video overview by Amara Boustead on [What a 'Product' is in Design Law](https://www.youtube.com/watch?v=kT-0YI5sBYQ)**
+{: .help }
+> Video unavailable. Please help by creating a new video on What a 'Product' is in Design Law.
+
 
 
 ## Registration of Designs
@@ -286,4 +288,6 @@ Intellectual property is a valuable tool used protect works in the fashion indus
 The following video discusses the way intellectual property operates in the fashion industry and outlines the copyright design overlap and how it effects fashion works.
 
 
-**Video overview by Emily Burns on [IP in the Fashion Industry](https://www.youtube.com/watch?v=bLHIgfWk9e8)**
+{: .help }
+> Video unavailable. Please help by creating a new video on IP in the Fashion Industry.
+

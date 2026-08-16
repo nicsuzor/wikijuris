@@ -13,7 +13,9 @@ nav_order: 91
 1. Table of Contents
 {:toc}
 
-**Video Overview by [Philippa Dryden](https://www.youtube.com/watch?v=K2036tTwIkA)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Philippa Dryden.
+
 
 
 The _Enhancing Online Safety for Children Act 2015_ created the independent Office of the Children’s eSafety Commissioner.[^safety14] The Commissioner enforces the 2-tiered scheme as provided for by the Act, which exists for “the rapid removal from social media services of cyber-bullying material targeted at an Australian child.”[^safety20] “Cyber-bullying material targeted at an Australian child” is held to the standard of whether a reasonable person would think that it was directed towards an Australian child and whether it would be “seriously threatening, seriously intimidating, seriously harassing or seriously humiliating the Australian child.”[^safety5]

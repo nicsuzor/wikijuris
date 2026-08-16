@@ -61,7 +61,9 @@ Watch the following videos for background on online content regulation prior to 
 
 ## Content classification in Australia
 
-**Video Overview of Australia's classification Ratings by [Emily Rees](https://www.youtube.com/watch?v=GAZ3Bev5lb0)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Emily Rees.
+
 
 The rules that apply to content depend upon the classification of the content. Australia has a national classification scheme for content (films, games, publications) likely to cause offence which was enacted in 1995 – the National Classification Scheme/Code.
 The _Online Safety Act_ establishes an online content scheme which is partly dependent upon classification under the National Classification Code. As such, an overview of the basic features of the code supports an understanding of the _Online Safety Act_ scheme. 
@@ -144,15 +146,21 @@ Under s 49, the Commissioner may require the relevant providers to submit period
 # Section 313 of the Telecommunications Act 1997 (Cth)
 
 
-**Video Overview by Kaava Watson:[Section 313](https://www.youtube.com/watch?v=DgSMz2GRVB4)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Section 313.
+
 
 In Australia, several different forms of pressure have been exercised in recent years to encourage intermediaries to take action to police the actions of their users. The most blunt is direct action by law enforcement agencies, who are empowered to make requests of telecommunications providers under s 313 of the Telecommunications Act.  This provision requires carriers and carriage service providers to "do the carrier's best or the provider's best to prevent telecommunications networks and facilities from being used in, or in relation to, the commission of offences against the laws of the Commonwealth or of the States and Territories", and to
  “give officers and authorities of the Commonwealth and of the States and Territories such help as is reasonably necessary” to enforce criminal law, impose pecuniary penalties, assist foreign law enforcement, protect the public revenue, and safeguard national security.
 
 
- **Gab Red Explains [How s 313 Is Used by Government Agencies to Block Websites](https://www.youtube.com/watch?v=tdfHpMizgkM)**
+{: .help }
+> Video unavailable. Please help by creating a new video on How s 313 Is Used by Government Agencies to Block Websites.
 
- **Matt Cartwright [Explains](https://www.youtube.com/watch?v=CDxI6-ePEgk) the Recommendations of the Recent [Inquiry Into the Use of s 313](http://www.aph.gov.au/Parliamentary_Business/Committees/House/Infrastructure_and_Communications/Inquiry_into_the_use_of_section_313_of_the_Telecommunications_Act_to_disrupt_the_operation_of_illegal_online_services)**
+
+{: .help }
+> Video unavailable. Please help by creating a new video on Explains.
+
 
 The section essentially enables police and other law enforcement agencies to direct ISPs to hand over information about users and their communications. Increasingly, however, it is also apparently used by a number of government actors to require service providers to block access to content that appears to be unlawful, in cases ranging from the Australian Federal Police seeking to block access to child sexual abuse material to the Australian Securities and Investment Commission (ASIC) blocking access to phishing websites. Even the RSPCA is reported to have used the power, although the details of its request are not clear. There is significant concern over the lack of transparency around s 313(3) and lack of safeguards over its use.[^AUTOREPLACEDSeeforexampleAlanaMaurushatDavidVaileandAliceChowTheAftermathofMandatoryInternetFilteringandS313oftheTelecommunicationsAct1997Cth201419MediaandArtsLawReview263AUTOREPLACED] These came to the fore in 2013 when ASIC asked an ISP to block a particular IP address, not realising that the address was shared between up to 250,000 different websites, including the Melbourne Free University. 
 
