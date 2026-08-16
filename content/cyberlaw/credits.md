@@ -91,41 +91,6 @@ We are very grateful for contributions from students and members of the public, 
 * Christopher West
 * Brenton Poynting
 * Tamara Moretto
-* A K M Ahosan Habib
-* Adam Capotosto
-* Alexander Christie
-* Amisha Chhetri
-* Annabella Mate
-* Carrigan Jones
-* Courtney Linton-Hall
-* Douglas Theil
-* Eleanor Moore
-* Ella Bailey
-* Ellen Dungavell
-* Emma Kirkwood
-* Eryn Sablatura
-* Ethan May
-* Gabriella Ross
-* Grace Butler
-* Imogen Ryan
-* Isabella Fuller Doremon
-* Jackson Durie
-* James Finn
-* Jennifer O'Connor
-* Julian Leembruggen
-* Julius Peters
-* Kailani Crane
-* Katie Dennis
-* Lily Burgmann
-* Md Shahedul Islam Khan
-* Olivia Stanley
-* Orla Sheridan
-* Rhiannon Croaker
-* Saffire Penn
-* Sarah McKinna
-* Sophia Bell
-* Trinity Cadette
-* Wil Negline
 * Joe Sherman
 * Ed Green
 * Emily Guiver
