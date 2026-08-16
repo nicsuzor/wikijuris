@@ -27,7 +27,7 @@ This section is incomplete. Please help out by filling in some details.
 
 **Overview of Online Freedom of Speech Issues by [Nic Suzor](https://www.youtube.com/watch?v=-HTCDLty87s)**
 
-The great potential the internet brings is to democratise speech. It provides the ability for ordinary people to be heard by massive audiences. When Time Magazine named ‘You’ the person of the year in 2006, it showed a sense of great optimism in the democratic potential of the internet. The optimistic view is that the internet provides the ability for ordinary people to be heard by massive audiences. This was never the case with broadcast or mass media.
+The great potential the internet brings is to democratise speech. It provides the ability for ordinary people to be heard by massive audiences. When [Time Magazine](https://time.com/archive/6596761/you-yes-you-are-times-person-of-the-year/) named ‘You’ the person of the year in 2006, it showed a sense of great optimism in the democratic potential of the internet. The optimistic view is that the internet provides the ability for ordinary people to be heard by massive audiences. This was never the case with broadcast or mass media.
 
 Article 19 of the ICCPR protects the freedom to seek and impart information. In many cases, the freedom that the internet provides seems almost unlimited. Stewart Brand famously said in 1984, ‘information wants to be free’. Dan Gilmore explained that regulating speech on the internet was extremely difficult - ‘the net treats censorship as damage and routes around it’. However, there are conflicts and a series of difficult issues that we will explore below.
 

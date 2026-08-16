@@ -27,6 +27,10 @@ Academic contributions:
 
 Cover design: [Yerai Ibarria](https://www.fiverr.com/yeraiibarria)
 
+We are very grateful for contributions from students and members of the public, including:
+
+* James Burke
+
 Thanks to edits from:
 
 <ul class="list-style-none">
