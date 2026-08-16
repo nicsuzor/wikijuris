@@ -156,7 +156,9 @@ The development of technology and innovative business practices lead to question
 
 [^AUTOREPLACEDGrantvCommissionerofPatents2006154FCR62ENDREPLACE]: _Grant v Commissioner of Patents (2006) 154 FCR 62_
 
-**Video overview by Stephen Kuhn on [Business Method Patents](https://www.youtube.com/watch?v=_Pmqa_nldKE).**
+{: .help }
+> Video unavailable. Please help by creating a new video on Business Method Patents.
+
 
 
 <div markdown="block" class="box  case">
@@ -251,7 +253,9 @@ In order to be patentable the invention must be new. This requires the invention
 
 Novelty is required by ss 18(1)(b)(i), 18(1A)(b)(i) and 7(1) of the _Act_.
 
-**Video overview by Georgia Ardouin on [The test of Novelty in patent law](https://www.youtube.com/watch?v=lpoOsKyAEZc).**
+{: .help }
+> Video unavailable. Please help by creating a new video on The test of Novelty in patent law.
+
 
 **Video overview by Jess Smith on [Novelty](https://www.youtube.com/watch?v=K5mZI8syVcA).**
 
@@ -325,7 +329,9 @@ A patent must involve an inventive step. According to ss 18(1)(b)(ii) and 7(2) o
 
 **Video overview by Shiva Abassi  on [Inventive Step](https://www.youtube.com/watch?v=Pvi38hb98hY).**
 
-**Video overview by Emily Sakzewski on [Inventive Step](https://www.youtube.com/watch?v=3fdADIrxx6Q).**
+{: .help }
+> Video unavailable. Please help by creating a new video on Inventive Step.
+
 
 A 'person skilled in the relevant art' is a hypothetical “non-inventive” person who possesses “ordinary skill” who works in the art or science of the invention.[^Lundbeck] This can be a team of researchers.[^Aktie30]
 
@@ -333,7 +339,9 @@ A 'person skilled in the relevant art' is a hypothetical “non-inventive” per
 
 [^Aktie30]: Aktiebolaget Hässle v Alphapharm Pty (2002) 212 CLR 411, 426 [30]
 
-**Video overview by Carrick Brough on [A person skilled in the art](https://www.youtube.com/watch?v=ViORhY1J6Z4).**
+{: .help }
+> Video unavailable. Please help by creating a new video on A person skilled in the art.
+
 **Video overview by Nathan Dowrick on [A person skilled in the art](https://www.youtube.com/watch?v=s1ER6lusqV0).**
 
 Common general knowledge is the body of knowledge known or used by all those in the relevant trade, which forms the background knowledge and experience of those working in that field. Not simply information that could be found – must be information that is generally accepted and assimilated by the relevant technical community. It is the knowledge the person skilled in the relevant art has in the back of their mind when considering whether the invention is not obvious.[^AUTOREPLACEDMinnesotaMiningManufacturingCoand3MAustraliaPtyLtdvBeiersdorf198029ALR29ENDREPLACE]
@@ -388,7 +396,9 @@ Secret use and public use are mutually exclusive - i.e. secret use will not affe
 
 [^AUTOREPLACEDAzukoPtyLtdvOldDiggerPtyLtd200152IPR75ENDREPLACE]: _Azuko Pty Ltd v Old Digger Pty Ltd_ (2001) 52 IPR 75
 
-**Video overview by Zoe Busch on [Secret Use](https://www.youtube.com/watch?v=1tWUkFVaW58).**
+{: .help }
+> Video unavailable. Please help by creating a new video on Secret Use.
+
 
 Pursuant to s 9 of the _Act_ the following acts are not considered to be secret use of the invention:
 
@@ -415,7 +425,9 @@ There is a new 12 months grace period in respect of secret use.[^AUTOREPLACEDPAs
 **Video overview by Sam D'Arro on [Secret use in Azuko Pty Ltd v Old Differ](https://www.youtube.com/watch?v=fmxgvofZOks).**
 
 
-**Video overview by Diana Chiknaikin on [Azuko Pty Ltd v Old Digger](https://www.youtube.com/watch?v=6kMRDqoBBqU).**
+{: .help }
+> Video unavailable. Please help by creating a new video on Azuko Pty Ltd v Old Digger.
+
 
 </div>
 

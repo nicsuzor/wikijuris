@@ -163,4 +163,6 @@ This type of protection was only introduced with the _Copyright Act 1968_, as su
 [^AUTOREPLACEDCAs224ENDREPLACE]: _CA_ s 224
 
 
-**Video overview by Elizabeth Morrell on [Published Editions](https://www.youtube.com/watch?v=HPX8ojJ-R6A).**
+{: .help }
+> Video unavailable. Please help by creating a new video on Published Editions.
+

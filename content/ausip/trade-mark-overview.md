@@ -201,7 +201,9 @@ Much like other types of trade marks, in order to register the sound mark the so
 
 To be distinct it must provide an audible identifier that sets the product out as being unique (as opposed to common functional sound).
 
-**Video overview by Darren Brown on [Registering Sounds](https://www.youtube.com/watch?v=UHJfTerLjoA)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Registering Sounds.
+
 
 ### Registering Scents
 

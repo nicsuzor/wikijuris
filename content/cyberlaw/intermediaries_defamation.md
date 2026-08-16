@@ -278,7 +278,9 @@ An intermediary publisher can only rely on the innocent dissemination defence un
 
 ##### Rana v Google Australia Pty Ltd [2013] FCA 60
 
-**Video Overview by Carlie McCulloch: [Rana v Google](https://www.youtube.com/watch?v=_nt11Yig1nI)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Rana v Google.
+
 
 Rana sought leave to serve proceedings on Google Inc (USA-based), claiming Google was liable as publisher of a third party's defamatory websites as appearing in Google's search results; significant reliance was placed on the Trkulja case. Google sought summary judgment dismissing the claim, on the basis of no reasonable prospect of establishing Google was the publisher of the websites.
 
@@ -334,7 +336,9 @@ HELD, the article carried imputations 2 and 3 and those were defamatory of the p
 
 ##### Bleyer v Google Inc LLC (2014) 311 ALR 529
 
-**Video Overview by Claire Stewart: [Bleyer v Google Inc](https://www.youtube.com/watch?v=IWlPyJGxT10)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Bleyer v Google Inc.
+
 
 **Facts:**
 Proceedings in the NSW Supreme Court;

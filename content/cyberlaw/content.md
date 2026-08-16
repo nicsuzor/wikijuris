@@ -26,15 +26,23 @@ The evolution of content regulation in Australia has been marked by several key 
 
 * **1999**: Schedule 5 of the _Broadcasting Services Act 1992_ introduced a self-regulatory scheme with the ABA (later ACMA) as the enforcement agency. The scheme focused on ISP regulation through industry codes and complaints mechanisms.
 
-* **2007**: The National Filter Scheme (NetAlert Program) was introduced to provide internet safety education and filtering technology, though it was axed in 2008 due to low adoption rates and technical limitations.
+* **2007**: The National Filter Scheme (NetAlert Program) was introduced to provide internet safety education and filtering technology. It was discontinued in 2008 due to technical limitations and low take-up: around 144,000 filter products had been downloaded or ordered against a target of 2.5 million households, and the responsible department estimated that only about 29,000 of those remained in use.[^NetAlert]
 
-* **2008**: The Content Services Code 2008 provided clearer guidelines for content/hosting service providers and established self-regulatory content assessment regimes.
+* **2008**: The Content Services Code 2008 provided clearer guidelines for content and hosting service providers and established self-regulatory content assessment regimes. The Code required providers to implement systems for restricting access to adult material, and set out procedures for responding to take-down notices issued by the ACMA.
 
-* **2015**: The _Enhancing Online Safety for Children Act 2015_ established the Office of the Children's eSafety Commissioner, later expanded in 2017 to cover broader online safety issues including image-based abuse and domestic violence.
+* **2015**: The _Enhancing Online Safety for Children Act 2015_ established the Office of the Children's eSafety Commissioner. The office was expanded between 2017 and 2021 to cover online safety for all Australians and a broader range of harms, including image-based abuse and technology-facilitated domestic violence.[^EOSAexpand]
 
 * **2021**: The _Online Safety Act 2021_ replaced previous frameworks with a comprehensive regulatory scheme administered by the eSafety Commissioner.
 
+* **2024**: The _Online Safety Amendment (Social Media Minimum Age) Act 2024_ (Cth) introduced a minimum age of 16 years for holding an account with an age-restricted social media platform. The obligation rests on the provider, which must take reasonable steps to prevent Australians under 16 from holding accounts. The civil penalty for failing to do so is 30,000 penalty units, which is multiplied by five for a body corporate — a maximum of 150,000 penalty units, or $54.6 million as at 1 July 2026.[^MinAgePenalty] The requirement commenced in December 2025.
+
 For more detailed information on earlier regulatory approaches, see the Code for Industry Co-Regulation in Areas of Mobile and Internet Content (2005).
+
+[^NetAlert]: Heath Gilmore, 'Web Porn Software Filter Takes Biggest Hit', _The Sun-Herald_ (Sydney, 17 February 2008).
+
+[^EOSAexpand]: Enhancing Online Safety (Non-Consensual Sharing of Intimate Images) Act 2018 (Cth) sch 1 s 24; Enhancing Online Safety Act 2015 (Cth) ss 19A, 27, 44D–44F.
+
+[^MinAgePenalty]: _Online Safety Act 2021_ (Cth) s 63D; _Regulatory Powers (Standard Provisions) Act 2014_ (Cth) [s 82(5)](https://www.legislation.gov.au/C2014A00093/latest/text); _Crimes Act 1914_ (Cth) [s 4AA](https://www.legislation.gov.au/C1914A00012/latest/text). The value of a penalty unit is indexed every three years; it increased from $330 to $364 on 1 July 2026.
 
 ## Current regulatory framework
 
@@ -42,15 +50,15 @@ Australia has a co-regulatory content regulation scheme. Under a co-regulation m
 
 The _Online Safety Act 2021_ (Cth) sets out an expectation that industry bodies or associations will develop industry codes to regulate certain types of harmful online material. The Act provides for the eSafety Commissioner to register the codes if certain conditions are met. These include, among other things, that the Commissioner was consulted on the code and the Commissioner is satisfied that:
 
-•	The code was developed by a body or association that represents a particular section of the online industry, and the code deals with one or more matters relating to the online activities of those participants.
+* The code was developed by a body or association that represents a particular section of the online industry, and the code deals with one or more matters relating to the online activities of those participants.
 
-•	To the extent to which the code deals with one or more matters of substantial relevance to the community—the code provides appropriate community safeguards for that matter or those matters.
+* To the extent to which the code deals with one or more matters of substantial relevance to the community—the code provides appropriate community safeguards for that matter or those matters.
 
-•	To the extent to which the code deals with one or more matters that are not of substantial relevance to the community—the code deals with that matter or those matters in an appropriate manner.
+* To the extent to which the code deals with one or more matters that are not of substantial relevance to the community—the code deals with that matter or those matters in an appropriate manner.
 
-•	The body or association published a draft of the code and invited members of the public and industry participations to make submissions, and gave consideration to any submissions that were received.
+* The body or association published a draft of the code and invited members of the public and industry participations to make submissions, and gave consideration to any submissions that were received.
 
-The Commissioner may also request that a particular body or association which represents a section of the online industry develop an industry code dealing with one or more specified matters relating to the online activities of those industry participants. In April 2022, the Commissioner issued such a request, seeking the development of codes relating to 'class 1' material by six industry associations. The associations submitted draft codes in November 2022. All six draft codes were rejected in February 2023 as they did not meet the standards for registration. The Commissioner believed that they did not provide appropriate community safeguards. Following resubmission, five of the draft codes were registered in June 2023.
+The Commissioner may also request that a particular body or association which represents a section of the online industry develop an industry code dealing with one or more specified matters relating to the online activities of those industry participants. In April 2022, the Commissioner issued such a request, seeking the development of codes relating to 'class 1' material by six industry associations. The associations submitted draft codes in November 2022. All six draft codes were rejected in February 2023 as they did not meet the standards for registration. The Commissioner believed that they did not provide appropriate community safeguards. Following resubmission, five of the draft codes were registered on 16 June 2023 and took effect six months later, on 16 December 2023. Those five codes apply to social media services, app distribution services, hosting services, internet carriage services, and equipment. A sixth code, applying to internet search engine services, was resubmitted to take account of developments in generative artificial intelligence; it was registered separately on 12 September 2023 and took effect on 12 March 2024.[^PhaseOneCodes]
 
 See the [Online Content Scheme - Regulatory Guidance](https://www.esafety.gov.au/sites/default/files/2023-12/Online-Content-Scheme-Regulatory-Guidance-Updated-December-2023.pdf?v=1725078691925) for further information.
 
@@ -58,10 +66,12 @@ Watch the following videos for background on online content regulation prior to 
 
 * **Video Overview of Online Content Regulation in Australia by [Nicolas Suzor](https://www.youtube.com/watch?v=MXx8E2jnyGg)**
 
+[^PhaseOneCodes]: eSafety Commissioner, _Register of Industry Codes and Industry Standards for Online Safety_ (Web Page) <https://www.esafety.gov.au/industry/codes/register-online-industry-codes-standards>; _Phase One Codes_ (Web Page, onlinesafety.org.au) <https://onlinesafety.org.au/phase-one-codes/>.
+
 
 ## Content classification in Australia
 
-**Video Overview of Australia's classification Ratings by [Emily Rees](https://www.youtube.com/watch?v=GAZ3Bev5lb0)**
+**The Department of Infrastructure, Transport, Regional Development, Communications and the Arts provides a [quick guide to Australian classification ratings](https://youtu.be/rr7M1iApO1Y)**
 
 The rules that apply to content depend upon the classification of the content. Australia has a national classification scheme for content (films, games, publications) likely to cause offence which was enacted in 1995 – the National Classification Scheme/Code.
 The _Online Safety Act_ establishes an online content scheme which is partly dependent upon classification under the National Classification Code. As such, an overview of the basic features of the code supports an understanding of the _Online Safety Act_ scheme. 
@@ -98,7 +108,7 @@ Publications, Films, and Computer games are rated by the Classification Board, a
 ### Classification Guidelines: Refused Classification (RC) ###
 “Publications that  appear to  purposefully  debase or abuse  for the enjoyment  of readers/viewers,  and which lack  moral, artistic or  other values to the  extent that they  offend against  generally accepted  standards of  morality, decency  and propriety will  be classified ‘RC’.”
 
-For films, anything that exceeds X18+ is Refused Classification. For Games, anything that exceeds R18+ is RC (A new R18+ category was introduced for Games in 2012).
+For films, anything that exceeds X18+ is Refused Classification. For Games, anything that exceeds R18+ is RC (A new R18+ category was introduced for Games in 2012). Material classified RC may not lawfully be sold, hired or publicly exhibited anywhere in Australia.[^ClassificationAct]
 
 Classification Guidelines: RC (Films)
 
@@ -117,6 +127,7 @@ Classification Guidelines: RC (Films)
   * Detailed instruction in the use of proscribed drugs.
   * Material promoting or encouraging proscribed drug use.
 
+[^ClassificationAct]: _[Classification (Publications, Films and Computer Games) Act 1995](https://www.legislation.gov.au/C2004A04863/latest/text)_ (Cth). The Commonwealth Act establishes the classification scheme; the consequences of a classification, including restrictions on sale, hire and public exhibition, are given effect by complementary State and Territory enforcement legislation.
 
 
 ## Online Content Scheme
@@ -135,24 +146,34 @@ Under s 124, the Commissioner also has the power to issue notice to search engin
 
 ## Basic Online Safety Expectations
 
-The _Online Safety Act_ provides for to Minister for Communications to make a determination (a form of legislative instrument) setting out basic online safety expectations.
+The _Online Safety Act_ provides for the Minister for Communications to make a determination (a form of legislative instrument) setting out basic online safety expectations. The basic online safety expectations are a set of minimum standards that online services are expected to meet in order to help keep their users safe.
 
 The first determination was made in 2022. The _Online Safety (Basic Online Safety Expectations) Determination 2022_ specifies the basic online safety expectations for a social media service and other services that allow end users to access material using a carriage service or a service that delivers material by means of a carriage service.
 
-Under s 49, the Commissioner may require the relevant providers to submit periodic reports on how they are meeting the expectations set out in the determination. The Commissioner may also publish statements about the provider’s compliance or non-compliance with the expectations on its website.
+The 2022 Determination was amended by the _Online Safety (Basic Online Safety Expectations) Amendment Determination 2024_, which was registered on 30 May 2024 and commenced the following day.[^BOSEAmend] The amendment responds to harms that have emerged since the first determination, including those associated with generative artificial intelligence, strengthens protections for children, and addresses gaps identified in the original determination. Among other changes, it inserted s 6(2A) into the 2022 Determination, adding an expectation that the provider of a service 'will take reasonable steps to ensure that the best interests of the child are a primary consideration in the design and operation of any service that is likely to be accessed by children'.
+
+Under s 49, the Commissioner may require the relevant providers to submit periodic reports on how they are meeting the expectations set out in the determination. These reports explain what steps the service has taken to protect users, such as blocking harmful content or improving safety tools. The Commissioner may also publish statements about the provider’s compliance or non-compliance with the expectations on its website.
+
+[^BOSEAmend]: _[Online Safety (Basic Online Safety Expectations) Amendment Determination 2024](https://www.legislation.gov.au/F2024L00590/asmade/text)_ (Cth) ss 1–2, sch 1 item 1, inserting _Online Safety (Basic Online Safety Expectations) Determination 2022_ (Cth) s 6(2A).
 
 # Section 313 of the Telecommunications Act 1997 (Cth)
 
 
-**Video Overview by Kaava Watson:[Section 313](https://www.youtube.com/watch?v=DgSMz2GRVB4)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Section 313.
+
 
 In Australia, several different forms of pressure have been exercised in recent years to encourage intermediaries to take action to police the actions of their users. The most blunt is direct action by law enforcement agencies, who are empowered to make requests of telecommunications providers under s 313 of the Telecommunications Act.  This provision requires carriers and carriage service providers to "do the carrier's best or the provider's best to prevent telecommunications networks and facilities from being used in, or in relation to, the commission of offences against the laws of the Commonwealth or of the States and Territories", and to
  “give officers and authorities of the Commonwealth and of the States and Territories such help as is reasonably necessary” to enforce criminal law, impose pecuniary penalties, assist foreign law enforcement, protect the public revenue, and safeguard national security.
 
 
- **Gab Red Explains [How s 313 Is Used by Government Agencies to Block Websites](https://www.youtube.com/watch?v=tdfHpMizgkM)**
+{: .help }
+> Video unavailable. Please help by creating a new video on How s 313 Is Used by Government Agencies to Block Websites.
 
- **Matt Cartwright [Explains](https://www.youtube.com/watch?v=CDxI6-ePEgk) the Recommendations of the Recent [Inquiry Into the Use of s 313](http://www.aph.gov.au/Parliamentary_Business/Committees/House/Infrastructure_and_Communications/Inquiry_into_the_use_of_section_313_of_the_Telecommunications_Act_to_disrupt_the_operation_of_illegal_online_services)**
+
+{: .help }
+> Video unavailable. Please help by creating a new video on Explains.
+
 
 The section essentially enables police and other law enforcement agencies to direct ISPs to hand over information about users and their communications. Increasingly, however, it is also apparently used by a number of government actors to require service providers to block access to content that appears to be unlawful, in cases ranging from the Australian Federal Police seeking to block access to child sexual abuse material to the Australian Securities and Investment Commission (ASIC) blocking access to phishing websites. Even the RSPCA is reported to have used the power, although the details of its request are not clear. There is significant concern over the lack of transparency around s 313(3) and lack of safeguards over its use.[^AUTOREPLACEDSeeforexampleAlanaMaurushatDavidVaileandAliceChowTheAftermathofMandatoryInternetFilteringandS313oftheTelecommunicationsAct1997Cth201419MediaandArtsLawReview263AUTOREPLACED] These came to the fore in 2013 when ASIC asked an ISP to block a particular IP address, not realising that the address was shared between up to 250,000 different websites, including the Melbourne Free University. 
 
@@ -178,26 +199,23 @@ There is also a complaints-based system in the _Online Safety Act_, whereby the 
 
 [^AUTOREPLACEDEnhancingOnlineSafetyNonConsensualSharingofIntimateImagesAct2018Cthsch2s4CriminalCodeAct1995Cths47417AAUTOREPLACED]: Enhancing Online Safety (Non-Consensual Sharing of Intimate Images) Act 2018 (Cth) sch 2 s 4; Criminal Code Act 1995 (Cth) s 474.17A.
 
-[^AUTOREPLACEDEnhancingOnlineSafetyNonConsensualSharingofIntimateImagesAct2018Cthsch1s24EnhancingOnlineSafetyAct2015Cthss19A2744D44FAUTOREPLACED]: Enhancing Online Safety (Non-Consensual Sharing of Intimate Images) Act 2018 (Cth) sch 1 s 24; Enhancing Online Safety Act 2015 (Cth) ss 19A, 27, 44D–44F.
-
-
 
 Queensland extended the definition of ‘intimate’ images to include original or photoshopped still or moving images of a person engaged in intimate sexual activity; a person's bare genital or anal region; or a female, transgender or intersex person's breasts.[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds4CriminalCodeAct1899Qlds207AAUTOREPLACED]
 
 The definition covers an image that has been altered to appear to show any of the above-mentioned things.
 
-[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds4CriminalCodeAct1899Qlds207AAUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Bill 2018 (Qld) s 4; Criminal Code Act 1899 (Qld) s 207A.
+[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds4CriminalCodeAct1899Qlds207AAUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Act 2019 (Qld) s 4; Criminal Code Act 1899 (Qld) s 207A.
 
 
 The State also introduced three new misdemeanours into their Criminal Code to broaden the scope of conduct which is captured under the offence. These include distributing intimate images without the consent of the person depicted,[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds5CriminalCodeAct1899Qlds223AUTOREPLACED] observing or recording breaches of privacy,[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds6CriminalCodeAct1899Qlds227AAUTOREPLACED] and distributing prohibited visual recordings.[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds7CriminalCodeAct1899Qlds227BAUTOREPLACED]
 
 
-[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds5CriminalCodeAct1899Qlds223AUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Bill 2018 (Qld) s 5; Criminal Code Act 1899 (Qld) s 223.
+[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds5CriminalCodeAct1899Qlds223AUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Act 2019 (Qld) s 5; Criminal Code Act 1899 (Qld) s 223.
 
-[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds6CriminalCodeAct1899Qlds227AAUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Bill 2018 (Qld) s 6; Criminal Code Act 1899 (Qld) s 227A.
+[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds6CriminalCodeAct1899Qlds227AAUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Act 2019 (Qld) s 6; Criminal Code Act 1899 (Qld) s 227A.
 
 
-[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds7CriminalCodeAct1899Qlds227BAUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Bill 2018 (Qld) s 7; Criminal Code Act 1899 (Qld) s 227B.
+[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds7CriminalCodeAct1899Qlds227BAUTOREPLACED]: Criminal Code (Non-Consensual Sharing of Intimate Images) Amendment Act 2019 (Qld) s 7; Criminal Code Act 1899 (Qld) s 227B.
 
 
 
@@ -208,8 +226,11 @@ The State also introduced three new misdemeanours into their Criminal Code to br
 The prevalence of image-based abuse was highlighted in a study conducted by the eSafety Commissioner in 2017 that found that 1 in 10 individuals experienced image-based abuse, with females aged between 15 to 17 years being most at risk. The report also found:
 
 * 6 in 10 victims knew the perpetrator;
-* The perpetrator was a friend that they knew offline (29%), an ex-partner (13%), a current partner (12%) or a family member (10%); and
-* Image-based abuse is more likely to occur on Facebook (53%).
+* The perpetrator was a friend that they knew offline (29%), an ex-partner (13%), a current partner (12%) or a family member (10%);
+* Image-based abuse is more likely to occur on Facebook (53%); and
+* Aboriginal and Torres Strait Islander people were more than twice as likely to have experienced image-based abuse as non-Indigenous people (25% compared with 11%).[^eSafetyIBA2017]
+
+A separate survey by researchers at RMIT University and Monash University found that 1 in 2 Australians with a disability reported having been a victim of image-based abuse (56%, compared with 18% of respondents who did not report needing assistance with daily living, body movement or communication).[^HenryPowellFlynn] Respondents with a disability were most likely to be targeted by someone they knew, and were more likely than other respondents to be targeted by a known person who was not a partner or former partner.
 
 ### Factors affecting reporting
 
@@ -242,6 +263,10 @@ The responses from online service providers to the issue of image-based abuse in
 2. In March 2015, Twitter (now known as 'X') announced that they would immediately remove any link image-based abuse upon request; and
 3. In June/July 2015, Google and Microsoft announced they would remove links upon request.
 
+[^eSafetyIBA2017]: Office of the eSafety Commissioner, _[Image-Based Abuse National Survey: Summary Report](https://www.esafety.gov.au/sites/default/files/2019-07/Image-based-abuse-national-survey-summary-report-2017.pdf)_ (Report, 2017).
+
+[^HenryPowellFlynn]: Nicola Henry, Anastasia Powell and Asher Flynn, _[Not Just 'Revenge Pornography': Australians' Experiences of Image-Based Abuse — A Summary Report](https://www.rmit.edu.au/content/dam/rmit/documents/college-of-design-and-social-context/schools/global-urban-and-social-studies/revenge_porn_report_2017.pdf)_ (Report, RMIT University, May 2017) 7.
+
 # The Office of the e-Safety Commissioner
 
 **Lauren Trickey explains [how to make a complaint to the eSafety Commissioner](https://youtu.be/2aTxXyZsYgw)**
@@ -260,7 +285,7 @@ Young children and adolescents are being increasingly impacted by the high use o
 
 Cyberbullying involves bullying online. It occurs where a perpetrator intentionally acts violently towards a victim repeatedly over a long period of time through a variety of social media platforms such as Facebook, Instagram, Snapchat or other online forums, often anonymously. It falls under the umbrella term 'cyber hate', which encompasses many types of harmful behaviours including hate speech, harassment, and discrimination targeting individuals based on their personal characteristics or identity.
 
-A [study](https://www.esafety.gov.au/research/digital-lives-of-aussie-teens) by the eSafety Commissioner was completed in 2020. 44% of Australian young people reported having a negative online experience in the last 6 months, and 15% had received threats or abuse online.
+The eSafety Commissioner's [Keeping Kids Safe Online survey](https://www.esafety.gov.au/research/the-online-experiences-of-children-in-australia), conducted between December 2024 and February 2025 with a nationally representative sample of 3,454 children aged 10 to 17, found that 53% had experienced cyberbullying at some point and 74% had seen or heard content associated with harm online. A quarter (25%) had experienced non-consensual tracking, monitoring or harassment, and 42% had seen or heard offensive or threatening material directed at others because of their identity. The survey also found that trans and gender-diverse children, and girls, were more likely than boys to have experienced cyberbullying and non-consensual tracking, monitoring or harassment.
 
 ### Adult Cyber Abuse Scheme
 
@@ -271,11 +296,18 @@ Part 7 of the _Online Safety Act 2021_ (Cth) establishes an Adult Cyber Abuse Sc
 
 There is question about what surpasses the threshold and what is of a 'serious' nature as the harm can be subjective and arbitrary.
 
+The threshold was considered in _X Corp and Elston v eSafety Commissioner_, in which the Administrative Review Tribunal set aside a removal notice on the basis that the material was not cyber-abuse material within the meaning of s 7.[^ElstonART] The Tribunal held that material which is merely offensive or distressing does not meet the requirement that it be intended to cause serious harm, and cautioned against an interpretation of the provision that would capture lawful expression.
+
+{: .warning}
+This is a recent first-instance merits-review decision and may be subject to appeal. It should not be treated as a settled statement of the law.
+
 As outlined above, image based-abuse complaints can be made to the Commissioner. Pursuant to s 32, complaints can be made by the person in the intimate image, a person authorised to make a report or a parent or guardian of a child or a person who does not have capacity. 
 
 Australian residents can also report offensive or illegal content, which includes abhorrent violent material or material depicting illegal acts.
 
 For each type of material an online form can be completed on the eSafety website. Each form requests information regarding what is contained or depicted in the material and where the material has been posted. After receiving a complaint, the Commissioner has the power to conduct an investigation (as the Commissioner thinks fit). The Commissioner assesses the material complained of to determine the appropriate course of action, which may include liaising with the relevant platform for the material to be removed.
+
+[^ElstonART]: _X Corp and Elston v eSafety Commissioner_ [[2025] ARTA 852](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/ARTA/2025/852.html) (Deputy President O'Donovan, 1 July 2025) (Tribunal Nos 2024/2582 and 2024/2583).
 
 ### The Challenge of Online Abuse: Trolling
 
@@ -295,8 +327,8 @@ To have access to a legal remedy, Australian residents seeking justice for being
 
 If the complaint fits within the criteria, a complaint can be made to the Commissioner about the matter. Criteria includes:
 
-* Under s 30 of the _Online Safety Act_, an Australian child who has reason to believe they are a target of cyber-bullying material on platforms is a justified matter.
-* An Australian Adult under s 36 can make a complaint if they believe they have been a target of cyberabuse material.
+* Under s 30 of the _Online Safety Act_, an Australian child who has reason to believe they are a target of cyber-bullying material on platforms is a justified matter;
+* An Australian adult under s 36 can make a complaint if they believe they have been a target of cyber-abuse material; and
 * Under s 474.17 of the _Criminal Code Act_, an offence is set out in the way a 'reasonable person would regard as being, in all the circumstances, menacing, harassing or offensive'.
 
 Both the _Online Safety Act 2021_ (Cth) and _Criminal Code Act 1995_ (Cth) address cyberbullying and harassment broadly and require modifications to address trolling effectively.
@@ -339,7 +371,7 @@ There are a few defences to the new offences, including:
 
 ## Criticisms of the AVM Act
 
-The AVM Act has been criticised for drafting deficiencies. The AVM Act came into effect on 6 April 2019, just under a month after the Christchurch Massacre. In the Second Reading of the AVM Bill, Mr Bandt, leader of the Greens Party, in highlighting the government's haste to pass the Bill noted that it may undermine the legitimacy of the Bill further down the track and there could be unintended consequences. The President of the Law Council of Australia echoed this sentiment, describing the legislation "knee jerk reaction to tragic event".
+The AVM Act has been criticised for drafting deficiencies. The AVM Act came into effect on 6 April 2019, just under a month after the Christchurch Massacre. In the Second Reading of the AVM Bill, Mr Bandt, then leader of the Australian Greens, in highlighting the government's haste to pass the Bill noted that it may undermine the legitimacy of the Bill further down the track and there could be unintended consequences. The President of the Law Council of Australia echoed this sentiment, describing the legislation "knee jerk reaction to tragic event".
 
 ### "As soon as reasonably possible"
 
@@ -349,7 +381,7 @@ Under section 474.33(c) of the AVM Act, it is an offence for a person who has re
 
 The eSafety Commissioner has wide-ranging powers under the _Online Safety Act 2021_ (Cth) to order the removal of certain online material.
 
-Under section 109, the Commission can issue a removal notice when they are satisfied the material is or was class 1 material; the material can be accessed by end-users in Australia, and that once issued a removal notice the service provider must take 'all reasonable steps' to ensure removal of the material.
+Under section 109, the eSafety Commissioner can issue a removal notice when satisfied the material is or was class 1 material; the material can be accessed by end-users in Australia, and that once issued a removal notice the service provider must take 'all reasonable steps' to ensure removal of the material.
 
 Under section 95, the eSafety Commissioner can issue a provider with a blocking request, requesting that they take steps to disable access to the material if the:
 a) material can be accessed using an internet carriage service supplied by an internet service provider;
@@ -437,11 +469,11 @@ On 17 August 2024, X closed its office in Brazil and removed its legal represent
 
 At page 23 of Moraes's judgement, he found that 'Musk confuses freedom of speech with a non-existent right to aggression, and deliberately confuses censorship with a constitutional prohibition against hate-speech and incitement of antidemocratic action'. Moraes also referenced the proceedings against X in Australia at pages 28-29 to find that X has a history of not cooperating with governments and judicial orders, and the platform is regularly involved in antidemocratic action.
 
-Moraes ultimately ruled against X and ordered the platform to be blocked in Brazil due to its incitement of extremist activity, obstruction of justice, and lack of legal representation in the country. This decision was later affirmed by the other members of the Supreme Court. X has also been ordered to pay fines valuing at least 20 million Reais, roughly just over $5 million AUD, and Musk's Starlink assets in the country were frozen.
+Moraes ultimately ruled against X and ordered the platform to be blocked in Brazil due to its incitement of extremist activity, obstruction of justice, and lack of legal representation in the country. This decision was later affirmed by the other members of the Supreme Court. X has also been ordered to pay fines valuing at least 20 million Reais (roughly $5 million AUD at 2024 exchange rates), and Musk's Starlink assets in the country were frozen.
 
 ### Implications of the Brazilian decision
 
-On 31 August 2024, X was blocked in Brazil and inaccessible to millions of users. Initially Moraes attempted to outlaw the use of VPNs in the country entirely, but instead the court ordered that users in Brazil who use a VPN specifically to access X face fines of up to 50,000 Reais (roughly $13,000 AUD). This has caused debate within the country, with activists calling for Moraes to reconsider fining users.
+On 31 August 2024, X was blocked in Brazil and inaccessible to millions of users. Initially Moraes attempted to outlaw the use of VPNs in the country entirely, but instead the court ordered that users in Brazil who use a VPN specifically to access X face fines of up to 50,000 Reais (roughly $13,000 AUD at 2024 exchange rates). This has caused debate within the country, with activists calling for Moraes to reconsider fining users.
 
 After X was blocked, rival platform BlueSky saw an increase of 2 million members in a week, and Meta's Threads also saw a significant increase in activity.
 
@@ -476,11 +508,15 @@ Canada's proposed Online Harms Bill 2024 takes a duty-based approach to platform
 
 This approach emphasises proactive obligations on platforms rather than reactive content removal, reflecting an emerging trend in online safety regulation.[^CanadaOnlineHarmsInfo]
 
+The Bill did not proceed. It lapsed when Parliament was prorogued in early 2025 following Justin Trudeau's resignation as Prime Minister, the second occasion on which an attempt to legislate on online harms in Canada has failed. The Government of Canada has since indicated that it intends to bring forward online harms legislation for a third time, with a revised approach that separates the criminal law measures from the platform duties and takes account of developments in generative artificial intelligence.[^CanadaOnlineHarmsReintroduction]
+
 [^UKOnlineSafetyAct]: United Kingdom, Department for Science, Innovation & Technology 'Guidance -- Online Safety Act: explainer' *Online Safety Act: explainer* (Web Page, 8 May 2024) <https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer#what-the-online-safety-act-does>.
 
 [^CanadaOnlineHarmsBill]: Government of Canada, 'Government of Canada introduces legislation to combat harmful content online, including the sexual exploitation of children' *Canadian Heritage* (Web Page, 26 February 2024) <https://www.canada.ca/en/canadian-heritage/news/2024/02/government-of-canada-introduces-legislation-to-combat-harmful-content-online-including-the-sexual-exploitation-of-children.html>.
 
 [^CanadaOnlineHarmsInfo]: Government of Canada, 'Proposed Bill to address Online Harms' *Arts and media* (Web Page, 4 April 2024) <https://www.canada.ca/en/canadian-heritage/services/online-harms.html>.
+
+[^CanadaOnlineHarmsReintroduction]: 'Liberals Taking "Fresh" Look at Online Harms Bill, Says Justice Minister Sean Fraser', *CBC News* (online, 2025) <https://www.cbc.ca/news/politics/liberals-taking-fresh-look-at-online-harms-bill-says-justice-minister-sean-fraser-1.7573791>.
 
 
 # Other emerging issues
@@ -523,22 +559,25 @@ Australia lacks comprehensive deepfake-specific legislation, but several existin
 - *Enhancing Online Safety (Non-consensual Sharing of Intimate Images) Act 2018* (Cth); and
 - *Online Safety Act 2021* (Cth).
 
-Most Australian jurisdictions have criminal offences covering non-consensual sharing of intimate images, with varying application to altered material. Federal offences under sections 474.17 and 474.17A of the *Criminal Code Act 1995* (Cth) prohibit using carriage services to menace, harass or offend, including through sharing intimate images. Victoria leads in explicit deepfake criminalisation, with section 53 of the *Crimes Act 1958* (Vic) specifically addressing both production and distribution of deepfake intimate images.
+Most Australian jurisdictions have criminal offences covering non-consensual sharing of intimate images, with varying application to altered material. Federal offences under sections 474.17 and 474.17A of the *Criminal Code Act 1995* (Cth) prohibit using carriage services to menace, harass or offend, and to transmit sexual material without consent. Victoria's intimate image offences in Subdivision 8FAA of the *Crimes Act 1958* (Vic) address production (s 53R), distribution (s 53S) and threatened distribution (s 53T), and the statutory examples to s 53R make clear that digitally superimposing a person's face onto another image can constitute production.[^DeepfakeVic] New South Wales has no dedicated deepfake provision, although its image-based abuse offences extend to altered images: 'intimate image' is defined in s 91N of the *Crimes Act 1900* (NSW) to include an image that has been altered to appear to show a person's private parts or a person engaged in a private act, so ss 91P–91R can capture deepfakes.[^DeepfakeNSW]
 
 The *Online Safety Act 2021* (Cth) empowers the eSafety Commissioner to issue removal notices to online service providers hosting intimate imagery, including deepfakes. Providers must remove content within 24 hours of notice, with penalties for non-compliance. As noted by scholars, 'detection without removal offers little solace to those exploited by deepfake pornography'.[^DeepfakeTong]
 
-The limitations of civil enforcement mechanisms are illustrated by *Anthony Rondondo v eSafety Commissioner* (2023), where contempt proceedings were required after non-compliance with a removal notice. Rondondo was ordered to pay $25,000 plus costs.[^DeepfakeRondondo] This apparently did not serve as a deterrent; Rondondo was subsequently arrested for distributing deepfake images of school students and teachers.
+The limitations of civil enforcement mechanisms are illustrated by *eSafety Commissioner v Rotondo* [[2023] FCA 1296](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1296), in which the Federal Court granted an interim injunction requiring the removal of non-consensual intimate images, and in the later contempt proceedings in *eSafety Commissioner v Rotondo (No 3)* [[2023] FCA 1590](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1590), where Rotondo was ordered to pay $25,000 plus costs after admitting breaches of those orders.[^DeepfakeRotondo] This apparently did not serve as a deterrent; Rotondo was subsequently arrested for distributing deepfake images of school students and teachers.
 
-#### Criminal Code Amendment (Deepfake Sexual Material) Bill 2024
+#### Criminal Code Amendment (Deepfake Sexual Material) Act 2024 (Cth)
 
-The *Criminal Code Amendment (Deepfake Sexual Material) Bill 2024* represents Australia's first targeted legislative response to deepfake sexual abuse. The Bill introduces specific offences for:
+The *[Criminal Code Amendment (Deepfake Sexual Material) Act 2024](https://www.legislation.gov.au/C2024A00078/asmade/text)* (Cth), which commenced on 3 September 2024, represents Australia's first targeted legislative response to deepfake sexual abuse. It replaced the former private sexual material offences with a transmission offence and two aggravated forms:[^DeepfakeAct]
 
-- Creating deepfake sexually explicit content without consent
-- Distributing such material (maximum 6 years imprisonment)
-- Aggravated offences for creators who also distribute (maximum 7 years)
-- Repeat offending (maximum 7 years)
+- Using a carriage service to transmit sexual material of another adult without their consent, whether the material is unaltered or has been created or altered using technology (s 474.17A, maximum 6 years imprisonment)
+- An aggravated offence where the person who transmits the material was also responsible for creating or altering it (s 474.17AA(5), maximum 7 years)
+- An aggravated offence where three or more civil penalty orders had previously been made against the person under the *Online Safety Act 2021* (Cth) (s 474.17AA(1), maximum 7 years)
 
-Critics argue the Bill duplicates existing offences and may impact freedom of expression, though supporters emphasise the need for specific deterrence given the unique harms of deepfake technology.[^DeepfakeCriticism]
+'Transmit' is defined to include making available, publishing, distributing, advertising and promoting the material.
+
+Critics argue the Act duplicates existing offences and may impact freedom of expression, though supporters emphasise the need for specific deterrence given the unique harms of deepfake technology.[^DeepfakeCriticism]
+
+It has also been argued that the Act does not go far enough in protecting individuals from deepfake sexual material: while it criminalises the distribution of that material, it does not create a separate offence for its creation.[^DeepfakeWilliams]
 
 #### International Approaches
 
@@ -576,7 +615,7 @@ of regulating and controlling the spread of misinformation and
 disinformation. Misinformation is 'false, misleading or deceptive
 information that can cause harm'. Disinformation is misinformation that
 is deliberately spread to cause confusion and undermine trust in
-governments or institutions.[^14] Algorithms and 'bots' are becoming
+governments or institutions.[^ACMAmisinfo] Algorithms and 'bots' are becoming
 some of the strongest spreaders of false, unreliable and misleading
 information online. 'Bots' are computer algorithms generated by AI that
 automatically produce content and interact with humans on social media
@@ -607,7 +646,7 @@ also recognises that companies may withdraw from the Code by notifying
 DIGI. An independent Complaints Committee resolves complaints regarding
 Signatories compliance with their commitments under the Code and the
 public has access to complaints that are made via a complaints portal on
-DIGI's website.[^15] The Australian Communications and Media Authority
+DIGI's website.[^DIGIcode] The Australian Communications and Media Authority
 (ACMA) also has oversight over the code and reports on the adequacy of
 platforms measures to implement their commitments. These reports are
 then publicly available.
@@ -636,16 +675,16 @@ of expression.
 The *Online Safety Act 2021* (Cth) does not directly regulate the spread
 of misinformation and disinformation. However, the Commissioner has the
 power to require providers to report on the extent to which they are
-complying with expectations under BOSE. Importantly, however, failure to
-comply with the expectations listed in BOSE will not lead to legal
-penalties as they are not enforceable by proceedings in a court.[^16]
-Inclusive within the 'Core Expectations' under BOSE, providers are
+complying with the basic online safety expectations. Importantly,
+however, failure to comply with those expectations will not lead to
+legal penalties as they are not enforceable by proceedings in a
+court.[^OSAs45] Inclusive within the 'Core Expectations', providers are
 required to take 'reasonable steps' to ensure the safety of their
 end-users and to prevent 'harmful material' being released on their
-sites.[^17] Under the first determination of BOSE in 2022 the Minister
+sites.[^OSAs46] Under the first determination in 2022 the Minister
 for Communications set out expectations that providers would take
 reasonable steps to minimise the extent to which AI and anonymous
-accounts would produce harmful material on their sites.[^18] 'Harmful
+accounts would produce harmful material on their sites.[^BOSEdeterm] 'Harmful
 material' is not defined anywhere in the Act, however it is considered a
 'reasonable step' by the provider to request a consultation with the
 eSafety Commissioner in making determinations about what may be
@@ -654,8 +693,26 @@ eSafety Commissioner in making determinations about what may be
 
 [^DeepfakeTong]: Tong, S, "You Won't Believe What She Does!': an Examination into the Use of Pornographic Deepfakes as a Method of Sexual Abuse and the Legal Protections Available to its Victims" [2022] *UNSWLawJlStuS* *25; UNSWLJ Student Series* No 22-25.
 
-[^DeepfakeRondondo]: See Laura Lavelle, 'Antonio Rotondo guilty of contempt of court after allegedly creating deepfake images of school students and teachers' (ABC News) (6 December 2023) <https://www.abc.net.au/news/2023-12-06/qld-deepfake-images-court-charge-antonio-rotondo-school-students/103195578>
+[^DeepfakeRotondo]: See Laura Lavelle, 'Antonio Rotondo guilty of contempt of court after allegedly creating deepfake images of school students and teachers' (ABC News) (6 December 2023) <https://www.abc.net.au/news/2023-12-06/qld-deepfake-images-court-charge-antonio-rotondo-school-students/103195578>
+
+[^DeepfakeVic]: _Crimes Act 1958_ (Vic) [ss 53R](http://classic.austlii.edu.au/au/legis/vic/consol_act/ca195882/s53r.html), 53S, 53T (Subdivision 8FAA), inserted by the _Justice Legislation Amendment (Sexual Offences and Other Matters) Act 2022_ (Vic).
+
+[^DeepfakeNSW]: _Crimes Act 1900_ (NSW) [s 91N](http://www5.austlii.edu.au/au/legis/nsw/consol_act/ca190082/s91n.html) (definition of 'intimate image'), ss 91P–91R; Tom Gotsis, _Sexually Explicit Deepfakes and the Criminal Law in NSW_ (Research Paper, NSW Parliamentary Research Service, April 2025).
+
+[^DeepfakeAct]: _[Criminal Code Amendment (Deepfake Sexual Material) Act 2024](https://www.legislation.gov.au/C2024A00078/asmade/text)_ (Cth) sch 1 items 5–6, inserting _Criminal Code_ ss 474.17A, 474.17AA and 474.17AB.
 
 [^DeepfakeCriticism]: Billi Fitzsimmons, 'A Victorian teen has been arrested after fake nudes of 50 school girls were shared online' *The Daily Aus* (online, 13 June 2024) < https://www.newsletter.thedailyaus.com.au/p/teen-arrested-fake-ai-images>.
 
+[^DeepfakeWilliams]: Tom Williams, 'Deepfake abuse law "doesn't go far enough"', *Information Age* (online, 24 July 2024) <https://ia.acs.org.au/article/2024/deepfake-law-doesnt-go-far-enough.html>.
+
 [^DeepfakeChina]: Cyberspace Administration of China, Regulations on the Administration of Networked Audiovisual Information Services (18 November 2019) http://www.cac.gov.cn/2019-11/29/c_1576561820967678.htm [perma.cc/E2DQ-ZHCQ].
+
+[^ACMAmisinfo]: ACMA, Online Misinformation, [www.acma.gov.au/online-misinformation](http://www.acma.gov.au/online-misinformation) (accessed 01 September 2024)
+
+[^DIGIcode]: *Australian Code of Practice on Disinformation and Misinformation* s 7.5.
+
+[^OSAs45]: *Online Safety Act 2021* (Cth) s 45(4)
+
+[^OSAs46]: *Online Safety Act 2021* (Cth) s 46(1)(a)(b)
+
+[^BOSEdeterm]: *Online Safety (Basic Online Safety Expectations) Determination* 2022 s8A, s9

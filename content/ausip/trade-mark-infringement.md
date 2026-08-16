@@ -210,7 +210,9 @@ Held that Johnson & Johnson had only used 'caplets' in a descriptive sense as to
 
 [^AUTOREPLACED1991FCA310ENDREPLACE]: [1991] FCA 310
 
-**Video overview by Annabel Burton on [Use as a Trade Mark and Johnson & Johnson](https://www.youtube.com/watch?v=fO5T1o9Yl9E)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Use as a Trade Mark and Johnson & Johnson.
+
 
 </div>
 
@@ -255,7 +257,9 @@ In *[Mars Australia Pty Ltd v Sweet Rewards Pty Ltd](http://www7.austlii.edu.au/
 
 
 
-**Video overview by Sarah Griffin-Breen on [Deceptive Similarity](https://www.youtube.com/watch?v=OVYsCnRN1RM)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Deceptive Similarity.
+
 
 
 
@@ -391,7 +395,9 @@ If trade mark infringement under _TMA_ s 120(1), (2) or (3) is claimed, the defe
 
 * The plaintiff’s trade mark is not valid – cross claim for rectification or removal;[^AUTOREPLACEDTMAs88ENDREPLACE]
 
-* The plaintiff's registered trade mark is generic;[^AUTOREPLACEDTMAs87ENDREPLACE] (See video by Ayaka Nakashima Edwards on [Genericide](https://www.youtube.com/watch?v=Z6Xm3tNJ7xc))
+{: .help }
+> Video unavailable. Please help by creating a new video on ^AUTOREPLACEDTMAs87ENDREPLACE.
+
 
 * The plaintiff's mark contravened a limitation or condition;[^AUTOREPLACEDTMAs86ENDREPLACE] and  
 

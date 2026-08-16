@@ -411,7 +411,9 @@ In NRL v Singtel Optus, NRL owned copyright in broadcasts of sporting fixtures d
 
 #####  CCH Canadian Ltd v Law Society of Upper Canada [2004] 1 S.C.R. 339
 
-**Vide Overview of [CCH Canadian v Law Society](https://www.youtube.com/watch?v=ksuRAKMZ6YE)**
+{: .help }
+> Video unavailable. Please help by creating a new video on CCH Canadian v Law Society.
+
 
 In this case, the Supreme Court of Canada had to decide whether the Law Society of Upper Canada, which maintained the Great Library at Osgoode Hall in Toronto, had infringed copyright because it provided a request-based photocopy service for Law Society members, members of the judiciary and other authorised researchers. Under this ‘custom photocopy service’, legal materials were reproduced by library staff and delivered in person, by mail or by facsimile transmission to requesters. Publishers sued the Law Society, alleging copyright infringement.  The Law Society denied liability on the basis that the copies were made for the purpose of research and were therefore covered by the fair dealing defence.
 
@@ -431,7 +433,9 @@ Relevant to the court’s finding was that the library had an access policy whic
 
 ## European Copyright Directive: the 'link tax' (Article 15)
 
-**Video overview by Katherine Karan on the ['Link Tax'](https://www.youtube.com/watch?v=6xpSsvpuQKU)**
+{: .help }
+> Video unavailable. Please help by creating a new video on 'Link Tax'.
+
 
 Article 15 (previously known as draft Article 11) provides a new copyright rules to allow news websites to be remunerated for their work when displayed or promoted on large commercial platforms, such as Facebook or Google. This does not affect private or non-commercial users. It is designed to increase compensation to the publishers of news articles.
 

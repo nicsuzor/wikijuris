@@ -16,7 +16,9 @@ Help needed! Please contribute your notes to help us finish this page.
 1. Table of Contents
 {:toc}
 
-**Rita Matulionyte [Explains How Online Technologies Affect Our Privacy](https://www.youtube.com/watch?v=67BPeCTpu10)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Explains How Online Technologies Affect Our Privacy.
+
 
 ## International Law
 **Article 12, 1948 Universal Declaration on Human Rights (UDHR)**
@@ -206,21 +208,24 @@ So far, no such case has come up to the Australian High Court but there have bee
 
 ### Privacy Act 1988 (Cth) and the Australian Privacy Principles
 
-**Rita Matulionyte [Explains the Legal Protections for Privacy in Australia](https://www.youtube.com/watch?v=dGTkYs8jT3o)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Explains the Legal Protections for Privacy in Australia.
+
 
 The _Privacy Act 1988_ (Cth) protects information privacy - that is, it prescribes what 'personal information' organisations and federal government agencies can collect about Australians, how that information can be collected and how it must be stored, the circumstances in which the information can be used and disclosed, and what Australian citizens must be told about the information collected about them. Personal information includes things like name, address, phone number, occupation, and sensitive information like health information. Other, state-level information privacy legislation also exists, which usually applies to state government agencies e.g. _Information Privacy Act 2009_ (QLD).
 
-Personal privacy in Australia is protected in a _de facto_ way, through a myriad of laws that are not designed specifically to protect privacy but which may have that effect. For example, a person may be able to preserve the privacy of their home through trespass laws. Privacy of movement may be asserted against another individual who offends against stalking laws. Laws designed to protect reputation, such as defamation laws and passing off laws, may be used to protect a person's privacy in some cases. Finally, there are laws which protect privacy in communications, such as breach of confidence laws and the Telecommunications (Interception and Access) Act 1979 (Cth).
+Personal privacy in Australia is protected in a _de facto_ way, through a myriad of laws that are not designed specifically to protect privacy but which may have that effect. For example, a person may be able to preserve the privacy of their home through trespass laws. Privacy of movement may be asserted against another individual who offends against stalking laws. Laws designed to protect reputation, such as defamation laws and passing off laws, may be used to protect a person's privacy in some cases. Finally, there are laws which protect privacy in communications, such as breach of confidence laws and the Telecommunications (Interception and Access) Act 1979 (Cth). In recent years, there has been a push to 'fill the gaps' in Australian privacy law, moving towards a more direct and express legal framework for protecting personal privacy. The _Privacy and Other Legislation Amendment Act 2024_ (Cth), for example, introduced a statutory cause of action for serious invasions of privacy, which commenced on 10 June 2025 (see [Potential 2024 reforms to the Privacy Act](#2022-privacy-act-review-report) below).
 
 ## The Privacy Act
 
-**Rita Matulionyte [Provides an Introduction to the Privacy Act](https://www.youtube.com/watch?v=34AAdrbr050)** and **Video Overview by Michael Thomson [Explains the Role of the OAIC](https://www.youtube.com/watch?v=D-pebFkJn4o)**
+{: .note }
+> **Third-party explainer:** [Australia Privacy Act 1988 Explained: Your Quick Guide to Australia's Privacy Landscape](https://youtu.be/KxvK_YomqFo). This video is produced by Clym, a privacy compliance vendor. It is general commentary, not a primary or authoritative source, and should be checked against the legislation and the regulator's guidance. For the regulator's own account of the Act, see the Office of the Australian Information Commissioner, [The Privacy Act](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act).
 
 The _Privacy Act 1988_ (Cth) contains 13 Australian Privacy Principles (APPs) in Schedule 1. These principles apply to "APP entities".
 
 An "APP entity" is defined in section 6 to mean a Commonwealth government agency or an organisation. Organisation, in turn, is defined in s. 6C to include individuals, but not small business operators. Small business operators are those businesses with an annual turnover of $3 million or less and which meet the other requirements set out in section 6D.
 
-When considering the APPs, it is important to first identify whether you are dealing with personal information or sensitive information (or both). Sensitive information is defined in section 6 and includes health information.
+When considering the APPs, it is important to first identify whether you are dealing with personal information or sensitive information (or both). Sensitive information is defined in section 6 to cover specified categories of personal information, including health information, genetic information and biometric information.
 
 If a person thinks that their privacy has been breached under the Act, they may complain to the Office of the Australian Information Commissioner (OAIC) under section 36. Section 40 gives the Commissioner the power to investigate the complaint, and under section 52, the Commissioner may make a determination that an APP entity has breached the privacy principles in the Act. The Commissioner may also order that the entity take steps to ensure that the breach is not repeated and to provide redress to the complainant. If an entity does not comply with the Commissioner's declaration, then either the individual complainant or the Commissioner can apply to the Federal Court to have the declaration enforced under s.55A.
 
@@ -228,7 +233,9 @@ Sections 65 and 66 of the Privacy Act provide that entities must cooperate with 
 
 ## The Australian Privacy Principles
 
-**Rita Matulionyte [Explains the APPs](https://www.youtube.com/watch?v=H3-R_ymAAFY)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Explains the APPs.
+
 
 #### APP 1 — Open and transparent management of personal information
 Ensures that APP entities manage personal information in an open and transparent way. This includes having a clearly expressed and up to date APP privacy policy.
@@ -254,7 +261,9 @@ An organisation may only use or disclose personal information for direct marketi
 #### APP 8 — Cross-border disclosure of personal information
 Outlines the steps an APP entity must take to protect personal information before it is disclosed overseas.
 
-**Video Overview of [APP 8](https://www.youtube.com/watch?v=0S6yURu809M)**
+{: .help }
+> Video unavailable. Please help by creating a new video on APP 8.
+
 
 #### APP 9 — Adoption, use or disclosure of government related identifiers
 Outlines the limited circumstances when an organisation may adopt a government related identifier of an individual as its own identifier, or use or disclose a government related identifier of an individual.
@@ -268,7 +277,9 @@ An APP entity must take reasonable steps to protect personal information it hold
 #### APP 12 — Access to personal information
 Outlines an APP entity’s obligations when an individual requests to be given access to personal information held about them by the entity. This includes a requirement to provide access unless a specific exception applies.
 
-**Video Overview of [APP 12](https://www.youtube.com/watch?v=dGB_J8cGjXk)**
+{: .help }
+> Video unavailable. Please help by creating a new video on APP 12.
+
 
 #### APP 13 — Correction of personal information
 Outlines an APP entity’s obligations in relation to correcting the personal information it holds about individuals.
@@ -315,7 +326,9 @@ To assist in elucidating the scope of the word 'about', the Explanatory Memorand
 
 Recently, there has been significant reform in the law and strategy implemented by the Australian Government to improve cyber security with the aim of minimising the number of breaches. In addition to leaking Australian's personal information, cybercrime is having significant economic impacts with the cost on Australian businesses increasing by approximately 14% per annum.
 
-The Australian Signals Directorate (ASD) recorded 150 data breaches in 2022-2023, which was up from 81 breaches recorded in 2021-2022.
+Data breaches sit within a broader picture of cyber security activity, although the two are measured differently. The Australian Signals Directorate (ASD) does not publish a count of data breaches; it reports two separate measures in its annual cyber threat report. The first is the number of cyber security incidents to which the ASD itself responded: over 1,100 in each of 2022–23 and 2023–24, and over 1,200 in 2024–25. The second is the number of cybercrime reports made by the public through ReportCyber: nearly 94,000 in 2022–23, over 87,400 in 2023–24, and over 84,700 in 2024–25.[^asd_actr] Notifications of data breaches are made separately, to the Office of the Australian Information Commissioner under the Notifiable Data Breaches scheme.
+
+[^asd_actr]: Australian Signals Directorate, *Annual Cyber Threat Report 2024–25* (Report, 14 October 2025) <https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/annual-cyber-threat-report-2024-2025>; Australian Signals Directorate, *Annual Cyber Threat Report 2023–24* (Report, 2024); Australian Signals Directorate, *Annual Cyber Threat Report 2022–23* (Report, 2023).
 
 ### Mandatory Data Breach Requirements (Federal)
 
@@ -345,7 +358,17 @@ The Information and Privacy Commission (IPC) is the regulator within NSW for the
 2. System failure — for example no authentication is needed for systems containing confidential information or system automates workflows and redirects them to other users.
 3. Malicious or criminal attack — for example malware, hacking and phishing.
 
-Due to the MNDB scheme only being introduced 10 months ago, there are very few reported cases of eligible breaches and no annual data reportable by the IPC in terms of trends, recommendations or themes within the sector. Comparatively, the OAIC reported 67% of data breaches were criminal/malicious attacks for the last reported period (July-December 2023). Health service providers were the highest reporter of breaches with 104 being recorded, compared to the finance industry which was the next highest reporter with 49 breaches.
+The IPC publishes quarterly statistics under the MNDB scheme, together with periodic trends reports. In the scheme's first seven months of operation (28 November 2023 to 30 June 2024), the Privacy Commissioner received 52 notifications of eligible data breaches: 34 from the NSW government sector, nine from local government and nine from universities. Human error was the dominant cause across all three sectors, and cyber incidents were involved in 25 per cent of all notifications.[^ipc_mndb]
+
+The federal scheme attracts a much larger number of notifications. For the period July to December 2023, the OAIC reported that 67 per cent of notified breaches were attributed to malicious or criminal attack; health service providers notified the most breaches (104), followed by the finance sector (49).[^oaic_2023] For July to December 2024, the OAIC reported that 69 per cent of notified breaches resulted from malicious or criminal attack, and that health service providers remained the sector notifying the highest number of breaches.[^oaic_2024] The most recent figures published by the OAIC cover the 2025 calendar year, in which it received 1,205 notifications — the highest annual total since the scheme commenced in 2018. Of these, 716 were attributed to malicious or criminal activity, and health service providers were again the most affected sector, accounting for 225 notifications, or 19 per cent of the total.[^oaic_2025]
+
+[^ipc_mndb]: Information and Privacy Commission NSW, *Mandatory Notification of Data Breach Scheme Trends Report: November 2023 to June 2024* (Report, October 2024) <https://www.ipc.nsw.gov.au/sites/default/files/2025-01/MNDB_Scheme_Trends_Report_Nov23-Jun24.pdf>.
+
+[^oaic_2023]: Office of the Australian Information Commissioner, *Notifiable Data Breaches Report: July to December 2023* (Report, 2024) <https://www.oaic.gov.au/privacy/notifiable-data-breaches/notifiable-data-breaches-publications/notifiable-data-breaches-report-july-to-december-2023>.
+
+[^oaic_2024]: Office of the Australian Information Commissioner, *Notifiable Data Breaches Report: July to December 2024* (Report, 2025) <https://www.oaic.gov.au/privacy/notifiable-data-breaches/notifiable-data-breaches-publications/notifiable-data-breaches-report-july-to-december-2024>.
+
+[^oaic_2025]: Office of the Australian Information Commissioner, 'Data Breach Notifications Increase to All-Time High in 2025, New NDB Stats Show' (Media Release, 6 July 2026) <https://www.oaic.gov.au/news/media-centre/data-breach-notifications-increase-to-all-time-high-in-2025,-new-ndb-stats-show>.
 
 #### 3-tier Process for Determining Eligible Breaches
 
@@ -388,7 +411,11 @@ In September 2022, Optus became the target of a large cyber attack resulting in 
 
 Following this, in October 2022, Medibank was the victim of a data breach where the hackers gained access to private medical records of approximately 9.7 million Australians. In response to this, the Australian Government has reformed the law surrounding cyber security to attempt to prevent these breaches from occurring again and come up with ways to minimise the impacts of data breaches.
 
+In March 2023, the Australian personal loan and financial services provider Latitude Financial was the subject of one of Australia's largest data breaches. Latitude reported that approximately 7.9 million Australian and New Zealand driver licence numbers and about 53,000 passport numbers had been stolen, together with a further 6.1 million records containing names, addresses, telephone numbers and dates of birth. Those records related not only to current customers but also to former customers and to people who had applied for credit, in both Australia and New Zealand.[^latitude] The figure of "more than 14 million" commonly reported in the media is the sum of these two datasets, which may overlap; it is therefore an approximation of scale rather than a count of distinct individuals. Latitude reported that around 94 per cent of the 6.1 million records had been provided before 2013, and much of the data dated from as early as 2005, which raised questions about why companies continue to hold customer records beyond the periods for which they are required to retain them.
+
 These breaches resulted in reputational damage to these companies as well as individual concerns from the customers regarding potential identity theft and the misuse of their sensitive personal information. Many of these companies were still using outdated encryption procedures and had insufficient monitoring systems. These breaches highlighted the need for the government to act swiftly and reform the law concerning cyber security to initiate stricter regulation and enforcement of cyber security measures.
+
+[^latitude]: Latitude Financial Services, 'Cybercrime Update' (Media Release, 27 March 2023) <https://www.latitudefinancial.com.au/about-us/media-releases/cybercrime-update-27-03-2023.html>.
 
 ### Cyber Security and Data Protection
 
@@ -401,6 +428,15 @@ The Australian Government released the 2023-2030 Australian Cyber Security Strat
 The strategy's aim is preventative in nature but also seeks to achieve resilience and minimise the overall impacts that data breaches can have upon individual's information as well as larger entities. The strategy also has a strong focus on collaboration between different departments to minimise the chance of a breach occurring through appropriate communication. To coincide with the introduction of this strategy, the Australian Government also appointed its first ever Executive Cyber Council. The role of the Council is to facilitate transparent co-management on key cyber security issues.
 
 To facilitate this strategy the Australian Government also introduced the 2023-2030 Australian Cyber Security Action Plan which provides detail about how the strategy will be implemented across different stages. The action plan consists of multiple actions related to each of the six shields under the strategy. For example, one action under the 'strong businesses' shield is to support small and medium businesses to strengthen their cybersecurity.
+
+The _Cyber Security Act 2024_ (Cth) received Royal Assent on 29 November 2024. It implements four of the initiatives set out in the Cyber Security Strategy, and takes effect in stages rather than all at once:
+
+- **Minimum cyber security standards for smart devices** (Part 2). The standards are set by rules made under the Act. The _Cyber Security (Security Standards for Smart Devices) Rules 2025_ (Cth), which cover consumer-grade smart devices, were registered on 4 March 2025 and take effect 12 months after registration, from 4 March 2026, to allow industry time to adjust.
+- **A mandatory ransomware and cyber extortion payment reporting obligation** for certain businesses (Part 3). The obligation and the _Cyber Security (Ransomware Payment Reporting) Rules 2025_ (Cth) started on 30 May 2025. The Rules set an annual turnover threshold of $3 million and require a report within 72 hours of a payment being made.
+- **A limited use obligation for the National Cyber Security Coordinator** (Part 4), which commenced on 30 November 2024, the day after Royal Assent.
+- **A Cyber Incident Review Board** (Part 5). The _Cyber Security (Cyber Incident Review Board) Rules 2025_ (Cth) began on 30 May 2025, after which the Minister for Cyber Security appoints members to the Board.[^csa_comm]
+
+[^csa_comm]: *Cyber Security Act 2024* (Cth) s 2 (commencement table); *Cyber Security (Security Standards for Smart Devices) Rules 2025* (Cth) <https://www.legislation.gov.au/F2025L00276>; *Cyber Security (Ransomware Payment Reporting) Rules 2025* (Cth) <https://www.legislation.gov.au/F2025L00278>; Department of Home Affairs, 'Cyber Security Act' (Web Page) <https://www.homeaffairs.gov.au/cyber-security-subsite/Pages/cyber-security-act.aspx>.
 
 #### Security of Critical Infrastructure Act
 
@@ -442,6 +478,10 @@ The vulnerability of personal information (particularly data breaches) was highl
 (e) Submissions highlighted the need for effective enforcement so as to encourage compliance with the Act and for pathways for recourse where privacy invasions fall outside the scope of the Act. The 2022 Report proposed: **new powers for the Information Commissioner** and further civil penalties regarding public inquiries, investigations and determinations; a review of the feasibility of industry funding models for the OAIC; the **introduction of a statutory tort** for serious invasions of privacy, especially for privacy invasions that fall outside the purview of the Act; and reducing the regulatory burden by streamlining privacy obligations, reducing duplication, and producing a privacy law design guide to ensure future legislative harmony.
 
 In total, the 2022 Report made 116 proposals to the Australian Government to overhaul Australia's privacy laws to ensure they meet the demands of the modern digital age.
+
+The proposal for a statutory tort has since been enacted. The _Privacy and Other Legislation Amendment Act 2024_ (Cth) inserted a new Schedule 2 into the _Privacy Act 1988_ (Cth), creating a statutory tort for serious invasions of privacy. Schedule 2 commenced on 10 June 2025 and applies to invasions occurring on or after that date. The tort covers both intrusion upon seclusion and misuse of information; the plaintiff must show a reasonable expectation of privacy, that the invasion was intentional or reckless, that it was serious, and that the public interest in privacy outweighs any countervailing public interest. It is actionable without proof of damage.[^tort_comm]
+
+[^tort_comm]: *Privacy and Other Legislation Amendment Act 2024* (Cth) s 2 item 8, sch 2 (inserting *Privacy Act 1988* (Cth) sch 2) <https://www.legislation.gov.au/C2024A00128>; Office of the Australian Information Commissioner, 'Statutory Tort for Serious Invasions of Privacy' (Web Page) <https://www.oaic.gov.au/privacy/your-privacy-rights/more-privacy-rights/statutory-tort-for-serious-invasions-of-privacy>.
 
 #### 2023 Government response to the Privacy Act Review Report
 
@@ -517,7 +557,24 @@ Telecommunications companies must retain and secure for 2 years a set of informa
   * communication type
   * location of communications equipment.
 
-22 law enforcement agencies are able to access this information without a needing a court warrant (except if it is a journalist's data)
+Retained data can be accessed without a judicial warrant. Under Chapter 4 of the _Telecommunications (Interception and Access) Act 1979_ (Cth), disclosure is authorised internally, by an authorised officer within the requesting agency, rather than by a court. Existing (historical) data may be sought under s 178 by the broad class of 'enforcement agencies'; prospective data may be sought under s 180 only by a 'criminal law-enforcement agency', a category defined in s 110A to comprise the interception agencies together with the Department of Home Affairs, the Australian Securities and Investments Commission and the Australian Competition and Consumer Commission, plus any additional body the Minister declares under s 110A(3). Because ministerial declarations lapse and are renewed, the number is not fixed: the Department of Home Affairs reported that 20 criminal law-enforcement agencies made authorisations for prospective data in 2024–25, and 21 enforcement agencies made authorisations for existing data.[^tia_agencies] Access to data for the purpose of identifying a journalist's source additionally requires a Journalist Information Warrant.
+
+The scheme remains in force, and has attracted sustained criticism. Civil society organisations — including Digital Rights Watch, the Human Rights Law Centre and Access Now — have described the regime as permitting mass surveillance without adequate safeguards, noting that the retained data has been sought for matters far removed from the serious crimes used to justify the scheme, and have called for access to be confined to serious offences and made subject to a warrant.[^dr_civil] In its statutory review of the regime, the Parliamentary Joint Committee on Intelligence and Security found that improvement was required to ensure the scheme's proportionality, and recommended a series of changes to narrow and clarify it.[^dr_pjcis] The Law Council of Australia made submissions to similar effect.[^dr_lca] The scheme also diverges from the position in the European Union: the Court of Justice of the European Union invalidated the Data Retention Directive in _Digital Rights Ireland_,[^dr_dri] and subsequently held in _Tele2 Sverige_ that European Union law precludes national legislation providing for the general and indiscriminate retention of traffic and location data.[^dr_tele2]
+
+{: .warning}
+This section describes the position as at 2026. The data retention regime is subject to periodic statutory review; check for later developments before relying on it.
+
+[^tia_agencies]: *Telecommunications (Interception and Access) Act 1979* (Cth) ss 110A, 178, 180; Department of Home Affairs, *Telecommunications (Interception and Access) Act 1979 and Part 15 of the Telecommunications Act 1997: Annual Report 2024–25* (Report, 2025) <https://www.homeaffairs.gov.au/criminal-justice/files/telecommunications-interception-and-access-reports/telecommunications-interception-access-act-1979-annual-report-24-25.pdf>.
+
+[^dr_civil]: Human Rights Law Centre, Digital Rights Watch and Access Now, 'Sweeping Metadata Laws Must Be Scaled Back' (Media Release, 19 July 2019) <https://digitalrightswatch.org.au/2019/07/19/sweeping-metadata-laws-must-be-scaled-back/>.
+
+[^dr_pjcis]: Parliamentary Joint Committee on Intelligence and Security, *Review of the Mandatory Data Retention Regime Prescribed by Part 5-1A of the Telecommunications (Interception and Access) Act 1979* (Report, October 2020) <https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Intelligence_and_Security/Completed_Inquiries_46th_Parliament/Dataretentionregime>.
+
+[^dr_lca]: Law Council of Australia, Submission to the Parliamentary Joint Committee on Intelligence and Security, *Review of the Mandatory Data Retention Regime* (2019) <https://lawcouncil.au/resources/submissions/review-of-the-mandatory-data-retention-regime>.
+
+[^dr_dri]: *Digital Rights Ireland Ltd v Minister for Communications, Marine and Natural Resources* (Court of Justice of the European Union, C-293/12 and C-594/12, ECLI:EU:C:2014:238, 8 April 2014).
+
+[^dr_tele2]: *Tele2 Sverige AB v Post- och telestyrelsen* (Court of Justice of the European Union, C-203/15 and C-698/15, ECLI:EU:C:2016:970, 21 December 2016).
 
 ### International surveillance laws: USA PATRIOT Act
 
@@ -537,7 +594,7 @@ Additionally, the Act raises ethical concerns about the balance between national
 
 ## Privacy-enhancing technology
 
-Data security and individual privacy rights are paramount considerations in the digital information age and an urgent global priority. Privacy-enhancing technologies (PETs) employ various measures to secure data by: (i) reducing or eliminating personal data, or (ii) preventing the unnecessary processing of personal data while preserving the functionality of the data system.[^1]
+Data security and individual privacy rights are paramount considerations in the digital information age and an urgent global priority. Privacy-enhancing technologies (PETs) employ various measures to secure data by: (i) reducing or eliminating personal data, or (ii) preventing the unnecessary processing of personal data while preserving the functionality of the data system.[^PETsEDPS]
 
 In addition to traditional cryptographic techniques, corporations and other entities may utilise a variety of PETS to achieve these goals. These include data obfuscation, encrypted data processing, data accountability tools, and federated and distributed analytics. The integration of these emerging technologies promotes a privacy-by-design or default paradigm. This approach typically involves incorporating PETs into system infrastructure from the outset and modifying how organisations collect and use personal data.
 
@@ -559,7 +616,8 @@ Cryptographic encryption requires three critical components:
 
 3. **The receiver of the encrypted data holds the corresponding private key**. The private key is kept secret and is used to decrypt the received data that has been encrypted using the public key.
 
-**Ryan Glister [Explains TOR](https://www.youtube.com/watch?v=oUPAleiqvQI)** and **Sooraj Sidhu [Explains Public Key Encryption](https://www.youtube.com/watch?v=71mSYkuGZtk)**
+{: .note }
+> **Third-party explainer:** [How Tor Works](https://youtu.be/79m7mX3rC8Q), from the 'Mental Outlaw' YouTube channel. This is general commentary from an independent channel, not an authoritative source. For the Tor Project's own documentation, see [About Tor Browser](https://tb-manual.torproject.org/about/) in the Tor Browser User Manual and the [Tor Project support pages](https://support.torproject.org/about/).
 
 ### Regulation
 
@@ -575,7 +633,7 @@ The regulatory powers conferred on the OAIC govern the use of PETs by monitoring
 
 The investigative powers conferred on the OAIC provide authority to compel the provision of information regarding data access, record-keeping, and internal policies. The OAIC may conduct Privacy Assessments to evaluate an entity's compliance with the APPs. Where the OAIC determines non-compliance with or a breach of the *Privacy Act*, it may order data handling practices to cease or change, issue infringement notices, or apply to the Federal Court seeking orders of injunctive relief and financial penalties for repeated and serious breaches.
 
-The OAIC may also publish investigation outcomes and issue public notices regarding potential non-compliance, breaches and privacy issues associated with the practices of specific organisations. This ensures transparency, alerting the public to the privacy risks associated with organisations, and acts as a deterrent for other organisations lacking or inappropriately handling personal information. For example, in the wake of the Facebook and Cambridge Analytica political data-sharing controversy,[^2] the OAIC investigated with the Commissioner, bringing proceedings against Facebook for serious and repeated interferences with privacy. While pending determination, the OAIC has published the particulars of the allegations highlighting breaches of APP 6 and 11.
+The OAIC may also publish investigation outcomes and issue public notices regarding potential non-compliance, breaches and privacy issues associated with the practices of specific organisations. This ensures transparency, alerting the public to the privacy risks associated with organisations, and acts as a deterrent for other organisations lacking or inappropriately handling personal information. For example, in the wake of the Facebook and Cambridge Analytica political data-sharing controversy,[^OAICfacebook] the OAIC investigated with the Commissioner, bringing proceedings against Facebook for serious and repeated interferences with privacy. While pending determination, the OAIC has published the particulars of the allegations highlighting breaches of APP 6 and 11.
 
 ### Case studies
 
@@ -585,17 +643,17 @@ My Health Records facilitates identifying and maintaining patient records, enabl
 
 Healthcare providers must also take reasonable steps to protect IHIs from unauthorised data use, misuse, or loss (s 27). In addition to the range of compliance obligations regarding personal information under the *Privacy Act*, the HI Act sets a higher privacy standard, making individuals liable to face criminal and civil penalties for unauthorised disclosures and data misuse (s 26). Concurrently, a breach of the HI Act will interfere with the affected parties' privacy for any regulatory action taken under the *Privacy Act*.
 
-The OAIC's role involves investigating privacy matters arising from data handling personal information in the My Health Record system. Part V of the *Privacy Act* sets out the OAIC's investigative powers. However, the Information Commissioner has a broader power under s 73(4) to "do all things necessary or convenient to investigate" contraventions of the *My Health Records Act*.[^3]
+The OAIC's role involves investigating privacy matters arising from data handling personal information in the My Health Record system. Part V of the *Privacy Act* sets out the OAIC's investigative powers. However, the Information Commissioner has a broader power under s 73(4) to "do all things necessary or convenient to investigate" contraventions of the *My Health Records Act*.[^MHRguidelines]
 
-While seemingly broad, [commentary](https://www.theguardian.com/australia-news/2019/nov/25/my-health-record-failed-to-manage-cybersecurity-and-privacy-risks-audit-finds) following My Health Record system [audits](Auditor-General%20Report%20No.%2013%20(2019-20),%20Implementation%20of%20the%20My%20Health%20Record%20System%20(Australian%20National%20Audit%20Office).) shows it lacked proper management of shared cyber security risks. Specifically, there was no assurance framework monitoring third-party software connecting to the system nor a means to monitor compliance with the security requirements per the legislation.[^4] At that time, the My Health Record system boasted a robust core infrastructure, though third-party applications, such as a [Microsoft OS update](https://www.abc.net.au/news/2024-08-07/drt-crowdstrike-root-cause-analysis/104193866), could undermine the system's security.
+While seemingly broad, [commentary](https://www.theguardian.com/australia-news/2019/nov/25/my-health-record-failed-to-manage-cybersecurity-and-privacy-risks-audit-finds) following My Health Record system [audits](Auditor-General%20Report%20No.%2013%20(2019-20),%20Implementation%20of%20the%20My%20Health%20Record%20System%20(Australian%20National%20Audit%20Office).) shows it lacked proper management of shared cyber security risks. Specifically, there was no assurance framework monitoring third-party software connecting to the system nor a means to monitor compliance with the security requirements per the legislation.[^MHRaudit] At that time, the My Health Record system boasted a robust core infrastructure, though third-party applications, such as a [Microsoft OS update](https://www.abc.net.au/news/2024-08-07/drt-crowdstrike-root-cause-analysis/104193866), could undermine the system's security.
 
-[^1]: <https://www.edps.europa.eu/data-protection/data-protection/glossary/p_en#pets> European Commission, 2023. Glossary of the European Data Protection Supervisor.
+[^PETsEDPS]: <https://www.edps.europa.eu/data-protection/data-protection/glossary/p_en#pets> European Commission, 2023. Glossary of the European Data Protection Supervisor.
 
-[^2]: Katherine Sainty and Belyndy Rowe, 'OAIC v Facebook' (2020) 39(2) *Communications Law Bulletin* 17.
+[^OAICfacebook]: Katherine Sainty and Belyndy Rowe, 'OAIC v Facebook' (2020) 39(2) *Communications Law Bulletin* 17.
 
-[^3]: See also, *My Health Records (Information Commissioner Enforcement Powers) Guidelines 2016* (Cth).
+[^MHRguidelines]: See also, *My Health Records (Information Commissioner Enforcement Powers) Guidelines 2016* (Cth).
 
-[^4]: See, Auditor-General Report No.13 2019--20 Implementation of the My Health Record System at 17-18
+[^MHRaudit]: See, Auditor-General Report No.13 2019--20 Implementation of the My Health Record System at 17-18
 
 ### Children's online privacy and sharenting
 
@@ -636,7 +694,17 @@ The right to be forgotten (also known as the 'right to erasure') grants individu
 
 In the 2014 case of _Google Spain SL v Agencia Española de Protección de Datos_ (Google Spain), the right to be forgotten was formally recognised as a fundamental right for Europeans.
 
-Mr Mario Costeja Gonzalez filed a complaint against Google Spain and the Spanish Data Protection Agency, because searching his name on Google revealed a link to a 1998 newspaper article, which described information about his personal debts. Gonzalez argued that the information was irrelevant and infringed on his personal privacy. In its decision, the European Court of Justice ruled in Gonzalez's favour. The court stated that individuals had the right to request the removal of links to personal information when the information was 'inadequate, irrelevant, no longer relevant, or excessive'. This gave rise to the right to be forgotten (also known as the right to erasure) for Europeans, which prior to the decision, was far more theoretical and lacked legal definition. The General Data Protection Regulation (GDPR) now outlines the right to erasure under Article 17.
+Mr Mario Costeja Gonzalez filed a complaint against Google Spain and the Spanish Data Protection Agency, because searching his name on Google revealed a link to a 1998 newspaper article, which described information about his personal debts. Gonzalez argued that the information was irrelevant and infringed on his personal privacy. In its decision, the European Court of Justice ruled in Gonzalez's favour. The court stated that individuals had the right to request the removal of links to personal information when the information was 'inadequate, irrelevant, no longer relevant, or excessive'. This gave rise to the right to be forgotten (also known as the right to erasure) for Europeans, which prior to the decision, was far more theoretical and lacked legal definition. The General Data Protection Regulation (GDPR) now provides a formal right to erasure in art 17: under art 17(1) a data subject may require a controller to erase personal data where one of the listed grounds applies, including that the data are no longer necessary for the purposes for which they were collected, that the data subject has withdrawn the consent on which the processing was based and no other legal ground applies, that the data subject has objected to the processing under art 21 and there are no overriding legitimate grounds, or that the data have been unlawfully processed.[^gdpr_17] The right is not limited to search engine results — that is the particular application worked out in _Google Spain_ — and it is subject to the exceptions in art 17(3), which include processing necessary for exercising the right to freedom of expression and information.
+
+The GDPR does not apply only to processing carried out within the European Economic Area. Article 3(1) applies the Regulation to processing in the context of the activities of an establishment of a controller or processor in the Union, regardless of whether the processing itself takes place in the Union. Article 3(2) expressly extends the Regulation to controllers and processors *not* established in the Union, where the processing relates to the offering of goods or services to data subjects in the Union (whether or not payment is required), or to the monitoring of their behaviour as far as that behaviour takes place within the Union.[^gdpr_scope] An Australian business with no European establishment may therefore fall within the GDPR if it targets or tracks people in the Union.
+
+Beyond its formal reach, the Regulation has also influenced practice elsewhere. A survey conducted six months after the GDPR came into force reported that, in 2018, 74 per cent of organisations surveyed in Australia already employed a Data Protection Officer — a role the GDPR requires of many organisations to which it applies.[^gdpr_dpo]
+
+[^gdpr_17]: *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the Protection of Natural Persons with Regard to the Processing of Personal Data and on the Free Movement of Such Data (General Data Protection Regulation)* [2016] OJ L 119/1, art 17 <https://gdpr-info.eu/art-17-gdpr/>.
+
+[^gdpr_scope]: *General Data Protection Regulation* art 3 <https://gdpr-info.eu/art-3-gdpr/>. See also Recitals 22–24.
+
+[^gdpr_dpo]: Francisco Silva, 'The Right to Be Forgotten', *Law Society Journal* (online, 1 December 2023) <https://lsj.com.au/articles/the-right-to-be-forgotten/>. The underlying figure comes from a survey conducted by the professional services firm Deloitte and reported in journalism; it is vendor-generated data rather than an independent study, and should be treated with caution. On the data protection officer role itself, see *General Data Protection Regulation* arts 37–39.
 
 ### Australia and the Right to be Forgotten
 
@@ -646,7 +714,7 @@ Instead, Australians rely on protection from the Australian Privacy Principles (
 
 #### Australian Common Law
 
-In the South Australian case of _Duffy v Google Inc_, whilst not directly referring to the right to be forgotten, the Supreme Court held that because Google Inc had published the personal data of Dr Duffy, they were responsible for its removal. It still remains to be seen whether higher courts in Australia adopt this position in similar cases.
+In the South Australian case of _Duffy v Google Inc_, whilst not directly referring to the right to be forgotten, the Supreme Court held that because Google Inc had published the personal data of Dr Duffy, they were responsible for its removal. This was on the basis that Google was liable as a secondary publisher of snippets and hyperlinks which carried 'pejorative connotation[s]' and defamatory meanings. It still remains to be seen whether higher courts in Australia adopt this position in similar cases.
 
 #### Legislative Reform
 
@@ -674,10 +742,11 @@ Messages are SPAM if they are sent without the prior consent of the recipient. A
 
 To avoid contravening the SPAM Act, electronic messages should only be sent with the consent of the recipient, must contain clear and accurate identification of the sender and how they can be contacted, and should include an unsubscribe facility.
 
-The financial penalties for breaching the SPAM Act are steep and indexed to the Commonwealth penalty unit ($313 from July 1, 2023).  A single day's contravention may result in a penalty of up to $626,000 (2,000x), and repeated breaches of the Act may give rise to penalties of up to $3.13 million (10,000x).
-[Refer - _Crimes Act 1914_(Cth) s 4AA(1); _Spam Act 2003_(Cth) s 25]
+The financial penalties for breaching the Spam Act are expressed in penalty units, the value of which is indexed under s 4AA of the _Crimes Act 1914_ (Cth). Section 25 of the Spam Act tiers the maximum penalties according to whether the contravener is a body corporate, and whether it has a prior record in relation to the same civil penalty provision. Where a body corporate commits two or more contraventions of s 16(1), (6) or (9) — the core prohibitions on sending unsolicited commercial electronic messages — on a particular day, the total penalty must not exceed 2,000 penalty units if it has no prior record, or 10,000 penalty units if it does. The equivalent ceilings for a person who is not a body corporate are 400 and 2,000 penalty units. At the penalty unit value of $364 that applies to contraventions committed on or after 1 July 2026, the two body corporate ceilings are $728,000 and $3.64 million.[^spam_pen]
 
-After an investigation by the Australian Communications and Media Authority (ACMA) found Pizza Hut sent 5,941,109 text and email messages between January 2023 and May 2023 to customers who had not withdrawn consent or not consented to receive those messages. The investigation also found that during that period they had sent 4,364,971 messages without providing an option for customers to unsubscribe. ACMA had previously issued 15 compliance alerts to Pizza Hut, with Pizza Hut eventually paying over $2 million for breaching the Spam Act 2003 (Cth).
+After an investigation by the Australian Communications and Media Authority (ACMA) found Pizza Hut sent 5,941,109 text and email messages between January 2023 and May 2023 to customers who had not withdrawn consent or not consented to receive those messages. The investigation also found that during that period they had sent 4,364,971 messages without providing an option for customers to unsubscribe. ACMA had previously issued 15 compliance alerts to Pizza Hut, with Pizza Hut eventually paying over $2 million for breaching the Spam Act 2003 (Cth). In addition to the penalty, ACMA accepted an enforceable undertaking from Pizza Hut, which required the company to implement auditing, reporting and record-keeping measures, retrain all staff responsible for commercial electronic messages, and appoint an independent consultant to review its policies and practices for sending commercial electronic messages.
+
+[^spam_pen]: *Spam Act 2003* (Cth) ss [24–25](https://www.legislation.gov.au/C2004A01214/latest/text); *Crimes Act 1914* (Cth) s [4AA](https://www.legislation.gov.au/C1914A00012/latest/text); *Crimes (Amount of a Penalty Unit) Instrument 2026* (Cth) <https://www.legislation.gov.au/F2026N00424>. The penalty unit is $364 for contraventions committed on or after 1 July 2026, and was $330 for contraventions committed between 7 November 2024 and 30 June 2026: Australian Securities and Investments Commission, 'Fines and Penalties' (Web Page, 1 July 2026) <https://www.asic.gov.au/about-asic/asic-investigations-and-enforcement/fines-and-penalties>.
 
 
 ## Privacy Protection in India
@@ -701,6 +770,12 @@ The Rules is a subordinate legislation which regulates the collection and disclo
 The rules also control the disclosure and transfer of information. They are permissible in cases where prior permission is obtained from the provider or when it is necessary for the performance of the lawful contract between the business and the provider of information.
 
 Although the implementation of security practices and standards are not mandatory under the Rules, in the event of an information security breach, businesses are required to demonstrate that they have implemented security control measures.
+
+### Digital Personal Data Protection Act 2023
+
+Once fully implemented, the _Digital Personal Data Protection Act 2023_ will supersede the Information Technology Rules 2011 described above. The Act reflects the decision in _Justice KS Puttaswamy (Retd) v Union of India & Ors_ and marks a significant shift in India's privacy law. Its purpose is to regulate the processing of digital personal data, recognising both the individual's right to safeguard their personal data and the need to process such data for lawful purposes.[^ind_dpdp]
+
+[^ind_dpdp]: Nidhi Thakur and Rajinder Verma, 'Right to Privacy in India: From KS Puttaswamy to the Digital Personal Data Protection Act, 2023' (2025) 10(6) *International Journal of Novel Research and Development* 770 <https://www.ijnrd.org/papers/IJNRD2506287.pdf>.
 
 ## The Digital Afterlife
 

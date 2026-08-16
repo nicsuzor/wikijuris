@@ -180,7 +180,9 @@ Click-wrap and browse-wrap agreements differ from how the terms are incorporated
 
 Terms of Use documents are either click-wrap or browse-wrap agreements that typically deal with a series of different legal issues. They might include limitations of liability clauses, standards of acceptable conduct, copyright and other intellectual property policies, dispute resolution mechanisms, and many other terms. These can be very useful for online service providers. Because users must agree to the terms to use the website, these terms become enforceable through contract law and, in some cases, also through the criminal prohibitions on unauthorised access. In practice, the contractual component is the most important: through electronic contracts, online service providers are able to structure their rights and exposure to potential liability in a standardised, low cost manner.
 
-**Matthias Klepper [Explains the Authority In US v Drew that Breach of Terms of Service Does Not Constitute 'Unauthorised' Access](https://www.youtube.com/watch?v=negamd8UFq8)**
+{: .help }
+> Video unavailable. Please help by creating a new video on Explains the Authority In US v Drew that Breach of Terms of Service Does Not Constitute 'Unauthorised' Access.
+
 
 Terms of Use documents are often criticised for the problems they pose for consumers. Click-wrap contracts are generally enforceable, regardless of whether the consumer has actually read the terms or not. Many firms abuse this system by including quite harsh terms in the fine print of the contract in order to minimise their potential risk. In response to this general concern, Australia has recently introduced unfair terms legislation that will limit the enforceability of standard form contracts that are deemed to be unfair.
 

@@ -34,7 +34,9 @@ For more information on the new duration provisions see the Commonwealth [guide 
 
 ## Extension of the copyright term
 
-The topic of duration of copyright is contentious in Australia. Prior to 2005 the duration of protection for literary, dramatic, musical and artistic works was life of the author plus 50 years. In 2005 this term was extended by 20 years due to the _Australia-United States Free Trade Agreement_, (_AUSFTA_) which required Australia to align its copyright law with that of the United States of America. The extension provisions are retrospective, which means that the extended duration applies to all works, not just works that were created after the extension came into force. Similarly, the duration of protection for photographs was previously 50 years, but also extended in line will all other artistic works due to the _AUSFTA_. There were special provisions made to ensure that any persons who exploited photographs prior to 16 August 2004 (the date to which the _US Free Trade Agreement Implementation Act 2004_ (Cth) came into existence) under the assumption that the works had entered the public domain were not found in breach of copyright. Since the duration terms where extended, there has been ongoing debate in Australia regarding what the appropriate duration for copyright protection might be.
+The topic of duration of copyright is contentious in Australia. Prior to 2005 the duration of protection for literary, dramatic, musical and artistic works was life of the author plus 50 years. In 2005 this term was extended by 20 years due to the _Australia-United States Free Trade Agreement_, (_AUSFTA_) which required Australia to align its copyright law with that of the United States of America. The Australian Government used a prospective copyright term extension, which means that the extended duration only applied to works that were, at the time, covered by copyright protections. Works whose copyright protections had expired by 1 January 2005 were not revived by the amendment. Similarly, the duration of protection for photographs was previously 50 years, but was also extended in line with all other artistic works due to the _AUSFTA_. Transitional provisions protected parties who had already committed to exploiting material on the expectation that its copyright would expire under the old term. Where a person had entered into a written agreement before 16 August 2004 (the date the _US Free Trade Agreement Implementation Act 2004_ (Cth) received Royal Assent) to do an act at a time when copyright would have expired but for the extension, the copyright owner could object and provide reasonable compensation; if the owner did not, the person could go ahead and do the act, within two years of the new term commencing, without infringing.[^ausftatrans] Since the duration terms were extended, there has been ongoing debate in Australia regarding what the appropriate duration for copyright protection might be.
+
+[^ausftatrans]: _US Free Trade Agreement Implementation Act 2004_ (Cth) sch 9 items 118 (photographs), 132 (works and other subject matter).
 
 ## Current Provisions
 
@@ -56,16 +58,12 @@ Since the requirements of the _AUSFTA_ were introduced, the duration of copyrigh
 As of January 1, 2019 copyright in unpublished literary, dramatic, and musical works (excluding computer programs), or works where the author is anonymous or using a pseudonymous was amended. Works that have not been made public or works where the identity of the author is not generally known (orphan works), are not protected by perpetual copyright. These works now have a fixed copyright term.[^AUTOREPLACEDCAs33ENDREPLACE]
 
 
-[^AUTOREPLACEDCAs33ENDREPLACE]: _CA_ s 33
-
 #### Unpublished Works
 
 Works that have not been made public will be protected by copyright for the same period as works that have been made public. Works that have not been made public will generally be protected for 70 years from the year in which the author dies. However, if a dramatic, musical or literary work (other than a computer program), or an engraving, is first made public before 1 January 2019 and the author died before the work was first made public, it will be protected by copyright for 70 years after the year in which the work was first made public. Similarly, if a dramatic, musical or literary work (other than a computer program), or an engraving, was not made public before 1 January 2019 and the author died before 1 January 1948, copyright will have expired.
 
 The copyright term for films and sound recordings, and copyright material owned by international organisations that have not been made public was also amended. In addition, the copyright term for works, sound recordings and films owned by a government were standardised. Unpublished material is no longer in perpetual copyright.[^AUTOREPLACEDCAs93ENDREPLACE]
 
-
-[^AUTOREPLACEDCAs93ENDREPLACE]: _CA_ s 93
 
 For copyright material first made public before 1 January 2019 the copyright continues to subsist until 70 years after the calendar year in which the copyright material was first made public if the material was first made public before 1 January 2019.
 
@@ -78,8 +76,6 @@ For copyright material never made public, and material first made public on or a
 
   * If the subject matter other than works is not made public before the end of 50 years after the calendar year in which the material was made, copyright subsists for 70 years after the calendar year in which the copyright material was made.[^AUTOREPLACEDCAs933ENDREPLACE]
 
-
-[^AUTOREPLACEDCAs933ENDREPLACE]: _CA_ s 93(3)
 
 #### Orphan Works
 
