@@ -14,7 +14,7 @@ nav_order: 94
 {:toc}
 
 {: .help }
-> Video unavailable. Please help by creating a new video on Carlie McCulloch.
+> Video unavailable. Please help by creating a new introductory video.
 
 
 Several jurisdictions around the world have introduced 'graduated response' or 'three-strikes' regimes. These are designed to require ISPs to pass on notices of alleged infringement to their users. Rightsholders employ private investigation or monitoring firms to detect the IP address of computers that appear to be filesharing their content, predominantly over the BitTorrent protocol. Rightsholders are able to trace this IP address as far as an ISP. They then send notices to the ISP, and ask ISPs to match the IP address and time details against a particular user account.

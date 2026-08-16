@@ -87,7 +87,7 @@ What if an e-contract is broken by repudiation?
 ### Torts Law
 
 {: .help }
-> Video unavailable. Please help by creating a new video on Jennifer Davy on the Lex Loci Delicti Rule.
+> Video unavailable. Please help by creating a new video on the Lex Loci Delicti Rule.
 
 
 The general _lex loci delicti_ rule is that courts have jurisdiction over the dispute if the tort occurred inside the territory of the court. See the Choice of Law section below.

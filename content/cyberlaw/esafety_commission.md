@@ -14,7 +14,7 @@ nav_order: 91
 {:toc}
 
 {: .help }
-> Video unavailable. Please help by creating a new video on Philippa Dryden.
+> Video unavailable. Please help by creating a new video.
 
 
 
@@ -45,4 +45,4 @@ The review examines five key areas:
 4. Global strategies for addressing online harms
 5. Regulating digital environments amid technological change
 
-This review process provides an opportunity to assess the Act's effectiveness in addressing evolving online safety challenges and ensure the regulatory framework remains fit for purpose.  
+This review process provides an opportunity to assess the Act's effectiveness in addressing evolving online safety challenges and ensure the regulatory framework remains fit for purpose.

@@ -55,12 +55,6 @@ Some networks are easier to regulate than others. More decentralised networks, s
 
 
 
-{: .help }
-> Video unavailable. Please help by creating a new video on Mitch Huges.
-
-
-
-
 
 # The Dawn of the Internet: A Declaration of the Independence of Cyberspace
 

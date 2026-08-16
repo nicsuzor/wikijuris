@@ -229,7 +229,7 @@ Aimster locked itself out of any knowledge by encrypting the network. 7th Circui
 ##### Ellison v Robertson, 357 F.3d 1072 (9th Cir. 2004)
 
 {: .help }
-> Video unavailable. Please help by creating a new video on Chris Pham.
+> Video unavailable. Please help by creating a new video.
 
 
 AOL had a repeat infringer policy, but had changed its designated email address for complaints. AOL never received Ellison's complaints, and never bounced back the wrongly addressed email messages. There was therefore a triable question of fact as to whether AOL had 'reasonably implemented' its repeat infringer policy.

@@ -395,10 +395,6 @@ If trade mark infringement under _TMA_ s 120(1), (2) or (3) is claimed, the defe
 
 * The plaintiff’s trade mark is not valid – cross claim for rectification or removal;[^AUTOREPLACEDTMAs88ENDREPLACE]
 
-{: .help }
-> Video unavailable. Please help by creating a new video on ^AUTOREPLACEDTMAs87ENDREPLACE.
-
-
 * The plaintiff's mark contravened a limitation or condition;[^AUTOREPLACEDTMAs86ENDREPLACE] and  
 
 * Removal for non-use.[^AUTOREPLACEDTMAs92ENDREPLACE]
