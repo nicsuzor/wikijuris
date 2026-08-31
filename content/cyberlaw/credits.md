@@ -130,6 +130,22 @@ We are very grateful for contributions from students and members of the public, 
 * Ed Green
 * Emily Guiver
 * Katherine Karan
+* Anabella Diamandis-Nikoletatos
+* Brodie Horn
+* Charlotte Carey
+* Charlotte Coakes-Jenkins
+* Dean Attard
+* Denee Smith
+* Eleora Tawake
+* Georgia Cooper
+* Grace Moutia
+* Harry Saperas
+* Hasnain Younas
+* Jasmine Clark
+* Kaila Andrews
+* Malakhi Gray
+* Olivia Lao
+* Rebecca Dumas
 
 The textbook also includes material from:
 
