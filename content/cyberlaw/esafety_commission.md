@@ -19,7 +19,7 @@ nav_order: 91
 
 In 2017 the Act was amended and renamed, extending the Commissioner's remit from children to all Australians.[^es_2017] Between 2017 and 2021 the _Enhancing Online Safety Act 2015_ (Cth) was amended further, expanding the Commissioner's powers.[^es_endnote] By 2021 the office administered not only the cyber-bullying complaints scheme but also functions relating to online content and to the non-consensual sharing of intimate images.[^es_eosa3]
 
-The _Online Safety Act 2021_ (Cth) replaced that framework and commenced in 2022.[^es_transitional] It consolidated the Commissioner's functions and added others, including the content removal schemes, the Basic Online Safety Expectations, the abhorrent violent material provisions, and — more recently — the social media minimum age obligations.[^es_osa4] Those schemes are described in the [Content Regulation and Online Classification](../content/) chapter.
+The _Online Safety Act 2021_ (Cth) replaced that framework[^es_transitional] and commenced in 2022.[^es_osa_commence] It consolidated the Commissioner's functions and added others, including the content removal schemes, the Basic Online Safety Expectations, the abhorrent violent material provisions, and — more recently — the social media minimum age obligations.[^es_osa4] Those schemes are described in the [Content Regulation and Online Classification](../content/) chapter.
 
 ## Statutory review of the Online Safety Act
 
@@ -72,7 +72,9 @@ It also recommended decoupling the _Online Safety Act_ from the National Classif
 
 [^es_eosa3]: _Enhancing Online Safety Act 2015_ (Cth) s 3.
 
-[^es_transitional]: _Online Safety (Transitional Provisions and Consequential Amendments) Act 2021_ (Cth) s 3; eSafety Commissioner, 'What We Do' (Web Page) <https://www.esafety.gov.au/about-us/what-we-do>.
+[^es_transitional]: _Online Safety (Transitional Provisions and Consequential Amendments) Act 2021_ (Cth) sch 1 item 1; eSafety Commissioner, 'What We Do' (Web Page) <https://www.esafety.gov.au/about-us/what-we-do>.
+
+[^es_osa_commence]: _Online Safety Act 2021_ (Cth) s 2 (table item 1).
 
 [^es_osa4]: _Online Safety Act 2021_ (Cth) s 4.
 
@@ -84,7 +86,7 @@ It also recommended decoupling the _Online Safety Act_ from the National Classif
 
 [^es_tabled]: Michelle Rowland, 'Report of the Online Safety Act Review Released' (Media Release, 4 February 2025) <https://minister.infrastructure.gov.au/rowland/media-release/report-online-safety-act-review-released>.
 
-[^es_report]: Delia Rickard, _Report of the Statutory Review of the Online Safety Act 2021_ (Report, 31 October 2024) <https://www.infrastructure.gov.au/sites/default/files/documents/report-of-the-statutory-review-of-the-online-safety-act-2021-february-2025.pdf>.
+[^es_report]: Delia Rickard PSM, _Report of the Statutory Review of the Online Safety Act 2021_ (Report, October 2024) <https://www.infrastructure.gov.au/sites/default/files/documents/report-of-the-statutory-review-of-the-online-safety-act-2021-february-2025.pdf>.
 
 [^es_dutyrec]: Ibid 12, 50.
 

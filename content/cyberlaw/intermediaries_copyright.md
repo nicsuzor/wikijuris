@@ -24,7 +24,7 @@ It is this idea of authorising someone else to commit copyright infringement tha
 
 ### University of New South Wales v Moorhouse
 
-One of the leading authorisation case in Australia is _[University of New South Wales v Moorhouse](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse)_ (1975) 6 ALR 193 (“Moorhouse”). It provides the modern foundation for the authorisation doctrine in Australia.
+One of the leading authorisation case in Australia is _[University of New South Wales v Moorhouse](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse)_ (1975) 133 CLR 1 (“Moorhouse”). It provides the modern foundation for the authorisation doctrine in Australia.
 
 In that case, the Australian Copyright Council arranged for a graduate of the University of New South Wales (UNSW) to photocopy an infringing portion of a book by Frank Moorhouse entitled, The Americans, Baby, on a photocopier in the UNSW library. It then brought a test case against UNSW, claiming that UNSW had authorised the infringing reproduction by making photocopying machines available in its library without exercising supervision over how the machines were used and without displaying proper notices as to copyright exceptions and limitations. The High Court unanimously held that UNSW was liable for authorising infringement.
 
@@ -37,7 +37,7 @@ Two separate bases for finding authorisation were advanced:
 In the ensuing years, the most influential judgment proved to be that of Justice Gibbs. In particular, His Honour’s statement: [^AUTOREPLACEDUniversityofNewSouthWalesvMoorhousehttpwwwaustliieduaucgibinsinodispaucasescthHCA197526htmlstem0synonyms0queryUniversity20Moorhouse19756ALR193200GibbsJAUTOREPLACED]
 
 
-[^AUTOREPLACEDUniversityofNewSouthWalesvMoorhousehttpwwwaustliieduaucgibinsinodispaucasescthHCA197526htmlstem0synonyms0queryUniversity20Moorhouse19756ALR193200GibbsJAUTOREPLACED]: University of New South Wales v Moorhouse [http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse]((1975) 6 ALR 193), 200 (Gibbs J).
+[^AUTOREPLACEDUniversityofNewSouthWalesvMoorhousehttpwwwaustliieduaucgibinsinodispaucasescthHCA197526htmlstem0synonyms0queryUniversity20Moorhouse19756ALR193200GibbsJAUTOREPLACED]: University of New South Wales v Moorhouse [(1975) 133 CLR 1](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1975/26.html?stem=0&synonyms=0&query=University%20Moorhouse); (1975) 6 ALR 193, 200 (Gibbs J).
 
 
 > It seems to me… that a person who has under his control the means by which an infringement of copyright may be committed – such as a photocopying machine – and who makes it available to other persons, knowing, or having reason to suspect, that it is likely to be used for the purpose of committing an infringement, and omitting to take reasonable steps to limit its use to legitimate purposes, would authorize any infringement that resulted from its use.
@@ -532,7 +532,7 @@ The design of that mechanism is the point of interest. Because the panel cannot 
 
 ### Outcomes
 
-No platform has been designated. The prospect of designation, and of the arbitration that would follow, was sufficient to bring the major platforms to negotiate: Google and Meta entered commercial agreements with a range of Australian news organisations, from the largest publishers to smaller independent outlets.[^nmbc_sims] This is the sense in which the Code has been described as operating in the shadow of the law — its effects have been produced almost entirely by the threat of its operation rather than by its application.[^nmbc_mcintyre]
+No platform has been designated. The prospect of designation, and of the arbitration that would follow, was sufficient to bring the major platforms to negotiate: Google and Meta entered commercial agreements with a range of Australian news organisations, from the largest publishers to smaller independent outlets.[^nmbc_treasury] This is the sense in which the Code operates in the shadow of the law: its effects have been produced almost entirely by the threat of its operation rather than by its application.
 
 The response was not uniform. In February 2021, while the Bill was before Parliament, Meta restricted the sharing and viewing of Australian news content on Facebook, a restriction it reversed after amendments were agreed. Meta has since indicated that it does not intend to renew its Australian agreements, which raises the question of what the Code can achieve against a platform that is willing to withdraw from carrying news altogether.
 
@@ -540,14 +540,14 @@ The response was not uniform. In February 2021, while the Bill was before Parlia
 
 The model has been followed elsewhere; Canada enacted the _Online News Act_ in 2023, and comparable proposals have been considered in other jurisdictions.[^nmbc_canada]
 
-Two criticisms recur. The first is distributional: the benefits are said to accrue disproportionately to large established publishers, which are best placed to negotiate, rather than to the smaller and independent outlets whose sustainability was part of the rationale. The second is transparency: because the agreements are commercial and confidential, neither the amounts nor the conditions attached to them are public, which makes it difficult to assess whether the scheme has in fact supported public interest journalism.[^nmbc_mcintyre]
+Two criticisms recur. The first is distributional: the benefits are said to accrue disproportionately to large established publishers, which are best placed to negotiate, rather than to the smaller and independent outlets whose sustainability was part of the rationale. The second is transparency: because the agreements are commercial and confidential, neither the amounts nor the conditions attached to them are public, which makes it difficult to assess whether the scheme has in fact supported public interest journalism.[^nmbc_transparency]
 
 [^nmbc_dpi]: Australian Competition and Consumer Commission, _Digital Platforms Inquiry — Final Report_ (Report, 26 July 2019) <https://www.accc.gov.au/publications/digital-platforms-inquiry-final-report>.
 
 [^nmbc_act]: _Treasury Laws Amendment (News Media and Digital Platforms Mandatory Bargaining Code) Act 2021_ (Cth), inserting _Competition and Consumer Act 2010_ (Cth) pt IVBA.
 
-[^nmbc_sims]: Rod Sims, 'The ACCC's Digital Platform Services Inquiry and the News Media Bargaining Code' (2022) 44(2) _Sydney Law Review_ 237.
+[^nmbc_treasury]: Australian Treasury, _News Media and Digital Platforms Mandatory Bargaining Code: The Code's First Year of Operation_ (Report, November 2022) 1, 5 <https://treasury.gov.au/sites/default/files/2022-11/p2022-343549.pdf>.
 
-[^nmbc_mcintyre]: T J McIntyre, 'Bargaining in the Shadow of the Law: The Case of Australia's News Media Code' (2021) 12 _Internet Policy Review_ <https://policyreview.info/articles/analysis/bargaining-shadow-law-case-australias-news-media-code>.
+[^nmbc_transparency]: Australian Treasury, _News Media and Digital Platforms Mandatory Bargaining Code: The Code's First Year of Operation_ (Report, November 2022) 8, 10 <https://treasury.gov.au/sites/default/files/2022-11/p2022-343549.pdf>.
 
 [^nmbc_canada]: _Online News Act_, SC 2023, c 23 (Canada).

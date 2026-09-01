@@ -275,7 +275,7 @@ An intermediary publisher can only rely on the innocent dissemination defence un
 </div>
 
 {: .warning}
-> The reasoning in the 2018 Court of Appeal decision above was overturned on appeal. See _Google LLC v Defteros_ [2022] HCA 27, immediately below.
+> The reasoning in the 2018 decision above — that providing a hyperlinked search result amounts to publication — no longer represents the law. The High Court rejected that approach in _Google LLC v Defteros_ [2022] HCA 27, immediately below. Formally, the High Court's appeal was from the Court of Appeal's later, substantive decision in _Defteros v Google LLC_ [2021] VSCA 167, which had upheld Google's loss at trial; the 2018 interlocutory decision was not itself the subject of the appeal.
 
 {: .example }
 > ##### _Google LLC v Defteros_ [2022] HCA 27
@@ -296,9 +296,9 @@ An intermediary publisher can only rely on the innocent dissemination defence un
 >
 > The result also aligns Australian law with the Canadian position in _Crookes v Newton_, below, which the Court of Appeal had declined to follow.
 
-[^deft_hca]: _Google LLC v Defteros_ [[2022] HCA 27](https://eresources.hcourt.gov.au/showCase/2022/HCA/27).
+[^deft_hca]: _Google LLC v Defteros_ [[2022] HCA 27](https://www.hcourt.gov.au/sites/default/files/eresources/2022/HCA/27.pdf).
 
-[^deft_kiefel]: Ibid [1]–[55] (Kiefel CJ and Gleeson J). See also Tom Alchin, 'Google LLC v Defteros: Defamation, Publication and Hyperlinked Search Results' (2023) 45(1) _Sydney Law Review_ 141.
+[^deft_kiefel]: Ibid [53] (Kiefel CJ and Gleeson J). See also Tom Alchin, 'Google LLC v Defteros: Defamation, Publication and Hyperlinked Search Results' (2023) 45(1) _Sydney Law Review_ 141.
 
 [^deft_voller]: _Fairfax Media Publications Pty Ltd v Voller_ (2021) 273 CLR 346.
 

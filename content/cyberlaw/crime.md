@@ -171,9 +171,9 @@ Online grooming is grooming conducted through communications services, whether t
 
 ### Prevalence
 
-The Australian Centre to Counter Child Exploitation reported a 45% increase in online child exploitation reports in the 2023–24 financial year.[^cse_accce]
+The Australian Centre to Counter Child Exploitation recorded 58,503 reports of online child abuse in the 2023–24 financial year, a 45% increase on the previous financial year's total of 40,232 reports.[^cse_accce]
 
-Contextual data on children's use of online services is relevant to exposure. eSafety research found that 95% of 13 to 15 year olds and 80% of 8 to 12 year olds had used at least one social media service, notwithstanding platform terms restricting accounts to users aged 13 and over.[^cse_behind] Earlier research found that 60% of Australians aged 8 to 17 had communicated with someone they first met online, and 12.5% had met such a person in person.[^cse_mindgap]
+Contextual data on children's use of online services is relevant to exposure. eSafety research found that 95% of 13 to 15 year olds and 80% of 8 to 12 year olds had used at least one social media service, notwithstanding platform terms restricting accounts to users aged 13 and over.[^cse_behind] Earlier research found that 55% of Australians aged 8 to 17 had communicated with someone they first met online, and 12% had met such a person in person.[^cse_mindgap]
 
 ### Commonwealth offences
 
@@ -191,18 +191,18 @@ Related offences in the same subdivision include s 474.26 (using a carriage serv
 
 **Australia (Commonwealth).** The principal carriage service offences are s 474.22, which covers accessing, transmitting, publishing, distributing, advertising or soliciting child abuse material using a carriage service, and s 474.23, which covers possessing, controlling, producing, supplying or obtaining such material for use through a carriage service. Each carries a maximum penalty of 15 years' imprisonment.[^cse_47422]
 
-**New South Wales.** Section 91FB of the _Crimes Act 1900_ (NSW) defines child abuse material as material that depicts or describes, in a way that reasonable persons would regard as being in all the circumstances offensive, a person who is, appears to be, or is implied to be, under 16 and who is engaged in or apparently engaged in a sexual pose or sexual activity, or whose private parts are depicted or described.[^cse_91fb] Production, dissemination and possession offences are in s 91H.[^cse_91h]
+**New South Wales.** Section 91FB of the _Crimes Act 1900_ (NSW) defines child abuse material as material that depicts or describes, in a way that reasonable persons would regard as being in all the circumstances offensive, a person who is, appears to be, or is implied to be, a child: as a victim of torture, cruelty or physical abuse; engaged in or apparently engaged in a sexual pose or sexual activity; in the presence of another person who is engaged or apparently engaged in a sexual pose or sexual activity; or whose private parts are depicted or described. 'Child' is defined in s 91FA as a person under the age of 18 years.[^cse_91fb] Production, dissemination and possession offences are in s 91H.[^cse_91h]
 
 ### Enforcement
 
 Enforcement is coordinated across agencies. The Australian Centre to Counter Child Exploitation brings together the Australian Federal Police and partner agencies, working alongside State arrangements including the Joint Child Protection Response Programme and specialist units such as Queensland's Task Force Argos.
 
-The ACCCE reported that in 2022–23 it received 40,232 reports, that the AFP charged 185 people with 925 child exploitation related offences, that 141 victims were identified, and that 120 children were removed from harm.[^cse_stats]
+The ACCCE reported that in 2022–23 it received 40,232 reports, that the AFP made 186 arrests resulting in 925 child exploitation related charges, that 141 victims were identified, and that 120 children were removed from harm.[^cse_stats]
 
 {: .example }
 > **A multi-agency prosecution (2025)**
 >
-> In July 2025 the Australian Federal Police charged a 26-year-old man following an investigation into alleged offending against ten children under the age of six at out-of-school-hours care services in Sydney. The charges laid, and the maximum penalties reported by the AFP, were: nine counts of aggravated use of a child under 14 to produce child abuse material under s 91G(3) of the _Crimes Act 1900_ (NSW) (20 years); one count under s 91G(1)(a) (14 years); two counts of possessing child abuse material under s 91H(2) (10 years); and one count of failing to comply with an order to provide access to a device under s 3LA(6) of the _Crimes Act 1914_ (Cth) (10 years).[^cse_afp]
+> Following a search warrant executed at his home on 25 September 2024 and a further arrest on 11 October 2024, the Australian Federal Police charged a 26-year-old man over alleged offending against ten children aged six and under at out-of-school-hours care services in Sydney. He has been remanded in custody since 12 October 2024. Non-publication orders over the investigation were revoked in July 2025, when the AFP made public the charges laid and the maximum penalties, which were: nine counts of aggravated use of a child under 14 to produce child abuse material under s 91G(3) of the _Crimes Act 1900_ (NSW) (20 years); one count under s 91G(1)(a) (14 years); two counts of possessing child abuse material under s 91H(2) (10 years); and one count of failing to comply with an order to provide access to a device under s 3LA(6) of the _Crimes Act 1914_ (Cth) (10 years).[^cse_afp]
 >
 > The last charge is the notable one for present purposes. Section 3LA allows a magistrate to order a person to assist in accessing data on a seized device, and non-compliance is itself an offence. It is the mechanism by which the encryption of a device is addressed in the ordinary course of an investigation, and it sits alongside the industry assistance framework discussed in the [Privacy and Surveillance](../privacy/#law-enforcement-powers) chapter.
 
@@ -214,9 +214,9 @@ The statutory review of the _Online Safety Act_ recommended the adoption of an o
 
 The minimum age obligations that commenced in December 2025 are relevant but not directed at this problem: they require services to take reasonable steps to prevent under-16s from holding accounts, and are enforced against providers rather than against children or parents. Online games and some messaging services are excluded from those obligations, so the services on which grooming most often occurs are not uniformly covered.
 
-[^cse_rc]: _Royal Commission into Institutional Responses to Child Sexual Abuse_ (Final Report, December 2017) vol 1, 323.
+[^cse_rc]: _Royal Commission into Institutional Responses to Child Sexual Abuse_ (Final Report, December 2017) vol 2, 40.
 
-[^cse_accce]: Australian Centre to Counter Child Exploitation, 'Research and Statistics' (Web Page) <https://www.accce.gov.au/resources/research-and-statistics>.
+[^cse_accce]: Australian Federal Police, 'Reports of Child Exploitation to AFP-led ACCCE Increase 45% in Past Financial Year' (Media Release, 2 September 2024) <https://www.afp.gov.au/news-centre/media-release/reports-child-exploitation-afp-led-accce-increase-45-past-financial-year>.
 
 [^cse_behind]: eSafety Commissioner, _Behind the Screen: The Reality of Age Assurance and Social Media Access for Young Australians_ (Transparency Report, February 2025).
 
@@ -238,7 +238,7 @@ The minimum age obligations that commenced in December 2025 are relevant but not
 
 [^cse_afp]: Australian Federal Police, 'Sydney Man Charged with Allegedly Producing Child Abuse Material at Six Out-of-School Hours Care Services' (Media Release, 31 July 2025) <https://www.afp.gov.au/news-centre/media-release/sydney-man-charged-allegedly-producing-child-abuse-material-six-out>.
 
-[^cse_review]: Delia Rickard, _Statutory Review of the Online Safety Act 2021_ (Report, October 2024) recs 4–5.
+[^cse_review]: Delia Rickard PSM, _Report of the Statutory Review of the Online Safety Act 2021_ (Report, October 2024) recs 4–5.
 
 # Private Law: Electronic Contracts
 

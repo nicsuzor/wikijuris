@@ -210,7 +210,7 @@ In June 2025, changes to the _Privacy Act 1988_ (Cth) took effect that introduce
 
 #### Background
 
-Until the early 2000s, Australian law proceeded on the assumption that there was no general right to privacy, an assumption usually traced to _Victoria Park Racing and Recreation Grounds Co Ltd v Taylor_.[^srp_vicpark] In _Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd_, the High Court departed from that view, and Callinan J indicated that _Victoria Park_ was not applicable in a case of invasion of privacy.[^srp_lenah] _Victoria Park_ had previously been described as an obstacle to the development of an Australian tort for invasion of privacy.[^srp_butler]
+Until the early 2000s, Australian law proceeded on the assumption that there was no general right to privacy, an assumption usually traced to _Victoria Park Racing and Recreation Grounds Co Ltd v Taylor_.[^srp_vicpark] In _Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd_, Gummow and Hayne JJ said that _Victoria Park_ 'does not stand in the path of the development of such a cause of action', and Callinan J observed that the decision 'is unlikely to apply in a case in which there has been physical interference with a plaintiff's property'.[^srp_lenah] _Victoria Park_ had previously been described as an obstacle to the development of an Australian tort for invasion of privacy.[^srp_butler]
 
 _Lenah Game Meats_ stopped short of formally recognising such a tort. Reviews of Australia's privacy laws in the years that followed suggested that statutory reform would be needed to resolve the uncertainty.
 
@@ -231,7 +231,7 @@ To extend the right to privacy to individuals, Schedule 2 was inserted into the 
 To succeed in an action under the statutory tort for serious invasion of privacy, the plaintiff must prove that:
 
 - the defendant invaded the plaintiff's privacy by intruding upon the plaintiff's seclusion, or by misusing information that relates to the plaintiff;
-- the plaintiff had a reasonable expectation of privacy in the circumstances;
+- a person in the position of the plaintiff would have had a reasonable expectation of privacy in all of the circumstances;
 - the invasion of privacy was intentional or reckless;
 - the invasion of privacy was serious; and
 - the public interest in the plaintiff's privacy outweighed any countervailing public interest.[^srp_elements]
@@ -244,11 +244,17 @@ Consultation before the ALRC's _Serious Invasions of Privacy in the Digital Era_
 
 That concern was carried into the legislation through a public interest balancing test. Courts are directed to weigh countervailing public interests, such as freedom of expression and the role of the media and journalism, when determining liability, so that the tort cannot be used to suppress matters of legitimate public concern.
 
-Schedule 2 also provides defences and exemptions, including where an invasion of privacy is done under lawful authority, with consent, or out of necessity; defences relating to publication; and exemptions for agencies such as intelligence and law enforcement bodies, and for people disclosing to those bodies.[^srp_defences]
+Schedule 2 also provides defences and exemptions. The defences, in Part 2, are that the invasion of privacy was required or authorised by or under an Australian law or a court or tribunal order; that the plaintiff, or a person with lawful authority to do so, expressly or impliedly consented; that the defendant reasonably believed the invasion was necessary to prevent or lessen a serious threat to the life, health or safety of a person; that the invasion was incidental to the lawful defence of persons or property and was proportionate, necessary and reasonable; and, where the invasion involved publication, that the defendant could establish a corresponding defamation defence of absolute privilege, publication of public documents, or fair report of proceedings of public concern.[^srp_defences]
+
+The exemptions, in Part 3, remove whole categories of conduct from the scheme. They cover agencies and State and Territory authorities and their staff acting in good faith, law enforcement bodies and intelligence agencies (including where the invasion involves disclosure of information to such a body), journalists, and people under 18.[^srp_exemptions]
+
+The journalism exemption is the most significant of these for the media-freedom concerns described above, and goes further than the public interest balancing test. Schedule 2 does not apply to an invasion of privacy by a journalist, a journalist's employer or a person engaging a journalist, or a person assisting a journalist, to the extent that the invasion involves the collection, preparation for publication or publication of journalistic material; nor does it apply to the publication or distribution of journalistic material prepared for publication by a journalist. A journalist is a person who works in a professional capacity as a journalist and is subject to professional standards or a code of practice, and it is immaterial whether the invasion of privacy breaches those standards or that code.[^srp_journalism] Separately, Schedule 2 does not apply at all to an invasion of privacy by a person who is under 18 years of age.[^srp_under18]
+
+Proceedings are also subject to a limitation period. A plaintiff who was under 18 when the invasion occurred must commence proceedings before their 21st birthday; otherwise, proceedings must be commenced before the earlier of one year after the plaintiff became aware of the invasion and three years after it occurred. A court may allow a later commencement where it was not reasonable in the circumstances for the plaintiff to have commenced proceedings in time, but not later than six years after the invasion occurred.[^srp_limitation]
 
 #### Remedies and damages
 
-Schedule 2 empowers courts to award damages or grant other remedies where a serious invasion of privacy is proven.[^srp_remedies] Remedies include injunctions to restrain further invasions of privacy, declarations, and damages. Damages may cover both economic and non-economic loss, including compensation for emotional distress.[^srp_damages] Aggravated damages are excluded, but exemplary or punitive damages may be awarded in exceptional circumstances.[^srp_exemplary]
+Schedule 2 empowers courts to award damages or grant other remedies where a serious invasion of privacy is proven.[^srp_remedies] Remedies include injunctions to restrain further invasions of privacy, declarations, and damages. The court may award damages for emotional distress.[^srp_damages] Aggravated damages are excluded, but exemplary or punitive damages may be awarded in exceptional circumstances.[^srp_exemplary] Damages are capped: the sum of any damages awarded for non-economic loss and any exemplary or punitive damages must not exceed the greater of $478,550 and the maximum amount of damages for non-economic loss that may be awarded in defamation proceedings under an Australian law.[^srp_cap]
 
 In assessing damages, courts may consider whether the defendant apologised or corrected a publication, whether the plaintiff received compensation, whether reasonable steps were taken to settle the dispute, and whether the defendant engaged in unreasonable conduct during or after the invasion of privacy.[^srp_assess]
 
@@ -259,21 +265,21 @@ In assessing damages, courts may consider whether the defendant apologised or co
 
 [^srp_vicpark]: _Victoria Park Racing and Recreation Grounds Co Ltd v Taylor_ (1937) 58 CLR 479.
 
-[^srp_lenah]: _Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd_ [(2001) 208 CLR 199](https://eresources.hcourt.gov.au/showCase/2001/HCA/63), [335] (Callinan J).
+[^srp_lenah]: _Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd_ [(2001) 208 CLR 199](https://www.hcourt.gov.au/sites/default/files/eresources/2001/HCA/63.pdf), [107] (Gummow and Hayne JJ), [320] (Callinan J).
 
-[^srp_butler]: Des A Butler, 'A Tort of Invasion of Privacy in Australia?' (2005) 29 _Melbourne University Law Review_ 352, 353.
+[^srp_butler]: Des A Butler, 'A Tort of Invasion of Privacy in Australia?' (2005) 29(2) _Melbourne University Law Review_ 339, 340.
 
 [^srp_alrc108]: Australian Law Reform Commission, _For Your Information: Australian Privacy Law and Practice_ (Report No 108, 2008) vol 1, 25–26.
 
 [^srp_alrc108b]: Ibid 112–13.
 
-[^srp_dpi]: Australian Competition and Consumer Commission, _Digital Platforms Inquiry — Final Report_ (Report, June 2019) rec 19, 459 <https://www.accc.gov.au/inquiries-and-consultations/digital-platforms-inquiry-2017-19>.
+[^srp_dpi]: Australian Competition and Consumer Commission, _Digital Platforms Inquiry — Final Report_ (Report, June 2019) rec 19, 459 <https://www.accc.gov.au/publications/digital-platforms-inquiry-final-report>.
 
 [^srp_review]: Attorney-General's Department, _Privacy Act Review Report_ (Report, February 2023) 12–13 <https://www.ag.gov.au/rights-and-protections/publications/privacy-act-review-report>.
 
 [^srp_lower]: _Grosse v Purvis_ [2003] QDC 151; _Doe v Australian Broadcasting Corporation_ [2007] VCC 281.
 
-[^srp_smethurst]: _Smethurst v Commissioner of Police_ [[2020] HCA 14](https://eresources.hcourt.gov.au/showCase/2020/HCA/14).
+[^srp_smethurst]: _Smethurst v Commissioner of Police_ [[2020] HCA 14](https://www.hcourt.gov.au/sites/default/files/eresources/2020/HCA/14.pdf).
 
 [^srp_passage]: _Privacy and Other Legislation Amendment Bill 2024_ (Cth); Commonwealth, _Parliamentary Debates_, House of Representatives, 12 September 2024 (Mark Dreyfus, Attorney-General).
 
@@ -281,7 +287,7 @@ In assessing damages, courts may consider whether the defendant apologised or co
 
 [^srp_lenah2]: _Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd_ (2001) 208 CLR 199, [126] (Gummow and Hayne JJ).
 
-[^srp_elements]: _Privacy Act 1988_ (Cth) sch 2 pt 2.
+[^srp_elements]: _Privacy Act 1988_ (Cth) sch 2 cl 7(1).
 
 [^srp_nodamage]: _Privacy Act 1988_ (Cth) sch 2 pt 2. The absence of a damage requirement reflects the ALRC's recommendation that not requiring proof of actual damage would provide protection and vindication for victims and enhance the tort's deterrent effect: Australian Law Reform Commission, _Serious Invasions of Privacy in the Digital Era_ (Report No 123, 2014).
 
@@ -289,13 +295,23 @@ In assessing damages, courts may consider whether the defendant apologised or co
 
 [^srp_alrc123rec]: Ibid rec 9–1, 144.
 
-[^srp_defences]: _Privacy Act 1988_ (Cth) sch 2 pt 3.
+[^srp_defences]: _Privacy Act 1988_ (Cth) sch 2 cl 8.
+
+[^srp_exemptions]: _Privacy Act 1988_ (Cth) sch 2 pt 3 (cll 15–18).
+
+[^srp_journalism]: _Privacy Act 1988_ (Cth) sch 2 cl 15.
+
+[^srp_under18]: _Privacy Act 1988_ (Cth) sch 2 cl 18.
+
+[^srp_limitation]: _Privacy Act 1988_ (Cth) sch 2 cl 14.
 
 [^srp_remedies]: _Privacy Act 1988_ (Cth) sch 2 cll 11(1), 12(1).
 
 [^srp_damages]: Ibid cl 11(3).
 
 [^srp_exemplary]: Ibid cll 11(2), 11(4).
+
+[^srp_cap]: Ibid cl 11(5).
 
 [^srp_assess]: Ibid cl 11(6).
 
@@ -655,7 +671,7 @@ The prosecution must prove beyond reasonable doubt that:
 
 For s 474.17D, it must also be shown that the conduct was engaged in wholly or partly because of the accused's belief that the group is distinguished by race, religion, sex, sexual orientation, gender identity, intersex status, disability, nationality, or national or ethnic origin. It is immaterial whether the group is in fact so distinguished.[^dox_group]
 
-'Personal data' is defined more broadly than 'personal information' under the _Privacy Act_, and covers information that allows an individual to be identified, contacted or located. The non-exhaustive lists in ss 474.17C(2) and 474.17D(2) include names, photographs and images, telephone numbers, email addresses, online accounts, residential addresses, work or business addresses, places of education and places of worship.[^dox_persdata]
+'Personal data' is defined differently from 'personal information' under the _Privacy Act_, rather than more or less broadly. In the _Criminal Code_, personal data means information about an individual that enables the individual to be identified, contacted or located; under the _Privacy Act_, personal information extends to an opinion as well as information, and applies whether or not the information or opinion is true, but says nothing about contacting or locating a person. The non-exhaustive lists in ss 474.17C(2) and 474.17D(2) include names, photographs and images, telephone numbers, email addresses, online accounts, residential addresses, work or business addresses, places of education and places of worship.[^dox_persdata]
 
 Because the offences sit in the _Criminal Code_ rather than the _Privacy Act_, the _Privacy Act_ exemptions do not apply: small businesses and journalists are not exempt, and a corporation may be liable as well as an individual.
 
@@ -667,7 +683,7 @@ Because the offences sit in the _Criminal Code_ rather than the _Privacy Act_, t
 
 #### Enforcement and open questions
 
-The effect of the new offences will depend on enforcement. Significant obstacles remain: perpetrators frequently reside outside Australia, conceal their identity, or engage in conduct that may not meet the 'menacing or harassing' threshold. The Act requires the Minister to cause an independent review of the doxxing measures to be undertaken within 24 months of commencement.[^dox_review]
+The effect of the new offences will depend on enforcement. Significant obstacles remain: perpetrators frequently reside outside Australia, conceal their identity, or engage in conduct that may not meet the 'menacing or harassing' threshold. The Act requires the Minister to cause an independent review of the doxxing measures to be undertaken. That review must commence as soon as practicable after the end of the period of 24 months starting at the commencement of the doxxing schedule, and those who undertake it must report to the Minister within six months of the review commencing.[^dox_review]
 
 [^dox_assent]: _Privacy and Other Legislation Amendment Act 2024_ (Cth) <https://www.legislation.gov.au/C2024A00128>.
 
@@ -679,7 +695,7 @@ The effect of the new offences will depend on enforcement. Significant obstacles
 
 [^dox_47417]: _Criminal Code Act 1995_ (Cth) s 474.17.
 
-[^dox_idcrime]: _Criminal Code Act 1995_ (Cth) div 372 (identity crime offences, including dealing in identification information). Equivalent State offences exist — for example, _Crimes Act 1900_ (NSW) s 192K.
+[^dox_idcrime]: _Criminal Code Act 1995_ (Cth) div 372 (identity crime offences, including dealing in identification information). Equivalent State offences exist — for example, _Crimes Act 1900_ (NSW) s 192J (dealing with identification information).
 
 [^dox_nsw]: _Crimes (Domestic and Personal Violence) Act 2007_ (NSW) s 13.
 
@@ -689,9 +705,9 @@ The effect of the new offences will depend on enforcement. Significant obstacles
 
 [^dox_group]: _Criminal Code Act 1995_ (Cth) s 474.17D.
 
-[^dox_persdata]: _Criminal Code Act 1995_ (Cth) ss 474.17C(2), 474.17D(2).
+[^dox_persdata]: _Criminal Code Act 1995_ (Cth) ss 474.17C(2), 474.17D(2); cf _Privacy Act 1988_ (Cth) s 6(1) (definition of 'personal information').
 
-[^dox_review]: _Privacy and Other Legislation Amendment Act 2024_ (Cth) sch 3.
+[^dox_review]: _Privacy and Other Legislation Amendment Act 2024_ (Cth) s 4.
 
 ## Biometrics and the Australian privacy framework
 
@@ -723,9 +739,11 @@ Biometric characteristics are effectively static. Unlike a password, once a biom
 The APP 3 requirement that sensitive information be collected with consent is difficult to satisfy in practice, particularly where information about biometric collection is buried in dense privacy policies or is not disclosed at all.
 
 {: .example }
-> **OAIC determination on Bunnings (2024)**
+> **OAIC determination on Bunnings (2024), and the Tribunal's decision on review (2026)**
 >
 > The Australian Information Commissioner found that Bunnings Group Ltd interfered with the privacy of individuals by collecting sensitive biometric information through facial recognition technology in 63 stores in Victoria and New South Wales. The Commissioner found that Bunnings collected sensitive information without consent, failed to take reasonable steps to notify individuals that their personal information was being collected, and did not include required information in its privacy policy.[^bio_bunnings]
+>
+> On review, the Administrative Review Tribunal departed from the Commissioner's finding that Bunnings had contravened APP 3.3, holding that Bunnings was entitled to rely on exemptions to the requirement to obtain consent for the limited purpose of combatting retail crime and protecting its staff and customers from violence, abuse and intimidation in its stores. The Tribunal affirmed the findings that Bunnings had contravened APP 1 and APP 5 by failing to give appropriate notice of its use of the technology and by not completing a formal, structured and documented risk assessment. The Commissioner did not appeal.[^bio_bunnings_art]
 
 Comparable litigation has arisen overseas. Meta settled proceedings in Illinois and Texas concerning the collection and use of facial data from users and non-users of Facebook and Instagram to train facial recognition systems, in each case under State biometric privacy legislation.[^bio_meta]
 
@@ -759,6 +777,8 @@ Second, the tort is actionable without proof of damage. The nature of any harm s
 [^bio_penalties]: _Privacy Act 1988_ (Cth) ss 13G, 13H, 13K.
 
 [^bio_bunnings]: Office of the Australian Information Commissioner, 'Bunnings Breached Australians' Privacy with Facial Recognition Tool' (Media Release, 19 November 2024) <https://www.oaic.gov.au/news/media-centre/bunnings-breached-australians-privacy-with-facial-recognition-tool>.
+
+[^bio_bunnings_art]: Office of the Australian Information Commissioner, 'OAIC Statement on Administrative Review Tribunal's Bunnings Decision' (Statement, 4 February 2026) <https://www.oaic.gov.au/news/media-centre/oaic-statement-on-administrative-review-tribunals-bunnings-decision>; Office of the Australian Information Commissioner, 'Privacy Commissioner Statement on Administrative Review Tribunal's Bunnings Decision' (Statement, 5 March 2026) <https://www.oaic.gov.au/news/media-centre/privacy-commissioner-statement-on-administrative-review-tribunals-bunnings-decision>.
 
 [^bio_meta]: Dan Mangan, 'Meta Agrees to $1.4 Billion Settlement in Texas Biometric Data Lawsuit over Facebook Images', _CNBC_ (online, 30 July 2024) <https://www.cnbc.com/2024/07/30/meta-agrees-to-1point4-billion-settlement-in-texas-biometric-data-lawsuit.html>; Alex Hern, 'Facebook Pays $550m Settlement for Breaking Illinois Data Protection Law', _The Guardian_ (online, 31 January 2020) <https://www.theguardian.com/technology/2020/jan/30/facebook-pays-550m-settlement-for-breaking-illinois-data-protection-law>.
 
@@ -903,7 +923,7 @@ As at the time of writing, there is no Australian legislation prohibiting the us
 
 Tor is one of the principal means of accessing services that are not reachable through the open web, including sites using the `.onion` top-level domain.
 
-Research on Tor usage indicates that the majority of users are motivated by a desire for privacy rather than by any intention to offend.[^tor_ghazi] Journalists, whistleblowers, human rights workers and people living under censorship regimes use the network to communicate and report without exposing their identity or location.[^tor_moore2]
+A study that captured the traffic passing through a Tor exit node over six months found that most usage was directed at ordinary destinations: users spent much more time on social networking and e-commerce sites than on sites carrying illegal drug or pornographic content, and visits to legal sites vastly outnumbered visits to illegal ones.[^tor_ghazi] Journalists, whistleblowers, human rights workers and people living under censorship regimes use the network to communicate and report without exposing their identity or location.[^tor_moore2]
 
 The same properties are also used to conceal serious offending, including the distribution of child sexual abuse material and trafficking in illicit goods. Australian courts have dealt with the network in several recent matters:
 
@@ -912,9 +932,9 @@ The same properties are also used to conceal serious offending, including the di
 >
 > **_Aitken (A Pseudonym) v The King_ [2025] SASC 120** — a matter involving blackmail and threats to a school, in which forensic examination extended to the applicant's VPN and Tor usage.
 >
-> **_Attorney-General (Qld) v GFA_ [2025] QSC 19** — in making a supervision order in relation to an offender who had accessed child abuse material, the court imposed conditions restricting the use of anonymising software.
+> **_Attorney-General (Qld) v GFA_ [[2025] QSC 19](https://archive.sclqld.org.au/qjudgment/2025/QSC25-019.pdf)** — on an application under s 22 of the _Dangerous Prisoners (Sexual Offenders) Act 2003_ (Qld) concerning contraventions of an existing supervision order, the court amended that order to add a condition prohibiting the respondent from obtaining or using 'devices, software, applications or web-based searches designed to … Anonymise or hide activity', a category the condition defines as including 'Virtual Private Networks (VPNs), Cache Cleaner applications and The Onion Router (TOR) Network'.
 
-These cases illustrate a recurring point: anonymity technologies do not place users beyond the reach of investigation, because evidence is frequently recovered from the endpoint device rather than from the network itself.
+The first two of these cases illustrate a recurring point: anonymity technologies do not place users beyond the reach of investigation, because evidence is frequently recovered from the endpoint device rather than from the network itself. The third illustrates a different response — restricting access to anonymity tools as a condition of a supervision order.
 
 [^tor_asd]: Australian Signals Directorate, _Defending against the Malicious Use of the Tor Network_ (Advisory, 2020).
 
@@ -932,7 +952,7 @@ These cases illustrate a recurring point: anonymity technologies do not place us
 
 [^tor_blocking]: Davis and Arrigo (above) 378.
 
-[^tor_ghazi]: Adam Ghazi-Tehrani, 'Mapping Real-World Use of the Onion Router' (2023) 39(2) _Journal of Contemporary Criminal Justice_ 241, 250.
+[^tor_ghazi]: Adam Ghazi-Tehrani, 'Mapping Real-World Use of the Onion Router' (2023) 39(2) _Journal of Contemporary Criminal Justice_ 239 <https://doi.org/10.1177/10439862231157553>.
 
 [^tor_moore2]: Moore and Rid (above) 17.
 
@@ -1010,7 +1030,7 @@ The risks of parental posting differ from the other harms addressed in this text
 - **Commercialisation**: where a child's online presence is monetised, the child is the source of the income but has no legal interest in it. France requires income earned by child social media performers to be held in trust and regulates their working conditions;[^shar_france2020] Australia has no equivalent framework.
 - **Algorithmic amplification**: recommender systems can distribute a video far beyond the audience a parent anticipated, without any action by a third party.
 
-The _Online Safety Act 2021_ (Cth) operates on a co-regulatory model, under which industry bodies draft codes that the eSafety Commissioner may register. The mechanisms most relevant to children are removal notices,[^shar_removal] the Basic Online Safety Expectations,[^shar_bose] and the social media minimum age obligations discussed at [Social media minimum age](../content/#social-media-minimum-age).
+The _Online Safety Act 2021_ (Cth) operates on a co-regulatory model, under which industry bodies draft codes that the eSafety Commissioner may register. The mechanisms most relevant to children are removal notices for cyber-bullying material targeted at an Australian child,[^shar_removal] the Basic Online Safety Expectations,[^shar_bose] and the social media minimum age obligations discussed at [Social media minimum age](../content/#social-media-minimum-age).
 
 Each of these operates on material after it has been published, or on a platform's general systems, rather than on the decision to post. None restricts a parent from publishing images of their own child. The scheme's reach is also territorially constrained: in _eSafety Commissioner v X Corp_ the Federal Court read the 'reasonable steps' required by a removal notice narrowly, and declined to construe the power as authorising global removal.[^shar_xcorp] The same reasoning would limit the Commissioner's ability to secure worldwide removal of redistributed material involving children.
 
@@ -1020,7 +1040,7 @@ Two gaps therefore remain in the Australian framework. There is no direct regula
 
 [^shar_france2020]: Loi n° 2020-1266 du 19 octobre 2020 visant à encadrer l'exploitation commerciale de l'image d'enfants de moins de seize ans sur les plateformes en ligne [Law No 2020-1266 of 19 October 2020 on regulating the commercial exploitation of the image of children under sixteen on online platforms] (France).
 
-[^shar_removal]: _Online Safety Act 2021_ (Cth) ss 109–111.
+[^shar_removal]: _Online Safety Act 2021_ (Cth) pt 5 ('Cyber-bullying material targeted at an Australian child') ss 65–67. This is the child-specific removal notice scheme. The separate scheme in pt 9 div 2 ('Removal notices relating to class 1 material') ss 109–111 is not child-specific; it is the power considered in _eSafety Commissioner v X Corp_, discussed below.
 
 [^shar_bose]: _Online Safety (Basic Online Safety Expectations) Determination 2022_ (Cth).
 
@@ -1044,11 +1064,11 @@ The OAIC has indicated that, where appropriate, the Code will draw on the United
 
 #### The UK Age Appropriate Design Code
 
-**United Kingdom.** The Age Appropriate Design Code, often called the Children's Code, is a statutory code of practice that took effect in September 2021. It contains 15 standards that online services must follow to protect children's data.[^copc_ukcode] The standards draw on the United Nations Convention on the Rights of the Child; the first standard, that the best interests of the child should be a primary consideration in designing and developing online services likely to be accessed by a child, reflects art 3 of the Convention.
+**United Kingdom.** The Age Appropriate Design Code, often called the Children's Code, is a statutory code of practice. It was laid before Parliament on 11 June 2020, issued on 12 August 2020 and came into force on 2 September 2020, with a twelve-month transition period in which providers were to bring their processing into line with its standards by 2 September 2021. It contains 15 standards that online services must follow to protect children's data.[^copc_ukcode] The standards draw on the United Nations Convention on the Rights of the Child; the first standard, that the best interests of the child should be a primary consideration in designing and developing online services likely to be accessed by a child, reflects art 3 of the Convention.
 
 The Code is issued under the _Data Protection Act 2018_ (UK) and operates alongside the UK General Data Protection Regulation and the Privacy and Electronic Communications Regulations. It applies to 'information society services' likely to be accessed by children — services normally provided for remuneration, at a distance, by electronic means, and at the individual request of a recipient. Because that definition is broad, most online services fall within its scope. Services that do not comply may face enforcement notices and financial penalties.
 
-The approach has been followed elsewhere, including in California, which enacted a version of the code in 2022.[^copc_ca]
+The approach has been followed elsewhere, including in California, which enacted a version of the code in 2022. The Californian Act has never taken full effect. It was challenged before it commenced and its central data use restrictions and dark patterns prohibition remain preliminarily enjoined: in March 2026 the Ninth Circuit affirmed the injunction as to those provisions, while vacating it as to the coverage definition and the age estimation provision and remanding for further proceedings. The litigation is continuing.[^copc_ca]
 
 {: .note }
 > The Australian Code is still in development and will not be registered until December 2026. This section describes the framework as it presently stands; the substantive obligations will not be settled until the Code is made.
@@ -1067,7 +1087,7 @@ The approach has been followed elsewhere, including in California, which enacted
 
 [^copc_ukcode]: Information Commissioner's Office (UK), _Age Appropriate Design: A Code of Practice for Online Services_ (Code of Practice) <https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/age-appropriate-design-a-code-of-practice-for-online-services/>.
 
-[^copc_ca]: _California Age-Appropriate Design Code Act_, AB 2273 (2022).
+[^copc_ca]: _California Age-Appropriate Design Code Act_, AB 2273 (2022). On the injunction, see _NetChoice LLC v Bonta_, No 25-2366 (9th Cir, 12 March 2026), affirming the district court's preliminary injunction 'insofar as it enjoined enforcement of California Civil Code §§ 1798.99.31(b)(1)–(4) and 1798.99.31(b)(7)'.
 
 ## The Right to be Forgotten
 
@@ -1138,49 +1158,61 @@ After an investigation by the Australian Communications and Media Authority (ACM
 
 The _Do Not Call Register Act 2006_ (Cth) regulates unsolicited telemarketing calls and marketing faxes.[^dncr_act] It gives individuals a mechanism to opt out of unsolicited telemarketing, while preserving exemptions for organisations making calls in the public interest. It sits alongside the _Spam Act 2003_ (Cth), which regulates unsolicited commercial electronic messages, and forms part of Australia's broader privacy framework.
 
-Before the Act, telemarketing was largely self-regulated through voluntary industry codes. That approach was widely regarded as ineffective: there were no compulsory standards, no dedicated enforcement authority, no formal complaints mechanism, and considerable uncertainty among both telemarketers and consumers about their rights and obligations. Research published by The Australia Institute in the lead-up to the reform reported that Australians received an average of 8.5 unsolicited telemarketing calls a month, and that around two-thirds of those surveyed supported banning telemarketing outright.[^dncr_tai]
+Before the Act, telemarketing was largely self-regulated through voluntary industry codes. That approach was widely regarded as ineffective: there were no compulsory standards, no dedicated enforcement authority, no formal complaints mechanism, and considerable uncertainty among both telemarketers and consumers about their rights and obligations. Research published by The Australia Institute in December 2008 — two and a half years after the Act commenced, and directed at measuring the register's effect — reported that Australians still received an average of 8.5 unsolicited telemarketing calls a month, and that two in three (64 per cent) of those surveyed believed telemarketing should be banned outright.[^dncr_tai]
 
 ### How the register works
 
-The register is established under Part 2 of the Act and operates on an opt-out basis. Individuals may list telephone and fax numbers used primarily for personal, domestic or household purposes. Government bodies, charities and religious organisations may list numbers used by them. Once a number is on the register, it is unlawful to make a telemarketing call or send a marketing fax to it unless an exemption applies.[^dncr_pt2]
+The register is established under Part 3 of the Act and operates on an opt-out basis. An Australian number is eligible to be entered on the register only if it is used or maintained primarily for private or domestic purposes, exclusively for transmitting or receiving faxes, or exclusively for use by a government body, or if it is an emergency service number.[^dncr_pt3] Once a number is on the register, it is unlawful to make a telemarketing call or send a marketing fax to it unless an exemption applies.[^dncr_prohib]
 
 Sections 5 and 5B define a telemarketing call and a marketing fax respectively: a voice call or fax to an Australian number where the purpose is to offer, advertise or promote goods, services, land, or business or investment opportunities. The definition extends to soliciting donations.[^dncr_defs] Telemarketers must wash their calling lists against the register, and are responsible for removing listed numbers within 30 days. The Australian Communications and Media Authority (ACMA) administers the register and handles complaints.
 
 ### Exemptions
 
-**Consent.** Section 20 provides that a call is not unlawful where the recipient has given express or inferred consent.[^dncr_s20] Express consent includes signing up to receive promotional calls; it expires after three months unless given for a specified or indefinite period. Consent may be inferred from a person's conduct or from an existing business or other relationship, but the mere fact that a number is published online is not enough. Consent may be withdrawn at any time, and the telemarketer must then stop contacting the person.
+**Consent.** The prohibition does not apply where the relevant account-holder, or a nominee of the account-holder, consented to the call or fax.[^dncr_consent] Consent means express consent, or consent that can reasonably be inferred from the conduct and the business and other relationships of the person concerned.[^dncr_consentdef] Express consent that is not expressed to be for a specified period or an indefinite period is taken to be withdrawn three months after it was given, and consent may not be inferred from the mere fact that a number has been published.[^dncr_consentdur]
 
-**Public interest and constitutional exemptions.** Schedule 1 exempts charities, not-for-profits, religious organisations, educational institutions, government bodies, and political parties, members of parliament and candidates.[^dncr_sch1] The rationale is that these callers are either non-commercial or serve a public function; the exemptions represent a legislative judgement about where individual privacy gives way to public communication.
+**Public interest and constitutional exemptions.** Schedule 1 defines a class of 'designated telemarketing calls' that are exempt from the prohibition, each subject to further conditions set out in the Schedule. The categories are calls authorised by a government body or a registered charity; calls authorised by a registered political party, an independent member of parliament or a candidate for the purpose of electoral or political fund-raising; and calls authorised by an educational institution to a private or domestic number connected with a current or former student.[^dncr_sch1] The rationale is that these callers are either non-commercial or serve a public function; the exemptions represent a legislative judgement about where individual privacy gives way to public communication.
 
 ### Enforcement
 
-Part 4 of the Act sets out ACMA's enforcement powers, which include conducting investigations, issuing formal warnings, accepting enforceable undertakings, issuing infringement notices, and bringing civil penalty proceedings in the Federal Court.[^dncr_pt4] Maximum penalties are tiered according to whether the contravener is a body corporate and whether it has previously contravened the same provision, and are calculated by reference to each day on which contraventions occurred. ACMA publishes the current maximum figures: infringement notice penalties of up to $222,000 per day, and court-imposed civil penalties of up to $2.22 million per day.[^dncr_penalties]
+ACMA's enforcement powers are spread across several sources. Part 4 of the Act provides for civil penalties, which ACMA may seek in the Federal Court.[^dncr_pt4] Formal warnings for a contravention of a civil penalty provision are dealt with by s 40, and infringement notices by Schedule 3.[^dncr_warnings] Investigations, information-gathering and enforceable undertakings are provided for not by this Act but by Parts 26, 27 and 31A of the _Telecommunications Act 1997_ (Cth).[^dncr_telco] Maximum penalties are tiered according to whether the contravener is a body corporate and whether it has previously contravened the same provision, and are calculated by reference to each day on which contraventions occurred. ACMA publishes the current maximum figures: infringement notice penalties of up to $222,000 per day, and court-imposed civil penalties of up to $2.22 million per day.[^dncr_penalties]
 
 ### Regulations and industry standards
 
 The _Do Not Call Register Regulations 2017_ (Cth) create further exemptions. Section 5(7) of the Act allows the regulations to declare specified kinds of voice calls not to be telemarketing calls, and the regulations do so for product recalls, fault rectification, appointment rescheduling and reminders, payment calls, solicited calls, and calls that are not answered by the intended recipient.[^dncr_regs] These carve-outs allow operationally necessary or safety-related calls to be made without prior consent. Section 39(4) allows the regulations to specify when an individual may be treated as a nominee, which matters where several people share a telephone number but are not all account holders.
 
-The _Do Not Call Register (Telemarketing and Research Calls) Industry Standard 2017_ (Cth) is a legislative instrument made under the Act. It applies to all telemarketing and research calls in Australia, whether or not the number is on the register.[^dncr_standard] It restricts calling hours to 9:00 am to 8:00 pm on weekdays and 9:00 am to 5:00 pm on Saturdays, and prohibits calls on Sundays and public holidays. Callers must identify themselves and the organisation they represent, state the purpose of the call, provide contact details, and ensure a return number is displayed and answerable during business hours. Callers must not act in a manner that is unreasonable, disruptive or inconvenient, including by making repeated calls in a short period.
+The _Telecommunications (Telemarketing and Research Calls) Industry Standard 2017_ (Cth) is a legislative instrument made under s 125A(1) of the _Telecommunications Act 1997_ (Cth) rather than under the _Do Not Call Register Act_. It applies to all telemarketing and research calls in Australia, whether or not the number is on the register.[^dncr_standard] Unless the person called has given express prior consent to being contacted at other times, telemarketing calls may be made only between 9:00 am and 8:00 pm on weekdays and between 9:00 am and 5:00 pm on Saturdays, and not at all on Sundays. Research calls are treated differently: they may be made until 8:30 pm on weekdays, and on Sundays between 9:00 am and 5:00 pm. Neither kind of call may be made on any of seven named national public holidays — New Year's Day, Australia Day, Good Friday, Easter Monday, Anzac Day, Christmas Day and Boxing Day — or on a weekday holiday given in lieu of one of them.[^dncr_hours] Callers must identify themselves and the organisation they represent, state the purpose of the call, provide contact details, and ensure a return number is displayed and answerable during business hours. Callers must not act in a manner that is unreasonable, disruptive or inconvenient, including by making repeated calls in a short period.
 
 [^dncr_act]: _[Do Not Call Register Act 2006](https://www.legislation.gov.au/C2006A00088/latest/text)_ (Cth).
 
-[^dncr_tai]: The Australia Institute, _Go Away, Please_ (Discussion Paper No 104). The figures are reported as survey findings by the Institute and have not been independently verified here.
+[^dncr_tai]: The Australia Institute, _Go Away, Please_ (Discussion Paper No 104, December 2008). The figures are reported as survey findings by the Institute and have not been independently verified here.
 
-[^dncr_pt2]: _Do Not Call Register Act 2006_ (Cth) pt 2.
+[^dncr_pt3]: _Do Not Call Register Act 2006_ (Cth) ss 13, 14.
+
+[^dncr_prohib]: _Do Not Call Register Act 2006_ (Cth) ss 11(1), 12B(1).
 
 [^dncr_defs]: _Do Not Call Register Act 2006_ (Cth) ss 5, 5B.
 
-[^dncr_s20]: _Do Not Call Register Act 2006_ (Cth) s 20.
+[^dncr_consent]: _Do Not Call Register Act 2006_ (Cth) ss 11(2), 12B(2).
 
-[^dncr_sch1]: _Do Not Call Register Act 2006_ (Cth) sch 1.
+[^dncr_consentdef]: _Do Not Call Register Act 2006_ (Cth) sch 2 cl 2.
+
+[^dncr_consentdur]: _Do Not Call Register Act 2006_ (Cth) sch 2 cll 3, 4.
+
+[^dncr_sch1]: _Do Not Call Register Act 2006_ (Cth) sch 1 cll 2–4. Designated marketing faxes are dealt with separately, in sch 1A.
 
 [^dncr_pt4]: _Do Not Call Register Act 2006_ (Cth) pt 4.
+
+[^dncr_warnings]: _Do Not Call Register Act 2006_ (Cth) s 40, sch 3.
+
+[^dncr_telco]: _Do Not Call Register Act 2006_ (Cth) s 3 (note); _Telecommunications Act 1997_ (Cth) pts 26, 27, 31A.
 
 [^dncr_penalties]: Do Not Call Register, 'Compliance and Breaches' (Web Page) <https://www.donotcall.gov.au/industry/industry-overview/compliance-and-breaches>. Penalty maxima under the Act are expressed in penalty units, the value of which is indexed under s 4AA of the _Crimes Act 1914_ (Cth); the dollar figures published by the regulator should be checked against the current penalty unit value.
 
 [^dncr_regs]: _Do Not Call Register Regulations 2017_ (Cth) s 6; _Do Not Call Register Act 2006_ (Cth) ss 5(7), 39(4).
 
-[^dncr_standard]: _Do Not Call Register (Telemarketing and Research Calls) Industry Standard 2017_ (Cth).
+[^dncr_standard]: _[Telecommunications (Telemarketing and Research Calls) Industry Standard 2017](https://www.legislation.gov.au/F2017L00323/latest/text)_ (Cth) ss 3, 5.
+
+[^dncr_hours]: _Telecommunications (Telemarketing and Research Calls) Industry Standard 2017_ (Cth) s 8; the express-consent exception to the permitted hours is s 8(5).
 
 ## Privacy Protection in India
 
@@ -1266,7 +1298,7 @@ Research on estate planning suggests that this is poorly understood. Studies of 
 
 ### Digital grieving and AI recreation
 
-The use of artificial intelligence to recreate a deceased person from recordings, photographs and messages has moved from a research curiosity to a commercial service. In China, AI-generated recreations of the deceased have been offered as part of funeral services since around 2022, with tiers of service producing progressively more detailed replications of appearance, voice and manner.[^daf_cheng]
+The use of artificial intelligence to recreate a deceased person from recordings, photographs and messages has moved from a research curiosity to a commercial service. The practice is most prevalent in China, where it is sold in tiers: a basic avatar can be generated from a short sample of audio and video for 199 yuan (about US$30), while more detailed and interactive replications of appearance, voice and manner cost thousands of dollars. Cemetery and funeral-services operators have begun to offer them alongside traditional services.[^daf_cheng]
 
 Because death is frequently unanticipated, the deceased will rarely have turned their mind to whether their likeness and communications may be used in this way. That raises a consent problem that existing law is not well suited to resolve: the subject cannot consent, and in most cases has no surviving legal interest on which an objection could be founded.
 
@@ -1278,13 +1310,13 @@ The statutory tort for serious invasions of privacy, discussed at [A statutory r
 
 [^daf_esafety]: eSafety Commissioner, 'What Happens to Your Digital Accounts after You Die' (Web Page, 1 November 2023) <https://www.esafety.gov.au/key-topics/digital-wellbeing/what-happens-to-your-digital-accounts-after-you-die>.
 
-[^daf_clemons]: Eric K Clemons et al, 'A Face of One's Own: The Role of an Online Persona in a Digital Age and the Right to Control One's Own Online Persona in the Presence of Digital Hacking' (2024) 34(1) _Electronic Markets_.
+[^daf_clemons]: Eric K Clemons et al, 'A Face of One's Own: The Role of an Online Personae in a Digital Age and the Right to Control One's Own Online Personae in the Presence of Digital Hacking' (2024) 34(1) _Electronic Markets_ 31 <https://doi.org/10.1007/s12525-024-00713-3>.
 
 [^daf_acker]: Amelia Acker and Jed R Brubaker, 'Death, Memorialization, and Social Media: A Platform Perspective for Personal Archives' (2014) 77 _Archivaria_ 1.
 
 [^daf_steen]: Adam Steen et al, 'Managing Digital Assets on Death and Disability: An Examination of the Determinants of Digital Asset Planning Literacy' (2024) 49(4) _Australian Journal of Management_ 561.
 
-[^daf_cheng]: Kwan Y Cheng, 'The Law of Digital Afterlife: The Chinese Experience of AI "Resurrection" and "Grief Tech"' (2025) 33 _International Journal of Law and Information Technology_.
+[^daf_cheng]: Kwan Y Cheng, 'The Law of Digital Afterlife: The Chinese Experience of AI "Resurrection" and "Grief Tech"' (2025) 33 _International Journal of Law and Information Technology_ <https://doi.org/10.1093/ijlit/eaae029>; Emily Feng, 'Chinese Companies Offer to "Resurrect" Deceased Loved Ones with AI Avatars', _NPR_ (online, 21 July 2024).
 
 [^daf_ettingshausen]: _Ettingshausen v Australian Consolidated Press Ltd_ (1991) 23 NSWLR 443.
 
@@ -1342,9 +1374,9 @@ Attribution remains difficult. Mixing services such as CoinJoin combine balances
 
 A 'pump and dump' scheme is a form of price manipulation in which an asset's price is inflated by coordinated buying and promotion before the promoters sell, leaving later purchasers holding a falling asset. In conventional securities markets, this conduct is prohibited by the market misconduct provisions of the _Corporations Act 2001_ (Cth) and is enforced by the Australian Securities and Investments Commission (ASIC).[^cry_asic]
 
-Cryptocurrency markets present two structural difficulties. First, where a crypto asset is not a financial product, the market misconduct provisions may not apply to it, and the regulator's information-gathering powers are correspondingly limited. Second, the timescale differs by orders of magnitude: research on manipulation in crypto markets finds that schemes frequently run for minutes, where equivalent schemes in equity markets run for months, which makes detection and enforcement after the fact considerably harder.[^cry_li]
+Cryptocurrency markets present two structural difficulties. First, where a crypto asset is not a financial product, the market misconduct provisions may not apply to it, and the regulator's information-gathering powers are correspondingly limited. Second, the timescale is very short: research on manipulation in crypto markets finds that a typical scheme lasts only several minutes, producing a sharp increase in price, volume and volatility followed by a quick reversal, which makes detection and enforcement after the fact considerably harder.[^cry_li]
 
-There is some evidence that exchange-level rules affect the incidence of manipulation. A comparison of two exchanges — one that prohibited pump-and-dump activity and one that tolerated it — found materially different price and volume outcomes for the assets listed on each.[^cry_li2] This suggests that venue rules and listing standards may be a more responsive regulatory lever than after-the-fact enforcement.
+There is some evidence that exchange-level rules affect the incidence of manipulation. Exploiting two natural experiments in which exchanges altered their pump-and-dump policies, the same study found evidence that pump-and-dump activity contributes to reduced liquidity and lower prices for the assets affected.[^cry_li2] This suggests that venue rules and listing standards may be a more responsive regulatory lever than after-the-fact enforcement.
 
 ### Regulatory approaches
 
@@ -1375,10 +1407,10 @@ Proposals for central bank digital currencies have been advanced as one response
 
 [^cry_asic]: _Corporations Act 2001_ (Cth) pt 7.10.
 
-[^cry_li]: Tao Li, Donghwa Shin and Baolian Wang, 'Cryptocurrency Pump-and-Dump Schemes' _Journal of Financial and Quantitative Analysis_ (forthcoming) 1–2.
+[^cry_li]: Tao Li, Donghwa Shin and Baolian Wang, 'Cryptocurrency Pump-and-Dump Schemes' (2025) 60(8) _Journal of Financial and Quantitative Analysis_ 3622 <https://doi.org/10.1017/S0022109025000201>. On the duration of a typical scheme, see also the authors' own summary: Tao Li, Baolian Wang and Donghwa Shin, 'Cryptocurrency Pump-and-Dump Schemes', _CLS Blue Sky Blog_ (Blog Post, 7 January 2019) <https://clsbluesky.law.columbia.edu/2019/01/07/cryptocurrency-pump-and-dump-schemes/> ('a typical cryptocurrency P&D lasts for only several minutes').
 
 [^cry_li2]: Ibid.
 
-[^cry_asicinfo]: Australian Securities and Investments Commission, _Crypto Assets_ (Information Sheet 225) <https://asic.gov.au/regulatory-resources/digital-transformation/crypto-assets/>.
+[^cry_asicinfo]: Australian Securities and Investments Commission, _Digital Assets: Financial Products and Services_ (Information Sheet 225) <https://asic.gov.au/regulatory-resources/digital-transformation/crypto-assets/>.
 
-[^cry_cbdc]: Milutinović (above) 109.
+[^cry_cbdc]: Milutinović (above) 109–10.
