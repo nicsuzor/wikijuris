@@ -230,7 +230,7 @@ Facts that a court can take into consideration when apply the Voth test follow:[
 **[Rhiannon Butcher](https://www.youtube.com/watch?v=jWyJWHoiTjM) explains substituted service via social media**
 
 
-[http://www.austlii.edu.au/au/legis/qld/consol_reg/ucpr1999305/s116.html](Rule 116) of the _Uniform Civil Procedure Rules 1999_ (Qld) enables the court to order that substituted service is will be taken to have occurred when normal service is impractical and another acceptable method of service is used. In order for a plaintiff to be successful in obtaining an order allowing substituted service of court documents via social media, the plaintiff will need to establish:
+[Rule 116](http://www.austlii.edu.au/au/legis/qld/consol_reg/ucpr1999305/s116.html) of the _Uniform Civil Procedure Rules 1999_ (Qld) enables the court to order that substituted service is will be taken to have occurred when normal service is impractical and another acceptable method of service is used. In order for a plaintiff to be successful in obtaining an order allowing substituted service of court documents via social media, the plaintiff will need to establish:
   * that there is a practical impossibility of normal service in the circumstances; and
   * that the proposed method of substituted service (ie via social media) will be likely to bring knowledge of the proceedings to the defendant.
 

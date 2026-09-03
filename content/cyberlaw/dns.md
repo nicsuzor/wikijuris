@@ -72,7 +72,7 @@ A Registrant may obtain a domain name licence for a name that has a close and su
 
 ### Care and Control
 
-The Domain Name System comes under the exclusive control of the Internet Corporation for Assigned Names and Numbers, [https://en.wikipedia.org/wiki/ICANN](ICANN), which is  an American company registered and based in California.  ICANN determines whether or not a domain can be registered, or if the translation to your IP address will be performed, and is a '[http://techland.time.com/2010/12/03/wikileaks-domain-name-killed-and-why-it-wont-kill-wikileaks/](choke point)' for regulation. The Australian Domain Administration (AuDA) is authorised by ICANN to administer the '.au' TLD. AuDA has licenced AusRegistry Pty Ltd to operate the '.au' domain name register. There are 34 registrars of open 2LDs in this domain space, with over 3000 resellers of Australian domain names.
+The Domain Name System comes under the exclusive control of the Internet Corporation for Assigned Names and Numbers, [ICANN](https://en.wikipedia.org/wiki/ICANN), which is  an American company registered and based in California.  ICANN determines whether or not a domain can be registered, or if the translation to your IP address will be performed, and is a '[choke point](https://web.archive.org/web/20260306083546/https://techland.time.com/2010/12/03/wikileaks-domain-name-killed-and-why-it-wont-kill-wikileaks/)' for regulation. The Australian Domain Administration (AuDA) is authorised by ICANN to administer the '.au' TLD. AuDA has licenced AusRegistry Pty Ltd to operate the '.au' domain name register. There are 34 registrars of open 2LDs in this domain space, with over 3000 resellers of Australian domain names.
 
 ### Registering and Transferring Domain Names
 

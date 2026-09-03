@@ -133,7 +133,7 @@ Barlow's argument is that the rules and social norms created by online communiti
 [^johnsonpost913]: David Post, 'Governing Cyberspace: Law' (2008) <http://www.academia.edu/2720975/Governing_Cyberspace_Law>.
 
 
-As we will see in the [Jurisdiction chapter](jurisdiction), the legitimacy of any one nation claiming jurisdiction over transnational communications is still a vexed issue. As the Australian High Court noted in the _Dow Jones v Gutnick_[^gutnick] case, nation states purport to have a responsibility to protect their citizens' interests online, and certainly a desire to regulate online content and behaviour.
+As we will see in the [Jurisdiction chapter](../jurisdiction), the legitimacy of any one nation claiming jurisdiction over transnational communications is still a vexed issue. As the Australian High Court noted in the _Dow Jones v Gutnick_[^gutnick] case, nation states purport to have a responsibility to protect their citizens' interests online, and certainly a desire to regulate online content and behaviour.
 
 [^gutnick]: _Dow Jones and Company Inc v Gutnick_ [2002] HCA 56 http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/2002/56.html?stem=0&synonyms=0&query=title(dow%20jones%20and%20gutnick%20)&nocontext=1
 

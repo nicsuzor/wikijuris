@@ -39,7 +39,7 @@ The independent review was completed on 31 October 2024 and the final report was
 
 The review's principal recommendation was the introduction of a digital duty of care, shifting responsibility for preventing foreseeable online harm from end-users to service providers.[^es_dutyrec] Providers would be required to assess the risks their services create and to exercise due diligence in addressing them, with an emphasis on prevention through system design, on mitigation measures, and on transparency reporting.[^es_dutydesign]
 
-The argument for the change is that the existing model is reactive: it depends on a person who has already been harmed identifying the material, reporting it, and seeking its removal, which places the burden on the individual least able to bear it. A duty directed at systems places it instead on the party able to change how the service operates.[^es_dutyrationale] An analysis by Elit Lawyers suggests that a single overarching duty would simplify compliance relative to the current arrangement of separate schemes.[^es_dutysimplify]
+The argument for the change is that the existing model is reactive: it depends on a person who has already been harmed identifying the material, reporting it, and seeking its removal, which places the burden on the individual least able to bear it. A duty directed at systems places it instead on the party able to change how the service operates.[^es_dutyrationale] An analysis by Elit Lawyers suggests that the duty would simplify compliance and reduce costs for digital platforms.[^es_dutysimplify]
 
 The Government committed to legislating a digital duty of care.[^es_govtcommit] The proposal is discussed further at [A duty of digital care in Australia](../content/#a-duty-of-digital-care-in-australia).
 
@@ -48,11 +48,11 @@ The Government committed to legislating a digital duty of care.[^es_govtcommit] 
 
 ### Powers and enforcement
 
-Further recommendations address the Commissioner's powers, with a focus on strengthening investigative and information-gathering functions to support enforcement.[^es_powers] The review proposed higher penalties for non-compliance,[^es_penalties] and improvements to the accessibility and flexibility of the existing take-down schemes.[^es_takedown] In relation to the proposed duty of care, it recommended that the Commissioner be able to make mandatory compliance codes, rather than relying solely on industry-led code development.[^es_codes]
+Further recommendations address the Commissioner's powers, with a focus on strengthening investigative and information-gathering functions to support enforcement.[^es_powers] The review proposed higher penalties for non-compliance,[^es_penalties] and changes to streamline and strengthen the existing take-down schemes.[^es_takedown] In relation to the proposed duty of care, it recommended that the Commissioner be able to make mandatory compliance codes, rather than relying solely on industry-led code development.[^es_codes]
 
 ### A commission model
 
-The review recommended that the office move from a single Commissioner to a commission structure with collective decision-making, on the basis that its functions have grown well beyond what the original design contemplated.[^es_commission] The proposed body would be independent and accountable, with the range of expertise its functions now require.[^es_commission2] As an interim step, the review proposed a chairperson and deputy chairperson alongside the Commissioner, to distribute decision-making and workload.[^es_interim]
+The review recommended that the office move from a single Commissioner to a commission structure with collective decision-making, on the basis that its functions have grown well beyond what the original design contemplated.[^es_commission] The proposed body would be independent and accountable, with the range of expertise its functions now require.[^es_commission2] The Commission would initially comprise a chair, a deputy chair and a commissioner, with flexibility in the legislation to appoint up to nine members as the regulator's functions and powers grow.[^es_composition] Separately, the review identified a standalone, independent regulator as the ideal end state, recommending that the office transition to one once its functions under a new framework have been settled.[^es_standalone]
 
 ### Simplifying the regulatory framework
 
@@ -80,7 +80,7 @@ It also recommended decoupling the _Online Safety Act_ from the National Classif
 
 [^es_239a]: _Online Safety Act 2021_ (Cth) s 239A.
 
-[^es_announce]: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts, 'Report of the Statutory Review of the Online Safety Act 2021' (Media Release, 4 February 2025) <https://www.infrastructure.gov.au/department/media/publications/report-statutory-review-online-safety-act-2021>.
+[^es_announce]: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts, 'Report of the Statutory Review of the Online Safety Act 2021' (Web Page, 4 February 2025) <https://www.infrastructure.gov.au/department/media/publications/report-statutory-review-online-safety-act-2021>.
 
 [^es_issues]: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts, 'Statutory Review of the Online Safety Act 2021' (Web Page) <https://www.infrastructure.gov.au/have-your-say/statutory-review-online-safety-act-2021>.
 
@@ -102,15 +102,17 @@ It also recommended decoupling the _Online Safety Act_ from the National Classif
 
 [^es_penalties]: Rickard (above) 23, 137–138 (Recommendations 34–35).
 
-[^es_takedown]: Rickard (above) 77, 79, 103 (Recommendations 15, 16, 25).
+[^es_takedown]: Rickard (above) 77, 79 (Recommendations 15–16), 103 (Recommendation 25).
 
 [^es_codes]: Rickard (above) 62 (Recommendation 9).
 
 [^es_commission]: Rickard (above) 19, 169–171.
 
-[^es_commission2]: Rickard (above) 19, 172–174.
+[^es_commission2]: Rickard (above) 171 (independence), 172–174 (Recommendations 60–61).
 
-[^es_interim]: Rickard (above) 169, 172, 174 (Recommendation 59).
+[^es_composition]: Rickard (above) 19, 169, 172, 174 (Recommendation 59).
+
+[^es_standalone]: Rickard (above) 19, 177–178 (Recommendation 62).
 
 [^es_simplify]: Rickard (above) 11–12, 14.
 
