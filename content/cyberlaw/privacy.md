@@ -626,7 +626,7 @@ The _Privacy and Other Legislation Amendment Bill 2024_ (Cth) passed both Houses
 - new OAIC powers to issue infringement and compliance notices; and
 - an express requirement that 'reasonable steps' to protect the security of personal information include technical and organisational measures.[^dox_changes]
 
-### Doxxing
+## Doxxing
 
 Unlike the statutory tort, doxxing was not among the 116 proposals in the _Privacy Act Review Report_. The Commonwealth Government moved to criminalise doxxing after the February 2024 publication of the contents of a private messaging group of more than 600 members of the Australian Jewish community. Names, professions, photographs and social media profiles were exposed, and those affected reported harassment and threats.[^dox_trigger] The Government conducted a public consultation in March 2024, and in September 2024 doxxing offences were included in the Bill.
 
@@ -641,7 +641,7 @@ Doxxing — sometimes spelled 'doxing', and derived from 'dropping documents' �
 {: .example }
 > **Ashley Madison (2015)**
 >
-> The dating website _Ashley Madison_ was hacked by a group calling itself 'Impact Team'. The attackers threatened to release user data unless the site shut down; when it did not, the personal details of millions of users were published online. The incident is an early large-scale illustration of the harms that follow the mass publication of identifying information.
+> The dating website _Ashley Madison_ was hacked by a group calling itself 'Impact Team'. The attackers threatened to release user data unless the site shut down; when it did not, the personal details of millions of users were published online.[^dox_ashley] The incident is an early large-scale illustration of the harms that follow the mass publication of identifying information.
 
 #### The position before 2024
 
@@ -692,6 +692,8 @@ The effect of the new offences will depend on enforcement. Significant obstacles
 [^dox_trigger]: Explanatory Memorandum, Privacy and Other Legislation Amendment Bill 2024 (Cth).
 
 [^dox_esafety]: eSafety Commissioner, _Doxing Trends and Challenges: Position Statement_ (Position Statement, January 2022) <https://www.esafety.gov.au/sites/default/files/2022-01/Doxing-Position-Statement%20_v2.pdf>.
+
+[^dox_ashley]: Office of the Australian Information Commissioner and Office of the Privacy Commissioner of Canada, _Joint Investigation of Ashley Madison by the Privacy Commissioner of Canada and the Australian Privacy Commissioner and Acting Australian Information Commissioner_ (Report, 24 August 2016) [2] <https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/ashley-madison-joint-investigation>.
 
 [^dox_47417]: _Criminal Code Act 1995_ (Cth) s 474.17.
 
@@ -956,6 +958,40 @@ The first two of these cases illustrate a recurring point: anonymity technologie
 
 [^tor_moore2]: Moore and Rid (above) 17.
 
+#### Cryptocurrency and pseudonymity
+
+A cryptocurrency is a digital asset used as a medium of exchange, recorded on a distributed ledger rather than administered by a central issuer.[^cry_milut] Transactions are recorded on a blockchain, which means that no single body controls issuance. Two features of that design matter for privacy law: issuance is not set by a central bank, and transactions are pseudonymous rather than tied to a verified identity.[^cry_milut2] Pseudonymity is not the same as anonymity — public blockchains record every transaction permanently, and analysis of that record is itself a surveillance technique — but it substantially raises the cost of attributing a transaction to a person.
+
+##### Illicit use and the limits of attribution
+
+The pseudonymity of public blockchains has been associated with use of cryptocurrencies for illegal trade, money laundering and evasion of capital controls.[^cry_foley] One widely cited study estimated that around one quarter of bitcoin users, and close to half of bitcoin transactions, were associated with illegal activity.[^cry_foley2]
+
+{: .warning }
+> Estimates of the proportion of cryptocurrency activity associated with crime vary widely between studies and depend heavily on the classification method used. The figures above are drawn from a single 2019 study of bitcoin and should not be treated as a settled measure, or as applying to cryptocurrencies generally or to the present day.
+
+{: .example }
+> **Silk Road**
+>
+> Silk Road was an online marketplace that used bitcoin to facilitate trade in illicit goods and services. It was shut down by United States federal law enforcement in October 2013, in an investigation led by the Federal Bureau of Investigation, and the operator, Ross Ulbricht, was subsequently convicted and sentenced to life imprisonment.[^cry_silkroad] Ulbricht was granted a full and unconditional presidential pardon on 21 January 2025.[^cry_pardon] The seizure demonstrated that pseudonymous marketplaces are not beyond the reach of law enforcement, and remains the standard illustration of both the attraction and the vulnerability of that model.
+
+Attribution remains difficult. Mixing services such as CoinJoin combine balances from multiple addresses and redistribute them to new addresses, obscuring the origin of funds.[^cry_athey] Privacy-focused cryptocurrencies are designed to conceal transaction details at the protocol level rather than relying on mixing.[^cry_foley3] The result is that only a small fraction of the value moving through illicit marketplaces has been positively identified as such.
+
+[^cry_milut]: Monia Milutinović, 'Cryptocurrency' (2018) 64(1) _Ekonomika_ 105, 106.
+
+[^cry_milut2]: Ibid 106–10.
+
+[^cry_foley]: Sean Foley, Jonathan R Karlsen and Tālis J Putniņš, 'Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?' (2019) 32(5) _Review of Financial Studies_ 1798, 1799.
+
+[^cry_foley2]: Ibid 1800.
+
+[^cry_silkroad]: United States Attorney's Office, Southern District of New York, 'Ross Ulbricht, the Creator and Owner of the “Silk Road” Website, Found Guilty in Manhattan Federal Court on All Counts' (Press Release, 5 February 2015) <https://www.justice.gov/usao-sdny/pr/ross-ulbricht-creator-and-owner-silk-road-website-found-guilty-manhattan-federal-court>; United States Attorney's Office, Southern District of New York, 'Ross Ulbricht, a/k/a “Dread Pirate Roberts”, Sentenced in Manhattan Federal Court to Life in Prison' (Press Release, 29 May 2015) <https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison>. The website was seized by federal law enforcement agents in September–October 2013 in an investigation led by the Federal Bureau of Investigation, with the Drug Enforcement Administration and Internal Revenue Service Criminal Investigation: United States Attorney's Office, Southern District of New York, 'Manhattan US Attorney Announces Seizure of Additional $28 Million Worth of Bitcoins Belonging to Ross William Ulbricht' (Press Release, 25 October 2013) <https://www.justice.gov/archive/usao/nys/pressreleases/October13/SilkRoadSeizurePR.php>.
+
+[^cry_pardon]: Executive Grant of Clemency (Full and Unconditional Pardon) for Ross William Ulbricht (US, 21 January 2025) <https://www.justice.gov/pardon/media/1386096/dl?inline>; United States Department of Justice, Office of the Pardon Attorney, _Clemency Grants by President Donald J Trump (2025–Present)_ (Web Page) <https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present>.
+
+[^cry_athey]: Susan Athey et al, 'Bitcoin Pricing, Adoption, and Usage: Theory and Evidence' (Research Paper No 16-42, Stanford University Graduate School of Business, 2016) 4.
+
+[^cry_foley3]: Foley, Karlsen and Putniņš (above) 1801.
+
 ### Regulation
 
 The proper use of PETs generally falls within the mandate of the Office of the Australian Information Commissioner (OAIC) to ensure organisations take reasonable steps when handling personal information and maintain acceptable data retention practices in compliance with the *Privacy Act 1988* (Cth) and other relevant laws. The regulatory framework in Australia encourages but generally does not expressly require organisations to use privacy-enhancing technologies (PETs).
@@ -992,7 +1028,7 @@ While seemingly broad, [commentary](https://www.theguardian.com/australia-news/2
 
 [^MHRaudit]: See, Auditor-General Report No.13 2019--20 Implementation of the My Health Record System at 17-18
 
-### Children's online privacy and sharenting
+## Children's online privacy and sharenting
 
 **Editor's note**: needs edit -- not sure about the neologism.
 
@@ -1351,66 +1387,3 @@ The Australian Consumer Law states that the term 'goods' is inclusive of objects
 In December 2023, Ubisoft, a video game publisher, removed one of its titles, _The Crew_, from both digital stores and the consoles of users who had already purchased the game. Ubisoft were discontinuing the servers that _The Crew_ relied on to be played. The withdrawal of the game was permitted under the end-user license agreement. This led to a [petition](https://www.aph.gov.au/e-petitions/petition/EN6080) demanding the enactment of legislation that requires digital products to remain operational without support from its publisher. In response, the Assistant Treasurer and Minister for Financial Services stated that digital products [confer a license to use the product, not a right of ownership](https://epetitions.aph.gov.au/api/ministerialresponse/download/EN6080).
 
 As long as digital products are considered services rather than goods, the Australian Consumer Law offers limited protection for consumers of digital products. Their license to use the digital product will be governed by the terms and conditions set by the company.
-
-## Cryptocurrency, anonymity and regulation
-
-A cryptocurrency is a digital asset used as a medium of exchange, recorded on a distributed ledger rather than administered by a central issuer.[^cry_milut] Transactions are recorded on a blockchain, which means that no single body controls issuance. Two features of that design matter for privacy law: issuance is not set by a central bank, and transactions are pseudonymous rather than tied to a verified identity.[^cry_milut2] Pseudonymity is not the same as anonymity — public blockchains record every transaction permanently, and analysis of that record is itself a surveillance technique — but it substantially raises the cost of attributing a transaction to a person.
-
-### Illicit use and the limits of attribution
-
-The pseudonymity of public blockchains has been associated with use of cryptocurrencies for illegal trade, money laundering and evasion of capital controls.[^cry_foley] One widely cited study estimated that around one quarter of bitcoin users, and close to half of bitcoin transactions, were associated with illegal activity.[^cry_foley2]
-
-{: .warning }
-> Estimates of the proportion of cryptocurrency activity associated with crime vary widely between studies and depend heavily on the classification method used. The figures above are drawn from a single 2019 study of bitcoin and should not be treated as a settled measure, or as applying to cryptocurrencies generally or to the present day.
-
-{: .example }
-> **Silk Road**
->
-> Silk Road was an online marketplace that used bitcoin to facilitate trade in illicit goods and services. It was shut down by the United States Federal Bureau of Investigation in 2013, and the operator was subsequently convicted. The seizure demonstrated that pseudonymous marketplaces are not beyond the reach of law enforcement, and remains the standard illustration of both the attraction and the vulnerability of that model.
-
-Attribution remains difficult. Mixing services such as CoinJoin combine balances from multiple addresses and redistribute them to new addresses, obscuring the origin of funds.[^cry_athey] Privacy-focused cryptocurrencies are designed to conceal transaction details at the protocol level rather than relying on mixing.[^cry_foley3] The result is that only a small fraction of the value moving through illicit marketplaces has been positively identified as such.
-
-### Market manipulation
-
-A 'pump and dump' scheme is a form of price manipulation in which an asset's price is inflated by coordinated buying and promotion before the promoters sell, leaving later purchasers holding a falling asset. In conventional securities markets, this conduct is prohibited by the market misconduct provisions of the _Corporations Act 2001_ (Cth) and is enforced by the Australian Securities and Investments Commission (ASIC).[^cry_asic]
-
-Cryptocurrency markets present two structural difficulties. First, where a crypto asset is not a financial product, the market misconduct provisions may not apply to it, and the regulator's information-gathering powers are correspondingly limited. Second, the timescale is very short: research on manipulation in crypto markets finds that a typical scheme lasts only several minutes, producing a sharp increase in price, volume and volatility followed by a quick reversal, which makes detection and enforcement after the fact considerably harder.[^cry_li]
-
-There is some evidence that exchange-level rules affect the incidence of manipulation. Exploiting two natural experiments in which exchanges altered their pump-and-dump policies, the same study found evidence that pump-and-dump activity contributes to reduced liquidity and lower prices for the assets affected.[^cry_li2] This suggests that venue rules and listing standards may be a more responsive regulatory lever than after-the-fact enforcement.
-
-### Regulatory approaches
-
-**United States.** The Securities and Exchange Commission for a long period declined to approve proposed cryptocurrency exchange-traded products, citing concerns about market surveillance and susceptibility to manipulation in the underlying spot markets.
-
-**China.** Chinese authorities have prohibited domestic cryptocurrency trading and mining outright.
-
-**Singapore and Switzerland.** Both jurisdictions took an early approach of bringing cryptocurrency-related businesses within existing financial regulatory frameworks rather than creating a separate regime.
-
-**Australia.** Australia has broadly followed the latter approach. Where a crypto asset falls within the existing definition of a 'financial product', the licensing, disclosure and market misconduct provisions of the _Corporations Act 2001_ (Cth) apply, and ASIC regulates it accordingly.[^cry_asicinfo] Where it does not, the position is less settled, and reform in this area is ongoing.
-
-Proposals for central bank digital currencies have been advanced as one response, on the basis that a state-issued digital currency would combine the settlement advantages of the technology with an identifiable issuer. Central banks have raised countervailing concerns about the effect on monetary policy transmission and on the availability of economic statistics.[^cry_cbdc]
-
-{: .note }
-> Regulation of crypto assets in Australia is developing. This section describes the position as it stands at the time of writing and should be checked against current ASIC guidance and any subsequent legislation.
-
-[^cry_milut]: Monia Milutinović, 'Cryptocurrency' (2018) 64(1) _Ekonomika_ 105, 106.
-
-[^cry_milut2]: Ibid 106–10.
-
-[^cry_foley]: Sean Foley, Jonathan R Karlsen and Tālis J Putniņš, 'Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?' (2019) 32(5) _Review of Financial Studies_ 1798, 1799.
-
-[^cry_foley2]: Ibid 1800.
-
-[^cry_athey]: Susan Athey et al, 'Bitcoin Pricing, Adoption, and Usage: Theory and Evidence' (Research Paper No 16-42, Stanford University Graduate School of Business, 2016) 4.
-
-[^cry_foley3]: Foley, Karlsen and Putniņš (above) 1801.
-
-[^cry_asic]: _Corporations Act 2001_ (Cth) pt 7.10.
-
-[^cry_li]: Tao Li, Donghwa Shin and Baolian Wang, 'Cryptocurrency Pump-and-Dump Schemes' (2025) 60(8) _Journal of Financial and Quantitative Analysis_ 3622 <https://doi.org/10.1017/S0022109025000201>. On the duration of a typical scheme, see also the authors' own summary: Tao Li, Baolian Wang and Donghwa Shin, 'Cryptocurrency Pump-and-Dump Schemes', _CLS Blue Sky Blog_ (Blog Post, 7 January 2019) <https://clsbluesky.law.columbia.edu/2019/01/07/cryptocurrency-pump-and-dump-schemes/> ('a typical cryptocurrency P&D lasts for only several minutes').
-
-[^cry_li2]: Ibid.
-
-[^cry_asicinfo]: Australian Securities and Investments Commission, _Digital Assets: Financial Products and Services_ (Information Sheet 225) <https://asic.gov.au/regulatory-resources/digital-transformation/crypto-assets/>.
-
-[^cry_cbdc]: Milutinović (above) 109–10.

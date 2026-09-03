@@ -146,10 +146,6 @@ With respect to class 2 material which falls within the R 18+ or category 1 rest
 
 Under s 124, the Commissioner also has the power to issue notice to search engine providers requiring the provider to cease providing links to class 1 materials (a ‘link deletion notice’) in certain circumstances. Under s 128, the Commissioner may issue notice to an app distribution service provider to cease enabling end users in Australia to download an app that facilitates the posting of class 1 material (an ‘app removal notice’) in certain circumstances.
 
-### Social media minimum age
-
-**Video overview of the social media minimum age scheme by [Olivia Stanley](https://youtu.be/k7VOS8qsOEw)**
-
 The online content scheme regulates material by reference to its classification. A separate part of the _Online Safety Act 2021_ (Cth) restricts who may hold an account with certain services, regardless of the material on them. That scheme is discussed at [Social media minimum age](#social-media-minimum-age) below.
 
 ## Basic Online Safety Expectations
@@ -628,6 +624,8 @@ On 5 June 2024, the eSafety Commissioner discontinued the proceedings in the Fed
 The Federal Court has deemed this case to be of 'public interest', meaning that an almost complete public record of the documentation can be accessed [here](https://www.fedcourt.gov.au/services/access-to-files-and-transcripts/online-files/esafety-commissioner-v-x-corp).
 
 # Social media minimum age
+
+**Video overview of the social media minimum age scheme by [Olivia Stanley](https://youtu.be/k7VOS8qsOEw)**
 
 The _Online Safety Amendment (Social Media Minimum Age) Act 2024_ (Cth) inserted a minimum age requirement into the _Online Safety Act 2021_ (Cth). From 10 December 2025, providers of age-restricted social media platforms must take reasonable steps to prevent Australians under 16 from creating or holding an account.[^sma_commence] It was the first measure of its kind in any jurisdiction.
 

@@ -94,3 +94,62 @@ Sleeve" case study, and the US/UK comparative analysis — was integrated in ful
 rather than content.
 
 **Reason.** Structural instruction, not textbook text. It was followed in placing the material.
+
+## Doc 14 (Crypto) — market manipulation and monetary policy
+
+**Removed from `content/cyberlaw/privacy.md` after first-pass integration.** The
+"Market manipulation" and "Regulatory approaches" subsections of the cryptocurrency material:
+pump-and-dump schemes and the *Corporations Act 2001* (Cth) market misconduct provisions, the
+comparative US/China/Singapore/Switzerland/Australia survey of crypto-asset regulation, and
+central bank digital currencies.
+
+**Reason.** Out of scope for the privacy chapter. `docs/agents/INSTRUCTIONS.md` → *Structure*:
+"Keep sections focused". The material is financial-market and monetary-policy regulation, not
+privacy or surveillance; it does not bear on the anonymity/pseudonymity question that makes
+cryptocurrency relevant to this chapter. It is also substantially covered already in
+`content/cyberlaw/follow_the_money.md` § "Crypto assets", which sets out the ASIC financial-product
+test, exchange-traded products, AUSTRAC registration and the token-mapping strategy at greater
+length. *Quality Standards → Verification*: "Remove duplication: Check across and within chapters."
+
+The anonymity and pseudonymity material from the same document was retained and moved to
+`content/cyberlaw/privacy.md` § "Cryptocurrency and pseudonymity", alongside the Tor material under
+*Privacy-enhancing technology*, where it belongs.
+
+**Possible destination.** `content/cyberlaw/follow_the_money.md`, if an editor judges the
+pump-and-dump research and the comparative survey to add something to what that chapter already
+carries. Preserved verbatim below, with footnotes.
+
+---
+
+### Market manipulation
+
+A 'pump and dump' scheme is a form of price manipulation in which an asset's price is inflated by coordinated buying and promotion before the promoters sell, leaving later purchasers holding a falling asset. In conventional securities markets, this conduct is prohibited by the market misconduct provisions of the _Corporations Act 2001_ (Cth) and is enforced by the Australian Securities and Investments Commission (ASIC).[^cry_asic]
+
+Cryptocurrency markets present two structural difficulties. First, where a crypto asset is not a financial product, the market misconduct provisions may not apply to it, and the regulator's information-gathering powers are correspondingly limited. Second, the timescale is very short: research on manipulation in crypto markets finds that a typical scheme lasts only several minutes, producing a sharp increase in price, volume and volatility followed by a quick reversal, which makes detection and enforcement after the fact considerably harder.[^cry_li]
+
+There is some evidence that exchange-level rules affect the incidence of manipulation. Exploiting two natural experiments in which exchanges altered their pump-and-dump policies, the same study found evidence that pump-and-dump activity contributes to reduced liquidity and lower prices for the assets affected.[^cry_li2] This suggests that venue rules and listing standards may be a more responsive regulatory lever than after-the-fact enforcement.
+
+### Regulatory approaches
+
+**United States.** The Securities and Exchange Commission for a long period declined to approve proposed cryptocurrency exchange-traded products, citing concerns about market surveillance and susceptibility to manipulation in the underlying spot markets.
+
+**China.** Chinese authorities have prohibited domestic cryptocurrency trading and mining outright.
+
+**Singapore and Switzerland.** Both jurisdictions took an early approach of bringing cryptocurrency-related businesses within existing financial regulatory frameworks rather than creating a separate regime.
+
+**Australia.** Australia has broadly followed the latter approach. Where a crypto asset falls within the existing definition of a 'financial product', the licensing, disclosure and market misconduct provisions of the _Corporations Act 2001_ (Cth) apply, and ASIC regulates it accordingly.[^cry_asicinfo] Where it does not, the position is less settled, and reform in this area is ongoing.
+
+Proposals for central bank digital currencies have been advanced as one response, on the basis that a state-issued digital currency would combine the settlement advantages of the technology with an identifiable issuer. Central banks have raised countervailing concerns about the effect on monetary policy transmission and on the availability of economic statistics.[^cry_cbdc]
+
+{: .note }
+> Regulation of crypto assets in Australia is developing. This section describes the position as it stands at the time of writing and should be checked against current ASIC guidance and any subsequent legislation.
+
+[^cry_asic]: _Corporations Act 2001_ (Cth) pt 7.10.
+
+[^cry_li]: Tao Li, Donghwa Shin and Baolian Wang, 'Cryptocurrency Pump-and-Dump Schemes' (2025) 60(8) _Journal of Financial and Quantitative Analysis_ 3622 <https://doi.org/10.1017/S0022109025000201>. On the duration of a typical scheme, see also the authors' own summary: Tao Li, Baolian Wang and Donghwa Shin, 'Cryptocurrency Pump-and-Dump Schemes', _CLS Blue Sky Blog_ (Blog Post, 7 January 2019) <https://clsbluesky.law.columbia.edu/2019/01/07/cryptocurrency-pump-and-dump-schemes/> ('a typical cryptocurrency P&D lasts for only several minutes').
+
+[^cry_li2]: Ibid.
+
+[^cry_asicinfo]: Australian Securities and Investments Commission, _Digital Assets: Financial Products and Services_ (Information Sheet 225) <https://asic.gov.au/regulatory-resources/digital-transformation/crypto-assets/>.
+
+[^cry_cbdc]: Monia Milutinović, 'Cryptocurrency' (2018) 64(1) _Ekonomika_ 105, 109–10.

@@ -39,7 +39,7 @@ The independent review was completed on 31 October 2024 and the final report was
 
 The review's principal recommendation was the introduction of a digital duty of care, shifting responsibility for preventing foreseeable online harm from end-users to service providers.[^es_dutyrec] Providers would be required to assess the risks their services create and to exercise due diligence in addressing them, with an emphasis on prevention through system design, on mitigation measures, and on transparency reporting.[^es_dutydesign]
 
-The argument for the change is that the existing model is reactive: it depends on a person who has already been harmed identifying the material, reporting it, and seeking its removal, which places the burden on the individual least able to bear it. A duty directed at systems places it instead on the party able to change how the service operates.[^es_dutyrationale] The review also argued that a single overarching duty would simplify compliance relative to the current arrangement of separate schemes.[^es_dutysimplify]
+The argument for the change is that the existing model is reactive: it depends on a person who has already been harmed identifying the material, reporting it, and seeking its removal, which places the burden on the individual least able to bear it. A duty directed at systems places it instead on the party able to change how the service operates.[^es_dutyrationale] An analysis by Elit Lawyers suggests that a single overarching duty would simplify compliance relative to the current arrangement of separate schemes.[^es_dutysimplify]
 
 The Government committed to legislating a digital duty of care.[^es_govtcommit] The proposal is discussed further at [A duty of digital care in Australia](../content/#a-duty-of-digital-care-in-australia).
 
@@ -90,7 +90,7 @@ It also recommended decoupling the _Online Safety Act_ from the National Classif
 
 [^es_dutyrec]: Ibid 12, 50.
 
-[^es_dutydesign]: Michael Swinson, Luke Hawthorne and Whye Y Tan, 'Report of the Statutory Review of the Online Safety Act 2021 Released', _King & Wood Mallesons_ (Web Page, 10 February 2025) <https://www.kwm.com/au/en/insights/latest-thinking/report-of-the-statutory-review-of-the-online-safety-act-2021-released.html>.
+[^es_dutydesign]: Rickard (above) 51 (Recommendations 4, 6, 10).
 
 [^es_dutyrationale]: Rickard (above) 50.
 
@@ -100,20 +100,20 @@ It also recommended decoupling the _Online Safety Act_ from the National Classif
 
 [^es_powers]: Rickard (above) 16–17, 149.
 
-[^es_penalties]: Paul Kallenbach, Dean Levitan and Milashni Richardson, 'Online Safety Act 2021 — Statutory Review Released', _MinterEllison_ (Web Page, 13 February 2025) <https://www.minterellison.com/articles/online-safety-act-2021-statutory-review-released>.
+[^es_penalties]: Rickard (above) 23, 137–138 (Recommendations 34–35).
 
-[^es_takedown]: Swinson, Hawthorne and Tan (above).
+[^es_takedown]: Rickard (above) 77, 79, 103 (Recommendations 15, 16, 25).
 
-[^es_codes]: Swinson, Hawthorne and Tan (above).
+[^es_codes]: Rickard (above) 62 (Recommendation 9).
 
 [^es_commission]: Rickard (above) 19, 169–171.
 
 [^es_commission2]: Rickard (above) 19, 172–174.
 
-[^es_interim]: Snell, McGirr and Bull (above).
+[^es_interim]: Rickard (above) 169, 172, 174 (Recommendation 59).
 
 [^es_simplify]: Rickard (above) 11–12, 14.
 
-[^es_roles]: Swinson, Hawthorne and Tan (above).
+[^es_roles]: Rickard (above) 39, 41 (Recommendation 2).
 
 [^es_decouple]: Rickard (above) 16, 119–121.
