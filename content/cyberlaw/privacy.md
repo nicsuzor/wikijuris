@@ -730,7 +730,7 @@ The Australian Privacy Principles (APPs) apply to most businesses and platforms 
 - **APP 11 (security)**: reasonable steps must be taken to protect biometric data from misuse, interference and loss; and
 - **APP 12 (access)**: individuals have a right to access personal information held about them.
 
-Where an entity fails to comply, the Information Commissioner may seek civil penalties.[^bio_penalties] For straightforward authentication systems of the kind described above, the existing framework provides a workable basis for regulating collection, storage and security. Biometric data nonetheless raises distinct problems.
+Where an entity fails to comply, the Information Commissioner may seek civil penalties.[^bio_penalties] These principles govern the collection, storage and security of biometric data used in straightforward authentication systems of the kind described above. Biometric data nonetheless raises distinct problems.
 
 #### Biometric data cannot be reissued
 
@@ -911,7 +911,7 @@ Tor — originally 'the onion router' — is one of the most widely used anonymi
 - the **exit node**, through which traffic passes before returning to the open internet; and
 - **bridge nodes**, a form of guard node that is not publicly listed.
 
-Development began in the mid-1990s at the United States Naval Research Laboratory, with the aim of protecting government communications. Restricting the network to government and law enforcement users would have defeated its purpose: if every connection originated from an official, the anonymity set would be trivially small. The network was opened to the public in 2002 for that reason.[^tor_davis] It is now maintained by the non-profit Tor Project, and is used both for anonymous browsing and for hosting anonymous services.[^tor_moore]
+Development began in the mid-1990s at the United States Naval Research Laboratory, with the aim of protecting government communications. Restricting the network to government and law enforcement users would have defeated its purpose: if every connection originated from an official, the anonymity set — the pool of users among whom any one user's traffic is indistinguishable — would be trivially small. The network was opened to the public in 2002 for that reason.[^tor_davis] It is now maintained by the non-profit Tor Project, and is used both for anonymous browsing and for hosting anonymous services.[^tor_moore]
 
 ##### Tor and Australian law
 

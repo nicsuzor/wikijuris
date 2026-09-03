@@ -131,9 +131,11 @@ a communication passing over a telecommunications system.
 
 ### 474.22, 474.23   Child abuse material offences
 
+These offences are dealt with at [Child abuse material](#child-abuse-material) below.
+
 ### 474.26, 474.27   Using a carriage service to procure or groom a child
 
-These offences are dealt with at [Child Sexual Exploitation Online](#child-sexual-exploitation-online) below.
+These offences are dealt with at [Grooming](#grooming) below.
 
 # Cyberstalking: Technology-Facilitated Abuse
 
@@ -171,7 +173,7 @@ Online grooming is grooming conducted through communications services, whether t
 
 ### Prevalence
 
-The Australian Centre to Counter Child Exploitation recorded 58,503 reports of online child abuse in the 2023–24 financial year, a 45% increase on the previous financial year's total of 40,232 reports.[^cse_accce]
+The Australian Centre to Counter Child Exploitation (ACCCE) recorded 58,503 reports of online child abuse in the 2023–24 financial year, a 45% increase on the previous financial year's total of 40,232 reports.[^cse_accce]
 
 Contextual data on children's use of online services is relevant to exposure. eSafety research found that 95% of 13 to 15 year olds and 80% of 8 to 12 year olds had used at least one social media service, notwithstanding platform terms restricting accounts to users aged 13 and over.[^cse_behind] Earlier research found that 55% of Australians aged 8 to 17 had communicated with someone they first met online, and 12% had met such a person in person.[^cse_mindgap]
 
@@ -195,7 +197,7 @@ Related offences in the same subdivision include s 474.26 (using a carriage serv
 
 ### Enforcement
 
-Enforcement is coordinated across agencies. The Australian Centre to Counter Child Exploitation brings together the Australian Federal Police and partner agencies, working alongside State arrangements including the Joint Child Protection Response Programme and specialist units such as Queensland's Task Force Argos.
+Enforcement is coordinated across agencies. The ACCCE brings together the Australian Federal Police and partner agencies, working alongside State arrangements including the Joint Child Protection Response Programme and specialist units such as Queensland's Task Force Argos.
 
 The ACCCE reported that in 2022–23 it received 40,232 reports, that the AFP made 186 arrests resulting in 925 child exploitation related charges, that 141 victims were identified, and that 120 children were removed from harm.[^cse_stats]
 

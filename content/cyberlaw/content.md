@@ -413,11 +413,11 @@ The _Sex Discrimination Act 1984_ (Cth) prohibits discrimination on the basis of
 #### Case study: dating app facilitated sexual violence
 
 {: .example }
-> **Dating app facilitated sexual violence (DAFSV)**
+> **Dating app facilitated sexual violence**
 >
-> DAFSV refers to sexual aggression, harassment and other violence occurring through communication with users on dating apps, including violence arranged through an app and then carried out in person. It can include image-based abuse — unsolicited sexual images, pressure to share images, and sharing images with third parties without consent — abusive or threatening messages, and in-person abuse arranged through the app.
+> Dating app facilitated sexual violence refers to sexual aggression, harassment and other violence occurring through communication with users on dating apps, including violence arranged through an app and then carried out in person. It can include image-based abuse — unsolicited sexual images, pressure to share images, and sharing images with third parties without consent — abusive or threatening messages, and in-person abuse arranged through the app.
 >
-> Research reports that around three in four Australians have experienced abuse on dating apps in the preceding five years,[^qcb_albury] and that prevalence of online DAFSV differs sharply by gender and sexuality: LGB+ women reported the highest prevalence (86.6%), then non-binary respondents (84.5%) and LGB+ men (79.2%), followed by heterosexual women (79.1%) and heterosexual men (61.5%).[^qcb_wolbers] Among the 102 participants in a 2023 Australian focus group study, the most used dating apps were Tinder (27%), Bumble (21%), Grindr (8%), Hinge (6%), eHarmony (6%) and Plenty of Fish (2%).[^qcb_monash]
+> Research reports that around three in four Australians have experienced abuse on dating apps in the preceding five years,[^qcb_albury] and that prevalence of online dating app facilitated sexual violence differs sharply by gender and sexuality: LGB+ women reported the highest prevalence (86.6%), then non-binary respondents (84.5%) and LGB+ men (79.2%), followed by heterosexual women (79.1%) and heterosexual men (61.5%).[^qcb_wolbers] Among the 102 participants in a 2023 Australian focus group study, the most used dating apps were Tinder (27%), Bumble (21%), Grindr (8%), Hinge (6%), eHarmony (6%) and Plenty of Fish (2%).[^qcb_monash]
 >
 > New South Wales Police laid 39 charges in relation to 44 incidents reported to them from January 2024, in which victims were robbed, assaulted or extorted after meeting offenders through dating apps.[^qcb_om]
 >
@@ -427,7 +427,7 @@ The _Sex Discrimination Act 1984_ (Cth) prohibits discrimination on the basis of
 
 In October 2024 the LGBTQIA+ organisation ACON and NSW Police jointly urged users to take precautions after a 'high number' of violent assaults across New South Wales arranged through gay dating and hook-up apps, with guidance on meeting someone for the first time.[^qcb_acon]
 
-In October 2024 a number of dating platforms, including Grindr, developed the Online Dating Code of Practice in consultation with the Australian Government.[^qcb_code] The Code requires participating platforms to implement systems to detect DAFSV, act against perpetrators, and improve complaint and reporting mechanisms. It became subject to enforcement in 2025.[^qcb_enforce] Two limitations are apparent: it is a voluntary industry code, which constrains its enforceability against platforms that do not participate, and it does not address the disproportionate effect of DAFSV on queer users.
+In October 2024 a number of dating platforms, including Grindr, developed the Online Dating Code of Practice in consultation with the Australian Government.[^qcb_code] The Code requires participating platforms to implement systems to detect dating app facilitated sexual violence, act against perpetrators, and improve complaint and reporting mechanisms. It became subject to enforcement in 2025.[^qcb_enforce] Two limitations are apparent: it is a voluntary industry code, which constrains its enforceability against platforms that do not participate, and it does not address the disproportionate effect of this violence on queer users.
 
 [^qcb_esafety]: eSafety Commissioner, _Protecting LGBTIQ+ Voices Online: Resource Development Research_ (Qualitative Report, August 2021).
 
@@ -453,13 +453,13 @@ In October 2024 a number of dating platforms, including Grindr, developed the On
 
 ## Technology-facilitated abuse
 
-Technology-facilitated abuse (TFA) is the use of technology to harm or control another person. It arises most often in the context of domestic, family and sexual violence, and includes harassing or threatening a person online, sharing or threatening to share intimate images, cyberstalking, monitoring a person's communications and movements, and restricting a person's access to their accounts or devices.[^tfa_esafety]
+Technology-facilitated abuse is the use of technology to harm or control another person. It arises most often in the context of domestic, family and sexual violence, and includes harassing or threatening a person online, sharing or threatening to share intimate images, cyberstalking, monitoring a person's communications and movements, and restricting a person's access to their accounts or devices.[^tfa_esafety]
 
 Technology also enables coercive control — patterns of manipulation, pressure and fear used to control a partner or family member. In a technological setting this includes tracking and monitoring, cutting a person off from online support networks, and isolating or gaslighting them.[^tfa_agd]
 
-TFA is not a marginal phenomenon. In a 2020 survey of 442 domestic and family violence practitioners, 99.3% reported having clients who had experienced technology-facilitated stalking and abuse.[^tfa_wesnet] Reported prevalence increased with the shift to online communication during the COVID-19 pandemic. TFA is identified as a priority in the _National Plan to End Violence against Women and Children 2022–2032_.[^tfa_natplan]
+Technology-facilitated abuse is not a marginal phenomenon. In a 2020 survey of 442 domestic and family violence practitioners, 99.3% reported having clients who had experienced technology-facilitated stalking and abuse.[^tfa_wesnet] Reported prevalence increased with the shift to online communication during the COVID-19 pandemic. It is identified as a priority in the _National Plan to End Violence against Women and Children 2022–2032_.[^tfa_natplan]
 
-The harm is unevenly distributed. Women experience TFA at substantially higher rates than men, consistent with the gendered pattern of domestic and family violence generally.[^tfa_monash] The eSafety Commissioner's research indicates that one in four children aged 10 to 17 has experienced non-consensual tracking, monitoring or harassment.[^tfa_kks]
+The harm is unevenly distributed. Women experience technology-facilitated abuse at substantially higher rates than men, consistent with the gendered pattern of domestic and family violence generally.[^tfa_monash] The eSafety Commissioner's research indicates that one in four children aged 10 to 17 has experienced non-consensual tracking, monitoring or harassment.[^tfa_kks]
 
 ### Tracking and location sharing
 
@@ -478,7 +478,7 @@ Consumer location-sharing features are a common vector. The eSafety Commissioner
 
 The eSafety Commissioner receives reports of adult cyber abuse and image-based abuse under the schemes described above, and can compel removal of material, publish the names of non-compliant services, and seek civil penalties.[^tfa_martin] The Commissioner also supports online safety planning for people at risk of, or experiencing, technology-facilitated abuse.
 
-The Commissioner's role in this area has attracted criticism. Removal of individual items of content has been described as an incomplete response, on the basis that it addresses the artefact rather than the pattern of control and provides limited assistance to the person affected.[^tfa_martin2] It has been argued that the stronger statutory powers available under the _Online Safety Act 2021_ (Cth) are used sparingly, and that the scheme does little to produce systemic change in platform design.[^tfa_martin3] Research has also identified that frontline services do not consistently treat TFA as a serious form of abuse.[^tfa_anrows2] Separate work has argued that responses to TFA in Aboriginal and Torres Strait Islander communities require Indigenous-led research and design rather than the application of general frameworks.[^tfa_carlson]
+The Commissioner's role in this area has attracted criticism. Removal of individual items of content has been described as an incomplete response, on the basis that it addresses the artefact rather than the pattern of control and provides limited assistance to the person affected.[^tfa_martin2] It has been argued that the stronger statutory powers available under the _Online Safety Act 2021_ (Cth) are used sparingly, and that the scheme does little to produce systemic change in platform design.[^tfa_martin3] Research has also identified that frontline services do not consistently treat technology-facilitated abuse as a serious form of abuse.[^tfa_anrows2] Separate work has argued that responses to technology-facilitated abuse in Aboriginal and Torres Strait Islander communities require Indigenous-led research and design rather than the application of general frameworks.[^tfa_carlson]
 
 Proposals for improvement have centred on education and resourcing: better training for frontline workers, and material directed at younger people addressing digital coercive control and expectations of privacy and consent within relationships.[^tfa_abc]
 
