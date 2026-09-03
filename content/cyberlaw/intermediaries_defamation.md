@@ -243,8 +243,7 @@ The plaintiff argued that Google Inc. was a “publisher” of the images, on tw
 The court declined to overturn the jury's verdict, accepting the arguments put forth by Trkulja.[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdNo5httpwwwaustliieduaucgibinsinodispaucasesvicVSC2012533htmlstem0synonyms0querytitleTrkulja20and20Google20Inc20nocontext12012VSC533AUTOREPLACED]
 
 
-[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdNo5httpwwwaustliieduaucgibinsinodispaucasesvicVSC2012533htmlstem0synonyms0querytitleTrkulja20and20Google20Inc20nocontext12012VSC533AUTOREPLACED]: _Trkulja v Google Inc. & Google Australia Pty Ltd_ (No 5) [http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/vic/VSC/2012/533.html?stem=0&synonyms=0&query=title(Trkulja%20and%20Google%20Inc.%20)&nocontext=1]([2012] VSC 533
-)
+[^AUTOREPLACEDTrkuljavGoogleIncGoogleAustraliaPtyLtdNo5httpwwwaustliieduaucgibinsinodispaucasesvicVSC2012533htmlstem0synonyms0querytitleTrkulja20and20Google20Inc20nocontext12012VSC533AUTOREPLACED]: _Trkulja v Google Inc. & Google Australia Pty Ltd_ (No 5) [[2012] VSC 533](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/vic/VSC/2012/533.html).
 
 In respect of Trkulja's first argument, the Court focused its reasoning heavily on Google's intention as manifested in the operation of its automated system, comparing Google to a newsagent selling a newspaper containing a defamatory article. While not specifically intending to publish defamatory material, it intended, the Court held, to publish the material it produced (see [18]). Google Inc. could not here say that its conduct was merely passive. Beach J distinguished Tamiz v Google Inc [2012] EWHC 449 and even doubted whether Google could be described as an “internet intermediary” in this context since the material was produced as a result of the operation of its search engine (see [29]). Interestingly, Tamiz was the case which was held to be persuasive by the court in Duffy, so there is an inconsistency of judicial opinions here.
 
@@ -273,6 +272,36 @@ This case controversially found that merely linking in search results to third p
 An intermediary publisher can only rely on the innocent dissemination defence until they receive a cease-and-desist notice. Once notice is received, it must be acted on within a reasonable timeframe to avoid liability. In this case, that timeframe was 7 days.
 
 </div>
+
+{: .warning}
+> The reasoning in the 2018 decision above — that providing a hyperlinked search result amounts to publication — no longer represents the law. The High Court rejected that approach in _Google LLC v Defteros_ [2022] HCA 27, immediately below. Formally, the High Court's appeal was from the Court of Appeal's later, substantive decision in _Defteros v Google LLC_ [2021] VSCA 167, which had upheld Google's loss at trial; the 2018 interlocutory decision was not itself the subject of the appeal.
+
+{: .example }
+> ##### _Google LLC v Defteros_ [2022] HCA 27
+>
+> The High Court allowed Google's appeal by majority, holding that Google was not a publisher of a newspaper article to which one of its search results linked.[^deft_hca]
+>
+> **The reasoning.** The Court of Appeal had taken what has been described as an instrumental approach: providing a hyperlink lent assistance to the publication of the underlying article, and so amounted to publication. The majority in the High Court rejected that reasoning. Providing a search result that includes a hyperlink is a different act from publishing the content at the other end of it. A hyperlink is a content-neutral reference that directs a user to a separate page; the material is not communicated to anyone unless and until the user takes the further, independent step of following the link.[^deft_kiefel]
+>
+> The majority treated the search engine as facilitating access to material rather than participating in its communication. The algorithm identified and ranked material that already existed, in response to a query framed by the user.
+>
+> **Relationship to _Voller_.** The decision is best read against _Voller_, in which media companies were held to be publishers of third-party comments on their Facebook pages because they had facilitated, encouraged and thereby assisted the publication of those comments.[^deft_voller] The distinction the Court drew is one of intentionality and control: in _Voller_ the defendants had deliberately established and maintained a forum inviting the comments in question, whereas in _Defteros_ the search result was produced automatically in response to a user's query, without any act directed at the particular material.
+>
+> The working proposition after these two cases is that an intermediary that creates a space for user-generated content and exercises control over it is more likely to be a publisher, while an intermediary whose function is to help locate material published elsewhere is less likely to be.
+>
+> **What the decision does not decide.** _Defteros_ concerned an organic search result. It does not resolve liability for defamatory matter appearing in the search result itself — snippets reproducing the defamatory imputation — or for sponsored links, where the intermediary has a commercial relationship with the advertiser and the material is displayed on that basis.[^deft_commentary] _Duffy_, above, concerned snippets as well as links, and was not disturbed on that point.
+>
+> **Consequences for plaintiffs.** The practical effect is to return the burden to the plaintiff to pursue the original publisher. Where that publisher is anonymous or outside the jurisdiction, the plaintiff may have no effective remedy. This is one of the pressures to which the 2024 reforms discussed below respond.
+>
+> The result also aligns Australian law with the Canadian position in _Crookes v Newton_, below, which the Court of Appeal had declined to follow.
+
+[^deft_hca]: _Google LLC v Defteros_ [[2022] HCA 27](https://www.hcourt.gov.au/sites/default/files/eresources/2022/HCA/27.pdf).
+
+[^deft_kiefel]: Ibid [53] (Kiefel CJ and Gleeson J). See also Tom Alchin, 'Google LLC v Defteros: Defamation, Publication and Hyperlinked Search Results' (2023) 45(1) _Sydney Law Review_ 141.
+
+[^deft_voller]: _Fairfax Media Publications Pty Ltd v Voller_ (2021) 273 CLR 346.
+
+[^deft_commentary]: Caitlin O'Brien and Andrew Saker, 'Google v Defteros: Defamation Liability of Search Engines' (Blog Post, University of Technology Sydney, 13 September 2022) <https://www.uts.edu.au/news/2022/09/google-v-defteros-defamation-liability-search-engines>.
 
 <div markdown="block"  class="box case">
 

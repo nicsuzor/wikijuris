@@ -71,6 +71,8 @@ Watch the following videos for background on online content regulation prior to 
 
 ## Content classification in Australia
 
+**Video overview of content classification and online safety in Australia by [Jennifer O'Connor](https://youtu.be/rFY0f7DeZ1k)**
+
 **The Department of Infrastructure, Transport, Regional Development, Communications and the Arts provides a [quick guide to Australian classification ratings](https://youtu.be/rr7M1iApO1Y)**
 
 The rules that apply to content depend upon the classification of the content. Australia has a national classification scheme for content (films, games, publications) likely to cause offence which was enacted in 1995 – the National Classification Scheme/Code.
@@ -144,6 +146,8 @@ With respect to class 2 material which falls within the R 18+ or category 1 rest
 
 Under s 124, the Commissioner also has the power to issue notice to search engine providers requiring the provider to cease providing links to class 1 materials (a ‘link deletion notice’) in certain circumstances. Under s 128, the Commissioner may issue notice to an app distribution service provider to cease enabling end users in Australia to download an app that facilitates the posting of class 1 material (an ‘app removal notice’) in certain circumstances.
 
+The online content scheme regulates material by reference to its classification. A separate part of the _Online Safety Act 2021_ (Cth) restricts who may hold an account with certain services, regardless of the material on them. That scheme is discussed at [Social media minimum age](#social-media-minimum-age) below.
+
 ## Basic Online Safety Expectations
 
 The _Online Safety Act_ provides for the Minister for Communications to make a determination (a form of legislative instrument) setting out basic online safety expectations. The basic online safety expectations are a set of minimum standards that online services are expected to meet in order to help keep their users safe.
@@ -155,6 +159,23 @@ The 2022 Determination was amended by the _Online Safety (Basic Online Safety Ex
 Under s 49, the Commissioner may require the relevant providers to submit periodic reports on how they are meeting the expectations set out in the determination. These reports explain what steps the service has taken to protect users, such as blocking harmful content or improving safety tools. The Commissioner may also publish statements about the provider’s compliance or non-compliance with the expectations on its website.
 
 [^BOSEAmend]: _[Online Safety (Basic Online Safety Expectations) Amendment Determination 2024](https://www.legislation.gov.au/F2024L00590/asmade/text)_ (Cth) ss 1–2, sch 1 item 1, inserting _Online Safety (Basic Online Safety Expectations) Determination 2022_ (Cth) s 6(2A).
+
+## A duty of digital care in Australia
+
+**Video overview of the proposed duty of care by [Kaila Andrews](https://www.youtube.com/watch?v=dAAdp_MpNVQ)**
+
+The schemes described above operate largely after the fact: they identify categories of material and provide for its removal once it has been posted and reported. An alternative approach places a positive, ongoing obligation on services to identify and mitigate the risks their systems create, enforced by a regulator against the service's systems rather than against particular items of content.
+
+The statutory review of the _Online Safety Act 2021_ (Cth) recommended that Australia adopt a duty of care of this kind, under which providers would be required to take reasonable steps to prevent foreseeable harms arising from the design and operation of their services.[^ddc_review] The Government indicated it would legislate a digital duty of care.[^ddc_govt]
+
+The model is drawn from comparable schemes overseas — the systemic risk assessment obligations in the EU _Digital Services Act_, and the duties imposed on services by the _Online Safety Act 2023_ (UK), both discussed at [Regulating content in other jurisdictions](#regulating-content-in-other-jurisdictions) below.
+
+{: .warning}
+> A digital duty of care has been announced and recommended but, at the time of writing, has not been enacted. This section describes the proposal rather than operative law, and should be checked against the current legislative position.
+
+[^ddc_review]: Delia Rickard PSM, _Report of the Statutory Review of the Online Safety Act 2021_ (Report, October 2024) <https://www.infrastructure.gov.au/department/media/publications/report-statutory-review-online-safety-act-2021>.
+
+[^ddc_govt]: Minister for Communications, 'Address to the National Press Club' (Speech, 13 November 2024).
 
 # Section 313 of the Telecommunications Act 1997 (Cth)
 
@@ -190,14 +211,14 @@ The non-consensual sharing of intimate images is often colloquially referred to 
 The National Statement of Principles Relating to the Criminalisation of the Non-consensual Sharing of Intimate Images encouraged each Australian jurisdiction to adopt nationally consistent criminal offences.
 
 Under the _Criminal Code Act 1995_ (Cth), it is an offence to post, or threaten to post, non-consensual intimate images.[^AUTOREPLACEDEnhancingOnlineSafetyNonConsensualSharingofIntimateImagesAct2018Cthsch2s4CriminalCodeAct1995Cths47417AAUTOREPLACED] 
-Specifically, s 474.17 of the Criminal Code sets out an offence for the use of a carriage service in a way that reasonable persons would regard as being, in all the circumstances, menacing, harassing or offensive. Section 474.17A makes it an aggravated offence where that use involves transmitting or promoting material that is private sexual material.
+Specifically, s 474.17 of the Criminal Code sets out an offence for the use of a carriage service in a way that reasonable persons would regard as being, in all the circumstances, menacing, harassing or offensive. Section 474.17A was substituted in 2024 and is now a standalone offence of using a carriage service to transmit sexual material depicting another person without that person's consent; the definition of 'private sexual material', on which the former aggravated offence depended, was repealed at the same time. The 2024 offences are discussed at [Criminal Code Amendment (Deepfake Sexual Material) Act 2024 (Cth)](#criminal-code-amendment-deepfake-sexual-material-act-2024-cth) below.
 
 Section 75 of the _Online Safety Act_ prohibits the posting, or threatened posting, of an intimate image of another person without their consent. The prohibition applies where the person in the image or person posting the image are ordinarily resident in Australia. An ‘intimate image’ is defined to include images that depict genital or anal areas, a female, transgender or intersex person’s breasts, private activities such as showering, using the toiler or engaging in a sexual act not ordinarily done in public.
 
 There is also a complaints-based system in the _Online Safety Act_, whereby the eSafety Commissioner may issue a removal notice or another civil remedy upon receipt of a victim’s complaint.
 
 
-[^AUTOREPLACEDEnhancingOnlineSafetyNonConsensualSharingofIntimateImagesAct2018Cthsch2s4CriminalCodeAct1995Cths47417AAUTOREPLACED]: Enhancing Online Safety (Non-Consensual Sharing of Intimate Images) Act 2018 (Cth) sch 2 s 4; Criminal Code Act 1995 (Cth) s 474.17A.
+[^AUTOREPLACEDEnhancingOnlineSafetyNonConsensualSharingofIntimateImagesAct2018Cthsch2s4CriminalCodeAct1995Cths47417AAUTOREPLACED]: Enhancing Online Safety (Non-Consensual Sharing of Intimate Images) Act 2018 (Cth) sch 2 s 4; _Criminal Code Act 1995_ (Cth) s 474.17A; _Criminal Code Amendment (Deepfake Sexual Material) Act 2024_ (Cth) sch 1 (repealing the definition of 'private sexual material' in _Criminal Code_ s 473.1 and substituting s 474.17A).
 
 
 Queensland extended the definition of ‘intimate’ images to include original or photoshopped still or moving images of a person engaged in intimate sexual activity; a person's bare genital or anal region; or a female, transgender or intersex person's breasts.[^AUTOREPLACEDCriminalCodeNonConsensualSharingofIntimateImagesAmendmentBill2018Qlds4CriminalCodeAct1899Qlds207AAUTOREPLACED]
@@ -338,6 +359,159 @@ Both the _Online Safety Act 2021_ (Cth) and _Criminal Code Act 1995_ (Cth) addre
 The federal government introduced an exposure draft on _Social Media (Anti-Trolling) Bill 2021_ (Cth) shortly after the decision in _Fairfax Media Publications Pty Ltd v Voller_. The High Court found that media companies can be held responsible for alleged defamatory third-party comments made on Facebook accounts of media companies. The Bill intended to address defamatory comments by exposing anonymous commenters through platforms obtaining their contact details. The Bill established a limited role on trolling issues and lapsed at the dissolution of Parliament in April 2022.
 
 
+#### Self-help responses and their limits
+
+Where the statutory thresholds are not met, targets of trolling are left to the remedies they can arrange themselves. The limits of that position were illustrated in 2025.
+
+{: .example }
+> **Identifying anonymous accounts: Indy Clinton (2025)**
+>
+> In June 2025, Australian content creator Indy Clinton engaged a licensed private investigator to identify anonymous accounts that had been targeting her over a period of years. The investigator produced a report identifying the people behind a number of the accounts, which Clinton discussed publicly.[^troll_smh] Many were found to be operated by people who were not anonymous strangers in any meaningful sense.
+>
+> The investigator noted that a licensed investigator may lawfully conduct surveillance that would not be available to a private individual, and that identified account holders may expose themselves to liability, including in defamation.[^troll_pi]
+>
+> Reaction was divided: some commentators treated the exercise as a demonstration that anonymity online is weaker than users assume, while others raised concerns about a public figure directing attention towards identified individuals.
+
+The case is instructive less for what it achieved than for what it reveals about the distribution of remedies. Clinton's approach depended on the cost of engaging an investigator, the time to pursue it, and the existence of a potential cause of action in defamation — a combination available to very few people. The statutory schemes described above are addressed to material that meets a seriousness threshold; conduct falling below it, however sustained, is left to platform reporting tools and to whatever the target can arrange privately.[^troll_esafety]
+
+[^troll_smh]: Nell Geraets, 'Is This the End of Faceless Internet Trolls? How One "Mumfluencer" Is Turning the Tables', _The Sydney Morning Herald_ (online, 25 June 2025) <https://www.smh.com.au/culture/celebrity/is-this-the-end-of-faceless-internet-trolls-how-one-mumfluencer-is-turning-the-tables-20250623-p5m9hk.html>.
+
+[^troll_pi]: Hit Network, 'P.I. Reveals How Indy Clinton Tracked Down TikTok Trolls' (YouTube, 24 June 2025) <https://www.youtube.com/watch?v=ULxwFgjeixE>.
+
+[^troll_esafety]: eSafety Commissioner, 'Trolling' (Web Page) <https://www.esafety.gov.au/young-people/trolling>.
+
+### Cyberbullying and the queer community
+
+LGBTQIA+ internet users experience online abuse at higher rates than cisgender and heterosexual users. In 2020 the eSafety Commissioner identified LGBTQIA+ people as a group at increased risk of online abuse, ranging from dismissive comments and scams through to severe harassment and sustained targeting.[^qcb_esafety] Low-level micro-aggressions directed at queer users frequently go unreported until they escalate.
+
+![Infographic, page 1: Cyberbullying and the queer community. Definitions of cyberbullying, cyber abuse, cissexism, heterosexism and unconscious bias; statistics on rates of cyberbullying and online hate speech affecting LGBTQIA+ people; and a summary of the Online Safety Act 2021 (Cth) and the Sex Discrimination Act 1984 (Cth). The full text is set out below.](cyberbullying-queer-community-1.png)
+
+{: .note }
+> The text alternative below reproduces the content of the infographic in full, so that the material is available to readers using a screen reader or a text-only view.
+
+{: .ed }
+> The second page of this infographic (a case study on dating app facilitated sexual violence) has been removed from this chapter: the graphic stated prevalence figures and an attribution that could not be verified against the research it cited. Its content, with corrected figures and sources, is incorporated in the text below.
+
+#### Terms used
+
+- **Cyberbullying**: the use of technology to bully a person with the intent to hurt or intimidate.
+- **Cyber abuse**: behaviour that intentionally uses technology to threaten, harass or humiliate, with intent to cause social, psychological or physical harm.
+- **Cissexism**: the belief that being cisgender — identifying with the gender assigned at birth — is natural and superior to other gender identities.
+- **Heterosexism**: the belief that the world is heterosexual, and that social customs and behaviours should conform to that assumption.
+- **Unconscious bias**: a belief held by an individual of which they are not personally aware.
+
+#### Prevalence
+
+Reported research indicates that LGBTQIA+ students experience cyberbullying at roughly twice the rate of their heterosexual peers (36.1% compared with 20.1%),[^qcb_hinduja] and that 30% of LGBTQI adults were the target of online hate speech in the 12 months to August 2019, compared with a national average of 14% of adults aged 18 to 65.[^qcb_hate]
+
+#### The legislative framework
+
+**Australia (Commonwealth).** The _Online Safety Act 2021_ (Cth) establishes the notice regime described earlier in this chapter, under which the eSafety Commissioner may require providers and end-users to remove cyberbullying material and, in some cases, restrict users. The Act protects Australian adults and children generally; it does not identify cissexism or heterosexism as specific harms.
+
+The _Sex Discrimination Act 1984_ (Cth) prohibits discrimination on the basis of sexual orientation (s 5A) and gender identity (s 5B).[^qcb_sda] It is a general anti-discrimination framework and does not address cyberbullying directly.
+
+#### Case study: dating app facilitated sexual violence
+
+{: .example }
+> **Dating app facilitated sexual violence**
+>
+> Dating app facilitated sexual violence refers to sexual aggression, harassment and other violence occurring through communication with users on dating apps, including violence arranged through an app and then carried out in person. It can include image-based abuse — unsolicited sexual images, pressure to share images, and sharing images with third parties without consent — abusive or threatening messages, and in-person abuse arranged through the app.
+>
+> Research reports that around three in four Australians have experienced abuse on dating apps in the preceding five years,[^qcb_albury] and that prevalence of online dating app facilitated sexual violence differs sharply by gender and sexuality: LGB+ women reported the highest prevalence (86.6%), then non-binary respondents (84.5%) and LGB+ men (79.2%), followed by heterosexual women (79.1%) and heterosexual men (61.5%).[^qcb_wolbers] Among the 102 participants in a 2023 Australian focus group study, the most used dating apps were Tinder (27%), Bumble (21%), Grindr (8%), Hinge (6%), eHarmony (6%) and Plenty of Fish (2%).[^qcb_monash]
+>
+> New South Wales Police laid 39 charges in relation to 44 incidents reported to them from January 2024, in which victims were robbed, assaulted or extorted after meeting offenders through dating apps.[^qcb_om]
+>
+> Victoria Police's LGBTIQA+ Communities Portfolio Manager has described a pattern of 'posting and boasting', in which victims of assaults arranged through dating apps are filmed and the video posted to social media, the recording then being used in a shaming process that includes threatening to out the victim.[^qcb_om]
+
+#### Industry response
+
+In October 2024 the LGBTQIA+ organisation ACON and NSW Police jointly urged users to take precautions after a 'high number' of violent assaults across New South Wales arranged through gay dating and hook-up apps, with guidance on meeting someone for the first time.[^qcb_acon]
+
+In October 2024 a number of dating platforms, including Grindr, developed the Online Dating Code of Practice in consultation with the Australian Government.[^qcb_code] The Code requires participating platforms to implement systems to detect dating app facilitated sexual violence, act against perpetrators, and improve complaint and reporting mechanisms. It became subject to enforcement in 2025.[^qcb_enforce] Two limitations are apparent: it is a voluntary industry code, which constrains its enforceability against platforms that do not participate, and it does not address the disproportionate effect of this violence on queer users.
+
+[^qcb_esafety]: eSafety Commissioner, _Protecting LGBTIQ+ Voices Online: Resource Development Research_ (Qualitative Report, August 2021).
+
+[^qcb_hinduja]: Sameer Hinduja and Justin W Patchin, _Bullying, Cyberbullying, and Sexual Orientation_ (Research Summary, Cyberbullying Research Center, 2011) 1.
+
+[^qcb_hate]: eSafety Commissioner, Netsafe and UK Safer Internet Centre, _[Online Hate Speech: Findings from Australia, New Zealand and Europe](https://www.esafety.gov.au/sites/default/files/2020-01/Hate%20speech-Report.pdf)_ (Report, January 2020) 8 (Table 2).
+
+[^qcb_sda]: _Sex Discrimination Act 1984_ (Cth) ss 5A, 5B.
+
+[^qcb_albury]: Kath Albury and Daniel Reeders, '3 in 4 People Experience Abuse on Dating Apps. How Do We Balance Prevention with Policing?', _The Conversation_ (online, 30 January 2023) <https://theconversation.com/3-in-4-people-experience-abuse-on-dating-apps-how-do-we-balance-prevention-with-policing-198587>.
+
+[^qcb_wolbers]: Heather Wolbers et al, _[Sexual Harassment, Aggression and Violence Victimisation among Mobile Dating App and Website Users in Australia](https://www.aic.gov.au/sites/default/files/2022-10/rr25_sexual_harassment_aggression_and_violence_victimisation.pdf)_ (Research Report No 25, Australian Institute of Criminology, 2022) 10. Non-binary respondents were excluded from the associated statistical testing because of small sample size.
+
+[^qcb_monash]: Monash University, _[Australian Users' Experiences with Control Features on Social Media Services and Online Dating Apps](https://www.infrastructure.gov.au/sites/default/files/documents/australian-users-experiences-with-control-features-on-social-media-services-and-online-dating-apps-final-report-may2023.pdf)_ (Key Findings, May 2023) 13. The figures describe the 102 participants in the study's 24 online focus groups, not a nationally representative sample.
+
+[^qcb_om]: Jason Om, 'New Wave of Homophobic Attacks Targets Users of Gay Dating Apps like Grindr', _ABC News_ (online, 6 July 2025) <https://www.abc.net.au/news/2025-07-06/gay-dating-app-users-lured-into-violent-homophobic-attacks/105464048>.
+
+[^qcb_acon]: Jordan Hirst, 'Safety Alert after "High Number" of Gay App Assaults in NSW', _QNews_ (online, 18 October 2024) <https://qnews.com.au/safety-alert-after-high-number-of-gay-app-assaults-in-nsw/>.
+
+[^qcb_code]: Australian Online Dating Code Oversight Body, _Code of Practice_ (Industry Code, July 2024); Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts, 'New Industry Code Now Operational to Make Online Dating Safer' (Media Release, 3 October 2024).
+
+[^qcb_enforce]: Michelle Rowland, 'Online Dating Platforms Now Subject to Enforcement' (Media Release, Minister for Communications, 1 April 2025).
+
+## Technology-facilitated abuse
+
+Technology-facilitated abuse is the use of technology to harm or control another person. It arises most often in the context of domestic, family and sexual violence, and includes harassing or threatening a person online, sharing or threatening to share intimate images, cyberstalking, monitoring a person's communications and movements, and restricting a person's access to their accounts or devices.[^tfa_esafety]
+
+Technology also enables coercive control — patterns of manipulation, pressure and fear used to control a partner or family member. In a technological setting this includes tracking and monitoring, cutting a person off from online support networks, and isolating or gaslighting them.[^tfa_agd]
+
+Technology-facilitated abuse is not a marginal phenomenon. In a 2020 survey of 442 domestic and family violence practitioners, 99.3% reported having clients who had experienced technology-facilitated stalking and abuse.[^tfa_wesnet] Reported prevalence increased with the shift to online communication during the COVID-19 pandemic. It is identified as a priority in the _National Plan to End Violence against Women and Children 2022–2032_.[^tfa_natplan]
+
+The harm is unevenly distributed. Women experience technology-facilitated abuse at substantially higher rates than men, consistent with the gendered pattern of domestic and family violence generally.[^tfa_monash] The eSafety Commissioner's research indicates that one in four children aged 10 to 17 has experienced non-consensual tracking, monitoring or harassment.[^tfa_kks]
+
+### Tracking and location sharing
+
+Consumer location-sharing features are a common vector. The eSafety Commissioner has observed that tracking another person is frequently framed as care but functions as control.[^tfa_abc]
+
+{: .example }
+> **Inquest into the death of Lilie James (2023–25)**
+>
+> In October 2023, Lilie James was murdered at a school in Sydney by a man with whom she had had a brief relationship. Evidence before the inquest was that the perpetrator had used a social media application's location-sharing feature to monitor her movements, and had become aware through it that she was at a gathering. He had a history of controlling behaviour towards a former partner, including anger at her refusal to share her location, and had shown intimate images of Ms James to others.[^tfa_abcinq]
+>
+> Expert evidence at the inquest characterised this conduct as technology-facilitated abuse, and described location monitoring as a recognised form of digital coercive control.[^tfa_guardian]
+
+**New South Wales.** In December 2024, the definition of stalking in s 8 of the _Crimes (Domestic and Personal Violence) Act 2007_ (NSW) was expanded to include 'the monitoring or tracking of a person's activities, communications or movements', whether by using technology or in another way. The offence of stalking or intimidation with intent to cause fear of physical or mental harm is in s 13.[^tfa_nsw]
+
+### The role of the eSafety Commissioner
+
+The eSafety Commissioner receives reports of adult cyber abuse and image-based abuse under the schemes described above, and can compel removal of material, publish the names of non-compliant services, and seek civil penalties.[^tfa_martin] The Commissioner also supports online safety planning for people at risk of, or experiencing, technology-facilitated abuse.
+
+The Commissioner's role in this area has attracted criticism. Removal of individual items of content has been described as an incomplete response, on the basis that it addresses the artefact rather than the pattern of control and provides limited assistance to the person affected.[^tfa_martin2] It has been argued that the stronger statutory powers available under the _Online Safety Act 2021_ (Cth) are used sparingly, and that the scheme does little to produce systemic change in platform design.[^tfa_martin3] Research has also identified that frontline services do not consistently treat technology-facilitated abuse as a serious form of abuse.[^tfa_anrows2] Separate work has argued that responses to technology-facilitated abuse in Aboriginal and Torres Strait Islander communities require Indigenous-led research and design rather than the application of general frameworks.[^tfa_carlson]
+
+Proposals for improvement have centred on education and resourcing: better training for frontline workers, and material directed at younger people addressing digital coercive control and expectations of privacy and consent within relationships.[^tfa_abc]
+
+[^tfa_esafety]: eSafety Commissioner, 'Domestic and Family Violence' (Web Page, 6 November 2024) <https://www.esafety.gov.au/key-topics/domestic-family-violence>.
+
+[^tfa_agd]: Attorney-General's Department, 'Understanding Technology-Facilitated Coercive Control' (Web Page, 5 March 2024) <https://www.ag.gov.au/families-and-marriage/publications/understanding-technology-facilitated-coercive-control>.
+
+[^tfa_wesnet]: Delanie Woodlock et al, _[Second National Survey of Technology Abuse and Domestic Violence in Australia](https://wesnet.org.au/wp-content/uploads/sites/3/2020/11/Wesnet-2020-2nd-National-Survey-Report-72pp-A4-FINAL.pdf)_ (Report, WESNET, 2020) 18.
+
+[^tfa_natplan]: Commonwealth of Australia, _National Plan to End Violence against Women and Children 2022–2032_ (2022).
+
+[^tfa_monash]: Monash University, 'Technology-Facilitated Violence in the Indo-Pacific Is on the Rise and Under-Researched', _Lens_ (Web Page, 7 March 2025) <https://lens.monash.edu/@politics-society/2025/03/07/1387375/technology-facilitated-violence-in-the-indo-pacific-is-on-the-rise-and-under-researched>.
+
+[^tfa_kks]: eSafety Commissioner, '[The Online Experiences of Children in Australia](https://www.esafety.gov.au/research/the-online-experiences-of-children-in-australia)' (Research Web Page, 2025), reporting the Keeping Kids Safe Online survey of over 3,000 children aged 10 to 17 conducted between December 2024 and February 2025: '1 in 4 (25%) had experienced non-consensual tracking, monitoring or harassment'.
+
+[^tfa_abc]: Arianna Levy and Alison Xiao, 'Location-Sharing Apps Linked to Increased Risk of Digital Coercive Control, eSafety Commission Research Finds', _ABC News_ (online, 15 May 2025) <https://www.abc.net.au/news/2025-05-15/location-sharing-apps-esafety-commission-coercive-control/105289994>.
+
+[^tfa_abcinq]: Victoria Pengilley and Brianna Parkins, 'Lilie James's Killer Was Calm and Calculated, Inquest into Murder Told', _ABC News_ (online, 22 March 2025) <https://www.abc.net.au/news/2025-03-22/lilie-james-killer-controlling-domestic-violence-expert-inquest/105078608>.
+
+[^tfa_guardian]: Mostafa Rachwani, 'Disturbing Portrait of Coercive Control and Violent Masculinity Revealed at Lilie James Inquest', _The Guardian_ (online, 22 March 2025) <https://www.theguardian.com/society/2025/mar/21/lilie-james-inquest-reveals-disturbing-portrait-of-coercive-control-and-violent-masculinity-ntwnfb>.
+
+[^tfa_nsw]: _Crimes (Domestic and Personal Violence) Act 2007_ (NSW) ss 8(1)(b1), 13, as amended by the _Crimes (Domestic and Personal Violence) and Other Legislation Amendment Act 2024_ (NSW) sch 1[3]. The s 13 offence carries a maximum penalty of imprisonment for 5 years or 50 penalty units, or both.
+
+[^tfa_martin]: Noelle Martin, 'Online Safety Regulation of Deepfake Abuse: A Case Study on Australia's eSafety Commissioner' (2025) 34(1) _Griffith Law Review_ 23, 30.
+
+[^tfa_martin2]: Ibid.
+
+[^tfa_martin3]: Ibid.
+
+[^tfa_anrows2]: ANROWS, _Technology-Facilitated Abuse: A Survey of Support Service Stakeholders_ (Research Report, July 2021) 7.
+
+[^tfa_carlson]: Bronwyn Carlson and Madi Day, 'Technology-Facilitated Abuse: The Need for Indigenous-Led Research and Response' in Bridget Harris and Delanie Woodlock (eds), _Technology and Domestic and Family Violence: Victimisation, Perpetration and Responses_ (Routledge, 2023) 33.
+
 # Abhorrent Violent Material
 
 **See overview by Georgie Vine about the [Criminal Code Amendment (Sharing of Abhorrent Violent Material) Act 2019](https://www.youtube.com/watch?v=a8qDarI5mCM)**
@@ -438,7 +612,7 @@ On 13 May 2024, the Federal Court of Australia [handed down its judgment](https:
 
 In relation to the second issue, at the core of the dispute was that the eSafety Commissioner argued it was insufficient for X to simply 'geo-block' the material for Australian users, and that the 65 URLs should be removed from the platform altogether. The Commissioner argued that such action is within the "all reasonable steps" that the notice required to be taken. X argued that a requirement to remove the material worldwide, goes beyond what could be considered "reasonable".
 
-Justice Kennett held that it would be reasonable for X Corp to remove the content, but unreasonable for the Commissioner to compel removal through section 109 of the Act. The injunction was thus denied. Further observations were made that, had the injunction been ordered, it would have:
+Justice Kennett held that, read in context, the 'reasonable steps' required by a removal notice issued under s 109 do not include the steps the Commissioner sought to compel — blocking access to the 65 URLs for all users of X worldwide — and that the Commissioner had therefore not established a prima facie case for the final injunction sought ([2024] FCA 499, [53]–[54]). The injunction was thus refused. Further observations were made that, had the injunction been ordered, it would have:
 
 * Had a 'global effect', impacting X and many other organisations who have no real connection to Australia or its interests.
 * Impacted the interests of individuals globally who have no connection to the proceedings.
@@ -448,6 +622,99 @@ Justice Kennett held that it would be reasonable for X Corp to remove the conten
 On 5 June 2024, the eSafety Commissioner discontinued the proceedings in the Federal Court.
 
 The Federal Court has deemed this case to be of 'public interest', meaning that an almost complete public record of the documentation can be accessed [here](https://www.fedcourt.gov.au/services/access-to-files-and-transcripts/online-files/esafety-commissioner-v-x-corp).
+
+# Social media minimum age
+
+**Video overview of the social media minimum age scheme by [Olivia Stanley](https://youtu.be/k7VOS8qsOEw)**
+
+The _Online Safety Amendment (Social Media Minimum Age) Act 2024_ (Cth) inserted a minimum age requirement into the _Online Safety Act 2021_ (Cth). From 10 December 2025, providers of age-restricted social media platforms must take reasonable steps to prevent Australians under 16 from creating or holding an account.[^sma_commence] It was the first measure of its kind in any jurisdiction.
+
+## Design of the scheme
+
+The obligation is placed on the provider, not on the child or the parent. Neither a child who holds an account nor their parents commit an offence or incur a penalty. The eSafety Commissioner has characterised the measure as a delay rather than a prohibition, on the basis that it defers access rather than removing it permanently, and locates responsibility with platforms.[^sma_inmangrant]
+
+The stated rationale is protective. The Government presented the measure as a response to platforms that were designed for adults but are used by children, and to the accumulation of research on the effects of social media use on young people's wellbeing.[^sma_pm]
+
+The penalty for failing to take reasonable steps is set out at [Current regulatory framework](#current-regulatory-framework) above.
+
+## Evidence relied on
+
+eSafety research published in 2025 found that 96% of children aged 10 to 15 had used social media, that 71% had ever seen or heard content associated with harm online, and that more than half of children aged 13 to 15 had experienced cyberbullying. One in seven reported experiencing grooming-like behaviour from an adult or from a child at least four years older.[^sma_kks]
+
+Separately, the Australian Institute of Health and Welfare reports higher levels of psychological distress among young Australians than among older cohorts, with the highest levels among young women.[^sma_aihw]
+
+## Which services are covered
+
+A service is an age-restricted social media platform where its sole or a significant purpose is to enable online social interaction between two or more end-users, it allows users to link to or interact with other users, it allows users to post material, and it satisfies 'such other conditions (if any) as are set out in the legislative rules'.[^sma_63c] From 26 March 2026 that fourth condition is populated: the service must have either or both of a 'recommender feature' — the ability to select material by reference to information associated with a user's account and display it to that user — and a 'logged-in feature', being an endless-feed, feedback or time-limited feature that is available only to account holders.[^sma_rules4a]
+
+In November 2025 the eSafety Commissioner published a list of ten services it considered were likely to be age-restricted social media platforms: Facebook, Instagram, Kick, Reddit, Snapchat, Threads, TikTok, Twitch, X and YouTube.[^sma_platforms]
+
+The _Online Safety (Age-Restricted Social Media Platforms) Rules 2025_ (Cth) also exclude a number of services, on the basis that young people require continued access to services supporting education, health and communication.[^sma_rules] The exclusions are threshold-based rather than categorical: a service is excluded only where its 'sole or primary purpose' is messaging, email or voice or video calling; online games; sharing information such as reviews, technical support or advice about products or services; professional networking or development; supporting the education of end-users; or supporting the health of end-users. Two further classes are excluded where the service has a 'significant purpose' of facilitating communication between educational institutions and students or their families, or between health care providers and the people using their services.
+
+## Age assurance
+
+Compliance requires some means of establishing age. 'Age assurance' covers a range of methods, from those producing a high degree of certainty to those producing only an estimate or a range.[^sma_ageassurance] Platforms have adopted a range of methods for users who are affected by the restriction but say they are 16 or older, including facial age estimation from a video selfie assessed by a third-party provider, photo identification, and bank-verified digital identity.[^sma_meta]
+
+The Australian Government funded an Age Assurance Technology Trial in 2024–25. The trial concluded that age assurance can be implemented in Australia, while identifying significant limitations. There is no single technology that works across all cases; systems need fallback options, such as identity document checks, for cases where estimation fails. On demographic performance the trial reported broad consistency: the systems tested 'performed broadly consistently across demographic groups assessed', and, despite an acknowledged deficit of training data about Indigenous populations, the trial found 'no substantial difference in the outcomes for First Nations and Torres Strait Islander Peoples and other multi-cultural communities', with 'variances across race' not deviating 'by more than recognised tolerances'. It recorded one qualified exception: while systems generally performed well across diverse user groups, 'some showed reduced accuracy for older adults, non-Caucasian users and female-presenting individuals near policy thresholds'.[^sma_trial]
+
+{: .warning}
+> The trial's finding of reduced accuracy in *some* systems, for *some* groups of users, *near policy thresholds*, is a deployment risk rather than a finding of systemic bias: where a particular system performs less well near a threshold, the burden of failed age estimation, and of falling back to identity document checks, will not fall evenly. That has consequences both for access to services and for the volume of identity information collected from affected users. The trial's overall finding was one of broad demographic consistency, and the position should be checked against the outcomes of deployed systems as they are reported.
+
+The Act restricts what platforms may do with information collected for age assurance: it must be destroyed once used for that purpose, and must not be used for any other purpose unless the user consents, with consent required to be current, informed, voluntary, specific and unambiguous.[^sma_privacy]
+
+## Criticism
+
+### Proportionality and human rights
+
+The Australian Human Rights Commission (AHRC) recommended that the Bill not pass in its then form.[^sma_ahrc]
+
+Under human rights law, a limitation on a right must be necessary and proportionate to a legitimate aim, which the AHRC treats as requiring the least restrictive option capable of achieving the purpose.[^sma_limits] The AHRC accepted that protecting children from harm associated with social media is a legitimate aim, consistent with art 17 of the _Convention on the Rights of the Child_, which contemplates guidelines protecting children from material injurious to their wellbeing.[^sma_crc]
+
+Its objection was to the means. The AHRC argued that social media provides young people with access to inclusion and to information that may be critical or life-saving, and that a blanket restriction is disproportionate to the aim. It identified tension with the rights recognised in arts 13 and 17 of the Convention — freedom of expression, and access to information from a diversity of sources. The UN Committee on the Rights of the Child has said that content moderation and controls should prevent harmful material reaching children rather than restrict children's access to information in the digital environment.[^sma_gc25]
+
+### Effect on vulnerable groups
+
+The effect of exclusion is not uniform across the affected age group. For LGBTQIA+ young people in particular, online spaces provide connection and a means of exploring identity that may not be available offline, where they may face marginalisation or lack of acceptance in families, schools and communities.[^sma_lgbtq] Those spaces carry real risks, including the cyberbullying and abuse documented earlier in this chapter. The difficulty is that the same platforms are the source of both the risk and the support, and a measure directed at the first necessarily removes the second.
+
+The scheme's effects will not be known until it has operated for some time. The Act requires the Minister to cause an independent review of the operation of pt 4A to be conducted within two years after the minimum age obligation took effect.[^sma_review]
+
+[^sma_commence]: _Online Safety Amendment (Social Media Minimum Age) Act 2024_ (Cth); _Online Safety Act 2021_ (Cth) pt 4A, [s 63E(2)](https://www.legislation.gov.au/C2021A00076/latest/text). The commencement date is fixed by a separate notifiable instrument: _Online Safety (Day of Effect of Social Media Minimum Age) Instrument 2025_ (Cth) [F2025N00628](https://www.legislation.gov.au/F2025N00628/asmade/text), which specifies 10 December 2025 as the day s 63D takes effect.
+
+[^sma_inmangrant]: Julie Inman Grant, 'Swimming between the Digital Flags: Helping Young Australians Navigate Social Media's Dangerous Currents' (Speech, Canberra, 24 June 2025).
+
+[^sma_pm]: Anthony Albanese, 'Australia Can Lead on Making Kids Safe' (Opinion, 1 December 2024) <https://www.pm.gov.au/media/australia-can-lead-making-kids-safe>.
+
+[^sma_kks]: eSafety Commissioner, _[Digital Use and Risk: Online Platform Engagement among Children Aged 10 to 15](https://www.esafety.gov.au/research/the-online-experiences-of-children-in-australia/report-digital-use-and-risk-among-children-aged-10-to-15)_ (Report, July 2025), reporting findings of eSafety's Keeping Kids Safe Online survey.
+
+[^sma_aihw]: Australian Institute of Health and Welfare, '[Mental Health of Young Australians](https://www.aihw.gov.au/getmedia/ba6da461-a046-44ac-9a7f-29d08a2bea9f/aihw-aus-240_chapter_8.pdf.aspx)' in _Australia's Health 2022: Data Insights_ (Report, 2022) ch 8, 263.
+
+[^sma_63c]: _Online Safety Act 2021_ (Cth) [s 63C(1)](https://www.legislation.gov.au/C2021A00076/latest/text). Paragraph 63C(1)(a) sets out four conditions, of which sub-paragraph (iv) is 'such other conditions (if any) as are set out in the legislative rules'.
+
+[^sma_rules4a]: _Online Safety (Age-Restricted Social Media Platforms) Rules 2025_ (Cth) s 4A, inserted by the _[Online Safety (Age-Restricted Social Media Platforms) Amendment Rules 2026](https://www.legislation.gov.au/F2026L00370/asmade/text)_ (Cth) F2026L00370 sch 1 item 1 (registered 25 March 2026, commenced the following day).
+
+[^sma_platforms]: eSafety Commissioner, '[Which Social Media Platforms Are Age-Restricted?](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions/which-platforms-are-age-restricted)' (Web Page). The list reflects eSafety's views as at 21 November 2025; it is not exhaustive, and other services have self-assessed as age-restricted.
+
+[^sma_rules]: _[Online Safety (Age-Restricted Social Media Platforms) Rules 2025](https://www.legislation.gov.au/F2025L00889/asmade/text)_ (Cth) s 5.
+
+[^sma_ageassurance]: eSafety Commissioner, _Age Assurance: Tech Trends and Issues_ (Report, 2024).
+
+[^sma_meta]: eSafety Commissioner, '[Information from Age-Restricted Platforms](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions/information-from-age-restricted-platforms)' (Web Page), collecting the age assurance methods published by each age-restricted platform.
+
+[^sma_trial]: Age Check Certification Scheme, _[Age Assurance Technology Trial — Part A: Main Report](https://ageassurance.com.au/wp-content/uploads/2025/08/AATT_Part_A_DIGITAL.pdf)_ (Report, August 2025) 17 ('Broad demographic consistency'), [A.25.5].
+
+[^sma_privacy]: _Online Safety Act 2021_ (Cth) pt 4A.
+
+[^sma_ahrc]: Australian Human Rights Commission, _Submission to the Senate Standing Committees on Environment and Communications: Online Safety Amendment (Social Media Minimum Age) Bill 2024_ (Submission, 22 November 2024) <https://humanrights.gov.au/our-work/legal/submission/social-media-ban>.
+
+[^sma_limits]: Australian Human Rights Commission, 'Permissible Limitations on Rights' (Web Page) <https://humanrights.gov.au/our-work/rights-and-freedoms/permissible-limitations-rights>.
+
+[^sma_crc]: _Convention on the Rights of the Child_, opened for signature 20 November 1989, 1577 UNTS 3 (entered into force 2 September 1990) arts 13, 17.
+
+[^sma_gc25]: Committee on the Rights of the Child, _General Comment No 25 (2021) on Children's Rights in Relation to the Digital Environment_, UN Doc CRC/C/GC/25 (2 March 2021).
+
+[^sma_lgbtq]: Tamoor Mirza, 'Balancing Risks and Resilience: Evaluating the Impact of Australia's Social Media Ban on Adolescent Mental Health' (2025) 33(4) _Australasian Psychiatry_ 768.
+
+[^sma_review]: _Online Safety Act 2021_ (Cth) [s 239B](https://www.legislation.gov.au/C2021A00076/latest/text): 'Within 2 years after the day section 63D takes effect in accordance with section 63E, the Minister must cause to be conducted an independent review of the operation of Part 4A', which must include consideration of the adequacy of privacy protections.
 
 # Regulating content in other jurisdictions
 
@@ -509,6 +776,56 @@ Canada's proposed Online Harms Bill 2024 takes a duty-based approach to platform
 This approach emphasises proactive obligations on platforms rather than reactive content removal, reflecting an emerging trend in online safety regulation.[^CanadaOnlineHarmsInfo]
 
 The Bill did not proceed. It lapsed when Parliament was prorogued in early 2025 following Justin Trudeau's resignation as Prime Minister, the second occasion on which an attempt to legislate on online harms in Canada has failed. The Government of Canada has since indicated that it intends to bring forward online harms legislation for a third time, with a revised approach that separates the criminal law measures from the platform duties and takes account of developments in generative artificial intelligence.[^CanadaOnlineHarmsReintroduction]
+
+### European Union
+
+**European Union.** The _Digital Services Act_ (DSA) is the European Union's framework for regulating online intermediaries. It entered into force in 2022 and became fully applicable in February 2024.[^dsa_reg] It replaces a patchwork of national rules with a single set of obligations applying directly to providers of intermediary services, online platforms and search engines offering services in the EU market.
+
+#### Structure
+
+The DSA imposes a tiered set of obligations. Baseline duties apply to all intermediary service providers, with progressively more demanding requirements for online platforms, and the most extensive requirements reserved for Very Large Online Platforms and Very Large Online Search Engines — those with more than 45 million average monthly recipients in the EU, approximately 10% of its population.[^dsa_vlop] The European Commission supervises the largest platforms directly; national Digital Services Coordinators oversee the remainder.
+
+#### Obligations
+
+All intermediary providers must be transparent about their terms of service and must operate notice and action mechanisms allowing users to report illegal content. Online platforms must additionally provide internal complaint-handling systems, give priority to reports from designated 'trusted flaggers', and suspend accounts that repeatedly post manifestly illegal content. Platforms must label advertising, and must not present targeted advertising to minors or advertising based on sensitive categories such as political opinion or sexual orientation.[^dsa_obligations]
+
+The largest platforms carry obligations of a different character. They must conduct annual assessments of systemic risks arising from the design and operation of their services — including risks to civic discourse and electoral processes, risks of gender-based violence, and risks to the protection of minors — and take mitigation measures, which may extend to changes to recommender systems and advertising practices. They are subject to independent audits of their compliance, and must give vetted researchers access to data for the study of systemic risks.[^dsa_vlopduties]
+
+The obligation to assess and mitigate risks arising from a platform's own design is the feature that most clearly distinguishes the DSA from the Australian scheme, which is directed principally at categories of harmful material and at removal after the fact.
+
+#### Enforcement
+
+The Commission may impose fines of up to 6% of a provider's global annual turnover. Temporary restriction of access to the service is available only by a separate route and on a much higher threshold: where an infringement persists and entails a criminal offence involving a threat to the life or safety of persons, the Digital Services Coordinator of establishment may ask the competent national judicial authority to order the temporary restriction of recipients' access to the service.[^dsa_enforcement]
+
+#### Reception
+
+The DSA is frequently cited as an instance of the 'Brussels effect', in which the size of the EU market causes regulatory standards adopted there to be applied more widely, because it is cheaper for global firms to operate a single compliance regime than several.[^dsa_brussels]
+
+Critics have argued that requiring platforms to act quickly against illegal content creates an incentive to over-remove, and so to restrict lawful expression.[^dsa_speech] Concerns have also been raised about the compliance burden on smaller platforms; the Commission has offered transitional exemptions to services newly designated as very large. Supporters argue that the transparency, audit and data access provisions address the influence of the largest platforms more directly than schemes limited to content removal.
+
+#### Related instruments
+
+The DSA operates alongside other EU instruments. The _Digital Markets Act_, also in force since 2022, imposes obligations on designated 'gatekeeper' platforms directed at contestability in digital markets rather than at content.[^dsa_dma] The _Audiovisual Media Services Directive_ sets standards for audiovisual media providers, including video-sharing platforms, with a focus on the protection of minors and the prohibition of incitement to violence or hatred.[^dsa_avmsd] The _Code of Practice on Disinformation_, introduced in 2018 and strengthened in 2022, began as a voluntary instrument. On 13 February 2025 the Commission and the European Board for Digital Services endorsed its integration into the DSA framework as a _Code of Conduct on Disinformation_.[^dsa_code]
+
+[^dsa_reg]: Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market for Digital Services (Digital Services Act) [2022] OJ L 277/1 <https://eur-lex.europa.eu/eli/reg/2022/2065/oj>.
+
+[^dsa_vlop]: Ibid art 33.
+
+[^dsa_obligations]: Ibid arts 14, 16, 20–23, 26, 28.
+
+[^dsa_vlopduties]: Ibid arts 34–37, 40.
+
+[^dsa_enforcement]: Ibid arts 74(1) (fines), 82(1) and 51(3)(b) (temporary restriction of access, on application by the Digital Services Coordinator to the competent judicial authority, where the infringement 'entails a criminal offence involving a threat to the life or safety of persons'); European Commission, 'The Enforcement Framework under the Digital Services Act' (Web Page) <https://digital-strategy.ec.europa.eu/en/policies/dsa-enforcement>.
+
+[^dsa_brussels]: Christian Odendahl, 'How Europe's New Digital Law Will Change the Internet', _The Economist_ (online, 24 August 2023) <https://www.economist.com/the-economist-explains/2023/08/24/how-europes-new-digital-law-will-change-the-internet>.
+
+[^dsa_speech]: Eliska Pirkova, 'The Digital Services Act: Your Guide to the EU's New Content Moderation Rules', _Access Now_ (online, 6 July 2022) <https://www.accessnow.org/digital-services-act-eu-content-moderation-rules-guide/>.
+
+[^dsa_dma]: Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on Contestable and Fair Markets in the Digital Sector (Digital Markets Act) [2022] OJ L 265/1.
+
+[^dsa_avmsd]: Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010 on Audiovisual Media Services, as amended by Directive (EU) 2018/1808.
+
+[^dsa_code]: European Commission, '[The Code of Conduct on Disinformation](https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation)' (Web Page): 'On 13 February 2025, the Commission and the European Board for Digital Services endorsed the integration of the 2022 Code of Practice on Disinformation as a Code of Conduct on Disinformation into the framework of the DSA.'
 
 [^UKOnlineSafetyAct]: United Kingdom, Department for Science, Innovation & Technology 'Guidance -- Online Safety Act: explainer' *Online Safety Act: explainer* (Web Page, 8 May 2024) <https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer#what-the-online-safety-act-does>.
 
@@ -603,6 +920,140 @@ The [EU Directive on combating violence against women and domestic violence](htt
 
 China has taken a comprehensive regulatory approach since 2019. The 'Regulations on the Administration of Networked Audiovisual Information Services' require disclosure when deepfake technology is used and prohibit unlabelled deepfake content.[^DeepfakeChina] The 2023 'Regulations on Deep Synthesis Management of Internet Information Service' extend controls throughout the deepfake lifecycle, requiring platforms to obtain consent before using individuals' likenesses and strengthen training data management.
 
+
+### Political deepfakes and disinformation
+
+Discussion of deepfakes has focused mainly on non-consensual sexual imagery. Synthetic media also presents a distinct set of problems in politics and elections, where the concern is not injury to an individual but the reliability of the information environment on which democratic participation depends.[^pdf_ray]
+
+#### Democratic risks
+
+Because political figures are extensively recorded, they are unusually easy subjects for synthetic media.[^pdf_ray2] Empirical work indicates that exposure to political deepfakes can reduce trust in media and in politicians,[^pdf_hameleers] and the principal harm has been characterised not as belief in any particular fabrication but as an erosion of epistemic trust — a general decline in the willingness to treat recorded evidence as reliable.[^pdf_dobber]
+
+One survey identified 82 political deepfakes across 38 countries between July 2023 and July 2024, 30 of which held elections during that period.[^pdf_insikt] Widely circulated examples include a fabricated video purporting to show President Zelenskyy announcing a surrender, and manipulated footage of Nancy Pelosi appearing impaired while speaking.[^pdf_pawelec]
+
+A related effect operates in the opposite direction. The 'liar's dividend' describes the advantage that accrues to a person who can dismiss authentic recordings as fabricated, once audiences accept that convincing fabrications are possible.[^pdf_liar]
+
+**Australia.** The Australian Electoral Commission's _Stop and Consider_ campaign encourages voters to check the source of electoral communications, including AI-generated material. Its reach is limited by the speed and anonymity with which manipulated content circulates.[^pdf_aec]
+
+#### The Australian legal framework
+
+There is no Australian offence or civil wrong directed specifically at political deepfakes. The conduct is addressed, if at all, indirectly.
+
+**Defamation.** Defamation proceedings have been brought in the New South Wales Supreme Court over a digitally altered image, although in that case the imputations that survived a pleading challenge were held to arise from the accompanying text rather than from the image,[^pdf_gilbert] and _Voller_ established that a party who facilitates publication may be a publisher for the purposes of defamation.[^pdf_voller] The 2023 reforms introduced a conditional exemption for certain digital intermediaries, and a defence for platforms that maintain an accessible complaints mechanism and act on notice, discussed in the [Intermediary Liability for Defamation](../intermediaries_defamation/) chapter. Defamation may therefore reach a political deepfake that damages reputation, but it protects reputation rather than the integrity of electoral information, and it does nothing where the target is not identifiable or not defamed.
+
+**Copyright.** Under the _Copyright Act 1968_ (Cth), only the owner of copyright or an exclusive licensee may sue for infringement.[^pdf_standing] A person depicted in a deepfake generally has no standing, since copyright protects the economic interests of rights holders rather than the dignity or reputation of the subject.[^pdf_talas] Where synthetic material reproduces a substantial part of a protected work, the rights holder may secure removal through the safe harbour notice scheme,[^pdf_safeharbour] and the person depicted may benefit incidentally. In the United States, a publisher used YouTube's copyright process to remove a deepfake depicting Kim Kardashian.[^pdf_conde] The protection is contingent on the accident of whether protected material was reproduced.
+
+**Online safety.** The _Online Safety Act 2021_ (Cth) empowers the eSafety Commissioner to require removal of non-consensual intimate images, including altered images.[^pdf_osa] The _Criminal Code Amendment (Deepfake Sexual Material) Act 2024_ (Cth) created offences for the transmission of sexual material depicting a person without consent, whether or not the material is artificially generated.[^pdf_deepfakeact] The focus remains on sexual harm; political disinformation falls outside it.
+
+The result is a fragmented framework in which political deepfakes are addressed only where they happen to coincide with an established cause of action.
+
+#### Other jurisdictions
+
+**European Union.** The _Artificial Intelligence Act_ requires that deep fakes be disclosed as artificially generated or manipulated, an obligation that extends to political content.[^pdf_euai]
+
+**China.** Labelling obligations extend to AI-generated media generally.[^pdf_china]
+
+**United States.** Several states have legislated against deceptive synthetic media in the period before an election.[^pdf_us] These laws have encountered legal difficulty on two distinct grounds. In October 2024 a federal court preliminarily enjoined most of California's AB 2839, holding that it was a content-based restriction that lacked the narrow tailoring and least restrictive means required under the First Amendment.[^pdf_kohls2024] In August 2025 the same court struck down a second Californian statute, AB 2655, on a different basis: the statute was preempted by s 230 of the _Communications Decency Act_, and the court considered it unnecessary to decide the First Amendment arguments.[^pdf_calif]
+
+#### Regulatory and constitutional constraints
+
+Regulation faces both practical and constitutional limits. The volume and speed of circulation, and the anonymity of those who create and distribute the material, make enforcement difficult. More fundamentally, any Australian measure directed at political disinformation would need to be compatible with the implied freedom of political communication, which requires that a burden on political communication be reasonably appropriate and adapted to a legitimate end.[^pdf_implied] The Californian litigation illustrates two distinct vulnerabilities: measures directed precisely at the political speech thought to be most harmful are the measures most exposed to constitutional challenge, and measures that operate by imposing obligations on platforms in respect of material posted by their users are additionally exposed to federal statutory preemption.
+
+[^pdf_ray]: Andrew Ray, 'Disinformation, Deepfakes and Democracies: The Need for Legislative Reform' (2021) 44(3) _University of New South Wales Law Journal_ 983, 984.
+
+[^pdf_ray2]: Ibid 986.
+
+[^pdf_hameleers]: Michael Hameleers, Toni G L A van der Meer and Tom Dobber, 'You Won't Believe What They Just Said! The Effects of Political Deepfakes Embedded as Vox Populi on Social Media' (2022) 8(3) _Social Media + Society_ (Article 20563051221116346) <https://doi.org/10.1177/20563051221116346>. The journal does not assign page numbers.
+
+[^pdf_dobber]: Tom Dobber et al, 'Do (Microtargeted) Deepfakes Have Real Effects on Political Attitudes?' (2021) 26(1) _International Journal of Press/Politics_ 69, 71.
+
+[^pdf_insikt]: Insikt Group, _Targets, Objectives, and Emerging Tactics of Political Deepfakes_ (Report, Recorded Future, 24 September 2024) <https://www.recordedfuture.com/research/targets-objectives-emerging-tactics-political-deepfakes>.
+
+[^pdf_pawelec]: Maria Pawelec, 'Deepfakes and Democracy (Theory): How Synthetic Audio-Visual Media for Disinformation and Hate Speech Threaten Core Democratic Functions' (2022) 1(2) _Digital Society_ 19.
+
+[^pdf_liar]: Kaylyn Jackson Schiff, Daniel S Schiff and Natália S Bueno, 'The Liar's Dividend: Can Politicians Claim Misinformation to Evade Accountability?' (2025) 119(1) _American Political Science Review_ 71.
+
+[^pdf_aec]: Susan Grantham, 'The AEC Wants to Stop AI and Misinformation. But It's Up against a Problem That Is Deep and Dark', _The Conversation_ (online, 3 February 2025) <https://theconversation.com/the-aec-wants-to-stop-ai-and-misinformation-but-its-up-against-a-problem-that-is-deep-and-dark-248773>.
+
+[^pdf_gilbert]: _Gilbert v Nationwide News Pty Ltd_ [2016] NSWSC 845 (McCallum J), an interlocutory ruling on objections to imputations, in which the surviving imputations were held to arise from 'the opening paragraphs of the editorial'. Contrast _Charleston v News Group Newspapers Ltd_ [1995] 2 AC 65, in which the plaintiffs, who complained of manipulated images, were unsuccessful.
+
+[^pdf_voller]: _Fairfax Media Publications Pty Ltd v Voller_ (2021) 273 CLR 346.
+
+[^pdf_standing]: _Copyright Act 1968_ (Cth) [ss 115(1)](https://www.legislation.gov.au/C1968A00063/latest/text) (owner), 119 (exclusive licensee).
+
+[^pdf_talas]: Ted Talas, 'Real or (Deep)fake? Responding to the Legal Challenges Created by the Emergence of Deepfakes' (2022) 38(7) _Privacy Law Bulletin_ 181, 181–2.
+
+[^pdf_safeharbour]: _Copyright Act 1968_ (Cth) pt V div 2AA.
+
+[^pdf_conde]: Talas (above) 181–2.
+
+[^pdf_osa]: _Online Safety Act 2021_ (Cth) pt 6.
+
+[^pdf_deepfakeact]: _Criminal Code Amendment (Deepfake Sexual Material) Act 2024_ (Cth) sch 1 items 5–6, substituting _Criminal Code_ ss 474.17A and 474.17B and inserting ss 474.17AA and 474.17AB.
+
+[^pdf_euai]: Regulation (EU) 2024/1689 (Artificial Intelligence Act) art 50(4).
+
+[^pdf_china]: _Provisions on the Administration of Deep Synthesis Internet Information Services_ (China, in force 10 January 2023); Toby Bond and Emma Ren, 'New AI Content Labelling Rules in China' (Bird & Bird, 20 May 2025) <https://www.twobirds.com/en/insights/2025/new-ai-content-labelling-rules-in-china-what-are-they-and-how-do-they-compare-to-the-eu-ai-act>.
+
+[^pdf_us]: _Defending Democracy from Deepfake Deception Act of 2024_ (California) AB 2655; Tex Elec Code Ann § 255.004(d).
+
+[^pdf_kohls2024]: _Kohls v Bonta_, 752 F Supp 3d 1187 (ED Cal, 2024) (preliminary injunction, 2 October 2024, in relation to AB 2839).
+
+[^pdf_calif]: The Conference Board, _Federal Judge Strikes Down California Deepfake Law_ (Newsletter, 7 August 2025) <https://www.conference-board.org/research/CED-Newsletters-Alerts/federal-judge-strikes-down-california-deepfake-law>, reporting that AB 2655 'violates Section 230 of the Communications Decency Act' and that the decision relied on federal preemption rather than addressing the First Amendment arguments, which the judge stated were 'not necessary'.
+
+[^pdf_implied]: _Lange v Australian Broadcasting Corporation_ (1997) 189 CLR 520; _McCloy v New South Wales_ (2015) 257 CLR 178.
+
+## AI voice agents and AI characters
+
+AI voice agents use speech recognition, natural language processing and generative models to hold spoken conversations. Depending on how they are configured, an agent may answer questions, complete transactions, make bookings, or hand a call to a person.
+
+AI characters are a related application designed to present a persona rather than to complete a task. The persona may be fictional, or may imitate a real person, and the service is generally offered for entertainment or companionship. Unlike task-oriented assistants, these systems are built to sustain an ongoing relationship: they retain the content of earlier conversations, express apparent emotional states, and adapt to the user over time.
+
+### Social context and potential harms
+
+The design features that make these systems engaging are also the source of the concerns raised about them. A character is available at any hour, responds consistently and affirmingly, and does not impose the friction present in relationships with other people. For some users — particularly children, and people who are isolated or unwell — that combination carries a risk of dependency, and of forming expectations about intimacy and consent that do not transfer to human relationships.
+
+Reporting and research have identified a second problem: services frequently lack effective age assurance or content safeguards, and characters have been documented responding permissively to sexual role-play initiated by minors, to disclosures of self-harm, and to violent content.[^aic_harms]
+
+These are not harms for which the existing content categories are well designed. The material is generated in a private exchange rather than published, it is produced in response to the user's own prompting, and it may not exist anywhere until the moment it is generated.
+
+### The Australian framework
+
+**Australia (Commonwealth).** Australia has no legislation directed specifically at AI systems. Conversational AI services are regulated as online content, principally under the _Online Safety Act 2021_ (Cth), through the schemes described earlier in this chapter — cyberbullying, adult cyber abuse, image-based abuse, and the online content scheme for illegal and restricted material.
+
+The Basic Online Safety Expectations, made under s 45 of the Act, require providers of covered services to take reasonable steps to ensure that end-users are able to use the service in a safe manner, and were amended in 2024 to address generative artificial intelligence expressly.[^aic_bose] The _Privacy Act 1988_ (Cth) governs the collection, use and disclosure of personal information by these services, including the conversational data they retain.
+
+In place of binding AI-specific regulation, Australia has adopted Australia's AI Ethics Principles, a voluntary framework providing that AI systems should benefit individuals, society and the environment; respect human rights, diversity and individual autonomy; be inclusive and accessible and avoid unfair discrimination; uphold privacy and data security; be transparent, so that people can tell when AI is affecting them; be contestable, so that a person significantly affected has a means of challenge; and be accompanied by accountability on the part of those responsible for the system.[^aic_ethics] The principles are not enforceable.
+
+### Open questions
+
+The absence of a specific framework leaves a number of questions unresolved:
+
+- Where a character elicits or encourages harmful conduct that results in injury, how is responsibility allocated between the developer of the model, the operator of the service, and the user who configured the character?
+- Where a character imitates a real person without consent, which existing cause of action applies — passing off, defamation, copyright, or the statutory tort for serious invasions of privacy?
+- What remedy is available to a person harmed psychologically or socially by a service of this kind?
+- How can protections for users at risk of dependency be designed without restricting access for others on the basis of assumed vulnerability?
+- How should services with therapeutic or educational purposes be distinguished from those the framework is intended to restrict?
+
+### International approaches
+
+**European Union.** The _Artificial Intelligence Act_ classifies AI systems by risk, prohibiting a defined set of unacceptable practices including manipulative techniques that materially distort behaviour, and social scoring. The social scoring prohibition is not limited to public authorities: it applies to the placing on the market, putting into service or use of AI systems for the evaluation or classification of natural persons based on their social behaviour, whether by public or private actors.[^aic_euact] Systems intended to interact directly with natural persons are subject to transparency obligations: users must be informed that they are interacting with an AI system unless that is obvious, and synthetic audio, image and video content must be marked as artificially generated.[^aic_euart50] Obligations of the high-risk regime attach to the uses listed in the Act rather than to conversational systems as a class.
+
+**China.** The _Provisions on the Administration of Deep Synthesis Internet Information Services_, in force since January 2023, require conspicuous labelling of synthetically generated content, prohibit the cloning of a person's voice or likeness without consent, require providers to verify the real identity of users, and require services to monitor for and act on unlawful content and to operate complaint mechanisms.[^aic_china]
+
+Both frameworks place binding obligations on developers and operators and require disclosure of artificiality at the point of interaction. Australia's approach relies on general online safety obligations supplemented by voluntary principles, which leaves the specific risks presented by persistent, personalised AI companions largely unaddressed.
+
+[^aic_harms]: See, eg, eSafety Commissioner, 'AI Chatbots and Companions — Risks to Children and Young People' (Web Page) <https://www.esafety.gov.au/newsroom/blogs/ai-chatbots-and-companions-risks-to-children-and-young-people>.
+
+[^aic_bose]: _Online Safety (Basic Online Safety Expectations) Determination 2022_ (Cth), made under _Online Safety Act 2021_ (Cth) s 45; _[Online Safety (Basic Online Safety Expectations) Amendment Determination 2024](https://www.legislation.gov.au/F2024L00590/asmade/text)_ (Cth).
+
+[^aic_ethics]: Department of Industry, Science and Resources, 'Australia's AI Ethics Principles' (Web Page) <https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles>.
+
+[^aic_euact]: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) [2024] OJ L 1689 arts 5(1)(a)–(b), 5(1)(c) <https://eur-lex.europa.eu/eli/reg/2024/1689/oj>.
+
+[^aic_euart50]: Ibid art 50.
+
+[^aic_china]: _Provisions on the Administration of Deep Synthesis Internet Information Services_ (China, in force 10 January 2023).
 
 ## Misinformation and Disinformation
 
@@ -699,7 +1150,7 @@ eSafety Commissioner in making determinations about what may be
 
 [^DeepfakeNSW]: _Crimes Act 1900_ (NSW) [s 91N](http://www5.austlii.edu.au/au/legis/nsw/consol_act/ca190082/s91n.html) (definition of 'intimate image'), ss 91P–91R; Tom Gotsis, _Sexually Explicit Deepfakes and the Criminal Law in NSW_ (Research Paper, NSW Parliamentary Research Service, April 2025).
 
-[^DeepfakeAct]: _[Criminal Code Amendment (Deepfake Sexual Material) Act 2024](https://www.legislation.gov.au/C2024A00078/asmade/text)_ (Cth) sch 1 items 5–6, inserting _Criminal Code_ ss 474.17A, 474.17AA and 474.17AB.
+[^DeepfakeAct]: _[Criminal Code Amendment (Deepfake Sexual Material) Act 2024](https://www.legislation.gov.au/C2024A00078/asmade/text)_ (Cth) sch 1 items 5–6, substituting _Criminal Code_ ss 474.17A and 474.17B and inserting ss 474.17AA and 474.17AB.
 
 [^DeepfakeCriticism]: Billi Fitzsimmons, 'A Victorian teen has been arrested after fake nudes of 50 school girls were shared online' *The Daily Aus* (online, 13 June 2024) < https://www.newsletter.thedailyaus.com.au/p/teen-arrested-fake-ai-images>.
 

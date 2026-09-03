@@ -129,6 +129,14 @@ a communication passing over a telecommunications system.
 
 ### 474.17   Using a carriage service to menace, harass or cause offence
 
+### 474.22, 474.23   Child abuse material offences
+
+These offences are dealt with at [Child abuse material](#child-abuse-material) below.
+
+### 474.26, 474.27   Using a carriage service to procure or groom a child
+
+These offences are dealt with at [Grooming](#grooming) below.
+
 # Cyberstalking: Technology-Facilitated Abuse
 
 **Video: Sarah Lawrence explains [how Section 359B of Queensland's Criminal Code regulates cyberstalking](https://www.youtube.com/watch?v=SeEPjsLyGso)**
@@ -152,6 +160,87 @@ Other studies have found that the use of tracking apps in mobile devices, such a
 In New South Wales, cyberstalking offences are provided for under section 13 of the _Crimes (Domestic and Personal Violence) Act 2007_ (NSW) (CDVP), as they are often found to relate to "stalking or intimidation with the intent to cause fear of physical or mental harm", and section 7 of the _Online Safety Act 2021_ (Cth) (OSA). An offence under section 13 of the CDVP may also need to satisfy the provisions or definitions under the OSA to succeed in court.
 
 
+
+# Child Sexual Exploitation Online
+
+Two distinct forms of conduct are dealt with here: grooming, which is the process by which an offender establishes access to a child, and child abuse material, which is the record of abuse and the principal subject of enforcement activity. Both are addressed by Commonwealth carriage service offences and by State and Territory offences, and both intersect with the online safety scheme discussed in the [Content Regulation and Online Classification](../content/) chapter.
+
+## Grooming
+
+'Grooming' describes conduct by which an adult builds a relationship with a child — and often with the child's family and support network — in order to perpetrate sexual abuse. The behaviours are frequently unremarkable in isolation and can include building trust through gifts, isolating the child from other adults, and introducing sexualised material. The Royal Commission into Institutional Responses to Child Sexual Abuse identified the purposes of this conduct as making the child accessible, securing compliance, maintaining silence, and avoiding discovery.[^cse_rc]
+
+Online grooming is grooming conducted through communications services, whether to enable abuse in person or to obtain material from the child directly. Messaging services, social platforms and games are facilitative because they provide access to the child without an intermediary adult's knowledge, and allow the offender to misrepresent who they are.
+
+### Prevalence
+
+The Australian Centre to Counter Child Exploitation (ACCCE) recorded 58,503 reports of online child abuse in the 2023–24 financial year, a 45% increase on the previous financial year's total of 40,232 reports.[^cse_accce]
+
+Contextual data on children's use of online services is relevant to exposure. eSafety research found that 95% of 13 to 15 year olds and 80% of 8 to 12 year olds had used at least one social media service, notwithstanding platform terms restricting accounts to users aged 13 and over.[^cse_behind] Earlier research found that 55% of Australians aged 8 to 17 had communicated with someone they first met online, and 12% had met such a person in person.[^cse_mindgap]
+
+### Commonwealth offences
+
+**Australia (Commonwealth).** Grooming is an offence in its own right, whether or not sexual abuse follows. Under s 474.27 of the _Criminal Code Act 1995_ (Cth), it is an offence for a person aged 18 or over to use a carriage service to groom a person under 16, with a maximum penalty of 15 years' imprisonment.[^cse_47427] A 'carriage service' is a service for carrying communications by guided or unguided electromagnetic energy, which includes social media messaging: in _R v Lidden_ the offender was convicted under s 474.27(1) in respect of messages sent through Facebook Messenger.[^cse_lidden]
+
+Related offences in the same subdivision include s 474.26 (using a carriage service to procure a child under 16) and s 474.27A (using a carriage service to transmit indecent communication to a child under 16).
+
+### New South Wales offences
+
+**New South Wales.** Section 66EB(3) of the _Crimes Act 1900_ (NSW) makes it an offence for a person aged 18 or over to expose a child under 16 to indecent material, an intoxicating substance, or a financial or material benefit, with the intention of making it easier to procure the child for unlawful sexual activity. The maximum penalty is 12 years' imprisonment where the child is under 14, and 10 years otherwise.[^cse_66eb]
+
+## Child abuse material
+
+### Definitions and offences
+
+**Australia (Commonwealth).** The principal carriage service offences are s 474.22, which covers accessing, transmitting, publishing, distributing, advertising or soliciting child abuse material using a carriage service, and s 474.23, which covers possessing, controlling, producing, supplying or obtaining such material for use through a carriage service. Each carries a maximum penalty of 15 years' imprisonment.[^cse_47422]
+
+**New South Wales.** Section 91FB of the _Crimes Act 1900_ (NSW) defines child abuse material as material that depicts or describes, in a way that reasonable persons would regard as being in all the circumstances offensive, a person who is, appears to be, or is implied to be, a child: as a victim of torture, cruelty or physical abuse; engaged in or apparently engaged in a sexual pose or sexual activity; in the presence of another person who is engaged or apparently engaged in a sexual pose or sexual activity; or whose private parts are depicted or described. 'Child' is defined in s 91FA as a person under the age of 18 years.[^cse_91fb] Production, dissemination and possession offences are in s 91H.[^cse_91h]
+
+### Enforcement
+
+Enforcement is coordinated across agencies. The ACCCE brings together the Australian Federal Police and partner agencies, working alongside State arrangements including the Joint Child Protection Response Programme and specialist units such as Queensland's Task Force Argos.
+
+The ACCCE reported that in 2022–23 it received 40,232 reports, that the AFP made 186 arrests resulting in 925 child exploitation related charges, that 141 victims were identified, and that 120 children were removed from harm.[^cse_stats]
+
+{: .example }
+> **A multi-agency prosecution (2025)**
+>
+> Following a search warrant executed at his home on 25 September 2024 and a further arrest on 11 October 2024, the Australian Federal Police charged a 26-year-old man over alleged offending against ten children aged six and under at out-of-school-hours care services in Sydney. He has been remanded in custody since 12 October 2024. Non-publication orders over the investigation were revoked in July 2025, when the AFP made public the charges laid and the maximum penalties, which were: nine counts of aggravated use of a child under 14 to produce child abuse material under s 91G(3) of the _Crimes Act 1900_ (NSW) (20 years); one count under s 91G(1)(a) (14 years); two counts of possessing child abuse material under s 91H(2) (10 years); and one count of failing to comply with an order to provide access to a device under s 3LA(6) of the _Crimes Act 1914_ (Cth) (10 years).[^cse_afp]
+>
+> The last charge is the notable one for present purposes. Section 3LA allows a magistrate to order a person to assist in accessing data on a seized device, and non-compliance is itself an offence. It is the mechanism by which the encryption of a device is addressed in the ordinary course of an investigation, and it sits alongside the industry assistance framework discussed in the [Privacy and Surveillance](../privacy/#law-enforcement-powers) chapter.
+
+### Interaction with the online safety scheme
+
+Child abuse material is class 1 material for the purposes of the online content scheme under the _Online Safety Act 2021_ (Cth), and is subject to the removal notice regime described in the [Content Regulation and Online Classification](../content/#online-content-scheme) chapter. The industry codes and standards registered under Part 9 of that Act impose obligations on services to take steps against this material at the systems level, rather than item by item.
+
+The statutory review of the _Online Safety Act_ recommended the adoption of an overarching duty of care, and that harms to children — including grooming — be identified for particular attention in any reform.[^cse_review] The _Online Safety Act_ does not currently address grooming as a distinct category.
+
+The minimum age obligations that commenced in December 2025 are relevant but not directed at this problem: they require services to take reasonable steps to prevent under-16s from holding accounts, and are enforced against providers rather than against children or parents. Online games and some messaging services are excluded from those obligations, so the services on which grooming most often occurs are not uniformly covered.
+
+[^cse_rc]: _Royal Commission into Institutional Responses to Child Sexual Abuse_ (Final Report, December 2017) vol 2, 40.
+
+[^cse_accce]: Australian Federal Police, 'Reports of Child Exploitation to AFP-led ACCCE Increase 45% in Past Financial Year' (Media Release, 2 September 2024) <https://www.afp.gov.au/news-centre/media-release/reports-child-exploitation-afp-led-accce-increase-45-past-financial-year>.
+
+[^cse_behind]: eSafety Commissioner, _Behind the Screen: The Reality of Age Assurance and Social Media Access for Young Australians_ (Transparency Report, February 2025).
+
+[^cse_mindgap]: eSafety Commissioner, _Mind the Gap: Parental Awareness of Children's Exposure to Risks Online_ (Report, February 2022).
+
+[^cse_47427]: _Criminal Code Act 1995_ (Cth) s 474.27.
+
+[^cse_lidden]: _R v Lidden_ [2024] ACTSC 297.
+
+[^cse_66eb]: _Crimes Act 1900_ (NSW) s 66EB(3).
+
+[^cse_47422]: _Criminal Code Act 1995_ (Cth) ss 474.22, 474.23. See also ss 474.22A, 474.24A.
+
+[^cse_91fb]: _Crimes Act 1900_ (NSW) s 91FB.
+
+[^cse_91h]: _Crimes Act 1900_ (NSW) s 91H.
+
+[^cse_stats]: Australian Federal Police and Australian Centre to Counter Child Exploitation, _2022–23 Highlights_ <https://www.accce.gov.au/sites/default/files/2023-09/ACCCE%20achievements%2022-23.pdf>.
+
+[^cse_afp]: Australian Federal Police, 'Sydney Man Charged with Allegedly Producing Child Abuse Material at Six Out-of-School Hours Care Services' (Media Release, 31 July 2025) <https://www.afp.gov.au/news-centre/media-release/sydney-man-charged-allegedly-producing-child-abuse-material-six-out>.
+
+[^cse_review]: Delia Rickard PSM, _Report of the Statutory Review of the Online Safety Act 2021_ (Report, October 2024) recs 4–5.
 
 # Private Law: Electronic Contracts
 

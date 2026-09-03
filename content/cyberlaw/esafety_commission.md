@@ -13,36 +13,109 @@ nav_order: 91
 1. Table of Contents
 {:toc}
 
-{: .help }
-> Video unavailable. Please help by creating a new video.
+## Origins and expansion of the office
 
+**Australia (Commonwealth).** The office originated with the _Enhancing Online Safety for Children Act 2015_ (Cth), which established an independent Office of the Children's eSafety Commissioner.[^es_2015] The Commissioner was given the powers necessary to perform its functions, which related principally to the online safety of Australian children.[^es_functions] Its central function was administering a tiered complaints scheme providing for the rapid removal of cyber-bullying material targeted at an Australian child.[^es_object]
 
+In 2017 the Act was amended and renamed, extending the Commissioner's remit from children to all Australians.[^es_2017] Between 2017 and 2021 the _Enhancing Online Safety Act 2015_ (Cth) was amended further, expanding the Commissioner's powers.[^es_endnote] By 2021 the office administered not only the cyber-bullying complaints scheme but also functions relating to online content and to the non-consensual sharing of intimate images.[^es_eosa3]
 
-The _Enhancing Online Safety for Children Act 2015_ created the independent Office of the Children’s eSafety Commissioner.[^safety14] The Commissioner enforces the 2-tiered scheme as provided for by the Act, which exists for “the rapid removal from social media services of cyber-bullying material targeted at an Australian child.”[^safety20] “Cyber-bullying material targeted at an Australian child” is held to the standard of whether a reasonable person would think that it was directed towards an Australian child and whether it would be “seriously threatening, seriously intimidating, seriously harassing or seriously humiliating the Australian child.”[^safety5]
+The _Online Safety Act 2021_ (Cth) replaced that framework[^es_transitional] and commenced in 2022.[^es_osa_commence] It consolidated the Commissioner's functions and added others, including the content removal schemes, the Basic Online Safety Expectations, the abhorrent violent material provisions, and — more recently — the social media minimum age obligations.[^es_osa4] Those schemes are described in the [Content Regulation and Online Classification](../content/) chapter.
 
-Parliament stated their intentions that they expect “each social media service will comply with the basic online safety requirements.”[^safety22]  The system affects the behaviour of end-users both directly and through intermediaries (social media sites). Social media services are affected on a two tier system, with the essential difference in enforcement being that tier 2 services may have action taken against them by the Commissioner.[^rozario] The Act also may be used to target end-users who are deemed to have targeted an Australian child with cyber-bullying material through the use of an end-user notice with a number of consequences including removal of the material, refraining from posting such material and apologising.[^safety41]
+## Statutory review of the Online Safety Act
 
-[^safety41]: _Enhancing Online Safety for Children Act 2015_, s 41.  
-[^rozario]: M do Rozario and A Kogekar, _Australia’s New Cyber-Bullying Watchdog_ (17 April 2015) Corrs Chambers Westgarth http://www.corrs.com.au/publications/corrs-in-brief/australias-new-cyber-bullying-watchdog/.
-[^safety14]: _Enhancing Online Safety for Children Act 2015_, s 14.
-[^safety5]: _Enhancing Online Safety for Children Act 2015_, s 41.  
-[^safety22]: _Enhancing Online Safety for Children Act 2015_, s 41.  
-[^safety20]: _Enhancing Online Safety for Children Act 2015_, s 41.  
+Section 239A of the _Online Safety Act 2021_ (Cth) requires the Minister to ensure that a review of the Act's operation is undertaken, and a report prepared, within three years of commencement.[^es_239a]
 
-## Online Safety Act 2021 and Statutory Review
+The Government announced the review on 22 November 2023, bringing it forward by a year.[^es_announce] An issues paper was released in April 2024 to support public submissions, directed at five topics:[^es_issues]
 
-The _Enhancing Online Safety for Children Act 2015_ was subsequently replaced by the _Online Safety Act 2021_ (Cth), which expanded the eSafety Commissioner's powers beyond protecting children to include all Australians. The 2021 Act broadened the regulatory framework to address a wider range of online harms including adult cyber-abuse, non-consensual sharing of intimate images, and seriously harmful online content.
+1. Australia's regulatory approach to online services, systems and processes;
+2. protecting those who have experienced or encountered online harms;
+3. penalties, and investigation and information-gathering powers;
+4. international approaches to addressing online harms; and
+5. regulating the online environment in the face of technological change.
 
-### Statutory Review of the Online Safety Act
+The independent review was completed on 31 October 2024 and the final report was tabled in February 2025.[^es_tabled] It made 67 recommendations.[^es_report]
 
-The Online Safety Act 2021 (Cth) includes a statutory requirement for review within three years of commencement. The Issues Paper for this review was released in April 2024, with public consultation closing on 21 June 2024.
+### A digital duty of care
 
-The review examines five key areas:
+The review's principal recommendation was the introduction of a digital duty of care, shifting responsibility for preventing foreseeable online harm from end-users to service providers.[^es_dutyrec] Providers would be required to assess the risks their services create and to exercise due diligence in addressing them, with an emphasis on prevention through system design, on mitigation measures, and on transparency reporting.[^es_dutydesign]
 
-1. Australia's regulatory approach to online systems, services and processes
-2. Protection of individuals experiencing online harms
-3. Penalties, investigative and information gathering powers
-4. Global strategies for addressing online harms
-5. Regulating digital environments amid technological change
+The argument for the change is that the existing model is reactive: it depends on a person who has already been harmed identifying the material, reporting it, and seeking its removal, which places the burden on the individual least able to bear it. A duty directed at systems places it instead on the party able to change how the service operates.[^es_dutyrationale] An analysis by Elit Lawyers suggests that the duty would simplify compliance and reduce costs for digital platforms.[^es_dutysimplify]
 
-This review process provides an opportunity to assess the Act's effectiveness in addressing evolving online safety challenges and ensure the regulatory framework remains fit for purpose.
+The Government committed to legislating a digital duty of care.[^es_govtcommit] The proposal is discussed further at [A duty of digital care in Australia](../content/#a-duty-of-digital-care-in-australia).
+
+{: .warning}
+> A digital duty of care has been recommended and announced but not enacted. This section describes the recommendation and the Government's response, not operative law.
+
+### Powers and enforcement
+
+Further recommendations address the Commissioner's powers, with a focus on strengthening investigative and information-gathering functions to support enforcement.[^es_powers] The review proposed higher penalties for non-compliance,[^es_penalties] and changes to streamline and strengthen the existing take-down schemes.[^es_takedown] In relation to the proposed duty of care, it recommended that the Commissioner be able to make mandatory compliance codes, rather than relying solely on industry-led code development.[^es_codes]
+
+### A commission model
+
+The review recommended that the office move from a single Commissioner to a commission structure with collective decision-making, on the basis that its functions have grown well beyond what the original design contemplated.[^es_commission] The proposed body would be independent and accountable, with the range of expertise its functions now require.[^es_commission2] The Commission would initially comprise a chair, a deputy chair and a commissioner, with flexibility in the legislation to appoint up to nine members as the regulator's functions and powers grow.[^es_composition] Separately, the review identified a standalone, independent regulator as the ideal end state, recommending that the office transition to one once its functions under a new framework have been settled.[^es_standalone]
+
+### Simplifying the regulatory framework
+
+The review recommended clearer definitions of the actors subject to regulation and of the harms addressed.[^es_simplify] It proposed moving away from classifications based on the service provided to end-users, towards role-based categories: online platforms; online search and app distribution services; online infrastructure services; and equipment and operating system services.[^es_roles]
+
+It also recommended decoupling the _Online Safety Act_ from the National Classification Scheme, on the basis that classification standards developed for professionally produced content are not well suited to user-generated material.[^es_decouple] The relationship between the two schemes is described at [Content classification in Australia](../content/#content-classification-in-australia).
+
+[^es_2015]: _Enhancing Online Safety for Children Act 2015_ (Cth) s 14.
+
+[^es_functions]: _Enhancing Online Safety for Children Act 2015_ (Cth) ss 15, 16.
+
+[^es_object]: _Enhancing Online Safety for Children Act 2015_ (Cth) s 3.
+
+[^es_2017]: _Enhancing Online Safety for Children Amendment Act 2017_ (Cth) sch 1.
+
+[^es_endnote]: _Enhancing Online Safety Act 2015_ (Cth) endnote 3.
+
+[^es_eosa3]: _Enhancing Online Safety Act 2015_ (Cth) s 3.
+
+[^es_transitional]: _Online Safety (Transitional Provisions and Consequential Amendments) Act 2021_ (Cth) sch 1 item 1; eSafety Commissioner, 'What We Do' (Web Page) <https://www.esafety.gov.au/about-us/what-we-do>.
+
+[^es_osa_commence]: _Online Safety Act 2021_ (Cth) s 2 (table item 1).
+
+[^es_osa4]: _Online Safety Act 2021_ (Cth) s 4.
+
+[^es_239a]: _Online Safety Act 2021_ (Cth) s 239A.
+
+[^es_announce]: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts, 'Report of the Statutory Review of the Online Safety Act 2021' (Web Page, 4 February 2025) <https://www.infrastructure.gov.au/department/media/publications/report-statutory-review-online-safety-act-2021>.
+
+[^es_issues]: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts, 'Statutory Review of the Online Safety Act 2021' (Web Page) <https://www.infrastructure.gov.au/have-your-say/statutory-review-online-safety-act-2021>.
+
+[^es_tabled]: Michelle Rowland, 'Report of the Online Safety Act Review Released' (Media Release, 4 February 2025) <https://minister.infrastructure.gov.au/rowland/media-release/report-online-safety-act-review-released>.
+
+[^es_report]: Delia Rickard PSM, _Report of the Statutory Review of the Online Safety Act 2021_ (Report, October 2024) <https://www.infrastructure.gov.au/sites/default/files/documents/report-of-the-statutory-review-of-the-online-safety-act-2021-february-2025.pdf>.
+
+[^es_dutyrec]: Ibid 12, 50.
+
+[^es_dutydesign]: Rickard (above) 51 (Recommendations 4, 6, 10).
+
+[^es_dutyrationale]: Rickard (above) 50.
+
+[^es_dutysimplify]: Danielle Snell, Robert McGirr and Kieran Bull, 'Online Safety Act 2021 Statutory Review', _Elit Lawyers_ (Web Page, 3 April 2025) <https://elitlaw.com.au/online-safety-act-2021-statutory-review/>.
+
+[^es_govtcommit]: Michelle Rowland, 'New Duty of Care Obligations on Platforms Will Keep Australians Safer Online' (Media Release, 14 November 2024) <https://minister.infrastructure.gov.au/rowland/media-release/new-duty-care-obligations-platforms-will-keep-australians-safer-online>.
+
+[^es_powers]: Rickard (above) 16–17, 149.
+
+[^es_penalties]: Rickard (above) 23, 137–138 (Recommendations 34–35).
+
+[^es_takedown]: Rickard (above) 77, 79 (Recommendations 15–16), 103 (Recommendation 25).
+
+[^es_codes]: Rickard (above) 62 (Recommendation 9).
+
+[^es_commission]: Rickard (above) 19, 169–171.
+
+[^es_commission2]: Rickard (above) 171 (independence), 172–174 (Recommendations 60–61).
+
+[^es_composition]: Rickard (above) 19, 169, 172, 174 (Recommendation 59).
+
+[^es_standalone]: Rickard (above) 19, 177–178 (Recommendation 62).
+
+[^es_simplify]: Rickard (above) 11–12, 14.
+
+[^es_roles]: Rickard (above) 39, 41 (Recommendation 2).
+
+[^es_decouple]: Rickard (above) 16, 119–121.
