@@ -5,31 +5,29 @@ nav_order: 99
 parent: Australian IP Law
 ---
 
-
-
-
-
 # Credits
+
 {: .no_toc }
 
 1. Table of Contents
-{:toc}
+   {:toc}
 
 Please add your details below so that we can properly acknowledge your work.
 
 Academic contributions:
 
-* Nicolas Suzor (QUT)
-* Kylie Pappalardo (QUT)
-* Jessica Thiel (QUT)
-* Amanda Scardamaglia (Swinburne)
-* Jay Sanderson (USC)
+- [Nicolas Suzor](https://nic.suzor.net) (QUT)
+- [Kylie Pappalardo](https://staff.qut.edu.au/staff/k.pappalardo/) (QUT)
+- Jessica Thiel (QUT)
+- Amanda Scardamaglia (Swinburne)
+- Jay Sanderson (USC)
+- [Marie Hadley](https://mariehadley.com/) (UoN)
 
 Cover design: [Yerai Ibarria](https://www.fiverr.com/yeraiibarria)
 
 We are very grateful for contributions from students and members of the public, including:
 
-* James Burke
+- James Burke
 
 Thanks to edits from:
 
@@ -43,10 +41,10 @@ Thanks to edits from:
 
 The textbook also includes material from:
 
-* Wikipedia (CC BY-SA)
-* http://cyber.law.harvard.edu/copyrightforlibrarians/Main_Page  (CC BY)
-* http://itlaw.wikia.com/wiki/The_IT_Law_Wiki  (CC BY SA)
-* http://www.teachingcopyright.org/curriculum/hs  (CC BY)
-* http://pad.p2pu.org/p/school-of-open-resources
+- Wikipedia (CC BY-SA)
+- http://cyber.law.harvard.edu/copyrightforlibrarians/Main_Page (CC BY)
+- http://itlaw.wikia.com/wiki/The_IT_Law_Wiki (CC BY SA)
+- http://www.teachingcopyright.org/curriculum/hs (CC BY)
+- http://pad.p2pu.org/p/school-of-open-resources
 
 Staff of the University of Sydney material available for use under a CC0 Creative Commons waiver and fallback licence (CC0 1.0).
