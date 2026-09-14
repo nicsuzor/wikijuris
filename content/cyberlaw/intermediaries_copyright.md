@@ -534,7 +534,7 @@ The design of that mechanism is the point of interest. Because the panel cannot 
 
 No platform has been designated. The prospect of designation, and of the arbitration that would follow, was sufficient to bring the major platforms to negotiate: Google and Meta entered commercial agreements with a range of Australian news organisations, from the largest publishers to smaller independent outlets.[^nmbc_treasury] This is the sense in which the Code operates in the shadow of the law: its effects have been produced almost entirely by the threat of its operation rather than by its application.
 
-The response was not uniform. In February 2021, while the Bill was before Parliament, Meta restricted the sharing and viewing of Australian news content on Facebook, a restriction it reversed after amendments were agreed. Meta has since indicated that it does not intend to renew its Australian agreements, which raises the question of what the Code can achieve against a platform that is willing to withdraw from carrying news altogether.
+The response was not uniform. In February 2021, while the Bill was before Parliament, Meta restricted the sharing and viewing of Australian news content on Facebook, a restriction it reversed after amendments were agreed. In February 2024 Meta announced that it would discontinue Facebook News in Australia and would not renew the commercial agreements underpinning it once they expired,[^nmbc_meta] which raises the question of what the Code can achieve against a platform that is willing to withdraw from carrying news altogether.
 
 ### Assessment and influence
 
@@ -551,3 +551,5 @@ Two criticisms recur. The first is distributional: the benefits are said to accr
 [^nmbc_transparency]: Australian Treasury, _News Media and Digital Platforms Mandatory Bargaining Code: The Code's First Year of Operation_ (Report, November 2022) 8, 10 <https://treasury.gov.au/sites/default/files/2022-11/p2022-343549.pdf>.
 
 [^nmbc_canada]: _Online News Act_, SC 2023, c 23 (Canada).
+
+[^nmbc_meta]: Joint Select Committee on Social Media and Australian Society, Parliament of Australia, _Second Interim Report: Digital Platforms and the Traditional News Media_ (Report, October 2024) ch 3 [3.20] <https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Social_Media_and_Australian_Society/SocialMedia/Second_interim_report/Chapter_3_-_News_Media_Bargaining_Code>; Meta, 'An Update on Facebook News' (Newsroom Post, 29 February 2024) <https://about.fb.com/news/2024/02/update-on-facebook-news-us-australia/>.

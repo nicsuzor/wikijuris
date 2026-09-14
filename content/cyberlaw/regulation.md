@@ -97,7 +97,7 @@ The system for blocking websites is not wholly effective. It turned out to be ea
 
 The Newzbin case study illustrates how regulating online content and behaviour can be an extremely difficult task. By cutting off the flow of money, the rightsholder groups were eventually successful in shutting down Newzbin. However, this took a lot of time and effort, and there is a good chance that many users of the service simply moved to newer, better hidden infringement networks. Overall, the copyright industry has had some succes in tackling large copyright infringers, but this is an ongoing arms race, as infringers continue to find ways around the regulations.
 
-#### A Case Study: Social Media Minimum Age Legislation
+### A Case Study: Social Media Minimum Age Legislation
 
 In December 2024 the _Online Safety Amendment (Social Media Minimum Age) Act 2024_ (Cth) inserted Part 4A into the _Online Safety Act 2021_ (Cth), requiring age-restricted social media platforms to take reasonable steps to prevent Australians under 16 from holding accounts. The obligation commenced on 10 December 2025.[^barlow_sma] The scheme is described in detail in the [Content Regulation and Online Classification](../content/#social-media-minimum-age) chapter.
 

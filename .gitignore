@@ -5,3 +5,4 @@ public
 .jekyll-metadata
 vendor
 Gemfile.lock
+.DS_Store
